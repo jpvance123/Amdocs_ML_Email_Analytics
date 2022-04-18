@@ -1,0 +1,2892 @@
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <3536347.1075860045168.JavaMail.evans@thyme>
+Date: Thu, 24 Feb 2000 01:23:00 -0800 (PST)
+From: dale.neuner@enron.com
+To: mark.taylor@enron.com, jeff.blumenthal@enron.com, sony.wilson@enron.com
+Subject: Refinery Grade Propylene
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Dale Neuner
+X-To: Mark Taylor, Jeff Blumenthal, Sony Wilson
+X-cc: 
+X-bcc: 
+X-Folder: \Mark_Taylor _Dec_2000\Notes Folders\Online trading\Product descriptions
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+Please go into the Data Manager in Enron Online and review/approve the new 
+Plastics Product Type.
+
+The long description is as follows:
+
+A US Plastics financial Swap Transaction with Enron North America Corp. for 
+refinery grade propylene under 
+which the Seller pays a Floating Price and the Buyer pays the price submitted 
+by the Counterparty on the
+ website (the Fixed Price) in each case in respect of the Notional Quantity 
+per Determination Period.  Each 
+calendar month during the term of the Transaction will be a Determination 
+Period. The Notional Quantity per 
+Determination Period shall be the volume submitted by the Counterparty via 
+the website. The Payment Date(s) 
+will be 5 business days after the Floating Price is determinable. The 
+Floating Price shall be the Index for the 
+relevant Determination Period.
+
+Dale
+3-9746
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <4094054.1075860045344.JavaMail.evans@thyme>
+Date: Wed, 22 Dec 1999 03:44:00 -0800 (PST)
+From: dale.neuner@enron.com
+To: mark.taylor@enron.com, david.forster@enron.com
+Subject: Financial Liquids Review.
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Dale Neuner
+X-To: Mark Taylor, David Forster
+X-cc: 
+X-bcc: 
+X-Folder: \Mark_Taylor _Dec_2000\Notes Folders\Online trading\Product descriptions
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+Changes in BOLD for ease of reference.
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <15903764.1075860045235.JavaMail.evans@thyme>
+Date: Fri, 18 Feb 2000 02:08:00 -0800 (PST)
+From: dale.neuner@enron.com
+To: mark.taylor@enron.com
+Subject: New Pulp Product - BKP PIX
+Cc: bob.crane@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: bob.crane@enron.com
+X-From: Dale Neuner
+X-To: Mark Taylor
+X-cc: Bob Crane
+X-bcc: 
+X-Folder: \Mark_Taylor _Dec_2000\Notes Folders\Online trading\Product descriptions
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+Mark -
+
+Please review and offer you approval/comments. This Index is exactly the same 
+as the NBSK PIX Index that we just worked on with the exception that its 
+price is quoted in EURO's.
+
+Dale
+3-9746
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <26656748.1075860278090.JavaMail.evans@thyme>
+Date: Fri, 1 Jun 2001 08:42:00 -0700 (PDT)
+From: chris.walker@enron.com
+To: jeff.blumenthal@enron.com, susan.musch@enron.com, frank.hayden@enron.com,
+	mark.taylor@enron.com, stacy.dickson@enron.com, tom.moran@enron.com,
+	phillip.love@enron.com, larry.hunter@enron.com
+Subject: Product type approval needed (US Gas Phy Fwd Secondary Firm)
+Cc: lisa.lees@enron.com, tara.sweitzer@enron.com, tana.jones@enron.com,
+	karen.lambert@enron.com, kelly.lombardi@enron.com,
+	stephanie.sever@enron.com, dawn.kenne@enron.com,
+	torrey.moorer@enron.com, robert.cass@enron.com,
+	kevin.meredith@enron.com, melba.lozano@enron.com,
+	carlos.alatorre@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: lisa.lees@enron.com, tara.sweitzer@enron.com, tana.jones@enron.com,
+	karen.lambert@enron.com, kelly.lombardi@enron.com,
+	stephanie.sever@enron.com, dawn.kenne@enron.com,
+	torrey.moorer@enron.com, robert.cass@enron.com,
+	kevin.meredith@enron.com, melba.lozano@enron.com,
+	carlos.alatorre@enron.com
+X-From: Chris Walker
+X-To: Jeff Blumenthal, Susan Musch, Frank Hayden, Mark Taylor, Stacy E Dickson, Tom Moran, Phillip M Love, Larry Joe Hunter
+X-cc: Lisa Lees, Tara Sweitzer, Tana Jones, Karen Lambert, Kelly Lombardi, Stephanie Sever, Dawn C Kenne, Torrey Moorer, Robert B Cass, Kevin Meredith, Melba Lozano, Carlos Alatorre
+X-bcc: 
+X-Folder: \Mark_Taylor_Jun2001\Notes Folders\Online trading\Product descriptions
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+Please approve the following product type in Data Manager after 11 A.M.
+
+US Gas Phy Fwd Secondary Firm
+
+
+
+
+
+STEPS FOR APPROVAL:
+
+click the  START button 
+select  PROGRAMS
+select  TEST APPLICATIONS
+select ENRONONLINE CLUSTER(PROD)
+ PROCEED WITH USUAL LOGIN/PASSWORD 
+click the Enron Online Production Cluster "START" button  
+select EnronOnLine (this is the EOL Datamanager)
+ PROCEED WITH EOL LOGIN/PASSWORD
+click on the "+" for EnronOnLine
+click on the "+" for Product Types
+click on the "+" for "Awaiting Approval" (OR  "Partially Approved")
+select the product requiring review as stated in e-mail above
+Right "mouse" click on "properties" to view product set-up 
+TO APPROVE:  Right mouse click on "Approved"
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <20109675.1075858621983.JavaMail.evans@thyme>
+Date: Tue, 7 Aug 2001 07:56:17 -0700 (PDT)
+From: e..dickson@enron.com
+To: chris.walker@enron.com
+Subject: RE: CAN phy index EAST product
+Cc: legal <.taylor@enron.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: legal <.taylor@enron.com>
+X-From: Dickson, Stacy E. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SDICKSO>
+X-To: Walker, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cwalker>
+X-cc: Taylor, Mark E (Legal) </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mtaylo1>
+X-bcc: 
+X-Folder: \MTAYLO1 (Non-Privileged)\Taylor, Mark E (Legal)\Online Trading\Product Descriptions
+X-Origin: Taylor-M
+X-FileName: MTAYLO1 (Non-Privileged).pst
+
+Chris, 
+Thank you for checking on that.  I am fine with the new product type.  I am still looking into the CIG product.
+
+Stacy
+
+ -----Original Message-----
+From: 	Walker, Chris  
+Sent:	Tuesday, August 07, 2001 9:52 AM
+To:	Dickson, Stacy E.
+Subject:	FW: CAN phy index EAST product
+
+Stacy,
+
+Geoff would like to use the GD Dawn index for delivery at Niagara.  If you would, please reply to this email and copy Mark Taylor so he will have documentation of your approval for the new product type.
+
+Thanks,
+
+CW
+3-7533
+
+ -----Original Message-----
+From: 	Storey, Geoff  
+Sent:	Monday, August 06, 2001 7:24 AM
+To:	Walker, Chris
+Subject:	RE: CAN phy index EAST product
+
+looks good
+
+ -----Original Message-----
+From: 	Walker, Chris  
+Sent:	Friday, August 03, 2001 11:58 AM
+To:	Storey, Geoff
+Subject:	CAN phy index EAST product
+
+Geoff,
+
+Here's the description.  I'll forward it to legal as well.
+
+CAN Gas PhyIndex Niagara, TCPL GD/D Dawn Sep01           USD/MM
+
+A Canadian Gas Transaction with Enron North America Corp., under which Seller shall sell and Buyer shall purchase a quantity of natural gas equal to the Daily Contract Quantity at the Contract Price on a firm basis. The Contract Price shall be derived from the Index, as adjusted by the price submitted by Counterparty via the Website.  The Period of Delivery shall be from the Effective Date through the Termination Date.
+The transaction is from the Effective Date to the Termination Date. The Effective Date is 01 Sep 2001. The Termination Date is 30 Sep 2001.
+The transaction is for delivery to Transcanada Pipelines at Niagara.
+The Index for a day shall be the Daily Midpoint price published for such calendar day under the heading "Daily Price Survey" in the Canadian Gas, Dawn, Ont. section  of Gas Daily, or if a calendar day is not a Business Day then the price used shall be the Daily Midpoint price published on the next succeeding Business Day.
+The price is quoted in US Dollars per unit of volume, which will be the Contractual Currency.
+The unit of measure against which the price is quoted shall be millions of British thermal units and the quantity shown shall be in millions of BTUs per day.
+
+
+CW
+3-7533
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <23074293.1075858622008.JavaMail.evans@thyme>
+Date: Thu, 9 Aug 2001 07:53:30 -0700 (PDT)
+From: e..dickson@enron.com
+To: legal <.taylor@enron.com>
+Subject: FW: 2 New product types approval needed (CAN Gas Phy Index Firm
+ East)
+Cc: chris.walker@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: chris.walker@enron.com
+X-From: Dickson, Stacy E. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SDICKSO>
+X-To: Taylor, Mark E (Legal) </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mtaylo1>
+X-cc: Walker, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cwalker>
+X-bcc: 
+X-Folder: \MTAYLO1 (Non-Privileged)\Taylor, Mark E (Legal)\Online Trading\Product Descriptions
+X-Origin: Taylor-M
+X-FileName: MTAYLO1 (Non-Privileged).pst
+
+I am fine with the 2 new product types.
+
+ -----Original Message-----
+From: 	Walker, Chris  
+Sent:	Wednesday, August 08, 2001 9:22 AM
+To:	Dickson, Stacy E.
+Subject:	FW: 2 New product types approval needed (CAN Gas Phy Index Firm East)
+
+Stacy,
+
+Mark Taylor would like an email for your approval of both product types.  The descriptions are the same but the GTC's are different.  The 1 month or less product type uses the Spot GTC and the > 1 month product uses the firm GTC.  Please respond to Mark and copy me with your approval.  Sorry for the inconvenience.  Also, Susan Musch in Tax would like to revise the Phy GTC with new tax language.  Once I hear from her I will forward you the change.
+
+Thanks,
+
+CW
+3-7533
+
+ -----Original Message-----
+From: 	Walker, Chris  
+Sent:	Tuesday, August 07, 2001 12:51 PM
+To:	Blumenthal, Jeff; Musch, Susan; Hayden, Frank; Moran, Tom; Taylor, Mark E (Legal); Love, Phillip M.
+Cc:	Lees, Lisa; Sever, Stephanie; Jones, Tana; Lambert, Karen; Lombardi, Kelly; Elledge, Susan; Sweitzer, Tara; Kenne, Dawn C.; Moorer, Torrey; Alatorre, Carlos; Renaud, Lindsay; Meredith, Kevin; Lozano, Melba; Mandola, Teresa; Wallumrod, Ellen
+Subject:	2 New product types approval needed (CAN Gas Phy Index Firm East)
+
+Your review and approval of the following product types in the EOL Datamanager is needed (for directions on approval, please see steps for approval at the bottom of this e-mail).
+
+******** DO NOT APPROVE PRODUCT TYPES BETWEEN THE HOURS OF 6AM - 11AM***********
+
+CAN Gas Phy Index Firm East < or = 1Mo	(2114)
+CAN Gas Phy Index Firm East >1Mo<1Yr	(2115)
+
+Traders:
+Geoff Storey
+Martin Cuilla
+
+   
+
+
+
+STEPS FOR APPROVAL:
+
+click the 	START button 
+select 	PROGRAMS
+select 	TEST APPLICATIONS
+select	ENRONONLINE CLUSTER(PROD)
+	PROCEED WITH USUAL LOGIN/PASSWORD 
+click the	Enron Online Production Cluster "START" button  
+select	EnronOnline (this is the EOL Datamanager)
+	PROCEED WITH EOL LOGIN/PASSWORD
+click on the "+" for EnronOnline
+click on the "+" for Product Types
+click on the "+" for "Partially Approved"
+select the product requiring review as stated in e-mail above
+Right "mouse" click on "properties" to view product set-up 
+TO APPROVE:  Right mouse click on "Approved"
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <10492337.1075860045190.JavaMail.evans@thyme>
+Date: Tue, 22 Feb 2000 03:35:00 -0800 (PST)
+From: dale.neuner@enron.com
+To: mark.taylor@enron.com, stacy.dickson@enron.com
+Subject: Last day Nymex trading
+Cc: jennifer.denny@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jennifer.denny@enron.com
+X-From: Dale Neuner
+X-To: Mark Taylor, Stacy E Dickson
+X-cc: Jennifer deBoisblanc Denny
+X-bcc: 
+X-Folder: \Mark_Taylor _Dec_2000\Notes Folders\Online trading\Product descriptions
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+Mark - Trading would like to commence transacting Last day Nymex vs. Physical 
+delivery. So far each request is for an established Location. Attached please 
+find an example of one such transaction. Please review and offer 
+aproval/comments.
+
+
+Jennifer, I am certain that we have already mapped this but if you could 
+please double check.
+
+Index: NYMEX L1
+Abb: L1
+Descr: The Index shall be the settlement price for the last scheduled Trading 
+Day of the NYMEX Henry Hub Natural Gas Futures Contract, modified by the 
+price submitted by the Counterparty on the website, for the applicable 
+Determination Period.
+
+
+
+
+
+
+Dale
+3-9746
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <29928737.1075860045100.JavaMail.evans@thyme>
+Date: Tue, 30 May 2000 04:49:00 -0700 (PDT)
+From: melba.lozano@enron.com
+To: mark.taylor@enron.com
+Subject: US Styrene Product Type
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Melba Lozano
+X-To: Mark Taylor
+X-cc: 
+X-bcc: 
+X-Folder: \Mark_Taylor _Dec_2000\Notes Folders\Online trading\Product descriptions
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+I just want to remind you that I need the attached Product Type description 
+reviewed and approved for Steve Elliott.
+
+Thank you,
+
+ML
+---------------------- Forwarded by Melba Lozano/HOU/ECT on 05/30/2000 11:44 
+AM ---------------------------
+   
+
+
+From:  Melba Lozano                                                           
+  05/26/2000 11:29 AM	
+	
+	
+	                           
+	
+
+To: Mark Taylor/HOU/ECT@ECT
+cc:  
+Subject: US Styrene Product Type
+
+Mark,
+
+Please ignore the e-mail I sent yesterday 5/25/00 at 2:15 pm.  Please review 
+the attached language and let me know if it works.  US Benzene FOB is similar 
+to this product.  
+
+Thank you,
+
+ML
+
+See attached GTC: 
+
+US Styrene FOB   Hou/TX Cty              Jul00           c/Gl-b
+
+A US ASTM 2827 Styrene Transaction with Enron Petrochemicals Company, a 
+division of Enron Liquid Fuels, Inc., under which the Seller shall sell and 
+the Buyer shall purchase the agreed quantity of Styrene at the Contract 
+Price. The commodity will be delivered on a FOB basis upon five- (5) working 
+days notice by Buyer and on a day selected by Buyer between the Effective 
+Date and the Termination Date.
+The term of the Transaction shall be from the Effective Date (or start date) 
+to the Termination Date (or end date). The Effective Date (or start date) is 
+01 Jul 2000. The Termination Date (or end date) is 31 Jul 2000.
+This transaction is for delivery to either Houston or Texas City at Sellers 
+election.
+The price is quoted in cents (US) per unit of volume which will be the 
+Contractual Currency.
+The unit of measure against which the price is quoted shall be gallons and 
+the quantity shown shall be in total number of Barrels (42 US Gallons).
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <22585896.1075858621696.JavaMail.evans@thyme>
+Date: Thu, 7 Jun 2001 10:11:00 -0700 (PDT)
+From: homer.lin@enron.com
+To: mark.taylor@enron.com
+Subject: Re: Tanker Freight Long Description
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Homer Lin <Homer Lin/HOU/ECT@ECT>
+X-To: Mark Taylor <Mark Taylor/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \MTAYLO1 (Non-Privileged)\Taylor, Mark E (Legal)\Online Trading\Product Descriptions
+X-Origin: Taylor-M
+X-FileName: MTAYLO1 (Non-Privileged).pst
+
+Mark,
+
+Did you ever get a final answer on the Product Description?
+
+Homer
+
+---------------------- Forwarded by Homer Lin/HOU/ECT on 06/07/2001 07:10 AM ---------------------------
+
+
+Homer Lin
+06/04/2001 08:19 AM
+To:	Mark Taylor/HOU/ECT@ECT
+cc:	Scott Moncrieff/Enron@EUEnronXGate, Joe King/Enron@EnronXGate 
+Subject:	Re: Tanker Freight Long Description   
+
+
+Mark,
+
+Whether or not the mid-month to mid-month deals are likely, you should probably ask Scott Moncrieff or Joe King to answer that question.
+
+I was just suggesting the possibility...  I do like the additional language that covers deals shorter than one month
+
+"Each calendar month during the term of the Transaction will be a Determination Period; provided that, if the term of the Transaction is less than one calendar month, the Determination Period shall be the term of the Transaction."
+
+Perhaps we should proceed with the current Product Description and worry about the mid-month to mid-month description if/when we need it.
+
+Homer
+
+
+
+From:	Mark Taylor on 06/01/2001 10:47 AM
+To:	Homer Lin/HOU/ECT@ECT
+cc:	Carlos Alatorre/Enron@EnronXGate, Joe King/Enron@EnronXGate, Robert Quick/Enron@EUEnronXGate, Scott Moncrieff/Enron@EUEnronXGate 
+Subject:	Re: Tanker Freight Long Description   
+
+Homer - 
+
+The problem with the language you suggest is that it will be triggered by any term that is longer than a month.  As far as I know, we have never had a product that went from mid-month to mid-month.  Is that a real issue for us here?  We have language in a few products already that takes care of the second issue (deals shorter than one month):
+
+Each calendar month during the term of the Transaction will be a Determination Period; provided that, if the term of the Transaction is less than one calendar month, the Determination Period shall be the term of the Transaction.
+
+In some cases (e.g. power swaps), when the deal is for less than a month the payment dates are modified to fall at the beginning of the following month (rather than 5 days after the floating price is determinable).  That is a commercial call.  Just let me know how you want to handle that issue.
+
+If mid-month to mid-month deals are likely, let me know and I will come up with alternative language.
+
+Mark
+
+
+
+
+	Homer Lin 06/01/2001 10:15 AM 	  To: Mark Taylor/HOU/ECT@ECT, Joe King/Enron@EnronXGate, Scott Moncrieff/Enron@EUEnronXGate  cc: Carlos Alatorre/Enron@EnronXGate, Robert Quick/Enron@EUEnronXGate  Subject: Re: Tanker Freight Long Description 	
+
+
+Mark,
+
+Looks good.  The product description looks fine for copying the shipping products that Scott Moncrieff is trading now in London.
+
+I'm a little concerned about the line: "Each calendar month during the term of the Transaction will be a Determination Period"...
+
+Is it flexible enough in changing determination periods from mid-month to mid-month?
+As in June 15 to July 14 to represent a month?  Or will that just be another Long Description that we would have to draft for another product type?
+
+Also, what if we wanted to break up the determination periods into smaller increments than one month?  
+Let us say a 1-week or 2-week period instead of a full month.
+
+May be something like:
+"Each calendar month during the term of the Transaction will be a Determination Period unless otherwise specified by the Effective Dates"
+
+That's my two cents,
+Homer
+x57642
+
+
+
+From:	Mark Taylor on 05/31/2001 06:25 PM
+To:	Joe King/Enron@EnronXGate, Homer Lin/HOU/ECT@ECT, Carlos Alatorre/Enron@EnronXGate
+cc:	Scott Moncrieff/Enron@EUEnronXGate, Robert Quick/Enron@EUEnronXGate 
+Subject:	Tanker Freight Long Description
+
+Here is a draft of the US version.  Please let me know if it works for you.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+<Embedded StdOleLink>
+<Embedded StdOleLink>
+<Embedded StdOleLink>
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <18762901.1075860045147.JavaMail.evans@thyme>
+Date: Thu, 23 Mar 2000 00:31:00 -0800 (PST)
+From: dale.neuner@enron.com
+To: mark.taylor@enron.com, leslie.hansen@enron.com, rudi.zipter@enron.com,
+	ted.murphy@enron.com, jeff.blumenthal@enron.com,
+	stephen.douglas@enron.com, tom.moran@enron.com,
+	stacey.white@enron.com
+Subject: New Product Type - Approval Request
+Cc: john.suarez@enron.com, zal.masani@enron.com, frank.davis@enron.com,
+	jennifer.denny@enron.com, sheri.thomas@enron.com,
+	david.forster@enron.com, kim.theriot@enron.com,
+	melissa.murphy@enron.com, melba.lozano@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: john.suarez@enron.com, zal.masani@enron.com, frank.davis@enron.com,
+	jennifer.denny@enron.com, sheri.thomas@enron.com,
+	david.forster@enron.com, kim.theriot@enron.com,
+	melissa.murphy@enron.com, melba.lozano@enron.com
+X-From: Dale Neuner
+X-To: Mark Taylor, Leslie Hansen, Rudi Zipter, Ted Murphy, Jeff Blumenthal, Stephen H Douglas, Tom Moran, Stacey W White
+X-cc: John D Suarez, Zal Masani, Frank L Davis, Jennifer deBoisblanc Denny, Sheri Thomas, David Forster, Kim S Theriot, Melissa Ann Murphy, Melba Lozano
+X-bcc: 
+X-Folder: \Mark_Taylor _Dec_2000\Notes Folders\Online trading\Product descriptions
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+I have created the following new Product Type in the Data Manager:
+
+US East Power Phy Firm ICAP
+
+Please go into the DataManager and indicate your approval. If you have any 
+questions concerning the Product Type, please DO NOT REJECT it, rather call 
+me instead.
+
+I have attached a full description of the Product that will be built under 
+this Product Type for your review.
+
+Dale
+3-9746
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <16180223.1075860045214.JavaMail.evans@thyme>
+Date: Tue, 22 Feb 2000 02:30:00 -0800 (PST)
+From: paul.smith@enron.com
+To: david.forster@enron.com
+Subject: Product Long Form Decsriptions
+Cc: michael.sim@enron.com, david.minns@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: michael.sim@enron.com, david.minns@enron.com
+X-From: Paul Smith
+X-To: David Forster, Dale Neuner@ECt, Mark Dilworth@ECT, Mark Taylor@ECT
+X-cc: Michael Sim, David Minns
+X-bcc: 
+X-Folder: \Mark_Taylor _Dec_2000\Notes Folders\Online trading\Product descriptions
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+Dave,
+
+Here are the final Long Form Descriptions for the remaining regions (NSW, 
+QLD, SA).
+
+The term of the Swaps that will initially be offered via EOL has yet to be 
+decided, but I assume we can set those in the Product Manager when we create 
+Australian Power Products.
+
+Rgds
+Paul
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <5197771.1075858622055.JavaMail.evans@thyme>
+Date: Mon, 16 Jul 2001 10:00:42 -0700 (PDT)
+From: leslie.hansen@enron.com
+To: claudio.ribeiro@enron.com, legal <.taylor@enron.com>
+Subject: NYISO Demand Product
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Hansen, Leslie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=LHANSEN>
+X-To: Ribeiro, Claudio </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cribeiro>, Taylor, Mark E (Legal) </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mtaylo1>
+X-cc: 
+X-bcc: 
+X-Folder: \MTAYLO1 (Non-Privileged)\Taylor, Mark E (Legal)\Online Trading\Product Descriptions
+X-Origin: Taylor-M
+X-FileName: MTAYLO1 (Non-Privileged).pst
+
+Claudio and Mark:
+
+Attached please find my proposed revisions to the NYISO demand product, in both clean and red-lined formats.  Please review and let me know if you have any questions or comments.
+
+Leslie
+
+  
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <6027986.1075861989814.JavaMail.evans@thyme>
+Date: Thu, 15 Nov 2001 11:41:09 -0800 (PST)
+From: e..dickson@enron.com
+To: charlie.hoang@enron.com, legal <.taylor@enron.com>
+Subject: RE: Product type approval - US Gas Phy Fwd Firm < or = 1Mo
+ (INTERNAL ONLY)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Dickson, Stacy E. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SDICKSO>
+X-To: Hoang, Charlie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Choang>, Taylor, Mark E (Legal) </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mtaylo1>
+X-cc: 
+X-bcc: 
+X-Folder: \MTAYLO1 (Non-Privileged)\Taylor, Mark E (Legal)\Online Trading\Product Descriptions
+X-Origin: Taylor-M
+X-FileName: MTAYLO1 (Non-Privileged).pst
+
+I am fine with this product.
+
+ -----Original Message-----
+From: 	Hoang, Charlie  
+Sent:	Wednesday, November 14, 2001 5:18 PM
+To:	Taylor, Mark E (Legal); Moran, Tom; Musch, Susan; Blumenthal, Jeff; Hayden, Frank; Dickson, Stacy E.; Jones, Monte
+Cc:	Lees, Lisa; Sever, Stephanie; Sever, Stephanie; Clark, Claudia; O'day, Karen; Guillory, Michael; Jones, Tana; Lambert, Karen; Lombardi, Kelly; Sweitzer, Tara; Lozano, Melba; Kenne, Dawn C.; Moorer, Torrey; Meredith, Kevin; Renaud, Lindsay; Denny, Jennifer; Walker, Chris; Anderson, Diane
+Subject:	Product type approval - US Gas Phy Fwd Firm < or = 1Mo (INTERNAL ONLY)
+
+
+Your review and approval of the following product type in the EOL Data manager is needed (for directions on approval, please see steps for approval at the bottom of this e-mail).  Please do not approve before 11 A.M.
+
+US Gas Phy Fwd Firm < or = 1Mo (INTERNAL ONLY) (2200)
+
+US Gas Phy       ANG Kingsgate                   USD/MM
+
+A US Gas Transaction with Enron North America Corp., under which Seller shall sell and Buyer shall purchase a quantity of natural gas equal to the Daily Contract Quantity at the Contract Price on a firm basis. The Contract Price shall be as submitted by Counterparty via the Website.  The Period of Delivery shall be from the Effective Date through the Termination Date.
+The term of the Transaction shall correspond to the date(s) set forth in the Product description on the Website. The transaction is for delivery at the interconnect between TransCanada PipeLines Limited ("TCPL") and PG&E Gas Transmission, Northwest ("PG&E") at Alberta Natural Gas Kingsgate, British Columbia ("Kingsgate"), on the Canadian side of the international border.  
+The price is quoted in US Dollars per unit of volume, which will be the Contractual Currency.The unit of measure against which the price is quoted shall be millions of British thermal units and the quantity shown shall be in millions of BTUs per day.
+
+ << File: SPOT GTC Nat Gas ENA.doc >> 
+
+STEPS FOR APPROVAL:
+
+click the 	START button 
+select 	PROGRAMS
+select 	TEST APPLICATIONS
+select	ENRONONLINE CLUSTER(PROD)
+	PROCEED WITH USUAL LOGIN/PASSWORD 
+click the	Enron Online Production Cluster "START" button  
+select	EnronOnLine (this is the EOL Datamanager)
+	PROCEED WITH EOL LOGIN/PASSWORD
+click on the "+" for EnronOnLine
+click on the "+" for Product Types
+click on the "+" for "Awaiting Approval" (OR  "Partially Approved")
+select the product requiring review as stated in e-mail above
+Right "mouse" click on "properties" to view product set-up 
+     TO APPROVE:  Right mouse click on "Approved"
+
+
+Regards,
+
+Charlie Hoang
+EnronOnline
+Phone: 713-853-0564
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <5363726.1075858621815.JavaMail.evans@thyme>
+Date: Tue, 29 May 2001 13:15:00 -0700 (PDT)
+From: chris.walker@enron.com
+To: mark.taylor@enron.com
+Subject: FW: Crude Spread
+Cc: kevin.meredith@enron.com, melba.lozano@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: kevin.meredith@enron.com, melba.lozano@enron.com
+X-From: Chris Walker <Chris Walker/ENRON@enronXgate@ENRON>
+X-To: Mark Taylor <Mark Taylor/HOU/ECT@ECT>
+X-cc: Kevin Meredith <Kevin Meredith/ENRON@enronXgate>, Melba Lozano <Melba Lozano/ENRON@enronXgate>
+X-bcc: 
+X-Folder: \MTAYLO1 (Non-Privileged)\Taylor, Mark E (Legal)\Online Trading\Product Descriptions
+X-Origin: Taylor-M
+X-FileName: MTAYLO1 (Non-Privileged).pst
+
+Mark,
+
+The attached spread for Rob Fuller is identical to John Arnold's.  This will replace the current crude spread product as a new product type.  Please review and let us know if you have any questions.
+
+Thanks,
+
+CW
+3-7533
+
+ -----Original Message-----
+From: 	Meredith, Kevin  
+Sent:	Friday, May 25, 2001 1:05 PM
+To:	Walker, Chris; Lozano, Melba
+Subject:	FW: Crude Spread
+
+
+
+ -----Original Message-----
+From: 	Meredith, Kevin  
+Sent:	Monday, May 21, 2001 3:47 PM
+To:	Fuller, Robert
+Subject:	Crude Spread
+
+Rob,
+
+Please review the attached long description for the spread product you've requested.  Additionally, please confirm that the unit of measure will be barrels per month and that you understand the functionality of the product (i.e. one product on the website, two swap transactions once hit/lifted).  Let me know what you think.
+
+Kevin
+(713) 853-9555
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <3325221.1075860045012.JavaMail.evans@thyme>
+Date: Fri, 9 Jun 2000 03:08:00 -0700 (PDT)
+From: melba.lozano@enron.com
+To: mark.taylor@enron.com
+Subject: US Styrene FOB
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+X-From: Melba Lozano
+X-To: Mark Taylor
+X-cc: 
+X-bcc: 
+X-Folder: \Mark_Taylor _Dec_2000\Notes Folders\Online trading\Product descriptions
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+Mark,
+
+Attached please find the last version of the Product Description that will =
+go=20
+out on the web.  You have already oked this language, but just take on last=
+=20
+look at it just in case.
+
+Thank you very much,
+
+Melba
+58986
+
+US Styrene FOB   Hou/TX Cty              Jul00           USD/Lb-M
+
+A US ASTM 2827 Styrene Transaction with Enron Petrochemicals Company, a=20
+division of Enron Liquid Fuels, Inc., under which the Seller shall sell and=
+=20
+the Buyer shall purchase the agreed quantity of Styrene at the Contract=20
+Price. The commodity will be delivered on a FOB basis upon five- (5) workin=
+g=20
+days notice by Buyer and on a day selected by Buyer between the Effective=
+=20
+Date and the Termination Date.
+The term of the Transaction shall be from the Effective Date to the=20
+Termination Date. The Effective Date is 01 Jul 2000. The Termination Date i=
+s=20
+31 Jul 2000.
+This transaction is for delivery to either Houston or Texas City at Seller=
+=01,s=20
+election.
+The price is quoted in US Dollars per unit of volume, which will be the=20
+Contractual Currency.
+The unit of measure against which the price is quoted shall be pounds and t=
+he=20
+volume shown shall be in total number of Metric Tons (2,204 US Pounds) per=
+=20
+month.
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <31355454.1075860045122.JavaMail.evans@thyme>
+Date: Thu, 23 Mar 2000 04:14:00 -0800 (PST)
+From: leslie.hansen@enron.com
+To: mark.taylor@enron.com
+Subject: Re: New Product Type - Approval Request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Leslie Hansen
+X-To: Mark Taylor
+X-cc: 
+X-bcc: 
+X-Folder: \Mark_Taylor _Dec_2000\Notes Folders\Online trading\Product descriptions
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+Please approve!  Dale has to make one revision to the product (the delivery 
+location field is n/a to an ICAP product -- I had populated the field with 
+some text from the product description, but Dave Forester doesn't like this 
+approach.  So I have revised the product so that the delivery location field 
+states that no delivery location is specified for the product.  
+
+I'm not sure if the product will be rerouted for your approval, but if it is, 
+I've signed off on the revised version.
+
+Leslie
+
+
+   
+	
+	
+	From:  Mark Taylor                           03/23/2000 11:42 AM
+	
+
+To: Leslie Hansen/HOU/ECT@ECT
+cc:  
+Subject: New Product Type - Approval Request
+
+This looks good to me so I will go ahead and approve it unless you have an 
+objection.
+---------------------- Forwarded by Mark Taylor/HOU/ECT on 03/23/2000 11:41 
+AM ---------------------------
+Dale Neuner   03/23/2000 08:31 AM
+
+To: Mark Taylor/HOU/ECT@ECT, Leslie Hansen/HOU/ECT@ECT, Rudi 
+Zipter/HOU/ECT@ECT, Ted Murphy/HOU/ECT@ECT, Jeff Blumenthal/HOU/ECT@ECT, 
+Stephen H Douglas/HOU/ECT@ECT, Tom Moran/HOU/ECT@ECT, Stacey W 
+White/HOU/ECT@ECT
+cc: John D Suarez/HOU/ECT@ECT, Zal Masani/HOU/ECT@ECT, Frank L 
+Davis/HOU/ECT@ECT, Jennifer deBoisblanc Denny/HOU/ECT@ECT, Sheri 
+Thomas/HOU/ECT@ECT, David Forster/HOU/ECT@ECT, Kim S Theriot/HOU/ECT@ECT, 
+Melissa Ann Murphy/HOU/ECT@ECT, Melba Lozano/HOU/ECT@ECT 
+Subject: New Product Type - Approval Request
+
+I have created the following new Product Type in the Data Manager:
+
+US East Power Phy Firm ICAP
+
+Please go into the DataManager and indicate your approval. If you have any 
+questions concerning the Product Type, please DO NOT REJECT it, rather call 
+me instead.
+
+I have attached a full description of the Product that will be built under 
+this Product Type for your review.
+
+Dale
+3-9746
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <33525498.1075860045257.JavaMail.evans@thyme>
+Date: Thu, 17 Feb 2000 23:46:00 -0800 (PST)
+From: dale.neuner@enron.com
+To: jeffrey.shankman@enron.com, mark.taylor@enron.com
+Subject: New Product Approval Request
+Cc: fletcher.sturm@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: fletcher.sturm@enron.com
+X-From: Dale Neuner
+X-To: Jeffrey A Shankman, Mark Taylor
+X-cc: Fletcher J Sturm
+X-bcc: 
+X-Folder: \Mark_Taylor _Dec_2000\Notes Folders\Online trading\Product descriptions
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+Fletcher Sturm would like to transact in US Gas Basis Nymex last day vs. ANR 
+Oklahoma and Nymex last day vs. Trunkline, Louisiana.
+
+Please offer your approval.
+
+Mark, please review the attached and offer comments/approval.
+
+Dale
+3-9746
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <1193984.1075858621615.JavaMail.evans@thyme>
+Date: Tue, 28 Aug 2001 11:59:36 -0700 (PDT)
+From: greg.johnston@enron.com
+To: legal <.taylor@enron.com>
+Subject: FW: CAN Gas Phy Basis West Products - PLEASE APPROVE
+Cc: melba.lozano@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: melba.lozano@enron.com
+X-From: Johnston, Greg </O=ENRON/OU=NA/CN=RECIPIENTS/CN=GJOHNST>
+X-To: Taylor, Mark E (Legal) </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mtaylo1>
+X-cc: Lozano, Melba </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mlozano>
+X-bcc: 
+X-Folder: \MTAYLO1 (Non-Privileged)\Taylor, Mark E (Legal)\Online Trading\Product Descriptions
+X-Origin: Taylor-M
+X-FileName: MTAYLO1 (Non-Privileged).pst
+
+Mark, as long as Melba has made the change requested below, can you please approve the products in the system?
+
+Thanks
+Greg
+
+ -----Original Message-----
+From: 	Lozano, Melba  
+Sent:	Tuesday, August 28, 2001 12:58 PM
+To:	Johnston, Greg
+Cc:	Taylor, Mark E (Legal)
+Subject:	RE: CAN Gas Phy Basis West Products - PLEASE APPROVE
+Importance:	High
+
+Greg,
+
+I will make that change.  Could you ask Mark Taylor to go ahead and approve it in the system?  He will do it once you give him the go ahead.
+
+Thanks,
+
+Melba
+
+ -----Original Message-----
+From: 	Johnston, Greg  
+Sent:	Monday, August 27, 2001 9:34 AM
+To:	Lozano, Melba
+Cc:	Seib, Dianne
+Subject:	RE: CAN Gas Phy Basis West Products - PLEASE APPROVE
+
+Melba, I do not have "Test Applications" in my Start/Programs menu.  My only comment is that I would clarify the delivery point as Empress, Alberta rather than simply Empress.  Otherwise, the product descriptions look fine.
+
+Greg
+
+ -----Original Message-----
+From: 	Lozano, Melba  
+Sent:	Tuesday, August 21, 2001 1:56 PM
+To:	Blumenthal, Jeff; Musch, Susan; Hayden, Frank; Moran, Tom; Taylor, Mark E (Legal); Seib, Dianne; Johnston, Greg
+Cc:	Lees, Lisa; Sever, Stephanie; Jones, Tana; Lambert, Karen; Lombardi, Kelly; Elledge, Susan; Sweitzer, Tara; Kenne, Dawn C.; Moorer, Torrey; Alatorre, Carlos; Renaud, Lindsay; Meredith, Kevin; Walker, Chris; Mandola, Teresa
+Subject:	CAN Gas Phy Basis West Products - PLEASE APPROVE
+
+
+Your review and approval of the following product types in the EOL Datamanager is needed (for directions on approval, please see steps for approval at the bottom of this e-mail). If you have any questions please call me at ext. 39555 or Chris Walker at ext. 37533   
+******** DO NOT APPROVE PRODUCT TYPES BETWEEN THE HOURS OF 6AM - 11AM***********
+
+Product Type(s): 	  	CAN Gas Phy Basis Firm West <or=1Mo (2128)
+					CAN Gas Phy Basis Firm West >1Mo<1Yr (2129)
+
+Trader(s): 		     	Jon McKay
+					Chris Lambie
+					
+Description(s):	
+
+
+ CAN Gas PhyBasis EMPR                    Nov01           USD/MM
+
+A Canadian Gas Transaction with Enron Canada Corp., under which Seller shall sell and Buyer shall purchase a quantity of natural gas equal to the Daily Contract Quantity at the Contract Price on a firm basis.  The Contract Price shall be derived from the index, as adjusted by the price submitted by the Counterparty via the Website.  The Period of Delivery shall be from the Effective Date (first day of the term of the Transaction) through the Termination Date (last day of the term of the Transaction).
+The transaction is from the Effective Date to the Termination Date. The Effective Date is 01 Nov 2001. The Termination Date is 30 Nov 2001.
+The transaction is for delivery at Empress.
+The Index shall be the settlement price for the last scheduled Trading Day of the NYMEX Henry Hub Natural Gas Futures Contract.
+The price is quoted in US Dollars per unit of volume, which will be the Contractual Currency.
+The unit of measure against which the price is quoted shall be millions of British thermal units and the quantity shown shall be in millions of BTUs per day.
+
+
+CAN Gas PhyBasis EMPR                    Nov01-Mar02     USD/MM
+A Canadian Gas Transaction with Enron Canada Corp., under which Seller shall sell and Buyer shall purchase a quantity of natural gas equal to the Daily Contract Quantity at the Contract Price on a firm basis.  The Contract Price shall be derived from the index, as adjusted by the price submitted by the Counterparty via the Website.  The Period of Delivery shall be from the Effective Date (first day of the term of the Transaction) through the Termination Date (last day of the term of the Transaction).
+The transaction is from the Effective Date to the Termination Date. The Effective Date is 01 Nov 2001. The Termination Date is 31 Mar 2002.
+The transaction is for delivery at Empress.
+The Index shall be the settlement price for the last scheduled Trading Day of the NYMEX Henry Hub Natural Gas Futures Contract.
+The price is quoted in US Dollars per unit of volume, which will be the Contractual Currency.
+The unit of measure against which the price is quoted shall be millions of British thermal units and the quantity shown shall be in millions of BTUs per day.
+
+
+==============================================================================
+
+STEPS FOR APPROVAL:
+
+click the 	START button 
+select 	PROGRAMS
+select 	TEST APPLICATIONS
+select	ENRONONLINE CLUSTER(PROD)
+	PROCEED WITH USUAL LOGIN/PASSWORD 
+click the	Enron Online Production Cluster "START" button  
+select	EnronOnline (this is the EOL Datamanager)
+	PROCEED WITH EOL LOGIN/PASSWORD
+click on the "+" for EnronOnline
+click on the "+" for Product Types
+click on the "+" for "Partially Approved"
+select the product requiring review as stated in e-mail above
+Right "mouse" click on "properties" to view product set-up 
+TO APPROVE:  Right mouse click on "Approved"
+
+
+ Thanks,
+Melba Lozano
+713-345-8986 
+713-646-8511 Fax
+713-698-4847 Pager
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <29540141.1075860278184.JavaMail.evans@thyme>
+Date: Fri, 25 May 2001 06:59:00 -0700 (PDT)
+From: harry.collins@enron.com
+To: chris.walker@enron.com
+Subject: Re: Approval needed for 2 product types (CAN Recycled OCC and ONP
+ Phy)
+Cc: bjorn.hagelmann@enron.com, carlos.alatorre@enron.com,
+	charlie.hoang@enron.com, dawn.kenne@enron.com,
+	jeff.blumenthal@enron.com, karen.lambert@enron.com,
+	kelly.lombardi@enron.com, kevin.meredith@enron.com,
+	lisa.lees@enron.com, mark.taylor@enron.com, melba.lozano@enron.com,
+	robert.cass@enron.com, shari.mao@enron.com,
+	stephanie.sever@enron.com, susan.musch@enron.com,
+	tana.jones@enron.com, tara.sweitzer@enron.com, tom.moran@enron.com,
+	torrey.moorer@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: bjorn.hagelmann@enron.com, carlos.alatorre@enron.com,
+	charlie.hoang@enron.com, dawn.kenne@enron.com,
+	jeff.blumenthal@enron.com, karen.lambert@enron.com,
+	kelly.lombardi@enron.com, kevin.meredith@enron.com,
+	lisa.lees@enron.com, mark.taylor@enron.com, melba.lozano@enron.com,
+	robert.cass@enron.com, shari.mao@enron.com,
+	stephanie.sever@enron.com, susan.musch@enron.com,
+	tana.jones@enron.com, tara.sweitzer@enron.com, tom.moran@enron.com,
+	torrey.moorer@enron.com
+X-From: Harry M Collins
+X-To: Chris Walker
+X-cc: Bjorn Hagelmann, Carlos Alatorre, Charlie Hoang, Dawn C Kenne, Jeff Blumenthal, Karen Lambert, Kelly Lombardi, Kevin Meredith, Lisa Lees, Mark Taylor, Melba Lozano, Robert B Cass, Shari Mao, Stephanie Sever, Susan Musch, Tana Jones, Tara Sweitzer, Tom Moran, Torrey Moorer
+X-bcc: 
+X-Folder: \Mark_Taylor_Jun2001\Notes Folders\Online trading\Product descriptions
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+Good to go!
+
+
+
+	Chris Walker/ENRON@enronXgate
+	05/25/2001 11:34 AM
+		 
+		 To: Jeff Blumenthal/ENRON@enronXgate, Susan Musch/ENRON@enronXgate, Bjorn 
+Hagelmann/ENRON@enronXgate, Mark Taylor/HOU/ECT@ECT, Harry M 
+Collins/HOU/ECT@ECT, Tom Moran/ENRON@enronXgate, Shari Mao/HOU/ECT@ECT, 
+Charlie Hoang/ENRON@enronXgate
+		 cc: Lisa Lees/ENRON@enronXgate, Stephanie Sever/ENRON@enronXgate, Tana 
+Jones/HOU/ECT@ECT, Karen Lambert/ENRON@enronXgate, Kelly 
+Lombardi/ENRON@enronXgate, Tara Sweitzer/ENRON@enronXgate, Dawn C 
+Kenne/ENRON@enronXgate, Torrey Moorer/ENRON@enronXgate, Robert B 
+Cass/ENRON@enronXgate, Kevin Meredith/ENRON@enronXgate, Melba 
+Lozano/ENRON@enronXgate, Carlos Alatorre/ENRON@enronXgate
+		 Subject: Approval needed for 2 product types (CAN Recycled OCC and ONP Phy)
+
+Please approve the following 2 product types in Data Manager after 11:00 
+A.M.  Attached are the GTC and long descriptions.
+
+
+CAN Recycled OCC Phy
+CAN Recycled ONP Phy
+
+
+
+
+STEPS FOR APPROVAL:
+
+click the  START button 
+select  PROGRAMS
+select  TEST APPLICATIONS
+select ENRONONLINE CLUSTER(PROD)
+ PROCEED WITH USUAL LOGIN/PASSWORD 
+click the Enron Online Production Cluster "START" button  
+select EnronOnLine (this is the EOL Datamanager)
+ PROCEED WITH EOL LOGIN/PASSWORD
+click on the "+" for EnronOnLine
+click on the "+" for Product Types
+click on the "+" for "Awaiting Approval" (OR  "Partially Approved")
+select the product requiring review as stated in e-mail above
+Right "mouse" click on "properties" to view product set-up 
+TO APPROVE:  Right mouse click on "Approved"
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <33349993.1075858621959.JavaMail.evans@thyme>
+Date: Fri, 13 Jul 2001 07:48:09 -0700 (PDT)
+From: arfan.aziz@enron.com
+To: justin.boyd@enron.com, paul.maley@enron.com, chris.sloan@enron.com,
+	janine.juggins@enron.com, guenther.klar@enron.com,
+	bjorn.hagelmann@enron.com, mary.nordstrom@enron.com,
+	cindy.horn@enron.com, rebecca.millerchip@enron.com
+Subject: FW: URGENT - re Tanker Freight
+Cc: simon.thurbin@enron.com, dimitri.taylor@enron.com, debbie.nicholls@enron.com,
+	raju.dattani@enron.com, carol.chew@enron.com,
+	patrick.markey@enron.com, homan.amiry@enron.com,
+	camille.sexton@enron.com, ian.brungs@enron.com,
+	group.enron@enron.com, paul.henking@enron.com,
+	scott.moncrieff@enron.com, matthias.lee@enron.com,
+	andy.james@enron.com, chris.connelly@enron.com,
+	kevin.meredith@enron.com, b..cass@enron.com,
+	legal <.taylor@enron.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: simon.thurbin@enron.com, dimitri.taylor@enron.com, debbie.nicholls@enron.com,
+	raju.dattani@enron.com, carol.chew@enron.com,
+	patrick.markey@enron.com, homan.amiry@enron.com,
+	camille.sexton@enron.com, ian.brungs@enron.com,
+	group.enron@enron.com, paul.henking@enron.com,
+	scott.moncrieff@enron.com, matthias.lee@enron.com,
+	andy.james@enron.com, chris.connelly@enron.com,
+	kevin.meredith@enron.com, b..cass@enron.com,
+	legal <.taylor@enron.com>
+X-From: Aziz, Arfan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=AAZIZ>
+X-To: Boyd, Justin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=JBOYD>, Maley, Paul </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=PMALEY>, Sloan, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=CSLOAN>, Juggins, Janine </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=JJUGGIN>, Klar, Guenther </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=GKLAR>, Hagelmann, Bjorn </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BHAGELM>, Nordstrom, Mary </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MNORDST2>, Horn, Cindy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=CHORN>, Millerchip, Rebecca </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=RMILLERC>
+X-cc: Thurbin, Simon </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=STHURBI2>, Taylor, Dimitri </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=DTAYLOR8>, Nicholls, Debbie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=DNICHOLL>, Dattani, Raju </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=RDATTANI>, Chew, Carol </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=CCHEW>, Markey, Patrick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=PMARKEY>, Amiry, Homan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=HAMIRY>, Sexton, Camille </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=CSEXTON>, Brungs, Ian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=IBRUNGS>, Enron London - EOL Product Control Group, </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=EB17BF3-5A5745-802567F4-3D719C>, Henking, Paul </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=PHENKING>, Moncrieff, Scott </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=SMONCRIE>, Lee, Matthias </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=MLEE3>, James, Andy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=AJAMES>, Connelly, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=CCONNELL>, Meredith, Kevin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KMEREDI>, Cass, Robert B. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RCASS>, Taylor, Mark E (Legal) </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MTAYLO1>
+X-bcc: 
+X-Folder: \MTAYLO1 (Non-Privileged)\Taylor, Mark E (Legal)\Online Trading\Product Descriptions
+X-Origin: Taylor-M
+X-FileName: MTAYLO1 (Non-Privileged).pst
+
+
+FYI - to be consistent with the settlement convention for products in Singapore we have amended the product long description for the IITRA product to be settled 14 Business Days after the index is available - please see attached.
+
+Regards
+
+Arfan
+
+
+ 
+
+
+
+----- Forwarded by Arfan Aziz/LON/ECT on 13/07/2001 15:46 -----
+From:	Arfan Aziz on 09/07/2001 17:53
+To:	Justin Boyd/Enron@EUEnronXGate, Paul Maley/Enron@EUEnronXGate, Chris Sloan/Enron@EUEnronXGate, Janine Juggins/ENRON@EUEnronXGate, Guenther Klar/Enron@EUEnronXGate, Bjorn Hagelmann/Enron@EnronXGate, Mary Nordstrom/ENRON@enronXgate, Cindy Horn/Enron@EUEnronXGate, Rebecca Millerchip/Enron@EUEnronXGate
+cc:	Simon Thurbin/Enron@EUEnronXGate, Dimitri Taylor/Enron@EUEnronXGate, Debbie Nicholls/Enron@EUEnronXGate, Raju Dattani/Enron@EUEnronXGate, Carol Chew/SIN/ECT@ECT, Patrick Markey/HOU/ECT@ECT, Homan Amiry/Enron@EUEnronXGate, Camille Sexton/Enron@EUEnronXGate, Ian Brungs/Enron@EUEnronXGate, Enron London - EOL Product Control Group/LON/ECT@ECT, Paul Henking/SIN/ECT@ECT, Scott Moncrieff/Enron@EUEnronXGate, Matthias Lee/SIN/ECT@ECT, Andy James1/Enron@EUEnronXGate, Christopher Connelly/Enron@EUEnronXGate, Kevin Meredith/ENRON@enronXgate, Robert B Cass/Enron@EnronXGate, Mark Taylor/Enron@EnronXGate 
+
+Subject:	FW: URGENT - re Tanker Freight
+
+
+Please note that the two new Tanker Freight Product Types have been added to EnronOnline for your approval.  They are as follows:
+
+UK Tanker Freight BITR 11 Swap
+SG Tanker Freight IITRA Swap
+
+Please approve these by noon on Wednesday 11th July so that we may meet our deadlines and launch on Monday 16th July.  Please call if you have any queries.
+
+I have also attached the approproate GTCs (our general financial GTCs)
+
+Please also note that the existing BITR 7 product descriptions will be changed on Friday to be in line with the new product types..
+
+Regards
+
+Arfan
+
+
+    
+
+----- Forwarded by Arfan Aziz/LON/ECT on 09/07/2001 17:46 -----
+From:	Arfan Aziz on 09/07/2001 12:25
+To:	Paul Henking/SIN/ECT@ECT, Homer Lin/HOU/ECT@ECT, Ian Brungs/Enron@EUEnronXGate, Debbie Nicholls/Enron@EUEnronXGate, Matthias Lee/SIN/ECT@ECT, Kevin Meredith/ENRON@enronXgate, Robert B Cass/ENRON@enronXgate, Mark Taylor/ENRON@enronXgate, Scott Moncrieff/Enron@EUEnronXGate
+cc:	Enron London - EOL Product Control Group/LON/ECT@ECT, Justin Boyd/Enron@EUEnronXGate 
+
+Subject:	FW: URGENT - re Tanker Freight
+
+Apologies again everybody - latest decsriptions.
+
+Arfan
+
+
+    
+
+----- Forwarded by Arfan Aziz/LON/ECT on 09/07/2001 12:20 -----
+From:	Arfan Aziz/Enron@EUEnronXGate on 09/07/2001 12:04
+To:	Paul Henking/SIN/ECT@ECT, Homer Lin/HOU/ECT@ECT, Ian Brungs/Enron@EUEnronXGate, Debbie Nicholls/Enron@EUEnronXGate, Matthias Lee/SIN/ECT@ECT, Kevin Meredith/ENRON@enronXgate, Robert B Cass/ENRON@enronXgate, Mark Taylor/ENRON@enronXgate, Scott Moncrieff/Enron@EUEnronXGate
+cc:	Enron London - EOL Product Control Group/LON/ECT@ECT, Justin Boyd/Enron@EUEnronXGate 
+
+Subject:	FW: URGENT - re Tanker Freight
+
+Apologies everybody - attached are the descriptions as they will appear on the webpage.
+
+Thanks
+
+Arfan
+
+      
+
+
+
+
+
+
+ -----Original Message-----
+From: 	Aziz, Arfan  
+Sent:	09 July 2001 11:21
+To:	Taylor, Mark E (Legal); Henking, Paul; Lin, Homer; Brungs, Ian; Nicholls, Debbie; Lee, Matthias; Meredith, Kevin; Cass, Robert B.
+Cc:	Enron London - EOL Product Control Group,; Boyd, Justin
+Subject:	URGENT - re Tanker Freight
+
+
+Please find attached the latest long description for the tanker freight products.  Please note that I will add this to the system this afternoon as it stands for the UK and Singapore products (changing the route details)  unless I hear otherwise so as to enable us to get everything approved and meet the live date for next Monday.
+
+Thanks
+
+Arfan
+
+
+ << File: Tanker Freight @5.7.01.doc >> 
+
+
+ -----Original Message-----
+From: 	Moncrieff, Scott  
+Sent:	09 July 2001 11:12
+To:	Nicholls, Debbie
+Cc:	Aziz, Arfan; Henking, Paul; King, Joe; Lin, Homer
+Subject:	RE: Tanker Freight BITR 9 approval
+
+approved, 
+thanks very much.
+it would be great if Houston and Singapore could be up and running for next Monday 
+thanks
+
+
+ -----Original Message-----
+From: 	Nicholls, Debbie  
+Sent:	06 July 2001 10:18
+To:	Moncrieff, Scott
+Cc:	Cane, Graham; Aziz, Arfan
+Subject:	Tanker Freight BITR 9 approval
+
+
+
+Scott,
+
+I have read all the mails from Paul and his questions relate to the issue which Matthias brought up regarding if the Flat rate changes within a period would two flat rates be used etc etc.  The answer is no the last Flat Rate shall be used for the whole Determination Period.
+
+I have attached the latest wording from legal for BITR 9 and made the appropriate changes highlighted in red, Singapore's amendment is shown in respect to our previous request in blue. 
+
+Please let me know if you approve of the final wording so Arfan can send this to the lawyers for their final approval which hopefully after all this time would mean that  EOL can post BITR 9 & 11 and IITRA on EOL for Monday 16th July.  
+
+If you have any questions, please let me know.
+
+ << File: Tanker Freight @5.7.01.doc >> 
+
+
+Regards,
+
+Debbie
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <18616297.1075858621673.JavaMail.evans@thyme>
+Date: Thu, 7 Jun 2001 12:20:00 -0700 (PDT)
+From: homer.lin@enron.com
+To: mark.taylor@enron.com
+Subject: Re: Tanker Freight Long Description
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Homer Lin <Homer Lin/HOU/ECT@ECT>
+X-To: Mark Taylor <Mark Taylor/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \MTAYLO1 (Non-Privileged)\Taylor, Mark E (Legal)\Online Trading\Product Descriptions
+X-Origin: Taylor-M
+X-FileName: MTAYLO1 (Non-Privileged).pst
+
+
+Joe King is in Norway all this week so he probably hasn't seem the e-mails.  You might try to reach Scott Moncrieff in London at 830-37488.
+If you can't get a hold of him, then we should just proceed.
+
+Homer
+
+
+
+From:	Mark Taylor on 06/07/2001 09:07 AM
+To:	Homer Lin/HOU/ECT@ECT
+cc:	 
+Subject:	Re: Tanker Freight Long Description   
+
+I haven't heard anything from anyone but you and the EnronOnline team.  I suggest we go forward as you suggested in your June 4 e-mail and deal with the mid-month to mid-month issue if it ever actually arises.
+
+
+
+
+
+	Homer Lin 06/07/2001 07:11 AM 	   To: Mark Taylor/HOU/ECT@ECT  cc:   Subject: Re: Tanker Freight Long Description	
+
+
+Mark,
+
+Did you ever get a final answer on the Product Description?
+
+Homer
+
+---------------------- Forwarded by Homer Lin/HOU/ECT on 06/07/2001 07:10 AM ---------------------------
+
+
+Homer Lin
+06/04/2001 08:19 AM
+To:	Mark Taylor/HOU/ECT@ECT
+cc:	Scott Moncrieff/Enron@EUEnronXGate, Joe King/Enron@EnronXGate 
+Subject:	Re: Tanker Freight Long Description   
+
+
+Mark,
+
+Whether or not the mid-month to mid-month deals are likely, you should probably ask Scott Moncrieff or Joe King to answer that question.
+
+I was just suggesting the possibility...  I do like the additional language that covers deals shorter than one month
+
+"Each calendar month during the term of the Transaction will be a Determination Period; provided that, if the term of the Transaction is less than one calendar month, the Determination Period shall be the term of the Transaction."
+
+Perhaps we should proceed with the current Product Description and worry about the mid-month to mid-month description if/when we need it.
+
+Homer
+
+
+
+From:	Mark Taylor on 06/01/2001 10:47 AM
+To:	Homer Lin/HOU/ECT@ECT
+cc:	Carlos Alatorre/Enron@EnronXGate, Joe King/Enron@EnronXGate, Robert Quick/Enron@EUEnronXGate, Scott Moncrieff/Enron@EUEnronXGate 
+Subject:	Re: Tanker Freight Long Description   
+
+Homer - 
+
+The problem with the language you suggest is that it will be triggered by any term that is longer than a month.  As far as I know, we have never had a product that went from mid-month to mid-month.  Is that a real issue for us here?  We have language in a few products already that takes care of the second issue (deals shorter than one month):
+
+Each calendar month during the term of the Transaction will be a Determination Period; provided that, if the term of the Transaction is less than one calendar month, the Determination Period shall be the term of the Transaction.
+
+In some cases (e.g. power swaps), when the deal is for less than a month the payment dates are modified to fall at the beginning of the following month (rather than 5 days after the floating price is determinable).  That is a commercial call.  Just let me know how you want to handle that issue.
+
+If mid-month to mid-month deals are likely, let me know and I will come up with alternative language.
+
+Mark
+
+
+
+
+	Homer Lin 06/01/2001 10:15 AM 	  To: Mark Taylor/HOU/ECT@ECT, Joe King/Enron@EnronXGate, Scott Moncrieff/Enron@EUEnronXGate  cc: Carlos Alatorre/Enron@EnronXGate, Robert Quick/Enron@EUEnronXGate  Subject: Re: Tanker Freight Long Description 	
+
+
+Mark,
+
+Looks good.  The product description looks fine for copying the shipping products that Scott Moncrieff is trading now in London.
+
+I'm a little concerned about the line: "Each calendar month during the term of the Transaction will be a Determination Period"...
+
+Is it flexible enough in changing determination periods from mid-month to mid-month?
+As in June 15 to July 14 to represent a month?  Or will that just be another Long Description that we would have to draft for another product type?
+
+Also, what if we wanted to break up the determination periods into smaller increments than one month?  
+Let us say a 1-week or 2-week period instead of a full month.
+
+May be something like:
+"Each calendar month during the term of the Transaction will be a Determination Period unless otherwise specified by the Effective Dates"
+
+That's my two cents,
+Homer
+x57642
+
+
+
+From:	Mark Taylor on 05/31/2001 06:25 PM
+To:	Joe King/Enron@EnronXGate, Homer Lin/HOU/ECT@ECT, Carlos Alatorre/Enron@EnronXGate
+cc:	Scott Moncrieff/Enron@EUEnronXGate, Robert Quick/Enron@EUEnronXGate 
+Subject:	Tanker Freight Long Description
+
+Here is a draft of the US version.  Please let me know if it works for you.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<Embedded StdOleLink>
+<Embedded StdOleLink>
+<Embedded StdOleLink>
+<Embedded StdOleLink>
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <1744013.1075858621639.JavaMail.evans@thyme>
+Date: Thu, 4 Oct 2001 07:15:34 -0700 (PDT)
+From: chris.walker@enron.com
+To: steve.van@enron.com, legal <.taylor@enron.com>
+Subject: RE: Please approve - US Recycled DLK Phy
+Cc: john.best@enron.com, erik.deadwyler@enron.com, stuart.kinder@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: john.best@enron.com, erik.deadwyler@enron.com, stuart.kinder@enron.com
+X-From: Walker, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CWALKER>
+X-To: Van Hooser, Steve </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Svanhoo>, Taylor, Mark E (Legal) </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mtaylo1>
+X-cc: Best, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jbest>, Deadwyler, Erik </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Edeadwyl>, Kinder, Stuart </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Skinder>
+X-bcc: 
+X-Folder: \MTAYLO1 (Non-Privileged)\Taylor, Mark E (Legal)\Online Trading\Product Descriptions
+X-Origin: Taylor-M
+X-FileName: MTAYLO1 (Non-Privileged).pst
+
+Steve,
+
+This description works fine for me as well.  Thanks for all your help with the lumber and DLK.
+
+Mark,
+
+Please approve the product type when you have a chance today.
+
+Thanks,
+
+CW
+
+ -----Original Message-----
+From: 	Van Hooser, Steve  
+Sent:	Wednesday, October 03, 2001 11:02 PM
+To:	Walker, Chris
+Cc:	Best, John; Deadwyler, Erik; Kinder, Stuart; Taylor, Mark E (Legal)
+Subject:	RE: Please approve - US Recycled DLK Phy
+Importance:	High
+
+Chris,
+
+I've reviewed the DLK description you sent me and have revised it to clear up confusion over the meaning of EXW in the Delivery Terms section.  The elaboration of the Incoterm EXW showed that we really mean to use the FCA delivery term, due to Seller's retaining load out responsibility.  
+
+The other substantive change made was to remove the reference to Delivery Location as being anywhere other than Seller's facilities in Chicago or Atlanta.  Because Buyer has full responsibility for carriage of the Commodity under either EXW or FCA, Seller should not care anything about the "Delivery Location"; Seller is assuming no obligation to delivery anywhere other than to a truck or rail car that Buyer has caused to be brought onto Seller's premises.  
+
+There is a clean and marked copy of the DLK description for your review.  Please call with any questions.
+
+Steve Van Hooser
+
+ << File: DLK Product Description(10-3-01).doc >>  << File: DLK PRODUCT DESCRIPTION(10-3-01)REDLINE.DOC >> 
+
+ -----Original Message-----
+From: 	Walker, Chris  
+Sent:	Monday, September 24, 2001 3:55 PM
+To:	Blumenthal, Jeff; Musch, Susan; Hagelmann, Bjorn; Moran, Tom; Dickson, Melia; Mao, Shari; Van Hooser, Steve; Taylor, Mark E (Legal)
+Cc:	Lees, Lisa; Sever, Stephanie; O'day, Karen; Clark, Claudia; Lambert, Karen; Lombardi, Kelly; Jones, Tana; Sweitzer, Tara; Moorer, Torrey; Meredith, Kevin; Mandola, Teresa; Hoang, Charlie
+Subject:	Please approve - US Recycled DLK Phy
+
+Your review and approval of the following product types in the EOL Datamanager is needed (for directions on approval, please see steps for approval at the bottom of this e-mail). If you have any questions please call me at ext. 39555.   
+******** DO NOT APPROVE PRODUCT TYPES BETWEEN THE HOURS OF 6AM - 11AM***********
+
+US Recycled DLK Phy (2165)
+
+ << File: US Recyc DLK Phy Enron.doc >>  << File: GTC phy.doc >> 
+
+STEPS FOR APPROVAL:
+
+click the 	START button 
+select 	PROGRAMS
+select 	TEST APPLICATIONS
+select	ENRONONLINE CLUSTER(PROD)
+	PROCEED WITH USUAL LOGIN/PASSWORD 
+click the	Enron Online Production Cluster "START" button  
+select	EnronOnline (this is the EOL Datamanager)
+	PROCEED WITH EOL LOGIN/PASSWORD
+click on the "+" for EnronOnline
+click on the "+" for Product Types
+click on the "+" for "Partially Approved"
+select the product requiring review as stated in e-mail above
+Right "mouse" click on "properties" to view product set-up 
+TO APPROVE:  Right mouse click on "Approved"
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <17032720.1075860045279.JavaMail.evans@thyme>
+Date: Thu, 17 Feb 2000 08:41:00 -0800 (PST)
+From: dale.neuner@enron.com
+To: mark.taylor@enron.com
+Subject: New Basis Swap Products
+Cc: mike.grigsby@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: mike.grigsby@enron.com
+X-From: Dale Neuner
+X-To: Mark Taylor
+X-cc: Mike Grigsby
+X-bcc: 
+X-Folder: \Mark_Taylor _Dec_2000\Notes Folders\Online trading\Product descriptions
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+Please review and offer comments/approval.
+
+Dale
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <20157831.1075860278137.JavaMail.evans@thyme>
+Date: Tue, 29 May 2001 03:15:00 -0700 (PDT)
+From: chris.walker@enron.com
+To: mark.taylor@enron.com
+Subject: FW: Crude Spread
+Cc: kevin.meredith@enron.com, melba.lozano@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: kevin.meredith@enron.com, melba.lozano@enron.com
+X-From: Chris Walker
+X-To: Mark Taylor
+X-cc: Kevin Meredith, Melba Lozano
+X-bcc: 
+X-Folder: \Mark_Taylor_Jun2001\Notes Folders\Online trading\Product descriptions
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+Mark,
+
+The attached spread for Rob Fuller is identical to John Arnold's.  This will 
+replace the current crude spread product as a new product type.  Please 
+review and let us know if you have any questions.
+
+Thanks,
+
+CW
+3-7533
+
+ -----Original Message-----
+From:  Meredith, Kevin  
+Sent: Friday, May 25, 2001 1:05 PM
+To: Walker, Chris; Lozano, Melba
+Subject: FW: Crude Spread
+
+
+
+ -----Original Message-----
+From:  Meredith, Kevin  
+Sent: Monday, May 21, 2001 3:47 PM
+To: Fuller, Robert
+Subject: Crude Spread
+
+Rob,
+
+Please review the attached long description for the spread product you've 
+requested.  Additionally, please confirm that the unit of measure will be 
+barrels per month and that you understand the functionality of the product 
+(i.e. one product on the website, two swap transactions once hit/lifted).  
+Let me know what you think.
+
+Kevin
+(713) 853-9555
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <21074896.1075858622031.JavaMail.evans@thyme>
+Date: Wed, 22 Aug 2001 13:31:48 -0700 (PDT)
+From: leslie.hansen@enron.com
+To: chris.walker@enron.com
+Subject: RE: East Power Fin Spread
+Cc: legal <.taylor@enron.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: legal <.taylor@enron.com>
+X-From: Hansen, Leslie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=LHANSEN>
+X-To: Walker, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CWALKER>
+X-cc: Taylor, Mark E (Legal) </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mtaylo1>
+X-bcc: 
+X-Folder: \MTAYLO1 (Non-Privileged)\Taylor, Mark E (Legal)\Online Trading\Product Descriptions
+X-Origin: Taylor-M
+X-FileName: MTAYLO1 (Non-Privileged).pst
+
+Chris:
+ 
+The product is approved as revised per my email yesterday (with the deletion of the highlighted language).
+ 
+Leslie
+
+-----Original Message----- 
+From: Walker, Chris 
+Sent: Wed 8/22/2001 8:39 AM 
+To: Hansen, Leslie 
+Cc: 
+Subject: East Power Fin Spread
+
+
+
+Leslie, 
+
+Willis Philip has informed me that Rob Benson will be using the PJM West Fin index.  I will delete the highlighted sentence regarding the physical product.  Could you please reply and copy Mark Taylor giving your approval of the product type.  Thanks for all your help.
+
+Chris W. 
+3-7533 
+
+
+ -----Original Message----- 
+From:   Hansen, Leslie  
+Sent:   Tuesday, August 21, 2001 1:22 PM 
+To:     Walker, Chris 
+Subject:        Fin Pwr Spread 
+
+Chris: 
+
+Attached please find the revised US Fin Pwr Spread.  I have hilighted the language that provides that the fixed price for the second transaction will be the midpoint of the bid and offer prices for physical power.  Simply delete the hilighted language if the traders decide to base the fixed price on the midpoint of the financial swap instead.
+
+Note that I made changes to the index language as well as numerous changes to the product long description itself. 
+
+Regards, 
+
+Leslie 
+
+ << File: US East Pwr Fin Spd1.doc >> 
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <18864294.1075860045049.JavaMail.evans@thyme>
+Date: Wed, 31 May 2000 07:19:00 -0700 (PDT)
+From: melba.lozano@enron.com
+To: tom.moran@enron.com, mark.taylor@enron.com, mark.fondren@enron.com,
+	jeff.blumenthal@enron.com, stephen.douglas@enron.com,
+	bjorn.hagelmann@enron.com
+Subject: US Styrene FOB Phy Fwrd.
+Cc: dale.neuner@enron.com, lee.jackson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: dale.neuner@enron.com, lee.jackson@enron.com
+X-From: Melba Lozano
+X-To: Tom Moran, Mark Taylor, Mark Fondren, Jeff Blumenthal, Stephen H Douglas, Bjorn Hagelmann
+X-cc: Dale Neuner, Lee Jackson
+X-bcc: 
+X-Folder: \Mark_Taylor _Dec_2000\Notes Folders\Online trading\Product descriptions
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+I have built a new Product Type called US Styrene FOB Phy Fwd.  Please go 
+into DataManager and approve these Product Types.  If you need help with the 
+approval process contact me at ext.58986.  Please DO NOT reject the Product 
+Type.  If you have questions or changes to the Product Type please contact me 
+at your convenience.  Thank you very much for your cooperation.
+
+Thank you,
+
+Melba 
+
+Long Description:
+
+US Styrene FOB   Hou/TX Cty              Jul00           c/Gl-b
+
+A US ASTM 2827 Styrene Transaction with Enron Petrochemicals Company, a 
+division of Enron Liquid Fuels, Inc., under which the Seller shall sell and 
+the Buyer shall purchase the agreed quantity of Styrene at the Contract 
+Price. The commodity will be delivered on a FOB basis upon five- (5) working 
+days notice by Buyer and on a day selected by Buyer between the Effective 
+Date and the Termination Date.
+The term of the Transaction shall be from the Effective Date (or start date) 
+to the Termination Date (or end date). The Effective Date (or start date) is 
+01 Jul 2000. The Termination Date (or end date) is 31 Jul 2000.
+This transaction is for delivery to either Houston or Texas City at Sellers 
+election.
+The price is quoted in cents (US) per unit of volume which will be the 
+Contractual Currency.
+The unit of measure against which the price is quoted shall be gallons and 
+the quantity shown shall be in total number of Barrels (42 US Gallons).
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <16081275.1075860045300.JavaMail.evans@thyme>
+Date: Thu, 3 Feb 2000 08:53:00 -0800 (PST)
+From: dale.neuner@enron.com
+To: mark.taylor@enron.com
+Subject: Pulpex Revised
+Cc: steve.kim@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: steve.kim@enron.com
+X-From: Dale Neuner
+X-To: Mark Taylor
+X-cc: Steve Kim
+X-bcc: 
+X-Folder: \Mark_Taylor _Dec_2000\Notes Folders\Online trading\Product descriptions
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+Steve reviewed and offered comments; changes in bold:
+
+The Index for a Determination Period shall be the average of the daily 
+settlement prices on the OM London 
+Exchange (formerly the OMLX exchange) of the Pulpex Futures Contract for 
+Northern Bleached Softwood Kraft 
+(the "Futures Contract") for each day on which the OM London Exchange is open 
+(a "Trading Day") 
+during the Determination Period. The Futures Contract will be the contract 
+with the earliest expiration date, except 
+on those days that fall within 10 Trading Days before that expiration date, 
+in which case the next successive 
+Futures Contract price shall be used.
+
+Dale
+3-9746
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <1199072.1075860278115.JavaMail.evans@thyme>
+Date: Fri, 1 Jun 2001 07:32:00 -0700 (PDT)
+From: chris.walker@enron.com
+To: jeff.blumenthal@enron.com, susan.musch@enron.com, frank.hayden@enron.com,
+	bjorn.hagelmann@enron.com, mark.taylor@enron.com,
+	marcus.nettelton@enron.com, tom.moran@enron.com,
+	stacey.white@enron.com, casey.evans@enron.com,
+	melissa.murphy@enron.com
+Subject: Product type approval (US East Power Phy Spd)
+Cc: lisa.lees@enron.com, stephanie.sever@enron.com, tana.jones@enron.com,
+	karen.lambert@enron.com, kelly.lombardi@enron.com,
+	tara.sweitzer@enron.com, dawn.kenne@enron.com,
+	torrey.moorer@enron.com, kevin.meredith@enron.com,
+	robert.cass@enron.com, melba.lozano@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: lisa.lees@enron.com, stephanie.sever@enron.com, tana.jones@enron.com,
+	karen.lambert@enron.com, kelly.lombardi@enron.com,
+	tara.sweitzer@enron.com, dawn.kenne@enron.com,
+	torrey.moorer@enron.com, kevin.meredith@enron.com,
+	robert.cass@enron.com, melba.lozano@enron.com
+X-From: Chris Walker
+X-To: Jeff Blumenthal, Susan Musch, Frank Hayden, Bjorn Hagelmann, Mark Taylor, Marcus Nettelton, Tom Moran, Stacey W White, Casey Evans, Melissa Ann Murphy
+X-cc: Lisa Lees, Stephanie Sever, Tana Jones, Karen Lambert, Kelly Lombardi, Tara Sweitzer, Dawn C Kenne, Torrey Moorer, Kevin Meredith, Robert B Cass, Melba Lozano
+X-bcc: 
+X-Folder: \Mark_Taylor_Jun2001\Notes Folders\Online trading\Product descriptions
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+Please approve the following product type in Data Manager after 11 A.M.
+
+US East Power Phy Spd
+
+
+
+
+
+
+STEPS FOR APPROVAL:
+
+click the  START button 
+select  PROGRAMS
+select  TEST APPLICATIONS
+select ENRONONLINE CLUSTER(PROD)
+ PROCEED WITH USUAL LOGIN/PASSWORD 
+click the Enron Online Production Cluster "START" button  
+select EnronOnLine (this is the EOL Datamanager)
+ PROCEED WITH EOL LOGIN/PASSWORD
+click on the "+" for EnronOnLine
+click on the "+" for Product Types
+click on the "+" for "Awaiting Approval" (OR  "Partially Approved")
+select the product requiring review as stated in e-mail above
+Right "mouse" click on "properties" to view product set-up 
+TO APPROVE:  Right mouse click on "Approved"
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <9782549.1075860278210.JavaMail.evans@thyme>
+Date: Thu, 24 May 2001 09:18:00 -0700 (PDT)
+From: chris.walker@enron.com
+To: jeff.blumenthal@enron.com, susan.musch@enron.com, bjorn.hagelmann@enron.com,
+	mark.taylor@enron.com, harry.collins@enron.com, tom.moran@enron.com,
+	shari.mao@enron.com, charlie.hoang@enron.com
+Subject: Product Type approval needed (CAN Newsprint Phy)
+Cc: lisa.lees@enron.com, stephanie.sever@enron.com, tana.jones@enron.com,
+	karen.lambert@enron.com, kelly.lombardi@enron.com,
+	tara.sweitzer@enron.com, dawn.kenne@enron.com,
+	torrey.moorer@enron.com, robert.cass@enron.com,
+	kevin.meredith@enron.com, melba.lozano@enron.com,
+	carlos.alatorre@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: lisa.lees@enron.com, stephanie.sever@enron.com, tana.jones@enron.com,
+	karen.lambert@enron.com, kelly.lombardi@enron.com,
+	tara.sweitzer@enron.com, dawn.kenne@enron.com,
+	torrey.moorer@enron.com, robert.cass@enron.com,
+	kevin.meredith@enron.com, melba.lozano@enron.com,
+	carlos.alatorre@enron.com
+X-From: Chris Walker
+X-To: Jeff Blumenthal, Susan Musch, Bjorn Hagelmann, Mark Taylor, Harry M Collins, Tom Moran, Shari Mao, Charlie Hoang
+X-cc: Lisa Lees, Stephanie Sever, Tana Jones, Karen Lambert, Kelly Lombardi, Tara Sweitzer, Dawn C Kenne, Torrey Moorer, Robert B Cass, Kevin Meredith, Melba Lozano, Carlos Alatorre
+X-bcc: 
+X-Folder: \Mark_Taylor_Jun2001\Notes Folders\Online trading\Product descriptions
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+Please approve the following product type in Data Manager after 11:00 A.M.  
+Attached are the GTC and long description.
+
+CAN Newsprint Phy
+
+CAN Newsprnt Phy 48.8 gm East Canada     Jul01           CAD/Mt
+
+
+
+STEPS FOR APPROVAL:
+
+click the  START button 
+select  PROGRAMS
+select  TEST APPLICATIONS
+select ENRONONLINE CLUSTER(PROD)
+ PROCEED WITH USUAL LOGIN/PASSWORD 
+click the Enron Online Production Cluster "START" button  
+select EnronOnLine (this is the EOL Datamanager)
+ PROCEED WITH EOL LOGIN/PASSWORD
+click on the "+" for EnronOnLine
+click on the "+" for Product Types
+click on the "+" for "Awaiting Approval" (OR  "Partially Approved")
+select the product requiring review as stated in e-mail above
+Right "mouse" click on "properties" to view product set-up 
+TO APPROVE:  Right mouse click on "Approved"
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <12208124.1075860278514.JavaMail.evans@thyme>
+Date: Thu, 17 Feb 2000 05:23:00 -0800 (PST)
+From: leslie.hansen@enron.com
+To: sara.shackleton@enron.com, mark.taylor@enron.com
+Subject: EOL Physical Power Index products
+Cc: elizabeth.sager@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: elizabeth.sager@enron.com
+X-From: Leslie Hansen
+X-To: Sara Shackleton, Mark Taylor
+X-cc: Elizabeth Sager
+X-bcc: 
+X-Folder: \Mark_Taylor_Jun2001\Notes Folders\Online trading\Product descriptions
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+Sara and Mark:
+
+Please look over the attached product description and one of the index 
+descriptions and let me know if you have any comments.  
+
+
+
+I suggest revising the Financial Power Swap Product as follows:
+
+
+A US Power financial Swap Transaction with Enron North America Corp., under 
+which the Seller 
+pays a Floating Price and the Buyer pays the price submitted by Counterparty 
+on the website 
+(the Fixed Price) in each case in respect of the Notional Quantity per 
+Determination Period.  Each 
+calendar month during the term of the Transaction or the term of the 
+Transaction if it is less than a month will be a Determination Period. The 
+Notional 
+Quantity per Determination Period shall be the volume for the relevant 
+Determination Period 
+(calculated using the volume submitted by Counterparty via EnronOnline). The 
+Payment Date(s) 
+will be 5 business days after the Floating Price is determinable. The 
+Floating Price shall be the 
+average of the Index for each day in the relevant Determination Period.
+
+Leslie
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <27131594.1075860278159.JavaMail.evans@thyme>
+Date: Fri, 25 May 2001 10:03:00 -0700 (PDT)
+From: harry.collins@enron.com
+To: mark.taylor@enron.com
+Subject: Re: Product Type approval needed (CAN Newsprint Phy)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Harry M Collins
+X-To: Mark Taylor
+X-cc: 
+X-bcc: 
+X-Folder: \Mark_Taylor_Jun2001\Notes Folders\Online trading\Product descriptions
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+Good to go!
+
+
+
+	Mark Taylor
+	05/25/2001 04:36 PM
+		 
+		 To: Harry M Collins/HOU/ECT@ECT
+		 cc: 
+		 Subject: Product Type approval needed (CAN Newsprint Phy)
+
+Is this one OK as well?
+----- Forwarded by Mark Taylor/HOU/ECT on 05/25/2001 04:36 PM -----
+
+	Chris Walker/ENRON@enronXgate
+	05/24/2001 04:18 PM
+		 
+		 To: Jeff Blumenthal/ENRON@enronXgate, Susan Musch/ENRON@enronXgate, Bjorn 
+Hagelmann/ENRON@enronXgate, Mark Taylor/HOU/ECT@ECT, Harry M 
+Collins/HOU/ECT@ECT, Tom Moran/ENRON@enronXgate, Shari Mao/HOU/ECT@ECT, 
+Charlie Hoang/ENRON@enronXgate
+		 cc: Lisa Lees/ENRON@enronXgate, Stephanie Sever/ENRON@enronXgate, Tana 
+Jones/HOU/ECT@ECT, Karen Lambert/ENRON@enronXgate, Kelly 
+Lombardi/ENRON@enronXgate, Tara Sweitzer/ENRON@enronXgate, Dawn C 
+Kenne/ENRON@enronXgate, Torrey Moorer/ENRON@enronXgate, Robert B 
+Cass/ENRON@enronXgate, Kevin Meredith/ENRON@enronXgate, Melba 
+Lozano/ENRON@enronXgate, Carlos Alatorre/ENRON@enronXgate
+		 Subject: Product Type approval needed (CAN Newsprint Phy)
+
+Please approve the following product type in Data Manager after 11:00 A.M.  
+Attached are the GTC and long description.
+
+CAN Newsprint Phy
+
+CAN Newsprnt Phy 48.8 gm East Canada     Jul01           CAD/Mt
+
+
+
+STEPS FOR APPROVAL:
+
+click the  START button 
+select  PROGRAMS
+select  TEST APPLICATIONS
+select ENRONONLINE CLUSTER(PROD)
+ PROCEED WITH USUAL LOGIN/PASSWORD 
+click the Enron Online Production Cluster "START" button  
+select EnronOnLine (this is the EOL Datamanager)
+ PROCEED WITH EOL LOGIN/PASSWORD
+click on the "+" for EnronOnLine
+click on the "+" for Product Types
+click on the "+" for "Awaiting Approval" (OR  "Partially Approved")
+select the product requiring review as stated in e-mail above
+Right "mouse" click on "properties" to view product set-up 
+TO APPROVE:  Right mouse click on "Approved"
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <33431282.1075858621728.JavaMail.evans@thyme>
+Date: Mon, 4 Jun 2001 14:57:00 -0700 (PDT)
+From: chris.walker@enron.com
+To: jeff.blumenthal@enron.com, susan.musch@enron.com, bjorn.hagelmann@enron.com,
+	mark.taylor@enron.com, tom.moran@enron.com, john.swinney@enron.com,
+	larry.hunter@enron.com
+Subject: Product type approval needed (US Crude WTI Fin Spd)
+Cc: lisa.lees@enron.com, stephanie.sever@enron.com, tana.jones@enron.com,
+	karen.lambert@enron.com, kelly.lombardi@enron.com,
+	tara.sweitzer@enron.com, dawn.kenne@enron.com,
+	torrey.moorer@enron.com, robert.cass@enron.com,
+	melba.lozano@enron.com, kevin.meredith@enron.com,
+	carlos.alatorre@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: lisa.lees@enron.com, stephanie.sever@enron.com, tana.jones@enron.com,
+	karen.lambert@enron.com, kelly.lombardi@enron.com,
+	tara.sweitzer@enron.com, dawn.kenne@enron.com,
+	torrey.moorer@enron.com, robert.cass@enron.com,
+	melba.lozano@enron.com, kevin.meredith@enron.com,
+	carlos.alatorre@enron.com
+X-From: Chris Walker <Chris Walker/ENRON@enronXgate@ENRON>
+X-To: Jeff Blumenthal <Jeff Blumenthal/ENRON@enronXgate>, Susan Musch <Susan Musch/ENRON@enronXgate>, Bjorn Hagelmann <Bjorn Hagelmann/ENRON@enronXgate>, Mark Taylor <Mark Taylor/HOU/ECT@ECT>, Tom Moran <Tom Moran/ENRON@enronXgate>, John Swinney <John Swinney/ENRON@enronXgate>, Larry Joe Hunter <Larry Joe Hunter/HOU/ECT@ECT>
+X-cc: Lisa Lees <Lisa Lees/ENRON@enronXgate>, Stephanie Sever <Stephanie Sever/ENRON@enronXgate>, Tana Jones <Tana Jones/HOU/ECT@ECT>, Karen Lambert <Karen Lambert/ENRON@enronXgate>, Kelly Lombardi <Kelly Lombardi/ENRON@enronXgate>, Tara Sweitzer <Tara Sweitzer/ENRON@enronXgate>, Dawn C Kenne <Dawn C Kenne/ENRON@enronXgate>, Torrey Moorer <Torrey Moorer/ENRON@enronXgate>, Robert B Cass <Robert B Cass/ENRON@enronXgate>, Melba Lozano <Melba Lozano/ENRON@enronXgate>, Kevin Meredith <Kevin Meredith/ENRON@enronXgate>, Carlos Alatorre <Carlos Alatorre/ENRON@enronXgate>
+X-bcc: 
+X-Folder: \MTAYLO1 (Non-Privileged)\Taylor, Mark E (Legal)\Online Trading\Product Descriptions
+X-Origin: Taylor-M
+X-FileName: MTAYLO1 (Non-Privileged).pst
+
+Please approve the following new product type in Data Manager after 11 A.M.
+
+US Crude WTI Fin Spd
+
+(Please note that this product type will replace the existing US Crude WTI Cal Spd Fin Swap)
+
+ 
+ 
+
+STEPS FOR APPROVAL:
+
+click the 	START button 
+select 	PROGRAMS
+select 	TEST APPLICATIONS
+select	ENRONONLINE CLUSTER(PROD)
+	PROCEED WITH USUAL LOGIN/PASSWORD 
+click the	Enron Online Production Cluster "START" button  
+select	EnronOnLine (this is the EOL Datamanager)
+	PROCEED WITH EOL LOGIN/PASSWORD
+click on the "+" for EnronOnLine
+click on the "+" for Product Types
+click on the "+" for "Awaiting Approval" (OR  "Partially Approved")
+select the product requiring review as stated in e-mail above
+Right "mouse" click on "properties" to view product set-up 
+TO APPROVE:  Right mouse click on "Approved"
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <20656917.1075860278065.JavaMail.evans@thyme>
+Date: Mon, 4 Jun 2001 04:57:00 -0700 (PDT)
+From: chris.walker@enron.com
+To: jeff.blumenthal@enron.com, susan.musch@enron.com, bjorn.hagelmann@enron.com,
+	mark.taylor@enron.com, tom.moran@enron.com, john.swinney@enron.com,
+	larry.hunter@enron.com
+Subject: Product type approval needed (US Crude WTI Fin Spd)
+Cc: lisa.lees@enron.com, stephanie.sever@enron.com, tana.jones@enron.com,
+	karen.lambert@enron.com, kelly.lombardi@enron.com,
+	tara.sweitzer@enron.com, dawn.kenne@enron.com,
+	torrey.moorer@enron.com, robert.cass@enron.com,
+	melba.lozano@enron.com, kevin.meredith@enron.com,
+	carlos.alatorre@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: lisa.lees@enron.com, stephanie.sever@enron.com, tana.jones@enron.com,
+	karen.lambert@enron.com, kelly.lombardi@enron.com,
+	tara.sweitzer@enron.com, dawn.kenne@enron.com,
+	torrey.moorer@enron.com, robert.cass@enron.com,
+	melba.lozano@enron.com, kevin.meredith@enron.com,
+	carlos.alatorre@enron.com
+X-From: Chris Walker
+X-To: Jeff Blumenthal, Susan Musch, Bjorn Hagelmann, Mark Taylor, Tom Moran, John Swinney, Larry Joe Hunter
+X-cc: Lisa Lees, Stephanie Sever, Tana Jones, Karen Lambert, Kelly Lombardi, Tara Sweitzer, Dawn C Kenne, Torrey Moorer, Robert B Cass, Melba Lozano, Kevin Meredith, Carlos Alatorre
+X-bcc: 
+X-Folder: \Mark_Taylor_Jun2001\Notes Folders\Online trading\Product descriptions
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+Please approve the following new product type in Data Manager after 11 A.M.
+
+US Crude WTI Fin Spd
+
+(Please note that this product type will replace the existing US Crude WTI 
+Cal Spd Fin Swap)
+
+
+
+
+STEPS FOR APPROVAL:
+
+click the  START button 
+select  PROGRAMS
+select  TEST APPLICATIONS
+select ENRONONLINE CLUSTER(PROD)
+ PROCEED WITH USUAL LOGIN/PASSWORD 
+click the Enron Online Production Cluster "START" button  
+select EnronOnLine (this is the EOL Datamanager)
+ PROCEED WITH EOL LOGIN/PASSWORD
+click on the "+" for EnronOnLine
+click on the "+" for Product Types
+click on the "+" for "Awaiting Approval" (OR  "Partially Approved")
+select the product requiring review as stated in e-mail above
+Right "mouse" click on "properties" to view product set-up 
+TO APPROVE:  Right mouse click on "Approved"
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <30597924.1075860045322.JavaMail.evans@thyme>
+Date: Mon, 27 Dec 1999 02:33:00 -0800 (PST)
+From: dale.neuner@enron.com
+To: mark.taylor@enron.com
+Subject: Weather Review
+Cc: david.forster@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: david.forster@enron.com
+X-From: Dale Neuner
+X-To: Mark Taylor
+X-cc: David Forster
+X-bcc: 
+X-Folder: \Mark_Taylor _Dec_2000\Notes Folders\Online trading\Product descriptions
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+Attached please find a Weather Long Description, modified pursuant to our 
+conversation this morning.
+I will change the CDD Product Typre description as well. Also, last week we 
+changed the reference to the price quote to remove reference to "per unit of 
+volume".
+
+Please review and offer approval/comments.
+
+
+
+
+
+
+David:
+
+For your ease of reference, bolding represents additional language; italics 
+represents changes.
+
+Should I be changing the Norway and UK components as well, or will that be 
+done by PCG London? 
+(I am more than happy to do it.)
+
+Dale
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <11657624.1075858621792.JavaMail.evans@thyme>
+Date: Fri, 1 Jun 2001 17:32:00 -0700 (PDT)
+From: chris.walker@enron.com
+To: jeff.blumenthal@enron.com, susan.musch@enron.com, frank.hayden@enron.com,
+	bjorn.hagelmann@enron.com, mark.taylor@enron.com,
+	marcus.nettelton@enron.com, tom.moran@enron.com,
+	stacey.white@enron.com, casey.evans@enron.com,
+	melissa.murphy@enron.com
+Subject: Product type approval (US East Power Phy Spd)
+Cc: lisa.lees@enron.com, stephanie.sever@enron.com, tana.jones@enron.com,
+	karen.lambert@enron.com, kelly.lombardi@enron.com,
+	tara.sweitzer@enron.com, dawn.kenne@enron.com,
+	torrey.moorer@enron.com, kevin.meredith@enron.com,
+	robert.cass@enron.com, melba.lozano@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: lisa.lees@enron.com, stephanie.sever@enron.com, tana.jones@enron.com,
+	karen.lambert@enron.com, kelly.lombardi@enron.com,
+	tara.sweitzer@enron.com, dawn.kenne@enron.com,
+	torrey.moorer@enron.com, kevin.meredith@enron.com,
+	robert.cass@enron.com, melba.lozano@enron.com
+X-From: Chris Walker <Chris Walker/ENRON@enronXgate@ENRON>
+X-To: Jeff Blumenthal <Jeff Blumenthal/ENRON@enronXgate>, Susan Musch <Susan Musch/ENRON@enronXgate>, Frank Hayden <Frank Hayden/ENRON@enronXgate>, Bjorn Hagelmann <Bjorn Hagelmann/ENRON@enronXgate>, Mark Taylor <Mark Taylor/HOU/ECT@ECT>, Marcus Nettelton <Marcus Nettelton/NA/Enron@ENRON>, Tom Moran <Tom Moran/ENRON@enronXgate>, Stacey W White <Stacey W White/HOU/ECT@ECT>, Casey Evans <Casey Evans/Corp/Enron@Enron>, Melissa Ann Murphy <Melissa Ann Murphy/HOU/ECT@ECT>
+X-cc: Lisa Lees <Lisa Lees/ENRON@enronXgate>, Stephanie Sever <Stephanie Sever/ENRON@enronXgate>, Tana Jones <Tana Jones/HOU/ECT@ECT>, Karen Lambert <Karen Lambert/ENRON@enronXgate>, Kelly Lombardi <Kelly Lombardi/ENRON@enronXgate>, Tara Sweitzer <Tara Sweitzer/ENRON@enronXgate>, Dawn C Kenne <Dawn C Kenne/ENRON@enronXgate>, Torrey Moorer <Torrey Moorer/ENRON@enronXgate>, Kevin Meredith <Kevin Meredith/ENRON@enronXgate>, Robert B Cass <Robert B Cass/ENRON@enronXgate>, Melba Lozano <Melba Lozano/ENRON@enronXgate>
+X-bcc: 
+X-Folder: \MTAYLO1 (Non-Privileged)\Taylor, Mark E (Legal)\Online Trading\Product Descriptions
+X-Origin: Taylor-M
+X-FileName: MTAYLO1 (Non-Privileged).pst
+
+Please approve the following product type in Data Manager after 11 A.M.
+
+US East Power Phy Spd
+
+ 
+
+ 
+
+
+STEPS FOR APPROVAL:
+
+click the 	START button 
+select 	PROGRAMS
+select 	TEST APPLICATIONS
+select	ENRONONLINE CLUSTER(PROD)
+	PROCEED WITH USUAL LOGIN/PASSWORD 
+click the	Enron Online Production Cluster "START" button  
+select	EnronOnLine (this is the EOL Datamanager)
+	PROCEED WITH EOL LOGIN/PASSWORD
+click on the "+" for EnronOnLine
+click on the "+" for Product Types
+click on the "+" for "Awaiting Approval" (OR  "Partially Approved")
+select the product requiring review as stated in e-mail above
+Right "mouse" click on "properties" to view product set-up 
+TO APPROVE:  Right mouse click on "Approved"
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <20939097.1075858621837.JavaMail.evans@thyme>
+Date: Fri, 25 May 2001 20:03:00 -0700 (PDT)
+From: harry.collins@enron.com
+To: mark.taylor@enron.com
+Subject: Re: Product Type approval needed (CAN Newsprint Phy)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Harry M Collins <Harry M Collins/HOU/ECT@ECT>
+X-To: Mark Taylor <Mark Taylor/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \MTAYLO1 (Non-Privileged)\Taylor, Mark E (Legal)\Online Trading\Product Descriptions
+X-Origin: Taylor-M
+X-FileName: MTAYLO1 (Non-Privileged).pst
+
+Good to go!
+
+
+
+
+	Mark Taylor 05/25/2001 04:36 PM 	   To: Harry M Collins/HOU/ECT@ECT  cc:   Subject: Product Type approval needed (CAN Newsprint Phy)	
+
+
+Is this one OK as well?
+----- Forwarded by Mark Taylor/HOU/ECT on 05/25/2001 04:36 PM -----
+
+
+	Chris Walker/ENRON@enronXgate 05/24/2001 04:18 PM 	   To: Jeff Blumenthal/ENRON@enronXgate, Susan Musch/ENRON@enronXgate, Bjorn Hagelmann/ENRON@enronXgate, Mark Taylor/HOU/ECT@ECT, Harry M Collins/HOU/ECT@ECT, Tom Moran/ENRON@enronXgate, Shari Mao/HOU/ECT@ECT, Charlie Hoang/ENRON@enronXgate  cc: Lisa Lees/ENRON@enronXgate, Stephanie Sever/ENRON@enronXgate, Tana Jones/HOU/ECT@ECT, Karen Lambert/ENRON@enronXgate, Kelly Lombardi/ENRON@enronXgate, Tara Sweitzer/ENRON@enronXgate, Dawn C Kenne/ENRON@enronXgate, Torrey Moorer/ENRON@enronXgate, Robert B Cass/ENRON@enronXgate, Kevin Meredith/ENRON@enronXgate, Melba Lozano/ENRON@enronXgate, Carlos Alatorre/ENRON@enronXgate  Subject: Product Type approval needed (CAN Newsprint Phy)	
+
+
+Please approve the following product type in Data Manager after 11:00 A.M.  Attached are the GTC and long description.
+
+CAN Newsprint Phy
+
+CAN Newsprnt Phy 48.8 gm East Canada     Jul01           CAD/Mt
+
+  
+
+STEPS FOR APPROVAL:
+
+click the 	START button 
+select 	PROGRAMS
+select 	TEST APPLICATIONS
+select	ENRONONLINE CLUSTER(PROD)
+	PROCEED WITH USUAL LOGIN/PASSWORD 
+click the	Enron Online Production Cluster "START" button  
+select	EnronOnLine (this is the EOL Datamanager)
+	PROCEED WITH EOL LOGIN/PASSWORD
+click on the "+" for EnronOnLine
+click on the "+" for Product Types
+click on the "+" for "Awaiting Approval" (OR  "Partially Approved")
+select the product requiring review as stated in e-mail above
+Right "mouse" click on "properties" to view product set-up 
+TO APPROVE:  Right mouse click on "Approved"
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <4523778.1075858621871.JavaMail.evans@thyme>
+Date: Fri, 25 May 2001 16:59:00 -0700 (PDT)
+From: harry.collins@enron.com
+To: chris.walker@enron.com
+Subject: Re: Approval needed for 2 product types (CAN Recycled OCC and ONP
+ Phy)
+Cc: bjorn.hagelmann@enron.com, carlos.alatorre@enron.com,
+	charlie.hoang@enron.com, dawn.kenne@enron.com,
+	jeff.blumenthal@enron.com, karen.lambert@enron.com,
+	kelly.lombardi@enron.com, kevin.meredith@enron.com,
+	lisa.lees@enron.com, mark.taylor@enron.com, melba.lozano@enron.com,
+	robert.cass@enron.com, shari.mao@enron.com,
+	stephanie.sever@enron.com, susan.musch@enron.com,
+	tana.jones@enron.com, tara.sweitzer@enron.com, tom.moran@enron.com,
+	torrey.moorer@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: bjorn.hagelmann@enron.com, carlos.alatorre@enron.com,
+	charlie.hoang@enron.com, dawn.kenne@enron.com,
+	jeff.blumenthal@enron.com, karen.lambert@enron.com,
+	kelly.lombardi@enron.com, kevin.meredith@enron.com,
+	lisa.lees@enron.com, mark.taylor@enron.com, melba.lozano@enron.com,
+	robert.cass@enron.com, shari.mao@enron.com,
+	stephanie.sever@enron.com, susan.musch@enron.com,
+	tana.jones@enron.com, tara.sweitzer@enron.com, tom.moran@enron.com,
+	torrey.moorer@enron.com
+X-From: Harry M Collins <Harry M Collins/HOU/ECT@ECT>
+X-To: Chris Walker <Chris Walker/ENRON@enronXgate@ENRON>
+X-cc: Bjorn Hagelmann <Bjorn Hagelmann/ENRON@enronXgate>, Carlos Alatorre <Carlos Alatorre/ENRON@enronXgate>, Charlie Hoang <Charlie Hoang/ENRON@enronXgate>, Dawn C Kenne <Dawn C Kenne/ENRON@enronXgate>, Jeff Blumenthal <Jeff Blumenthal/ENRON@enronXgate>, Karen Lambert <Karen Lambert/ENRON@enronXgate>, Kelly Lombardi <Kelly Lombardi/ENRON@enronXgate>, Kevin Meredith <Kevin Meredith/ENRON@enronXgate>, Lisa Lees <Lisa Lees/ENRON@enronXgate>, Mark Taylor <Mark Taylor/HOU/ECT@ECT>, Melba Lozano <Melba Lozano/ENRON@enronXgate>, Robert B Cass <Robert B Cass/ENRON@enronXgate>, Shari Mao <Shari Mao/HOU/ECT@ECT>, Stephanie Sever <Stephanie Sever/ENRON@enronXgate>, Susan Musch <Susan Musch/ENRON@enronXgate>, Tana Jones <Tana Jones/HOU/ECT@ECT>, Tara Sweitzer <Tara Sweitzer/ENRON@enronXgate>, Tom Moran <Tom Moran/ENRON@enronXgate>, Torrey Moorer <Torrey Moorer/ENRON@enronXgate>
+X-bcc: 
+X-Folder: \MTAYLO1 (Non-Privileged)\Taylor, Mark E (Legal)\Online Trading\Product Descriptions
+X-Origin: Taylor-M
+X-FileName: MTAYLO1 (Non-Privileged).pst
+
+Good to go!
+
+
+
+
+	Chris Walker/ENRON@enronXgate 05/25/2001 11:34 AM 	   To: Jeff Blumenthal/ENRON@enronXgate, Susan Musch/ENRON@enronXgate, Bjorn Hagelmann/ENRON@enronXgate, Mark Taylor/HOU/ECT@ECT, Harry M Collins/HOU/ECT@ECT, Tom Moran/ENRON@enronXgate, Shari Mao/HOU/ECT@ECT, Charlie Hoang/ENRON@enronXgate  cc: Lisa Lees/ENRON@enronXgate, Stephanie Sever/ENRON@enronXgate, Tana Jones/HOU/ECT@ECT, Karen Lambert/ENRON@enronXgate, Kelly Lombardi/ENRON@enronXgate, Tara Sweitzer/ENRON@enronXgate, Dawn C Kenne/ENRON@enronXgate, Torrey Moorer/ENRON@enronXgate, Robert B Cass/ENRON@enronXgate, Kevin Meredith/ENRON@enronXgate, Melba Lozano/ENRON@enronXgate, Carlos Alatorre/ENRON@enronXgate  Subject: Approval needed for 2 product types (CAN Recycled OCC and ONP Phy)	
+
+
+Please approve the following 2 product types in Data Manager after 11:00 A.M.  Attached are the GTC and long descriptions.
+
+
+CAN Recycled OCC Phy
+CAN Recycled ONP Phy
+
+
+   
+
+STEPS FOR APPROVAL:
+
+click the 	START button 
+select 	PROGRAMS
+select 	TEST APPLICATIONS
+select	ENRONONLINE CLUSTER(PROD)
+	PROCEED WITH USUAL LOGIN/PASSWORD 
+click the	Enron Online Production Cluster "START" button  
+select	EnronOnLine (this is the EOL Datamanager)
+	PROCEED WITH EOL LOGIN/PASSWORD
+click on the "+" for EnronOnLine
+click on the "+" for Product Types
+click on the "+" for "Awaiting Approval" (OR  "Partially Approved")
+select the product requiring review as stated in e-mail above
+Right "mouse" click on "properties" to view product set-up 
+TO APPROVE:  Right mouse click on "Approved"
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <32150306.1075860278234.JavaMail.evans@thyme>
+Date: Mon, 16 Apr 2001 03:28:00 -0700 (PDT)
+From: chris.walker@enron.com
+To: mark.taylor@enron.com
+Subject: RE: NEPOOL
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Chris Walker
+X-To: Mark Taylor
+X-cc: 
+X-bcc: 
+X-Folder: \Mark_Taylor_Jun2001\Notes Folders\Online trading\Product descriptions
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+Mark,
+
+The following is a new  power demand index requested by Claudio Ribeiro.  
+Please let me know if it looks OK for the Website.
+
+A US Power Demand Financial Swap Transaction with Enron North America Corp., 
+under which the Seller is obliged to pay the Payment Amount to the Buyer 
+where the Floating Amount is above the Fixed Amount, or where the Buyer is 
+obliged to pay the Payment Amount to the Seller where the Floating Amount is 
+below the Fixed Amount.  The Fixed Amount is the amount in Megawatts 
+submitted in the "price" field by Counterparty via the Website. The Notional 
+Amount is the product of the quantity submitted by Counterparty via the 
+Website and the Pay Unit. The Payment Amount is the product of (i) the 
+Notional Amount and (ii) the absolute value of the difference between the 
+Floating Amount and the Fixed Amount.  The Payment Amount will be payable on 
+or before ten (10) business days after the Floating Amount for the 
+Determination Period is determinable.
+The Determination Period is from and including the Effective Date of 04 Jun 
+2001 (Initial Date) to and including the Termination Date of 08 Jun 2001 (End 
+Date).
+The Floating Amount shall be the arithmetic average of the hourly PJM loads 
+for Peak hours on each Delivery Day during the Determination Period. The 
+Floating Amount shall be calculated utilizing the hourly integrated loads 
+published by PJM Interconnection, LLC ("PJM") on its official web site 
+currently located at ftp://www.pjm.com/pub/account/loadhryr/index.html, or 
+any successor thereto, under the heading "PJM Hourly Load Data".
+The price is quoted in US Dollars per unit of volume, which will be the 
+Contractual Currency.
+The unit of measure against which the price is quoted shall be megawatts and 
+the quantity shown shall be in total MWs.
+The transaction is for on-peak ("Peak") hours on each Delivery Day beginning 
+with the hour ending 0800 (7:00 am) and concluding with the hour ending 2300 
+(11:00 pm) Eastern Prevailing Time.  "Delivery Day" means a day during the 
+term of the transaction that is a Monday, Tuesday, Wednesday, Thursday, or 
+Friday, excluding any day that is a NERC holiday.
+The Pay Unit is 10 USD.
+
+Thanks,
+
+CW
+3-7533
+
+---------------------- Forwarded by Chris Walker/HOU/ECT on 04/16/2001 10:11 
+AM ---------------------------
+From: Claudio Ribeiro/ENRON@enronXgate on 04/12/2001 11:20 AM
+To: Chris Walker/HOU/ECT@ECT, Michael Nguyen/ENRON@enronXgate
+cc:  
+Subject: RE: NEPOOL
+
+Chris,
+
+the lenguage is fine for us.
+
+Thanks,
+
+Claudio
+
+ -----Original Message-----
+From:  Walker, Chris  
+Sent: Wednesday, April 11, 2001 1:06 PM
+To: Nguyen, Michael; Ribeiro, Claudio
+Subject: NEPOOL
+
+Melba is out of the office for the remainder of the week and I will be taking 
+on her responsibilities.  Let me know if the following language is OK for the 
+new index:
+
+The Floating Amount shall be the arithmetic average of the hourly loads for 
+Peak hours on each Delivery Day during the Calculation Period. The Floating 
+Amount shall be calculated utilizing the hourly integrated loads published by 
+ISO New England Inc. ("ISO-NE") on its official web site currently located at 
+http://www.iso-ne.com/Historical_Data/hourly_data/2001_hourly_data.txt, or 
+any successor thereto, under the heading "Load".
+
+Thank you,
+
+CW
+3-7533
+
+---------------------- Forwarded by Chris Walker/HOU/ECT on 04/11/2001 01:02 
+PM ---------------------------
+   
+
+  From:  Melba Lozano                                                         
+    04/10/2001 03:01 PM	                              
+	
+
+
+To: Chris Walker/HOU/ECT@ECT
+cc:  
+Subject: NEPOOL
+
+
+---------------------- Forwarded by Melba Lozano/HOU/ECT on 04/10/2001 03:01 
+PM ---------------------------
+From: Claudio Ribeiro/ENRON@enronXgate on 04/06/2001 07:56 AM
+To: Melba Lozano/HOU/ECT@ECT
+cc: Michael Nguyen/ENRON@enronXgate 
+Subject: NEPOOL
+
+Melba,
+
+the web location for NEPOOL Data is (for 2001) 
+http://www.iso-ne.com/Historical_Data/hourly_data/2001_hourly_data.txt. The 
+demand data is the data on the column under the name LOAD. The formulation 
+for the weekly index (demand) is the same as it is in PJM.
+
+Thanks,
+
+Claudio
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <10595884.1075858621760.JavaMail.evans@thyme>
+Date: Fri, 1 Jun 2001 18:42:00 -0700 (PDT)
+From: chris.walker@enron.com
+To: jeff.blumenthal@enron.com, susan.musch@enron.com, frank.hayden@enron.com,
+	mark.taylor@enron.com, stacy.dickson@enron.com, tom.moran@enron.com,
+	phillip.love@enron.com, larry.hunter@enron.com
+Subject: Product type approval needed (US Gas Phy Fwd Secondary Firm)
+Cc: lisa.lees@enron.com, tara.sweitzer@enron.com, tana.jones@enron.com,
+	karen.lambert@enron.com, kelly.lombardi@enron.com,
+	stephanie.sever@enron.com, dawn.kenne@enron.com,
+	torrey.moorer@enron.com, robert.cass@enron.com,
+	kevin.meredith@enron.com, melba.lozano@enron.com,
+	carlos.alatorre@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: lisa.lees@enron.com, tara.sweitzer@enron.com, tana.jones@enron.com,
+	karen.lambert@enron.com, kelly.lombardi@enron.com,
+	stephanie.sever@enron.com, dawn.kenne@enron.com,
+	torrey.moorer@enron.com, robert.cass@enron.com,
+	kevin.meredith@enron.com, melba.lozano@enron.com,
+	carlos.alatorre@enron.com
+X-From: Chris Walker <Chris Walker/ENRON@enronXgate@ENRON>
+X-To: Jeff Blumenthal <Jeff Blumenthal/ENRON@enronXgate>, Susan Musch <Susan Musch/ENRON@enronXgate>, Frank Hayden <Frank Hayden/ENRON@enronXgate>, Mark Taylor <Mark Taylor/HOU/ECT@ECT>, Stacy E Dickson <Stacy E Dickson/HOU/ECT@ECT>, Tom Moran <Tom Moran/ENRON@enronXgate>, Phillip M Love <Phillip M Love/ENRON@enronXgate>, Larry Joe Hunter <Larry Joe Hunter/HOU/ECT@ECT>
+X-cc: Lisa Lees <Lisa Lees/ENRON@enronXgate>, Tara Sweitzer <Tara Sweitzer/ENRON@enronXgate>, Tana Jones <Tana Jones/HOU/ECT@ECT>, Karen Lambert <Karen Lambert/ENRON@enronXgate>, Kelly Lombardi <Kelly Lombardi/ENRON@enronXgate>, Stephanie Sever <Stephanie Sever/ENRON@enronXgate>, Dawn C Kenne <Dawn C Kenne/ENRON@enronXgate>, Torrey Moorer <Torrey Moorer/ENRON@enronXgate>, Robert B Cass <Robert B Cass/ENRON@enronXgate>, Kevin Meredith <Kevin Meredith/ENRON@enronXgate>, Melba Lozano <Melba Lozano/ENRON@enronXgate>, Carlos Alatorre <Carlos Alatorre/ENRON@enronXgate>
+X-bcc: 
+X-Folder: \MTAYLO1 (Non-Privileged)\Taylor, Mark E (Legal)\Online Trading\Product Descriptions
+X-Origin: Taylor-M
+X-FileName: MTAYLO1 (Non-Privileged).pst
+
+Please approve the following product type in Data Manager after 11 A.M.
+
+US Gas Phy Fwd Secondary Firm
+
+ 
+
+ 
+
+STEPS FOR APPROVAL:
+
+click the 	START button 
+select 	PROGRAMS
+select 	TEST APPLICATIONS
+select	ENRONONLINE CLUSTER(PROD)
+	PROCEED WITH USUAL LOGIN/PASSWORD 
+click the	Enron Online Production Cluster "START" button  
+select	EnronOnLine (this is the EOL Datamanager)
+	PROCEED WITH EOL LOGIN/PASSWORD
+click on the "+" for EnronOnLine
+click on the "+" for Product Types
+click on the "+" for "Awaiting Approval" (OR  "Partially Approved")
+select the product requiring review as stated in e-mail above
+Right "mouse" click on "properties" to view product set-up 
+TO APPROVE:  Right mouse click on "Approved"
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <24071254.1075858621930.JavaMail.evans@thyme>
+Date: Mon, 9 Jul 2001 09:53:29 -0700 (PDT)
+From: arfan.aziz@enron.com
+To: justin.boyd@enron.com, paul.maley@enron.com, chris.sloan@enron.com,
+	janine.juggins@enron.com, guenther.klar@enron.com,
+	bjorn.hagelmann@enron.com, mary.nordstrom@enron.com,
+	cindy.horn@enron.com, rebecca.millerchip@enron.com
+Subject: FW: URGENT - re Tanker Freight
+Cc: simon.thurbin@enron.com, dimitri.taylor@enron.com, debbie.nicholls@enron.com,
+	raju.dattani@enron.com, carol.chew@enron.com,
+	patrick.markey@enron.com, homan.amiry@enron.com,
+	camille.sexton@enron.com, ian.brungs@enron.com,
+	group.enron@enron.com, paul.henking@enron.com,
+	scott.moncrieff@enron.com, matthias.lee@enron.com,
+	andy.james@enron.com, chris.connelly@enron.com,
+	kevin.meredith@enron.com, b..cass@enron.com,
+	legal <.taylor@enron.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: simon.thurbin@enron.com, dimitri.taylor@enron.com, debbie.nicholls@enron.com,
+	raju.dattani@enron.com, carol.chew@enron.com,
+	patrick.markey@enron.com, homan.amiry@enron.com,
+	camille.sexton@enron.com, ian.brungs@enron.com,
+	group.enron@enron.com, paul.henking@enron.com,
+	scott.moncrieff@enron.com, matthias.lee@enron.com,
+	andy.james@enron.com, chris.connelly@enron.com,
+	kevin.meredith@enron.com, b..cass@enron.com,
+	legal <.taylor@enron.com>
+X-From: Aziz, Arfan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=AAZIZ>
+X-To: Boyd, Justin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=JBOYD>, Maley, Paul </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=PMALEY>, Sloan, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=CSLOAN>, Juggins, Janine </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=JJUGGIN>, Klar, Guenther </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=GKLAR>, Hagelmann, Bjorn </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BHAGELM>, Nordstrom, Mary </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MNORDST2>, Horn, Cindy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=CHORN>, Millerchip, Rebecca </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=RMILLERC>
+X-cc: Thurbin, Simon </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=STHURBI2>, Taylor, Dimitri </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=DTAYLOR8>, Nicholls, Debbie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=DNICHOLL>, Dattani, Raju </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=RDATTANI>, Chew, Carol </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=BBA1DC1C-5F2FFE5B-862565FD-31A8C5>, Markey, Patrick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=D055C5F6-8FBBA9DD-862567AF-4678CB>, Amiry, Homan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=HAMIRY>, Sexton, Camille </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=CSEXTON>, Brungs, Ian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=IBRUNGS>, Enron London - EOL Product Control Group, </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=EB17BF3-5A5745-802567F4-3D719C>, Henking, Paul </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=D2FB4CEC-EB402B51-862564B8-6333D2>, Moncrieff, Scott </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=SMONCRIE>, Lee, Matthias </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=C787CE45-517FFAEB-482567C2-23D8C1>, James, Andy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=AJAMES>, Connelly, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/CN=RECIPIENTS/CN=CCONNELL>, Meredith, Kevin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KMEREDI>, Cass, Robert B. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RCASS>, Taylor, Mark E (Legal) </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MTAYLO1>
+X-bcc: 
+X-Folder: \MTAYLO1 (Non-Privileged)\Taylor, Mark E (Legal)\Online Trading\Product Descriptions
+X-Origin: Taylor-M
+X-FileName: MTAYLO1 (Non-Privileged).pst
+
+
+Please note that the two new Tanker Freight Product Types have been added to EnronOnline for your approval.  They are as follows:
+
+UK Tanker Freight BITR 11 Swap
+SG Tanker Freight IITRA Swap
+
+Please approve these by noon on Wednesday 11th July so that we may meet our deadlines and launch on Monday 16th July.  Please call if you have any queries.
+
+I have also attached the approproate GTCs (our general financial GTCs)
+
+Please also note that the existing BITR 7 product descriptions will be changed on Friday to be in line with the new product types..
+
+Regards
+
+Arfan
+
+
+    
+
+----- Forwarded by Arfan Aziz/LON/ECT on 09/07/2001 17:46 -----
+From:	Arfan Aziz on 09/07/2001 12:25
+To:	Paul Henking/SIN/ECT@ECT, Homer Lin/HOU/ECT@ECT, Ian Brungs/Enron@EUEnronXGate, Debbie Nicholls/Enron@EUEnronXGate, Matthias Lee/SIN/ECT@ECT, Kevin Meredith/ENRON@enronXgate, Robert B Cass/ENRON@enronXgate, Mark Taylor/ENRON@enronXgate, Scott Moncrieff/Enron@EUEnronXGate
+cc:	Enron London - EOL Product Control Group/LON/ECT@ECT, Justin Boyd/Enron@EUEnronXGate 
+
+Subject:	FW: URGENT - re Tanker Freight
+
+Apologies again everybody - latest decsriptions.
+
+Arfan
+
+
+    
+
+----- Forwarded by Arfan Aziz/LON/ECT on 09/07/2001 12:20 -----
+From:	Arfan Aziz/Enron@EUEnronXGate on 09/07/2001 12:04
+To:	Paul Henking/SIN/ECT@ECT, Homer Lin/HOU/ECT@ECT, Ian Brungs/Enron@EUEnronXGate, Debbie Nicholls/Enron@EUEnronXGate, Matthias Lee/SIN/ECT@ECT, Kevin Meredith/ENRON@enronXgate, Robert B Cass/ENRON@enronXgate, Mark Taylor/ENRON@enronXgate, Scott Moncrieff/Enron@EUEnronXGate
+cc:	Enron London - EOL Product Control Group/LON/ECT@ECT, Justin Boyd/Enron@EUEnronXGate 
+
+Subject:	FW: URGENT - re Tanker Freight
+
+Apologies everybody - attached are the descriptions as they will appear on the webpage.
+
+Thanks
+
+Arfan
+
+      
+
+
+
+
+
+
+ -----Original Message-----
+From: 	Aziz, Arfan  
+Sent:	09 July 2001 11:21
+To:	Taylor, Mark E (Legal); Henking, Paul; Lin, Homer; Brungs, Ian; Nicholls, Debbie; Lee, Matthias; Meredith, Kevin; Cass, Robert B.
+Cc:	Enron London - EOL Product Control Group,; Boyd, Justin
+Subject:	URGENT - re Tanker Freight
+
+
+Please find attached the latest long description for the tanker freight products.  Please note that I will add this to the system this afternoon as it stands for the UK and Singapore products (changing the route details)  unless I hear otherwise so as to enable us to get everything approved and meet the live date for next Monday.
+
+Thanks
+
+Arfan
+
+
+ << File: Tanker Freight @5.7.01.doc >> 
+
+
+ -----Original Message-----
+From: 	Moncrieff, Scott  
+Sent:	09 July 2001 11:12
+To:	Nicholls, Debbie
+Cc:	Aziz, Arfan; Henking, Paul; King, Joe; Lin, Homer
+Subject:	RE: Tanker Freight BITR 9 approval
+
+approved, 
+thanks very much.
+it would be great if Houston and Singapore could be up and running for next Monday 
+thanks
+
+
+ -----Original Message-----
+From: 	Nicholls, Debbie  
+Sent:	06 July 2001 10:18
+To:	Moncrieff, Scott
+Cc:	Cane, Graham; Aziz, Arfan
+Subject:	Tanker Freight BITR 9 approval
+
+
+
+Scott,
+
+I have read all the mails from Paul and his questions relate to the issue which Matthias brought up regarding if the Flat rate changes within a period would two flat rates be used etc etc.  The answer is no the last Flat Rate shall be used for the whole Determination Period.
+
+I have attached the latest wording from legal for BITR 9 and made the appropriate changes highlighted in red, Singapore's amendment is shown in respect to our previous request in blue. 
+
+Please let me know if you approve of the final wording so Arfan can send this to the lawyers for their final approval which hopefully after all this time would mean that  EOL can post BITR 9 & 11 and IITRA on EOL for Monday 16th July.  
+
+If you have any questions, please let me know.
+
+ << File: Tanker Freight @5.7.01.doc >> 
+
+
+Regards,
+
+Debbie
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <31280827.1075861989751.JavaMail.evans@thyme>
+Date: Tue, 6 Nov 2001 07:52:47 -0800 (PST)
+From: e..dickson@enron.com
+To: legal <.taylor@enron.com>
+Subject: FW: Product Type approval - (CAN Gas Phy Fwd Firm East Spd < or =
+ 1Mo)
+Cc: chris.walker@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Bcc: chris.walker@enron.com
+X-From: Dickson, Stacy E. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SDICKSO>
+X-To: Taylor, Mark E (Legal) </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mtaylo1>
+X-cc: Walker, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cwalker>
+X-bcc: 
+X-Folder: \MTAYLO1 (Non-Privileged)\Taylor, Mark E (Legal)\Online Trading\Product Descriptions
+X-Origin: Taylor-M
+X-FileName: MTAYLO1 (Non-Privileged).pst
+
+
+I am fine with this product.
+
+Stacy
+ -----Original Message-----
+From: =09Walker, Chris =20
+Sent:=09Monday, November 05, 2001 4:41 PM
+To:=09Taylor, Mark E (Legal); Moran, Tom; Musch, Susan; Blumenthal, Jeff; H=
+ayden, Frank; Love, Phillip M.; Dickson, Stacy E.
+Cc:=09Anderson, Diane; Lees, Lisa; Sever, Stephanie; Clark, Claudia; O'day,=
+ Karen; Guillory, Michael; Jones, Tana; Lambert, Karen; Lombardi, Kelly; Sw=
+eitzer, Tara; Lozano, Melba; Kenne, Dawn C.; Moorer, Torrey; Meredith, Kevi=
+n; Hoang, Charlie; Renaud, Lindsay; Denny, Jennifer
+Subject:=09Product Type approval - (CAN Gas Phy Fwd Firm East Spd < or =3D =
+1Mo)
+
+Your review and approval of the following product type in the EOL Data mana=
+ger is needed (for directions on approval, please see steps for approval at=
+ the bottom of this e-mail).  Please do not approve before 11 A.M.
+
+
+CAN Gas Phy Fwd Firm East Spd < or =3D 1Mo=09(2193)
+
+Can Gas Phy Spd  Dawn vs Niagara   Nov01           USD/MM
+
+A Canadian Gas Spread Transaction which is entered into as two physical Tra=
+nsactions with Enron North America Corp. under which either (A) for the cas=
+e in which Counterparty submits an offer to buy the Spread from Enron, Coun=
+terparty shall sell the First Transaction and buy the Second Transaction wh=
+ile Enron shall buy the First Transaction and sell the Second Transaction, =
+each in respect to a quantity of natural gas equal to the Daily Contract Qu=
+antity at the Contract Price on a firm basis; or (B) for the case in which =
+Counterparty submits an offer to sell the Spread to Enron, Counterparty sha=
+ll buy the First Transaction and sell the Second Transaction while Enron sh=
+all sell the First Transaction and buy the Second Transaction, each in resp=
+ect to a quantity of natural gas equal to the Daily Contract Quantity at th=
+e Contract Price on a firm basis. The Contract Price for the First Transact=
+ion will be the midpoint of the bid and offer price(s) on the Website for t=
+he first product listed in the short description at the time of the Transac=
+tion if both the bid and offer prices are then available or the available p=
+rice if only one of such prices is then available.  The Contract Price for =
+the Second Transaction will be the Contract Price for the First Transaction=
+, modified by the price submitted by the Counterparty on the Website.
+The transaction is from the Effective Date to the Termination Date. The Eff=
+ective Date is 01 Nov 2001. The Termination Date is 30 Nov 2001.
+The First Transaction is for delivery at Union Gas - Dawn, Ontario.  The Se=
+cond Transaction is for delivery to Transcanada Pipelines at Niagara.
+The price is quoted in US Dollars per unit of volume, which will be the Con=
+tractual Currency.
+The unit of measure against which the price is quoted shall be millions of =
+British thermal units and the quantity shown shall be in millions of BTUs p=
+er day.
+
+
+=20
+
+STEPS FOR APPROVAL:
+
+click the =09START button=20
+select =09PROGRAMS
+select =09TEST APPLICATIONS
+select=09ENRONONLINE CLUSTER(PROD)
+=09PROCEED WITH USUAL LOGIN/PASSWORD=20
+click the=09Enron Online Production Cluster "START" button =20
+select=09EnronOnLine (this is the EOL Datamanager)
+=09PROCEED WITH EOL LOGIN/PASSWORD
+click on the "+" for EnronOnLine
+click on the "+" for Product Types
+click on the "+" for "Awaiting Approval" (OR  "Partially Approved")
+select the product requiring review as stated in e-mail above
+Right "mouse" click on "properties" to view product set-up=20
+TO APPROVE:  Right mouse click on "Approved"
+
+CW
+3-7533
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <30351552.1075858621902.JavaMail.evans@thyme>
+Date: Thu, 24 May 2001 19:18:00 -0700 (PDT)
+From: chris.walker@enron.com
+To: jeff.blumenthal@enron.com, susan.musch@enron.com, bjorn.hagelmann@enron.com,
+	mark.taylor@enron.com, harry.collins@enron.com, tom.moran@enron.com,
+	shari.mao@enron.com, charlie.hoang@enron.com
+Subject: Product Type approval needed (CAN Newsprint Phy)
+Cc: lisa.lees@enron.com, stephanie.sever@enron.com, tana.jones@enron.com,
+	karen.lambert@enron.com, kelly.lombardi@enron.com,
+	tara.sweitzer@enron.com, dawn.kenne@enron.com,
+	torrey.moorer@enron.com, robert.cass@enron.com,
+	kevin.meredith@enron.com, melba.lozano@enron.com,
+	carlos.alatorre@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: lisa.lees@enron.com, stephanie.sever@enron.com, tana.jones@enron.com,
+	karen.lambert@enron.com, kelly.lombardi@enron.com,
+	tara.sweitzer@enron.com, dawn.kenne@enron.com,
+	torrey.moorer@enron.com, robert.cass@enron.com,
+	kevin.meredith@enron.com, melba.lozano@enron.com,
+	carlos.alatorre@enron.com
+X-From: Chris Walker <Chris Walker/ENRON@enronXgate@ENRON>
+X-To: Jeff Blumenthal <Jeff Blumenthal/ENRON@enronXgate>, Susan Musch <Susan Musch/ENRON@enronXgate>, Bjorn Hagelmann <Bjorn Hagelmann/ENRON@enronXgate>, Mark Taylor <Mark Taylor/HOU/ECT@ECT>, Harry M Collins <Harry M Collins/HOU/ECT@ECT>, Tom Moran <Tom Moran/ENRON@enronXgate>, Shari Mao <Shari Mao/HOU/ECT@ECT>, Charlie Hoang <Charlie Hoang/ENRON@enronXgate>
+X-cc: Lisa Lees <Lisa Lees/ENRON@enronXgate>, Stephanie Sever <Stephanie Sever/ENRON@enronXgate>, Tana Jones <Tana Jones/HOU/ECT@ECT>, Karen Lambert <Karen Lambert/ENRON@enronXgate>, Kelly Lombardi <Kelly Lombardi/ENRON@enronXgate>, Tara Sweitzer <Tara Sweitzer/ENRON@enronXgate>, Dawn C Kenne <Dawn C Kenne/ENRON@enronXgate>, Torrey Moorer <Torrey Moorer/ENRON@enronXgate>, Robert B Cass <Robert B Cass/ENRON@enronXgate>, Kevin Meredith <Kevin Meredith/ENRON@enronXgate>, Melba Lozano <Melba Lozano/ENRON@enronXgate>, Carlos Alatorre <Carlos Alatorre/ENRON@enronXgate>
+X-bcc: 
+X-Folder: \MTAYLO1 (Non-Privileged)\Taylor, Mark E (Legal)\Online Trading\Product Descriptions
+X-Origin: Taylor-M
+X-FileName: MTAYLO1 (Non-Privileged).pst
+
+Please approve the following product type in Data Manager after 11:00 A.M.  Attached are the GTC and long description.
+
+CAN Newsprint Phy
+
+CAN Newsprnt Phy 48.8 gm East Canada     Jul01           CAD/Mt
+
+  
+
+STEPS FOR APPROVAL:
+
+click the 	START button 
+select 	PROGRAMS
+select 	TEST APPLICATIONS
+select	ENRONONLINE CLUSTER(PROD)
+	PROCEED WITH USUAL LOGIN/PASSWORD 
+click the	Enron Online Production Cluster "START" button  
+select	EnronOnLine (this is the EOL Datamanager)
+	PROCEED WITH EOL LOGIN/PASSWORD
+click on the "+" for EnronOnLine
+click on the "+" for Product Types
+click on the "+" for "Awaiting Approval" (OR  "Partially Approved")
+select the product requiring review as stated in e-mail above
+Right "mouse" click on "properties" to view product set-up 
+TO APPROVE:  Right mouse click on "Approved"
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <22190514.1075860045365.JavaMail.evans@thyme>
+Date: Fri, 17 Dec 1999 01:49:00 -0800 (PST)
+From: dale.neuner@enron.com
+To: mark.taylor@enron.com
+Subject: Re: Proposed new Index
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Dale Neuner
+X-To: Mark Taylor
+X-cc: 
+X-bcc: 
+X-Folder: \Mark_Taylor _Dec_2000\Notes Folders\Online trading\Product descriptions
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+Mine are in BLUE; please revert.
+
+
+
+
+
+To: Dale Neuner/HOU/ECT@ECT
+cc:  
+Subject: Re: Proposed new Index  
+
+My comments are marked below in red.
+
+
+
+Dale Neuner on 12/15/99 03:35:59 PM
+To: Mark Taylor/HOU/ECT@ECT
+cc:  
+Subject: Re: Proposed new Index
+
+Please approve or offer comments:
+
+
+---------------------- Forwarded by Dale Neuner/HOU/ECT on 12/15/99 03:35 PM 
+---------------------------
+
+
+Marcello Romano
+12/15/99 02:53 PM
+To: Dale Neuner/HOU/ECT@ECT
+cc:  
+Subject: Re: Proposed new Index  
+
+Looks fine - we need to get authorisation now.
+
+M
+
+
+
+Dale Neuner on 12/15/99 01:48:29 PM
+To: David Forster/LON/ECT@ECT, Marcello Romano/LON/ECT@ECT
+cc: Elsa Villarreal/HOU/ECT@ECT 
+
+Subject: Proposed new Index
+
+
+
+Index:  Gas Daily WAHA
+Abbreviation: Waha
+Sort Code: 3530
+
+
+The Index for a calendar day shall be the average of the Daily Midpoint 
+prices published for such calendar day under the heading "Daily Price Survey" 
+in the Permian Basin Area: Tex intras, Waha area section of Gas Daily, or if 
+a calendar day is not a Business Day then the price for such calendar day 
+will be the average of the Common High and Common Low prices published on the 
+next succeeding Business Day.
+
+Should the word "area" after "Waha" be capitalized? It's not capitalized in 
+the Gas Daily publication - so to consistent with the publication I did not 
+capitalize.
+On some Gas Daily products we are switching to the Gas Daily posted average - 
+is this one of those?  Bob Bowen has been looking into this also. See above.
+
+
+
+
+
+
+
+
+
+
+
+

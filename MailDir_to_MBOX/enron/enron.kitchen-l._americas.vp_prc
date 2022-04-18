@@ -1,0 +1,467 @@
+From MAILER-DAEMON Mon Apr 18 14:24:55 2022
+Message-ID: <24469707.1075840951035.JavaMail.evans@thyme>
+Date: Thu, 24 May 2001 16:26:00 -0700 (PDT)
+From: david.delainey@enron.com
+To: david.delainey@enron.com, philippe.bibi@enron.com, tim.belden@enron.com,
+	raymond.bowen@enron.com, michael.brown@enron.com, rick.buy@enron.com,
+	wes.colwell@enron.com, david.cox@enron.com, janet.dietrich@enron.com,
+	w.duran@enron.com, jim.fallon@enron.com, ben.glisan@enron.com,
+	joe.gold@enron.com, mark.haedicke@enron.com, james.hughes@enron.com,
+	louise.kitchen@enron.com, michael.kopper@enron.com,
+	john.lavorato@enron.com, dan.leff@enron.com,
+	jeffrey.mcmahon@enron.com, rob.milnthorp@enron.com,
+	matthew.scrimshaw@enron.com, jeffrey.shankman@enron.com,
+	richard.shapiro@enron.com, marty.sunde@enron.com
+Subject: Peer Group Mapping
+Cc: kenneth.lay@enron.com, cliff.baxter@enron.com, james.derrick@enron.com,
+	ken.rice@enron.com, steven.kean@enron.com, greg.whalley@enron.com,
+	stanley.horton@enron.com, jeff.skilling@enron.com,
+	richard.causey@enron.com, kevin.hannon@enron.com,
+	andrew.fastow@enron.com, mark.frevert@enron.com, lou.pai@enron.com,
+	david.oxley@enron.com, drew.lynch@enron.com, robert.jones@enron.com,
+	mary.joyce@enron.com, marla.barnard@enron.com,
+	kalen.pieper@enron.com, gary.smith@enron.com,
+	cindy.skinner@enron.com, andrea.yowman@enron.com,
+	cindy.olson@enron.com, gina.corteselli@enron.com,
+	elspeth.inglis@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: kenneth.lay@enron.com, cliff.baxter@enron.com, james.derrick@enron.com,
+	ken.rice@enron.com, steven.kean@enron.com, greg.whalley@enron.com,
+	stanley.horton@enron.com, jeff.skilling@enron.com,
+	richard.causey@enron.com, kevin.hannon@enron.com,
+	andrew.fastow@enron.com, mark.frevert@enron.com, lou.pai@enron.com,
+	david.oxley@enron.com, drew.lynch@enron.com, robert.jones@enron.com,
+	mary.joyce@enron.com, marla.barnard@enron.com,
+	kalen.pieper@enron.com, gary.smith@enron.com,
+	cindy.skinner@enron.com, andrea.yowman@enron.com,
+	cindy.olson@enron.com, gina.corteselli@enron.com,
+	elspeth.inglis@enron.com
+X-From: David W Delainey <David W Delainey/HOU/EES@EES>
+X-To: David W Delainey <David W Delainey/HOU/EES@EES>, Philippe A Bibi <Philippe A Bibi/HOU/ECT@ECT>, Tim Belden <Tim Belden/HOU/ECT@ECT>, Raymond Bowen <Raymond Bowen/HOU/ECT@ECT>, Michael R Brown <Michael R Brown/LON/ECT@ECT>, Rick Buy <Rick Buy/Enron@EnronXGate>, Wes Colwell <Wes Colwell/Enron@EnronXGate>, David Cox <David Cox/Enron Communications@Enron Communications>, Janet R Dietrich <Janet R Dietrich/HOU/EES@EES>, W David Duran <W David Duran/HOU/ECT@ECT>, Jim Fallon <Jim Fallon/Enron Communications@Enron Communications>, Ben Glisan <Ben Glisan/HOU/ECT@ECT>, Joe Gold <Joe Gold/LON/ECT@ECT>, Mark E Haedicke <Mark E Haedicke/HOU/ECT@ECT>, James A Hughes <James A Hughes/ENRON_DEVELOPMENT@ECT>, Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>, Michael Kopper <Michael Kopper/HOU/ECT@ECT>, John J Lavorato <John J Lavorato/Corp/Enron@ECT>, Dan Leff <Dan Leff/HOU/EES@EES>, Jeffrey McMahon <Jeffrey McMahon/Enron@EnronXGate>, Rob Milnthorp <Rob Milnthorp/CAL/ECT@ECT>, Matthew Scrimshaw <Matthew Scrimshaw/LON/ECT@ECT>, Jeffrey A Shankman <Jeffrey A Shankman/HOU/ECT@ECT>, Richard Shapiro <Richard Shapiro/NA/Enron@Enron>, Marty Sunde <Marty Sunde/HOU/EES@EES>
+X-cc: Kenneth Lay <Kenneth Lay/Corp/Enron@ENRON>, Cliff Baxter <Cliff Baxter/HOU/ECT@ECT>, James Derrick <James Derrick/Corp/Enron@ECT>, Ken Rice <Ken Rice/Enron Communications@Enron Communications>, Steven J Kean <Steven J Kean/NA/Enron@Enron>, Greg Whalley <Greg Whalley/HOU/ECT@ECT>, Stanley Horton <Stanley Horton/Corp/Enron@Enron>, Jeff Skilling <Jeff Skilling/Corp/Enron@ENRON>, Richard Causey <Richard Causey/Corp/Enron@ENRON>, Kevin Hannon <Kevin Hannon/Enron Communications@Enron Communications>, Andrew S Fastow <Andrew S Fastow/HOU/ECT@ECT>, Mark Frevert <Mark Frevert/NA/Enron@ECT>, Lou L Pai <Lou L Pai/HOU/EES@EES>, David Oxley <David Oxley/HOU/ECT@ECT>, Drew C Lynch <Drew C Lynch/LON/ECT@ECT>, Robert W Jones <Robert W Jones/Enron@EnronXGate>, Mary Joyce <Mary Joyce/Enron@EnronXGate>, Marla Barnard <Marla Barnard/Enron Communications@Enron Communications>, Kalen Pieper <Kalen Pieper/HOU/EES@EES>, Gary P Smith <Gary P Smith/OTS/Enron@ENRON>, Cindy Skinner <Cindy Skinner/HOU/ECT@ECT>, Andrea Yowman <Andrea Yowman/Corp/Enron@ENRON>, Cindy Olson <Cindy Olson/Corp/Enron@ENRON>, Gina Corteselli <Gina Corteselli/Corp/Enron@ECT>, Elspeth Inglis <Elspeth Inglis/Corp/Enron@ECT>
+X-bcc: 
+X-Folder: \ExMerge - Kitchen, Louise\'Americas\VP PRC
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+On May 10, 2001, a memo was sent out regarding "Peer Group Mapping".  This mapping is intended to illustrate from a functional view point where each activity was placed at Year End 2000 VP PRC.
+
+Please refer to the attached original memo, if you have not responded to David Oxley and have any comments 
+please respond to him by May 25, 2001.
+
+Dave Delainey
+
+
+
+Following my note last week please find attached the consolidated peer group mapping for all business units. This mapping is intended to illustrate from a functional view point where each activity was placed at Year End 2000 VP PRC.
+
+We were considering moving to a 3 Peer Group Structure however it as agreed at the last PRC Committee Meeting  to stay with the current structure since the data had been cleaned and everyone felt generally comfortable where most activities had been placed with the exception of just  2 or 3. It was agreed that we should concentrate on resolving these rather than undertaking an organization wide remapping excercise to consolidate to 3 Peer Groups. All functions/activities within the business units should now be reflected on the acttached. 
+
+The actions points from this excercise are:
+
+1	to review and agree the attached mapping 
+
+2    consider and comment on highlighted groups that we have discussed in previous PRC meetings and ask for your comments or objections to moving them 	as indicated on the attachment.
+
+3	invite your comments or questions on any other function that you consider questionable or requiring further explanation.
+
+      Please return your comments to David Oxley by Friday May 25.
+
+      To have this discussion now will save lengthy discussions in the final VP/MD PRC Meetings.  Definitions of the peer groups are also attached for your ease of
+      reference.
+
+
+
+	 
+
+From MAILER-DAEMON Mon Apr 18 14:24:55 2022
+Message-ID: <2875766.1075840951186.JavaMail.evans@thyme>
+Date: Thu, 5 Apr 2001 14:37:00 -0700 (PDT)
+From: david.oxley@enron.com
+To: tim.belden@enron.com, rick.buy@enron.com, wes.colwell@enron.com,
+	david.cox@enron.com, janet.dietrich@enron.com, w.duran@enron.com,
+	jim.fallon@enron.com, ben.glisan@enron.com, joe.gold@enron.com,
+	mark.haedicke@enron.com, james.hughes@enron.com,
+	louise.kitchen@enron.com, michael.kopper@enron.com,
+	john.lavorato@enron.com, dan.leff@enron.com, danny.mccarty@enron.com,
+	jeffrey.mcmahon@enron.com, rob.milnthorp@enron.com,
+	matthew.scrimshaw@enron.com, jeffrey.shankman@enron.com,
+	richard.shapiro@enron.com, marty.sunde@enron.com
+Subject: PRC Committee Meeting - Peer Groups
+Cc: steven.kean@enron.com, cindy.olson@enron.com, kalen.pieper@enron.com,
+	robert.jones@enron.com, marla.barnard@enron.com,
+	gary.smith@enron.com, andrea.yowman@enron.com, drew.lynch@enron.com,
+	michelle.cash@enron.com, gina.corteselli@enron.com,
+	elspeth.inglis@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: steven.kean@enron.com, cindy.olson@enron.com, kalen.pieper@enron.com,
+	robert.jones@enron.com, marla.barnard@enron.com,
+	gary.smith@enron.com, andrea.yowman@enron.com, drew.lynch@enron.com,
+	michelle.cash@enron.com, gina.corteselli@enron.com,
+	elspeth.inglis@enron.com
+X-From: David Oxley <David Oxley/ENRON@enronXgate@ENRON>
+X-To: Tim Belden <Tim Belden/HOU/ECT@ECT>, Rick Buy <Rick Buy/ENRON@enronXgate>, Wes Colwell <Wes Colwell/ENRON@enronXgate>, David Cox <David Cox/Enron Communications@Enron Communications>, Janet R Dietrich <Janet R Dietrich/HOU/EES@EES>, W David Duran <W David Duran/HOU/ECT@ECT>, Jim Fallon <Jim Fallon/Enron Communications@Enron Communications>, Ben Glisan <Ben Glisan/HOU/ECT@ECT>, Joe Gold <Joe Gold/LON/ECT@ECT>, Mark E Haedicke <Mark E Haedicke/HOU/ECT@ECT>, James A Hughes <James A Hughes/ENRON@enronXgate>, Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>, Michael Kopper <Michael Kopper/HOU/ECT@ECT>, John J Lavorato <John J Lavorato/ENRON@enronXgate>, Dan Leff <Dan Leff/HOU/EES@EES>, Danny McCarty <Danny McCarty/LON/ECT@Enron>, Jeffrey McMahon <Jeffrey McMahon/ENRON@enronXgate>, Rob Milnthorp <Rob Milnthorp/CAL/ECT@ECT>, Matthew Scrimshaw <Matthew Scrimshaw/LON/ECT@ECT>, Jeffrey A Shankman <Jeffrey A Shankman/ENRON@enronXgate>, Richard Shapiro <Richard Shapiro/NA/Enron@Enron>, Marty Sunde <Marty Sunde/HOU/EES@EES>
+X-cc: Steven J Kean <Steven J Kean/NA/Enron@Enron>, Cindy Olson <Cindy Olson/Corp/Enron@ENRON>, Kalen Pieper <Kalen Pieper/HOU/EES@EES>, Robert W Jones <Robert W Jones/ENRON@enronXgate>, Marla Barnard <Marla Barnard/Enron Communications@Enron Communications>, Gary P Smith <Gary P Smith/OTS/Enron@ENRON>, Andrea Yowman <Andrea Yowman/Corp/Enron@ENRON>, Drew C Lynch <Drew C Lynch/LON/ECT@ECT>, Michelle Cash <Michelle Cash/HOU/ECT@ECT>, Gina Corteselli <Gina Corteselli/ENRON@enronXgate>, Elspeth Inglis <Elspeth Inglis/ENRON@enronXgate>
+X-bcc: 
+X-Folder: \ExMerge - Kitchen, Louise\'Americas\VP PRC
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+Dear All
+
+Further to the PRC Committee Meeting please find attached the first draft of the peer group mapping by function. It was decided that each member would review the proposal to move from 4 peer groups to 3 for Mid Year. 
+
+The attached was completed some weeks ago by the HR leads in your business Unit and is based on a McKinsey study requested by Jeff Skilling and Steve Kean.
+
+Under your review of the attached information, please focus on the final two pages that show the 'strawman' on how the functions fell out under the proposed peer group 
+structure.
+
+I have copied in the HR leads for your business area. They have been instrumental in completing the mapping and will meet with you to provide any specific information you require concerning placements with your business area.
+
+I would point out that there does appear to be some inconsistencies in function placements within the peer groups for some business units; it will be our primary focus at the next meeting to resolves these issues.
+
+Your assistants have been contacted regarding the time and date of our next meeting under separate cover. For our London colleagues we will aim for a morning meeting.
+
+
+David Oxley 
+
+   
+
+From MAILER-DAEMON Mon Apr 18 14:24:55 2022
+Message-ID: <8286130.1075840950923.JavaMail.evans@thyme>
+Date: Mon, 16 Jul 2001 10:03:36 -0700 (PDT)
+From: gina.corteselli@enron.com
+To: raymond.bowen@enron.com, rick.buy@enron.com, wes.colwell@enron.com,
+	david.cox@enron.com, david.duran@enron.com, ben.glisan@enron.com,
+	e..haedicke@enron.com, a..hughes@enron.com, louise.kitchen@enron.com,
+	michael.kopper@enron.com, john.lavorato@enron.com,
+	dan.leff@enron.com, rob.milnthorp@enron.com, greg.piper@enron.com,
+	matthew.scrimshaw@enron.com, richard.shapiro@enron.com,
+	marty.sunde@enron.com, london.brown@enron.com
+Subject: Results of PRC Sub-committee on VP Hiring and Pormotions
+Cc: david.oxley@enron.com, david.delainey@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: david.oxley@enron.com, david.delainey@enron.com
+X-From: Corteselli, Gina </O=ENRON/OU=NA/CN=RECIPIENTS/CN=GCORTESE>
+X-To: Bowen Jr., Raymond </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbowen>, Buy, Rick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbuy>, Colwell, Wes </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Wcolwel>, Cox, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=50a4b2a8-9053ccf9-882567ee-70e587>, Duran, W. David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dduran>, Glisan, Ben </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=9d1ce1f4-f20b005f-8625654d-62fd40>, Haedicke, Mark E. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mhaedic>, Hughes, James A. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jhughes>, Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkitchen>, Kopper, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=2b6d0a0f-10140d34-8625651c-78a7ba>, Lavorato, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jlavora>, Leff, Dan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=9bb28634-f7b2062d-862564de-77878a>, Milnthorp, Rob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rmilnth>, Piper, Greg </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gpiper>, Scrimshaw, Matthew </O=ENRON/OU=EU/cn=Recipients/cn=MSCRIMSH>, Shapiro, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=6cedf0c-82c4a03c-8625696c-7693a4>, Sunde, Marty </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=ea9fff7e-4450f0aa-862564db-689fae>, Brown, Michael - COO London </O=ENRON/OU=EU/cn=Recipients/cn=mbrown3>
+X-cc: Oxley, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Doxley>, Delainey, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=28fc501b-22d3a001-62569fb-57caaa>
+X-bcc: 
+X-Folder: \ExMerge - Kitchen, Louise\'Americas\VP PRC
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+All;
+
+Attached you will find the results recommendations of the Sub-committee formed to look at  VP external hiring and VP internal promotions.  As you will recall, the committee  comprised Jeff Shankman, Joe Gold, Tim Belden, Jim Fallon, Janet Dietrich, Danny McCarty.   Please review this and provide any comments to me or David Oxley.  Many thanks in advance.   
+
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:24:55 2022
+Message-ID: <1502790.1075840950991.JavaMail.evans@thyme>
+Date: Tue, 29 May 2001 19:33:00 -0700 (PDT)
+From: gina.corteselli@enron.com
+To: david.oxley@enron.com, tim.belden@enron.com, ben.glisan@enron.com,
+	philippe.bibi@enron.com, raymond.bowen@enron.com, dleff@enron.com,
+	dmccarty@enron.com, ddelain2@enron.com, wduran@enron.com,
+	david_cox@enron.net, jdietri@enron.com, jshankm@enron.com,
+	jim_fallon@enron.net, jhughes@enron.com, joe.gold@enron.com,
+	kimberly.hills@enron.com, louise.kitchen@enron.com,
+	mark.haedicke@enron.com, msunde@enron.com,
+	matthew.scrimshaw@enron.com, michael.brown@enron.com,
+	michael.kopper@enron.com, richard.shapiro@enron.com,
+	rick.buy@enron.com, rob.milnthorp@enron.com, wes.colwell@enron.com
+Subject: Agenda for PRC Committee Meeting - 30 May 2001
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Gina Corteselli <Gina Corteselli/ENRON@enronXgate@ENRON>
+X-To: David Oxley <David Oxley/ENRON@enronXgate>, Tim Belden <Tim Belden/ENRON@enronXgate>, Ben Glisan  <ben.glisan@enron.com>, Philippe A Bibi <Philippe A Bibi/ENRON@enronXgate>, Raymond Bowen <Raymond Bowen/ENRON@enronXgate>, Dan Leff  <dleff@enron.com>, Danny McCarty  <dmccarty@enron.com>, Dave Delainey  <ddelain2@enron.com>, Dave Duran  <wduran@enron.com>, David Cox  <david_cox@enron.net>, Janet Dietrich  <jdietri@enron.com>, jeff Shankman  <jshankm@enron.com>, Jim Fallon  <jim_fallon@enron.net>, Jim Hughes  <jhughes@enron.com>, Joe Gold <Joe Gold/LON/ECT@ECT>, John Lavorato  <kimberly.hills@enron.com>, Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>, Mark E Haedicke <Mark E Haedicke/HOU/ECT@ECT>, Marth Sunde  <msunde@enron.com>, Matthew Scrimshaw <Matthew Scrimshaw/LON/ECT@ECT>, Michael Brown <Michael Brown/Enron@EUEnronXGate>, Michael Kopper <Michael Kopper/HOU/ECT@ECT>, Richard Shapiro <Richard Shapiro/NA/Enron@Enron>, Rick Buy <Rick Buy/ENRON@enronXgate>, Rob Milnthorp <Rob Milnthorp/CAL/ECT@ECT>, Wes Colwell <Wes Colwell/ENRON@enronXgate>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Kitchen, Louise\'Americas\VP PRC
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+All:
+
+Attached please find a copy of the agenda for tomorrow's  PRC Committee Meeting. Please don't hesitate to contact me should you have questions.  Thanks in advance,
+
+Gina Corteselli
+
+
+  
+
+From MAILER-DAEMON Mon Apr 18 14:24:55 2022
+Message-ID: <14097063.1075840950963.JavaMail.evans@thyme>
+Date: Mon, 2 Jul 2001 14:10:00 -0700 (PDT)
+From: kim.melodick@enron.com
+To: louise.kitchen@enron.com
+Subject: Preranking information-Mexico
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Kim Melodick <Kim Melodick/ENRON@enronXgate@ENRON>
+X-To: Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Kitchen, Louise\'Americas\VP PRC
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+ Louise, I have just sent an email to follow up with Steve Irvin and Jaime Williams to obtain their pre-ranking clusters on their direct reports.  I will need to obtain your pre-ranking for both Steve and Jaime as well. Let me know your thoughts and I will gladly enter it into the PEP system.
+
+From MAILER-DAEMON Mon Apr 18 14:24:55 2022
+Message-ID: <19252925.1075840951091.JavaMail.evans@thyme>
+Date: Thu, 17 May 2001 10:53:00 -0700 (PDT)
+From: richard.shapiro@enron.com
+To: david.delainey@enron.com
+Subject: Re: PEER GROUP MAPPING
+Cc: david.delainey@enron.com, philippe.bibi@enron.com, tim.belden@enron.com,
+	raymond.bowen@enron.com, michael.brown@enron.com, rick.buy@enron.com,
+	wes.colwell@enron.com, david.cox@enron.com, janet.dietrich@enron.com,
+	w.duran@enron.com, jim.fallon@enron.com, ben.glisan@enron.com,
+	joe.gold@enron.com, mark.haedicke@enron.com, james.hughes@enron.com,
+	louise.kitchen@enron.com, michael.kopper@enron.com,
+	john.lavorato@enron.com, dan.leff@enron.com,
+	jeffrey.mcmahon@enron.com, rob.milnthorp@enron.com,
+	matthew.scrimshaw@enron.com, jeffrey.shankman@enron.com,
+	marty.sunde@enron.com, kenneth.lay@enron.com, cliff.baxter@enron.com,
+	james.derrick@enron.com, ken.rice@enron.com, steven.kean@enron.com,
+	greg.whalley@enron.com, stanley.horton@enron.com,
+	jeff.skilling@enron.com, richard.causey@enron.com,
+	kevin.hannon@enron.com, andrew.fastow@enron.com,
+	mark.frevert@enron.com, lou.pai@enron.com, david.oxley@enron.com,
+	drew.lynch@enron.com, robert.jones@enron.com, mary.joyce@enron.com,
+	marla.barnard@enron.com, kalen.pieper@enron.com,
+	gary.smith@enron.com, cindy.skinner@enron.com,
+	andrea.yowman@enron.com, cindy.olson@enron.com,
+	gina.corteselli@enron.com, elspeth.inglis@enron.com,
+	steven.kean@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: david.delainey@enron.com, philippe.bibi@enron.com, tim.belden@enron.com,
+	raymond.bowen@enron.com, michael.brown@enron.com, rick.buy@enron.com,
+	wes.colwell@enron.com, david.cox@enron.com, janet.dietrich@enron.com,
+	w.duran@enron.com, jim.fallon@enron.com, ben.glisan@enron.com,
+	joe.gold@enron.com, mark.haedicke@enron.com, james.hughes@enron.com,
+	louise.kitchen@enron.com, michael.kopper@enron.com,
+	john.lavorato@enron.com, dan.leff@enron.com,
+	jeffrey.mcmahon@enron.com, rob.milnthorp@enron.com,
+	matthew.scrimshaw@enron.com, jeffrey.shankman@enron.com,
+	marty.sunde@enron.com, kenneth.lay@enron.com, cliff.baxter@enron.com,
+	james.derrick@enron.com, ken.rice@enron.com, steven.kean@enron.com,
+	greg.whalley@enron.com, stanley.horton@enron.com,
+	jeff.skilling@enron.com, richard.causey@enron.com,
+	kevin.hannon@enron.com, andrew.fastow@enron.com,
+	mark.frevert@enron.com, lou.pai@enron.com, david.oxley@enron.com,
+	drew.lynch@enron.com, robert.jones@enron.com, mary.joyce@enron.com,
+	marla.barnard@enron.com, kalen.pieper@enron.com,
+	gary.smith@enron.com, cindy.skinner@enron.com,
+	andrea.yowman@enron.com, cindy.olson@enron.com,
+	gina.corteselli@enron.com, elspeth.inglis@enron.com,
+	steven.kean@enron.com
+X-From: Richard Shapiro <Richard Shapiro/NA/Enron@EES>
+X-To: David W Delainey <David W Delainey/HOU/EES@EES>
+X-cc: David W Delainey <David W Delainey/HOU/EES@EES>, Philippe A Bibi <Philippe A Bibi/HOU/ECT@EES>, Tim Belden <Tim Belden/HOU/ECT@EES>, Raymond Bowen <Raymond Bowen/HOU/ECT@EES>, Michael R Brown <Michael R Brown/LON/ECT@ECT>, Rick Buy <Rick Buy/Enron@EnronXGate@EES>, Wes Colwell <Wes Colwell/Enron@EnronXGate@EES>, David Cox <David Cox/Enron Communications@Enron Communications@EES>, Janet R Dietrich <Janet R Dietrich/HOU/EES@EES>, W David Duran <W David Duran/HOU/ECT@ECT>, Jim Fallon <Jim Fallon/Enron Communications@Enron Communications@EES>, Ben Glisan <Ben Glisan/HOU/ECT@ECT>, Joe Gold <Joe Gold/LON/ECT@ECT>, Mark E Haedicke <Mark E Haedicke/HOU/ECT@ECT>, James A Hughes <James A Hughes/ENRON_DEVELOPMENT@EES>, Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>, Michael Kopper <Michael Kopper/HOU/ECT@ECT>, John J Lavorato <John J Lavorato/Corp/Enron@EES>, Dan Leff <Dan Leff/HOU/EES@EES>, Jeffrey McMahon <Jeffrey McMahon/Enron@EnronXGate@EES>, Rob Milnthorp <Rob Milnthorp/CAL/ECT@ECT>, Matthew Scrimshaw <Matthew Scrimshaw/LON/ECT@ECT>, Jeffrey A Shankman <Jeffrey A Shankman/HOU/ECT@EES>, Marty Sunde <Marty Sunde/HOU/EES@EES>, Kenneth Lay <Kenneth Lay/Enron@EnronXGate>, Cliff Baxter <Cliff Baxter/HOU/ECT@EES>, James Derrick <James Derrick/Corp/Enron@EES>, Ken Rice <Ken Rice/Enron Communications@Enron Communications@EES>, Steven J Kean <Steven J Kean/NA/Enron@Enron>, Greg Whalley <Greg Whalley/HOU/ECT@ECT>, Stanley Horton <Stanley Horton/Corp/Enron@Enron>, Jeff Skilling <Jeff Skilling/Enron@EnronXGate>, Richard Causey <Richard Causey/Enron@EnronXGate>, Kevin Hannon <Kevin Hannon/Enron Communications@Enron Communications@EES>, Andrew S Fastow <Andrew S Fastow/HOU/ECT@EES>, Mark Frevert <Mark Frevert/NA/Enron@EES>, Lou L Pai <Lou L Pai/HOU/EES@EES>, David Oxley <David Oxley/HOU/ECT@EES>, Drew C Lynch <Drew C Lynch/LON/ECT@ECT>, Robert W Jones <Robert W Jones/Enron@EnronXGate@EES>, Mary Joyce <Mary Joyce/Enron@EnronXGate@EES>, Marla Barnard <Marla Barnard/Enron Communications@Enron Communications@EES>, Kalen Pieper <Kalen Pieper/HOU/EES@EES>, Gary P Smith <Gary P Smith/Enron@EnronXGate>, Cindy Skinner <Cindy Skinner/HOU/ECT@EES>, Andrea Yowman <Andrea Yowman/Corp/Enron@ENRON>, Cindy Olson <Cindy Olson/Corp/Enron@ENRON>, Gina Corteselli <Gina Corteselli/Corp/Enron@EES>, Elspeth Inglis <Elspeth Inglis/Corp/Enron@EES>, Steven J Kean <Steven J Kean/NA/Enron@Enron>
+X-bcc: 
+X-Folder: \ExMerge - Kitchen, Louise\'Americas\VP PRC
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+Steve Kean and I believe quite strongly, within a four peer group structure,  that we need to allocate somewhere between 30 and 50 percent of Gov't./ public  Affairs out of commercial support into specialized technical- there is a clear divide between individuals in the Gov't/public  Affairs groups  who are managing significant risk for the company and having a significant and  direct impact on commercial activities/ net income( these individuals should be moved to specialized technical)....and others who are performing a less strategic function( who should remain in the commercial support category). With that said, it is probably not necessary to undertake this effort for  mid-year PRC purposes since we are probably moving to a three peer stucture where that split could be achieved (for year-end purposes where the compensation impact would be felt). If we stay with the four group stucture, I intend to push hard for the remapping of Gov't Affairs by year-end.
+    On a completely seperate issue, I continue to be  very concerned about the impact of the "preferred" distribution  relative to the bottom category for " commercial support" groups(I'm not implying this is'nt an issue for commercial groups- I just don't have the same ability to assess the impact there)....the concern, simply stated,  is that  it may be entirely  counterproductive to force individuals who are not performance problems  into a category that has significant implications for their careers here at Enron, particularly after going thru the past year where many of the non-performers in my group and others  were moved out of the company- the replacement costs for moving good performers out of the company for the sake of a "preferred" distribution are quite high...and that is even before you begin  to assess the incalcuable damage to morale that will invariably occour.
+       Thanks.
+
+
+   
+
+	Enron Energy Services  From:  David W Delainey @ EES                           05/10/2001 10:26 AM	
+		
+
+
+Sent by:	Kay Chapman@EES
+To:	David W Delainey/HOU/EES, Philippe A Bibi/HOU/ECT, Tim Belden/HOU/ECT, Raymond Bowen/HOU/ECT, Michael R Brown/LON/ECT@ECT, Rick Buy/Enron@EnronXGate, Wes Colwell/Enron@EnronXGate, David Cox/Enron Communications@Enron Communications, Janet R Dietrich/HOU/EES@EES, W David Duran/HOU/ECT@ECT, Jim Fallon/Enron Communications@Enron Communications, Ben Glisan/HOU/ECT@ECT, Joe Gold/LON/ECT@ECT, Mark E Haedicke/HOU/ECT@ECT, James A Hughes/ENRON_DEVELOPMENT, Louise Kitchen/HOU/ECT@ECT, Michael Kopper/HOU/ECT@ECT, John J Lavorato/Corp/Enron, Dan Leff/HOU/EES@EES, Jeffrey McMahon/Enron@EnronXGate, Rob Milnthorp/CAL/ECT@ECT, Matthew Scrimshaw/LON/ECT@ECT, Jeffrey A Shankman/HOU/ECT, Richard Shapiro/NA/Enron@Enron, Marty Sunde/HOU/EES@EES
+cc:	Kenneth Lay/Corp/Enron@ENRON, Cliff Baxter/HOU/ECT, James Derrick/Corp/Enron, Ken Rice/Enron Communications@Enron Communications, Steven J Kean/NA/Enron@Enron, Greg Whalley/HOU/ECT@ECT, Stanley Horton/Corp/Enron@Enron, Jeff Skilling/Corp/Enron@ENRON, Richard Causey/Corp/Enron@ENRON, Kevin Hannon/Enron Communications@Enron Communications, Andrew S Fastow/HOU/ECT, Mark Frevert/NA/Enron, Lou L Pai/HOU/EES@EES, David Oxley/HOU/ECT, Drew C Lynch/LON/ECT@ECT, Robert W Jones/Enron@EnronXGate, Mary Joyce/Enron@EnronXGate, Marla Barnard/Enron Communications@Enron Communications, Kalen Pieper/HOU/EES@EES, Gary P Smith/OTS/Enron@ENRON, Cindy Skinner/HOU/ECT, Andrea Yowman/Corp/Enron@ENRON, Cindy Olson/Corp/Enron@ENRON, Gina Corteselli/Corp/Enron, Elspeth Inglis/Corp/Enron 
+
+Subject:	PEER GROUP MAPPING
+
+Following my note last week please find attached the consolidated peer group mapping for all business units. This mapping is intended to illustrate from a functional view point where each activity was placed at Year End 2000 VP PRC.
+
+We were considering moving to a 3 Peer Group Structure however it as agreed at the last PRC Committee Meeting  to stay with the current structure since the data had been cleaned and everyone felt generally comfortable where most activities had been placed with the exception of just  2 or 3. It was agreed that we should concentrate on resolving these rather than undertaking an organization wide remapping excercise to consolidate to 3 Peer Groups. All functions/activities within the business units should now be reflected on the acttached. 
+
+The actions points from this excercise are:
+
+1	to review and agree the attached mapping 
+
+2    consider and comment on highlighted groups that we have discussed in previous PRC meetings and ask for your comments or objections to moving them 	as indicated on the attachment.
+
+3	invite your comments or questions on any other function that you consider questionable or requiring further explanation.
+
+      Please return your comments to David Oxley by Friday May 25.
+
+      To have this discussion now will save lengthy discussions in the final VP/MD PRC Meetings.  Definitions of the peer groups are also attached for your ease of
+      reference.
+
+
+	 
+
+From MAILER-DAEMON Mon Apr 18 14:24:55 2022
+Message-ID: <16626654.1075840951151.JavaMail.evans@thyme>
+Date: Tue, 10 Apr 2001 13:34:00 -0700 (PDT)
+From: jackie.martin@enron.com
+To: tim.belden@enron.com, ben.glisan@enron.com, philippe.bibi@enron.com,
+	dleff@enron.com, dmccarty@enron.com, ddelain2@enron.com,
+	wduran@enron.com, david_cox@enron.net, jdietri@enron.com,
+	jmcmahon@enron.com, jshankm@enron.com, jim_fallon@enron.net,
+	jhughes@enron.com, joe.gold@enron.com, kimberly.hills@enron.com,
+	louise.kitchen@enron.com, mark.haedicke@enron.com, msunde@enron.com,
+	matthew.scrimshaw@enron.com, michael.brown@enron.com,
+	michael.kopper@enron.com, richard.shapiro@enron.com,
+	rick.buy@enron.com, rob.milnthorp@enron.com, wes.colwell@enron.com
+Subject: PRC Committee Meeting - 4/10/01 - Agenda/Packets
+Cc: gina.corteselli@enron.com, elspeth.inglis@enron.com, kay.chapman@enron.com,
+	julie.clyatt@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: gina.corteselli@enron.com, elspeth.inglis@enron.com, kay.chapman@enron.com,
+	julie.clyatt@enron.com
+X-From: Jackie Martin <Jackie Martin/ENRON@enronXgate@ENRON>
+X-To: Tim Belden <Tim Belden/HOU/ECT@ECT>, Ben Glisan  <ben.glisan@enron.com>, Philippe A Bibi <Philippe A Bibi/ENRON@enronXgate>, Dan Leff  <dleff@enron.com>, Danny McCarty  <dmccarty@enron.com>, Dave Delainey  <ddelain2@enron.com>, Dave Duran  <wduran@enron.com>, David Cox  <david_cox@enron.net>, Janet Dietrich  <jdietri@enron.com>, Jeff McMahon  <jmcmahon@enron.com>, jeff Shankman  <jshankm@enron.com>, Jim Fallon  <jim_fallon@enron.net>, Jim Hughes  <jhughes@enron.com>, Joe Gold <Joe Gold/LON/ECT@ECT>, John Lavorato  <kimberly.hills@enron.com>, Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>, Mark E Haedicke <Mark E Haedicke/HOU/ECT@ECT>, Marth Sunde  <msunde@enron.com>, Matthew Scrimshaw <Matthew Scrimshaw/LON/ECT@ECT>, Michael R Brown <Michael R Brown/LON/ECT@ECT>, Michael Kopper <Michael Kopper/HOU/ECT@ECT>, Richard Shapiro <Richard Shapiro/NA/Enron@Enron>, Rick Buy <Rick Buy/ENRON@enronXgate>, Rob Milnthorp <Rob Milnthorp/CAL/ECT@ECT>, Wes Colwell <Wes Colwell/ENRON@enronXgate>
+X-cc: Gina Corteselli <Gina Corteselli/ENRON@enronXgate>, Elspeth Inglis <Elspeth Inglis/ENRON@enronXgate>, Kay Chapman <Kay Chapman/HOU/EES@EES>, Julie Clyatt <Julie Clyatt/ENRON@enronXgate>
+X-bcc: 
+X-Folder: \ExMerge - Kitchen, Louise\'Americas\VP PRC
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+
+
+The following items are attached for the PRC Committee Meeting this afternoon:   Agenda; Folder Packets
+
+If you have any problems or questions, please do not hesitate to call.
+
+Thanks,
+
+Jackie Martin (713-345-3563)
+Assistant for
+Gina Corteselli (713-345-3377)
+
+
+           
+
+
+
+             
+
+From MAILER-DAEMON Mon Apr 18 14:24:55 2022
+Message-ID: <14632861.1075840951232.JavaMail.evans@thyme>
+Date: Thu, 5 Apr 2001 13:13:00 -0700 (PDT)
+From: david.delainey@enron.com
+To: tim.belden@enron.com, michael.brown@enron.com, rick.buy@enron.com,
+	wes.colwell@enron.com, david.cox@enron.com, janet.dietrich@enron.com,
+	w.duran@enron.com, jim.fallon@enron.com, ben.glisan@enron.com,
+	joe.gold@enron.com, mark.haedicke@enron.com, james.hughes@enron.com,
+	louise.kitchen@enron.com, michael.kopper@enron.com,
+	john.lavorato@enron.com, dan.leff@enron.com, danny.mccarty@enron.com,
+	jeffrey.mcmahon@enron.com, rob.milnthorp@enron.com,
+	matthew.scrimshaw@enron.com, jeffrey.shankman@enron.com,
+	richard.shapiro@enron.com, marty.sunde@enron.com,
+	philippe.bibi@enron.com
+Subject: PRC Committee Meeting Minutes
+Cc: david.delainey@enron.com, debra.davidson@enron.com, fiona.stewart@enron.com,
+	shirley.tijerina@enron.com, jennifer.adams@enron.com,
+	kay.chapman@enron.com, tina.rode@enron.com, lucy.marshall@enron.com,
+	amy.cooper@enron.com, hazel.chawapiwa@enron.com,
+	janette.elbertson@enron.com, connie.blackwood@enron.com,
+	tammie.schoppe@enron.com, inez.dauterive@enron.com,
+	kimberly.hillis@enron.com, kathy.dodgen@enron.com,
+	kathy.armstrong@enron.com, sue.ford@enron.com,
+	nella.cappelletto@enron.com, kerry.ferrari@enron.com,
+	jennifer.burns@enron.com, ginger.dernehl@enron.com,
+	carol.moffett@enron.com, peggy.mccurley@enron.com,
+	david.oxley@enron.com, cindy.olson@enron.com, steven.kean@enron.com,
+	gina.corteselli@enron.com, julie.clyatt@enron.com,
+	kathy.mcmahon@enron.com, maureen.mcvicker@enron.com,
+	jackie.martin@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: david.delainey@enron.com, debra.davidson@enron.com, fiona.stewart@enron.com,
+	shirley.tijerina@enron.com, jennifer.adams@enron.com,
+	kay.chapman@enron.com, tina.rode@enron.com, lucy.marshall@enron.com,
+	amy.cooper@enron.com, hazel.chawapiwa@enron.com,
+	janette.elbertson@enron.com, connie.blackwood@enron.com,
+	tammie.schoppe@enron.com, inez.dauterive@enron.com,
+	kimberly.hillis@enron.com, kathy.dodgen@enron.com,
+	kathy.armstrong@enron.com, sue.ford@enron.com,
+	nella.cappelletto@enron.com, kerry.ferrari@enron.com,
+	jennifer.burns@enron.com, ginger.dernehl@enron.com,
+	carol.moffett@enron.com, peggy.mccurley@enron.com,
+	david.oxley@enron.com, cindy.olson@enron.com, steven.kean@enron.com,
+	gina.corteselli@enron.com, julie.clyatt@enron.com,
+	kathy.mcmahon@enron.com, maureen.mcvicker@enron.com,
+	jackie.martin@enron.com
+X-From: David W Delainey <David W Delainey/HOU/EES@EES>
+X-To: Tim Belden <Tim Belden/HOU/ECT@ECT>, Michael R Brown <Michael R Brown/LON/ECT@ECT>, Rick Buy <Rick Buy/HOU/ECT@ECT>, Wes Colwell <Wes Colwell/HOU/ECT@ECT>, David Cox <David Cox/Enron Communications@Enron Communications>, Janet R Dietrich <Janet R Dietrich/HOU/EES@EES>, W David Duran <W David Duran/HOU/ECT@ECT>, Jim Fallon <Jim Fallon/Enron Communications@Enron Communications>, Ben Glisan <Ben Glisan/HOU/ECT@ECT>, Joe Gold <Joe Gold/LON/ECT@ECT>, Mark E Haedicke <Mark E Haedicke/HOU/ECT@ECT>, James A Hughes <James A Hughes/ENRON_DEVELOPMENT@ECT>, Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>, Michael Kopper <Michael Kopper/HOU/ECT@ECT>, John J Lavorato <John J Lavorato/Corp/Enron@ECT>, Dan Leff <Dan Leff/HOU/EES@EES>, Danny McCarty <Danny McCarty/ET&S/Enron@Enron>, Jeffrey McMahon <Jeffrey McMahon/Enron@EnronXGate>, Rob Milnthorp <Rob Milnthorp/CAL/ECT@ECT>, Matthew Scrimshaw <Matthew Scrimshaw/LON/ECT@ECT>, Jeffrey A Shankman <Jeffrey A Shankman/HOU/ECT@ECT>, Richard Shapiro <Richard Shapiro/NA/Enron@Enron>, Marty Sunde <Marty Sunde/HOU/EES@EES>, Philippe A Bibi <Philippe A Bibi/HOU/ECT@ECT>
+X-cc: David W Delainey <David W Delainey/HOU/EES@EES>, Debra Davidson <Debra Davidson/PDX/ECT@ECT>, Fiona Stewart <Fiona Stewart/LON/ECT@ECT>, Shirley Tijerina <Shirley Tijerina/Corp/Enron@ECT>, Jennifer T Adams <Jennifer T Adams/HOU/EES@EES>, Kay Chapman <Kay Chapman/HOU/EES@EES>, Tina Rode <Tina Rode/HOU/ECT@ECT>, Lucy Marshall <Lucy Marshall/Enron Communications@Enron Communications>, Amy Cooper <Amy Cooper/HOU/ECT@ECT>, Hazel Chawapiwa <Hazel Chawapiwa/LON/ECT@ECT>, Janette Elbertson <Janette Elbertson/HOU/ECT@ECT>, Connie Blackwood <Connie Blackwood/ENRON_DEVELOPMENT@ECT>, Tammie Schoppe <Tammie Schoppe/HOU/ECT@ECT>, Inez Dauterive <Inez Dauterive/HOU/ECT@ECT>, Kimberly Hillis <Kimberly Hillis/HOU/ECT@ECT>, Kathy Dodgen <Kathy Dodgen/HOU/EES@EES>, Kathy Armstrong <Kathy Armstrong/HOU/EES@EES>, Sue Ford <Sue Ford/HOU/ECT@ECT>, Nella Cappelletto <Nella Cappelletto/CAL/ECT@ECT>, Kerry Ferrari <Kerry Ferrari/LON/ECT@ECT>, Jennifer Burns <Jennifer Burns/HOU/ECT@ECT>, Ginger Dernehl <Ginger Dernehl/NA/Enron@Enron>, Carol Moffett <Carol Moffett/HOU/EES@EES>, Peggy McCurley <Peggy McCurley/HOU/ECT@ECT>, David Oxley <David Oxley/HOU/ECT@ECT>, Cindy Olson <Cindy Olson/Corp/Enron@ENRON>, Steven J Kean <Steven J Kean/NA/Enron@Enron>, Gina Corteselli <Gina Corteselli/Corp/Enron@ECT>, Julie Clyatt <Julie Clyatt/ENRON@enronXgate>, Kathy McMahon <Kathy McMahon/NA/Enron@Enron>, Maureen McVicker <Maureen McVicker/NA/Enron@Enron>, Jackie Martin <Jackie Martin/ENRON@enronXgate>
+X-bcc: 
+X-Folder: \ExMerge - Kitchen, Louise\'Americas\VP PRC
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+Please find attached the minutes from the April 3, 2001, PRC Committee Meeting:
+
+
+
+ 
+
+
+If you have any question, please feel free to call Gina @ 5-3377 or Jackie @ 5-3563
+
+Regards,
+
+Dave
+
+From MAILER-DAEMON Mon Apr 18 14:24:55 2022
+Message-ID: <18538081.1075840951121.JavaMail.evans@thyme>
+Date: Mon, 16 Apr 2001 18:48:00 -0700 (PDT)
+From: gina.corteselli@enron.com
+To: tim.belden@enron.com, ben.glisan@enron.com, philippe.bibi@enron.com,
+	raymond.bowen@enron.com, dleff@enron.com, dmccarty@enron.com,
+	ddelain2@enron.com, wduran@enron.com, david_cox@enron.net,
+	jdietri@enron.com, jshankm@enron.com, jim_fallon@enron.net,
+	jhughes@enron.com, joe.gold@enron.com, kimberly.hills@enron.com,
+	louise.kitchen@enron.com, mark.haedicke@enron.com, msunde@enron.com,
+	matthew.scrimshaw@enron.com, michael.brown@enron.com,
+	michael.kopper@enron.com, richard.shapiro@enron.com,
+	rick.buy@enron.com, rob.milnthorp@enron.com, wes.colwell@enron.com
+Subject: Minutes of PRC Committee Meeting 10 April
+Cc: david.oxley@enron.com, cindy.olson@enron.com, steven.kean@enron.com,
+	michelle.cash@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: david.oxley@enron.com, cindy.olson@enron.com, steven.kean@enron.com,
+	michelle.cash@enron.com
+X-From: Gina Corteselli <Gina Corteselli/ENRON@enronXgate@ENRON>
+X-To: Tim Belden <Tim Belden/HOU/ECT@ECT>, Ben Glisan  <ben.glisan@enron.com>, Philippe A Bibi <Philippe A Bibi/ENRON@enronXgate>, Raymond Bowen <Raymond Bowen/ENRON@enronXgate>, Dan Leff  <dleff@enron.com>, Danny McCarty  <dmccarty@enron.com>, Dave Delainey  <ddelain2@enron.com>, Dave Duran  <wduran@enron.com>, David Cox  <david_cox@enron.net>, Janet Dietrich  <jdietri@enron.com>, jeff Shankman  <jshankm@enron.com>, Jim Fallon  <jim_fallon@enron.net>, Jim Hughes  <jhughes@enron.com>, Joe Gold <Joe Gold/LON/ECT@ECT>, John Lavorato  <kimberly.hills@enron.com>, Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>, Mark E Haedicke <Mark E Haedicke/HOU/ECT@ECT>, Marth Sunde  <msunde@enron.com>, Matthew Scrimshaw <Matthew Scrimshaw/LON/ECT@ECT>, Michael R Brown <Michael R Brown/LON/ECT@ECT>, Michael Kopper <Michael Kopper/HOU/ECT@ECT>, Richard Shapiro <Richard Shapiro/NA/Enron@Enron>, Rick Buy <Rick Buy/ENRON@enronXgate>, Rob Milnthorp <Rob Milnthorp/CAL/ECT@ECT>, Wes Colwell <Wes Colwell/ENRON@enronXgate>
+X-cc: David Oxley <David Oxley/ENRON@enronXgate>, Cindy Olson <Cindy Olson/Corp/Enron@ENRON>, Steven J Kean <Steven J Kean/NA/Enron@Enron>, Michelle Cash <Michelle Cash/HOU/ECT@ECT>
+X-bcc: 
+X-Folder: \ExMerge - Kitchen, Louise\'Americas\VP PRC
+X-Origin: KITCHEN-L
+X-FileName: louise kitchen 2-7-02.pst
+
+Attached are the minutes of the PRC Committee meeting of 10 April 2001.
+
+ 
+Gina Corteselli
+Global Performance Management
+

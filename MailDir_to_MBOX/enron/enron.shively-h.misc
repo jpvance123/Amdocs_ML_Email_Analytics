@@ -1,0 +1,1141 @@
+From MAILER-DAEMON Mon Apr 18 14:20:52 2022
+Message-ID: <3499085.1075857464064.JavaMail.evans@thyme>
+Date: Thu, 14 Dec 2000 03:05:00 -0800 (PST)
+From: amanda.huble@enron.com
+To: sylvia.pollan@enron.com, deirdre.mccaffrey@enron.com, kevin.brady@enron.com,
+	andrew.lewis@enron.com, robyn.zivic@enron.com,
+	hunter.shively@enron.com, geoff.storey@enron.com,
+	martin.cuilla@enron.com, lisa.kinsey@enron.com,
+	kevin.ruscitti@enron.com, patrice.mims@enron.com,
+	jason.williams@enron.com, kelli.stevens@enron.com,
+	tom.donohoe@enron.com, joe.parks@enron.com
+Subject: Implementation of the Gas Message Board Application
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Amanda Huble
+X-To: Sylvia S Pollan, Deirdre McCaffrey, Kevin Brady, Andrew H Lewis, Robyn Zivic, Hunter S Shively, Geoff Storey, Martin Cuilla, Lisa Kinsey, Kevin Ruscitti, Patrice L Mims, Jason R Williams, Kelli Stevens, Tom Donohoe, Joe Parks
+X-cc: 
+X-bcc: 
+X-Folder: \Hunter_Shively_Jun2001\Notes Folders\Misc
+X-Origin: Shively-H
+X-FileName: hshivel.nsf
+
+---------------------- Forwarded by Amanda Huble/NA/Enron on 12/14/2000 11:02 
+AM ---------------------------
+
+
+Ina Rangel@ECT
+12/14/2000 10:28 AM
+To: Laura Vuittonet/Corp/Enron@Enron, Kimberly Brown/HOU/ECT@ECT, Amanda 
+Huble/NA/Enron@Enron
+cc:  
+
+Subject: Implementation of the Gas Message Board Application
+
+Please make sure all of your traders are set up on this messeging board.  
+John Arnold wants to do a test run this afternoon.  Here are the instructions 
+once again, just in case you deleted them from before.  
+
+Thanks,
+Ina
+---------------------- Forwarded by Ina Rangel/HOU/ECT on 12/14/2000 10:26 AM 
+---------------------------
+From: Fangming Zhu@ENRON on 11/27/2000 09:39 AM
+To: Ina Rangel/HOU/ECT@ECT
+cc:  
+Subject: Implementation of the Gas Message Board Application
+
+Here is the instruction.
+----- Forwarded by Fangming Zhu/Corp/Enron on 11/27/2000 09:38 AM -----
+
+	Fangming Zhu
+	10/26/2000 11:02 AM
+		 
+		 To: Brian_Hoskins@enron.net
+		 cc: Allen Elliott/HOU/ECT@ECT, Bryan Powell/HOU/ECT@ECT, Chrysti 
+Hardy/Corp/Enron@ENRON
+		 bcc: Fangming Zhu/Corp/Enron
+		 Subject: Implementation of the Gas Message Board Application
+
+Brian,
+
+The Gas Message Board application can run on both IE5.0 and IE5.5 now. 
+
+Attached is the URL for user to run the application.
+
+http://gasmsgboard.dev.corp.enron.com
+
+Please feel free to forward above URL to people who like to test the 
+application. 
+
+Here is the steps they should do:
+
+1) Launch Internet Explorer
+
+2) Type: http://gasmsgboard.dev.corp.enron.com (or just open this email and 
+click on above URL)
+
+3) Users should see the messages if there is any new messages for today. If 
+they don't see any messages, there are two reasons: 
+ (1) They are not valid users. Their names have not been added into the NT 
+Web_GasTraders Group yet. Please contact Chrysti Hardy to add their names 
+into the group.
+ (2) There is no new messages added yet.
+
+4) Click on "Comments" button to add messages: there will be a popup window 
+when user clicks on "comments" button. There are two ways to send the 
+messages after typing the 
+messages into the text box:
+ (1) just simply press enter to send the message. or
+ (2) click on "send" button to send the message.
+
+5) After the message has been sent, The message will be displayed on the main 
+window immediately, the rest people who are online will get the new message 
+in less than 30 seconds. This time can be reduced to as less as 1 second. 
+However, I would not recommend to reduce the time interval less than 10 
+second.  Because each time the browser refreshes the screen, the screen will 
+be blink. Users don't want the screen blink every second while they read the 
+messages.
+
+6) All messages will be cleaned up daily at 6:00PM. If they like to clean 
+them up later than 6:00PM, please let me know. I can reset the time.
+
+Note: Right now the application is under test environment. If they like it, I 
+will move it into production environment soon.
+
+Let me know any feedbacks.
+
+Thanks,
+
+Fangming
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:20:52 2022
+Message-ID: <21762010.1075857464086.JavaMail.evans@thyme>
+Date: Tue, 2 Jan 2001 02:56:00 -0800 (PST)
+From: david.ryan@enron.com
+To: hunter.s.shively@enron.com
+Subject: European 10 jet stream heights
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: David Ryan
+X-To: hunter.s.shively@enron.com
+X-cc: 
+X-bcc: 
+X-Folder: \Hunter_Shively_Jun2001\Notes Folders\Misc
+X-Origin: Shively-H
+X-FileName: hshivel.nsf
+
+We have only the heights for now - maybe someday we'll see days 8 and 9. 
+Good luck,
+Dave
+
+http://www.sca.uqam.ca/models/
+http://www.sca.uqam.ca/models/ecmwf_amer/cep00_9panel.gif
+
+From MAILER-DAEMON Mon Apr 18 14:20:52 2022
+Message-ID: <22156473.1075840309482.JavaMail.evans@thyme>
+Date: Sun, 18 Mar 2001 19:22:00 -0800 (PST)
+From: hunter-jessica@houston.rr.com
+To: shively@enron.com, hunter.s.shively@enron.com
+Subject: mer5-2
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Hunter & Jessica Shively  <Hunter-Jessica@houston.rr.com>
+X-To: Shively, Hunter  <hunter.s.shively@enron.com>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Shively, Hunter S.\MISC
+X-Origin: SHIVELY-H
+X-FileName: hunter shively 6-26-02.PST
+
+
+ 
+ http://www.eia.doe.gov/pub/energy.overview/monthly.energy/txt/mer5-2 
+ - mer5-2.url 
+
+From MAILER-DAEMON Mon Apr 18 14:20:52 2022
+Message-ID: <30058176.1075857464335.JavaMail.evans@thyme>
+Date: Sun, 18 Mar 2001 08:22:00 -0800 (PST)
+From: hunter-jessica@houston.rr.com
+To: hunter.s.shively@enron.com
+Subject: mer5-2
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: "Hunter & Jessica Shively" <Hunter-Jessica@houston.rr.com>
+X-To: "Shively, Hunter" <hunter.s.shively@enron.com>
+X-cc: 
+X-bcc: 
+X-Folder: \Hunter_Shively_Jun2001\Notes Folders\Misc
+X-Origin: Shively-H
+X-FileName: hshivel.nsf
+
+?
+
+?http://www.eia.doe.gov/pub/energy.overview/monthly.energy/txt/mer5-2
+ - mer5-2.url
+
+From MAILER-DAEMON Mon Apr 18 14:20:52 2022
+Message-ID: <1212192.1075857464136.JavaMail.evans@thyme>
+Date: Tue, 13 Feb 2001 03:11:00 -0800 (PST)
+From: colleen.sullivan@enron.com
+To: hunter.shively@enron.com
+Subject: Midcon Gas Products./ Devon Summary
+Cc: david.eubanks@enron.com, mary.ellenberger@enron.com, george.smith@enron.com,
+	bryce.baxter@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: david.eubanks@enron.com, mary.ellenberger@enron.com, george.smith@enron.com,
+	bryce.baxter@enron.com
+X-From: Colleen Sullivan
+X-To: Hunter S Shively
+X-cc: David W Eubanks, Mary Ellenberger, George F Smith, Bryce Baxter
+X-bcc: 
+X-Folder: \Hunter_Shively_Jun2001\Notes Folders\Misc
+X-Origin: Shively-H
+X-FileName: hshivel.nsf
+
+Per our discussion, here is where we are on the Devon / Midcon (now Oneok) 
+Quinduno well  issue:
+
+For the Devon purchase, we have been showing a price of the NGPL-Midcontinent 
+index + $.01 less $.3276 gathering--the 8.5% fuel was never shown in Sitara 
+and has never been deducted from Devon's purchase price as it should have 
+been.  This purchase falls under the "big" Devon deal that came to us from 
+CES--it is my understanding that this contract ends in July of this year.
+ Mary Ellenberger handles Devon and should take care of the 8.5% fuel issue 
+retroactively to January 2000.
+
+For the Midcon Texas (now Oneok) sale, we have been showing in Sitara the 
+NGPL-Midcontinent index less 8.5% fuel--the $.3276 gathering fee has never 
+showed up in Sitara as a deduction from the sales price as it should have 
+been.  Also, Oneok has never paid ENA for this gas all the way back to 
+January 2000 due to the fact that there was no contract.
+ George Smith is taking care of the Midcon (now Oneok) issue.  For March 
+forward, Oneok has made it clear to George that they want to negotiate a 
+price with us for this production.  They have agreed to take all production 
+between 1/00 and 2/01 at NGPL Index flat less $.3276 gathering , less 8.5% 
+fuel.
+
+When this is all cleaned up, the difference between the 8.5% fuel charge we 
+will receive from Devon vs. the $.3276 gathering fee we will not collect from 
+Midcon Texas is the adjustment that should hit your desk.  I do not have all 
+the actual volumes but, when I just use the volumes in Sitara under the 
+Midcon tickets, and do the fuel calculations for Devon vs the gathering fee 
+we did not account for, the impact was less than $20,000 (positive).  
+Therefore, even after actuals are used, I don't expect the amount to be 
+significant one way or the other
+
+If you have any questions, please advise.
+
+---------------------- Forwarded by Colleen Sullivan/HOU/ECT on 02/13/2001 
+08:36 AM ---------------------------
+To: Mary Ellenberger/Corp/Enron@ENRON
+cc: Colleen Sullivan/HOU/ECT@ECT, Bryce Baxter/HOU/ECT@ECT 
+Subject: Re: Sale to Midcon Gas Products.  
+
+The price that Oneok Field Services will be paying is a standard wellhead 
+netback price. Mainline index minus any associated fees required to get the 
+gas to the mainline. In this case that is $.3276 in gathering charges and 8 
+1/2% fuel. The original sale ticket was 91 1/2% of NGPL midcontinent index, 
+to reflect the fuel loss. The Devon purchase ticket reflects a deduction of 
+$.3276 reflecting the gathering charge. Neither ticket seems to capture all 
+of the appropriate fees.
+
+The only way that ENA remains whole is if Devon is billed the appropraite 
+fuel charge. 
+
+The volumes that Devon provides to us each month do not reflect any fuel 
+deductions.  
+
+From MAILER-DAEMON Mon Apr 18 14:20:52 2022
+Message-ID: <33092984.1075857464186.JavaMail.evans@thyme>
+Date: Fri, 9 Mar 2001 03:43:00 -0800 (PST)
+From: mike.roberts@enron.com
+To: cary.carrabine@enron.com, richard.tomaski@enron.com, lee.fascetti@enron.com,
+	paul.burgener@enron.com, james.simpson@enron.com,
+	per.sekse@enron.com, caroline.abramo@enron.com,
+	candace.spencer@enron.com, terri.brian@enron.com,
+	lisa.mcisaac@enron.com, carlee.gawiuk@enron.com,
+	gregory.schockling@enron.com, ragan.bond@enron.com,
+	dan.mccairns@bhlp.com, brad.horn@enron.com, jay.knoblauh@enron.com,
+	vince.kaminski@enron.com, jonathan.mckay@enron.com,
+	jean.mrha@enron.com, sunil.dalal@enron.com,
+	stephanie.miller@enron.com, charles.varnell@enron.com,
+	tyrell.harrison@enron.com, kevin.moore@enron.com,
+	mike.roberts@enron.com, theresa.staab@enron.com,
+	nicole.cortez@enron.com, eric.scott@enron.com,
+	gregory.schockling@enron.com, ragan.bond@enron.com,
+	dan.mccairns@bhlp.com, brad.horn@enron.com, jay.knoblauh@enron.com,
+	eileen.peebles@enron.com, jeff.nielsen@enron.com,
+	mike.barry@enron.com, michael.nguyen@enron.com,
+	joseph.hrgovcic@enron.com, rajib.saha@enron.com,
+	brando.hayden@enron.com, todd.kimberlain@enron.com,
+	david.ryan@enron.com, todd.decook@enron.com, andy.pace@enron.com,
+	dean.sacerdote@enron.com, david.botchlett@enron.com,
+	bill.briggs@enron.com, phil.clifford@enron.com,
+	jim.goughary@enron.com, mario.ossa@enron.com,
+	john.lavorato@enron.com, john.arnold@enron.com, mike.maggi@enron.com,
+	hunter.shively@enron.com, patrice.mims@enron.com,
+	brad.mckay@enron.com, scott.neal@enron.com, thomas.martin@enron.com,
+	phillip.allen@enron.com, mike.grigsby@enron.com,
+	jim.schwieger@enron.com, steven.vu@enron.com, geoff.storey@enron.com,
+	gateway1@pdq.net, rjenkins13@aol.com
+Subject: Research's Summer Outlook
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Mike A Roberts
+X-To: Cary M Carrabine, Richard Tomaski, Lee Fascetti, Paul Burgener, James Simpson, Per Sekse, Caroline Abramo, Candace Spencer, Terri Brian, Lisa McIsaac, Carlee Gawiuk, Gregory Schockling, Ragan Bond, dan.mccairns@bhlp.com, Brad Horn, Jay Knoblauh, Vince J Kaminski, Jonathan McKay, Jean Mrha, Sunil Dalal, Stephanie Miller, Charles Varnell, Tyrell Harrison, Kevin G Moore, Mike A Roberts, Theresa Staab, Nicole Cortez, Eric Scott, Gregory Schockling, Ragan Bond, dan.mccairns@bhlp.com, Brad Horn, Jay Knoblauh, Eileen Peebles, Jeff Nielsen, Mike Barry, Michael Nguyen, Joseph Hrgovcic, Rajib Saha, Brando Hayden, Todd Kimberlain, David Ryan, Todd DeCook, Andy Pace, Dean Sacerdote, David J Botchlett, Bill F Briggs, Phil Clifford, Jim Goughary, Mario de la Ossa, John J Lavorato, John Arnold, Mike Maggi, Hunter S Shively, Patrice L Mims, Brad McKay, Scott Neal, Thomas A Martin, Phillip K Allen, Mike Grigsby, Jim Schwieger, Steven Vu, Geoff Storey, gateway1@pdq.net, Rjenkins13@aol.com
+X-cc: 
+X-bcc: 
+X-Folder: \Hunter_Shively_Jun2001\Notes Folders\Misc
+X-Origin: Shively-H
+X-FileName: hshivel.nsf
+
+The Research Weather Group has posted the 2001 Summer Outlook on Research 
+Intranet Page, under the Afternoon Video Report.
+
+The links are:  
+http://gasfundy.corp.enron.com/Gas/sections/weather/InHouse/MorningComents/dis
+cussionContent.asp?item=Afternoon
+
+and  http://enaresearch.corp.enron.com/research/framework/default.asp
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:20:52 2022
+Message-ID: <28117874.1075857464254.JavaMail.evans@thyme>
+Date: Fri, 16 Mar 2001 14:34:00 -0800 (PST)
+From: ken.skilling@enron.com
+To: all.worldwide@enron.com
+Subject: Leadership Committees
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+X-From: Ken Lay and Jeff Skilling
+X-To: All Enron Worldwide
+X-cc: 
+X-bcc: 
+X-Folder: \Hunter_Shively_Jun2001\Notes Folders\Misc
+X-Origin: Shively-H
+X-FileName: hshivel.nsf
+
+We are launching a number of committees to perform key functions across=20
+Enron.  Enron=01,s breadth of activities and nonhierarchal organization mak=
+e it=20
+increasingly necessary to broaden the participation of Enron=01,s next=20
+generation of leadership in the important decisions affecting the company. =
+=20
+Broadening participation will result in increased access to information as=
+=20
+decisions are made and will allow committee members to extend their working=
+=20
+relationships and influence throughout the company.
+
+The committee charters and memberships are set forth below.  Not everyone=
+=20
+listed has been contacted in advance.  We urge you to serve if at all=20
+possible, but, if you cannot, please contact the committee chair.
+
+VP PRC
+
+The VP PRC will continue to be responsible for evaluating the performance o=
+f=20
+Enron=01,s Vice Presidents, determining promotions to Vice President, and=
+=20
+recommending promotions to Managing Director.  Additionally, the VP PRC wil=
+l=20
+review and propose changes to the PRC process, the performance evaluation=
+=20
+criteria and the promotion criteria.
+
+The VP PRC will be chaired by Dave Delainey and its membership is as follow=
+s:
+
+Tim Belden=09Ben Glisan=09Danny McCarty
+Michael Brown=09Joe Gold=09Jeff McMahon
+Rick Buy=09Mark Haedicke=09Rob Milnthorp
+Wes Colwell=09Jim Hughes=09Matthew Scrimshaw
+David Cox=09Louise Kitchen=09Jeff Shankman
+Janet Dietrich=09Michael Kopper=09Richard Shapiro
+Dave Duran=09John Lavorato=09Marty Sunde
+Jim Fallon=09Dan Leff=09
+
+
+Analyst/Associate PRC
+
+The analyst/associate PRC will be divided into 3 groups.  Enron Europe will=
+=20
+have the same committee evaluate analysts and associates.  This group will =
+be=20
+chaired by John Sherriff and its membership is as follows:
+
+Pierre Aury=09Kevin Heffron=09Andreas Radmacher
+Rob Bayley=09Joe Hirl=09Stuart Rexrode
+Paul Chivers=09Chris Mahoney=09Marcello Romano
+Markus Fiala=09Christopher McKey=09Bjarne Schieldrop
+David Gallagher=09Roy Poyntz=09Ron Slimp
+Bruce Garner=09Paul Quilkey=09Rob Stewart
+ =20
+
+
+The associate PRC for the Americas will be chaired by Stan Horton and its=
+=20
+membership is as follows:
+
+Sally Beck =09Troy Henry=09Kevin Presto=20
+Jeremy Blachman=09Sean Holmes =09Brad Richter=20
+Don Black=09Sean Long =09Stewart Seeligson
+Dan Castagnola =09Rodney Malcolm=09Hunter Shively
+Joe Deffner=09Scott Neal =09Jim Steffes=20
+Kevin Garland=09John Nowlan =09Andy Zipper=20
+David Gorte=09Ozzie Pagan =09
+
+
+The analyst PRC for the Americas will be chaired by Steve Kean and its=20
+membership is as follows:
+
+Federico Cerisoli =09Mark Jackson =09Everett Plante=20
+Jennifer Fraser =09Ben Jacoby =09Paul Racicot=20
+Derrick Davies=09Steve Jernigan =09Angela Schwarz
+Scott Gahn =09Jay Lewis =09Ed Smida=20
+Rod Hayslett=09Cheryl Lipshutz =09Jon Thomsen=20
+Rogers Herndon =09Michael Mann=09Emilio Vicens=20
+Brenda Herod =09Ed McMichael =09Frank Vickers=20
+Kevin Howard =09Steve Meyers =09
+
+
+
+Analyst/Associate Program
+
+The most essential determinant of Enron=01,s continued growth is our abilit=
+y to=20
+attract and develop new talent.  The analyst/associate program has been the=
+=20
+biggest contributor to our success in this area.  Charlene Jackson, current=
+ly=20
+leading our analyst/associate program, has taken a commercial position in=
+=20
+EES=01, account management organization.  We thank Charlene for her hard wo=
+rk=20
+and many contributions to the program.  Going forward, this program will be=
+=20
+administered by a committee chaired by John Sherriff, CEO of Enron Europe. =
+=20
+The members of this committee are listed below.  Billy Lemmons, currently=
+=20
+Vice President of Enron Global Markets, will lead the day-to-day operations=
+=20
+of the program. Billy joined Enron in 1992, and has served in a variety of=
+=20
+commercial capacities across the company and has been an active participant=
+=20
+in the Associate /Analyst program.  Please join us in congratulating Billy =
+on=20
+his new responsibilities.
+
+Phillip Allen=09Andy Fastow=09Eric Shaw
+Robina Barker-Bennett=09Kevin Garland=09Hunter Shively
+Rick Causey=09Ken Rice=09Stu Staley
+Joe Deffner=09=09
+
+
+Culture
+
+We are combining the vision and values, diversity and corporate=20
+responsibility committees into a single corporate culture committee chaired=
+=20
+by Ken Lay.  Cindy Olson, Beth Tilney and Kelly Kimberly will serve as=20
+executive directors of this committee.  This committee will focus on=20
+leadership and work-life issues (making it easier to attract and retain the=
+=20
+best talent), in addition to continuing the work of the vision and values,=
+=20
+diversity and corporate responsibility task forces.  The members of this=20
+committee are as follows:
+
+Greg Adams=09Louise Kitchen=09Mark Palmer
+Shelley Corman=09Michael Kopper=09Paula Rieker
+Janet Dietrich=09Richard Lewis=09Jeff Shankman
+Jeff Donahue=09Sean Long=09Mitch Taylor
+Gene Humphrey=09Dan McCarty=09Mike Terraso
+Robert Jones=09Jean Mrha=09
+
+The Corporate Policy Committee will conduct the MD PRC and review the=20
+recommendations of the other committees, giving substantial deference to th=
+e=20
+decisions of those other committees.  We will be forming other committees t=
+o=20
+deal with other significant functions, tasks and issues facing the company.
+
+From MAILER-DAEMON Mon Apr 18 14:20:52 2022
+Message-ID: <6143120.1075840309411.JavaMail.evans@thyme>
+Date: Mon, 21 May 2001 07:50:05 -0700 (PDT)
+From: customerservice@chron-news.com
+Subject: Your Houston Chronicle Subscriber Account Number
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: <customerservice@chron-news.com>@ENRON <IMCEANOTES-+3Ccustomerservice+40chron-news+2Ecom+3E+40ENRON@ENRON.com>
+X-To: undisclosed-recipients:;@ENRON
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Shively, Hunter S.\MISC
+X-Origin: SHIVELY-H
+X-FileName: hunter shively 6-26-02.PST
+
+Here's the Houston Chronicle Subscription Account Number you requested:
+
+    Account Number: 70412950
+    Zip Code: 77024
+
+Using these two pieces of information, you can activate your
+SubscribersADVANTAGE account features at the HoustonChronicle.com
+web site's registration page:
+http://www.chron.com/registration/login.hts
+
+If you have any questions or problems registering, please call
+Customer Service at 713-220-2700 between 8:00 AM and 5:00 PM Monday
+through Friday, or email online@chron.com <mailto:online@chron.com>
+
+Thank you for using HoustonChronicle.com!
+
+From MAILER-DAEMON Mon Apr 18 14:20:52 2022
+Message-ID: <8704755.1075857464040.JavaMail.evans@thyme>
+Date: Fri, 8 Dec 2000 02:50:00 -0800 (PST)
+From: amanda.huble@enron.com
+To: sylvia.pollan@enron.com, deirdre.mccaffrey@enron.com, kevin.brady@enron.com,
+	andrew.lewis@enron.com, robyn.zivic@enron.com,
+	hunter.shively@enron.com, geoff.storey@enron.com,
+	martin.cuilla@enron.com, kevin.ruscitti@enron.com,
+	patrice.mims@enron.com, jason.williams@enron.com,
+	kelli.stevens@enron.com, tom.donohoe@enron.com, joe.parks@enron.com
+Subject: Messaging Board System
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Amanda Huble
+X-To: Sylvia S Pollan, Deirdre McCaffrey, Kevin Brady, Andrew H Lewis, Robyn Zivic, Hunter S Shively, Geoff Storey, Martin Cuilla, Kevin Ruscitti, Patrice L Mims, Jason R Williams, Kelli Stevens, Tom Donohoe, Joe Parks
+X-cc: 
+X-bcc: 
+X-Folder: \Hunter_Shively_Jun2001\Notes Folders\Misc
+X-Origin: Shively-H
+X-FileName: hshivel.nsf
+
+We are taking a poll on how you like the messaging board system.  Please 
+reply to this email if you have signed on to it and let me know your thoughts 
+about it.
+
+Thank you, 
+Amanda Huble 
+Ext: 34384
+
+From MAILER-DAEMON Mon Apr 18 14:20:52 2022
+Message-ID: <2930118.1075840309460.JavaMail.evans@thyme>
+Date: Wed, 21 Mar 2001 12:33:00 -0800 (PST)
+From: richard.tomaski@enron.com
+To: andrew.lewis@enron.com
+Subject: Tony's deals
+Cc: hunter.shively@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: hunter.shively@enron.com
+X-From: Richard Tomaski <Richard Tomaski/Corp/Enron@ENRON>
+X-To: Andrew H Lewis <Andrew H Lewis/HOU/ECT@ECT>
+X-cc: Hunter S Shively <Hunter S Shively/HOU/ECT@ECT>
+X-bcc: 
+X-Folder: \ExMerge - Shively, Hunter S.\MISC
+X-Origin: SHIVELY-H
+X-FileName: hunter shively 6-26-02.PST
+
+Andy - can you please forward this email to your book person to change these attached deals from ENA- PGL  to ENA - and the actual counterparty.  Our confirmation guys should send out a confirm to verify these deals.
+
+Tony is continuing to look for additional Harper \ northern border supplies.  I will let you know if he finds anything of interest.
+
+
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:20:52 2022
+Message-ID: <29082451.1075857464208.JavaMail.evans@thyme>
+Date: Fri, 9 Mar 2001 08:27:00 -0800 (PST)
+From: laura.luce@enron.com
+To: louise.kitchen@enron.com, john.lavorato@enron.com, edie.leschber@enron.com
+Subject: 2001 Metrics/Goals
+Cc: hunter.shively@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: hunter.shively@enron.com
+X-From: Laura Luce
+X-To: Louise Kitchen, John J Lavorato, Edie Leschber
+X-cc: Hunter S Shively
+X-bcc: 
+X-Folder: \Hunter_Shively_Jun2001\Notes Folders\Misc
+X-Origin: Shively-H
+X-FileName: hshivel.nsf
+
+Louise/John:
+
+Attached are the specific numbers associated with the Central Region 
+Goals/Objectives for 2001.  If you have questions or require additional 
+clarification, please contact me at 312/541-1225.
+
+Thanx,
+Laura
+
+From MAILER-DAEMON Mon Apr 18 14:20:52 2022
+Message-ID: <441391.1075840309436.JavaMail.evans@thyme>
+Date: Tue, 27 Mar 2001 18:32:00 -0800 (PST)
+From: stanley.horton@enron.com
+To: sally.beck@enron.com, jeremy.blachman@enron.com, don.black@enron.com,
+	dan.castagnola@enron.com, joe.deffner@enron.com,
+	kevin.garland@enron.com, david.gorte@enron.com, troy.henry@enron.com,
+	sean.holmes@enron.com, sean.long@enron.com, rodney.malcolm@enron.com,
+	scott.neal@enron.com, john.nowlan@enron.com, ozzie.pagan@enron.com,
+	kevin.presto@enron.com, brad.richter@enron.com,
+	stewart.seeligson@enron.com, hunter.shively@enron.com,
+	jim.steffes@enron.com, andy.zipper@enron.com
+Subject: ASSOCIATE PRC
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Stanley Horton <Stanley Horton/Corp/Enron@ENRON>
+X-To: sally.beck <sally.beck@enron.com>, jeremy.blachman <jeremy.blachman@enron.com>, don.black <don.black@enron.com>, dan.castagnola <dan.castagnola@enron.com>, joe.deffner <joe.deffner@enron.com>, Kevin.Garland <Kevin.Garland@enron.com>, david.gorte <david.gorte@enron.com>, troy.henry <troy.henry@enron.com>, sean.holmes <sean.holmes@enron.com>, sean.long <sean.long@enron.com>, rodney.malcolm <rodney.malcolm@enron.com>, scott.neal <scott.neal@enron.com>, john.nowlan <john.nowlan@enron.com>, ozzie.pagan <ozzie.pagan@enron.com>, kevin.presto <kevin.presto@enron.com>, brad.richter <brad.richter@enron.com>, stewart.seeligson <stewart.seeligson@enron.com>, hunter.shively <hunter.shively@enron.com>, jim.steffes <jim.steffes@enron.com>, andy.zipper <andy.zipper@enron.com>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Shively, Hunter S.\MISC
+X-Origin: SHIVELY-H
+X-FileName: hunter shively 6-26-02.PST
+
+Please see attached.
+
+Stan Horton
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:20:52 2022
+Message-ID: <10802894.1075857464112.JavaMail.evans@thyme>
+Date: Mon, 15 Jan 2001 02:22:00 -0800 (PST)
+From: james.steffes@enron.com
+To: laura.luce@enron.com, hunter.shively@enron.com
+Subject: Crain's - January 15, 2001
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: James D Steffes
+X-To: Laura Luce, Hunter S Shively
+X-cc: 
+X-bcc: 
+X-Folder: \Hunter_Shively_Jun2001\Notes Folders\Misc
+X-Origin: Shively-H
+X-FileName: hshivel.nsf
+
+FYI.  Some interesting articles on Chicago natural gas issues.
+
+Laura - I am in the office on Tuesday.  Would you like to talk about these 
+matters?
+
+Jim
+
+
+----- Forwarded by James D Steffes/NA/Enron on 01/15/2001 10:19 AM -----
+
+	Susan M Landwehr
+	01/14/2001 10:52 AM
+		 
+		 To: James D Steffes/NA/Enron@Enron
+		 cc: Harry Kingerski/NA/Enron@Enron, Janine Migden/NA/Enron@Enron, Roy 
+Boston/HOU/EES@EES
+		 Subject: Crain's - January 15, 2001
+
+Jim--please take a look at these articles that will come out in the Crains 
+magazine tomorrow.  You'll see that there are both opportunities and potholes 
+for us on this issue.    It is very likely that we will get sucked into this 
+debate----the ENA/ Peoples deal which has generally floated under the 
+regulatory radar in the past is inevitably going to become more prominent. 
+(Evidence even before these articles is that I received a call from the ICC 
+staff late last week asking if we could participate in an ICC meeting on 
+natural gas issue on Jan 23).  
+
+The articles (and the gossip that I have heard in the past few weeks) point 
+out that Peoples is in hot water politically--I would hate to see us dragged 
+into that sesspool.  On the other hand, if ENA sees significant business 
+opportunities that could be opened up to them in Illinois by a change in the 
+regulatory climate, this could be the time to make the play....while the 
+issue is hot and there may be pressure on the ICC to take some steps that 
+they normally would not.
+
+I'd appreciate it if we could plan a call to talk about strategy on 
+Illinois.  I am going to have to give a response to ICC on Tuesday and we 
+will need to determine who would particpate in the meeting at the ICC.  Roy 
+and I had put in a call to Laura Luce last Thursday to discuss the request 
+from the ICC...I have not heard back from her, but Roy may have.  
+
+Are you available on Tuesday for a conference call?  
+
+
+
+
+----- Forwarded by Susan M Landwehr/NA/Enron on 01/14/2001 10:32 AM -----
+
+	"Fein, David I. - CHI" <david.fein@piperrudnick.com>
+	01/13/2001 06:03 PM
+		 
+		 To: "'Susan_M_Landwehr@enron.com'" <Susan_M_Landwehr@enron.com>, 
+"'rboston@enron.com'" <rboston@enron.com>
+		 cc: "Townsend, Christopher J. - CHI" <chris.townsend@piperrudnick.com>
+		 Subject: Crain's - January 15, 2001
+
+Sue & Roy -- We thought that you would find the attached articles regarding
+the high natural gas prices in Illinois to be of interest.  
+
+To solve gas bill crisis, turn heat up on Peoples
+Crain's Editorial - January 15, 2001
+Considering the finger-pointing that's going on between politicians,
+regulators and Peoples Energy Corp. executives, one thing is becoming
+obvious: Fixing blame for the recent astronomical rise in natural gas prices
+is much simpler than fixing the problem.
+Nonetheless, all of these factions bear some responsibility for this
+winter's monthly home heating bills, which, for many residents, are soaring
+by hundreds of dollars over last winter's tabs. Each of these groups should
+be held accountable for working to devise systems and strategies designed to
+blunt future price spikes.
+Make no mistake about it, this crisis will not melt away with the spring
+thaw. Limited natural gas supplies and increased demand will continue to
+pump up bills, rattle price stability and, along with other climbing energy
+rates, become the economy's unwelcome "X" factor.
+The weight of dealing with these pressures rests with the utilities,
+especially Peoples Energy, the city's natural gas provider. To start with,
+the utility's management must protect customers by anticipating escalating
+demand, hedging risk and locking in gas prices when it can.
+These are common business practices, used by corporations and even some
+conservative utilities. In Michigan, for example, gas providers charge fixed
+rates to customers and hedge their risk by purchasing gas years in advance
+under long-term supply contracts. Right now, Michigan pays 29 cents per
+therm, compared with the Chicago area's whopping 98 cents.
+Peoples argues that it tried to lock in prices but was shot down when it
+could not reach an agreement with the Illinois Commerce Commission (ICC),
+which regulates the utility, on what the fixed rate should be. In walking
+away from the deal, Peoples left customers with the current rate system and
+dumped the burden of price fluctuations onto them.
+In essence, instead of managing risk, it put its customer base at risk.
+Considering that decision and the subsequent fallout, critics are asking
+whether Peoples, a regulated monopoly designed to profit from the public's
+needs, is acting in the best interest of its customers. Those paying heating
+bills - which in some cases are as much as 300% higher than last winter's -
+are right to say no, as is Mayor Richard Daley, who's outraged at Peoples.
+More troubling are concerns that Peoples management may not be up to the
+challenge of resolving this crisis, especially if its recent handling of the
+political fallout is an indication. The company acts as if the public has no
+right to question its tactics or motivations. And when the Chicago City
+Council held a public hearing about the heating bills issue last week,
+Peoples Energy Chairman Richard Terry didn't show up.
+At these prices, it's not asking too much for the chairman of the gas
+utility to explain his company's position. That's not a job meant for a
+public relations executive or a consultant, who were among the Peoples
+advocates who actually did attend the council hearing.
+The ICC shoulders its share of the blame, too. It should have more zealously
+monitored the gas supply situation and the utility's plans. Now, the
+commission is playing catch-up by holding an investigation into what Peoples
+knew about the soaring gas prices and when it knew it.
+Let's get an answer to that important question and find out once and for all
+if there is price-gouging going on.
+Just as critical, however, is the need to foster a statewide regulatory
+environment that encourages gas utilities to use more hedging, storing and
+price-control strategies. If there is any ambiguity in state law about the
+utility's ability to do this, then the General Assembly should change the
+rules and open up the process.
+Peoples management, regulators and politicians must get beyond the blame
+game and find a way to better insulate the public from surprise spikes in
+energy prices.
+Otherwise, we're all just burning money.
+
+Gas flare-up gives city hot idea: Become a utility
+But co-ops mean high risks, mild rewards
+
+Utility man: William Abolt, head of Chicago's Department of the Environment,
+is examining ways to cut residents' natural gas bills. One option: opening a
+city-owned buying co-op. Photo: Steve Leonard   
+January 15, 2001
+By Steve Daniels <mailto:sdaniels@crain.com>
+It's easier said than done.
+That's something an angry and frustrated Mayor Richard Daley is about to
+learn as his staff begins investigating plans to take on some gas-purchasing
+duties on behalf of city residents.
+Mr. Daley is livid over what he contends is Peoples Energy Corp.'s failure
+to anticipate the rising cost of natural gas, to mitigate a huge run-up in
+residents' monthly heating bills this winter. He thinks the city can aid
+bill-payers, and punish Peoples, by developing a system that will funnel
+lower-cost gas to ratepayers.
+But the track record of other municipal gas utilities, or buying
+cooperatives, shows that such a system isn't likely to achieve more than
+modest rate savings unless the city is willing to take on significant
+financial risks.
+To protect against the kind of price spikes that have hit customers this
+winter, the city would have to buy futures, or long-term contracts, that
+could leave it exposed if prices were to decline substantially.
+In addition, the city would have to contend with thorny issues such as the
+collection of overdue bills and potential cutoffs of service to non-paying
+customers - activities for which municipalities are ill-suited.
+Despite the risks, utility critics contend that city intervention is
+appropriate.
+"It's a creative approach, and we need those," says Martin R. Cohen,
+executive director of the Citizens Utility Board, a consumer watchdog group.
+"These are extreme times, and innovative approaches are called for."
+Most municipalities that have gotten into the gas-buying business have been
+unwilling to enter into long-term, fixed-price contracts that can shield
+consumers against the sort of price spikes that have sent this year's
+home-heating bills soaring nearly 300% compared with last year's. That's
+because such arrangements can boomerang on customers, locking them into
+higher-than-market gas costs if prices fall.
+New York experience
+"We wrestled with this: Should government really be in this business?" says
+David Fountaine, village administrator in Hamburg, N.Y., a suburb of Buffalo
+that formed a buying group for its residents in April 1999. "In our case, by
+being in it, we've helped our residents."
+Hamburg and nearby Sloan, N.Y., together hired a unit of Texaco Inc. to
+supply gas to residents who signed up for the communities' program. New York
+opened its natural gas market to competition five years ago, so residents
+can choose either to remain with their gas utility or select an outside
+marketer.
+About one-third of Hamburg's 3,300 households buy gas from the village.
+Those residents' gas bills last winter were 8% lower than the bills of
+households that stayed with Buffalo gas utility National Fuel Gas Co. Last
+month, when gas prices shot up, the village's price was 15% lower than the
+utility's.
+But Mr. Fountaine says the village takes no outsized risks, making no
+long-term bets on the direction of gas prices. Rather, it simply relies on
+its contractor to manage gas supplies as efficiently as possible.
+Chicago officials are looking at programs like the one in the Buffalo area,
+but also may be willing to take bigger risks to achieve greater savings.
+"We know there are a lot of relatively new risk-management techniques being
+used by large (natural gas) consumers," says William Abolt, commissioner of
+the city's Department of Environment. "We want to know, what does the
+industry do to manage (price) risk? That's what the reasonable company does,
+but that's not what the local gas company does."
+City officials need look no further than Downstate, where the Illinois
+Municipal Gas Agency buys natural gas on behalf of 20 communities that
+provide monopoly gas service to their residents. Last September, the agency
+locked in prices for 50% to 75% of their customers' winter gas needs,
+rolling with the market for the remainder.
+That strategy is serving the agency's customers well. They're paying around
+70 cents per therm - the measurement the gas industry uses for billing -
+this month, compared with the 98 cents per therm that Peoples is charging
+Chicago-area customers.
+"There's no reason why investor-owned utilities couldn't do the same thing,"
+says John Bell, the Municipal Gas Agency's general manager. "I think (a city
+program) is a viable alternative if they don't like what they've got."
+For its part, Peoples supports the city's desire to become involved in the
+market. The move poses no threat to the utility because it doesn't profit on
+gas purchases and still would make money on the delivery of the gas to
+customers.
+Meanwhile, the city is just beginning to consider alternatives. Although Mr.
+Abolt says no system will be developed in time to help Chicagoans during
+this trying season, a program most likely will be launched next winter.
+Weighing the risks
+The city's top priority will be to help low-income residents most vulnerable
+to escalating heating bills, but all Chicago residents might be able to
+choose between the city's program or remaining with Peoples. And one
+possibility being considered would enable residents to choose either a fixed
+price for gas before winter starts or rates that rise and fall with the
+market.
+While a fixed-price approach certainly looks good in hindsight right now, it
+can have a downside if not managed properly.
+In the Buffalo area, the two major private gas marketers offering fixed
+prices to households recently dropped out of the residential market, forcing
+some 23,000 customers to scramble back to the local utility for gas service.
+To meet the unanticipated demand, the utility was forced to purchase gas on
+the sky-high spot market.
+It just such risks that Chicago officials are weighing. Says Mr. Abolt:
+"This is not an overnight thing. You don't just snap your fingers and it
+happens."
+
+
+David I. Fein
+Piper Marbury Rudnick & Wolfe
+203 N. LaSalle Street
+Suite 1800
+Chicago, Illinois  60601
+(W) 312-368-3462
+(F) 312-630-7418
+e-mail:  david.fein@piperrudnick.com
+
+PLEASE NOTE THAT MY E-MAIL ADDRESS HAS CHANGED TO REFLECT THE MERGER OF
+PIPER & MARBURY AND RUDNICK & WOLFE
+ 
+
+____________________________________________________________________________
+The information contained in this communication may be confidential, is 
+intended only for the use of the recipient named above, and may be legally 
+privileged.  If the reader of this message is not the intended recipient, you 
+are hereby notified that any dissemination, distribution, or copying of this 
+communication, or any of its contents, is strictly prohibited. If you have 
+received this communication in error, please re-send this communication to 
+the sender and delete the original message and any copy of it from your 
+computer system.
+Thank you.
+
+For more information about Piper Marbury Rudnick & Wolfe, please visit us at 
+http://www.piperrudnick.com/
+____________________________________________________________________________
+
+
+From MAILER-DAEMON Mon Apr 18 14:20:52 2022
+Message-ID: <1349280.1075857464231.JavaMail.evans@thyme>
+Date: Mon, 12 Mar 2001 03:16:00 -0800 (PST)
+From: laura.luce@enron.com
+To: hunter.shively@enron.com
+Subject: 2001 Plan Summary Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Laura Luce
+X-To: Hunter S Shively
+X-cc: 
+X-bcc: 
+X-Folder: \Hunter_Shively_Jun2001\Notes Folders\Misc
+X-Origin: Shively-H
+X-FileName: hshivel.nsf
+
+FYI...
+
+Laura
+----- Forwarded by Laura Luce/Corp/Enron on 03/12/2001 11:15 AM -----
+
+	Edie Leschber@ECT
+	03/09/2001 04:57 PM
+		 
+		 To: Faith Killen/HOU/ECT@ECT
+		 cc: Laura Luce/Corp/Enron@Enron, Frank W Vickers/NA/Enron@Enron, Barry 
+Tycholiz/NA/Enron@ENRON, Thomas A Martin/HOU/ECT@ECT, John 
+Arnold/HOU/ECT@ECT, Fred Lagrasta/HOU/ECT@ECT
+		 Subject: 2001 Plan Summary Schedule
+
+Faith,
+Attached is the 2001 Plan Summary Schedule for Louise Kitchen with all 
+updates in for all regions within the Natural Gas group.  Please let me know 
+if you have any further questions.
+
+Thanks,
+Edie
+
+
+From MAILER-DAEMON Mon Apr 18 14:20:52 2022
+Message-ID: <5775719.1075857464159.JavaMail.evans@thyme>
+Date: Tue, 6 Mar 2001 05:44:00 -0800 (PST)
+From: password@vertical.net
+To: hunter.s.shively@enron.com
+Subject: Your VerticalNet eBusiness Training Services Login Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: password@vertical.net
+X-To: hunter.s.shively@enron.com
+X-cc: 
+X-bcc: 
+X-Folder: \Hunter_Shively_Jun2001\Notes Folders\Misc
+X-Origin: Shively-H
+X-FileName: hshivel.nsf
+
+Your login information for VerticalNet's eBusiness Training Services: 
+
+USERNAME: 90012897
+PASSWORD: SHIVELYH79154                                      
+
+You can log in to your account by clicking here:  LOG IN HERE  
+
+Please save this email for future use. 
+
+From MAILER-DAEMON Mon Apr 18 14:20:52 2022
+Message-ID: <16291067.1075857463929.JavaMail.evans@thyme>
+Date: Fri, 20 Oct 2000 12:40:00 -0700 (PDT)
+From: perfmgmt@enron.com
+To: hunter.s.shively@enron.com
+Subject: Enron Year End 2000 Performance Management Process
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "perfmgmt@enron.com"<perfmgmt@enron.com>
+X-To: hunter.s.shively@enron.com
+X-cc: 
+X-bcc: 
+X-Folder: \Hunter_Shively_Jun2001\Notes Folders\Misc
+X-Origin: Shively-H
+X-FileName: hshivel.nsf
+
+Enron's Year-End 2000 Performance Management Process opens on:
+
+   WEDNESDAY, OCTOBER 25th.
+
+During this process, you will be able to suggest reviewers who can provide 
+feedback on your performance.  In addition, you may be requested to provide 
+feedback on fellow employees.  To participate in the feedback process, access 
+the Performance Management System (PEP) at http://pep.corp.enron.com .   Your 
+UserID and Password are provided below.
+
+The system will be open for feedback from October 25th - November 17th, and 
+Help Desk representatives will be available to answer questions throughout 
+the process.  You may contact the Help Desk at:
+
+   Houston:  1-713-853-4777, Option 4
+   London:  44-207-783-4040, Option 4
+   E-mail:  perfmgmt@enron.com
+
+During the year-end PRC process, employee profiles will be made available at 
+meetings.   If you haven't already done so, we encourage you to update your 
+personal information and current responsibilities before the meeting process 
+begins on November 20th.  Please access eHRonline at 
+http://ehronline.enron.com (London users please go to http://home.enron.co.uk 
+, click on Quick Links, and choose HR Online).
+
+Your User ID & Password are:
+
+User ID: 90012897
+
+Password: WELCOME
+
+From MAILER-DAEMON Mon Apr 18 14:20:52 2022
+Message-ID: <33356185.1075857463973.JavaMail.evans@thyme>
+Date: Wed, 29 Nov 2000 06:48:00 -0800 (PST)
+From: lynn.pikofsky@enron.com
+To: hunter.shively@enron.com
+Subject: Presentation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lynn Pikofsky
+X-To: Hunter S Shively
+X-cc: 
+X-bcc: 
+X-Folder: \Hunter_Shively_Jun2001\Notes Folders\Misc
+X-Origin: Shively-H
+X-FileName: hshivel.nsf
+
+Hunter, 
+Let me know if you have any questions.
+
+Thanks,
+Lynn
+
+From MAILER-DAEMON Mon Apr 18 14:20:52 2022
+Message-ID: <25790507.1075857464357.JavaMail.evans@thyme>
+Date: Wed, 21 Mar 2001 01:33:00 -0800 (PST)
+From: richard.tomaski@enron.com
+To: andrew.lewis@enron.com
+Subject: Tony's deals
+Cc: hunter.shively@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: hunter.shively@enron.com
+X-From: Richard Tomaski
+X-To: Andrew H Lewis
+X-cc: Hunter S Shively
+X-bcc: 
+X-Folder: \Hunter_Shively_Jun2001\Notes Folders\Misc
+X-Origin: Shively-H
+X-FileName: hshivel.nsf
+
+Andy - can you please forward this email to your book person to change these 
+attached deals from ENA- PGL  to ENA - and the actual counterparty.  Our 
+confirmation guys should send out a confirm to verify these deals.
+
+Tony is continuing to look for additional Harper \ northern border supplies.  
+I will let you know if he finds anything of interest.
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:20:52 2022
+Message-ID: <2092803.1075857464018.JavaMail.evans@thyme>
+Date: Thu, 7 Dec 2000 03:57:00 -0800 (PST)
+From: demetrion.ware@enron.com
+To: hunter.shively@enron.com
+Subject: Peoples Energy
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Demetrion Ware
+X-To: Hunter S Shively
+X-cc: 
+X-bcc: 
+X-Folder: \Hunter_Shively_Jun2001\Notes Folders\Misc
+X-Origin: Shively-H
+X-FileName: hshivel.nsf
+
+New Site Location is 
+Peoplesenergy.enron.com
+
+this site can be accessed outside the enron network
+
+Here are the ID's and passwords. 
+
+Houston
+Login ID:pepenergy_enron 
+Password: vtr61b5y
+
+Peoples
+Login ID:pepenergy_peoples 
+Password:ken8by6z
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:20:52 2022
+Message-ID: <23506394.1075857463996.JavaMail.evans@thyme>
+Date: Mon, 4 Dec 2000 08:46:00 -0800 (PST)
+From: paul.lucci@enron.com
+To: hunter.shively@enron.com
+Subject: New Rockies
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Paul T Lucci
+X-To: Hunter S Shively
+X-cc: 
+X-bcc: 
+X-Folder: \Hunter_Shively_Jun2001\Notes Folders\Misc
+X-Origin: Shively-H
+X-FileName: hshivel.nsf
+
+Here are the pipeline expansions within or out of the Rockies:
+
+
+Pipeline Capacity  In Service Date  Delivery Region
+CIG    50,000Dth/d   Fall 2001  Mid Continent
+Trail Blazer 150,000Dth/d  Fall 2002  Mid Continent   
+WIC Med. Bow 500,000Dth/d  Fall 2001  Rockies (Cheyenne Hub)
+Kern River 125,000 Dth/d  Summer 2002  So Cal Border
+
+Pipeline Expansions Currently in Open Season
+Pipeline Capacity  In Service Date  Delivery Region
+Coastal
+Connection 540,000 Dth/d  Fall 2003  Mid Continent
+
+Williams 540,000 Dth/d  Fall 2003  Mid Continent
+
+Northern 
+Border  340,000 Dth/d  Fall 2003  Mid Continent via Northern Border
+
+All these proposed pipelines currently have no firm contractual commitments, 
+we believe only one project will be built and that the true in-service date 
+is sometime in 2004.  It takes 36 months from start to finish, for these 
+green field projects. 
+
+
+
+
+
+

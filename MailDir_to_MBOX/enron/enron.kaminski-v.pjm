@@ -1,0 +1,1006 @@
+From MAILER-DAEMON Mon Apr 18 14:18:54 2022
+Message-ID: <24620121.1075856616228.JavaMail.evans@thyme>
+Date: Fri, 29 Dec 2000 07:03:00 -0800 (PST)
+From: owner-pjm-customer-info@pjm.com
+To: pjm-customer-info@risc1.pjm.com
+Subject: PJM Announces Basic Training Program over the Internet
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: owner-pjm-customer-info@pjm.com
+X-To: pjm-customer-info@risc1.pjm.com
+X-cc: 
+X-bcc: 
+X-Folder: \Vincent_Kaminski_Jun2001_5\Notes Folders\Pjm
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Message sent from the pjm-customer-info mailing list at 
+pjm-customer-info@majordomo.pjm.com:
+
+PJM will again offer a one-day course, PJM 101: The Basics, on February 27, 
+2001
+as a Virtual Workshop over the Internet.
+
+PJM 101: The Basics will introduce participants to the PJM market and 
+operations
+model. It will include presentations on PJM Market settlements, capacity
+assurance and markets, transmission expansion and the status of PJM ancillary
+services markets and other initiatives. The coups is designed for those new to
+PJM.
+
+A limited number of participants will be registered since this is a pilot
+program to determine if such a format is effective. The course times are 9:00
+a.m. to 12 noon and 1:00 p.m. to 4:00 p.m. Participants should plan to log in 
+a
+half hour before the scheduled start time.
+
+Further details and registration information can be found on the PJM web site 
+at
+http://www.pjm.com/transmission/trans_exp_plan/meeting/1212_0116_meeting.html.
+
+Please DO NOT REPLY to this message. If you have a question for PJM Customer
+Relations and Training, please complete and submit this form:
+http://www.pjm.com/contact/questions.html
+
+To unsubscribe from this list, send an e-mail to majordomo@majordomo.pjm.com
+containing only the following line in the body of the e-mail:
+
+unsubscribe pjm-customer-info
+
+From MAILER-DAEMON Mon Apr 18 14:18:54 2022
+Message-ID: <6167845.1075857060870.JavaMail.evans@thyme>
+Date: Fri, 7 Apr 2000 12:35:00 -0700 (PDT)
+From: pjmcustomerrelationsandtraining@pjm.com
+To: pjm-customer-info@risc1.pjm.com
+Subject: EES Implementation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: PJMCustomerRelationsandTraining@pjm.com
+X-To: pjm-customer-info@risc1.pjm.com
+X-cc: 
+X-bcc: 
+X-Folder: \Vincent_Kaminski_Jun2001_9\Notes Folders\Pjm
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Message sent from the pjm-customer-info mailing list at 
+pjm-customer-info@majordomo.pjm.com:
+
+Valued Customer:
+
+EES Production Cut-Over
+
+The production EES application will be made available to the registered users 
+on
+Monday April 17, 2000 for day-ahead scheduling.  The production system will be
+preloaded with all schedules submitted through the current scheduling process 
+to
+that point (PJM identifiers for these pre-loaded schedules will be provided
+through the usual scheduling practices).   Hourly schedules may be entered
+beginning April 18, 2000.
+
+The Sandbox will be made unavailable at the time of production implementation.
+Prior to April 17, the https://eestest.pjm.com URL will be reserved for the
+Sandbox.  Beginning April 17, the https://ees.pjm.com URL will point to the
+production EES application.
+
+
+Registration
+
+Users with accounts on the Sandbox will automatically have accounts on the
+production system.  If you have not registered, please complete the
+authorization and registration forms located at
+http://www.pjm.com/ees/ees_index.html.  The contact designated on the EES
+authorization form will be faxed a list of user id's and passwords upon
+completion of the registration process.
+
+
+EES Support
+
+PJM is enthusiastic about providing the responsive support you and your
+technical staff require.  Please contact our customer hotlines with your
+functional and technical inquiries.
+
+* Functional Support: (610) 666 - 8980
+* Technical Support: (610) 666 - 8886
+* Email: eeshelp@pjm.com
+
+
+
+
+Questions may be directed to PJM Customer Service at (610) 666-8980.
+
+To unsubscribe from this list, send an e-mail to majordomo@majordomo.pjm.com
+containing only the following line in the body of the e-mail:
+
+unsubscribe pjm-customer-info
+
+From MAILER-DAEMON Mon Apr 18 14:18:54 2022
+Message-ID: <25312641.1075857060741.JavaMail.evans@thyme>
+Date: Wed, 17 May 2000 08:25:00 -0700 (PDT)
+From: owner-pjm-customer-info@pjm.com
+To: pjm-customer-info@risc1.pjm.com
+Subject: PJM Adds NY Prices to eData
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: owner-pjm-customer-info@pjm.com
+X-To: pjm-customer-info@risc1.pjm.com
+X-cc: 
+X-bcc: 
+X-Folder: \Vincent_Kaminski_Jun2001_9\Notes Folders\Pjm
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Message sent from the pjm-customer-info mailing list at 
+pjm-customer-info@majordomo.pjm.com:
+
+ PJM has launched a pilot version of eData which includes data from the
+New York Independent System Operator.  The beta-test period for the pilot is
+expected to last approximately 90 days as PJM evaluates the success of using
+cross-ISO data in eData.  If the pilot proves successful, PJM may add data 
+from
+other ISOs in the future.
+
+ This pilot version of eData is a result of the collaboration among the
+ISOs created by the Memorandum of Understanding signed last year.  Through the
+ISO MOU process, stakeholders have asked the ISOs to improve seams issues,
+create like user interfaces, and make it easier to do business between the 
+ISOs.
+The addition of other ISO data to eData has several benefits to users 
+including
+consolidated information, ease of use, less technical support required, and
+improved customer service.  Real-time prices, forecasted/actual loads, tie 
+line
+schedules, and transmission limits are all possible types of information that
+may be included in the future.
+
+ eData was implemented in October 1998.  There are currently more that
+1700 registered users representing over 200 companies.  Users include 
+marketers,
+utilities, control areas, state and federal regulators, educational
+organizations, financial institutions and others.  The tool continues to 
+attract
+30 to 40 new registered users each week.  Normally, 100 - 300 users are
+simultaneously logged onto the system. To become an eData user, submit New 
+User
+information from the eData log in screen from the PJM web site at www.pjm.com.
+
+
+Please DO NOT REPLY to this message. If you have a question for PJM Customer
+Relations and Training, please send an e-mail to custsvc@pjm.com.
+
+To unsubscribe from this list, send an e-mail to majordomo@majordomo.pjm.com
+containing only the following line in the body of the e-mail:
+
+unsubscribe pjm-customer-info
+
+From MAILER-DAEMON Mon Apr 18 14:18:54 2022
+Message-ID: <8764897.1075857060784.JavaMail.evans@thyme>
+Date: Wed, 17 May 2000 01:24:00 -0700 (PDT)
+From: owner-pjm-customer-info@pjm.com
+To: pjm-customer-info@risc1.pjm.com
+Subject: Two-Settlement XML/CSV Conversion Utilities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: owner-pjm-customer-info@pjm.com
+X-To: pjm-customer-info@risc1.pjm.com
+X-cc: 
+X-bcc: 
+X-Folder: \Vincent_Kaminski_Jun2001_9\Notes Folders\Pjm
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Message sent from the pjm-customer-info mailing list at 
+pjm-customer-info@majordomo.pjm.com:
+
+The Two-Settlement XML / CSV Conversion Utilities are now available for 
+download
+from the PJM Web Site.  The zip file containing the required programs and
+examples can be downloaded from
+http://www.pjm.com/twoset/twoset_conversion_utilities.html.
+
+
+Please DO NOT REPLY to this message. If you have a question for PJM Customer
+Relations and Training, please send an e-mail to custsvc@pjm.com.
+
+To unsubscribe from this list, send an e-mail to majordomo@majordomo.pjm.com
+containing only the following line in the body of the e-mail:
+
+unsubscribe pjm-customer-info
+
+From MAILER-DAEMON Mon Apr 18 14:18:54 2022
+Message-ID: <19483904.1075856616316.JavaMail.evans@thyme>
+Date: Fri, 4 Aug 2000 05:49:00 -0700 (PDT)
+From: owner-pjm-customer-info@pjm.com
+To: pjm-customer-info@risc1.pjm.com
+Subject: PJM Customer Load Reduction Pilot Program Approved
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: owner-pjm-customer-info@pjm.com
+X-To: pjm-customer-info@risc1.pjm.com
+X-cc: 
+X-bcc: 
+X-Folder: \Vincent_Kaminski_Jun2001_5\Notes Folders\Pjm
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Message sent from the pjm-customer-info mailing list at 
+pjm-customer-info@majordomo.pjm.com:
+
+
+August 4, 2000
+Norristown, PA:
+
+The Members Committee of PJM Interconnection, LLC approved a Customer Load
+Reduction Pilot Program following approval last week by the Federal Energy
+Regulatory Commission (FERC). The program targets existing on-site generation
+and load management programs at facilities such as hospitals, hotels, 
+factories,
+and stores during emergency conditions. After September 30th, the end of the
+trial period for the program, the program will be evaluated to determine its
+success.  The evaluation will explore program improvements in order to enhance
+the program as a way to address potential capacity shortfalls next summer.
+Related procedures for interconnecting generation under 10MW will be discussed
+through PJM's committee process for additional advisory input and will be
+refiled for further consideration by the FERC after the stakeholder process.
+
+The Pilot Program was designed through a collaborative fast-track effort of 
+the
+PJM Distributed Generation User Group.  Currently, there are 35 participants
+registered for the program representing a total of 61.5 MW.  The smallest of
+these generators represents 200kW and the largest represents 15MW. This user
+group's efforts are consistent with the Federal Energy Regulatory Commission's
+recent initiative to support interim procedures to assist with the on-going
+efforts to maintain a reliable electric power system during the summer months.
+
+Distributed generation benefits the system by either reducing demand or
+providing additional generating resources.  The pilot program is designed to
+provide additional flexibility during times of peak demand.  It is not meant 
+to
+replace PJM's successful generation interconnection process which deals with
+generation projects applying to become part of regional capacity or to 
+interfere
+with the Active Load Management ("ALM") programs that are in operation.
+
+
+
+
+
+Please DO NOT REPLY to this message. If you have a question for PJM Customer
+Relations and Training, please send an e-mail to custsvc@pjm.com.
+
+To unsubscribe from this list, send an e-mail to majordomo@majordomo.pjm.com
+containing only the following line in the body of the e-mail:
+
+unsubscribe pjm-customer-info
+
+From MAILER-DAEMON Mon Apr 18 14:18:54 2022
+Message-ID: <13869745.1075857060848.JavaMail.evans@thyme>
+Date: Wed, 12 Apr 2000 03:42:00 -0700 (PDT)
+From: owner-pjm-customer-info@pjm.com
+To: pjm-customer-info@risc1.pjm.com
+Subject: Sample Day-Ahead LMP Postings
+Cc: webmastr@www1.pjm.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: webmastr@www1.pjm.com
+X-From: owner-pjm-customer-info@pjm.com
+X-To: pjm-customer-info@risc1.pjm.com
+X-cc: webmastr@www1.pjm.com
+X-bcc: 
+X-Folder: \Vincent_Kaminski_Jun2001_9\Notes Folders\Pjm
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Message sent from the pjm-customer-info mailing list at 
+pjm-customer-info@majordomo.pjm.com:
+
+>From 04/10/00 through 05/12/00, PJM will be posting sample day-ahead prices
+produced using the two-settlement software and
+generation bids and ties schedules as bid into the PJM real time market.
+Perturbations may be applied to the demand bids in order
+to illustrate the impact of total demand MWs bid on day-ahead LMPs (such
+perturbations will be discussed in the day-ahead case description
+file). Sample prices will be posted for weekdays only. These prices are for
+illustration purposes only. They will not be used in any PJM
+settlements. Sample LMPs will be posted in a csv file using the following name
+convention YYYYMMDD-DA.csv. The names of files initially
+posted for 4/10/00 and 4/11/00 have been changed to this name convention.
+
+Questions may be directed to PJM Customer Service at (610) 666-8980.
+
+To unsubscribe from this list, send an e-mail to majordomo@majordomo.pjm.com
+containing only the following line in the body of the e-mail:
+
+unsubscribe pjm-customer-info
+
+From MAILER-DAEMON Mon Apr 18 14:18:54 2022
+Message-ID: <18813884.1075856616154.JavaMail.evans@thyme>
+Date: Fri, 30 Mar 2001 02:52:00 -0800 (PST)
+From: owner-pjm-customer-info@pjm.com
+To: pjm-customer-info@risc1.pjm.com
+Subject: ISO New England and PJM Propose Standard Market Design
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: owner-pjm-customer-info@pjm.com
+X-To: pjm-customer-info@risc1.pjm.com
+X-cc: 
+X-bcc: 
+X-Folder: \Vincent_Kaminski_Jun2001_5\Notes Folders\Pjm
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Message sent from the pjm-customer-info mailing list at 
+pjm-customer-info@majordomo.pjm.com:
+
+ISO New England and PJM Interconnection Propose a
+Standard Market Design for Wholesale Electricity Markets
+
+March 29, 2001 - HOLYOKE, MA -  Two of the country's leading wholesale
+electricity market administrators, ISO New England Inc. and PJM 
+Interconnection,
+L.L.C., together with ALSTOM ESCA Corporation, a systems developer for 
+electric
+utilities, today announce their intent to formalize an agreement that will not
+only standardize their electricity markets, but will lead, they believe, to 
+the
+standardization of wholesale electricity markets across the country.
+
+Today, ISO New England delivered a letter to the Chairman and Commissioners of
+the Federal Energy Regulatory Commission (FERC), enclosing a report concerning
+its proposed comprehensive wholesale market program that combines salient
+features of the PJM market model with elements of its own existing wholesale
+market design.  The combination would create a standardized wholesale market
+structure called the Standard Market Design for wholesale electricity markets
+("Standard Market Design").
+
+ISO New England, ALSTOM ESCA and PJM, acting through its wholly-owned
+subsidiary, PJM Technologies Inc., have agreed to proceed with the negotiation
+of an agreement where ISO New England will purchase the existing PJM market
+design and certain software components from ALSTOM ESCA and PJM.  The two ISOs
+and ALSTOM ESCA will work together to create a standardized market design that
+includes solutions to reserve markets and a common solution to unit dispatch.
+
+"This new market standard should put into place the necessary market
+improvements more quickly and at a reduced cost than if we were to implement a
+customized market system for New England," said William W. Berry, Chairman and
+Acting CEO of ISO New England.  "Now is the time to stop the experimentation.
+Ultimately, we hope the Standard Market Design will serve as the benchmark for
+wholesale electricity marketplaces across the country, if not around the 
+world."
+
+
+"PJM is very excited to further standardize a design for a competitive 
+wholesale
+electricity market," said Phillip G. Harris, Chairman and CEO of PJM. "Along
+with the progress in the implementation of the PJM West concept, this 
+initiative
+will provide an even broader standardized market design."
+
+This approach should further expedite the elimination of trading barriers 
+across
+different markets and promote FERC's goal of creating a seamless marketplace.
+"We intend to continue to work with the New York ISO on issues of mutual
+importance," stated Mr. Berry.  "This new market design, together with our
+efforts to address the market "seams" and other coordination issues, will
+eventually bring the three northeast ISO markets closer together."  ISO New
+England and the New York ISO will continue to work together on these issues
+under a joint board resolution passed on January 16, 2001.
+
+"Because of our geographic location, New York is in the center of the 
+Northeast
+markets, with ISO New England, PJM and IMO each on one of our borders.  We
+support the continued elimination of barriers across Northeast trading markets
+to develop a more seamless marketplace where everyone will benefit," said
+William J. Museler, President and CEO of the New York Independent System
+Operator. "The New York ISO will continue to work with our neighboring markets
+to remove barriers to trading across the region and to move towards larger
+regional markets."
+
+This proposed market design standard will be developed jointly with 
+stakeholder
+input. ISO New England will propose the Standard Market Design to the New
+England Conference of Public Utility Commissioners and the New England Power
+Pool in a series of meetings next week.  Additional meetings will be conducted
+in the next few weeks. The Standard Market Design for New England will be
+subject to FERC approval.
+
+"Standardization requires consistent and reliable technology to facilitate a
+market's efficiency.  A market that moderates price fluctuations and 
+encourages
+investment based on an expected return is an efficient market -- and 
+efficiency
+is the key to establishing market liquidity," said Alain Steven, CEO of ALSTOM
+ESCA.  "In the future, this agreement will be viewed as a catalyst in
+establishing more robust electricity markets."
+
+ISO New England Inc. is the not-for-profit corporation responsible for the
+day-to-day reliable operation of New England's bulk generation and 
+transmission
+systems with an installed capacity of almost 26,000 megawatts.  In addition to
+operating the bulk power grid, ISO New England is the administrator of the
+region's wholesale electricity marketplace and the Open Access Transmission
+Tariff on behalf of the New England Power Pool. ISO New England is based in
+Holyoke, Massachusetts.
+
+The PJM Interconnection, L.L.C., is an Independent System Operator,
+administering the PJM Open Access Transmission Tariff and operating the PJM
+Energy Markets and Capacity Markets. PJM currently administers the largest
+wholesale electricity market in the world and has a membership of more than 
+200.
+It is headquartered in Norristown, Pennsylvania. PJM Technologies, Inc. is a
+wholly-owned subsidiary of PJM Interconnection, L.L.C., designed to respond to
+market opportunities by bringing cost-effective, reliable solutions to the
+energy marketplace. It was created to commercialize PJM's knowledge capital,
+experience, and proven success in electric energy markets, system operations,
+and applications development.
+
+
+# # #
+
+For more information about the New York ISO, please call: Steve Sullivan,
+Director of Communications, 518-356-7605.
+
+
+
+
+Please DO NOT REPLY to this message. If you have a question for PJM Customer
+Relations and Training, please complete and submit this form:
+http://www.pjm.com/contact/questions.html
+
+To unsubscribe from this list, send an e-mail to majordomo@majordomo.pjm.com
+containing only the following line in the body of the e-mail:
+
+unsubscribe pjm-customer-info
+
+From MAILER-DAEMON Mon Apr 18 14:18:54 2022
+Message-ID: <17520641.1075857060945.JavaMail.evans@thyme>
+Date: Wed, 29 Mar 2000 06:50:00 -0800 (PST)
+From: majordomo@pjm.com
+To: vince.j.kaminski@enron.com
+Subject: Welcome to pjm-customer-info
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Majordomo@pjm.com
+X-To: Vince.J.Kaminski@enron.com
+X-cc: 
+X-bcc: 
+X-Folder: \Vincent_Kaminski_Jun2001_9\Notes Folders\Pjm
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+--
+
+Welcome to the pjm-customer-info mailing list!
+
+Please save this message for future reference.  Thank you.
+
+If you ever want to remove yourself from this mailing list,
+you can send mail to <Majordomo@majordomo.pjm.com> with the following
+command in the body of your email message:
+
+    unsubscribe pjm-customer-info
+
+or from another account, besides Vince.J.Kaminski@enron.com.:
+
+    unsubscribe pjm-customer-info Vince.J.Kaminski@enron.com.
+
+If you ever need to get in contact with the owner of the list,
+(if you have trouble unsubscribing, or have questions about the
+list itself) send email to <owner-pjm-customer-info@majordomo.pjm.com> .
+This is the general rule for most mailing lists when you need
+to contact a human.
+
+ Here's the general information for the list you've subscribed to,
+ in case you don't already have it:
+
+
+This mailing list is maintained by the PJM Interconnection L.L.C.
+to communicate information about PJM and PJM's upcoming events.
+
+From MAILER-DAEMON Mon Apr 18 14:18:54 2022
+Message-ID: <12804735.1075856616207.JavaMail.evans@thyme>
+Date: Thu, 4 Jan 2001 04:30:00 -0800 (PST)
+From: mullenc@pjm.com
+To: vkamins@enron.com
+Subject: PJM101: The Basics - January 16, 2001
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: MULLENC@pjm.com
+X-To: vkamins@enron.com
+X-cc: 
+X-bcc: 
+X-Folder: \Vincent_Kaminski_Jun2001_5\Notes Folders\Pjm
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+01/04/01
+PJM
+
+To: Vincent Kaminski
+ ENRON
+
+Re:  "PJM 101: The Basics" Training Course
+
+You are confirmed for the following course:
+
+ "PJM 101: The Basics" Training Course on Tuesday, February 27, 2001
+from 9:00 a.m. to 12:00 noon and 1:00 p.m. to 4:00 p.m. on the Internet.
+
+We encourage you to coordinate participation in this workshop with others at
+your location by organizing a conference room with Internet and phone access.
+
+No fee will be charged to PJM members; nonmembers will be invoiced $500.00 to
+attend the course.  The fee is nonrefundable. Non-members will be charged only
+for each connection. Multiple participants may watch on a single connection.
+
+In order to participate in the course, you will need a computer with Internet
+connection on at least a 56K modem and a Java compliant browser, at least
+version 4.5 of Netscape or Internet Explorer. You will also need a phone
+connection. Phone charges will be paid by PJM for domestic callers.
+International callers must pay for their own long distance charges.
+
+Our course is being produced by Virtual-Workshops.com. A few days from now you
+will receive registration confirmation from them. A few days prior to the
+course, you will receive log-on and dial up instructions from them as well as
+files of the slides which will be used so that you can print them out and take
+notes if appropriate.
+
+If you need additional details, you can call me on 610-666-8981 or call our
+Customer Service Hotline at (610) 666-8980.  We look forward to your 
+attendance
+at our program.
+
+Sincerely,
+
+
+Carolyn Mullen
+Customer Relations & Training
+
+From MAILER-DAEMON Mon Apr 18 14:18:54 2022
+Message-ID: <21550505.1075856616185.JavaMail.evans@thyme>
+Date: Thu, 1 Feb 2001 05:43:00 -0800 (PST)
+From: steve@virtual-workshops.com
+To: info@virtual-workshops.com
+Subject: Password for PJM 101:  The Basics
+Cc: steve@virtual-workshops.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: steve@virtual-workshops.com
+X-From: <steve@virtual-workshops.com>
+X-To: "Virtual-Workshop Participants" <info@virtual-workshops.com>
+X-cc: <steve@virtual-workshops.com>
+X-bcc: 
+X-Folder: \Vincent_Kaminski_Jun2001_5\Notes Folders\Pjm
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Dear PJM Attendees:
+
+For PJM 101:  The Basics - Febuary 27, 2001 @ 9:00 AM ET
+
+Your username and password will both be pjm + the first 3 letters of your
+last name.  For instance my username AND password would be pjmcur.
+
+Feel free to go to our web site and change this at any time.
+http://www.virtual-workshops.com
+
+If you have any questions regarding this, give me a call.
+
+From MAILER-DAEMON Mon Apr 18 14:18:54 2022
+Message-ID: <5666766.1075857060827.JavaMail.evans@thyme>
+Date: Mon, 17 Apr 2000 03:05:00 -0700 (PDT)
+From: owner-pjm-customer-info@pjm.com
+To: pjm-customer-info@risc1.pjm.com
+Subject: Enhanced Energy Scheduler Tool in Production Today
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: owner-pjm-customer-info@pjm.com
+X-To: pjm-customer-info@risc1.pjm.com
+X-cc: 
+X-bcc: 
+X-Folder: \Vincent_Kaminski_Jun2001_9\Notes Folders\Pjm
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Message sent from the pjm-customer-info mailing list at 
+pjm-customer-info@majordomo.pjm.com:
+
+The new PJM Enhanced Energy Scheduler (EES) will go into production at 10:00
+this morning 4/17/00 at https://ees.pjm.com/mui/index.htm . Schedules may be
+submitted for energy that begins on or after tomorrow, 4/18/00.  For questions
+please contact PJM  at 610 - 666-2270.
+
+Questions may be directed to PJM Customer Service at (610) 666-8980.
+
+To unsubscribe from this list, send an e-mail to majordomo@majordomo.pjm.com
+containing only the following line in the body of the e-mail:
+
+unsubscribe pjm-customer-info
+
+From MAILER-DAEMON Mon Apr 18 14:18:54 2022
+Message-ID: <16216256.1075857060924.JavaMail.evans@thyme>
+Date: Thu, 30 Mar 2000 06:43:00 -0800 (PST)
+From: vince.kaminski@enron.com
+To: joe.hirko@enron.com
+Subject: Re: Enron Research and EBS Engineering and Operations Group
+ Technical Forum
+Cc: john.griebling@enron.com, ravi.thuraisingham@enron.com,
+	vince.kaminski@enron.com, stinson.gibner@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: john.griebling@enron.com, ravi.thuraisingham@enron.com,
+	vince.kaminski@enron.com, stinson.gibner@enron.com
+X-From: Vince J Kaminski
+X-To: Joe Hirko
+X-cc: John Griebling, Ravi Thuraisingham, Vince J Kaminski, Stinson Gibner
+X-bcc: 
+X-Folder: \Vincent_Kaminski_Jun2001_9\Notes Folders\Pjm
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Joe, 
+
+Thanks for your message. It would be difficult to rearrange  the meeting at 
+this point, given that it was 
+timed around the availability of Jeff Skilling. I doubt we could get Jeff for 
+any other date at this point. We can still adjust
+the agenda to discuss and address the Content Services issues. I shall work 
+on this with John and Ravi.
+
+Vince
+
+
+
+
+From: Joe Hirko@ENRON COMMUNICATIONS on 03/29/2000 02:24 PM PST
+To: Vince J Kaminski/HOU/ECT@ECT@ENRON
+cc:  
+Subject: Re: Enron Research and EBS Engineering and Operations Group 
+Technical Forum  
+
+I could probably make Friday but would have to leave that night.  Any chance 
+it could be moved to the first of the next week.
+
+Also, I think it is important that as we examine the technical issue of our 
+network and network functionality that we balance the meeting with the 
+Content Services issues and requirements.  I talked to John about this 
+already.
+
+
+
+	Vince J Kaminski@ECT
+	03/27/00 02:58 PM
+		 
+		 To: Joe Hirko/Enron Communications@Enron Communications
+		 cc: Vince J Kaminski/HOU/ECT@ECT, Stinson Gibner/HOU/ECT@ECT, Shirley 
+Crenshaw/HOU/ECT@ECT, John Griebling/Enron Communications@Enron Communications
+		 Subject: Enron Research and EBS Engineering and Operations Group Technical 
+Forum
+
+Joe,
+
+I would like to invite you to an off-site meeting of John Griebling's 
+organization
+and the Research Group. 
+
+Date:   April 27 - April 29
+Location:  Breckenridge, Colorado
+
+
+As you know, John Griebling is managing the network design and construction 
+project
+currently under way in EBS. The Research Group is actively involved in this 
+effort
+which requires advanced quantitative skills in the area of stochastic 
+optimization and
+stochastic processes (for modeling and forecasting Internet traffic flows).
+
+The objective of this meeting is to develop common language and accomplish 
+transfer 
+of skills between the two groups, to facilitate cooperation on this project 
+in the future.
+
+We are inviting Ken Rice and Kevin Hannon to this meeting. We would 
+appreciate if you could
+speak, together with Kevin and Ken, on strategic directions of EBS. It is 
+important for a group
+of technical people, with relatively specialized technical skills, to 
+understand the big picture.
+
+I am attaching the preliminary agenda for this meeting.
+
+Vince Kaminski
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:18:54 2022
+Message-ID: <30679675.1075856616250.JavaMail.evans@thyme>
+Date: Mon, 13 Nov 2000 07:14:00 -0800 (PST)
+From: owner-pjm-customer-info@pjm.com
+To: pjm-customer-info@risc1.pjm.com
+Subject: FYI: FERC Staff Report on Investigation of Bulk Power Markets
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: owner-pjm-customer-info@pjm.com
+X-To: pjm-customer-info@risc1.pjm.com
+X-cc: 
+X-bcc: 
+X-Folder: \Vincent_Kaminski_Jun2001_5\Notes Folders\Pjm
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Message sent from the pjm-customer-info mailing list at 
+pjm-customer-info@majordomo.pjm.com:
+
+The FERC staff recently released a report discussing markets in each of the
+regions titled "Investigation of Bulk Power Markets". The report is not a FERC
+Order.
+
+The Northeast region is discussed in a section of 100 pages in length. PJM is
+discussed in detail beginning on page 1-59. There are some minor inaccuracies 
+in
+the report with respect to PJM, such as the 1999 Peak Load.
+
+The report is a good first step in understanding the complex markets in the
+Northeast and their relationships among each other. The report also contains
+recommendations and options for resolution of issues.
+
+The complete report can be found at www.ferc.fed.us/news1/staffreports.htm
+
+
+
+
+Please DO NOT REPLY to this message. If you have a question for PJM Customer
+Relations and Training, please send an e-mail to custsvc@pjm.com.
+
+To unsubscribe from this list, send an e-mail to majordomo@majordomo.pjm.com
+containing only the following line in the body of the e-mail:
+
+unsubscribe pjm-customer-info
+
+From MAILER-DAEMON Mon Apr 18 14:18:54 2022
+Message-ID: <4349439.1075856616294.JavaMail.evans@thyme>
+Date: Wed, 16 Aug 2000 10:36:00 -0700 (PDT)
+From: owner-pjm-customer-info@pjm.com
+To: pjm-customer-info@risc1.pjm.com
+Subject: PJM Publishes List of 1000 Contingencies
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: owner-pjm-customer-info@pjm.com
+X-To: pjm-customer-info@risc1.pjm.com
+X-cc: 
+X-bcc: 
+X-Folder: \Vincent_Kaminski_Jun2001_5\Notes Folders\Pjm
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Message sent from the pjm-customer-info mailing list at 
+pjm-customer-info@majordomo.pjm.com:
+
+To meet customer requests, PJM has published the PJM Contingency list on the 
+web
+site at www.pjm.com. The file can be found under PJM Markets, Market and 
+System
+Data, under LMP Model Information. The list contains the approximately 1000
+contingencies existing in the PJM Energy Management System. The contingencies
+are the possible occurrences against which PJM system operators must protect 
+the
+transmission system.
+
+
+
+
+
+Please DO NOT REPLY to this message. If you have a question for PJM Customer
+Relations and Training, please send an e-mail to custsvc@pjm.com.
+
+To unsubscribe from this list, send an e-mail to majordomo@majordomo.pjm.com
+containing only the following line in the body of the e-mail:
+
+unsubscribe pjm-customer-info
+
+From MAILER-DAEMON Mon Apr 18 14:18:54 2022
+Message-ID: <8289336.1075856616337.JavaMail.evans@thyme>
+Date: Mon, 10 Jul 2000 02:49:00 -0700 (PDT)
+From: owner-pjm-customer-info@pjm.com
+To: pjm-customer-info@risc1.pjm.com
+Subject: PJM Files Load Reduction Pilot Program with FERC
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: owner-pjm-customer-info@pjm.com
+X-To: pjm-customer-info@risc1.pjm.com
+X-cc: 
+X-bcc: 
+X-Folder: \Vincent_Kaminski_Jun2001_5\Notes Folders\Pjm
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Message sent from the pjm-customer-info mailing list at 
+pjm-customer-info@majordomo.pjm.com:
+
+The PJM Interconnection, L.L.C. filed the PJM Customer Load Reduction Pilot
+Program with the Federal Energy Regulatory Commission (FERC) on Friday July 7.
+This innovative program pays participants to reduce their own load or operate
+backup generation to produce a beneficial load reduction for the grid during 
+PJM
+emergency events at times of peak demand.
+
+"We are excited about this program that will provide an important resource
+during times of high electricity usage. The program will augment the region's
+well-established emergency procedures" stated Bruce Balmat, Vice President,
+System Operations. The pilot program was developed in response to a May 17, 
+2000
+FERC notice and is in effect through September 30, 2000.
+
+A full description of the program and PJM's filing, including participation
+requirements and procedures, can be found on the PJM website (www.pjm.com).
+Those interested in participating in the program should complete a 
+registration
+form indicating their load reduction plan. Those who are not already PJM
+Members, will become special non-voting members with membership fees waived.
+
+
+
+
+Please DO NOT REPLY to this message. If you have a question for PJM Customer
+Relations and Training, please send an e-mail to custsvc@pjm.com.
+
+To unsubscribe from this list, send an e-mail to majordomo@majordomo.pjm.com
+containing only the following line in the body of the e-mail:
+
+unsubscribe pjm-customer-info
+
+From MAILER-DAEMON Mon Apr 18 14:18:54 2022
+Message-ID: <2350087.1075856616273.JavaMail.evans@thyme>
+Date: Wed, 27 Sep 2000 10:12:00 -0700 (PDT)
+From: owner-pjm-customer-info@pjm.com
+To: pjm-customer-info@risc1.pjm.com
+Subject: MAAC Executive Board Files Restructuring Agreement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: owner-pjm-customer-info@pjm.com
+X-To: pjm-customer-info@risc1.pjm.com
+X-cc: 
+X-bcc: 
+X-Folder: \Vincent_Kaminski_Jun2001_5\Notes Folders\Pjm
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Message sent from the pjm-customer-info mailing list at 
+pjm-customer-info@majordomo.pjm.com:
+
+MAAC Executive Board Files Restructuring Agreement
+
+September 27, 2000
+Norristown, PA:
+
+The Mid-Atlantic Area Council (MAAC), one of the ten regional reliability
+councils of the North American Electric Reliability Councils (NERC), filed a 
+new
+agreement on September 22 regarding the governance of MAAC with the Federal
+Energy Regulatory Commission (FERC). MAAC's basic purpose is to ensure the
+reliability of the interconnected bulk power system in the region.  MAAC's 
+area
+of responsibility covers the same geographical region as the control area
+operated by the PJM Independent System Operator (PJM ISO), consisting of all 
+or
+parts of the states of  Pennsylvania, New Jersey, Maryland, Delaware, 
+Virginia,
+and the District of Columbia. The MAAC restructuring process began years ago 
+and
+is expected, with FERC approval, to be implemented on January 1, 2001.
+
+"We are excited to be positioning the MAAC organization to address the needs 
+of
+the new competitive era, thanks to the interest and participation of the
+stakeholders for over two years." stated Pete Landrieu, MAAC Executive Board
+Chair.
+
+Phillip G. Harris, Regional Manager of MAAC, commented "The relationship 
+between
+reliability and markets will be enhanced and strengthened by the MAAC
+restructuring. We are also pleased to be making this change as effectively as
+possible through the use of existing PJM organizational and other resources. "
+
+Under the filed agreement, a new MAAC Members Committee is chartered with the
+creation of the approval process of the MAAC Reliability Principles and
+Standards. Other new MAAC Committees are chartered, most notably, a MAAC 
+Energy
+Market Committee to serve as a forum for the discussion of the impact of
+reliability on the commercial market place, and the marketplace on 
+reliability.
+The agreement also provides for stakeholder representation on the MAAC Board.
+Appropriate amendments to existing PJM agreements will be discussed with the 
+PJM
+members and filed with the FERC.
+
+The Mid-Atlantic Area Council was established in December 1967 to augment the
+reliability of the bulk electric supply systems of its members through
+coordinated planning of generation and transmission facilities.  The MAAC 
+Region
+encompasses nearly 50,000 square miles from Virginia to New York and from the
+Atlantic Ocean to the Great Lakes. Under the existing MAAC Agreement and the
+Operating Agreement of PJM Interconnection, L.L.C., MAAC and PJM members are
+obligated to comply with MAAC and NERC operating and planning principles and
+standards.
+
+
+
+Please DO NOT REPLY to this message. If you have a question for PJM Customer
+Relations and Training, please send an e-mail to custsvc@pjm.com.
+
+To unsubscribe from this list, send an e-mail to majordomo@majordomo.pjm.com
+containing only the following line in the body of the e-mail:
+
+unsubscribe pjm-customer-info
+
+From MAILER-DAEMON Mon Apr 18 14:18:54 2022
+Message-ID: <13341282.1075857060900.JavaMail.evans@thyme>
+Date: Thu, 6 Apr 2000 14:59:00 -0700 (PDT)
+From: pjmcustomerrelationsandtraining@pjm.com
+To: pjm-customer-info@risc1.pjm.com
+Subject: PJM Two-Settlement & Market-based Regulation Market Trials Announ
+	ced
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: PJMCustomerRelationsandTraining@pjm.com
+X-To: pjm-customer-info@risc1.pjm.com
+X-cc: 
+X-bcc: 
+X-Folder: \Vincent_Kaminski_Jun2001_9\Notes Folders\Pjm
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Message sent from the pjm-customer-info mailing list at 
+pjm-customer-info@majordomo.pjm.com:
+
+PJM Two-Settlement & Market-based Regulation Market Trials
+PJM will be conducting Two-Settlement and Regulation market trials in
+preparation for the implementation of its Two-Settlement and Regulation 
+Markets
+on June 1, 2000. The Market Trials are designed to provide PJM Market
+Participants the opportunity to submit generation offers, regulation offers,
+demand bids (fixed and price-sensitive), increment offers, and decrement bids
+using PJM eMKT. PJM will clear the markets and provide the ability for PJM
+Market Participants to view two-settlement and regulation market results using
+PJM eMKT.
+PJM will conduct three sets of market trials. The first and second trials will
+be conducted on April 19 and on April 27. The final market trials will be
+conducted on business days between May 15 and May 24, 2000.
+All PJM Market Participants are eligible to participate in the market trials 
+for
+two-settlement and regulation and must register in advance.
+Register Now!!!! (http://www.pjm.com/twoset/form_twoset_reg.html)
+Details of the market trails are described in the attached document.
+ <<2G3D01!.doc>>
+
+ - 2G3D01!.doc
+
+
+Questions may be directed to PJM Customer Service at (610) 666-8980.
+
+To unsubscribe from this list, send an e-mail to majordomo@majordomo.pjm.com
+containing only the following line in the body of the e-mail:
+
+unsubscribe pjm-customer-info
+

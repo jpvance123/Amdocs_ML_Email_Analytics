@@ -1,0 +1,4556 @@
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <20059286.1075851672314.JavaMail.evans@thyme>
+Date: Wed, 27 Dec 2000 08:53:00 -0800 (PST)
+From: david.fisher@enron.com
+To: andy.zipper@enron.com, bob.shults@enron.com, jay.webb@enron.com,
+	michael.guadarrama@enron.com, bob.hillier@enron.com,
+	kevin.montagne@enron.com, anchi.zhang@enron.com,
+	sheri.thomas@enron.com, jennifer.denny@enron.com,
+	dale.neuner@enron.com, robert.cass@enron.com,
+	torrey.moorer@enron.com
+Subject: Exchange Linking Status Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: David Fisher
+X-To: Andy Zipper, Bob Shults, Jay Webb, Michael Guadarrama, Bob Hillier, Kevin Montagne, Anchi Zhang, Sheri Thomas, Jennifer deBoisblanc Denny, Dale Neuner, Robert B Cass, Torrey Moorer
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+All,
+
+In my haste to begin the four day weekend last week, I failed to send the 
+status update I promised in my earlier note.  Below is a slightly tardy but 
+nonetheless riveting Exchange Linking Status Update.
+
+1.  Exchange Linking Software Development - Functional development was 
+completed on schedule and we are currently performing testing of the Beta 
+release.  Initial testing has gone very well.  
+     A final release is scheduled for January 15th.  I will be working with 
+Victoria Storey from the Operations group in turning over external testing of 
+the system.  A deployment plan has been submitted to
+     Operations to assist them with the rollout.
+
+2.  Exchange Linking GUI - Development is complete and testing is being 
+conducted.
+
+3.  Product Mapping -  Product Control Group continues their effort of 
+coordinating with TrueQuote the products covered under Schedule A of the 
+contract.  Points of contact have been arranged 
+      between Enron (Rob Cass) and TrueQuote (Richard Toubia) to continue the 
+coordination effort required to support ongoing product mapping.
+
+4.  Hardware - All network and server hardware has been received and 
+installed.  
+
+5.  Leased Lines - Anchi Z. has been coordinating with each exchange's 
+network POC and assisting in obtaining T-1 lines to support this project.  In 
+the absence of T-1 lines, both TrueQuote and Houston
+     Street will be using VPN connectivity to conduct testing.  We should be 
+up and running with TrueQuote by 28 December so that testing can begin.  
+Houston Street does not anticipate being ready to 
+     test anything until the end of February. 
+
+6.  Bridging - Downstream system bridging modifications have been made to 
+accommodate the addition of an external exchange id and an external exchange 
+deal number.
+
+7.  TrueQuote has stated that they will not make the contract date with 
+regard to some of the functionality of their system.  They hope to be able to 
+fully act as a client exchange but are not prepared to
+      take on the role of an external exchange (i.e. handle transaction 
+attempts from Enron.)
+
+8.  Houston Street is back in the picture.  Their stated contract date is 
+December 4th + 120 calendar days.  This gives them some breathing room.  They 
+have canned Sapient, built their own internal 
+      IT team, purchased messaging software from Web Methods and changed 
+hosting providers.  They will no longer use Genuity out of Boston but Data 
+Return out of Dallas for their hosting needs.
+
+Please advise if you have any questions or comments.
+
+-David
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <4739576.1075851672504.JavaMail.evans@thyme>
+Date: Thu, 18 Jan 2001 09:15:00 -0800 (PST)
+From: justin.rostant@enron.com
+To: andy.zipper@enron.com, louise.kitchen@enron.com, david.forster@enron.com,
+	dave.samuels@enron.com, jay.webb@enron.com, george.hope@enron.com,
+	bob.shults@enron.com, jeffrey.shankman@enron.com,
+	john.sherriff@enron.com, greg.whalley@enron.com,
+	michael.bridges@enron.com, savita.puthigai@enron.com,
+	harry.arora@enron.com
+Subject: Trade Counts by Country, Commodity, Category for January 18, 2001
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Justin Rostant
+X-To: Andy Zipper, Louise Kitchen, David Forster, Dave Samuels, Jay Webb, George Hope, Bob Shults, Jeffrey A Shankman, John Sherriff, Greg Whalley, Michael Bridges, Savita Puthigai, Harry Arora
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Pleas note that we have Natural Gas Financial Options as a new Category
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <30462727.1075851672381.JavaMail.evans@thyme>
+Date: Fri, 29 Dec 2000 03:48:00 -0800 (PST)
+From: chris.edmonds@truequote.com
+To: andy.zipper@enron.com, mike.reed@neg.pge.com
+Subject: FW: True Quote-CFTC Press Release
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "Chris Edmonds" <chris.edmonds@truequote.com>
+X-To: "Andy Zipper \(E-mail\)" <andy.zipper@enron.com>, "Michael Reed \(E-mail\)" <mike.reed@neg.pge.com>
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+FYI
+
+Happy New Year,
+Chris
+
+-----Original Message-----
+From:  Leeann Zoeller
+Sent: Friday, December 29, 2000 10:55 AM
+To: Bob Olver; Chris Waits; Ed Pierangelino; Greg Holtgrave; Jeff Knott;
+'Amber Walker'; Angela Bradshaw; Chad Heilig; Chris Edmonds; Daniel Godbey;
+Dennis Crum; Jody Clark; Joe Wright; Keelie Schlinke; 'Kelly Stoud'; Leeann
+Zoeller; 'Richard Toubia'; Scott Tanner; Shannon Hellman; Todd Creek; Trevor
+Atkins; 'Wayne Crane'
+Subject: True Quote-CFTC Press Release
+
+Please see the attached press release regarding the CFTC's statement
+clarifying the legal status of truequote.com.
+
+Feel free to call me at 212-4906 with any questions.
+
+Thanks.
+Lee Ann
+
+
+ - True Quote-CFTC Release.doc
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <15425743.1075851672571.JavaMail.evans@thyme>
+Date: Mon, 22 Jan 2001 00:48:00 -0800 (PST)
+From: fgetman@houstonstreet.com
+To: andy.zipper@enron.com
+Subject: VC contact?
+Cc: japplegate@houstonstreet.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: japplegate@houstonstreet.com
+X-From: "Frank Getman, HSE" <fgetman@houstonstreet.com>
+X-To: "Andy Zipper (E-mail)" <Andy.Zipper@enron.com>
+X-cc: John Applegate <japplegate@houstonstreet.com>
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Andy,
+
+When we met a few weeks back you offered to put me in touch with someone
+from your VC group to discuss potential investors in HoustonStreet.  This
+round of financing seems to be firming up at a very attractive price for new
+investors and I wanted to take you up on your offer.  I'd love to talk with
+someone in your VC group about who they see in the market that is actually
+taking positions at this time.  We may have room to fill in this round with
+some new investors.  Someone's going to make a lot of money on
+HoustonStreet.
+
+I received a briefing Friday on our development efforts and things seem to
+be on track.  We have brought in some unbelievable developers that are very
+focused and enjoying this project immensely.  Please let me know if any
+issues come up with development efforts from your end and I'll do the same.
+
+Best regards,
+Frank
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <4602788.1075851672058.JavaMail.evans@thyme>
+Date: Wed, 13 Dec 2000 08:37:00 -0800 (PST)
+From: bob.shults@enron.com
+To: andy.zipper@enron.com, michael.bridges@enron.com
+Subject: BETA
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Bob Shults
+X-To: Andy Zipper, Michael.bridges@enron.com
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Newest version.  This is off to outside counsel for final review.  Please 
+give me any comments so that I can forward to Natsource
+
+---------------------- Forwarded by Bob Shults/HOU/ECT on 12/13/2000 04:27 PM 
+---------------------------
+From: Mark Taylor on 12/13/2000 04:03 PM
+To: Bob Shults/HOU/ECT@ECT
+cc:  
+Subject: BETA  
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <4441924.1075851671667.JavaMail.evans@thyme>
+Date: Thu, 30 Nov 2000 07:18:00 -0800 (PST)
+From: andy.zipper@enron.com
+To: chris.edmonds@truequote.com
+Subject: RE: FW: Enron Update Regarding the Testing Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Andy Zipper
+X-To: "Chris Edmonds" <chris.edmonds@truequote.com>
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+My guys tell me we are just about finished on our end and will be getting 
+ready to beta test. How are your folks doing ?
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <30360985.1075851671689.JavaMail.evans@thyme>
+Date: Thu, 30 Nov 2000 08:47:00 -0800 (PST)
+From: chris.edmonds@truequote.com
+To: andy.zipper@enron.com
+Subject: RE: FW: Enron Update Regarding the Testing Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "Chris Edmonds" <chris.edmonds@truequote.com>
+X-To: <Andy.Zipper@enron.com>
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+My understanding is that is correct except for the delays associated with
+Mark's injury and equipment deliveries!!  I think we are getting close!
+
+What do you think about Energy Clear??
+
+
+
+-----Original Message-----
+From: Andy.Zipper@enron.com [mailto:Andy.Zipper@enron.com]
+Sent: Thursday, November 30, 2000 4:18 PM
+To: Chris Edmonds
+Subject: RE: FW: Enron Update Regarding the Testing Schedule
+
+
+
+My guys tell me we are just about finished on our end and will be getting
+ready to beta test. How are your folks doing ?
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <15051108.1075851672337.JavaMail.evans@thyme>
+Date: Thu, 28 Dec 2000 02:11:00 -0800 (PST)
+From: travis.mccullough@enron.com
+To: andy.zipper@enron.com
+Subject: Confidentiality Agreement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Travis McCullough
+X-To: Andy Zipper
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Travis McCullough
+Enron North America Corp.
+1400 Smith Street EB 3817
+Houston Texas 77002
+Phone:  (713) 853-1575
+Fax: (713) 646-3490      
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <4568725.1075851672242.JavaMail.evans@thyme>
+Date: Tue, 19 Dec 2000 09:12:00 -0800 (PST)
+From: simone.rose@enron.com
+To: andy.zipper@enron.com, rahil.jafry@enron.com, savita.puthigai@enron.com
+Subject: Incomplete Nymex Converter for 12/11 through 12/15/
+Cc: jennifer.denny@enron.com, torrey.moorer@enron.com, peter.berzins@enron.com,
+	matt.motsinger@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jennifer.denny@enron.com, torrey.moorer@enron.com, peter.berzins@enron.com,
+	matt.motsinger@enron.com
+X-From: Simone La Rose
+X-To: Andy Zipper, Rahil Jafry, Savita Puthigai
+X-cc: Jennifer deBoisblanc Denny, Torrey Moorer, Peter Berzins, Matt Motsinger
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Unfortunately, the Nymex nor the Wall Street Journal has updated there 
+information for 12/15/00.
+Therefore, I will not be able to send you a complete version of my Nymex 
+Converter.
+I will continue to check on a daily basis and keep all of you posted.
+
+Thanks,
+Simone
+
+
+---------------------- Forwarded by Simone La Rose/HOU/ECT on 12/19/2000 
+05:02 PM ---------------------------
+
+
+Simone La Rose
+12/18/2000 05:28 PM
+To: Andy Zipper/Corp/Enron@Enron
+cc: Jennifer deBoisblanc Denny/HOU/ECT@ECT, Torrey Moorer/HOU/ECT@ECT, Peter 
+Berzins/NA/Enron@Enron, Matt Motsinger/HOU/ECT@ECT 
+Subject: Incomplete Nymex Converter for 12/11 through 12/15/
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <3910404.1075851671433.JavaMail.evans@thyme>
+Date: Tue, 28 Nov 2000 02:25:00 -0800 (PST)
+From: mbergonia@edfman.com
+To: andy.zipper@enron.com
+Subject: RE: Call
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "Bergonia, Mary (CHG Int)" <mbergonia@edfman.com>
+X-To: "'Andy.Zipper@enron.com'" <Andy.Zipper@enron.com>
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+sorry for the delay-- I thought tuesday was bad for you so I have wednesday
+at 10. if that doesnt work-- anytime tomorrow.
+-----Original Message-----
+From: Andy.Zipper@enron.com [mailto:Andy.Zipper@enron.com]
+Sent: Tuesday, November 28, 2000 10:08 AM
+To: mbergonia@edfman.com
+Subject: Call
+
+
+When do you want to have a call to discuss this ? I'd like to do something
+sooner rather than later. I thought 10:00 today was scheduled but I could
+have it wrong. Give me a call.
+
+Thanks
+Andy Zipper
+(713) 853 6994
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <9791812.1075851672290.JavaMail.evans@thyme>
+Date: Fri, 22 Dec 2000 02:11:00 -0800 (PST)
+From: bob.shults@enron.com
+To: andy.zipper@enron.com
+Subject: deal basics
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Bob Shults
+X-To: Andy Zipper
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Amerex is done at $250 K
+---------------------- Forwarded by Bob Shults/HOU/ECT on 12/22/2000 10:10 AM 
+---------------------------
+
+
+"Steve town" <Stevet@amerexenergy.com> on 12/21/2000 05:58:14 PM
+To: "Bob Schultz" <Bob.Shults@enron.com>
+cc: "Jon Billings" <jon@amerexenergy.com>, "Mike Nemer" 
+<miken@amerexenergy.com>, "Clay Davis" <clay@amerexenergy.com> 
+Subject: deal basics
+
+
+
+
+Bob, here you go.? Lets work up a more formal  term sheet and go from there.
+?
+In short, for  us to accept a licensing fee and no commission when our 
+brokers hit/lift
+over  the phones an EOL number with Enron traders, we're looking to receive
+from  Enron:
+??? - Access to EOL numbers in worldwide natural gas,  power, bandwidth, and
+oil petroleum markets.? We feel strongly that  Amerex has built leadership or
+solid intermediary positions in all these  markets, and that should greatly
+benefit Enron and EOL, as well as benefit  Amx.
+??? - Until Amx notifies EOL, we interact with EOL on a  view and phone call
+basis, essentially in keeping with doing business with  Enron traders just
+like we do now, accept we see the bid/ask on line as well  as in voice.? But
+with notice from Amx, EOL will program the Amx  interaction to allow Amx
+brokers to hit/lift on a keyboard  function
+??? - That Amx pays the license fee of $250k for the  first year, on a
+monthly basis.
+??? - At the end of the one  year period, there will be no greater increase
+in the license fee than 10%,  and the license fee can be reduced, subject to
+both parties'  agreement.
+??? - We are keeping this confidential, and would  request that EOL and Enron
+does not even indicate that a broker or a Houston  broker, or some other
+indirect reference of a deal with a brokerage or Amx is  made to the market.
+
+Look forward to hearing from you.
+All the best
+Steve
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <30679351.1075851672359.JavaMail.evans@thyme>
+Date: Fri, 29 Dec 2000 01:07:00 -0800 (PST)
+From: mbergonia@edfman.com
+To: andy.zipper@enron.com
+Subject: RE: discussions
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "Bergonia, Mary (CHG Int)" <mbergonia@edfman.com>
+X-To: "'Andy.Zipper@enron.com'" <Andy.Zipper@enron.com>
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+My apologies-- I have to admit that I dropped the ball on this one. WIth the
+market going crazy, yearend and some stuff going on in London, I havent
+totally formulated the response to you.  I will get a response to you early
+next week.  Obviously, we have had alot of discussions internally with many
+issues/questions.  However, I understand that you need an answer soon so we
+will revert quickly.
+Happy New Year.
+
+-----Original Message-----
+From: Andy.Zipper@enron.com [mailto:Andy.Zipper@enron.com]
+Sent: Thursday, December 28, 2000 1:14 PM
+To: mbergonia@edfman.com
+Subject: discussions
+
+
+Mary,
+
+Just wondering what path you folks want to pursue. Give me a call if you
+want to continue discussions, or let me know if you want to drop it.
+
+Hope you had a good Holiday season,
+Andy Zipper
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <8118375.1075851671876.JavaMail.evans@thyme>
+Date: Wed, 6 Dec 2000 15:00:00 -0800 (PST)
+From: humberto.cubillos-uejbe@enron.com
+To: andy.zipper@enron.com
+Subject: PRC meeting
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Humberto Cubillos-Uejbe
+X-To: Andy Zipper
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Andy:
+
+It was a real pleasure to meet you yesterday.  I appreciate that you gave me 
+the opportunity to tell you who I am, what I have accomplished and what my 
+career goals are.  This PRC is critical in my transition to a manager role.  
+Please feel free to let me know if you have any questions.
+
+Sincerely, Humberto  
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <19941927.1075851671737.JavaMail.evans@thyme>
+Date: Fri, 1 Dec 2000 08:26:00 -0800 (PST)
+From: travis.mccullough@enron.com
+To: mark.haedicke@enron.com, julia.murray@enron.com, david.gorte@enron.com,
+	andy.zipper@enron.com, louise.kitchen@enron.com
+Subject: HoustonStreet Transaction Legal Risk Memo
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Travis McCullough
+X-To: Mark E Haedicke, Julia Murray, David Gorte, Andy Zipper, Louise Kitchen
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Attached is the legal risk memo related to Enron Net Work's equity investment 
+in, and price posting agreement with, HoustonStreet Exchange.   Please call 
+me with any comments or questions.
+
+
+
+Travis McCullough
+Enron North America Corp.
+1400 Smith Street EB 3817
+Houston Texas 77002
+Phone:  (713) 853-1575
+Fax: (713) 646-3490      
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <4719663.1075851671781.JavaMail.evans@thyme>
+Date: Fri, 1 Dec 2000 10:13:00 -0800 (PST)
+From: justin.rostant@enron.com
+To: andy.zipper@enron.com, david.forster@enron.com, dave.samuels@enron.com,
+	jay.webb@enron.com
+Subject: Trade count by Country,Commodity and Category for Dec 1st, 2000
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Justin Rostant
+X-To: Andy Zipper, David Forster, Dave Samuels, Jay Webb
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Sorry about the late delivery.
+Regards
+jr
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <29458715.1075851671523.JavaMail.evans@thyme>
+Date: Wed, 29 Nov 2000 02:08:00 -0800 (PST)
+From: andy.zipper@enron.com
+To: chris.edmonds@truequote.com
+Subject: Re: FW: Enron Update Regarding the Testing Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Andy Zipper
+X-To: "Chris Edmonds" <chris.edmonds@truequote.com>
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+So do you think things are proceeding well ?
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <10554360.1075851672127.JavaMail.evans@thyme>
+Date: Thu, 14 Dec 2000 01:17:00 -0800 (PST)
+From: bob.shults@enron.com
+To: andy.zipper@enron.com
+Subject: 
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Bob Shults
+X-To: Andy Zipper
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+PMG just called and offered $100 k and no brokerage as a best offer for Nat 
+Gas Henry hub Products only.  I think we should take it.
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <18401575.1075851672151.JavaMail.evans@thyme>
+Date: Thu, 14 Dec 2000 09:33:00 -0800 (PST)
+From: bob.shults@enron.com
+To: andy.zipper@enron.com
+Subject: Follow Up
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Bob Shults
+X-To: Andy Zipper
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Would you like me to schedule a meeting to discuss real time data feeds to 
+customers? If so who should attend?
+
+I also would like to follow up with True Quote and Houston Street from a 
+business perspective on the exchanges.  Is it ok for me to contact them to 
+get a feel on progress on their side.  If so who are the commercial contacts 
+at True Quotes and Houston Street?
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <24504993.1075851672904.JavaMail.evans@thyme>
+Date: Sun, 4 Feb 2001 18:55:00 -0800 (PST)
+From: david.forster@enron.com
+To: andy.zipper@enron.com
+Subject: Charges
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: David Forster
+X-To: Andy Zipper
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Andy,
+
+When you have some time, can we get together on the circumstances under which 
+we should charge a business unit for the addition of a new Product Type?
+
+I'm thinking specifically of the units which do receive a cost allocation, 
+but are adding products which in our opinion are of questionable economic 
+benefit.
+
+These could be charged in accordance with our current price schedule. i.e. 
+new Product Types added to existing businesses could be charged the 
+incremental setup fees.  New Businesses would be the 250K.
+
+If the Product Type is of clear benefit (e.g. Options for US Gas and for the 
+guys we are training this week), then the costs would be part of next year's 
+allocation.
+
+What do you think?
+
+Dave
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <27649189.1075851672030.JavaMail.evans@thyme>
+Date: Mon, 11 Dec 2000 06:15:00 -0800 (PST)
+From: david.fisher@enron.com
+To: andy.zipper@enron.com
+Subject: Enron-TrueQuote Integration Technical Questions
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: David Fisher
+X-To: Andy Zipper
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Andy,
+
+Below are a number of the e-mail's that I've exchanged with TrueQuote.  I 
+can't say that they make for interesting reading but if you note any 
+potential issues please let me know.  Most of the notes relate to product 
+mapping issues but you will notice highlighted in red a note regarding the 
+ordering of a leased line which in my mind is "acceptance of responsibility 
+by action."  I'll be crafting a note regarding testing soon and will 
+coordinate this with Jay and yourself.  I'll also be forwarding e-mails with 
+Houston Street.  Let me know if there is anything else I can do to further 
+clarify our status.
+
+-David
+
+
+---------------------- Forwarded by David Fisher/NA/Enron on 12/11/2000 01:58 
+PM ---------------------------
+
+
+"O'Neill, Maria" <Maria.O'Neill@enform.com> on 10/19/2000 10:04:36 PM
+To: david.fisher@enron.com
+cc: "Wayne Crane (E-mail)" <wayne@crane.net> 
+
+Subject: Enron-TrueQuote Integration Technical Questions
+
+
+David,
+
+I appreciate the phone call from you this morning.  Attached is our most
+current list of technical questions that we would like to discuss with Jay
+and you during our conference call next week.  If any of the questions need
+further clarification, please do not hesitate to call me or send me an
+Email.
+
+Please let me know when you would like to schedule the call next week.  We
+are looking forward to working with Jay and you on this exciting project.
+
+Regards,
+
+Maria F. O'Neill
+Senior Manager, EnFORM Technology
+> Enterprise TransFORMation Through Technology
+3 Greenway Plaza, Suite 800
+Houston, TX  77046
+
+ <<EnronTechnicalQuestions101900.doc>>
+
+ - EnronTechnicalQuestions101900.doc
+---------------------- Forwarded by David Fisher/NA/Enron on 12/11/2000 01:58 
+PM ---------------------------
+
+
+"O'Neill, Maria" <Maria.O'Neill@enform.com> on 10/26/2000 01:50:34 PM
+To: David.Fisher@enron.com
+cc:  
+
+Subject: RE: Enron-TrueQuote Integration Technical Questions
+
+
+Hi David,
+
+Thanks for sending the answers to our technical questions. After carefully
+reviewing your answers, we have a few follow-up questions.  These appear in
+"green".  Please let me know if anything needs further clarification.
+
+We are looking forward to meeting with you next week. Tentatively, we are
+planning to have 5 or 6 people attend.  These include three really technical
+people, a couple of leads (including myself), a user from the True Quote
+business side who understands the products that are traded on True Quote,
+and the new True Quote CIO (who's mainly interested in hearing what is said
+more so than actively participating in the discussion).
+
+By next Tuesday, I plan to send you our proposed agenda for the meeting.  If
+you have a different agenda in mind for the meeting, let's discuss it over
+the phone on Wednesday and jointly priortize the items for discussion. We
+are very flexible in terms of the agenda.
+
+Thanks in advance for any additional information you can send us.  It's nice
+to have a contact to be able to correspond with.  Have a great day!
+
+-----Original Message-----
+From: David.Fisher@enron.com [mailto:David.Fisher@enron.com]
+Sent: Tuesday, October 24, 2000 4:32 PM
+To: O'Neill, Maria
+Subject: Enron-TrueQuote Integration Technical Questions
+
+
+
+Maria,
+
+It was good to hear from you this morning.  I have attached your document
+with answers to your questions included.  In addition, I've provided the
+finalized DTD and our schedule of release dates for specific functionality.
+
+I raised your desire to meet to discuss the project and everyone agrees
+that getting together is a good idea.  That said, we believe it would be
+best to wait until we have a firm agenda to discuss.  For instance, we will
+need to get together in the near term to discuss data mapping issues.  Feel
+free to call or drop a note if you have any questions or concerns.
+
+Regards,
+
+David
+
+The following are the dates that we will release functionality.
+
+1 December 2000:  Login, Attempt Transaction, Post Price, Request Price and
+Request Order Status.
+15 December 2000: Request Transaction History, Request Credit Matrix, Post
+Product Set Data and Post Credit Matrix.
+
+(See attached file: EnronTechnicalQuestions101900 & Answers.doc)(See
+attached file: exchange.dtd)
+
+
+ - ClarificationsFromEnronAnswers2.doc
+---------------------- Forwarded by David Fisher/NA/Enron on 12/11/2000 01:58 
+PM ---------------------------
+
+
+"O'Neill, Maria" <Maria.O'neill@Enform.com> on 11/08/2000 10:52:06 AM
+Please respond to <Maria.O'neill@Enform.com>
+To: <David.Fisher@enron.com>
+cc:  
+
+Subject: RE: Enron-TrueQuote Integration Technical Questions
+
+
+David,
+
+I really appreciate your efforts in adding another hour to our meeting this
+afternoon and in making Jay available for the discussion.  The following is
+a list of technical questions that we would like to discuss in this
+afternoon's meeting:
+
+1) This one is probably going to be discussed in the first two hours - We
+will need to have the data to populate our tables with in order to map PID,
+CPID, RID, PSETID, CATGID, CTYID, CMDTYID.  The non-technical people know
+all of the information about the products, deal types, etc.  However, do
+they know that for example, PID "123" maps back to Product "ABC"?  I would
+think the technical people are the ones that know how this codes map back to
+specific product information on your system.
+
+2) Could you provide us a little background on why Credit term changed from
+"Required" to "Implied" during the last version of the DTD that we received
+from you?
+
+3) We sent this question a few days ago, but have not received a response:
+There are several different parameter names specified for the XML that is
+passed between systems.
+The following is a list of those specified in the External Interface
+Document:
+
+Post Prices:  prices (Page 12, Notes, Decision 1, Parameters)
+Request Prices:  prices (Page 14, Notes, Decision 1, Parameters)
+Attempt Transaction: txn (Page 16, Notes, Decision 1, Parameters)
+Post Product Set Data: xml (Page 26, Notes, Decision 1, Parameters)
+Post Credit Matrix: xml (Page 28, Notes, Decision 1, Parameters)
+
+Should all of the parameter names be "xml" or should the parameter names for
+Post Product Set Data and Post Credit Matrix be changed to reflect the
+naming convention of the other use cases?
+
+Using "xml" as the parameter name for all use cases will reduce the
+redundancy of the code we'll need to write to route the data to our internal
+interfaces.
+
+4) We still have some concerns over having to maintain Enron's calendar on
+our system since term is sent as part of the key.  We would like to discuss
+alternatives for dealing with date interpretation.
+
+5) We had asked a question earlier regarding business responses being sent
+back within the same HTTP session.   We are going to assume that
+confirmation comes back in the HTTP response since there has been no
+interface defined for business responses.  We would like to confirm this
+assumption in this meeting.
+
+6) Is there going to be some capability of cancelling a transaction attempt
+if for some reason we do not receive a response back from Enron on a
+transaction attempt and a subsequent transaction search?
+
+7) Would Enron consider posting all of their requests to a .asp file as
+opposed to a file with no extension (ext_nrt.asp instead of ext_nrt)?  It is
+a generally accepted practice to include file extensions when transporting
+files.
+
+Thanks again for everything David.  We will look forward to talking to you
+later today!
+
+Regards,
+Maria
+
+-----Original Message-----
+From: David.Fisher@enron.com [mailto:David.Fisher@enron.com]
+Sent: Wednesday, November 08, 2000 8:30 AM
+To: Maria.O'neill@Enform.com
+Subject: RE: Enron-TrueQuote Integration Technical Questions
+
+
+
+Maria,
+
+I understand your concern and while I want to ensure we address product
+mapping as the primary focus of the meetings, I asked if Jay Webb and/or
+Mike Guadarrama could spend some time discussing your technical questions.
+Jay and/or Mike will be available from 3-4 today to do just this.  I know
+you've asked some technical questions already and are also interested in
+credit mapping nevertheless, would you please provide a brief rundown of
+the technical issues you want to discuss so that Jay/Mike can be prepared
+in advance to make the best use of the hour?  Thanks.
+
+The meetings will be attended by our Product Control Group who are
+responsible for creating and maintaining all of Enron's product types and
+products.  They are the experts when it comes knowing all the various ways
+Enron represents and implements products on EnronOnline.  Other than
+myself, the four attendees will be Sheri Thomas, who heads the Product
+Control group, Jennifer deBoisblanc-Denny, who heads the products area of
+the group and two experts in gas and power products.
+
+Look forward to hearing from you soon so I can inform Jay and Mike.
+
+Regards
+-David
+
+
+
+
+
+"O'Neill, Maria" <Maria.O'neill@Enform.com> on 11/07/2000 04:42:06 PM
+
+Please respond to <Maria.O'neill@Enform.com>
+
+To:   <David.Fisher@enron.com>
+cc:
+
+Subject:  RE: Enron-TrueQuote Integration Technical Questions
+
+
+There will be people there that understand the products in non-technical
+detail.
+
+When were you thinking we could involve your "technical" people?  I agree
+with the agenda and strongly agree that we need to understand each other
+products before we can attempt an integration.  However, my team's
+reponsibility is to figure out how to "technically" send/receive and map
+information from your system.  If this is not going to be addressed the
+first day, than perhaps some of them don't need to come.  I guess I'm now
+concerned that the second two hour meeting isn't going to be long enough to
+provide my team the information they need proceed with their technical
+implementation.  I understand that the documents you've sent me should
+address most of our questions, but each revision has left my team with more
+questions and confusion about how this is all going to work.
+
+Will Jay Webb be in either meeting?  Could you send us a list of the
+attendees on your side and their roles/functions as well.   We want very
+much to make these meetings as productive as possible, understanding that
+your team as well as mine are very very busy.
+
+I appreciate your help,
+
+Maria
+
+-----Original Message-----
+From: David.Fisher@enron.com [mailto:David.Fisher@enron.com]
+Sent: Tuesday, November 07, 2000 1:27 PM
+To: Maria.O'neill@Enform.com
+Subject: RE: Enron-TrueQuote Integration Technical Questions
+
+
+
+Maria,
+
+Thanks for the finalized list.  I assume that one or more of the people
+below will be able to speak in detail about gas and power products outside
+of the technical domain?  The people from Enron that will attend the
+meeting are non-technical.  Their area of expertise lies in the arena of
+products and their management.  I just want to make sure that we have
+people that will be speaking the same language.
+
+Attached is the agenda for the meetings.
+
+Regards,
+David
+
+(See attached file: TQ Exchange Mapping Agenda.doc)
+
+
+
+
+
+"O'Neill, Maria" <Maria.O'neill@Enform.com> on 11/07/2000 12:11:55 PM
+
+Please respond to <Maria.O'neill@Enform.com>
+
+To:   <David.Fisher@enron.com>
+cc:
+
+Subject:  RE: Enron-TrueQuote Integration Technical Questions
+
+
+David, here is a final list of the attendees for tomorrow's meeting and
+their company/function.  We'll work to trim the number down for Thursday's
+meeting.  Thanks for accommodating us.  BTW, for future meetings, if space
+is problem, we can always hold the meetings in our office at 3 Greenway
+Plaza - if you guys don't mind coming to our office.
+
+* Stewart Clark - EnFORM, Project Manager for initial True Quote On-line
+trading system application and is still the project manager over the Phase
+2
+Enhancements
+* Richard Toubia - True Quote, VP Product Development
+* Richard Stallings - Enform, Lead Developer for the initial True Quote
+On-line trading system application, Phase 2 Enhancements, and changes to
+the
+True Quote system to accomodate the Enron/True Quote Integration
+* Brett Glass - Enform, Team Lead over the Enron/True Quote Integration's
+Credit and Price Interfaces
+* Chris Paxton - EnFORM, Lead Development in charge of the Enron/True Quote
+Integration's Transaction Interfaces
+* Maria O'Neill - EnFORM, Project Manager for the Enron/True Quote
+Integration Project
+* Sean Barlow - Gap Gemini/Ernst & Young, Developer - Not sure his role
+yet,
+we've just been asked by True Quote to add him to the Enron/True Quote
+Integration Team.
+
+Let me know if you have any other questions.
+
+Regards,
+Maria
+
+-----Original Message-----
+From: David.Fisher@enron.com [mailto:David.Fisher@enron.com]
+Sent: Tuesday, November 07, 2000 11:08 AM
+To: Maria.O'neill@Enform.com
+Subject: RE: Enron-TrueQuote Integration Technical Questions
+
+
+
+Maria,
+
+Though I'm not sure of everyone's function on the list below, we can
+accomodate the extra people on Wednesday; however, on Thursday we will be
+in a smaller conference room.
+
+Just let me know what everyone's function is prior to tomorrow. (I know
+Richard Toubia is VP, Product Development.)
+
+I'll be forwarding an agenda shortly.
+
+Thanks,
+David
+
+
+
+
+
+
+"O'Neill, Maria" <Maria.O'neill@Enform.com> on 11/06/2000 08:37:35 AM
+
+Please respond to <Maria.O'neill@Enform.com>
+
+To:   <David.Fisher@enron.com>
+cc:
+
+Subject:  RE: Enron-TrueQuote Integration Technical Questions
+
+
+The following people will be in attendance at our meeting on Wednesday:
+- Richard Toubia
+- Richard Stallings
+- Chris Paxton
+- Matt Sample
+- Maria O'Neill
+
+If we can accommodate a couple more, the following will also attend:
+- Brett Glass
+- Wayne Crane
+
+I will be in and out of the office today and Tuesday, so the best way to
+communicate with me is via Email.
+
+Regards,
+Maria O'Neill
+
+-----Original Message-----
+From: David.Fisher@enron.com [mailto:David.Fisher@enron.com]
+Sent: Tuesday, October 31, 2000 4:40 PM
+To: O'Neill, Maria
+Subject: RE: Enron-TrueQuote Integration Technical Questions
+
+
+
+Maria,
+
+I've scheduled meetings with our product control group for the following
+dates and times.  I'll give you a call on Monday to make sure you know
+where your going and such.  In the meantime, feel free to give me a call or
+drop me a note if you have any questions.
+
+-David
+
+Product Mapping Meetings
+November 8th:  1:00-3:00 PM
+November 9th: 10:00-12:00 AM
+
+
+
+
+
+
+"O'Neill, Maria" <Maria.O'Neill@enform.com> on 10/31/2000 11:41:44 AM
+
+To:   David.Fisher@enron.com
+cc:
+
+Subject:  RE: Enron-TrueQuote Integration Technical Questions
+
+
+Oh, I see, my misunderstanding.  We are in 3 Greenway Plaza.  Two 2-hour
+meetings is fine with us. No problem in us driving downtown.  However,
+could
+we schedule from 1:00 p.m. to 3:00 on the 8th, and from 10:00 to 12:00 on
+the 9th?  I have a conflict on the 8th.
+
+The agenda looks fine.  If there are any additional XML-type questions left
+to answer by the time we have the meeting, we may want to allow some time
+to
+discuss them.
+
+Thanks again David, looking forward to meeting in person.
+
+-----Original Message-----
+From: David.Fisher@enron.com [mailto:David.Fisher@enron.com]
+Sent: Tuesday, October 31, 2000 8:50 AM
+To: O'Neill, Maria
+Subject: RE: Enron-TrueQuote Integration Technical Questions
+
+
+
+Maria,
+
+Actually, I was suggesting 2 hours on both the 8th and the 9th of November
+for getting together to discuss mapping issues.  If November 8th and 9th
+isn't good for you, we can try November 9th and 10th.  I would say let's
+just get together for one, four hour meeting but it is difficult to get the
+Product Control people together for that length of time since they are
+integral to the day to day operations of EnronOnline.  (I am assuming you
+are in downtown Houston.  If getting here is difficult then we can try to
+arrange a one day meeting.) Any thoughts on the suggested dates/times?
+
+As far as the number of meetings required, from our point of view we just
+need to accomplish product and counterparty mappings.  The agenda below
+addresses products and a follow-up would address counterparties.  Beyond
+that, the External Interface Document and DTD should address all the
+technical issues that enable you to design and construct your part of the
+system.  I'll send you the most recent External Interface Document and DTD
+shortly.
+
+Please let me know you thoughts on the proposed agenda.  I'm sure we can
+work out an agreeable schedule.
+
+Regards,
+David
+
+Agenda
+11/8/2000 10:00-12:00  Clarification of product representation and product
+creation
+process.
+
+It is important to understand each other's methods for representing
+products and the process by which we create new products prior to jumping
+in to the mapping problem.
+
+11/9/2000 10:00-12:00  Map schedule A products.
+
+It is important to not only know which products of ours map to yours but
+what process can be applied to make mapping easily repeatable.
+
+
+
+
+
+
+"O'Neill, Maria" <Maria.O'Neill@enform.com> on 10/31/2000 07:45:57 AM
+
+To:   David.Fisher@enron.com
+cc:
+
+Subject:  RE: Enron-TrueQuote Integration Technical Questions
+
+
+Hi David,
+
+Sorry for not getting back to you sooner.  I was out of the office
+yesterday.  November 9th looks better for me.  I am concerned though, that
+2
+hours is not going to be enough. Do you expect this to be the first of
+several meetings?
+
+-----Original Message-----
+From: David.Fisher@enron.com [mailto:David.Fisher@enron.com]
+Sent: Friday, October 27, 2000 5:01 PM
+To: O'Neill, Maria
+Subject: RE: Enron-TrueQuote Integration Technical Questions
+
+
+
+Maria,
+
+I've passed along your questions to the development team, which is
+currently looking at them.  I'll get back to you regarding these as soon as
+I get their feedback.
+
+Regarding a meeting next week, I think we're going to have to postpone
+until the following week.  How does November 8 & 9 look for you?  I've
+tentatively scheduled our product people for 10 AM till 12 PM for product
+mapping discussions.  Let me know what you think.
+
+Below is the agenda I think we should start with for our first meeting.
+
+11/8/2000
+10:00 - 12:00  Clarification of product representation and product creation
+process.
+It is important to understand each other's methods for representing
+products and the process by which we create new products prior to jumping
+in to the mapping problem.
+
+11/9/2000
+10:00 - 12:00  Map schedule A products.
+It is important to not only know which products of ours map to yours but
+what process can be applied to make mapping easily repeatable.
+
+Let's talk next week.  Enjoy your weekend.
+
+-David
+
+
+
+
+
+"O'Neill, Maria" <Maria.O'Neill@enform.com> on 10/26/2000 01:50:34 PM
+
+To:   David.Fisher@enron.com
+cc:
+
+Subject:  RE: Enron-TrueQuote Integration Technical Questions
+
+
+Hi David,
+
+Thanks for sending the answers to our technical questions. After carefully
+reviewing your answers, we have a few follow-up questions.  These appear in
+"green".  Please let me know if anything needs further clarification.
+
+We are looking forward to meeting with you next week. Tentatively, we are
+planning to have 5 or 6 people attend.  These include three really
+technical
+people, a couple of leads (including myself), a user from the True Quote
+business side who understands the products that are traded on True Quote,
+and the new True Quote CIO (who's mainly interested in hearing what is said
+more so than actively participating in the discussion).
+
+By next Tuesday, I plan to send you our proposed agenda for the meeting.
+If
+you have a different agenda in mind for the meeting, let's discuss it over
+the phone on Wednesday and jointly priortize the items for discussion. We
+are very flexible in terms of the agenda.
+
+Thanks in advance for any additional information you can send us.  It's
+nice
+to have a contact to be able to correspond with.  Have a great day!
+
+-----Original Message-----
+From: David.Fisher@enron.com [mailto:David.Fisher@enron.com]
+Sent: Tuesday, October 24, 2000 4:32 PM
+To: O'Neill, Maria
+Subject: Enron-TrueQuote Integration Technical Questions
+
+
+
+Maria,
+
+It was good to hear from you this morning.  I have attached your document
+with answers to your questions included.  In addition, I've provided the
+finalized DTD and our schedule of release dates for specific functionality.
+
+I raised your desire to meet to discuss the project and everyone agrees
+that getting together is a good idea.  That said, we believe it would be
+best to wait until we have a firm agenda to discuss.  For instance, we will
+need to get together in the near term to discuss data mapping issues.  Feel
+free to call or drop a note if you have any questions or concerns.
+
+Regards,
+
+David
+
+The following are the dates that we will release functionality.
+
+1 December 2000:  Login, Attempt Transaction, Post Price, Request Price and
+Request Order Status.
+15 December 2000: Request Transaction History, Request Credit Matrix, Post
+Product Set Data and Post Credit Matrix.
+
+(See attached file: EnronTechnicalQuestions101900 & Answers.doc)(See
+attached file: exchange.dtd)
+
+
+(See attached file: ClarificationsFromEnronAnswers2.doc)
+
+
+
+
+
+
+
+
+
+
+---------------------- Forwarded by David Fisher/NA/Enron on 12/11/2000 01:58 
+PM ---------------------------
+
+
+"O'Neill, Maria" <Maria.O'neill@Enform.com> on 11/09/2000 02:38:44 PM
+Please respond to <Maria.O'neill@Enform.com>
+To: "David Fisher \(E-mail\)" <david.fisher@enron.com>
+cc:  
+
+Subject: FW: Address
+
+
+David,
+
+Could you please read the attached note and send the information to Wayne
+Crane?  Thanks.
+
+Maria F. O'Neill
+Senior Manager, EnFORM Technology
+> Enterprise TransFORMation Through Technology
+3 Greenway Plaza, Suite 800
+Houston, TX  77046
+office (713)350-1891
+cell (713)416-3308
+
+
+-----Original Message-----
+From: Wayne Crane [mailto:wayne@crane.net]
+Sent: Thursday, November 09, 2000 2:26 PM
+To: Maria.O'neill@enform.com
+Cc: jody.clark@truequote.com
+Subject: Address
+
+
+I need to get the physical address for the location where the T-1 will be
+added for Enron.  Can you pass this request onto the proper person at Enron
+ASAP (We're trying to get the circuit ordered).
+Thanks
+
+---------------------- Forwarded by David Fisher/NA/Enron on 12/11/2000 01:58 
+PM ---------------------------
+
+
+Anchi Zhang@ECT
+11/09/2000 04:24 PM
+To: Maria.O'neill@enform.com, jody.clark@truequote.com, wayne@crane.net
+cc: David Fisher/NA/Enron@Enron, Enron Network Security 
+
+Subject: T-1 line for TrueQuote
+
+Enron Corp.
+Room 3440
+1400 Smith Street
+Houston, TX 77002
+
+Anchi Zhang
+713-853-5464
+
+---------------------- Forwarded by Anchi Zhang/HOU/ECT on 11/09/2000 04:21 
+PM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  David Fisher @ ENRON                           11/09/2000 03:07 PM
+	
+
+To: Anchi Zhang/HOU/ECT@ECT
+cc:  
+Subject: T-1 line for TrueQuote
+
+Anchi,
+
+Below is a note I just received from the TrueQuote Project Manager.  I want 
+to make sure you remain the focal point for the network portion of the 
+project so please respond to Wayne Crane (wayne@crane.net) at your earliest 
+opportunity.  Please carbon copy me on the notes so I can keep track of 
+issues that could affect the schedule.
+
+Thanks,
+David
+
+---------------------- Forwarded by David Fisher/NA/Enron on 11/09/2000 02:53 
+PM ---------------------------
+
+
+"O'Neill, Maria" <Maria.O'neill@Enform.com> on 11/09/2000 02:38:44 PM
+Please respond to <Maria.O'neill@Enform.com>
+To: "David Fisher \(E-mail\)" <david.fisher@enron.com>
+cc:  
+
+Subject: FW: Address
+
+
+David,
+
+Could you please read the attached note and send the information to Wayne
+Crane?  Thanks.
+
+Maria F. O'Neill
+Senior Manager, EnFORM Technology
+> Enterprise TransFORMation Through Technology
+3 Greenway Plaza, Suite 800
+Houston, TX  77046
+office (713)350-1891
+cell (713)416-3308
+
+
+-----Original Message-----
+From: Wayne Crane [mailto:wayne@crane.net]
+Sent: Thursday, November 09, 2000 2:26 PM
+To: Maria.O'neill@enform.com
+Cc: jody.clark@truequote.com
+Subject: Address
+
+
+I need to get the physical address for the location where the T-1 will be
+added for Enron.  Can you pass this request onto the proper person at Enron
+ASAP (We're trying to get the circuit ordered).
+Thanks
+
+
+
+
+
+---------------------- Forwarded by David Fisher/NA/Enron on 12/11/2000 01:58 
+PM ---------------------------
+
+
+"O'Neill, Maria" <Maria.O'neill@Enform.com> on 11/10/2000 07:25:20 AM
+Please respond to <Maria.O'neill@Enform.com>
+To: <David.Fisher@enron.com>
+cc:  
+
+Subject: RE: T-1 Installation
+
+
+Absolutely.  I let you know as soon as I hear.
+
+Have a great weekend!
+
+Maria F. O'Neill
+Senior Manager, EnFORM Technology
+> Enterprise TransFORMation Through Technology
+3 Greenway Plaza, Suite 800
+Houston, TX  77046
+office (713)350-1891
+cell (713)416-3308
+
+
+-----Original Message-----
+From: David.Fisher@enron.com [mailto:David.Fisher@enron.com]
+Sent: Thursday, November 09, 2000 5:06 PM
+To: O'Neill, Maria
+Subject: T-1 Installation
+
+
+
+Maria,
+
+When you have an estimated installation date for you T-1 line, will you let
+me know so that I can update our schedule?
+
+Thanks,
+
+David
+---------------------- Forwarded by David Fisher/NA/Enron on 12/11/2000 01:58 
+PM ---------------------------
+
+
+"O'Neill, Maria" <Maria.O'neill@Enform.com> on 11/14/2000 04:04:35 PM
+Please respond to <Maria.O'neill@Enform.com>
+To: <David.Fisher@enron.com>
+cc:  
+
+Subject: RE: Tokenized Reference Period Treatments
+
+
+Hi David,
+
+Hope you're having a good day. Thanks for the latest information.  Let us
+take a look at the documents and call you back tomorrow to discuss or set up
+another meeting time.
+
+Regards,
+
+Maria
+
+
+Maria F. O'Neill
+Senior Manager, EnFORM Technology
+> Enterprise TransFORMation Through Technology
+3 Greenway Plaza, Suite 800
+Houston, TX  77046
+office (713)350-1891
+cell (713)416-3308
+
+
+-----Original Message-----
+From: David.Fisher@enron.com [mailto:David.Fisher@enron.com]
+Sent: Tuesday, November 14, 2000 2:01 PM
+To: Richard Toubia; maria.o'neill@enform.com
+Subject: Tokenized Reference Period Treatments
+
+
+
+Richard/Maria,
+
+Attached please find the 'treatments' for the various Tokenized reference
+periods currently in use for US Nat Gas and US Power.  I believe you will
+find these spreadsheets easier to translate than the previous.  Let me know
+what you think.  As you've pointed out it is critical that we are both on
+the same page when it comes to our treatments of these reference periods;
+however, I do believe this is an issue that we can work through together.
+I would suggest that we get together again for another couple hours once
+you've had the chance to review not only the info I've provided to date but
+also the list of Schedule A products that I plan to provide on Wednesday.
+As always, feel free to drop me a note or give me a call anytime.
+
+Regards,
+David
+
+P.S.  Please keep in mind that the present structure of the TRP's do not
+contemplate weekends that breach a calendar month, and holidays.  For
+example, a US Nat Gas Day Ahead product (Number XXXX)  being offered after
+11:00 a.m. on a Thursday the 27th will provide a TRP Product for Saturday
+the 29th, Sunday the 30th, and Monday the 1st. Since our trading areas
+would not want to breach the current calendar month, they would create two
+date-specific products; Number YYYY for Saturday the 29th through Sunday
+the 30th, and Product Number ZZZZ for Monday the 1st.
+
+(See attached file: US Nat Gas TRP Treatment.xls)(See attached file: East
+Power TRP Treatment.xls)(See attached file: West Power TRP Treatment.xls)
+
+
+---------------------- Forwarded by David Fisher/NA/Enron on 12/11/2000 01:58 
+PM ---------------------------
+
+
+"O'Neill, Maria" <Maria.O'neill@Enform.com> on 12/01/2000 02:16:36 PM
+Please respond to <Maria.O'neill@Enform.com>
+To: "David Fisher \(E-mail\)" <david.fisher@enron.com>
+cc:  
+
+Subject: 
+
+
+A question has come up that may have serious implications for our system.
+Please forward to the right person, we would really appreciate it if we
+could have a response as soon as possible.
+
+The question is "How many transaction attempts can be sent by Enron to True
+Quote at one time(will Enron be sending more than transaction in a batch)?"
+Your documentation seems to read that you may be sending more than one
+transaction at a time.  If that is true, then we may have a problem if you
+plan to send transaction searches that would force us to cancel all of the
+previous transaction attempts that were sent over together, since our system
+processes items in sequential order.
+
+Please call me if the question seems confusing.
+
+Maria F. O'Neill
+Senior Manager, EnFORM Technology
+Enterprise TransFORMation Through Technology
+3 Greenway Plaza, Suite 800
+Houston, TX  77046
+office (713)350-1891
+cell (713)416-3308
+
+---------------------- Forwarded by David Fisher/NA/Enron on 12/11/2000 01:58 
+PM ---------------------------
+
+
+"O'Neill, Maria" <Maria.O'neill@Enform.com> on 12/04/2000 08:11:06 AM
+Please respond to <Maria.O'neill@Enform.com>
+To: "David Fisher \(E-mail\)" <david.fisher@enron.com>
+cc:  
+
+Subject: FW: Fill or Kill - Buy or Sell from Enron Traders
+
+
+Good morning David,
+
+Here's another clarifying question.  I have in my notes documentation that
+says that Enron will do partial fills of transactions sent to EOL. The
+question that being asked in the attached note has to do with transactions
+sent by EOL to TrueQuote.  Does Enron want (or will Enron accept) partial
+fills by the True Quote system? If so, how should we identify (if at all)
+that this was a partial fill?
+
+Thanks David.
+
+Maria F. O'Neill
+Senior Manager, EnFORM Technology
+> Enterprise TransFORMation Through Technology
+3 Greenway Plaza, Suite 800
+Houston, TX  77046
+office (713)350-1891
+cell (713)416-3308
+
+
+-----Original Message-----
+From: Glass, Brett [mailto:Brett.Glass@enform.com]
+Sent: Friday, December 01, 2000 4:12 PM
+To: Maria O'Neill (E-mail)
+Subject: Fill or Kill - Buy or Sell from Enron Traders
+
+
+Maria,
+
+Matt raised a question regarding transaction attempts made by Enron Traders
+directly against the True Quote system (not going through EOL).  This is a
+two scenario question:
+
+1)  If an Enron trader is initiating a buy in the True Quote system against
+a counterparty's position to sell at a specified price and volume (ie:
+15,000 @ 2.40 - which is currently a valid market in True Quote), at the
+point the transaction is being executed in the system, the volume drops to
+10,000, would our Enron want to fill whatever quantity they can at the given
+price.  Currently we are interpreting all transactions made directly from
+Enron into the True Quote system will be entered as a Fill or Kill.
+Will Enron allow partial fills of transaction attempts?
+Also, should the successful transaction attempt consist of several parties,
+will Enron accept this (3 parties of 5,000 each)?
+Do we send back a response identifying a FILL for the partial volume and
+FAIL for the remaining volume?
+
+2)  Reverse the statement for an attempt of Enron to Sell a volume against a
+counterparty's position to buy.  Is Enron willing to sell partial volumes
+should the market not be there to fill Enron's order completely?
+
+Brett Glass
+EnFORM Technology, LLC
+Enterprise TransFORMation Through Technology
+Phone: (713) 350-1862
+
+---------------------- Forwarded by David Fisher/NA/Enron on 12/11/2000 01:58 
+PM ---------------------------
+
+
+"O'Neill, Maria" <Maria.O'neill@Enform.com> on 12/04/2000 11:14:09 AM
+Please respond to <Maria.O'neill@Enform.com>
+To: "David Fisher \(E-mail\)" <david.fisher@enron.com>
+cc:  
+
+Subject: FW: Enron Teleconference Questions/Answers
+
+
+David,
+
+I am forwarding you minutes taken from the conference call with Enron of
+Sept 26th.  This was before you joined the project, but as you can see, we
+were told that partial fills would be possible.  The answers appear in blue.
+
+Maria F. O'Neill
+Senior Manager, EnFORM Technology
+Enterprise TransFORMation Through Technology
+3 Greenway Plaza, Suite 800
+Houston, TX  77046
+office (713)350-1891
+cell (713)416-3308
+
+ -----Original Message-----
+From:  O'Neill, Maria
+Sent: Monday, October 16, 2000 11:33 AM
+To: 'chris.edmonds@truequote.com'
+Cc: Wayne Crane (E-mail); Haddix, Scott
+Subject: FW: Enron Teleconference Questions/Answers
+
+Chris,
+
+Wayne and I have reviewed this transcript from the conversation with Enron.
+During that conversation, several items were to be worked offline.  These
+are detailed and are listed as "To be worked offline" in Exhibit B, C, D,
+and E.
+
+Would you like to have EnFORM participate in your discussion with Enron, or
+do you feel that these items are strategically sensitive enough that you
+should have this conversation without EnFORM's involvement?
+
+These "To be worked offline" issues are very important, but we do have
+additional technical questions that would best be addressed by a technical
+Enron contact.  If we could begin the process of a establishing a technical
+"relationship" with an individual at Enron as soon as possible, it would
+speed development and lower costs of this project.
+
+P.S.  Wayne was next to me as I typed this note.
+
+Regards,
+Maria
+
+----------------------------------------------------------------------------
+----------------------------------------------------------------------------
+----------------------------
+
+
+The following questions were discussed in the telephone conference call with
+Enron on September 26th.  We have inserted Enron's answers in Blue and have
+highlighted follow-ups and offline discussions in Red.
+
+
+Questions for Enron to answer regarding True Quote's interface:
+
+High Priority Questions (need to be addressed):
+(From Exhibit A) Will the product ID that Enron is transmitting specifically
+identify a product offering including commodity, deal type, region /
+location, and tradable term (fully qualified begin and end dates)?
+
+Product ID is a fully transactable item - Product, Location, Dates
+Product ID is a fully qualified instrument - excluding price, volume and
+counterparty
+Product ID can be for next day and balance of month.  However, on next to
+last day of month, the Product ID will offer either next day or BOM, not
+both (there is no reason for redundancy)
+Product ID that is for anything, except for the rolling Tokenized
+products/dates (example: For a spot month, the Product ID will expire on the
+first day of that spot month)
+Currency and Unit of measure is implied as part of Product ID, but it is not
+an attribute
+
+
+(From Exhibit B) Can we confirm a transaction attempt against Enron for an
+Enron product id is a "Fill or Kill" transaction, meaning, a transaction
+attempt submitted to Enron would not stay in their system if it was not
+immediately filled.  If the deal is not confirmed by Enron, the order will
+be immediately removed from Enron's system and could not be filled later if
+market conditions made the order viable.
+
+A transaction attempt by TrueQuote will be "Fill or Kill" (It will not in
+stay in EOL's system)
+
+If the deal is not confirmed by Enron due to non-availability of volume,
+these volumes need to be expired in the True Quote system
+
+If a transaction attempt fails for ANY reason, Enron will immediately
+rebroadcast that Product to the True Quote system
+
+Does True Quote need to design functionality for partial fill of a deal
+transaction for an outside entity?
+
+Enron will do partial fills.  The True Quote system needs to design
+functionality to accept partial fills from an outside entity.
+
+What is the time threshold for waiting on an Enron response to a transaction
+attempt?
+
+Enron will accept whatever True Quote determines is an acceptable threshold
+for waiting.
+
+What is the estimated delivery date for Enron's DTDs?
+
+The EnronOnline Exchanges External Interface Document was received on
+Monday, October 2, 2000.
+
+Exhibit A (Enron Price Interface-what Enron sends to TQ):
+
+Concerning the Enron price interface, Enron has stated that EOL currently
+handles prices/volume updates at the rate of 100 updates per second, growing
+potentially to 500 per second (across all EOL product offerings).  Given
+this level of update activity, how will the transmission of these updates be
+accomplished?  Below are some questions which should clarify these concerns:
+
+What is the expected rate of updates for the sub-set of EOL products that
+will be transmitted to the True Quote platform?  Is it expected that these
+products will also endure update activity at the rate of 100-500 updates per
+second?
+
+Although it was not communicated how often an XML document will be sent, it
+was clarified that the XML documents will be sent at certain time
+intervals.Each update will contain all information since last time polled
+(includes all changes (only changes) since last transmission)
+Need to clarify if True Quote will be polling EOL for Updates, or if EOL
+will send them automatically at certain time intervals.
+
+Will there be one XML document interface transmission for each Enron product
+update, or will one XML document interface contain updates for multiple
+Enron products?  The implications of this are as follows:  Will True Quote
+need to handle 100-500 XML documents per second, or will True Quote receive
+one XML document at a determined interval that has updates for all Enron
+products?  If the XML document contains updates for all Enron products, how
+often will Enron send us the document?   If it's one XML document per Enron
+product, will True Quote be expected to handle 100-500 XML document
+submissions per second?
+
+The XML document will contain updates for multiple Product IDs.  If only one
+Product ID has changed in EOL since the last transmission, then only one
+Product ID will be sent to True Quote in the updates.
+
+Can we confirm that Enron will only submit one price/volume offering per
+Enron product id; meaning, Enron will never have multiple price and quantity
+offerings for the same Enron product ID on the True Quote platform.
+
+Enron will never send Market Depth for any Product ID.  What you see on EOL
+is exactly what is transmitted to True Quote (one offering per Enron Product
+ID).  However, each Product ID update will contain both the Bid and the
+Offer.
+
+The interface currently does not have a field to define the duration of the
+order.  Given this, can we assume that when the price interface submits a
+product price/volume update to the True Quote platform, the order will be
+loaded with a duration of "Good Until Canceled".  True Quote will mark the
+order as 'GTC' until Enron submits a new XML document for that Enron product
+that changes the status to "Suspended".  In this case True Quote would
+cancel the order on the True Quote system.
+
+All orders will remain on the True Quote system until the EOL traders pull
+the deals.  At this time, EOL would send "Suspended Status" for the Product
+ID.
+
+How are terms related to Enron Product IDs?  Example:  For a given Enron
+commodity, deal type, and location that is traded in October, would a new
+product id be created for that same product offering when the month rolls to
+November?
+ Yes
+
+If product ids do not include a direct relationship to a specific tradable
+term, when a Price Interface XML document is submitted to the True Quote
+platform, how will True Quote know which trade term the product id is
+associated with?
+Product IDs do have a direct relationship to a specific tradable term
+
+We are currently assuming that an Enron product id specifically identifies a
+product offering including commodity, deal type, region/location, and
+tradable term.
+This assumption is correct
+
+Can we confirm that all Enron orders transmitted to the True Quote platform
+will be cancelled at the end of the day and that all products will be
+re-loaded into the True Quote system the following morning?  If not,  will
+the assumed 'Good Until Canceled' duration for each product id remain active
+until the status has been changed to "Suspended"?
+
+All EOL orders should be removed by the traders at the end of the day.  For
+those that are not removed, True Quote should run a nightly batch job that
+removes all EOL orders left in the system.  Each morning, True Quote will
+authenticate with EOL, and at this time, all orders on EOL will be
+transmitted to True Quote.
+
+Exhibit B (Transaction Interface with Enron):
+
+For each field (across all interfaces), we will need clearly defined data
+types (precision, range of length, space/bytes it takes).
+
+This information still needs to be provided.
+
+Can we assume the Bid/Ask flag is an integer? Perhaps a bit?  If it's a
+character, what is the character indicator?  B/A?
+
+This information still needs to be provided.
+
+Can we confirm the data type for volume is integer?
+
+This information still needs to be provided.
+
+Across all interfaces, there is not a defined unit of measure for price and
+volume by Enron product id.   Should part of the XML DTD specify the unit of
+measure for both price and volume, or are we to assume that Enron product
+ids for Power are in US dollars and megawatt/hr, and Enron product ids for
+natural gas are US dollars and MMBTU?
+
+Currency and Unit of measure is implied as part of Product ID, but it is not
+an attribute
+
+Price - how many decimal places? (precision of the number)
+
+This information still needs to be provided.
+
+Volume and Price - Does Enron have an min / max / default increment value
+established for price and volume increment ranges by Enron product id?  (For
+example, within True Quote the default volume increment for natural gas is
+5000, and the price increment is $0.0025.  Both the price and volume
+increments, min/max ranges can vary by region or location).
+
+On EOL, the traders determine the minimal tradable increments and the
+minimal tradable amounts (this minimums could be as low as 1).
+
+To be worked Offline:
+How to handle increments <> 5000 increment on the Enron side (will we only
+display the 5000 increment below the volume submitted by Enron, if trader
+has a minimum greater than entities are willing to participate, how do we
+display this and how does the minimum increment come across in the order)
+
+
+Can we confirm a transaction attempt against Enron for an Enron product id
+is a "Fill or Kill" transaction, meaning, a transaction attempt submitted to
+Enron would not stay in their system if it was not immediately filled.  If
+the deal is not confirmed by Enron, the order will be immediately removed
+from Enron's system and could not be filled later if market conditions made
+the order viable.  If the deal is not confirmed by Enron due to
+non-availability of volume, these volumes need to be expired in the True
+Quote system.
+
+Already answered above.
+
+Will Enron allow partial fill of transactions?   For example, if the Enron
+price interface submits an offer with 20,000 mmbtu available, can True Quote
+submit a transaction bid attempt to take only 10,000 mmbtu of the Enron
+offer?   If not, is it a valid assumption that we can only submit a
+transaction attempt to lift the entire Enron offer of 20,000 mmbtu?
+
+Enron will allow partial fills.
+
+Exhibit C (True Quote Price Interface-what TQ sends to Enron):
+Does Enron expect True Quote to submit a single price point offering for an
+Enron product id that is the aggregate total volume of all orders available
+for that product id on the True Quote platform at the best available price?
+This would allow Enron to submit a transaction attempt against the True
+Quote platform, submitting a volume request that would potentially sweep
+multiple counter parties creating deals with all entities necessary to
+satisfy transaction attempt.
+Alternative 2:  Does Enron expect True Quote to submit only the best
+individual order (the best price and volume for an Enron product id from
+only one counterparty) identified by its True Quote order id (True Quote
+would not transmit the counter party id; however, before sending the XML
+interface to Enron, the counterparty would have to pass the credit rules
+maintained in the counterparty credit matrix on the True Quote platform).
+Alternative 3:  Would Enron expect True Quote to submit multiple price
+offerings per Enron product id (a market depth of various price and volume
+offerings).  In this scenario, the volume associated with each price point
+should be an aggregate of multiple True Quote orders (as shown in the True
+Quote market screen).  The XML interface could potentially transmit
+individual True Quote orders and their associated volumes (not an aggregate
+volume of multiple orders); however, giving Enron the ability to 'pick and
+choose' individual orders could potentially violate True Quote customer
+service agreements that require deals to be executed in the chronological
+sequence that the order request was received by the True Quote platform.
+
+Enron wants to see the granularity of each True Quote Product ID order.
+Enron expects True Quote to submit multiple price offerings per Enron
+Product ID.  (Example:  If  True Quote has an order in the system for
+100,000 MMbtu's at $3.00, which is comprised of 10 individual orders of
+10,000, Enron wants True Quote to send all of the individual orders).
+
+To be worked Offline:
+Fair and equitable treatment with prices sent to Enron (proper processing of
+orders without bias)
+Need to discuss in more detail how to handle EOL price interface
+transactions and Enron Trader transactions
+Need to clarify with Enron whether they want to receive the best price in
+the market for a given Product ID, or if they want to see all of a given
+Product ID's market depth.
+
+Our concern is that if True Quote transmits individual True Quote orders and
+their associated volumes (not an aggregate volume of multiple orders),
+giving Enron the ability to 'pick and choose' individual orders, this could
+potentially violate True Quote customer service agreements that require
+deals to be executed in the chronological sequence that the order request
+was received by the True Quote platform.
+
+
+Exhibit D (Sponsor Transaction Interface):
+Are we correct in assuming that transactions posted by Enron traders against
+True Quote deals will be executed on the True Quote system?  Will the
+duration of the order attempts being sent to True Quote be "Fill or Kill" or
+some other duration?
+
+To be worked Offline:
+The traders will want to transact against True Quote directly without
+adjusting the market position through EOL, but how this is accomplished will
+be to be discussed.
+
+Exhibit E (Counterparty Interface):
+In general, we need more details about what Enron will be sending as part of
+their daily counterparty credit / term interface, as well as the intra-day
+counterparty credit/term interface:
+Currently, exhibit E does not specific any fields or data types within an
+XML DTD.
+What are the "terms" under which participants can trade with Enron?  For
+example, will the level of restriction include volumetric limits, financial
+limits, tradable date range limits (number days or months into the future)
+by Enron product id (assuming a product id specifically defines a commodity,
+deal-type, region/location, and tradable term).  Will Enron send us a 'yes /
+no' flag to turn off/on a counterparty's ability to trade with Enron by the
+Enron product id?
+
+To be worked Offline:
+Credit terms and counterparty interface details were not addressed in the
+teleconference.  The details of granularity will need to addressed to better
+understand the responsibilities that True Quote will have in handling
+Enron's credit structure.
+
+
+Questions for True Quote to Answer:
+
+Exhibit D:  Does the Sponsor Transaction interface (Enron proposing
+transactions on the True Quote platform) still invoke the Enron Transaction
+Interface?  There was some discussion that if internal Enron traders
+proposed transactions against the True Quote platform, the point of
+transaction would be the True Quote platform, and True Quote would not have
+to invoke the transaction on the EOL platform.  True Quote would simply
+confirm whether the Enron transaction attempt succeeded or failed.  If it
+succeeded, True Quote would send a confirmation XML interface to confirm the
+deal had been executed and transmit the True Quote Deal ID to Enron.
+What is the time threshold for waiting on Enron's response to a transaction
+attempt?  For example, after 'n' seconds the True Quote platform should
+alert a system operator that an Enron transaction attempt has failed to
+return either a confirmation or failure.
+
+Please respond to the questions above.
+
+Thank you.
+
+
+
+Content-Transfer-Encoding: 7bit
+To: "O'Neill, Maria"
+Cc: "Glass, Brett"
+Subject: Teleconference Highlights
+Date: Fri, 6 Oct 2000 12:21:11 -0600
+Message-ID: <F150C1D2E6C3374AA8A7A1A9B93E91BB30DF3D@mailbert.enform.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="iso-8859-1"
+X-Priority: 3 (Normal)
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook CWS, Build 9.0.2416 (9.0.2910.0)
+Importance: Normal
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2919.6700
+
+* Product ID
+* Product ID is a fully transactable item  and fully qualified instrument -
+Includes: Product, Location, Dates; Excludes: Price, Volume and Couterparty
+* Tokenized Dates:  Product ID for next day and balance of month are
+tokenized dates which means that the product ID will remain the same for
+designated date range (next day, next 2 days, BOM, etc).  The dates will
+role, but the product ID will remain the same
+* Product IDs for anything but the rolling Tokenized products/dates (i.e. -
+spot month), expire after date has been reached.
+* There will be no redundancy of product IDs that encompass the same date
+ranges (i.e.:  there are usually two separate product IDs for next day and
+balance of month, but when the next to the last day of the month is reached,
+both will reference the same day.  At this point, Enron will only have one
+product ID associated with the given date range)
+* Enron has set up product IDs to adequately reflect Weekend trading on
+Friday (deals entered for Saturday will encompass Sat - Mon (and include
+extra days when Holidays are involved))
+* Once a strip term has been reached, trades within the month then change to
+the tokenized product IDs.
+* Enron will Fill or Kill all transaction attempts - they will execute or
+cancel the trade immediately
+* Enron will Partial fills transaction attempts
+* When True Quote sends a request for a transaction, the threshold for
+waiting on a response from Enron will be defined by True Quote.
+* Trade failure will re-broadcast product (failure for any reason)
+* If for any reason there is a concern about a product, True Quote can
+request (HTTP) validation of the product in question
+* Frequency of updates:  Enron will send True Quote a document that contains
+all information since last time polled (includes all changes (only changes)
+since last transmission)
+* Every product sent will have only one bid and offer price associated with
+it at time of transmission.  What you see on EOL is what is sent to True
+Quote.
+* There will be no market depth transmitted to True Quote from Enron
+* Duration of orders
+* Orders will be displayed on True Quote until suspended by traders
+* All orders will remain on system until traders pull deals
+* True Quote session is finite (7 -7).  At the end of every day all deals
+will be removed from True Quote (either by Enron traders removing them, or
+TRUE QUOTE will run a batch job to clear Enron deals).  In the morning, TRUE
+QUOTE will authenticate and all products will be loaded from Enron to TRUE
+QUOTE.
+* The Currency and Unit of measure are implied as part of Product ID, it's
+not an attribute.
+* Granularity of orders transmitted from True Quote to Enron will show each
+order associated with each price and volume of a Product ID (i.e. 100,000
+mmbtu @ $5 is made up of 10 separate orders of 10,000, Enron would like to
+see all 10 orders of 10,000 - including counterparty information)
+* Transaction attempts made from True Quote to EOL - Point of execution will
+be on EOL
+* Transaction attempts made by Enron Traders against True Quote price
+postings will be executed on True Quote
+
+Offline:
+* Will we know if a transaction has failed due to volume not available,
+credit failure, or Enron has not heard of the transaction
+* How to handle increments <> 5000 increment on the Enron side (will we only
+display the 5000 increment below the volume submitted by Enron; if trader
+has a minimum tradable volume greater than entities are willing to
+participate (i.e. Enron minimum tradable amount is 10,000 or 15,000) how do
+we display this and how does the minimum increment come across in the order)
+* If we transmit to Enron the granularity of all orders (including
+counterparty information), how will True Quote / Enron ensure the fair and
+equitable treatment with prices sent to Enron (proper processing of orders
+without bias)
+* Business question: how much do we want to send Enron (they are ok with
+sending each order for all price points in an instrument), do we show top 1
+or top 5?
+* Need to discuss in more detail how to handle EOL price interface
+transactions and Enron Trader transactions
+
+
+Brett Glass
+EnFORM Technology, LLC
+Enterprise TransFORMation Through Technology
+Phone: (713) 350-1862
+
+
+---------------------- Forwarded by David Fisher/NA/Enron on 12/11/2000 01:58 
+PM ---------------------------
+
+
+"O'Neill, Maria" <Maria.O'neill@Enform.com> on 12/07/2000 02:17:12 PM
+Please respond to <Maria.O'neill@Enform.com>
+To: "David Fisher \(E-mail\)" <david.fisher@enron.com>
+cc:  
+
+Subject: FW: One other item about Enron...
+
+
+David,
+
+Can you confirm the answer to Stewart's question.  We just want to make
+absolutely sure we know what you mean when you say "fill or kill".  Thanks!
+
+Maria F. O'Neill
+Senior Manager, EnFORM Technology
+> Enterprise TransFORMation Through Technology
+3 Greenway Plaza, Suite 800
+Houston, TX  77046
+office (713)350-1891
+cell (713)416-3308
+
+
+-----Original Message-----
+From: Stewart D. Clark [mailto:Stewart.Clark@enform.com]
+Sent: Thursday, December 07, 2000 9:58 AM
+To: Maria.O'neill@Enform.com; brett.glass@enform.com;
+kimberly.hahn@enform.com; richard.stallings@enform.com
+Subject: RE: One other item about Enron...
+
+
+Maria,
+
+Please confirm with David that NO partial fills refers *only* to transaction
+attempts.  We fully expect that Enron will send us (potentially) large
+volumes via. the price posting interface; then, we may execute multiple
+transaction attempts for that EOL product ID to Enron via. the transaction
+attempt interface.  These individual transaction attempts could be much
+smaller (in volume) than the volume posted via. the price posting interface.
+
+Basically, the way we understand it is... the individual transaction
+attempts will be 'all or nothing'; however, we can break the large price
+post down and transmit multiple (smaller) transaction attempts against that
+large price post volume.
+
+I believe we are all in agreement on this, but it never hurts to be
+absolutely sure concerning something of this magnitude and importance.
+
+Thanks,
+
+-Stewart
+
+
+-----Original Message-----
+From: O'Neill, Maria [mailto:Maria.O'neill@Enform.com]
+Sent: Thursday, December 07, 2000 8:52 AM
+To: brett.glass@enform.com; stewart.clark@enform.com;
+kimberly.hahn@enform.com; richard.stallings@enform.com
+Subject: FW: One other item about Enron...
+
+
+I've spoken the David Fisher at Enron this morning.  The conference call
+will Andy Zipper and Jay Webb cannot be arranged until next Thursday (Dec.
+14). David will send details later.
+
+David has asked us to assume that there will be NO partial fills on either
+side. He believes that even if they agree to do this it will likely be a
+"day 2" enhancement and not a functionality that is part of the January 5th
+deliverables. He is also requesting that we focus on completing the
+functionality that will allow Enron to post prices on True Quote and will
+allow True Quote to execute transactions on EOL.  In addition, another
+priority needs to be to have the credit functionality completed.  These are
+going to be the requirements that need to be tested by December 18th and
+need to be in production by January 5th.
+
+True Quote's ability to send prices to Enron and accept transaction attempts
+from EOL is secondary at this point and not likely to be a requirement that
+needs to be met by January 5th.
+
+Please let me know if there is any reason why the execution engine will not
+be ready to accept price posts from EOL and send transaction requests
+(assuming only full orders will be filled) by December 18th.  If there is
+any concern about getting credit functioning within that timeframe, please
+let me know this as soon as possible, as well.  Thanks for all of your help.
+You all are key contributors to this project and without your awesome
+knowledge and skills, we would never be able to complete this project in the
+timeframe that we're being asked to complete it in.  I really appreciate
+your efforts.
+
+Regards,
+
+Maria F. O'Neill
+Senior Manager, EnFORM Technology
+> Enterprise TransFORMation Through Technology
+3 Greenway Plaza, Suite 800
+Houston, TX  77046
+office (713)350-1891
+cell (713)416-3308
+
+
+-----Original Message-----
+From: Glass, Brett [mailto:Brett.Glass@enform.com]
+Sent: Thursday, December 07, 2000 8:21 AM
+To: Maria O'Neill (E-mail)
+Subject: FW: One other item about Enron...
+
+
+
+
+Brett Glass
+EnFORM Technology, LLC
+Enterprise TransFORMation Through Technology
+Phone: (713) 350-1862
+
+ -----Original Message-----
+From:  Stewart D. Clark [mailto:Stewart.Clark@enform.com]
+Sent: Wednesday, December 06, 2000 10:56 PM
+To: Kimberly.Hahn@enform.com; 'Richard H. Stallings (E-mail)'
+Cc: 'Brett Glass (E-mail)'
+Subject: RE: One other item about Enron...
+
+I believe we're having a conf. call with Andy Zipper and Jay Web tomorrow
+with Chris and Dennis.
+
+I'll bring this up as an alternative (adding the min and increment
+attributes to the XML DTDs).  Duration would be another one to add...
+
+-Stewart
+
+
+ -----Original Message-----
+From:  Hahn, Kimberly [mailto:Kimberly.Hahn@enform.com]
+Sent: Wednesday, December 06, 2000 8:49 AM
+To: Stewart.Clark@enform.com; 'Richard H. Stallings (E-mail)'
+Cc: 'Brett Glass (E-mail)'
+Subject: RE: One other item about Enron...
+
+Stew & Richard,
+
+I would be surprised if Enron was willing to store the minimum qty, but what
+about sending it in the transaction request as an additional attribute?
+Might they be talked into that?  This would be better for us since we should
+not have to worry about maintaining our system information on the Enron
+platform.
+
+How about proposing that both platforms send the min & increment volume
+requirements?  This would be more complex for us now, but might be better in
+the long run for both platforms.  We would be more flexible and better able
+to integrate with outside systems if we were able to accept this type of
+information.  It get complicated because you could only fill where the two
+requirements (our and the outside system) were compatible, but it is
+do-able.  Thoughts?
+
+Kim
+ -----Original Message-----
+From:  Stewart D. Clark [mailto:Stewart.Clark@enform.com]
+Sent: Wednesday, December 06, 2000 12:44 AM
+To: Brett Glass (E-mail); Richard H. Stallings (E-mail); Kimberly A. Hahn
+(E-mail)
+Subject: FW: One other item about Enron...
+
+FYI
+
+ -----Original Message-----
+From:  Stewart D. Clark [mailto:Stewart.Clark@enform.com]
+Sent: Wednesday, December 06, 2000 12:43 AM
+To: Dennis Crum (E-mail); Chris Edmonds (E-mail)
+Cc: Maria O'Neill (E-mail)
+Subject: One other item about Enron...
+
+Dennis &  Chris...
+
+One other EOL scenario we forgot to talk about this evening was the scenario
+where:
+
+1)  EOL post 20,000 / day to our platform via. the price post interface...
+2)  A True Quote customer submits a request to do 15,000 / day...
+3) TQ submits a transaction attempt to EOL for 15,000 day...
+4)  EOL only has 14,000 remaining, so they deny the entire transaction
+attempt...
+
+However, if Enron's system was aware that we would take partially filled Gas
+orders in minimum increments of 5,000, EOL could have partially filled the
+transaction request for 10,000.
+
+Any news on that scenario?  I'll talk to Maria first thing in the morning...
+perhaps this one is already resolved?   I would think it would be in EOL's
+best business interest to store our minimum volumes, so EOL could always
+fill us at least partially rather than deny the entire transaction.
+However, it really doesn't matter to us (technically) we'll just cancel the
+entire EOL transaction attempt and continue our sweep and fill the volume
+with the next available counterparty.   Whereas if they partially filled us,
+we would probably cancel the original transaction attempt, and rebuild a new
+transaction deal ID for the 10,000 / day deal.... then continue the sweep
+for the final 5,000 from the next available counterparty.
+
+I haven't reviewed this scenario with the deal execution team yet, but if
+EOL *did* partially fill us with *at least* our minimum, it would probably
+be no more or less complex for us because even in a scenario where EOL
+denies a transaction attempt, we ALREADY must have the logic to cancel the
+EOL deal transaction attempt, and create a new order with the next available
+counterparty (to fill the volume request).   So, if EOL did partially filled
+us, we would simply cancel the original transaction request that was for the
+full volume amount, and create a new deal with EOL for the partial volume
+they confirmed, as opposed to creating a new deal with a different
+counterparty.  Only one additional deal would have to be created with the
+next available counterparty to fill the last 5,000 of the original request.
+Seems simply enough... and it would be in EOL's best interest to fill our
+transaction attempts partially so they would complete our transaction
+attempts more often....   if they don't fill us partially, EOL will probably
+end-up denying many of our transaction attempts if the exact volume is not
+available.  hmm.... what do ya'll think?
+
+-Stewart
+
+Stewart D. Clark
+EnFORM Technology, LLC
+Stewart.Clark@enform.com
+(713) 350-1000  Main
+(713) 350-1012  Direct
+(713) 818-0632  Mobile
+
+---------------------- Forwarded by David Fisher/NA/Enron on 12/11/2000 01:58 
+PM ---------------------------
+
+
+Anchi Zhang@ECT
+12/07/2000 06:42 PM
+To: David Fisher/NA/Enron@Enron
+cc:  
+
+Subject: your call
+
+David,
+
+I am in Seattle until Sunday.
+
+No, I have not heard anything from Truequote since they and I had our first 
+phone contact two weeks ago.
+
+Anchi
+---------------------- Forwarded by David Fisher/NA/Enron on 12/11/2000 01:58 
+PM ---------------------------
+
+
+"O'Neill, Maria" <Maria.O'neill@Enform.com> on 12/08/2000 07:47:26 AM
+Please respond to <Maria.O'neill@Enform.com>
+To: <David.Fisher@enron.com>
+cc:  
+
+Subject: RE: FW: One other item about Enron...
+
+
+Thanks for the clarification David.
+
+I appreciate all of your efforts in helping us get answers to our questions.
+Have a great weekend!
+
+Maria F. O'Neill
+Senior Manager, EnFORM Technology
+> Enterprise TransFORMation Through Technology
+3 Greenway Plaza, Suite 800
+Houston, TX  77046
+office (713)350-1891
+cell (713)416-3308
+
+
+-----Original Message-----
+From: David.Fisher@enron.com [mailto:David.Fisher@enron.com]
+Sent: Thursday, December 07, 2000 5:02 PM
+To: Maria.O'neill@Enform.com
+Subject: Re: FW: One other item about Enron...
+
+
+
+Maria,
+
+Stewart is correct in his understanding of no parital fills.  I will
+reiterate his statements through the following examples:
+
+If Enron posts a gas product with 50,000 MMBTU available and TrueQuote
+attempts a transaction on 30,000 MMBTU, the attempt will be successfull if
+the following 3 criteria are met:
+
+1.  30,000 MMBTU is still available when the transaction hits EOL.
+2.  30,000 MMBTU meets the minimum volume for the product as set by the
+trader.
+3.  30,000 MMBTU meets the increment volume for the product as set by the
+trader.
+
+Examples of how the 3 criteria above come into play:
+
+1.  If when TrueQuote attempts to transact on 30,000 MMBTU, the volume
+available for the product drops to below 30,000 MMBTU, the transaction will
+fail.
+2.  If TrueQuote attempts to transact on 30,000 MMBTU but the EOL trader
+has set the minimum volume for the product to 40,000 MMBTU, the transaction
+will fail.
+3.  If TrueQuote attempts to transact on 32,500 MMBTU but the EOL trader
+has set 5,000 MMBTU increments, the transaction will fail.
+
+I set-up a meeting with Jay Webb and Andy Zipper for next Friday.  That is
+the earliest we all could meet.  Once we talk, I'll coordinate a conference
+call with you.  For the time being let's stay the course.
+
+Regards,
+David
+
+
+
+
+
+
+
+"O'Neill, Maria" <Maria.O'neill@Enform.com> on 12/07/2000 02:17:12 PM
+
+Please respond to <Maria.O'neill@Enform.com>
+
+To:   "David Fisher \(E-mail\)" <david.fisher@enron.com>
+cc:
+
+Subject:  FW: One other item about Enron...
+
+
+David,
+
+Can you confirm the answer to Stewart's question.  We just want to make
+absolutely sure we know what you mean when you say "fill or kill".  Thanks!
+
+Maria F. O'Neill
+Senior Manager, EnFORM Technology
+> Enterprise TransFORMation Through Technology
+3 Greenway Plaza, Suite 800
+Houston, TX  77046
+office (713)350-1891
+cell (713)416-3308
+
+
+-----Original Message-----
+From: Stewart D. Clark [mailto:Stewart.Clark@enform.com]
+Sent: Thursday, December 07, 2000 9:58 AM
+To: Maria.O'neill@Enform.com; brett.glass@enform.com;
+kimberly.hahn@enform.com; richard.stallings@enform.com
+Subject: RE: One other item about Enron...
+
+
+Maria,
+
+Please confirm with David that NO partial fills refers *only* to
+transaction
+attempts.  We fully expect that Enron will send us (potentially) large
+volumes via. the price posting interface; then, we may execute multiple
+transaction attempts for that EOL product ID to Enron via. the transaction
+attempt interface.  These individual transaction attempts could be much
+smaller (in volume) than the volume posted via. the price posting
+interface.
+
+Basically, the way we understand it is... the individual transaction
+attempts will be 'all or nothing'; however, we can break the large price
+post down and transmit multiple (smaller) transaction attempts against that
+large price post volume.
+
+I believe we are all in agreement on this, but it never hurts to be
+absolutely sure concerning something of this magnitude and importance.
+
+Thanks,
+
+-Stewart
+
+
+-----Original Message-----
+From: O'Neill, Maria [mailto:Maria.O'neill@Enform.com]
+Sent: Thursday, December 07, 2000 8:52 AM
+To: brett.glass@enform.com; stewart.clark@enform.com;
+kimberly.hahn@enform.com; richard.stallings@enform.com
+Subject: FW: One other item about Enron...
+
+
+I've spoken the David Fisher at Enron this morning.  The conference call
+will Andy Zipper and Jay Webb cannot be arranged until next Thursday (Dec.
+14). David will send details later.
+
+David has asked us to assume that there will be NO partial fills on either
+side. He believes that even if they agree to do this it will likely be a
+"day 2" enhancement and not a functionality that is part of the January 5th
+deliverables. He is also requesting that we focus on completing the
+functionality that will allow Enron to post prices on True Quote and will
+allow True Quote to execute transactions on EOL.  In addition, another
+priority needs to be to have the credit functionality completed.  These are
+going to be the requirements that need to be tested by December 18th and
+need to be in production by January 5th.
+
+True Quote's ability to send prices to Enron and accept transaction
+attempts
+from EOL is secondary at this point and not likely to be a requirement that
+needs to be met by January 5th.
+
+Please let me know if there is any reason why the execution engine will not
+be ready to accept price posts from EOL and send transaction requests
+(assuming only full orders will be filled) by December 18th.  If there is
+any concern about getting credit functioning within that timeframe, please
+let me know this as soon as possible, as well.  Thanks for all of your
+help.
+You all are key contributors to this project and without your awesome
+knowledge and skills, we would never be able to complete this project in
+the
+timeframe that we're being asked to complete it in.  I really appreciate
+your efforts.
+
+Regards,
+
+Maria F. O'Neill
+Senior Manager, EnFORM Technology
+> Enterprise TransFORMation Through Technology
+3 Greenway Plaza, Suite 800
+Houston, TX  77046
+office (713)350-1891
+cell (713)416-3308
+
+
+-----Original Message-----
+From: Glass, Brett [mailto:Brett.Glass@enform.com]
+Sent: Thursday, December 07, 2000 8:21 AM
+To: Maria O'Neill (E-mail)
+Subject: FW: One other item about Enron...
+
+
+
+
+Brett Glass
+EnFORM Technology, LLC
+Enterprise TransFORMation Through Technology
+Phone: (713) 350-1862
+
+ -----Original Message-----
+From:     Stewart D. Clark [mailto:Stewart.Clark@enform.com]
+Sent:     Wednesday, December 06, 2000 10:56 PM
+To:  Kimberly.Hahn@enform.com; 'Richard H. Stallings (E-mail)'
+Cc:  'Brett Glass (E-mail)'
+Subject:  RE: One other item about Enron...
+
+I believe we're having a conf. call with Andy Zipper and Jay Web tomorrow
+with Chris and Dennis.
+
+I'll bring this up as an alternative (adding the min and increment
+attributes to the XML DTDs).  Duration would be another one to add...
+
+-Stewart
+
+
+ -----Original Message-----
+From:     Hahn, Kimberly [mailto:Kimberly.Hahn@enform.com]
+Sent:     Wednesday, December 06, 2000 8:49 AM
+To:  Stewart.Clark@enform.com; 'Richard H. Stallings (E-mail)'
+Cc:  'Brett Glass (E-mail)'
+Subject:  RE: One other item about Enron...
+
+Stew & Richard,
+
+I would be surprised if Enron was willing to store the minimum qty, but
+what
+about sending it in the transaction request as an additional attribute?
+Might they be talked into that?  This would be better for us since we
+should
+not have to worry about maintaining our system information on the Enron
+platform.
+
+How about proposing that both platforms send the min & increment volume
+requirements?  This would be more complex for us now, but might be better
+in
+the long run for both platforms.  We would be more flexible and better able
+to integrate with outside systems if we were able to accept this type of
+information.  It get complicated because you could only fill where the two
+requirements (our and the outside system) were compatible, but it is
+do-able.  Thoughts?
+
+Kim
+ -----Original Message-----
+From:     Stewart D. Clark [mailto:Stewart.Clark@enform.com]
+Sent:     Wednesday, December 06, 2000 12:44 AM
+To:  Brett Glass (E-mail); Richard H. Stallings (E-mail); Kimberly A. Hahn
+(E-mail)
+Subject:  FW: One other item about Enron...
+
+FYI
+
+ -----Original Message-----
+From:     Stewart D. Clark [mailto:Stewart.Clark@enform.com]
+Sent:     Wednesday, December 06, 2000 12:43 AM
+To:  Dennis Crum (E-mail); Chris Edmonds (E-mail)
+Cc:  Maria O'Neill (E-mail)
+Subject:  One other item about Enron...
+
+Dennis &  Chris...
+
+One other EOL scenario we forgot to talk about this evening was the
+scenario
+where:
+
+1)  EOL post 20,000 / day to our platform via. the price post interface...
+2)  A True Quote customer submits a request to do 15,000 / day...
+3) TQ submits a transaction attempt to EOL for 15,000 day...
+4)  EOL only has 14,000 remaining, so they deny the entire transaction
+attempt...
+
+However, if Enron's system was aware that we would take partially filled
+Gas
+orders in minimum increments of 5,000, EOL could have partially filled the
+transaction request for 10,000.
+
+Any news on that scenario?  I'll talk to Maria first thing in the
+morning...
+perhaps this one is already resolved?   I would think it would be in EOL's
+best business interest to store our minimum volumes, so EOL could always
+fill us at least partially rather than deny the entire transaction.
+However, it really doesn't matter to us (technically) we'll just cancel the
+entire EOL transaction attempt and continue our sweep and fill the volume
+with the next available counterparty.   Whereas if they partially filled
+us,
+we would probably cancel the original transaction attempt, and rebuild a
+new
+transaction deal ID for the 10,000 / day deal.... then continue the sweep
+for the final 5,000 from the next available counterparty.
+
+I haven't reviewed this scenario with the deal execution team yet, but if
+EOL *did* partially fill us with *at least* our minimum, it would probably
+be no more or less complex for us because even in a scenario where EOL
+denies a transaction attempt, we ALREADY must have the logic to cancel the
+EOL deal transaction attempt, and create a new order with the next
+available
+counterparty (to fill the volume request).   So, if EOL did partially
+filled
+us, we would simply cancel the original transaction request that was for
+the
+full volume amount, and create a new deal with EOL for the partial volume
+they confirmed, as opposed to creating a new deal with a different
+counterparty.  Only one additional deal would have to be created with the
+next available counterparty to fill the last 5,000 of the original request.
+Seems simply enough... and it would be in EOL's best interest to fill our
+transaction attempts partially so they would complete our transaction
+attempts more often....   if they don't fill us partially, EOL will
+probably
+end-up denying many of our transaction attempts if the exact volume is not
+available.  hmm.... what do ya'll think?
+
+-Stewart
+
+Stewart D. Clark
+EnFORM Technology, LLC
+Stewart.Clark@enform.com
+(713) 350-1000  Main
+(713) 350-1012  Direct
+(713) 818-0632  Mobile
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <11627841.1075851671853.JavaMail.evans@thyme>
+Date: Wed, 6 Dec 2000 09:26:00 -0800 (PST)
+From: bob.shults@enron.com
+To: andy.zipper@enron.com
+Subject: Broker Client Update
+Cc: michael.bridges@enron.com, mark.taylor@enron.com, debbie.brackett@enron.com,
+	leslie.reeves@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: michael.bridges@enron.com, mark.taylor@enron.com, debbie.brackett@enron.com,
+	leslie.reeves@enron.com
+X-From: Bob Shults
+X-To: Andy Zipper
+X-cc: Michael.bridges@enron.com, Mark Taylor, Debbie R Brackett, Leslie Reeves
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Just to remind you I am on vacation Thurs and Fri.
+
+GFI requested a quote for NA Gas and Power, Coal, Emmisions, UK Power, UK 
+Gas, European Gas and European Power.  I have calls into George McClellan 
+(coal) and Tim Belden (West Power) to let them know about the negotiations.  
+I need to know who at Enron you have discussed this with in London to make 
+sure I run it past other interested parties in London prior to making an 
+offer to GFI.  I am now talking to one of the GFI Managing Directors in New 
+York and hopefully this will move the process along faster.
+
+Amerex: Unwound $500 K / 75 % brokerage deal.  Asked them for a proposal for 
+zero brokerage.  Original offer we made was $400 k and zero brokerage.  
+Meeting schedules for Tuesday afternoon. Still waiting for John Nowlan to 
+reply on crude products and Marcello Romano to reply on European Bandwidth.  
+
+PVM: European Crude broker presented by Chris Glass; Forwarding NDA
+
+ED&F Man: Waiting on Mary.  I will call if OK with you.
+
+Prebon: Mike made initial offer with brokerage in it.  Mike informed Prebon 
+of new price structure. Prebon to call back on Monday.
+
+Natsource: Jack is waiting on a draft of the Agreements to begin 
+discussions.  I will forward the Agreements once we approve.  I suspect early 
+next week.
+
+Credit: Working with Debbie on security level versus headroom.  Modeling June 
+2000 to get feel of exposure.
+
+Legal: Second draft of BETA is attached.  Bullet points for Fee Agreement are 
+also attached.  Liquidated damages and margining are covered in Section 3(f) 
+and (g)
+
+
+
+
+
+  
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <4085080.1075851672173.JavaMail.evans@thyme>
+Date: Fri, 15 Dec 2000 04:09:00 -0800 (PST)
+From: bob.shults@enron.com
+To: mark.taylor@enron.com
+Subject: Power Merchants LOI
+Cc: michael.bridges@enron.com, andy.zipper@enron.com, lorraine.becker@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: michael.bridges@enron.com, andy.zipper@enron.com, lorraine.becker@enron.com
+X-From: Bob Shults
+X-To: Mark Taylor
+X-cc: Michael.bridges@enron.com, Andy Zipper, Lorraine.Becker@enron.com
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Attached is a copy an LOI for Power Merchants please review and if ok give to 
+Lorraine Becker so that she can forward to Power Merchants.  Thanks
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <5583537.1075851672196.JavaMail.evans@thyme>
+Date: Wed, 10 Jan 2001 01:00:00 -0800 (PST)
+From: lydia.cannon@enron.com
+Subject: Altra's Office:  Mtg. w/Louise, Jay F. Jeff Donahue, Jay W. & Sally
+ Beck and Altra
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lydia Cannon
+X-To: 
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Altra's Office
+1211 Lamar Suite 950
+Houston, TX  77002
+
+Contact:  Tammie Schoppe
+xt 3-4220
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <14025684.1075851672267.JavaMail.evans@thyme>
+Date: Wed, 20 Dec 2000 09:42:00 -0800 (PST)
+From: bob.shults@enron.com
+To: leslie.reeves@enron.com, jefferson.sorenson@enron.com, gail.hill@enron.com,
+	kim.theriot@enron.com, larry.hunter@enron.com,
+	debbie.nicholls@enron.com
+Subject: Broker Client Procedure
+Cc: sally.beck@enron.com, debbie.brackett@enron.com, michael.bridges@enron.com,
+	mark.taylor@enron.com, andy.zipper@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sally.beck@enron.com, debbie.brackett@enron.com, michael.bridges@enron.com,
+	mark.taylor@enron.com, andy.zipper@enron.com
+X-From: Bob Shults
+X-To: Leslie Reeves, Jefferson D Sorenson, Gail Hill, Kim Theriot, Larry Joe Hunter, Debbie Nicholls
+X-cc: Sally Beck, Debbie R Brackett, Michael.bridges@enron.com, Mark Taylor, Andy Zipper
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Attached is a draft of the Broker Electronic Transaction Agreement which will 
+be used to allow Brokers to transact on behalf of their customers.  Please 
+review the document and give me any comments.  Please pay particuliar 
+attention to Section 3 Transactions.  
+
+Also please note that it will be imperative that broker confirmations are 
+done each day on Broker Client Transactions to limit the exposure associated 
+with online transaction broker breakage costs.  The confirmations group will 
+be responsible for confirming each day and notifying credit immediately of 
+any discrepancies between Enron and the Broker.   Notification by the 
+confirmations group will be the only means by which credit will be informed 
+to shut down broker activity in the case of a transaction that has not been 
+confirmed and/or verified by the broker.
+
+Thank you
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <8495408.1075851671364.JavaMail.evans@thyme>
+Date: Thu, 23 Nov 2000 12:04:00 -0800 (PST)
+From: justin.boyd@enron.com
+To: bruce.garner@enron.com, amita.gosalia@enron.com, andy.zipper@enron.com
+Subject: Price Posting Agreement and Side Letter for Review - eMetra
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Justin Boyd
+X-To: Bruce Garner, Amita Gosalia, Andy Zipper
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+I attach (very much) first drafts for your comments - thanks.  In the 
+interests of reaching speedy commercial settlement, I have made the docs as 
+short and simple as possible.
+
+Justin
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <16015768.1075851672663.JavaMail.evans@thyme>
+Date: Wed, 24 Jan 2001 06:13:00 -0800 (PST)
+From: david.forster@enron.com
+To: andy.zipper@enron.com
+Subject: Another charge item
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: David Forster
+X-To: Andy Zipper
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Modified to include $40 per transaction for the pipelines.
+
+
+
+Dave
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <26425352.1075851671645.JavaMail.evans@thyme>
+Date: Thu, 30 Nov 2000 11:37:00 -0800 (PST)
+From: justin.boyd@enron.com
+To: andy.zipper@enron.com
+Subject: Posting Agreement
+Cc: bruce.garner@enron.com, tom.mckeever@enron.com, david.tregar@enron.com,
+	amita.gosalia@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: bruce.garner@enron.com, tom.mckeever@enron.com, david.tregar@enron.com,
+	amita.gosalia@enron.com
+X-From: Justin Boyd
+X-To: Andy Zipper
+X-cc: Bruce Garner, Tom McKeever, David P Tregar, Amita Gosalia
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Andy
+
+I attach a revised draft of the Agreement, taking into account your most 
+recent comments. The changes are marked.
+
+I have also introduced a Change in Control clause.
+
+Many thanks
+
+Justin
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <7344609.1075851671957.JavaMail.evans@thyme>
+Date: Fri, 8 Dec 2000 08:28:00 -0800 (PST)
+From: aamir.maniar@enron.com
+To: andy.zipper@enron.com
+Subject: PRC Review
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+X-From: Aamir Maniar
+X-To: Andy Zipper
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Hi Andy,
+
+I like to thank you for meeting with me last Monday regarding the PRC revie=
+w.=20
+ Attached please find a copy of my resume and a separate file describing th=
+e=20
+Deals/Project that I have worked on and a brief description on my job=20
+functions/duties related to each of them.  ENA -  Generation Investments is=
+ a=20
+great group with some exceptionally smart people.  It is however, unfortuna=
+te=20
+that often times one does not get recognized and appreciated for all his ha=
+rd=20
+work. There is certainly a lack of communication between the Associates and=
+=20
+the VP/Head of the Group and one=01,s performance is analyzed and communica=
+ted=20
+to the VP only through the Directors.  I hope you will consider these issue=
+s=20
+when evaluating my performance.  If you have any question please let me kno=
+w.
+
+Thanks!
+
+Aamir Maniar
+Associate
+
+       
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <19515587.1075851671411.JavaMail.evans@thyme>
+Date: Tue, 28 Nov 2000 00:00:00 -0800 (PST)
+From: murli.nagwani@enron.com
+To: andy.zipper@enron.com
+Subject: Introduction - Murli Nagwani
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Murli Nagwani
+X-To: Andy Zipper
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Andy:
+
+You are my PRC Rep this year. I would like to drop by to introduce myself and 
+brief you on my roles and responsibilities. Please let me know what would be 
+a good time for you. I think 15-20 minutes should be enough.
+
+Murli (X-33236)
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <711172.1075851671806.JavaMail.evans@thyme>
+Date: Mon, 4 Dec 2000 07:26:00 -0800 (PST)
+From: simone.rose@enron.com
+To: andy.zipper@enron.com, savita.puthigai@enron.com, rahil.jafry@enron.com
+Subject: Weekly Nymex Converter 11-27 through 12-01
+Cc: jennifer.denny@enron.com, torrey.moorer@enron.com, matt.motsinger@enron.com,
+	peter.berzins@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jennifer.denny@enron.com, torrey.moorer@enron.com, matt.motsinger@enron.com,
+	peter.berzins@enron.com
+X-From: Simone La Rose
+X-To: Andy Zipper, Savita Puthigai, Rahil Jafry
+X-cc: Jennifer deBoisblanc Denny, Torrey Moorer, Matt Motsinger, Peter Berzins
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+If you have any questions, please let me know.
+
+Thanks,
+Simone
+ext 3-1670
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <6686206.1075851672792.JavaMail.evans@thyme>
+Date: Mon, 29 Jan 2001 11:23:00 -0800 (PST)
+From: chris.edmonds@truequote.com
+To: andy.zipper@enron.com
+Subject: RE: FW: Concerns with Status of Enron Integration Testing
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "Chris Edmonds" <chris.edmonds@truequote.com>
+X-To: <Andy.Zipper@enron.com>
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Andy:
+
+Thanks for the quick response.  I will also be traveling later this week,
+however, as always, I will be available by cell.  I will send you any
+additional information from our side should it become available in the
+interim!
+
+Have a safe trip!
+
+Chris
+
+-----Original Message-----
+From: Andy.Zipper@enron.com [mailto:Andy.Zipper@enron.com]
+Sent: Monday, January 29, 2001 7:18 PM
+To: Chris Edmonds
+Subject: Re: FW: Concerns with Status of Enron Integration Testing
+
+
+
+Chris,
+I have asked our team to review the document you sent me and to ascertain
+what the hold up is. One thing that has been made clear to me is that we
+were ready to begin testing a month ago and had to idle a group of folks
+while your development team caught up. This has created a bit of a manpower
+crunch for us but we will fix it. I will respond to you when I know more. I
+am out of the office next two days but available on Thursday and Friday.
+
+Andy
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <8222565.1075851671389.JavaMail.evans@thyme>
+Date: Tue, 28 Nov 2000 03:32:00 -0800 (PST)
+From: bruce.garner@enron.com
+To: andy.zipper@enron.com
+Subject: Re: eMetra posting agreement
+Cc: justin.boyd@enron.com, michael.brown@enron.com, john.sherriff@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: justin.boyd@enron.com, michael.brown@enron.com, john.sherriff@enron.com
+X-From: Bruce Garner
+X-To: Andy Zipper
+X-cc: Justin Boyd, Michael R Brown, John Sherriff
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Andy,
+
+Thanks for taking the time in reading the posting agreement and making 
+comments.  
+
+It is worth remembering that given a choice we would not be entering into 
+this posting agreement.    The historical agreement with MG dictates many of 
+the variances we will see from your other posting agreements.
+
+Given the short time frame here, Justin is in the process of trying to set up 
+a call with Travis and you for later today.  I have tried to address a couple 
+of the points you raise below.
+
+regards
+bruce
+
+
+
+
+
+
+Andy Zipper@ENRON
+11/27/2000 09:49 PM
+To: Justin Boyd/LON/ECT@ECT, Bruce Garner/LON/ECT@ECT
+cc:  
+
+Subject: eMetra posting agreement
+
+I have read and reviewed the Posting Agreement. Let me preface my comments by 
+saying that I'm sure there is stuff in the Posting Agreement that I am 
+missing and I really want Travis McCullough to review it. I'm also curious as 
+to why in certain sections it is faithful to the agreement I sent  and in 
+other places seems to stray or omits things. Anyway here are my comments:
+
+1). Whereas (A). How many eMetra platforms are there ? what does 
+"collectively the Platforms" mean ? The agreement should be specific as to 
+which platforms eMetra can display prices on.  There are two platforms one 
+physical and one financial.  The primary focus of this agreement is on 
+financial platform.
+
+2). Regulatory Event, This language should really mirror the Posting 
+Agreements in place. The language should cover the situation that if any of 
+the events mentioned subject Enron or any of its affiliates to regulation it 
+is a Regulatory Event, even if it does not impact upon the way eMetra 
+conducts its business as contemplated by the agreement.
+
+3). Term 2.2, There is no time limit on the date that eMetra commences LME 
+trading. Given that the language is worded as the later of" this leaves them 
+with all the leverage. It should be the earlier of. This is a big one as they 
+could sit around forever trying to make it work and we are still bound by an 
+agreement that runs 18 months from forever.  I agree with you on this one.  
+Starting the clock now does not work but we should be able to set the clock 
+at 18 months from Ap 30, 2001.
+
+4). Establishment and Maintenance of Interfaces 4.1 We need to agree on who 
+is responsible for what interfaces in this agreement, upfront. These were 
+detailed in the agreement I sent to you. They are to responsible for 
+maintaining the interfaces so we do not want to build them. In general we are 
+responsible for specifying the interfaces and they are responsible for 
+building and operating them. Once again, please refer to the posting 
+agreement that was sent for the exhibits detailing this. 
+
+5). Execution of Transactions 5.1 All parties agree to be bound by Enron's 
+General Terms and Conditions.  We can discuss on the phone call.
+
+6) Execution of Transactions 5.2.3 Please use the exact language from the 
+Posting  Agreement sent. This wording is unclear. There is no time of 
+transacting as there is no transaction unless price and volume are available 
+at time of receipt of proposed transaction.
+
+7). Execution of Transactions General comment: There is no language referring 
+to eMetra taking responsibility for Mapping Errors. This is a big issue. We 
+will not be responsible if they incorrectly display our prices, i.e. 3 mo. 
+Aluminium displayed as 6 mo. Aluminium. Please refer to Posting Agreement for 
+language.  I agree
+
+8). Co-Operation 7.2 and 7.3 I would like to see both of these deleted. We 
+have not given this to anyone else and it seems to be indirect conflict with 
+13. This section pretty much rules out that we market EnronOnline to our 
+customers and I don't see how we can live with it.  I think we would be 
+willing to substitute some form of non-disparagement language in its place.  
+We are balancing a couple of issues here.  Some of this is specific for 
+Emetra.  John Sherriff has been involved in the business issues that have 
+been agreed to.  Not withstanding the support of Emetra, we believe we have 
+the freedom to market EOL and are released from the non-compete.
+
+9). Default and Termination 9.1.1  How is the release from the non-compete 
+tied to breach of this agreement ? There is no link between breach under this 
+agreement and non-compete.
+
+10). Default and Termination 9.1.1 Strike the term material from sentence. 
+All parts of this agreement are material or they wouldn't be in it. Fine
+
+11).  Default and Termination 9.1.4 and Enron Operational Failure. This is 
+too broad. Only the failure of an aspect of the Enron platform that affects 
+participants ability to conduct business with Enron through eMetra is 
+relevant.  Fine 
+
+12). Cost and Expenses. eMetra bears all costs relating to connectivity (i.e. 
+T1's)  between eMetra to the Enron platform. Fine
+
+13). Assignment should read "eMetra's right to display Enron's prices..."  
+Fine
+
+As I said earlier I'm sure there are things I 've left out and strongly 
+suggest that Travis review it before signing.
+
+
+Thanks,
+Andy
+ 
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <31110967.1075851672432.JavaMail.evans@thyme>
+Date: Tue, 9 Jan 2001 08:59:00 -0800 (PST)
+From: chris.edmonds@truequote.com
+To: andy.zipper@enron.com
+Subject: FIRST AMENDMENT TO SECOND AMENDED AND RESTATED OPERATING AGREEMENT
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "Chris Edmonds" <chris.edmonds@truequote.com>
+X-To: "Andy Zipper \(E-mail\)" <andy.zipper@enron.com>
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Andy:
+
+Here is the Amendment to the Posting Agreement stipulating the change for
+the IFCD to the agreed upon date of Friday, February 16, 2001.
+
+Please sign it and fax it back to me at your earliest convenience.
+
+Chris
+
+______________________________
+Christopher S. Edmonds
+Chief Operating Officer
+True Quote LLC
+9931 Corporate Campus Drive
+Suite 2400
+Louisville, KY  40223
+Phone:  800-327-1499
+Direct:   502-212-4903
+email:    chris.edmonds@truequote.com
+
+
+
+
+
+
+
+
+ - POSTINGAGREEMENTAMENDMENT010901revised_.doc
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <7379528.1075851672105.JavaMail.evans@thyme>
+Date: Wed, 13 Dec 2000 18:01:00 -0800 (PST)
+From: raj.mahajan@kiodex.com
+To: lydia.cannon@enron.com, jay.webb@enron.com, drew.ries@enron.com,
+	raj.mahajan@kiodex.com, jay@enron.com
+Subject: RE: Conference Call 12/14
+Cc: andy.zipper@enron.com, mary.weatherstone@enron.com, aaron.kirsten@kiodex.com,
+	mandy.medina@kiodex.com, martin.chavez@kiodex.com,
+	patricia.kao@kiodex.com, joachim.emanuelsson@kiodex.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: andy.zipper@enron.com, mary.weatherstone@enron.com, aaron.kirsten@kiodex.com,
+	mandy.medina@kiodex.com, martin.chavez@kiodex.com,
+	patricia.kao@kiodex.com, joachim.emanuelsson@kiodex.com
+X-From: Raj Mahajan <raj.mahajan@kiodex.com>
+X-To: "'Lydia.Cannon@enron.com'" <Lydia.Cannon@enron.com>, Jay.Webb@enron.com, Drew.Ries@enron.com, Raj Mahajan <raj.mahajan@kiodex.com>, "Jay Fitzgerald (E-mail)" <jay@enron.com>
+X-cc: Andy.Zipper@enron.com, Mary.Weatherstone@enron.com, Aaron Kirsten <aaron.kirsten@kiodex.com>, Mandy Medina <mandy.medina@kiodex.com>, "R. Martin Chavez" <martin.chavez@kiodex.com>, Patricia Kao <patricia.kao@kiodex.com>, Joachim Emanuelsson <joachim.emanuelsson@kiodex.com>
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+All:
+
+For Thursday's Kiodex/Enron conference call, I would like to propose the
+following agenda:
+
+1.  Introductions (5 Minutes)
+2.  Kiodex Overview and relationship history (10 minutes; Martin Chavez)
+3.  Description of Kiodex co-marketing vision for the KRW on EOL (15
+minutes; Mandy Medina)
+4.  EOL co-marketing comments (15 minutes; Andy Zipper)
+5.  Next steps (15 Minutes; All)
+
+Possible next steps:
+
+*EOL sends Kiodex trade data to refine KRW functional specification for the
+first delivery to EOL
+*Kiodex submits document outlining Kiodex co-marketing vision for the KRW on
+EOL
+*Schedule Kiodex business and technology team visit to Houston to meet with
+the appropriate EOL team
+*Kiodex submits to EOL the first round of deal documentation
+
+If anyone has anything to add, please feel free.
+
+Thanks,
+
+Raj Mahajan
+
+
+-----Original Message-----
+From: Lydia.Cannon@enron.com [mailto:Lydia.Cannon@enron.com]
+Sent: Monday, December 11, 2000 12:07 PM
+To: Jay.Webb@enron.com; Drew.Ries@enron.com; Raj.mahajan@Kiodex.com
+Cc: Andy.Zipper@enron.com; Mary.Weatherstone@enron.com
+Subject: Conference Call 12/14
+Importance: High
+
+
+The EOL & Kiodex conference call meeting will be held in EB2711 from 2:00 -
+3:00 PM
+
+The dial in number is:  1-888-273-9893
+
+Please let me know if you are unable to attend.
+
+Lydia
+3-9975
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <2523154.1075851672617.JavaMail.evans@thyme>
+Date: Mon, 22 Jan 2001 07:53:00 -0800 (PST)
+From: fgetman@houstonstreet.com
+To: andy.zipper@enron.com
+Subject: RE: VC contact?
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "Frank Getman, HSE" <fgetman@houstonstreet.com>
+X-To: "'Andy.Zipper@enron.com'" <Andy.Zipper@enron.com>
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+I left a message this afternoon.
+
+-----Original Message-----
+From: Andy.Zipper@enron.com [mailto:Andy.Zipper@enron.com]
+Sent: Monday, January 22, 2001 9:56 AM
+To: Frank Getman, HSE
+Subject: Re: VC contact?
+
+
+
+Please contact Jay Fitzgerald @ 212 702 3934
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <33381722.1075851672837.JavaMail.evans@thyme>
+Date: Fri, 2 Feb 2001 03:57:00 -0800 (PST)
+From: todd.creek@truequote.com
+To: andy.zipper@enron.com
+Subject: True Quote
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "Todd Creek" <todd.creek@truequote.com>
+X-To: "Andy Zipper \(E-mail\)" <andy.zipper@enron.com>
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Andy,
+
+Per your request, I have outlined below the key terms of the most recent
+equity transaction.
+
+On September 8, 2000, PG&E invested $2 million in return for 7,500,000
+shares ($.2667/share).
+Enron's shares outstanding net of clawback equal 7,268,058 * .2667 = $1,
+938,391.
+Total shares outstanding as of 2/1/01 equal 31,440,896.
+
+Please call if you have any questions.
+
+Thanks,
+Todd A. Creek
+p.502-212-4902
+f. 502-212-4907
+todd.creek@truequote.com
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <10286137.1075851672769.JavaMail.evans@thyme>
+Date: Mon, 29 Jan 2001 10:53:00 -0800 (PST)
+From: chris.edmonds@truequote.com
+To: andy.zipper@enron.com
+Subject: FW: Concerns with Status of Enron Integration Testing
+Cc: dennis.crum@truequote.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: dennis.crum@truequote.com
+X-From: "Chris Edmonds" <chris.edmonds@truequote.com>
+X-To: "Andy Zipper \(E-mail\)" <andy.zipper@enron.com>
+X-cc: "Dennis Crum \(E-mail\)" <dennis.crum@truequote.com>
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Andy:
+
+Please review the comments below.  As I stated in our meeting on Friday, I
+have been pushing our team for the February 16th deadline.  Unfortunately,
+there are some issues that have not been resolved and may be putting our
+deadline in jeopardy.  I wanted you to review this summary of the current
+state of affairs and compare it to your team's opinion on the situation.
+Again, this is Maria's view of the situation, which might be totally
+different from your team's perspective.  We do not want the situation to
+become an "us v. them" mentality, so I am taking this opportunity to solicit
+your feedback.  Dennis and I are hoping we can work diligently to make up
+this time and resolve these issues in a joint effort.  We look forward to
+your comments and completing this link once and for all.
+
+Please let me know if I can provide any other input.
+
+Best Regards,
+Chris
+
+-----Original Message-----
+From: O'Neill, Maria [mailto:Maria.O'neill@Enform.com]
+Sent: Monday, January 29, 2001 5:07 PM
+To: Chris Edmonds (E-mail)
+Cc: Dennis Crum (E-mail); Richard Toubia (E-mail); Wayne Crane (E-mail);
+Stewart. Clark (E-mail)
+Subject: Concerns with Status of Enron Integration Testing
+
+
+Chris,
+
+Dennis asked that I send you a note expressing our concern with the delays
+that we have been experiencing with the Enron Integration testing.
+
+We have essentially not made any progress since we began testing "Enron
+Posting Prices to True Quote" on January 17th.  First, the test did not work
+because there was a problem at Enron with price updates not posting
+correctly to their integration server.  This problem was resolved and we
+were asked to repeat the test a week later on January 24th.  This test was
+also unsuccessful because the data we received did not contain any spaces
+between words.  As of today, it has not been determined whether the problem
+is on Enron's side or ours.  We have been continuing to research the problem
+on our side and so far it looks to us like the data is arriving on our
+server without the spaces. Enron's Operations group was planning to do a
+test today to "sniff" the network to determine how the data is actually
+leaving their firewall, but they have had other problems that have prevented
+them from working with us today.  Last Friday they were not able to spend
+any time working with us because they were getting ready for their
+maintenance window.
+
+Our concern is that each time we have encountered a problem, it has taken
+several days to resolve the issue before we can move on to the next series
+of tests.  Understanding that the due date is only 3 weeks away, the True
+Quote team is concerned that Enron is not providing enough resources to work
+the problems immediately and resolve them as quickly as possible.  Part of
+the reason for some of the delay on Enron's side may be that the group that
+is involved in the testing has had to go back to the developer group for
+assistance each time they have encountered a problem (at least that's our
+understanding).  We don't believe that there is anyone in the developer
+group that is dedicated to resolve our problems as soon as one is reported.
+
+The reality of this situation is that we have one project but many different
+disconnected teams working on the project.  As we move forward we would like
+to make the following recommendations to improve the speed of our testing
+activities:
+
+1) Rather than working as two disconnected teams (testing via conference
+call), it would be helpful if we had an Enron person here in our office each
+time we test and communicate back to Enron the results that we are getting.
+That person should be someone that has a direct link back to the developers
+group, the operations group, and the products group.
+
+2) The Enron resource should have as their priority to work with the
+necessary groups within Enron to resolve issues as quickly as possible.
+
+3) The developers group needs to address problems that are reported by the
+testers as quickly as possible.
+
+We welcome any other suggestions that you or Andy have to improve the speed
+of our testing and implementation process.  Please let me know once you've
+had a chance to speak to Andy if there is anything that he can do to provide
+us resources to proceed with our testing more expeditiously.
+
+Regards,
+
+
+Maria F. O'Neill
+Senior Manager, EnFORM Technology
+Enterprise TransFORMation Through Technology
+3 Greenway Plaza, Suite 800
+Houston, TX  77046
+office (713)350-1891
+cell (713)416-3308
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <14830859.1075851671714.JavaMail.evans@thyme>
+Date: Fri, 1 Dec 2000 06:09:00 -0800 (PST)
+From: justin.boyd@enron.com
+To: andy.zipper@enron.com, travis.mccullough@enron.com
+Subject: Price Posting
+Cc: bruce.garner@enron.com, tom.mckeever@enron.com, david.tregar@enron.com,
+	amita.gosalia@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: bruce.garner@enron.com, tom.mckeever@enron.com, david.tregar@enron.com,
+	amita.gosalia@enron.com
+X-From: Justin Boyd
+X-To: Andy Zipper, Travis McCullough
+X-cc: Bruce Garner, Tom McKeever, David P Tregar, Amita Gosalia
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Andy, Travis
+
+Please see below
+
+Thanks.
+Justin
+---------------------- Forwarded by Justin Boyd/LON/ECT on 01/12/2000 14:09 
+---------------------------
+
+
+"Pearey, Nicholas" <nicholas.pearey@linklaters.com> on 01/12/2000 12:20:28
+To: "'goneill@internetcapital.com'" <goneill@internetcapital.com>, 
+"'sduckett@internetcapital.com'" <sduckett@internetcapital.com>, 
+"'peter.sellars@emetra.com'" <peter.sellars@emetra.com>, 
+"'heinz.schimmelbusch@safeguard.com'" <heinz.schimmelbusch@safeguard.com>, 
+"'david.wallis@decherteu.com'" <david.wallis@decherteu.com>, 
+"'jonathan.wood@lovells.com'" <jonathan.wood@lovells.com>, 
+"'KMildwaters@milbank.com'" <KMildwaters@milbank.com>
+cc: "'Justin.Boyd@enron.com'" <Justin.Boyd@enron.com>, 
+"'Bruce.Garner@enron.com'" <Bruce.Garner@enron.com>, "Goodwin, John" 
+<john.goodwin@linklaters.com>, "Tee, Rachel" <rachel.tee@linklaters.com> 
+
+Subject: Price Posting
+
+
+Please find attached a draft of the price posting agreement to be entered
+into between Enron Power Operations Limited and eMetra.
+
+The draft is circulated subject to final approvals being obtained internally
+at Enron. Please address any questions or comments that you may have on this
+agreement to Rachel Tee of Linklaters in the first instance.
+
+Regards
+
+Nick Pearey
+Solicitor
+Linklaters, London
+Tel: (44-20) 7456 3238
+Fax: (44-20) 7456 2286
+nicholas.pearey@linklaters.com
+
+http://www.linklaters.com
+http://www.linklaters-alliance.com
+
+
+
+
+
+
+____________________________________________________________
+
+This message is confidential. It may also be privileged or
+otherwise protected by work product immunity or other legal
+rules. If you have received it by mistake please let us know
+by reply and then delete it from your system; you should not
+copy the message or disclose its contents to anyone.
+____________________________________________________________
+
+ - Price Posting Agreement 1.12.00.doc
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <22180085.1075851672882.JavaMail.evans@thyme>
+Date: Tue, 6 Feb 2001 07:50:00 -0800 (PST)
+From: lydia.cannon@enron.com
+Subject: LONDON - Depart CO # 34 - Houston to London
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lydia Cannon
+X-To: 
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+E-ticket 
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <24321095.1075851672218.JavaMail.evans@thyme>
+Date: Tue, 19 Dec 2000 07:00:00 -0800 (PST)
+From: andy.zipper@enron.com
+Subject: out of office.
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Andy Zipper
+X-To: 
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+angelflight mission
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <3322149.1075851672458.JavaMail.evans@thyme>
+Date: Tue, 6 Mar 2001 02:45:00 -0800 (PST)
+From: lydia.cannon@enron.com
+Subject: Speaker at ISDA Energy and Developing Products
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lydia Cannon
+X-To: 
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Interantion Swaps and Derivatives Associations, Inc. (ISDA)
+Energy and Developing Products Conference
+Tuesday, March 6, 2001
+Four Seasons Hotel
+1300 Lamar Street
+Houston, TX  77010-3098
+
+Contact:  Liz O'Sullivan @ 212-332-1200 - losullivan@isda.org
+Send bio via email.
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <18930543.1075851672595.JavaMail.evans@thyme>
+Date: Mon, 22 Jan 2001 07:52:00 -0800 (PST)
+From: fgetman@houstonstreet.com
+To: andy.zipper@enron.com
+Subject: RE: VC contact?
+Cc: japplegate@houstonstreet.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: japplegate@houstonstreet.com
+X-From: "Frank Getman, HSE" <fgetman@houstonstreet.com>
+X-To: "'Andy.Zipper@enron.com'" <Andy.Zipper@enron.com>
+X-cc: John Applegate <japplegate@houstonstreet.com>
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Andy,
+
+As you might expect in this market environment, valuations are down
+significantly from our last round.  I expect we'll be south of $50mm.  We've
+slashed our expenses so we won't have to take as much $$ at such a low
+valuation.  We only need $5mm to $10mm to get us through to the other side.
+At these prices, I expect certain of our existing shareholders to step up.
+Just as there was a disconnection between underlying fundamentals and
+valuations in the first half of 2000, I feel like there is now a disconnect
+on the downside.  Operationally, we're ahead of plan and looking at
+profitablity in the third quarter, but most VCs are licking their wounds and
+frozen.  They are a bunch of lemmings.  I won't have specific dilution
+figures until we firm up the round.  Obviously, I want to sell as little of
+the company as possible in this market.  I'll keep you posted.
+
+I'm also working on a proposal on the global strategy I mentioned to you and
+Louise in our meeting.  Will have something to share with you in early Feb.
+
+Please keep all this confidential.  I'm headed to Europe later this
+afternoon, but will be back on Wednesday if you want to talk.
+
+Best regards,
+Frank
+
+-----Original Message-----
+From: Andy.Zipper@enron.com [mailto:Andy.Zipper@enron.com]
+Sent: Monday, January 22, 2001 10:49 AM
+To: Frank Getman, HSE
+Subject: RE: VC contact?
+
+
+
+Frank,
+
+For reference, what value does the round of financing you are working on
+place on HoustonStreet and how much dilution do you anticipate ?
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <3375153.1075851672686.JavaMail.evans@thyme>
+Date: Wed, 24 Jan 2001 09:59:00 -0800 (PST)
+From: david.forster@enron.com
+To: andy.zipper@enron.com
+Subject: Re: IPQoD product
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: David Forster
+X-To: Andy Zipper
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+---------------------- Forwarded by David Forster/Corp/Enron on 01/24/2001 
+05:59 PM ---------------------------
+
+
+Naveed Ahmed
+01/24/2001 05:57 PM
+To: David Forster/Corp/Enron@Enron
+cc:  
+
+Subject: Re: IPQoD product
+
+
+---------------------- Forwarded by Naveed Ahmed/NA/Enron on 01/24/2001 05:58 
+PM ---------------------------
+To: Naveed Ahmed/NA/Enron@ENRON
+cc: Paul Racicot/Enron Communications@Enron Communications 
+
+Subject: Re: IPQoD product  
+
+Please proceed with implementing the product to go live.....
+
+Thanks
+
+John D. Suarez
+Enron Broadband Services
+Manager, Global Bandwidth Risk Management
+Phone: (713) 853-5267
+Mobile: (713) 443-5267
+Pager:  (877) 307-9065
+
+<mailto:john_suarez@enron.net>
+
+
+
+
+
+
+	Naveed Ahmed@ENRON
+	01/24/01 05:23 PM
+		
+		 To: John Suarez/Enron Communications@ENRON COMMUNICATIONS
+		 cc: David Forster/Corp/Enron@Enron
+		 Subject: IPQoD product
+
+John,
+
+As per our discussion of this afternoon, I am noting below the points that we 
+have discussed and agreed with respect to IP transport products, which were 
+originally set-up for video taping purpose for the analyst meeting on 24 
+January 2001. 
+
+As per your request, we will set-up the IP transport products in the product 
+manager in such a manner so that they can be traded in the future, which will 
+be some time next week, contingent upon 3 conditions to which you have 
+already agreed.  
+
+1.  The new GTCs and the product descriptions have to conform with  each 
+other (we are in the process of checking this).
+
+2.  For the foreseeable future, the products have to  be displayed on  
+EnronOnline on daily basis (with the exception of holidays) with relevant 
+prices and 
+     must  be made available for trading with  approved counter-parties .
+
+3.  As I mentioned to you over the phone, in essence this is a full scale 
+launch. Therefore, the cost associated with the launch of IP transports 
+products will    
+     be similar to that for  any other standard launch ( about US$ 250,000).  
+Further details on this will be provided to you shortly.  Obviously any cost 
+that your      group has   already incurred for the analyst demo  will be 
+netted off against the total cost of launch.
+
+As I also explained to you that the normal operational  procedure for 
+EnronOnline mandates that any changes with respect to system/database take 
+place over the weekend. However, as you have indicated the necessity and the 
+urgency of giving the reading rights to your counter-parties by Friday, we 
+will endeavour to do so.  However, this will require substantial deployment 
+of additional resources to ensure that we do not compromise the integrity of 
+EnronOnline system while fulfilling your request.
+
+If you have any questions, please let know.
+
+Naveed
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <7299734.1075851671829.JavaMail.evans@thyme>
+Date: Mon, 4 Dec 2000 09:29:00 -0800 (PST)
+From: bob.shults@enron.com
+To: mark.taylor@enron.com
+Subject: Broker Client Margin and Liquidated language
+Cc: debbie.brackett@enron.com, andy.zipper@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: debbie.brackett@enron.com, andy.zipper@enron.com
+X-From: Bob Shults
+X-To: Mark Taylor
+X-cc: Debbie R Brackett, Andy Zipper
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Mark,
+
+Here is a draft for the Fee Agreement language for the margining.  this 
+language should tie with the liquidated damages language that you have for 
+the RTA.  I think that we will need to remove the words or settle from the 
+liquidated damages paragraph.  Brokers do not have settlement risk.
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <26351656.1075851671934.JavaMail.evans@thyme>
+Date: Fri, 8 Dec 2000 09:44:00 -0800 (PST)
+From: justin.boyd@enron.com
+To: goneill@internetcapital.com, peter.sellars@emetra.com
+Subject: Price Posting - New Draft
+Cc: bruce.garner@enron.com, andy.zipper@enron.com, tom.mckeever@enron.com,
+	david.tregar@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: bruce.garner@enron.com, andy.zipper@enron.com, tom.mckeever@enron.com,
+	david.tregar@enron.com
+X-From: Justin Boyd
+X-To: goneill@internetcapital.com, Peter.Sellars@Emetra.com
+X-cc: Bruce Garner, Andy Zipper, Tom McKeever, David P Tregar
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Ged, Peter,
+
+Following further discussions, I attach a new draft of the document.  As 
+before, this is subject to further internal Enron review, and has not been 
+circulated to any other parties.
+
+All new, as well as existing changes to the extent these still apply, are 
+marked.
+
+Thanks.
+Justin 
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <27414286.1075851672640.JavaMail.evans@thyme>
+Date: Wed, 24 Jan 2001 03:49:00 -0800 (PST)
+From: david.forster@enron.com
+To: andy.zipper@enron.com
+Subject: Price Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: David Forster
+X-To: Andy Zipper
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Attached is a Price Schedule, which follows the approximate structure we 
+discussed the other day. As previously mentioned, I aggregated some things 
+where it seemed to make sense to do so.
+
+I have highlighted the Bridge Setup sections. I boosted this level from what 
+we discussed.
+
+Also, I think our Auctions charges are too high. Suggest we drop the 
+per-Auction charge down to $2,000 (cost is less than $1,000).
+
+
+
+Dave
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <22588505.1075851671456.JavaMail.evans@thyme>
+Date: Tue, 28 Nov 2000 06:30:00 -0800 (PST)
+From: david.fisher@enron.com
+To: andy.zipper@enron.com, bob.shults@enron.com, jay.webb@enron.com,
+	michael.guadarrama@enron.com, hal.elrod@enron.com
+Subject: Exchange Linking News Flash
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: David Fisher
+X-To: Andy Zipper, Bob Shults, Jay Webb, Michael Guadarrama, Hal Elrod
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+After a week and a half of silence from Houston Street, I found out today 
+that they have taken over responsibility for their exchange linking 
+development from Sapient.  According to the Houston Street project manager, 
+Sapient was being too cautious and thorough in their efforts to get to market 
+and Houston Street wasn't impressed with their progress to date.  Sapient had 
+as of last week finished the design work for the system and has provided the 
+design to Houston Street.  Houston Street will use their own internal team to 
+complete the project and feels confident they will finish by the 15 January 
+deadline.  
+
+This does not bode well for the exchange that appeared to be light years 
+ahead of TrueQuote in their development efforts.
+
+-David
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <15000289.1075851672548.JavaMail.evans@thyme>
+Date: Fri, 19 Jan 2001 02:05:00 -0800 (PST)
+From: david.forster@enron.com
+To: andy.zipper@enron.com
+Subject: Cost w/Pipelines
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: David Forster
+X-To: Andy Zipper
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Andy,
+
+Attached is a spreadsheet which runs through direct costs of adding Markets 
+to EnronOnline, as discussed yesterday.
+
+There is both art and science in this, along with some generalisations.
+
+Perhaps we can discuss at 11:00?
+
+Thanks,
+
+Dave
+---------------------- Forwarded by David Forster/Corp/Enron on 01/19/2001 
+10:05 AM ---------------------------
+From: Carlos Alatorre on 01/19/2001 09:53 AM
+To: David Forster/Corp/Enron@Enron
+cc:  
+
+Subject: Cost w/Pipelines
+
+Dave,
+Here is the spreadsheet, pls. let me know any questions/comments
+Thx
+Carlos
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <29733827.1075851672741.JavaMail.evans@thyme>
+Date: Fri, 26 Jan 2001 04:51:00 -0800 (PST)
+From: david.forster@enron.com
+To: andy.zipper@enron.com
+Subject: Charge Structure
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: David Forster
+X-To: Andy Zipper
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+As discussed today:
+
+
+
+Dave
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <16105847.1075851672081.JavaMail.evans@thyme>
+Date: Wed, 13 Dec 2000 09:41:00 -0800 (PST)
+From: bob.shults@enron.com
+To: andy.zipper@enron.com, michael.bridges@enron.com
+Subject: Fee Agreement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Bob Shults
+X-To: Andy Zipper, Michael.bridges@enron.com
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+for your review
+---------------------- Forwarded by Bob Shults/HOU/ECT on 12/13/2000 05:39 PM 
+---------------------------
+From: Mark Taylor on 12/13/2000 05:08 PM
+To: Bob Shults/HOU/ECT@ECT
+cc:  
+Subject: Fee Agreement  
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <22300691.1075851671759.JavaMail.evans@thyme>
+Date: Fri, 1 Dec 2000 09:17:00 -0800 (PST)
+From: bob.shults@enron.com
+To: mark.taylor@enron.com
+Subject: Amerex Letter of Intent
+Cc: andy.zipper@enron.com, michael.bridges@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: andy.zipper@enron.com, michael.bridges@enron.com
+X-From: Bob Shults
+X-To: Mark Taylor
+X-cc: Andy Zipper, Michael.bridges@enron.com
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Yesterday we agreed in principal to a broker client transaction with Amerex.  
+the basis of the deal is as follows:
+
+1 year
+$500,000 license fee paid in 12 monthly payments
+25% brokerage reduction for EnronOnline transactions
+EnronOnline transactions may be executed either by clicking or by calling the 
+trader and requesting to trade on the posted price (they have a contractual 
+arrangement with Altra that potentialy precludes clicking, they are trying to 
+negotiate with Altra)
+NA Gas; NA Power; Bandwidth and Crude Products
+
+Attached is my cut at an LOI based upon the Natsource model.  We need to get 
+this out as soon as possible.  Let me know how I can help.
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <1285707.1075851672815.JavaMail.evans@thyme>
+Date: Tue, 30 Jan 2001 08:51:00 -0800 (PST)
+From: david.forster@enron.com
+To: john.suarez@enron.com
+Subject: Charges
+Cc: naveed.ahmed@enron.com, andy.zipper@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: naveed.ahmed@enron.com, andy.zipper@enron.com
+X-From: David Forster
+X-To: John Suarez
+X-cc: Naveed Ahmed, Andy Zipper
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+John,
+
+We are in the process of preparing an invoice for the $250,000 charge for 
+setting up your IP product.
+
+This should be sent to your attention in the next few days. If you would 
+prefer to have it sent elsewhere within EBS, please let us know.
+
+Thanks,
+
+Dave
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <792874.1075851672480.JavaMail.evans@thyme>
+Date: Tue, 23 Jan 2001 03:00:00 -0800 (PST)
+From: lydia.cannon@enron.com
+Subject: EB2711:  Mtg.w/Tim Detmering
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lydia Cannon
+X-To: 
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Susan Fallon ext. 5-8431
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <29924631.1075851671501.JavaMail.evans@thyme>
+Date: Wed, 29 Nov 2000 04:10:00 -0800 (PST)
+From: amita.gosalia@enron.com
+To: andy.zipper@enron.com
+Subject: Re: Price Posting Agreement and Side Letter for Review - eMetra
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Amita Gosalia
+X-To: Andy Zipper
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+fyi only - understand that you and Bruce have discussed many of the points 
+below with Justin already.
+---------------------- Forwarded by Amita Gosalia/LON/ECT on 29/11/2000 12:12 
+---------------------------
+
+
+Amita Gosalia
+29/11/2000 11:08
+To: Justin Boyd/LON/ECT@ECT
+cc:  
+
+Subject: Re: Price Posting Agreement and Side Letter for Review - eMetra  
+
+Hi J
+
+These are my initial comments and have not spoken to Andy about them.  Andy 
+has sent his comments to you already.
+
+Comments re Price Posting Agreement:
+
+ Enron should retain for itself the ability to choose which counterparties 
+can trade on its prices - the physical platform will be open to more than the 
+LME  members.
+ Schedule A - do the phys metals guys intend to post prices for all the 
+metals in Schedule A?  Currently we only post phys aluminium and copper on   
+EnronOnline.
+ Clause 4 - need to decide now who is responsible for building the 
+interface.  Would prefer them to build.
+ Clause 4.1 - the mutually agreeable protocol to be developed and implemented 
+prior to Interface Completion Date.
+ Clause 5.1 - how does this work vis a vis our GTCs - especially for the 
+physical platform?
+ Clause 9.1.1 - date for physical platform to be 31 March 2001.
+ Clause 10 - confidentiality for specified period?
+ Clause 12, Line 5 - have some extra words "...theory of liability ..."
+ Clause 18 - need to refer to both eMetra platforms.
+
+Comments re the Price Posting Agreement - Side Letter:
+
+ What is eMetra's fee structure for both platforms?
+ eMetra not to waive or change fee structure without notice to and consent of 
+Enron.
+ Itemised breakdown of fee income to include all participants.
+
+Justin - we also need to deal with the indicative price feed that our 
+technology guys are currently working on - can we include in this agreement?
+
+Regards
+
+A
+ 
+
+
+
+Justin Boyd
+23/11/2000 20:04
+To: Bruce Garner/LON/ECT@ECT, Amita Gosalia/LON/ECT@ECT, Andy 
+Zipper/Corp/Enron@Enron
+cc:  
+
+Subject: Price Posting Agreement and Side Letter for Review - eMetra
+
+I attach (very much) first drafts for your comments - thanks.  In the 
+interests of reaching speedy commercial settlement, I have made the docs as 
+short and simple as possible.
+
+Justin
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <16502026.1075851672860.JavaMail.evans@thyme>
+Date: Fri, 2 Feb 2001 04:34:00 -0800 (PST)
+From: todd.creek@truequote.com
+To: andy.zipper@enron.com
+Subject: True Quote - Equity Bridge
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "Todd Creek" <todd.creek@truequote.com>
+X-To: "Andy Zipper \(E-mail\)" <andy.zipper@enron.com>
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Andy,
+
+As a follow-up to our phone conversation, True Quote is in the process of
+obtaining an equity bridge in the range of $1 to $2 million.  True Quote's
+current cash position is tight and we need to complete this process within
+the next two/three weeks.    Due to the current state of the capital
+markets, management feels it is prudent to solicit a small bridge amount.
+Once "traction" (EOL link complete, TQTS deal complete, etc..) is obtained,
+we will continue to solicit larger equity investments from strategic
+partners and the investment community.
+
+I would be glad to discuss the current state of affairs in more detail and
+provide the appropriate information if you are interested in pursuing this
+opportunity.
+
+Regards,
+Todd A. Creek
+p.502-212-4902
+f. 502-212-4907
+todd.creek@truequote.com
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <16982752.1075851671547.JavaMail.evans@thyme>
+Date: Wed, 29 Nov 2000 12:08:00 -0800 (PST)
+From: justin.boyd@enron.com
+To: andy.zipper@enron.com, travis.mccullough@enron.com
+Subject: Re: eMetra posting agreement
+Cc: bruce.garner@enron.com, amita.gosalia@enron.com, david.tregar@enron.com,
+	tom.mckeever@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: bruce.garner@enron.com, amita.gosalia@enron.com, david.tregar@enron.com,
+	tom.mckeever@enron.com
+X-From: Justin Boyd
+X-To: Andy Zipper, Travis McCullough
+X-cc: Bruce Garner, Amita Gosalia, David P Tregar, Tom McKeever
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Andy, Travis
+
+Following our call last night, I attach a re-draft of the Posting Agreement, 
+marked to show the changes.
+
+Look forward to your response, in particular relating to the identification 
+of the relevant Interfaces and the respective responsibilities of the parties.
+
+Thanks
+
+Justin
+
+
+
+
+
+
+
+
+
+Andy Zipper@ENRON
+28/11/2000 22:50
+To: Bruce Garner/LON/ECT@ECT, Justin Boyd/LON/ECT@ECT
+cc:  
+
+Subject: eMetra posting agreement
+
+Upon further reflection I think we need to revisit the issue of specifying 
+the interfaces. Given that EnronOnline will be implementing and operating 
+this agreement leaving the interface specifications up in the air is asking 
+for a lot of work/trouble next year. They are fairly generic and 
+straightfoward and should not create a delay. They really are an integral 
+partof the posting agreement. If you would like to discuss I am available 
+tomorrow, give me a ring
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <15115717.1075851671572.JavaMail.evans@thyme>
+Date: Wed, 29 Nov 2000 06:27:00 -0800 (PST)
+From: drew.ries@enron.com
+To: greg.whalley@enron.com, louise.kitchen@enron.com
+Subject: Final Kiodex LOI
+Cc: jay.fitzgerald@enron.com, andy.zipper@enron.com, michael.patrick@enron.com,
+	travis.mccullough@enron.com, jeffrey.hodge@enron.com,
+	david.leboe@enron.com, roger.ondreko@enron.com,
+	drew.kanellopoulos@enron.com, jordan.mintz@enron.com,
+	jeff.blumenthal@enron.com, jerry.seade@enron.com,
+	david.gorte@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jay.fitzgerald@enron.com, andy.zipper@enron.com, michael.patrick@enron.com,
+	travis.mccullough@enron.com, jeffrey.hodge@enron.com,
+	david.leboe@enron.com, roger.ondreko@enron.com,
+	drew.kanellopoulos@enron.com, jordan.mintz@enron.com,
+	jeff.blumenthal@enron.com, jerry.seade@enron.com,
+	david.gorte@enron.com
+X-From: Drew Ries
+X-To: Greg Whalley, Louise Kitchen
+X-cc: Jay Fitzgerald, Andy Zipper, Michael K Patrick, Travis McCullough, Jeffrey T Hodge, David Leboe, Roger Ondreko, Drew Kanellopoulos, Jordan Mintz, Jeff Blumenthal, Jerry Seade, David Gorte
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+As many of you are aware, over the last few weeks the Kiodex transaction has 
+changed such that it no longer includes the sale of EnergyDesk.   The new 
+transaction structure is limited to the Kiodex/EOL Strategic Relationship and 
+performance warrants.  Attached is the final version of the non-binding 
+Kiodex LOI which was signed November 21, 2000.  Our goal is to finalize the 
+documents and close by year end.  If anyone has any questions or comments 
+please feel free to give me a call at the numbers listed below.  Thank you.
+
+Drew Ries
+Manager, e-Commerce Ventures
+Enron Net Works
+1400 Smith Street, EB2735a
+Houston, TX  77002
+
+(713) 345-6075 (work)
+(713) 569-6131 (mobile)
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <19221648.1075851672713.JavaMail.evans@thyme>
+Date: Fri, 26 Jan 2001 01:00:00 -0800 (PST)
+From: lydia.cannon@enron.com
+Subject: EB3082: Mtg w/Gary Hickerson (MD Trading)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lydia Cannon
+X-To: 
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Judy xt. 30655
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <10163740.1075851671479.JavaMail.evans@thyme>
+Date: Tue, 28 Nov 2000 08:59:00 -0800 (PST)
+From: justin.rostant@enron.com
+To: andy.zipper@enron.com, david.forster@enron.com, dave.samuels@enron.com
+Subject: Daily Trade Count
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Justin Rostant
+X-To: Andy Zipper, David Forster, Dave Samuels
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Attached is the trade count for Nov 28, 2000 sorted by Country, Commodity and 
+Category.
+If you have any questions call me at 3-6460
+Regards
+jr
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <13212115.1075851671899.JavaMail.evans@thyme>
+Date: Thu, 7 Dec 2000 14:55:00 -0800 (PST)
+From: bob.hillier@enron.com
+To: andy.zipper@enron.com
+Subject: FW: Tradespark Requirements
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Bob Hillier
+X-To: Andy Zipper
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Andy, do we have any intention of doing any integration with Tradespark at 
+this time?  If we do I will get more involved in this otherwise we will just 
+let the infrastructure team continue to run with this.
+
+Let me know,
+bbh
+
+ -----Original Message-----
+From:  Bob McAuliffe  
+Sent: Tuesday, December 05, 2000 1:50 PM
+To: Bob Hillier
+Subject: FW: Tradespark Requirements
+
+I need to have another discussion about this with you . . . we need an 
+application group to work on this, because there is quite a bit of 
+application analysis that needs to be done.
+
+I found out that from an infrastructure perspective, this is much more than 
+just a remote connection.  It involves an application implemented in our 
+environment, and applications deployed to the desktop.  Is this something the 
+e-commerce team needs to be involved in (I don't think it is), but probably 
+more like Beth Perlman's team.
+
+Bob.
+
+ -----Original Message-----
+From:  "Matricciano, Marcello" <MMatricciano@espeed.com>@ENRON 
+[mailto:IMCEANOTES-+22Matricciano+2C+20Marcello+22+20+3CMMatricciano+40espeed+
+2Ecom+3E+40ENRON@ENRON.com] 
+Sent: Wednesday, November 29, 2000 11:12 AM
+To: McAuliffe, Bob
+Subject: FW: Tradespark Requirements
+
+Correction to previous e-mail:
+ The equipment we would send to Enron would comprise of 2 Cisco 2600
+Routers (1 for each circuit), 2 Cisco Hubs, 2 Sun Ultra 5s with 2 NIC cards
+each. Each Sun would connect to its own hub and router for redundancy and
+load balancing purposes.
+Sorry for the confusion.
+
+Marcello
+
+> -----Original Message-----
+> From: Matricciano, Marcello
+> Sent: Wednesday, November 29, 2000 11:49 AM
+> To: 'Bob McAuliffe'
+> Subject: Tradespark Requirements
+>
+> Bob,
+>  At this present time TradeSpark intends on order 2 diverse 128K
+> dedicated digital Fractional T-1 circuits (1 from Westcomm, 1 from Cable &
+> Wireless). These circuits would terminate at a specific location within
+> your Comms Room. From there we would request to have the circuits extended
+> as to where our equipment would live. The standard equipment used in a
+> TradeSpark installation are as follows: 1) one Cisco 2600 Router, 2) one
+> Cisco 16 port Manageable Hub, 3) one Sun Ultra 5 with 2 interfaces: one
+> for us, one for your network. The Sun Ultra 5 does not come with a monitor
+> so the space requirements for this installation are minimal. The 2
+> circuits would connect directly into the WIC cards on the router. No
+> modems are required.
+>  Once the equipment is installed and tested we can begin the process
+> of connecting from your network. All we need from Enron is a network IP
+> address to configure onto the 2nd interface on the Sun box. All
+> interfacing is done via this interface. If there is a firewall between our
+> box and your network, our application requires TCP/IP bi-directional
+> ports 8000 and 9000 to be opened. Please feel free to call me @ (212)
+> 938-4726 if you have any further questions and/or issues.
+>
+>
+> Marcello Matricciano
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <25769826.1075851671621.JavaMail.evans@thyme>
+Date: Wed, 29 Nov 2000 14:04:00 -0800 (PST)
+From: travis.mccullough@enron.com
+To: eksasson@swidlaw.com
+Subject: Re: eSpeed/Enron Subscription Documents
+Cc: afried@cantor.com, andy.zipper@enron.com, awills@velaw.com,
+	chriscollins@velaw.com, hwaizer@cantor.com, jgoldflam@cantor.com,
+	juman@espeed.com, ragoldberg@swidlaw.com, smerkel@espeed.com,
+	travis.mccullough@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: afried@cantor.com, andy.zipper@enron.com, awills@velaw.com,
+	chriscollins@velaw.com, hwaizer@cantor.com, jgoldflam@cantor.com,
+	juman@espeed.com, ragoldberg@swidlaw.com, smerkel@espeed.com,
+	travis.mccullough@enron.com
+X-From: Travis McCullough
+X-To: "Sasson, Esther" <EKSasson@SWIDLAW.com>@ENRON
+X-cc: "Arlene Fried (E-mail)" <afried@cantor.com>, "Andy Zipper (E-mail)" <andy.zipper@enron.com>, "Anthony C. Wills (E-mail)" <awills@velaw.com>, "Christopher Collins (E-mail)" <chriscollins@velaw.com>, "Harry Waizer (E-mail)" <hwaizer@cantor.com>, "Jeff Goldflam (E-mail)" <jgoldflam@cantor.com>, "Jonathan Uman (E-mail)" <juman@espeed.com>, "Goldberg, Richard" <RAGoldberg@SWIDLAW.com>, "Stephen M. Merkel (E-mail)" <smerkel@espeed.com>, "Travis McCullough (E-mail)" <travis.mccullough@enron.com>
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Attached is a draft of the body of a Consent Agreement that we would like to 
+obtain from eSpeed at the closing to enter into what we have referred to as 
+the "Project Raptor" transactions.  Please let me know if you have any 
+comments or questions regarding the attached.
+
+
+
+Ted Stockbridge has forward to us a revised draft of the Exclusivity 
+Agreement with our collective comments.  We should be able to send that to 
+you tomorrow after Andy has reviewed that markup.  I believe Chris or Anthony 
+have discussed our remaining comments to the equity documents with Richard. 
+
+
+
+Travis McCullough
+Enron North America Corp.
+1400 Smith Street EB 3817
+Houston Texas 77002
+Phone:  (713) 853-1575
+Fax: (713) 646-3490      
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <9267084.1075851671595.JavaMail.evans@thyme>
+Date: Wed, 29 Nov 2000 11:34:00 -0800 (PST)
+From: travis.mccullough@enron.com
+To: andy.zipper@enron.com
+Subject: Redraft of the Exclusivity Agreement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Travis McCullough
+X-To: Andy Zipper
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Heard the Skilling meeting was postponed.  Here's the redraft of the 
+Exclusivity; I'm sending a draft of the consent to Raptor transactions down 
+shortly.
+
+Travis McCullough
+Enron North America Corp.
+1400 Smith Street EB 3817
+Houston Texas 77002
+Phone:  (713) 853-1575
+Fax: (713) 646-3490      
+----- Forwarded by Travis McCullough/HOU/ECT on 11/29/2000 07:34 PM -----
+
+	"Stockbridge, Edward T" <tstockbridge@velaw.com>
+	11/29/2000 03:56 PM
+		 
+		 To: "McCullough, Travis (Enron)" <travis.mccullough@enron.com>
+		 cc: "Collins, Christopher" <chriscollins@velaw.com>, "Wills, Anthony" 
+<awills@velaw.com>
+		 Subject: Redraft of the Exclusivity Agreement
+
+
+
+
+Travis:
+
+ Please find attached a clean and redline version of the revised
+Exclusivity Agreement, with the changes that we discussed.  The redline
+shows changes from the draft submitted to us by eSpeed.
+
+ Per our earlier conversation, you said that Andy was still thinking
+about one open point, namely: Whether the definition of the Enron Platform
+should be modified to anticipate some changes that may occur.  Specifically
+I suggested that the requirement that the Enron Platform be "operated" by an
+Enron Party be deleted, and leaving only the limitation of ownership.
+
+ I have given Anthony comments on the series designation.  He will be
+making other changes to the designation and will forward it to you directly.
+
+ Please let me know if you have any questions or comments, or if I
+can be of any further assistance.
+
+ Best regards,
+
+ Ted
+          ++++++CONFIDENTIALITY NOTICE+++++
+The information in this email may be confidential and/or privileged.  This
+email is intended to be reviewed by only the individual or organization
+named above.  If you are not the intended recipient or an authorized
+representative of the intended recipient, you are hereby notified that any
+review, dissemination or copying of this email and its attachments, if any,
+or the information contained herein is prohibited.  If you have received
+this email in error, please immediately notify the sender by return email
+and delete this email from your system.  Thank You
+ <<Nov 29 Exclusivity Agreement [by VE].DOC>>   <<Redline.rtf>>
+
+ - Nov 29 Exclusivity Agreement [by VE].DOC
+ - Redline.rtf
+
+From MAILER-DAEMON Mon Apr 18 14:21:46 2022
+Message-ID: <33399600.1075851672526.JavaMail.evans@thyme>
+Date: Fri, 19 Jan 2001 01:22:00 -0800 (PST)
+From: david.forster@enron.com
+To: andy.zipper@enron.com
+Subject: Charges to Date
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: David Forster
+X-To: Andy Zipper
+X-cc: 
+X-bcc: 
+X-Folder: \Andrew_Zipper_Nov2001\Notes Folders\All documents
+X-Origin: ZIPPER-A
+X-FileName: azipper.nsf
+
+Andy,
+
+Attached is a spreadsheet showing the charges which we have discussed/agreed 
+with external parties to date.
+
+
+
+Dave
+

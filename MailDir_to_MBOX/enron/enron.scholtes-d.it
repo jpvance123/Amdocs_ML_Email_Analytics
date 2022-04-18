@@ -1,0 +1,554 @@
+From MAILER-DAEMON Mon Apr 18 14:20:55 2022
+Message-ID: <9423995.1075840021644.JavaMail.evans@thyme>
+Date: Thu, 3 Jan 2002 11:55:24 -0800 (PST)
+From: will.smith@enron.com
+To: diana.scholtes@enron.com
+Subject: RE: Auto Scheduler
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Smith, Will </O=ENRON/OU=NA/CN=RECIPIENTS/CN=WSMITH>
+X-To: Scholtes, Diana </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dscholt>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Scholtes, Diana\IT
+X-Origin: SCHOLTES-D
+X-FileName: 
+
+For the West:
+
+Schedule:	12/14/2001 - 12/28/2001
+Analysis:	4/2/1996 - 12/13/2001
+
+Regards,
+Will
+
+ -----Original Message-----
+From: 	Scholtes, Diana  
+Sent:	Thursday, January 03, 2002 9:16 AM
+To:	Smith, Will
+Subject:	Auto Scheduler
+
+Will,
+
+Can you tell me what day was the last to be rolled in Auto Scheduler?  I'm trying to go back into December to balance Enpower for Settlement purposes.  
+
+Thank you,
+
+Diana Scholtes
+503-464-3807
+
+From MAILER-DAEMON Mon Apr 18 14:20:55 2022
+Message-ID: <9732201.1075840021740.JavaMail.evans@thyme>
+Date: Tue, 2 Oct 2001 18:01:41 -0700 (PDT)
+From: susan.amador@enron.com
+To: tim.belden@enron.com, sean.crandall@enron.com, david.poston@enron.com,
+	steve.nat@enron.com
+Subject: RE: Weird Deal Change Yesterday *********CRITICAL - PLEASE
+ INVESTIGATE ********************
+Cc: diana.scholtes@enron.com, chris.mallory@enron.com, phillip.platter@enron.com,
+	serena.bishop@enron.com, duong.luu@enron.com, will.smith@enron.com,
+	william.crooks@enron.com, pete.davis@enron.com,
+	matt.burleigh@enron.com, lei.chen@enron.com, charles.dial@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Bcc: diana.scholtes@enron.com, chris.mallory@enron.com, phillip.platter@enron.com,
+	serena.bishop@enron.com, duong.luu@enron.com, will.smith@enron.com,
+	william.crooks@enron.com, pete.davis@enron.com,
+	matt.burleigh@enron.com, lei.chen@enron.com, charles.dial@enron.com
+X-From: Amador, Susan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SAMADOR>
+X-To: Belden, Tim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tbelden>, Crandall, Sean </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Scranda>, Poston, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dposton2>, Nat, Steve </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Snat>
+X-cc: Scholtes, Diana </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dscholt>, Mallory, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cmallor>, Platter, Phillip </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pplatte>, Bishop, Serena </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sbishop3>, Luu, Duong </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dluu>, Smith, Will </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Wsmith>, Crooks, William </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Wcrooks>, Davis, Pete </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pdavis1>, Burleigh, Matt </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mburlei>, Chen, Lei </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lchen3>, Dial, Charles </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cdial>
+X-bcc: 
+X-Folder: \ExMerge - Scholtes, Diana\IT
+X-Origin: SCHOLTES-D
+X-FileName: 
+
+All,
+
+This morning, I spoke with Chris Mallory, Phil Platter, Diana Scholtes, and=
+ Serena Bishop about the deal change mentioned below.  I want to make sure =
+everyone is on the same page regarding how the deal change occured and the =
+changes we are making to prevent it from happening again.  Since FSP and En=
+Power are fully integrated systems, EnPower can add and edit FSP data and F=
+SP can add and edit EnPower data.  Presently, when a new schedule is create=
+d in FSP Schedule Blotter, the new schedule, related deal, and FSP extensio=
+n data are created.  When a schedule is edited in FSP Schedule Blotter, the=
+ related deal information is synchronized to match those changes.  Yesterda=
+y, during the FSP production parallel, a schedule was zeroed out and the re=
+sulting deal synchronization caused the "wierd deal change".  FSP is being =
+changed to no longer synchronize deal information of existing deal to match=
+ schedule changes made in FSP Schedule Blotter.  No editing of existing dea=
+l information (peer, leg or term) will be allowed via the FSP Schedule Blot=
+ter.  We have also been asked to review how FSP changes are reflected in th=
+e audit tables to make sure they are reflected like the changes from other =
+EnPower applications.
+
+Susan Amador
+503.464.8681
+
+
+
+
+ -----Original Message-----
+From: =09Belden, Tim =20
+Sent:=09Tuesday, October 02, 2001 9:57 AM
+To:=09Nat, Steve; White, Stacey W.; Poston, David; Postlethwaite, John
+Cc:=09Crandall, Sean; Scholtes, Diana
+Subject:=09Weird Deal Change Yesterday
+
+Something strange happened in Enpower yesterday.  A deal from the STNW book=
+ was changed and we aren't sure why.  It appears that some strips from a $1=
+80 sale in NP15 were erased.  Our theory is that something happened between=
+ FSP and Enpower that erased these strips.  Of course, we don't know what h=
+appened, which is why I am contacting you.  This is really scary if our sys=
+tems are changing deals.  The only reason that we noticed was because of a =
+huge P&L hit to the STNW book.  If the price of the deal had been closer to=
+ current market we wouldn't have noticed.  Please look into this and let th=
+e trading team know what happened.
+
+From MAILER-DAEMON Mon Apr 18 14:20:55 2022
+Message-ID: <25798515.1075840021572.JavaMail.evans@thyme>
+Date: Fri, 11 Jan 2002 20:03:53 -0800 (PST)
+From: david.forster@enron.com
+To: orig.dl-eol@enron.com
+Subject: NetcoOnline Launch Plans
+Cc: jennifer.denny@enron.com, teresa.mandola@enron.com, kara.boudreau@enron.com,
+	jennifer.mcquade@enron.com, kal.shah@enron.com,
+	daniel.diamond@enron.com, bob.shults@enron.com,
+	louise.kitchen@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jennifer.denny@enron.com, teresa.mandola@enron.com, kara.boudreau@enron.com,
+	jennifer.mcquade@enron.com, kal.shah@enron.com,
+	daniel.diamond@enron.com, bob.shults@enron.com,
+	louise.kitchen@enron.com
+X-From: Forster, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DFORSTER>
+X-To: DL-EOL NA Traders & Orig </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DL-EOLNATraders&Orig>
+X-cc: Denny, Jennifer </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jdenny>, Mandola, Teresa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tmandola>, Boudreau, Kara </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Klauer>, Mcquade, Jennifer </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmcquad2>, Shah, Kal </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kshah>, Diamond, Daniel </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ddiamon>, Shults, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rshults>, Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkitchen>
+X-bcc: 
+X-Folder: \ExMerge - Scholtes, Diana\IT
+X-Origin: SCHOLTES-D
+X-FileName: 
+
+
+We are getting ready for the launch of "NetcoOnline" and have been preparing new documentation, a refreshed site design and cleaned products to reflect our Gas and Power focus.
+
+The following timetable could change, but the general sequence should apply in any case:
+
+Week of Jan 14:
+
+Upon approval by the new buyer of the PA and ETA formats, we will contact the Master Users at our Top 50 customers and send them copies of the final PA and ETA forms with our new buyer's name filled in. During this week, we will be working hard to get as many of the PA's returned as possible. Once we have an approved PA, we can send the customer their new User ID, which will allow them to start trading on the day we launch "NetCoOnline".
+
+A Splash page will be available within two business days of knowing our new company name, on a web page reached via an automatic redirect from www.enrononline.com. This page will tell customers about the pending launch of "NetCoOnline" and provide links to the PA and Registration screens and also to the User Admin screens, which will allow customer Master Users to start setting up their Sub users.
+
+The Splash page will look something like the following:
+
+ 
+
+
+A Press Release will be issued which will include the planned launch date of "NetcoOnline"
+
+Week of Jan. 21:
+
+If all goes well, "NetcoOnline" will be launched on Tuesday, January 22, with at least financial products (timing for gas physical and power physical to be determined according to regulatory issues).
+
+We will send out a mass mailing to approx. 3,000 individuals at 450 companies inviting them to sign up for NetcoOnline. Included in the package will be a simple brochure, copies of the PA and ETA, key messages and a list of Frequently Asked Questions.
+
+General Terms and Conditions (GTC's) will be available online and must be accepted online before a company can start to trade a particular commodity.
+		
+
+Trading/Origination Coordination
+
+Certain individuals in the Trading and Origination groups will be contacting customers on our Top 50 list to introduce the new company and begin the process of getting signed PA's. The NetcoOnline marketing team will work with Trading and Origination groups to make sure that all Master Users that previously had EnronOnline North American Gas and Power execution rights are contacted within one week of the PA and ETA being approved by the new buyer.  NetcoOnline Marketing will follow up with the Master Users to make sure PA's are signed and returned.
+
+
+NetcoOnline Marketing Contacts:
+
+For Marketing-specific questions, please use the following contacts. For other questions, please contact Bob Shults (30397) or Dave Forster (31861).		
+
+Teresa Mandola (39807) - Power
+Kara Boudreau (30570) - Gas
+Jennifer McQuade (53614) - Power
+Dan Diamond (39673) - Gas
+
+
+Definitions:
+	
+Password Application (PA) - Only document where a physical signature is required  by an authorized person (Master User)
+
+Electronic Trading Agreement (ETA) - Must be accepted online by the Master User before they can proceed into NetcoOnline
+
+Master User - Typically the company authorized signatory that signed the Password Application. Establishes transaction rights for each trader (sub-users)
+
+Sub-User - Trader, assigned either execute or read only status 
+
+General Terms & Conditions (GTC) - Document that governs online trades unless a Master Agreement is in place
+
+Master Agreement - Document that governs online and offline trades and supersedes the GTC
+
+
+
+
+
+<Embedded Paintbrush Picture>
+
+From MAILER-DAEMON Mon Apr 18 14:20:55 2022
+Message-ID: <11737724.1075840021620.JavaMail.evans@thyme>
+Date: Wed, 9 Jan 2002 18:32:17 -0800 (PST)
+From: will.smith@enron.com
+To: diana.scholtes@enron.com
+Subject: RE: Auto Scheduler
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Smith, Will </O=ENRON/OU=NA/CN=RECIPIENTS/CN=WSMITH>
+X-To: Scholtes, Diana </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dscholt>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Scholtes, Diana\IT
+X-Origin: SCHOLTES-D
+X-FileName: 
+
+Diana,
+
+I need to leave for today.  I will look into this first thing tomorrow morning.  If it is more urgent give me a call at 713-417-4679 or contact Duong Luu or Bill Crooks.
+
+Regards,
+Will
+
+ -----Original Message-----
+From: 	Scholtes, Diana  
+Sent:	Wednesday, January 09, 2002 4:21 PM
+To:	Smith, Will
+Subject:	RE: Auto Scheduler
+
+Hey Will!
+
+Remeber us dicussing deals showing up in Real-Time Position manager that are the EPMI-West-Bank.  Can you remove these from this view?
+
+thanks,
+
+Diana
+
+ -----Original Message-----
+From: 	Smith, Will  
+Sent:	Thursday, January 03, 2002 7:55 AM
+To:	Scholtes, Diana
+Subject:	RE: Auto Scheduler
+
+For the West:
+
+Schedule:	12/14/2001 - 12/28/2001
+Analysis:	4/2/1996 - 12/13/2001
+
+Regards,
+Will
+
+ -----Original Message-----
+From: 	Scholtes, Diana  
+Sent:	Thursday, January 03, 2002 9:16 AM
+To:	Smith, Will
+Subject:	Auto Scheduler
+
+Will,
+
+Can you tell me what day was the last to be rolled in Auto Scheduler?  I'm trying to go back into December to balance Enpower for Settlement purposes.  
+
+Thank you,
+
+Diana Scholtes
+503-464-3807
+
+From MAILER-DAEMON Mon Apr 18 14:20:55 2022
+Message-ID: <5283320.1075840021595.JavaMail.evans@thyme>
+Date: Fri, 11 Jan 2002 14:51:18 -0800 (PST)
+From: will.smith@enron.com
+To: diana.scholtes@enron.com
+Subject: Real Time Position Manager
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Smith, Will </O=ENRON/OU=NA/CN=RECIPIENTS/CN=WSMITH>
+X-To: Scholtes, Diana </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dscholt>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Scholtes, Diana\IT
+X-Origin: SCHOLTES-D
+X-FileName: 
+
+Diana,
+
+I have release a new version of Real Time to Estate Stage.  In the bottom left hand corner you can now select the portfolios which you want to see.  Please take a look at it and let me know how it goes.
+
+Regards,
+Will
+
+From MAILER-DAEMON Mon Apr 18 14:20:55 2022
+Message-ID: <12170776.1075840021667.JavaMail.evans@thyme>
+Date: Thu, 3 Jan 2002 09:33:00 -0800 (PST)
+From: david.poston@enron.com
+To: diana.scholtes@enron.com
+Subject: RE: Questions about changes for the Chapter11.exe
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Poston, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DPOSTON2>
+X-To: Scholtes, Diana </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dscholt>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Scholtes, Diana\IT
+X-Origin: SCHOLTES-D
+X-FileName: 
+
+Thanks Diana.  Your enhancements completely make sense.  Please let me know, after you talk to John, if you want the change implemented.
+
+Thanks,  Poston
+
+
+
+ -----Original Message-----
+From: 	Scholtes, Diana  
+Sent:	Wednesday, January 02, 2002 6:35 PM
+To:	Poston, David
+Subject:	RE: Questions about changes for the Chapter11.exe
+
+What we are looking at is cleaning up for December.  So the schedule strips have already been created.  For settlement purposes, we have to go in and clean house.  So it wouldn't help to change the deal in Deal Entry and  I'm not even sure that we can do it anyway because of deal preservation.  So we are looking at a time strip for example Dec 8-31 to zero out "Counter party".  
+
+I will be talking to John tomorrow morning to find out more about the West Bankruptcy book.  Don't know anything about it.
+
+Thanks again,
+
+Diana
+
+ -----Original Message-----
+From: 	Poston, David  
+Sent:	Wednesday, January 02, 2002 3:36 PM
+To:	Scholtes, Diana
+Subject:	Questions about changes for the Chapter11.exe
+
+Good Afternoon Diana,
+
+Did I capture your question correctly?
+
+The users want to update the chapter11.exe program, that was developed to 'zero-out' schedule strip volumes for a given counterparty for a given day, to allow the users to zero-out the volume for a range of days?
+
+
+IT Questions
+1.  Schedule strips only get created for deals 2 days before day of flow.  So, based on the current design, the date range, at least looking forward, would only be a couple of days.
+- Option 1:  Maybe, instead of zeroing out schedules, we should adjust the dates on the deal.  This would prevent schedule strips from even being created after a certain date?
+
+2.  Working with John Postlethwaite & Stacey White, Will Smith has a program that converts deals from the real Enron books to a newly created West Bankruptcy book.  Will this work for you guys?
+
+Anyway, just give me a call when you get a chance.
+
+Thanks,  David Poston
+713-345-7834
+
+From MAILER-DAEMON Mon Apr 18 14:20:55 2022
+Message-ID: <14664546.1075840021715.JavaMail.evans@thyme>
+Date: Wed, 10 Oct 2001 23:56:20 -0700 (PDT)
+From: 40enron@enron.com
+Subject: Workstation Upgrade
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: DL-Technology Architecture@ENRON <IMCEANOTES-DL-Technology+20Architecture+40ENRON@ENRON.com>
+X-To: All Enron Houston@ENRON
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Scholtes, Diana\IT
+X-Origin: SCHOLTES-D
+X-FileName: 
+
+
+What:	Workstation upgrade for security enhancements and standardization efforts
+When:	Schedule as below
+How:	Small updates will be performed at login; other larger updates can be performed at your convenience.
+
+
+This message box will be presented at the end of the upgrade process and provides important information for the larger updates.
+
+
+If you have any question or issues with this update, ETS users should call the ETS Solution Center at 5-4745 and all others should contact the Resolution Center at 3-1411.
+
+Desktop Architecture
+
+Tentative schedule for update:
+
+Houston Floors	Begin after 12:00 noon on	
+ECN 1 - 10 (except 6)	Thursday, October 11	
+ECN 11 - 15 (except 14)	Monday, October 15	
+ECN 16 - 20	Wednesday, October 17	
+ECN 21 - 28 (except 24)	Friday, October 19	
+ECN 33 - 38 	Monday, October 22	
+ECN 39 - 43 (except Gas Control)	Wednesday, October 24	
+ECN 46 - 50	Monday, November 5	
+All (including trading floors)	Wednesday, November 7	
+
+From MAILER-DAEMON Mon Apr 18 14:20:55 2022
+Message-ID: <24803078.1075840021788.JavaMail.evans@thyme>
+Date: Wed, 13 Jun 2001 16:03:35 -0700 (PDT)
+From: brett.pate@enron.com
+To: heather.dunton@enron.com, wayne.vinson@enron.com, diana.scholtes@enron.com
+Subject: FW: Option Exercise is ready for testing
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Pate, Brett </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BPATE2>
+X-To: Dunton, Heather </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Hdunton>, Vinson, Donald Wayne </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=ca79c51-d58e71f-862565d4-7994b6>, Scholtes, Diana </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dscholt>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Scholtes, Diana\IT
+X-Origin: SCHOLTES-D
+X-FileName: 
+
+FYI
+ -----Original Message-----
+From: 	Martin, Karen  
+Sent:	Wednesday, June 13, 2001 11:31 AM
+To:	Bentley, Corry
+Subject:	Option Exercise is ready for testing 
+
+Hi Corry,
+OptionExercise.Exe version 3.0.0.22 has been moved to Stage and is ready for testing.
+
+Thanks,
+Karen
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:20:55 2022
+Message-ID: <18634171.1075840021814.JavaMail.evans@thyme>
+Date: Tue, 15 May 2001 15:21:05 -0700 (PDT)
+From: kroum.kroumov@enron.com
+To: diana.scholtes@enron.com, wayne.vinson@enron.com, heather.dunton@enron.com,
+	sean.crandall@enron.com
+Subject: Basis Option Document
+Cc: laura.aldis@enron.com, brett.pate@enron.com, william.crooks@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: laura.aldis@enron.com, brett.pate@enron.com, william.crooks@enron.com
+X-From: Kroumov, Kroum </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KKROUMO>
+X-To: Scholtes, Diana </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dscholt>, Vinson, Donald Wayne </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=ca79c51-d58e71f-862565d4-7994b6>, Dunton, Heather </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Hdunton>, Crandall, Sean </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Scranda>
+X-cc: Aldis, Laura </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Laldis>, Pate, Brett </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bpate2>, Crooks, William </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Wcrooks>
+X-bcc: 
+X-Folder: \ExMerge - Scholtes, Diana\IT
+X-Origin: SCHOLTES-D
+X-FileName: 
+
+
+      
+    
+     There was a request from WEST for writting a short document about Basis Option.
+     I wrote one in a format in which we intend to put more documents for Enpower
+     later on the WW Web.
+
+     Please, send me E-mail back if you see something wrong or missed out and pass
+     the E-mail to others which might be intersted in Basis Options.
+
+
+        Thanks,
+        Kroum
+    
+
+From MAILER-DAEMON Mon Apr 18 14:20:55 2022
+Message-ID: <6417481.1075840021690.JavaMail.evans@thyme>
+Date: Wed, 2 Jan 2002 19:36:15 -0800 (PST)
+From: david.poston@enron.com
+To: diana.scholtes@enron.com
+Subject: Questions about changes for the Chapter11.exe
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Poston, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DPOSTON2>
+X-To: Scholtes, Diana </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dscholt>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Scholtes, Diana\IT
+X-Origin: SCHOLTES-D
+X-FileName: 
+
+Good Afternoon Diana,
+
+Did I capture your question correctly?
+
+The users want to update the chapter11.exe program, that was developed to 'zero-out' schedule strip volumes for a given counterparty for a given day, to allow the users to zero-out the volume for a range of days?
+
+
+IT Questions
+1.  Schedule strips only get created for deals 2 days before day of flow.  So, based on the current design, the date range, at least looking forward, would only be a couple of days.
+- Option 1:  Maybe, instead of zeroing out schedules, we should adjust the dates on the deal.  This would prevent schedule strips from even being created after a certain date?
+
+2.  Working with John Postlethwaite & Stacey White, Will Smith has a program that converts deals from the real Enron books to a newly created West Bankruptcy book.  Will this work for you guys?
+
+Anyway, just give me a call when you get a chance.
+
+Thanks,  David Poston
+713-345-7834
+
+From MAILER-DAEMON Mon Apr 18 14:20:55 2022
+Message-ID: <19173163.1075840021860.JavaMail.evans@thyme>
+Date: Mon, 23 Apr 2001 22:00:00 -0700 (PDT)
+From: michael.tully@enron.com
+To: portland.desk@enron.com
+Subject: West Desk Support Web Site
+Cc: david.poston@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: david.poston@enron.com
+X-From: Michael Tully <Michael Tully/PDX/ECT@ECT>
+X-To: Portland West Desk <Portland West Desk@ECT>
+X-cc: david.poston <david.poston@enron.com>
+X-bcc: 
+X-Folder: \ExMerge - Scholtes, Diana\IT
+X-Origin: SCHOLTES-D
+X-FileName: 
+
+Everyone in the following gorups, now have access to the West Desk Support Web Site at http://westdesksupport. The UserName is the same as your NT / W2K Login UserName. And the password is the same as the username. Please use this site to log problems with CAPS, Excel, Enpower / FSP, network problems, or anything else that IT Needs to get involved in. Those of you that have logged in under the old username / Password system have also been changed to the new system.
+
+The Groups are:
+
+Real Time
+Pre Sched
+Volume Management
+Risk
+Middle Marketing
+Power Traders
+
+Thank you for your time.
+
+Michael Tully
+Application Support
+
+From MAILER-DAEMON Mon Apr 18 14:20:55 2022
+Message-ID: <20999862.1075840021837.JavaMail.evans@thyme>
+Date: Tue, 15 May 2001 11:30:54 -0700 (PDT)
+From: steve.nat@enron.com
+To: diana.scholtes@enron.com
+Subject: Meeting Handout
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Nat, Steve </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SNAT>
+X-To: Scholtes, Diana </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dscholt>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Scholtes, Diana\IT
+X-Origin: SCHOLTES-D
+X-FileName: 
+
+
+Diana,  The handout for today's OATI/Foster meeting at 12:00 is attached.
+
+Steve
+
+ 
+

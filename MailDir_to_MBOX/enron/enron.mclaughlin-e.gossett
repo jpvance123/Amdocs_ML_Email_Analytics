@@ -1,0 +1,4476 @@
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <16776137.1075851720709.JavaMail.evans@thyme>
+Date: Mon, 11 Dec 2000 02:56:00 -0800 (PST)
+From: errol.mclaughlin@enron.com
+To: errol.mclaughlin@enron.com
+Subject: Request Submitted:  Access Request (EMLN-4RWMRM)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Errol McLaughlin
+X-To: Errol McLaughlin
+X-cc: 
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+Thank you for your request.
+
+You will be notified via eMail when your request has been processed. You can 
+check the progress of your request by doing one of the following:
+In the SRRS application, click on Requests I Have Made. A listing of recent 
+requests will be appear sorted by resource name.
+Click on the Request Link below. This is a link to information regarding your 
+request.
+
+Below is a summary of your request.
+
+Requested For:  Errol McLaughlin/Corp/Enron
+Request Date:  12/11/2000 10:53:18 AM
+Request Type:  Update Access
+Request Link:  
+
+Requested Resources
+O:\Energy_Ops\OPM Hours Survey\ProdUser
+
+
+If you have any questions, please contact Information Risk Management at 
+35536
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <3243844.1075851720897.JavaMail.evans@thyme>
+Date: Wed, 27 Dec 2000 01:24:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: dawn.kenne@enron.com
+Subject: Canadian Deals
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeffrey C Gossett
+X-To: Dawn C Kenne
+X-cc: 
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+Dawn -
+
+Now that the fixed price deals are working: what are we working on now?  
+(Canadian counterparties I hope.)
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <33502917.1075851720780.JavaMail.evans@thyme>
+Date: Tue, 12 Dec 2000 02:12:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: dawn.kenne@enron.com
+Subject: Re: Counterparties w/ Master Agreements with ECC
+Cc: michael.swaim@enron.com, torrey.moorer@enron.com, tara.sweitzer@enron.com,
+	jennifer.denny@enron.com, kam.keiser@enron.com,
+	darron.giron@enron.com, william.kelly@enron.com,
+	david.baumbach@enron.com, stacey.vallejo@enron.com,
+	errol.mclaughlin@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: michael.swaim@enron.com, torrey.moorer@enron.com, tara.sweitzer@enron.com,
+	jennifer.denny@enron.com, kam.keiser@enron.com,
+	darron.giron@enron.com, william.kelly@enron.com,
+	david.baumbach@enron.com, stacey.vallejo@enron.com,
+	errol.mclaughlin@enron.com
+X-From: Jeffrey C Gossett
+X-To: Dawn C Kenne
+X-cc: Michael Swaim, Torrey Moorer, Tara Sweitzer, Jennifer deBoisblanc Denny, Kam Keiser, Darron C Giron, William Kelly, David Baumbach, Stacey Vallejo, Errol McLaughlin
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+This needs to be set up ASAP.  What can we do to make sure that this happens 
+quickly?
+
+
+
+
+Dawn C Kenne
+12/12/2000 10:00 AM
+To: Jeffrey C Gossett/HOU/ECT@ECT, Michael Swaim/HOU/ECT@ECT, Torrey 
+Moorer/HOU/ECT@ECT, Tara Sweitzer/HOU/ECT@ECT
+cc: Jennifer deBoisblanc Denny/HOU/ECT@ECT, Kam Keiser/HOU/ECT@ECT, Darron C 
+Giron/HOU/ECT@ECT, William Kelly/HOU/ECT@ECT, David Baumbach/HOU/ECT@ECT 
+Subject: Counterparties w/ Master Agreements with ECC
+
+I have received an updated list of the counterparties that have Master 
+Agreements with ECC.  There are now about 40 counterparties that fall under 
+this category.  What seems to be happening is that these counterparties are 
+hitting on US gas products on EOL and are not bridging into Tagg correctly.  
+Currently, they are bridging as one leg between ENA and the counterparty.  
+The problem arises during settlement because ENA cannot settle with these 
+counterparties, only ECC can.  An example of what Risk is doing to the 
+products after bridging is Tagg#Q79131 / EOL #555401.
+
+RISK:  We need risk to verify that anytime, without exception, all companies 
+with Master Agreements with ECC that hit a US product must be booked as two 
+legs:  leg one booked between ECC and the counterparty with risk assignment 
+of FT-US/CAND-ERMS; leg two flipping the risk out of FT-US/CAND-ERMS to the 
+appropriate risk book.  Also, risk needs to verify that this is only for 
+Financial Swaps and not Physical deals.  
+
+IT:  It is my understanding that a few counterparties are set up to be booked 
+correctly (with two legs).  The list is now up to 40 counterparties and will 
+most likely be updated on a consistent basis.  Is this something that Tagg 
+Maintenance can handle?  Guidelines need to be set up for Risk/Global to 
+instruct IT when new Master Agreements are created with counterparties so 
+logic can be adjusted accordingly.
+
+Does a meeting need to be set up to elaborate on these issues?  Are there any 
+further issues that need to be addressed concerning ECC Master Agreements?    
+(i.e. What about when a counterparty with ECC Master Agreement hits a 
+Canadian product out of the Houston office?)  
+Please respond with your thoughts on this subject.
+
+Thank you,
+Dawn
+3-9353
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <29472961.1075851720975.JavaMail.evans@thyme>
+Date: Tue, 2 Jan 2001 03:36:00 -0800 (PST)
+From: zhiyong.wei@enron.com
+To: michael.barber@enron.com, alex.hsieh@enron.com, mable.tang@enron.com,
+	soo-lian.ervin@enron.com, toan.ngo@enron.com, nagesh.kavi@enron.com,
+	malcolm.wells@enron.com, wilford.stevens@enron.com,
+	terry.sanvido@enron.com, dave.nommensen@enron.com,
+	jayant.krishnaswamy@enron.com, ganapathy.ramesh@enron.com,
+	jeremy.wong@enron.com, eduardo.calderon@enron.com,
+	dave.wei@enron.com, senthil.mayilsamy@enron.com,
+	narasim.kasaru@enron.com, nayan.dattani@enron.com,
+	ron.nolte@enron.com, michael.swaim@enron.com,
+	jeffrey.gossett@enron.com, kam.keiser@enron.com,
+	errol.mclaughlin@enron.com, michelle.bruce@enron.com,
+	shifali.sharma@enron.com, john.swinney@enron.com,
+	stacey.white@enron.com, ramesh.rao@enron.com, regan.smith@enron.com,
+	brian.riley@enron.com
+Subject: 
+Cc: stephen.stock@enron.com, richard.burchfield@enron.com,
+	randy.matson@enron.com, sally.beck@enron.com, chris.hanz@enron.com,
+	jim.ogg@enron.com, jeff.johnson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stephen.stock@enron.com, richard.burchfield@enron.com,
+	randy.matson@enron.com, sally.beck@enron.com, chris.hanz@enron.com,
+	jim.ogg@enron.com, jeff.johnson@enron.com
+X-From: Zhiyong Wei
+X-To: Michael Barber, Alex Hsieh, Mable Tang, Soo-Lian Eng Ervin, Toan Ngo, Nagesh Kavi, Malcolm Wells, Wilford Stevens, Terry Sanvido, Dave Nommensen, Jayant Krishnaswamy, Ganapathy Ramesh, Jeremy Wong, Eduardo Calderon, Dave Wei, Senthil Mayilsamy, Narasim Kasaru, Nayan Dattani, Ron Nolte, Michael Swaim, Jeffrey C Gossett, Kam Keiser, Errol McLaughlin, Michelle Bruce, Shifali Sharma, John Swinney, Stacey W White, Ramesh Rao, Regan M Smith, Brian M Riley
+X-cc: Stephen Stock, Richard Burchfield, Randy Matson, Sally Beck, Chris Hanz, Jim Ogg, Jeff Johnson
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+The T3 new disk storage technology and new database server for TAGG/ERMS 
+database were successfully implemented last weekend. No problems have been 
+reported. Nagesh and Ramesh reported performance improvement of CPR and 
+RisktRAC. Although users have not noticed significant improvement of the 
+system, we believe that performance gain will be seen when system load is 
+high and that the new disk storage technology will provide us with better 
+fall-tolerance and better performance in the long run.
+
+I want to thank everyone involved in the implementation for the good work. 
+Special thanks go to Michael Barber for his sacrifice of first two days of 
+his vacation to configure the new server and disk and for his excellent work 
+during the implementation. Many thanks also go to the DBAs, Alex Hsieh, Brian 
+Ngo, Soo-Lian Ervin and Mable Tang for their diligent work in making database 
+migration and performance measurement and in making sure of a smooth database 
+migration. I want to specifically thank Nagesh Kavi for his great efforts of 
+coordinating all system testing among development groups. I also want to 
+thank Malcolm Wells, Wilford Stevens, Terry Sanvido, Dave Commensen and Jay 
+Krish for their active support during the implementation. Many thanks also go 
+to the Ganapathy Ramesh, Jeremy Wong, Ed Calderon, Dave Wei, Senthil 
+Mayilsamy, Narasim Kasaru, Nayan Dattani, Ron Nolte and Mike Swain for their 
+hardworking in testing all applications of related systems. Special thanks 
+also go to Unify team for having made the implementation by the end of year 
+2000 possible by swapping the server and the new T3 disks with TAGG/ERMS and 
+for their cooperation during the implementation. Last but not least, I want 
+to thank Jeff Gossett, Kam Keiser, Errol Mclaughli, Michelle Bruce, Shifali 
+Sharma, John Swinney and Stacey White for their efforts of performing user 
+acceptance testing on the New Year Eve day.
+
+Thanks
+
+Zhiyong
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <23014868.1075841239196.JavaMail.evans@thyme>
+Date: Mon, 30 Apr 2001 10:45:00 -0700 (PDT)
+From: jeffrey.gossett@enron.com
+To: kam.keiser@enron.com, david.baumbach@enron.com, darron.giron@enron.com,
+	phillip.love@enron.com, errol.mclaughlin@enron.com
+Subject: Termination of EnronOnline Trades
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeffrey C Gossett <Jeffrey C Gossett/HOU/ECT@ECT>
+X-To: Kam Keiser <Kam Keiser/HOU/ECT@ECT>, David Baumbach <David Baumbach/HOU/ECT@ECT>, Darron C Giron <Darron C Giron/HOU/ECT@ECT>, Phillip M Love <Phillip M Love/HOU/ECT@ECT>, Errol McLaughlin <Errol McLaughlin/Corp/Enron@ENRON>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - McLaughlin Jr., Errol\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: erol mclaughlin 6-26-02.PST
+
+
+---------------------- Forwarded by Jeffrey C Gossett/HOU/ECT on 04/30/2001 07:45 AM ---------------------------
+   
+
+	  From:  Larry Joe Hunter                           04/27/2001 05:10 PM	
+		
+
+
+To:	Jeffrey C Gossett/HOU/ECT@ECT
+cc:	Julie Brewer/NA/Enron@Enron 
+Subject:	Termination of EnronOnline Trades
+
+Jeff,
+
+Can you pass on the message below to all of risk.  For EnronOnline, no trades should be "reversed" in TAGG.  Simply kill the deal and we'll take care of the documentation.
+
+thanks,
+Joe Hunter
+
+---------------------- Forwarded by Larry Joe Hunter/HOU/ECT on 04/27/2001 05:08 PM ---------------------------
+From:	Tana Jones on 04/27/2001 04:38 PM
+To:	Kim S Theriot/HOU/ECT@ECT
+cc:	Mark Greenberg/NA/Enron@ENRON, Mark Taylor/HOU/ECT@ECT, Jeffrey T Hodge/HOU/ECT@ECT, Stacy E Dickson/HOU/ECT@ECT, Marcus Nettelton/NA/Enron@ENRON, Elizabeth Sager/HOU/ECT@ECT, Alan Aronowitz/HOU/ECT@ECT, Larry Joe Hunter/HOU/ECT@ECT 
+Subject:	Termination of EnronOnline Trades
+
+Per my discussion with Mark Taylor and our conversation today, attached is the form of Termination Agreement that should be used when terminating EnronOnline mistake or "oops" trades.  The trades should continue to be initially run past the Legal Department to determine whether there are any unusual circumstances surrounding the trades, but absent unusual circumstances, Legal will then pass the trades on to the Confirmation Desk for preparation of the Termination Letter and further handling.  These same procedure should apply to physical as well as financial transactions.
+
+Since this is a contract, the agreement will require the initials of a lawyer and signature of a VP or above for the relevant company.  The Termination Letter should be brought to the appropriate Legal Group for signature.
+
+The current policy with respect to mistake trades is that the trade should be terminated.  Reverse trades should not be entered into.
+
+If you have any questions, please call.
+
+ 
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <13408931.1075841238852.JavaMail.evans@thyme>
+Date: Mon, 16 Jul 2001 06:01:36 -0700 (PDT)
+From: c..gossett@enron.com
+To: m..love@enron.com, errol.mclaughlin@enron.com, c..giron@enron.com
+Subject: FW: Feedback - Trading Track
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Gossett, Jeffrey C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JGOSSET>
+X-To: Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>, McLaughlin Jr., Errol </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emclaug>, Giron, Darron C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dgiron>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - McLaughlin Jr., Errol\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: erol mclaughlin 6-26-02.PST
+
+I think we might want to get these done this week and review on Friday to make sure that we have given the appropriate feedback.
+
+ -----Original Message-----
+From: 	Buckley, Karen  
+Sent:	Friday, July 13, 2001 5:42 PM
+To:	Colpean, Amanda; White, Stacey W.; Will, Lloyd; Gilbert-smith, Doug; Baughman Jr., Don; Presto, Kevin M.; Meyn, Jim; Davis, Dana; Gaskill, Chris; Gossett, Jeffrey C.; Superty, Robert; Lagrasta, Fred; Baumbach, David; McMichael Jr., Ed; Allen, Phillip K.; Shively, Hunter S.; Arnold, John; Bentley, Corry; Grigsby, Mike; Herndon, Rogers; Thomas, Martin; Mrha, Jean; Neal, Scott; Schwieger, Jim; Sturm, Fletcher J.
+Cc:	Lavorato, John; Kitchen, Louise; Hillis, Kimberly
+Subject:	Feedback - Trading Track 
+
+
+All,
+
+In advance of the performance feedback which will be given to the trading track participants, I would be grateful if you could forward me a copy of your completed written Performance Review Evaluation form for your respective Trading Track Analyst/Associate by Tuesday, 24th July.   All written evaluations will be reviewed  by John Lavorato in advance of any feedback given.
+
+Attached is the updated rotation list.
+
+Please call me with any questions in relation to the above.
+
+Kind regards,
+
+Karen.
+x54667
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <12352028.1075841238877.JavaMail.evans@thyme>
+Date: Wed, 11 Jul 2001 12:42:55 -0700 (PDT)
+From: c..gossett@enron.com
+To: david.baumbach@enron.com, anne.bike@enron.com, kam.keiser@enron.com,
+	m..love@enron.com, errol.mclaughlin@enron.com, d..winfree@enron.com
+Subject: FW:  ERMS discounting project
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Gossett, Jeffrey C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JGOSSET>
+X-To: Baumbach, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dbaumba>, Bike, Anne </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Abike>, Keiser, Kam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kkeiser>, Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>, McLaughlin Jr., Errol </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emclaug>, Winfree, O'Neal D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Owinfre>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - McLaughlin Jr., Errol\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: erol mclaughlin 6-26-02.PST
+
+
+
+ -----Original Message-----
+From: 	Glover, Sheila  
+Sent:	Wednesday, July 11, 2001 2:22 PM
+To:	Sweeney, Kevin; Gossett, Jeffrey C.; Hall, D. Todd
+Cc:	Abel, Chris; Carrington, Clara; Earnest, Scott; Price, Brent A.; Husain, Karima; Wong, Jeremy; Wei, Zhiyong; Hodges, Georganne; Myers, Thomas; Mills, Scott
+Subject:	RE:  ERMS discounting project
+
+We met this morning to discuss ERMS Discounting testing.  
+
+It was agreed that:
+
+Jeff, Todd and Kevin will provide a listing of Friday's COB Post IDs to Jeremy/Karima by Monday noon, July 16th.
+Jeremy will produce a comparison Report from the Post ID listing, comparing Gross Book Balances for current production and revised production.  This report will be available on Tuesday morning, July 17th. 
+A test port calc will be available to run individual books to test both calculations against the production database, July 17th.
+AA will be advised of this change once we have been able to quantify the GBB impact anticipated. 
+No impact is expected in Infinity since ERMS will pass the revised settlement date with the notional cash flows.
+
+Sheila
+
+Scott,
+This has no impact to you currenty since you are not using ERMS in production; but, we did want to make you aware of this change.
+sg
+ -----Original Message-----
+From: 	Glover, Sheila  
+Sent:	Monday, July 09, 2001 1:56 PM
+To:	Sweeney, Kevin; Gossett, Jeffrey C.; Hall, D. Todd
+Cc:	Abel, Chris; Carrington, Clara; Earnest, Scott; Price, Brent A.; Husain, Karima; Wong, Jeremy; Wei, Zhiyong; Hodges, Georganne; Myers, Thomas
+Subject:	 ERMS discounting project
+
+Kevin, Jeff, Todd,  
+
+The discouting change to ERMS of moving the assumed cash flow date from the 1st of the production month to the end of the production month is in progress and targeted for production on August 1.  
+
+IT is ready to begin user acceptance testing this week and next week.  IT is producing a spreadsheet to quantify projected calculation impact.
+
+I will have Kelly set up a meeting for this Thursday so we can all meet with IT to discuss the testing process.  Please feel free to bring someone along who may be assisting your group with the testing process.
+
+As discussed, no change will be done for Financial Settlements.  Both contract and calendar will continue as is with the first day of the month assumption.  The Monthly Reserve Calculation will quantify the impact to the gross book balance as if cash flows had been discounted to the correct date. 
+
+Please do not hesitate to call with questions or suggestions.
+
+Thanks. Sheila
+
+
+
+ -----Original Message-----
+From: 	Husain, Karima  
+Sent:	Thursday, July 05, 2001 2:07 PM
+To:	Glover, Sheila; Abel, Chris
+Cc:	Wei, Zhiyong; Lim, Francis S.; Wong, Jeremy
+Subject:	Update:  ERMS discounting project
+
+Sheila / Chris,
+
+Attached please find the status update for the ERMS discounting project:
+
+ << File: ERMS Discounting 7-5-01.html >>  << File: ERMS Discounting 7-5-01.mpp >> 
+
+Tasks 3 & 4 have been completed, and the others are on-time, as scheduled.  Also, please let us know which would be a good day (between 7/13/01 and 7/20/01) for user acceptance testing (task #8).
+
+Thanks & regards,
+
+Karima Husain
+Project Manager, TAGG/ERMS
+(713) 345-7252
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <19970562.1075851721634.JavaMail.evans@thyme>
+Date: Wed, 21 Feb 2001 01:42:00 -0800 (PST)
+From: errol.mclaughlin@enron.com
+To: errol.mclaughlin@enron.com
+Subject: Class Confirmation - Errol McLaughlin
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Errol McLaughlin
+X-To: Errol McLaughlin
+X-cc: 
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+Errol McLaughlin is enrolled in Harassment Avoidance
+
+Class Days and Times:
+  3/5/2001  01:00:00 PM - 02:30:00 PM
+Participant Fee: $50.00
+
+
+Thank you for your support in providing quality and cost effective 
+development opportunites at Enron.  
+Your Company and RC will be charged $50.00
+
+If you have any questions, please call the Development Center Team at 
+713-853-0357.
+
+Thank you.
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <32206480.1075851720732.JavaMail.evans@thyme>
+Date: Mon, 11 Dec 2000 06:58:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: kam.keiser@enron.com, darron.giron@enron.com, william.kelly@enron.com,
+	david.baumbach@enron.com, errol.mclaughlin@enron.com
+Subject: Deals booked to New Counterparty
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeffrey C Gossett
+X-To: Kam Keiser, Darron C Giron, William Kelly, David Baumbach, Errol McLaughlin
+X-cc: 
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+---------------------- Forwarded by Jeffrey C Gossett/HOU/ECT on 12/11/2000 
+02:53 PM ---------------------------
+   
+
+
+From:  Debbie R Brackett                                                      
+       12/11/2000 02:42 PM	
+	
+	
+	                           
+	
+
+To: Shona Wilson/NA/Enron@Enron, Chris Abel/HOU/ECT@ECT
+cc: Jeffrey C Gossett/HOU/ECT@ECT, Kathy Reeves/CAL/ECT@ECT, Leslie 
+Reeves/HOU/ECT@ECT, Stacey W White/HOU/ECT@ECT, Martha Stevens/HOU/ECT@ECT, 
+Michelle Bruce/HOU/ECT@ECT, Scott Earnest/HOU/ECT@ECT, Michael E 
+Moscoso/HOU/ECT@ECT, Brenda F Herod/HOU/ECT@ECT, James New/LON/ECT@ECT, 
+Andrew Cornfield/LON/ECT@ECT, Kim S Theriot/HOU/ECT@ECT, William S 
+Bradford/HOU/ECT@ECT 
+Subject: Deals booked to New Counterparty
+
+The attached file represents deals booked to New Counterparty as of close of 
+business, December 8. In order to correctly report and manage credit 
+exposure, these deals need to be rebooked to reflect the actual counterparty 
+on the transaction.  
+
+
+
+ Please forward this to the appropriate person within your organization who 
+can rebook the deals to the proper counterparty, or call me at X35856 if you 
+have questions.
+
+Thanks,
+
+Debbie
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <9146518.1075851720637.JavaMail.evans@thyme>
+Date: Thu, 7 Dec 2000 02:59:00 -0800 (PST)
+From: irena.hogan@enron.com
+To: kam.keiser@enron.com, darron.giron@enron.com, william.kelly@enron.com,
+	david.baumbach@enron.com, errol.mclaughlin@enron.com
+Subject: 8:30 Meeting - Room Location
+Cc: elizabeth.soto@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: elizabeth.soto@enron.com
+X-From: Irena D Hogan
+X-To: Kam Keiser, Darron C Giron, William Kelly, David Baumbach, Errol McLaughlin
+X-cc: Elizabeth Soto
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+This meeting takes place in EB2831.
+
+Thank you
+---------------------- Forwarded by Irena D Hogan/HOU/ECT on 12/07/2000 10:58 
+AM ---------------------------
+
+
+Jeffrey C Gossett
+12/07/2000 10:24 AM
+To: Kam Keiser/HOU/ECT@ECT, Darron C Giron/HOU/ECT@ECT, William 
+Kelly/HOU/ECT@ECT, David Baumbach/HOU/ECT@ECT, Errol 
+McLaughlin/Corp/Enron@ENRON
+cc: Irena D Hogan/HOU/ECT@ECT, Elizabeth Soto/HOU/ECT@ECT 
+Subject: 8:30 Meeting on systems
+
+There is a 30 minute meeting every morning on the 28th floor at 8:30 about 
+systems issues from the prior night and to discuss what books were not 
+officialized.  I have gone to this meeting this week, and I think that we 
+should always have a representative in the meeting.  Here is what I propose:  
+We alternate weeks going to this meeting.
+
+Week of :
+Dec. 4   - Jeff Gossett
+Dec. 11 - Darron Giron
+Dec. 18 - David Baumbach
+Dec. 25 - Will Kelly
+Jan. 1    -  Kam Keiser
+Jan. 8    - Errol Mclaughlin
+
+And then we will start over again.
+If you can not go,  make sure that someone goes in your place.
+
+Thanks
+
+Irena and Elizabeth -  Can you please add these daily meetings to the 
+appropriate calender?
+
+Thanks
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <10095936.1075841238608.JavaMail.evans@thyme>
+Date: Thu, 27 Sep 2001 08:47:48 -0700 (PDT)
+From: c..gossett@enron.com
+To: shona.wilson@enron.com
+Subject: RE: Net Open Position Violation
+Cc: m.hall@enron.com, beth.apollo@enron.com, chris.abel@enron.com,
+	kenneth.thibodeaux@enron.com, david.baumbach@enron.com,
+	anne.bike@enron.com, kam.keiser@enron.com, m..love@enron.com,
+	errol.mclaughlin@enron.com, d..winfree@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: m.hall@enron.com, beth.apollo@enron.com, chris.abel@enron.com,
+	kenneth.thibodeaux@enron.com, david.baumbach@enron.com,
+	anne.bike@enron.com, kam.keiser@enron.com, m..love@enron.com,
+	errol.mclaughlin@enron.com, d..winfree@enron.com
+X-From: Gossett, Jeffrey C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JGOSSET>
+X-To: Wilson, Shona </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Swilson5>
+X-cc: Hall, Bob M </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rhall3>, Apollo, Beth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bapollo>, Abel, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cabel>, Thibodeaux, Kenneth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kthibode>, Baumbach, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dbaumba>, Bike, Anne </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Abike>, Keiser, Kam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kkeiser>, Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>, McLaughlin Jr., Errol </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emclaug>, Winfree, O'Neal D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Owinfre>
+X-bcc: 
+X-Folder: \ExMerge - McLaughlin Jr., Errol\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: erol mclaughlin 6-26-02.PST
+
+I would like to continue to receive an email in the morning when there is a violation.  I will make every effort to get this out by noon from now on.  Also,  in case I am not here,  I would suggest that you include the regional controllers on the emails if possible.  I appreciate your help.
+
+Thanks,
+
+Jeff
+
+ -----Original Message-----
+From: 	Wilson, Shona  
+Sent:	Thursday, September 27, 2001 8:52 AM
+To:	Gossett, Jeffrey C.
+Cc:	Hall, Bob M; Apollo, Beth; Abel, Chris; Thibodeaux, Kenneth
+Subject:	RE: Net Open Position Violation
+
+Thanks - in answer to your question, most groups actually get us position explanations by the start of business the next day (and that is our expectation of them).  P&L explanations are received usually by 11 (unless they have trouble finalizing their P&L).  I know it is a bit more difficult for ENA as you have to coordinate with Canada.  We need to work together to determine what the optimal process should be.  Factors to consider:
+
+Do you know the ENA violations/notifications without us telling you or do you need us to give you the total ENA numbers (inclusive of Canada)?  My guess is that you know the position info from the benchmarks, but not the P&L.
+Position violations - What is a reasonable time frame for us to expect you to give us the explanations (considering you have to coordinate with Canada who is 1 hr behind)? 
+Var violations - What is a reasonable time frame for us to expect you to give us the explanations (considering you have to coordinate with Canada who is 1 hr behind)? 
+Notifications - What is a reasonable time frame for us to expect you to give us the explanations (considering you have to coordinate with Canada who is 1 hr behind)? 
+
+Considering the above, would requiring information by noon for ENA be reasonable?
+
+Regards,
+
+Shona
+
+ -----Original Message-----
+From: 	Gossett, Jeffrey C.  
+Sent:	Thursday, September 27, 2001 7:23 AM
+To:	Wilson, Shona
+Cc:	Hall, Bob M; Apollo, Beth; Abel, Chris; Thibodeaux, Kenneth
+Subject:	FW: Net Open Position Violation
+
+This is what I sent Kenneth yesterday.  I have a read receipt of 3:43.  Not sure how he did not get it.  This is bidweek and quarter end, so if you expect them by a certain time someone needs to communicate that.
+
+Thanks
+
+ -----Original Message-----
+From: 	Gossett, Jeffrey C.  
+Sent:	Wednesday, September 26, 2001 3:40 PM
+To:	Thibodeaux, Kenneth
+Subject:	RE: Net Open Position Violation
+
+Largely driven by fixed price (200) Bcf in the prompt month which rolls off today.  Also,  (168) Bcf for winter 2001-2002.  And (189) Summer 2002.
+
+Thanks
+
+ -----Original Message-----
+From: 	Thibodeaux, Kenneth  
+Sent:	Wednesday, September 26, 2001 8:36 AM
+To:	Gossett, Jeffrey C.
+Subject:	Net Open Position Violation
+
+Please provide an explanation for the violation memo for the following net open position breach.
+
+9/25 Net Open Position:		(536.26 Bcf)
+		Limit   :		(500 Bcf)
+
+Thanks
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <22499058.1075851720686.JavaMail.evans@thyme>
+Date: Mon, 11 Dec 2000 02:39:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: kam.keiser@enron.com, darron.giron@enron.com, william.kelly@enron.com,
+	david.baumbach@enron.com, errol.mclaughlin@enron.com
+Subject: How do officialized books make it to credit?
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeffrey C Gossett
+X-To: Kam Keiser, Darron C Giron, William Kelly, David Baumbach, Errol McLaughlin
+X-cc: 
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+In English this means that even if a book has no positions or value,  if it 
+has any deals with a counterparty it needs to be officialized so that credit 
+can calculate margin.
+---------------------- Forwarded by Jeffrey C Gossett/HOU/ECT on 12/11/2000 
+10:40 AM ---------------------------
+
+From: Shona Wilson@ENRON on 12/11/2000 10:35 AM
+To: Bob M Hall/NA/Enron@Enron, Leslie Reeves/HOU/ECT@ECT, Jeffrey C 
+Gossett/HOU/ECT@ECT, Peggy Hedstrom/CAL/ECT@ECT, Kathy Reeves/CAL/ECT@ECT, 
+Stacey W White/HOU/ECT@ECT, Monica Lande/PDX/ECT@ECT, David 
+Maxwell/HOU/ECT@ECT, Martha Stevens/HOU/ECT@ECT, Scott Mills/HOU/ECT@ECT, 
+Scott Earnest/HOU/ECT@ECT, Michelle Bruce/HOU/ECT@ECT, Sheila 
+Glover/HOU/ECT@ECT, D Todd Hall/HOU/ECT@ECT, Brenda F Herod/HOU/ECT@ECT, 
+Michael E Moscoso/HOU/ECT@ECT, Kristin Albrecht/Enron Communications@Enron 
+Communications, Gary Stadler/Enron Communications@Enron Communications, 
+Meredith M Eggleston/HOU/EES@EES, James New/LON/ECT@ECT, Heidi 
+Mason/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Jan-Erland Bekeng/AP/Enron@Enron, 
+Jay Knoblauh/HOU/ECT@ECT
+cc: Sally Beck/HOU/ECT@ECT, Brent A Price/HOU/ECT@ECT, Mike 
+Jordan/LON/ECT@ECT, Chris Abel/HOU/ECT@ECT, Kenneth 
+Thibodeaux/NA/Enron@ENRON, Michael Benien/Corp/Enron@ENRON, Burton 
+McIntyre/HOU/ECT@ECT, Susan D Trevino/HOU/ECT@ECT, Nancy 
+Hernandez/NA/Enron@ENRON, Debbie R Brackett/HOU/ECT@ECT, John D 
+Powell/HOU/ECT@ECT, Ganapathy Ramesh/HOU/ECT@ECT, Joel 
+Henenberg/NA/Enron@Enron, Matt A Brown/HOU/ECT@ECT 
+Subject: How do officialized books make it to credit?
+
+In the past few months much focus has been put on understanding VAR and how 
+it is calculated (through RisktRAC).  However, everyone should note that the 
+credit department also receives our information.  Market risk and credit risk 
+are inherently different, with different requirements.  This memo serves as a 
+reminder of what some of the key differences are, how the credit system uses 
+RisktRAC differently from market risk, how this affects us, what some key 
+problems are in the credit system caused by our data, and changes to be made 
+by risk management groups.
+
+differences are between credit and market risk - you all know this, but many 
+of your ba's don't. 
+when a book is flat it still has an effect on credit.  Flat books must be 
+officialized
+market risk is keyed off positions and curves.  When we make money, market 
+risk is reduced.  Credit risk is keyed off positions with customers.  When we 
+make money, credit risk is increased, as people owe us more money.
+
+how the credit system uses RisktRAC differently from market risk
+Market risk picks up all officialized books.  If a book is not officialized 
+it does not pick the book up.
+Credit picks up all officalized books.  If a book is not officialized, it 
+picks up the previous day's position.  Therefore, if positions in book A are 
+moved to book B, and A is no longer officialized, credit picks up the 
+previous day's position for book A.  As a result, if a book is no longer 
+used, please officialize it the first day it is no longer used, so credit 
+will pick up 0 on a go forward basis.
+Market risk is not concerned with counterparty codes and names.
+Credit needs correct counterparty codes and names.  In recent months, the 
+counterparty information has deteriorated.  Enron official counterparty names 
+need to be used so they flow properly to credit.
+
+what are some key problems in the credit system caused by our data
+As referenced above: correct counterparty names and books with 0 positions 
+not being officialized so credit picks up previous day info.
+As a takeaway from this message please ensure only correct counterparty names 
+are used and that if a book has 0 positions that it is officialized the first 
+day it has 0 positions.
+
+If you have specific questions about credit, please call Debbie Brackett, at 
+X35856. 
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <27770696.1075851720755.JavaMail.evans@thyme>
+Date: Tue, 12 Dec 2000 02:10:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: errol.mclaughlin@enron.com
+Subject: Counterparties w/ Master Agreements with ECC
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeffrey C Gossett
+X-To: Errol McLaughlin
+X-cc: 
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+---------------------- Forwarded by Jeffrey C Gossett/HOU/ECT on 12/12/2000 
+10:13 AM ---------------------------
+
+
+Dawn C Kenne
+12/12/2000 10:00 AM
+To: Jeffrey C Gossett/HOU/ECT@ECT, Michael Swaim/HOU/ECT@ECT, Torrey 
+Moorer/HOU/ECT@ECT, Tara Sweitzer/HOU/ECT@ECT
+cc: Jennifer deBoisblanc Denny/HOU/ECT@ECT, Kam Keiser/HOU/ECT@ECT, Darron C 
+Giron/HOU/ECT@ECT, William Kelly/HOU/ECT@ECT, David Baumbach/HOU/ECT@ECT 
+Subject: Counterparties w/ Master Agreements with ECC
+
+I have received an updated list of the counterparties that have Master 
+Agreements with ECC.  There are now about 40 counterparties that fall under 
+this category.  What seems to be happening is that these counterparties are 
+hitting on US gas products on EOL and are not bridging into Tagg correctly.  
+Currently, they are bridging as one leg between ENA and the counterparty.  
+The problem arises during settlement because ENA cannot settle with these 
+counterparties, only ECC can.  An example of what Risk is doing to the 
+products after bridging is Tagg#Q79131 / EOL #555401.
+
+RISK:  We need risk to verify that anytime, without exception, all companies 
+with Master Agreements with ECC that hit a US product must be booked as two 
+legs:  leg one booked between ECC and the counterparty with risk assignment 
+of FT-US/CAND-ERMS; leg two flipping the risk out of FT-US/CAND-ERMS to the 
+appropriate risk book.  Also, risk needs to verify that this is only for 
+Financial Swaps and not Physical deals.  
+
+IT:  It is my understanding that a few counterparties are set up to be booked 
+correctly (with two legs).  The list is now up to 40 counterparties and will 
+most likely be updated on a consistent basis.  Is this something that Tagg 
+Maintenance can handle?  Guidelines need to be set up for Risk/Global to 
+instruct IT when new Master Agreements are created with counterparties so 
+logic can be adjusted accordingly.
+
+Does a meeting need to be set up to elaborate on these issues?  Are there any 
+further issues that need to be addressed concerning ECC Master Agreements?    
+(i.e. What about when a counterparty with ECC Master Agreement hits a 
+Canadian product out of the Houston office?)  
+Please respond with your thoughts on this subject.
+
+Thank you,
+Dawn
+3-9353
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <460695.1075851721770.JavaMail.evans@thyme>
+Date: Wed, 2 May 2001 00:20:00 -0700 (PDT)
+From: jeffrey.gossett@enron.com
+To: kam.keiser@enron.com, errol.mclaughlin@enron.com
+Subject: Change to ENA/EES Deals
+Cc: scott.mills@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: scott.mills@enron.com
+X-From: Jeffrey C Gossett
+X-To: Kam Keiser, Errol McLaughlin
+X-cc: Scott Mills
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+Please change the deals in your books.
+
+Thanks
+---------------------- Forwarded by Jeffrey C Gossett/HOU/ECT on 05/02/2001 
+07:19 AM ---------------------------
+From: Scott Mills@EES on 05/01/2001 08:53 PM
+To: Jeffrey C Gossett/HOU/ECT@ECT
+cc: Russ Kavanaugh/HOU/EES@EES 
+Subject: Change to ENA/EES Deals
+
+Can the following deals be rebooked using the current intercompany 
+methodology:
+
+ Buyer = Enron Energy Services
+ Seller = Enron North America (or RMT if these are all financial)
+
+Then what is now the counterparties on the deal will become the books. 
+
+These are the only deals that are left that are booked the old way.  I was  
+hoping to make things consistent.  Two of the deals (EH1958.1, EH4242.5) will 
+roll off the end of May -the others have months to go.
+
+Thanks for the help
+
+SRM (x33548)
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <20301163.1075841239074.JavaMail.evans@thyme>
+Date: Mon, 4 Jun 2001 08:17:20 -0700 (PDT)
+From: c..gossett@enron.com
+To: david.baumbach@enron.com, greg.couch@enron.com, c..giron@enron.com,
+	kam.keiser@enron.com, m..love@enron.com, errol.mclaughlin@enron.com,
+	martha.stevens@enron.com, john.valdes@enron.com
+Subject: FW: Houston Excel Spreadsheet change for Counterparty
+ Identification
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Gossett, Jeffrey C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JGOSSET>
+X-To: Baumbach, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dbaumba>, Couch, Greg </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gcouch>, Giron, Darron C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dgiron>, Keiser, Kam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kkeiser>, Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>, McLaughlin Jr., Errol </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emclaug>, Stevens, Martha </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Msteven>, Valdes, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jvaldes>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - McLaughlin Jr., Errol\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: erol mclaughlin 6-26-02.PST
+
+FYI
+
+ -----Original Message-----
+From: 	Powell, John D.  
+Sent:	Friday, June 01, 2001 6:02 PM
+To:	Gossett, Jeffrey C.; White, Stacey; Hall, D. Todd; Glover, Sheila; Mills, Scott; Stadler, Gary; New, James
+Cc:	Wilson, Shona; Apollo, Beth; Scribner, James; McIntyre, Burton; Hardy, David; Brackett, Debbie R.; Ramesh, Ganapathy; Hu, Wei
+Subject:	Houston Excel Spreadsheet change for Counterparty Identification
+
+All,
+We are in the process of changing the Houston Based Excel Spreadsheets to require the use of the Global Counterparty ID (which is a number) instead of the ERMS Shortcode (also known as CP Code, or shortname) which is a legacy based identifier.  This will alleviate the unmatched exposure problem that we currently have in CAS and also get us going in the direction we have always wanted to go (being globally compliant in the data we receive).
+
+Therefore, we are currently changing the spreadsheet template so that the spreadsheet will require the duns_link_id of the internal and external counterparties instead of the short codes which are currently used.  Wei Hu is modifying the spreadsheet table structure to handle this change.  We will provide someone to assist in the initial population of the CP_IDs and we will be working with the users to test the change and move the loader to production.
+
+Once in production, the book administrators will have to obtain the GCP CP ID for these two columns.  My suggestion is to have them get accounts to view the Global CP application where they can see the duns_link_ids, names, etc.   Who can provide a listing of all the people that will need access to the GCP application?
+
+Once this is in place, then we will look into turning on the validation requirement that does not allow the spreadsheet to be submitted until the various validations (of which IDs are one) have been passed.
+
+We will provide a template early next week to some group of users so we can begin testing by mid to late next week.  Moving to production will happen soon thereafter.
+
+Any concerns or issues? 
+
+Thanks
+John
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <9194722.1075841238928.JavaMail.evans@thyme>
+Date: Thu, 28 Jun 2001 14:28:22 -0700 (PDT)
+From: c..gossett@enron.com
+To: m.hall@enron.com, david.baumbach@enron.com, anne.bike@enron.com,
+	greg.couch@enron.com, c..giron@enron.com, kam.keiser@enron.com,
+	m..love@enron.com, errol.mclaughlin@enron.com,
+	martha.stevens@enron.com, john.valdes@enron.com
+Subject: Organizational Change -  West Desk Business Controller
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Gossett, Jeffrey C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JGOSSET>
+X-To: Hall, Bob M </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rhall3>, Baumbach, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dbaumba>, Bike, Anne </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Abike>, Couch, Greg </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gcouch>, Giron, Darron C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dgiron>, Keiser, Kam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kkeiser>, Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>, McLaughlin Jr., Errol </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emclaug>, Stevens, Martha </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Msteven>, Valdes, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jvaldes>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - McLaughlin Jr., Errol\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: erol mclaughlin 6-26-02.PST
+
+Effective  July 2nd,  Anne Bike will take over the position of West Desk Business Controller.  Anne has a great deal of technical expertise in the region.  She will be responsible for the all risk management related activities in the region.  Please congratulate Anne on her new responsibilities.  
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <28201448.1075851721725.JavaMail.evans@thyme>
+Date: Fri, 6 Apr 2001 03:20:00 -0700 (PDT)
+From: irena.hogan@enron.com
+To: errol.mclaughlin@enron.com
+Subject: RE:
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Irena D Hogan
+X-To: Errol McLaughlin
+X-cc: 
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+FYI, per your cost center being reclassed for Susan Scott for March 16th - 31.
+
+Irena
+---------------------- Forwarded by Irena D Hogan/HOU/ECT on 04/06/2001 10:18 
+AM ---------------------------
+From: Johnnie Perry/ENRON@enronXgate on 04/03/2001 12:35 PM
+To: Gwendolyn Gray/HR/Corp/Enron@ENRON
+cc: Veronica Parra/ENRON@enronXgate, Irma Alvarez/ENRON@enronXgate, Irena D 
+Hogan/HOU/ECT@ECT 
+Subject: RE: 
+
+
+This transaction was sent to the Associate Analyst inbox.
+
+thanks,
+Johnnie Perry
+
+
+To: ENW SAP Data Entry <ENW.SAP.Data.Entry@enron.com>
+cc:  
+
+Subject: Transfer Initiation Form sent by Irena Hogan of Energy Operations
+
+GENERAL INFORMATION
+ 
+Personnel number is P00500873
+ 
+Name is Susan Scott
+ 
+Effective date is 03/15/2001
+ 
+Company number and name is 083E Enron Networks
+ 
+Transfer Type: Transfer within Operating Company 
+_____________________________________
+ 
+TRANSFER INFORMATION
+ 
+Change position Reason : lateral
+ 
+Job Name:  Analyst
+ 
+Old Position Name:  Enron Networks
+ 
+New Position Name:  Enron Americas
+ 
+Old Cost Center Number and Name: 103820 - Financail Desk
+ 
+New Cost Center Number and Name: 107318-Financial Trading
+ 
+Old Organizational Name: Risk Management
+ 
+New Organizational Name: Commerical Trading
+ 
+Old Supervisor Name: Errol McLaughlin
+ 
+New Supervisor Position Name:  Mike Grisby
+ 
+_____________________________________
+ 
+COMMENTS
+ 
+  
+_____________________________________
+ 
+SUBMISSION INFORMATION
+ 
+Name: Irena Hogan
+ 
+Org Unit: Energy Operations 
+_____________________________________
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <25398937.1075851721748.JavaMail.evans@thyme>
+Date: Wed, 25 Apr 2001 00:34:00 -0700 (PDT)
+From: david.baumbach@enron.com
+To: kam.keiser@enron.com, phillip.love@enron.com, darron.giron@enron.com,
+	errol.mclaughlin@enron.com
+Subject: 
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: David Baumbach
+X-To: Kam Keiser, Phillip M Love, Darron C Giron, Errol McLaughlin
+X-cc: 
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+FYI - The desk heads do not get to see p&l sheets for the floor.  Be careful 
+letting them know what you have.  We also wouldn't want Lavorato to find out 
+that more people or seeing these reports than he thinks.
+
+Dave
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <9058653.1075841238975.JavaMail.evans@thyme>
+Date: Fri, 22 Jun 2001 05:41:25 -0700 (PDT)
+From: c..gossett@enron.com
+To: david.baumbach@enron.com, c..giron@enron.com, kam.keiser@enron.com,
+	m..love@enron.com, errol.mclaughlin@enron.com
+Subject: FW: Final Deal List
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Gossett, Jeffrey C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JGOSSET>
+X-To: Baumbach, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dbaumba>, Giron, Darron C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dgiron>, Keiser, Kam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kkeiser>, Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>, McLaughlin Jr., Errol </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emclaug>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - McLaughlin Jr., Errol\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: erol mclaughlin 6-26-02.PST
+
+
+
+ -----Original Message-----
+From: 	Gillis, Brian  
+Sent:	Friday, June 22, 2001 6:42 AM
+To:	Gossett, Jeffrey C.
+Subject:	FW: Final Deal List
+
+I'll be sending you the effect by book as well.
+
+ -----Original Message-----
+From: 	Gillis, Brian  
+Sent:	Friday, June 22, 2001 5:39 AM
+To:	Clark, Morris; Whiting, Greg; Carrington, Clara; Su, Ellen; Scott, Laura
+Subject:	Final Deal List
+
+Here is the final deal list.  Per discussion with Laura, we made our final target 1.03 Bill USD, in order to leave the proper flexibility for accounting.  Final deal count is 458.
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <3434755.1075851721590.JavaMail.evans@thyme>
+Date: Tue, 20 Feb 2001 01:21:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: kam.keiser@enron.com, darron.giron@enron.com, david.baumbach@enron.com,
+	errol.mclaughlin@enron.com, phillip.love@enron.com
+Subject: To Ops - Revised February BOD Approved Risk Management Policy
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeffrey C Gossett
+X-To: Kam Keiser, Darron C Giron, David Baumbach, Errol McLaughlin, Phillip M Love
+X-cc: 
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+Please review the current risk policy.
+
+Thanks
+---------------------- Forwarded by Jeffrey C Gossett/HOU/ECT on 02/20/2001 
+09:20 AM ---------------------------
+   
+
+
+From:  Cassandra Schultz @ ENRON                                              
+               02/18/2001 10:26 PM	
+	
+	
+	                           
+	
+
+To: Bob M Hall/NA/Enron@Enron, Leslie Reeves/HOU/ECT@ECT, Jeffrey C 
+Gossett/HOU/ECT@ECT, Peggy Hedstrom/CAL/ECT@ECT, Stacey W White/HOU/ECT@ECT, 
+Brent A Price/HOU/ECT@ECT, Scott Earnest/HOU/ECT@ECT, Sheila 
+Glover/HOU/ECT@ECT, D Todd Hall/HOU/ECT, Cindy Horn/LON/ECT@ECT, Brenda F 
+Herod/HOU/ECT@ECT, Mike Jordan/LON/ECT@ECT, Howard Carter/EU/Enron@Enron, 
+Andrew Cornfield/LON/ECT@ECT, James New/LON/ECT@ECT, Orjan 
+Agdesteen/OSL/ECT@ECT, James New/LON/ECT@ECT, Marcelo Parra/NYC/MGUSA@MGUSA, 
+Louis Colarusso/NYC/MGUSA@MGUSA, Heidi 
+Mason/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Jan-Erland Bekeng/AP/Enron@Enron, 
+Kevin Rhodes/EU/Enron@Enron, Naomi Connell/LON/ECT@ECT
+cc: Sally Beck, Shona Wilson, Chris Abel 
+Subject: To Ops - Revised February BOD Approved Risk Management Policy
+
+Attached is the revised Risk Management Policy incorporating the BOD's 
+changes - please discard the previously circulated version I sent out prior 
+to the BOD meeting.  I've also included a recap of substantive changes since 
+the October 2000 version that was circulated to you in conjuction with the 
+compliance certificates last fall, but you should read the policy to enhance 
+your understanding, and distribute it to your groups as some changes are 
+significant and are detailed further in the policy.  I did notify the Office 
+of the Chair for each of your business units of these changes earlier this 
+week, and I will also provide them with a copy of the revised policy.  
+
+
+If you have any questions, feel free to give me a call at x 30429.
+
+Regards,
+Cassandra Schultz
+Market Risk Management
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <33432524.1075851721543.JavaMail.evans@thyme>
+Date: Wed, 7 Feb 2001 02:02:00 -0800 (PST)
+From: irena.hogan@enron.com
+To: john.valdes@enron.com, david.baumbach@enron.com, kam.keiser@enron.com,
+	darron.giron@enron.com, errol.mclaughlin@enron.com,
+	russ.severson@enron.com, greg.couch@enron.com,
+	phillip.love@enron.com, martha.stevens@enron.com
+Subject: Risk Management Team Building - Date Change
+Cc: elizabeth.soto@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: elizabeth.soto@enron.com
+X-From: Irena D Hogan
+X-To: John Valdes, David Baumbach, Kam Keiser, Darron C Giron, Errol McLaughlin, Russ Severson, Greg Couch, Phillip M Love, Martha Stevens
+X-cc: Elizabeth Soto
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+Please make note of new date for Team Building, shown below, as discussed in 
+yesterday's staff meeting.
+
+
+---------------------- Forwarded by Irena D Hogan/HOU/ECT on 02/07/2001 09:57 
+AM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  Irena D Hogan                           01/11/2001 09:45 AM
+	
+
+To: John Valdes/HOU/ECT@ECT, David Baumbach/HOU/ECT@ECT, Kam 
+Keiser/HOU/ECT@ECT, Darron C Giron/HOU/ECT@ECT, Errol 
+McLaughlin/Corp/Enron@ENRON, Russ Severson/HOU/ECT@ECT, Greg 
+Couch/HOU/ECT@ECT, Phillip M Love/HOU/ECT@ECT
+cc: Elizabeth Soto/HOU/ECT@ECT 
+Subject: Risk Management Team Building
+
+
+Please see the attached document below, per format of information to be 
+presented
+ at the Risk Management Off-site.
+  
+
+
+If you have any questions, please give me a call, x36143.
+
+This off-site will take place as follows:
+
+     Wednesday, March 7, 2001
+        Kingwood Country Club
+     1700 Kingwood Lake Trail
+          Phone - 281-358-2171
+      in the Pine Room
+            Start Time 8:30AM
+
+See Below Map
+
+
+
+Driving Directions
+
+Take US-59 N.  
+Take the exit towards KINGWOOD DR. 
+Turn RIGHT onto KINGWOOD DR. 
+Turn RIGHT onto LAKE KINGWOOD TRL. 
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <26746445.1075841238704.JavaMail.evans@thyme>
+Date: Wed, 22 Aug 2001 13:11:27 -0700 (PDT)
+From: c..gossett@enron.com
+To: david.baumbach@enron.com, anne.bike@enron.com, kam.keiser@enron.com,
+	m..love@enron.com, errol.mclaughlin@enron.com, d..winfree@enron.com
+Subject: FW:
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Gossett, Jeffrey C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JGOSSET>
+X-To: Baumbach, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dbaumba>, Bike, Anne </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Abike>, Keiser, Kam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kkeiser>, Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>, McLaughlin Jr., Errol </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emclaug>, Winfree, O'Neal D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Owinfre>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - McLaughlin Jr., Errol\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: erol mclaughlin 6-26-02.PST
+
+
+FYI...
+
+ -----Original Message-----
+From: 	Puthigai, Savita  
+Sent:	Wednesday, August 22, 2001 10:36 AM
+To:	Gossett, Jeffrey C.; Moorer, Torrey
+Cc:	Reeves, Leslie; Hall, Bob M; Lees, Lisa
+Subject:	RE: 
+
+These should work just like the broker deals . There will be an EOL report that will list the origination that needs to be picked up from the trading desk. We apologise for not letting you'll know before this was released. However no mid-marketers have been set up yet and are not likely to be set up or start trading for at least 10 days. We have a training session for Mid-Marketers in 27 C2 tomorrow 8/23/01 at 4p.m. to discuss the funs=ctionality. If it will help please feel free to attend or have one of your people attend. We can also set up a sparate meeting asap to discuss this. Thanks.
+
+
+ -----Original Message-----
+From: 	Gossett, Jeffrey C.  
+Sent:	Wednesday, August 22, 2001 10:09 AM
+To:	Moorer, Torrey; Puthigai, Savita
+Cc:	Reeves, Leslie; Hall, Bob M
+Subject:	
+
+Mid Market Client - Mid market originators will now have the ability to transact on behalf of their customers, while including their desired margin on the trade, on EnronOnline products. In order to do so Click on the bid or offer price, a customised submission window will appear.  Select the counterparty for whom you wish to transact from a drop down list , enter the desired customer price and margin and click submit. For example if a customer wants to buy Nymex Sep 01 at 3.36 and you wish to have a 1 cent margin, please enter 3.36 as the desired price and 0.01 as the margin. The system will trade the order when the EnronOnline offer for Nymex Sep 01 is at 3.35, book the trade at 3.36 and record the 0.01 origination amount.
+
+In order to be set up to use this functionality. Please call the EnronOnline Product Control Group.
+
+
+It sure would be nice to know about these things in the future.  How is this going to work?  How will we pick up the orig?  As you know,  the system does not calculate orig.  What about the controls issues related to EOL confirms going out on originated deals?
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <20304080.1075841239270.JavaMail.evans@thyme>
+Date: Tue, 10 Apr 2001 12:02:00 -0700 (PDT)
+From: jeffrey.gossett@enron.com
+To: david.baumbach@enron.com, kam.keiser@enron.com, phillip.love@enron.com,
+	darron.giron@enron.com, russ.severson@enron.com,
+	john.valdes@enron.com, errol.mclaughlin@enron.com,
+	martha.stevens@enron.com
+Subject: Confidential Folder to safely pass information to Arthur Andersen
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeffrey C Gossett <Jeffrey C Gossett/HOU/ECT@ECT>
+X-To: David Baumbach <David Baumbach/HOU/ECT@ECT>, Kam Keiser <Kam Keiser/HOU/ECT@ECT>, Phillip M Love <Phillip M Love/HOU/ECT@ECT>, Darron C Giron <Darron C Giron/HOU/ECT@ECT>, Russ Severson <Russ Severson/HOU/ECT@ECT>, John Valdes <John Valdes/HOU/ECT@ECT>, Errol McLaughlin <Errol McLaughlin/Corp/Enron@ENRON>, Martha Stevens <Martha Stevens/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - McLaughlin Jr., Errol\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: erol mclaughlin 6-26-02.PST
+
+Please read and follow below:
+
+Thanks
+---------------------- Forwarded by Jeffrey C Gossett/HOU/ECT on 04/10/2001 09:01 AM ---------------------------
+From:	Beth Apollo/ENRON@enronXgate on 04/10/2001 08:52 AM
+To:	Shona Wilson/NA/Enron@Enron, Jeffrey C Gossett/HOU/ECT@ECT, Stacey W White/HOU/ECT@ECT, D Todd Hall/ENRON@enronXgate, Sheri Thomas/HOU/ECT@ECT, Brenda F Herod/ENRON@enronXgate, john.j.boudreaux@us.arthurandersen.com@SMTP@enronXgate, john.vickers@us.arthurandersen.com@SMTP@enronXgate, kate.agnew@us.arthurandersen.com@SMTP@enronXgate, jennifer.stevenson@us.arthurandersen.com@SMTP@enronXgate
+cc:	Sally Beck/HOU/ECT@ECT, tom.bauer@us.arthurandersen.com@SMTP@enronXgate, Georgeanne Hodges/ENRON@enronXgate, Vanessa Schulte/ENRON@enronXgate, Bob M Hall/NA/Enron@Enron, Leslie Reeves/HOU/ECT@ECT, Brent A Price/ENRON@enronXgate 
+Subject:	Confidential Folder to safely pass information to  Arthur Andersen
+
+
+We have become increasingly concerned about confidential information (dpr/position info, curves, validations/stress tests, etc) being passed to Arthur Andersen for audit purposes over the Web to their Arthur Andersen email addresses. (necessary now they no longer have access to Enron's internal email system)  
+
+Please use the folder described below when passing any info (that you would have concerns about if it was picked up by a third party) via the shared drive that has been set up for this specific purpose.   
+
+Note:  AA should also use the shared drive to pass info back if there are questions, or the data needs updating.  We should also consider the sensitivity of audit findings and special presentations if they are being distributed electronically.
+
+
+Please pass this note to others in your groups who have the need to pass info back and forth.
+
+ 
+Details on how to access for those who will use this method to pass info:
+
+A secured folder has been set up on the "o" drive under Corporate called Arthur_Andersen (O:\Corporate\Arthur_Anderson).  Please post all confidential files in this folder rather than emailing the files to their company email address.  If you need access to this folder, submit an eRequest through the IT Central site: http://itcentral.enron.com/Data/Services/SecurityRequests/.  Arthur Andersen will be able to retrieve these files for review with their terminal server access at the Three Allen Center location.
+
+Please contact Vanessa Schulte if you have any problems or questions
+
+Beth Apollo
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <28070118.1075851720517.JavaMail.evans@thyme>
+Date: Mon, 27 Nov 2000 00:10:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: kam.keiser@enron.com, darron.giron@enron.com, william.kelly@enron.com,
+	david.baumbach@enron.com, errol.mclaughlin@enron.com
+Subject: Curve Request Form
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeffrey C Gossett
+X-To: Kam Keiser, Darron C Giron, William Kelly, David Baumbach, Errol McLaughlin
+X-cc: 
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+---------------------- Forwarded by Jeffrey C Gossett/HOU/ECT on 11/27/2000 
+08:13 AM ---------------------------
+
+
+Susan D Trevino
+11/22/2000 01:34 PM
+To: Jeffrey C Gossett/HOU/ECT@ECT
+cc: Burton McIntyre/HOU/ECT@ECT 
+Subject: Curve Request Form
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <33027645.1075851721315.JavaMail.evans@thyme>
+Date: Wed, 24 Jan 2001 05:10:00 -0800 (PST)
+From: susan.scott@enron.com
+To: errol.mclaughlin@enron.com
+Subject: PGE
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Susan M Scott
+X-To: Errol McLaughlin
+X-cc: 
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+---------------------- Forwarded by Susan M Scott/HOU/ECT on 01/24/2001 01:09 
+PM ---------------------------
+
+
+Susan M Scott
+01/24/2001 12:55 PM
+To: Jeffrey C Gossett/HOU/ECT@ECT
+cc:  
+Subject: PGE
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <12197717.1075841239172.JavaMail.evans@thyme>
+Date: Wed, 2 May 2001 10:20:00 -0700 (PDT)
+From: jeffrey.gossett@enron.com
+To: kam.keiser@enron.com, errol.mclaughlin@enron.com
+Subject: Change to ENA/EES Deals
+Cc: scott.mills@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: scott.mills@enron.com
+X-From: Jeffrey C Gossett <Jeffrey C Gossett/HOU/ECT@ECT>
+X-To: Kam Keiser <Kam Keiser/HOU/ECT@ECT>, Errol McLaughlin <Errol McLaughlin/Corp/Enron@ENRON>
+X-cc: Scott Mills <Scott Mills/HOU/EES@EES>
+X-bcc: 
+X-Folder: \ExMerge - McLaughlin Jr., Errol\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: erol mclaughlin 6-26-02.PST
+
+Please change the deals in your books.
+
+Thanks
+---------------------- Forwarded by Jeffrey C Gossett/HOU/ECT on 05/02/2001 07:19 AM ---------------------------
+From:	Scott Mills@EES on 05/01/2001 08:53 PM
+To:	Jeffrey C Gossett/HOU/ECT@ECT
+cc:	Russ Kavanaugh/HOU/EES@EES 
+Subject:	Change to ENA/EES Deals
+
+Can the following deals be rebooked using the current intercompany methodology:
+
+	Buyer = Enron Energy Services
+	Seller = Enron North America (or RMT if these are all financial)
+
+Then what is now the counterparties on the deal will become the books. 
+
+These are the only deals that are left that are booked the old way.  I was  hoping to make things consistent.  Two of the deals (EH1958.1, EH4242.5) will roll off the end of May -the others have months to go.
+
+Thanks for the help
+
+SRM (x33548)
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <12630787.1075841239049.JavaMail.evans@thyme>
+Date: Mon, 4 Jun 2001 11:00:00 -0700 (PDT)
+From: c..gossett@enron.com
+To: errol.mclaughlin@enron.com
+Subject: RE: Active/Inactive Books website clean up
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Gossett, Jeffrey C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JGOSSET>
+X-To: McLaughlin Jr., Errol </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emclaug>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - McLaughlin Jr., Errol\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: erol mclaughlin 6-26-02.PST
+
+Thanks.  I just want to make sure they aren't hitting us for unofficial books.
+
+ -----Original Message-----
+From: 	McLaughlin Jr., Errol  
+Sent:	Monday, June 04, 2001 11:35 AM
+To:	Gossett, Jeffrey C.
+Subject:	RE: Active/Inactive Books website clean up
+
+Jeff,
+
+The two NG-Price books were added per John's requeset, but have no trades in them.  I have changed their status to inactive.  The FT-Transport-Basis is an excel spreadsheet (according to the rac website), but I don't know why it is showing up under our desk -- I am calling Chris Abel to find out why.  In the interim I have changed the status to inactive.  I am checking on the books under Kori's name, but preliminarily it looks like there are no deals nor post id's for them, so I have changed there status to inactive.  I will keep you updated with anything else I find.
+
+Thanks,
+
+Errol
+
+       ----Original Message-----
+From: 	Gossett, Jeffrey C.  
+Sent:	Monday, June 04, 2001 8:31 AM
+To:	McLaughlin Jr., Errol; Loibl, Kori
+Subject:	FW: Active/Inactive Books website clean up
+
+What's the deal with these books???
+
+ -----Original Message-----
+From: 	Jenkins, Jason  
+Sent:	Monday, June 04, 2001 7:47 AM
+To:	McLaughlin Jr., Errol; Loibl, Kori; Gossett, Jeffrey C.
+Cc:	Abel, Chris; McIntyre, Burton; Trevino, Susan; Velasco, Jennifer
+Subject:	Active/Inactive Books website clean up
+
+The listed books are all showing an Active status on the website, but do not have post id's for the 1st.  Could you please do one of two things: 1)Change the status to Inactive or Archive, if the books do not have any trades  or 2) if they should be officialized and should have a post id, work with Burton's group to resolve the issue.
+
+We will be reporting on a daily basis all active books that did not have a post id show up on the website.  Therefore please manage the status of these books accordingly.  
+
+If you have any questions about the website, please contact Chris, Burton, Jennifer, Susan or myself.
+
+Thanks,	
+		Jason W. Jenkins
+
+Post ID	Book ID	Status	Trade Grp.	Admin.	
+	FT-TRANSPORT-BAS	ACTIVE	US GAS FIN	EMCLAUG	
+	NG-PR-SPREAD-PRC	ACTIVE	US GAS FIN	EMCLAUG	
+	NG-PRICE2-PRC	ACTIVE	US GAS FIN	EMCLAUG	
+	STAR-GDL	ACTIVE	US GAS FIN	EMCLAUG	
+	STAR-IDX	ACTIVE	US GAS FIN	EMCLAUG	
+	ECS-BAS	ACTIVE	US GAS FIN	KLOIBL	
+	ECS-GDL	ACTIVE	US GAS FIN	KLOIBL	
+	ECS-IDX	ACTIVE	US GAS FIN	KLOIBL	
+	ECS-PHY	ACTIVE	US GAS FIN	KLOIBL	
+	ECS-PRC	ACTIVE	US GAS FIN	KLOIBL	
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <32719997.1075851720566.JavaMail.evans@thyme>
+Date: Mon, 27 Nov 2000 00:51:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: kam.keiser@enron.com, darron.giron@enron.com, william.kelly@enron.com,
+	david.baumbach@enron.com, errol.mclaughlin@enron.com,
+	robin.rodrigue@enron.com
+Subject: requests for new curves, new books, porfolio changes
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeffrey C Gossett
+X-To: Kam Keiser, Darron C Giron, William Kelly, David Baumbach, Errol McLaughlin, Robin Rodrigue
+X-cc: 
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+Please let me know if you see any flaws in this process.
+
+Thanks.
+---------------------- Forwarded by Jeffrey C Gossett/HOU/ECT on 11/27/2000 
+08:54 AM ---------------------------
+
+From: Shona Wilson@ENRON on 11/22/2000 02:47 PM
+To: James New/LON/ECT@ECT, Lloyd Fleming/LON/ECT@ECT, Andrew 
+Cornfield/LON/ECT@ECT, David A Wall/Risk Mgmt/LON/ECT@ECT, Jeffrey C 
+Gossett/HOU/ECT@ECT, Stacey W White/HOU/ECT@ECT, Peggy Hedstrom/CAL/ECT@ECT, 
+Jenny Latham/HOU/ECT@ECT, Scott Mills/HOU/ECT@ECT, Martha 
+Stevens/HOU/ECT@ECT, Scott Earnest/HOU/ECT@ECT, Michelle Bruce/HOU/ECT@ECT, 
+Sheila Glover/HOU/ECT@ECT, Clara Carrington/HOU/ECT@ECT, D Todd 
+Hall/HOU/ECT@ECT, Brenda F Herod/HOU/ECT@ECT, Michael E Moscoso/HOU/ECT@ECT, 
+Barry Pearce/Enron Communications@Enron Communications, Kristin 
+Albrecht/Enron Communications@Enron Communications, Gary Stadler/Enron 
+Communications@Enron Communications, Neil Hong/HOU/EES@EES, Warren 
+Prihoda/HOU/EES@EES, Louis Colarusso/NYC/MGUSA@MGUSA, Christian 
+LeBroc/Corp/Enron@ENRON, Rebecca Miller, Jan-Erland Bekeng/AP/Enron@Enron, 
+Heidi Mason/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, David Port/Market 
+Risk/Corp/Enron@ENRON, Vladimir Gorny/HOU/ECT@ECT, Frank 
+Hayden/Corp/Enron@Enron, Bjorn Haglemann, Debbie R Brackett/HOU/ECT@ECT
+cc: Sally Beck/HOU/ECT@ECT, Brent A Price/HOU/ECT@ECT, Mike 
+Jordan/LON/ECT@ECT, Chris Abel/HOU/ECT@ECT, Susan D Trevino/HOU/ECT@ECT, 
+Burton McIntyre/HOU/ECT@ECT 
+Subject: requests for new curves, new books, porfolio changes
+
+In the past few months, the procedures for setting up new curves and books 
+have not been followed by everyone. 
+
+The following memo documents the procedures to 1) set up a new curve, 2) set 
+up a new book, and 3) change a portfolio hierarchy.  Please note that risk 
+management (for each commodity group), "risk management"  is responsible for 
+ensuring that information is flowing appropriately between the valuation 
+systems and RisktRAC (Risk Analysis and Reporting can help, but do not have 
+all of the ERMS information to be able to ensure the completeness of 
+RisktRAC).
+
+I have attached the request form for each of these changes at the bottom of 
+this memo.  Please ensure that everyone in your group obtains a copy. 
+
+The procedure to set up a new curve is as follows:
+
+Trader starts trading at a new location or a new commodity and needs a new 
+curve set up
+Trader communicates this to risk management
+Risk management constructs new curve in ERMS (with the help of the IT 
+department)
+Risk management completes a curve set up request form to set up curve in 
+RisktRAC
+Curve form is forwarded to Risk Analysis and Reporting
+Risk Analysis and Reporting sets up curve in RisktRAC
+A system generated message is sent to people on the "curve list" indicating a 
+change in the RisktRAC curves has been made
+
+If the curve is not set up in RisktRAC the positions are not captured in the 
+VAR or engine, thereby making VAR inaccurate.  As a side note, Risk Analysis 
+and Reporting has implemented a new process in which on a weekly basis new 
+curves set up in ERMS are reviewed to ensure that these have been set up in 
+RisktRAC.  We did this for the first time today and noted numerous curves in 
+ERMS that are not in RisktRAC - which we are working with you to resolve.
+
+The procedure to set up a new book in RisktRAC is as follows:
+
+Trader/risk management determines new book is needed
+New book request form (for RisktRAC) is completed by risk management
+New book request form is forwarded to Risk Analysis and Reporting
+Risk Analysis and Reporting sets up book in RisktRAC
+Risk Analysis and Reporting forwards request to ERMS administrator and global 
+counterparty group to request that book is set up in valuation and 
+counterparty systems
+Once all groups have completed their individual set ups, a final e-mail is 
+sent to personnel on the "books list" and the book administrator in the risk 
+management department who requested the book
+
+It is important that there is a one to one link between the ERMS and RisktRAC 
+books, or not all positions will be captured in RisktRAC (two commodities per 
+ERMS book does not flow properly into RisktRAC).
+
+The above two processes have formally existed for a number of months.  
+Additionally, we are formalizing the procedure for changing portfolio 
+hierarchies.  The procedure now is:
+
+Risk management is responsible for requesting all portfolio hierarchy 
+changes.  Previously, changes could be made through a request by Risk 
+Analysis and Reporting or RAC.  These two groups are no longer allowed to 
+submit change requests.  All requests must come through risk management.
+Risk management completes a request, including the reason for the requested 
+change in structure
+Risk management forwards the request to Risk Analysis and Reporting
+Risk Analysis and Reporting makes the change and notifies risk management 
+that the change has been made.
+
+If you have any questions, comments or concerns, please call: me X39123, 
+Chris Abel X33012, Burton McIntyre X57197, or Susan Trevino X31462.
+
+Thanks,
+
+Shona
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <1415341.1075851720591.JavaMail.evans@thyme>
+Date: Thu, 30 Nov 2000 04:02:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: kam.keiser@enron.com, darron.giron@enron.com, william.kelly@enron.com,
+	david.baumbach@enron.com, errol.mclaughlin@enron.com
+Subject: daily reporting to Rick Buy
+Cc: robin.rodrigue@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: robin.rodrigue@enron.com
+X-From: Jeffrey C Gossett
+X-To: Kam Keiser, Darron C Giron, William Kelly, David Baumbach, Errol McLaughlin
+X-cc: Robin Rodrigue
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+Please read the following and let me know if you have any suggestions.
+
+Thanks
+---------------------- Forwarded by Jeffrey C Gossett/HOU/ECT on 11/30/2000 
+12:01 PM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  Shona Wilson @ ENRON                           11/30/2000 10:35 AM
+	
+
+To: Jeffrey C Gossett/HOU/ECT@ECT, Peggy Hedstrom/CAL/ECT@ECT, Kathy 
+Reeves/CAL/ECT@ECT, Stacey W White/HOU/ECT@ECT, Scott Mills/HOU/ECT@ECT, 
+Martha Stevens/HOU/ECT@ECT, Monica Lande/PDX/ECT@ECT, Scott 
+Earnest/HOU/ECT@ECT, Michelle Bruce/HOU/ECT@ECT, Matt A Brown/HOU/ECT@ECT, 
+Sheila Glover/HOU/ECT@ECT, D Todd Hall/HOU/ECT@ECT, David 
+Maxwell/HOU/ECT@ECT, Clara Carrington/HOU/ECT@ECT, James New/LON/ECT@ECT, 
+Andrew Cornfield/LON/ECT@ECT, Heidi 
+Mason/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Jan-Erland Bekeng/AP/Enron@Enron, 
+Neil Hong/HOU/EES@EES, Warren Prihoda/HOU/EES@EES
+cc: Bob M Hall/NA/Enron@Enron, Leslie Reeves/HOU/ECT@ECT, Brent A 
+Price/HOU/ECT@ECT, Sally Beck/HOU/ECT@ECT, Mike Jordan/LON/ECT@ECT, Meredith 
+M Eggleston/HOU/EES@EES, Burton McIntyre/HOU/ECT@ECT, Chris Abel/HOU/ECT@ECT 
+Subject: daily reporting to Rick Buy
+
+Rick Buy has requested that he receive the log of the book officialization 
+errors on a daily basis.  Previously, he was only receiving it weekly.  
+Because of this change, it will be necessary for risk contols to have a 
+complete explanation from your risk groups as to why errors happened.  
+
+The current process is as follows for Houston (using Houston time):
+Books officialized in evening by risk management
+7:30 am risk controls receives error listing (books which did not make it to 
+RisktRAC)
+7:30 - 8:30 explanations obtained for error received from risk management 
+(Not all explanations are obtained by 8:30)
+8:30 meeting to discuss previous night's officialization process and general 
+processes
+9:00 close obtain explanations not obtained before meeting
+Wed pm - weekly consolidated report sent to business controllers and RAC
+
+The process needs to change so that we receive all explanations before the 
+8:30 meeting.  I know that many groups identify errors the night before via 
+the benchmark or reviews of RisktRAC.  Hopefully, all groups are moving in 
+this direction.  Since the log will go out each day, each of you need to look 
+at the current process you have in place and determine how you can get us the 
+information prior to the 8:30 meeting.
+
+We are trying to put the following process in place (for Houston):
+Books officialized in evening by risk management including risk management 
+ensuring RisktRAC has all required information, errors noted and an e-mail 
+sent to risk controls
+7:30 am risk controls receives error listing (books which did not make it to 
+RisktRAC)
+7:30 - 8:30 explanations obtained for error received from risk management (if 
+not received the night before) and log updated
+8:30 meeting to discuss previous night's officialization process and general 
+processes
+Log sent to bus. controllers, RAC - daily
+
+Note:  I know that London, Sydney, and Japan have different processes.  We 
+have to work with your current processes to ensure that risk controls 
+receives info on time.
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <12684822.1075851720662.JavaMail.evans@thyme>
+Date: Mon, 11 Dec 2000 02:35:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: kam.keiser@enron.com, darron.giron@enron.com, william.kelly@enron.com,
+	david.baumbach@enron.com, errol.mclaughlin@enron.com
+Subject: How do officialized books make it to credit?
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeffrey C Gossett
+X-To: Kam Keiser, Darron C Giron, William Kelly, David Baumbach, Errol McLaughlin
+X-cc: 
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+Please forward this to your groups. Thanks.
+---------------------- Forwarded by Jeffrey C Gossett/HOU/ECT on 12/11/2000 
+10:38 AM ---------------------------
+
+From: Shona Wilson@ENRON on 12/11/2000 10:35 AM
+To: Bob M Hall/NA/Enron@Enron, Leslie Reeves/HOU/ECT@ECT, Jeffrey C 
+Gossett/HOU/ECT@ECT, Peggy Hedstrom/CAL/ECT@ECT, Kathy Reeves/CAL/ECT@ECT, 
+Stacey W White/HOU/ECT@ECT, Monica Lande/PDX/ECT@ECT, David 
+Maxwell/HOU/ECT@ECT, Martha Stevens/HOU/ECT@ECT, Scott Mills/HOU/ECT@ECT, 
+Scott Earnest/HOU/ECT@ECT, Michelle Bruce/HOU/ECT@ECT, Sheila 
+Glover/HOU/ECT@ECT, D Todd Hall/HOU/ECT@ECT, Brenda F Herod/HOU/ECT@ECT, 
+Michael E Moscoso/HOU/ECT@ECT, Kristin Albrecht/Enron Communications@Enron 
+Communications, Gary Stadler/Enron Communications@Enron Communications, 
+Meredith M Eggleston/HOU/EES@EES, James New/LON/ECT@ECT, Heidi 
+Mason/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Jan-Erland Bekeng/AP/Enron@Enron, 
+Jay Knoblauh/HOU/ECT@ECT
+cc: Sally Beck/HOU/ECT@ECT, Brent A Price/HOU/ECT@ECT, Mike 
+Jordan/LON/ECT@ECT, Chris Abel/HOU/ECT@ECT, Kenneth 
+Thibodeaux/NA/Enron@ENRON, Michael Benien/Corp/Enron@ENRON, Burton 
+McIntyre/HOU/ECT@ECT, Susan D Trevino/HOU/ECT@ECT, Nancy 
+Hernandez/NA/Enron@ENRON, Debbie R Brackett/HOU/ECT@ECT, John D 
+Powell/HOU/ECT@ECT, Ganapathy Ramesh/HOU/ECT@ECT, Joel 
+Henenberg/NA/Enron@Enron, Matt A Brown/HOU/ECT@ECT 
+Subject: How do officialized books make it to credit?
+
+In the past few months much focus has been put on understanding VAR and how 
+it is calculated (through RisktRAC).  However, everyone should note that the 
+credit department also receives our information.  Market risk and credit risk 
+are inherently different, with different requirements.  This memo serves as a 
+reminder of what some of the key differences are, how the credit system uses 
+RisktRAC differently from market risk, how this affects us, what some key 
+problems are in the credit system caused by our data, and changes to be made 
+by risk management groups.
+
+differences are between credit and market risk - you all know this, but many 
+of your ba's don't. 
+when a book is flat it still has an effect on credit.  Flat books must be 
+officialized
+market risk is keyed off positions and curves.  When we make money, market 
+risk is reduced.  Credit risk is keyed off positions with customers.  When we 
+make money, credit risk is increased, as people owe us more money.
+
+how the credit system uses RisktRAC differently from market risk
+Market risk picks up all officialized books.  If a book is not officialized 
+it does not pick the book up.
+Credit picks up all officalized books.  If a book is not officialized, it 
+picks up the previous day's position.  Therefore, if positions in book A are 
+moved to book B, and A is no longer officialized, credit picks up the 
+previous day's position for book A.  As a result, if a book is no longer 
+used, please officialize it the first day it is no longer used, so credit 
+will pick up 0 on a go forward basis.
+Market risk is not concerned with counterparty codes and names.
+Credit needs correct counterparty codes and names.  In recent months, the 
+counterparty information has deteriorated.  Enron official counterparty names 
+need to be used so they flow properly to credit.
+
+what are some key problems in the credit system caused by our data
+As referenced above: correct counterparty names and books with 0 positions 
+not being officialized so credit picks up previous day info.
+As a takeaway from this message please ensure only correct counterparty names 
+are used and that if a book has 0 positions that it is officialized the first 
+day it has 0 positions.
+
+If you have specific questions about credit, please call Debbie Brackett, at 
+X35856. 
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <6617595.1075851720806.JavaMail.evans@thyme>
+Date: Tue, 12 Dec 2000 02:16:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: michael.swaim@enron.com
+Subject: Re: Counterparties w/ Master Agreements with ECC
+Cc: dawn.kenne@enron.com, torrey.moorer@enron.com, tara.sweitzer@enron.com,
+	jennifer.denny@enron.com, kam.keiser@enron.com,
+	darron.giron@enron.com, william.kelly@enron.com,
+	david.baumbach@enron.com, errol.mclaughlin@enron.com,
+	sheri.thomas@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: dawn.kenne@enron.com, torrey.moorer@enron.com, tara.sweitzer@enron.com,
+	jennifer.denny@enron.com, kam.keiser@enron.com,
+	darron.giron@enron.com, william.kelly@enron.com,
+	david.baumbach@enron.com, errol.mclaughlin@enron.com,
+	sheri.thomas@enron.com
+X-From: Jeffrey C Gossett
+X-To: Michael Swaim
+X-cc: Dawn C Kenne, Torrey Moorer, Tara Sweitzer, Jennifer deBoisblanc Denny, Kam Keiser, Darron C Giron, William Kelly, David Baumbach, Errol McLaughlin, Sheri Thomas
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+It does more harm than good to just do the one leg.  We are currently 
+settling all of these deals incorrectly b/c they are pointing to the Houston 
+office instead of Calgary.  Please let me know if there is anything that I 
+can do to make sure this happens more quickly.
+
+Thanks
+
+
+From: Michael Swaim on 12/12/2000 10:13 AM
+To: Dawn C Kenne/HOU/ECT@ECT
+cc: Jeffrey C Gossett/HOU/ECT@ECT, Torrey Moorer/HOU/ECT@ECT, Tara 
+Sweitzer/HOU/ECT@ECT, Jennifer deBoisblanc Denny/HOU/ECT@ECT, Kam 
+Keiser/HOU/ECT@ECT, Darron C Giron/HOU/ECT@ECT, William Kelly/HOU/ECT@ECT, 
+David Baumbach/HOU/ECT@ECT 
+Subject: Re: Counterparties w/ Master Agreements with ECC  
+
+
+  I can make the list of counterparties used by the bridge database driven, 
+and have it maintainable via the Tagg maintenance program. Currently, the 
+bridge only does the first part of the deal. Flipping out the deal between 
+ENA and ECC has to be done manually. Because we're currently making a number 
+of changes to the bridge already, and I have other commitments, I'm loathe to 
+tackle automating the second leg until sometime after January.
+
+Mike
+x36043
+
+
+
+
+Dawn C Kenne
+12/12/2000 10:00 AM
+To: Jeffrey C Gossett/HOU/ECT@ECT, Michael Swaim/HOU/ECT@ECT, Torrey 
+Moorer/HOU/ECT@ECT, Tara Sweitzer/HOU/ECT@ECT
+cc: Jennifer deBoisblanc Denny/HOU/ECT@ECT, Kam Keiser/HOU/ECT@ECT, Darron C 
+Giron/HOU/ECT@ECT, William Kelly/HOU/ECT@ECT, David Baumbach/HOU/ECT@ECT 
+Subject: Counterparties w/ Master Agreements with ECC
+
+I have received an updated list of the counterparties that have Master 
+Agreements with ECC.  There are now about 40 counterparties that fall under 
+this category.  What seems to be happening is that these counterparties are 
+hitting on US gas products on EOL and are not bridging into Tagg correctly.  
+Currently, they are bridging as one leg between ENA and the counterparty.  
+The problem arises during settlement because ENA cannot settle with these 
+counterparties, only ECC can.  An example of what Risk is doing to the 
+products after bridging is Tagg#Q79131 / EOL #555401.
+
+RISK:  We need risk to verify that anytime, without exception, all companies 
+with Master Agreements with ECC that hit a US product must be booked as two 
+legs:  leg one booked between ECC and the counterparty with risk assignment 
+of FT-US/CAND-ERMS; leg two flipping the risk out of FT-US/CAND-ERMS to the 
+appropriate risk book.  Also, risk needs to verify that this is only for 
+Financial Swaps and not Physical deals.  
+
+IT:  It is my understanding that a few counterparties are set up to be booked 
+correctly (with two legs).  The list is now up to 40 counterparties and will 
+most likely be updated on a consistent basis.  Is this something that Tagg 
+Maintenance can handle?  Guidelines need to be set up for Risk/Global to 
+instruct IT when new Master Agreements are created with counterparties so 
+logic can be adjusted accordingly.
+
+Does a meeting need to be set up to elaborate on these issues?  Are there any 
+further issues that need to be addressed concerning ECC Master Agreements?    
+(i.e. What about when a counterparty with ECC Master Agreement hits a 
+Canadian product out of the Houston office?)  
+Please respond with your thoughts on this subject.
+
+Thank you,
+Dawn
+3-9353
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <33139052.1075841238533.JavaMail.evans@thyme>
+Date: Thu, 18 Oct 2001 15:36:00 -0700 (PDT)
+From: c..gossett@enron.com
+To: errol.mclaughlin@enron.com
+Subject: FW: Names Needed for Golf Tournament
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Gossett, Jeffrey C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JGOSSET>
+X-To: McLaughlin Jr., Errol </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emclaug>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - McLaughlin Jr., Errol\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: erol mclaughlin 6-26-02.PST
+
+Errol -
+
+Are you available this day for a little golf?
+
+ -----Original Message-----
+From: 	Hall, Bob M  
+Sent:	Thursday, October 18, 2001 1:46 PM
+To:	Superty, Robert; Gossett, Jeffrey C.
+Subject:	FW: Names Needed for Golf Tournament
+
+Can you please provide info to Sally.
+
+thanks
+
+bob
+
+ -----Original Message-----
+From: 	Beck, Sally  
+Sent:	Thursday, October 18, 2001 1:45 PM
+To:	Sweeney, Kevin; Apollo, Beth; Hall, Bob M; Price, Brent A.
+Cc:	Craig, Braedi; Carrizales, Blanca; Choate, Heather; Valdez, Christina
+Subject:	Names Needed for Golf Tournament
+
+RE:  Golf Tournament at Ravenaux Country Club, Monday, November 19th 
+        11:00 am Registration and Range Balls; 12:00 Noon Shotgun Start
+
+
+
+Please send me the list players for each foursome, along with their handicaps and phone numbers by Friday this week?   Thanks.  
+
+Will provide more information for all players prior to tournament. 
+
+Foursomes
+
+Beth Apollo (2):  EES and Global Services
+
+Brent Price (1)
+
+Kevin Sweeney (1)
+
+Bob Hall (2):  Risk and Logistics 
+
+Chantelle:  Brent has given me names of players for his foursome - Brent, Scott Earnest; John Swinney and Frank Prejean.  Can you get handicaps and phone numbers (Enron) for me?  Thanks.  
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <20289695.1075851721071.JavaMail.evans@thyme>
+Date: Wed, 10 Jan 2001 03:39:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: timothy.norton@enron.com, matthew.condon@enron.com,
+	tracy.beardmore@enron.com, joyce.kuo@enron.com,
+	stewart.range@enron.com, john.swinney@enron.com,
+	michelle.nelson@enron.com, jeremy.mills@enron.com,
+	john.postlethwaite@enron.com, casey.evans@enron.com,
+	valarie.sabo@enron.com, kam.keiser@enron.com, darron.giron@enron.com,
+	david.baumbach@enron.com, errol.mclaughlin@enron.com,
+	phillip.love@enron.com, kathy.reeves@enron.com,
+	brian.gillis@enron.com
+Subject: Lagrasta Origination
+Cc: michelle.bruce@enron.com, stacey.white@enron.com, sheila.glover@enron.com,
+	sally.beck@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: michelle.bruce@enron.com, stacey.white@enron.com, sheila.glover@enron.com,
+	sally.beck@enron.com
+X-From: Jeffrey C Gossett
+X-To: Timothy M Norton, Matthew Condon, Tracy Beardmore, Joyce Kuo, Stewart Range, John Swinney, Michelle Nelson, Jeremy Mills, John D Postlethwaite, Casey Evans, Valarie Sabo, Kam Keiser, Darron C Giron, David Baumbach, Errol McLaughlin, Phillip M Love, Kathy Reeves, Brian Gillis
+X-cc: Michelle Bruce, Stacey W White, Sheila Glover, Sally Beck
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+ I appreciate everyone's help in making sure that all the information for 
+Lagrasta's originated is deals is accurate.  He is now receiving a daily 
+report with all originated deals.  
+
+ He has also asked that we give him the data on the deals that his group has 
+done that do not have origination.  Therefore,  going forward we will need to 
+put all deals for Lagrasta's group into the origination file.  Meaning,  if 
+his group does a deal where no origination is granted,  you will need to put 
+all the relevant information into the origination file and just put a $0 for 
+the Origination granted on the report.  Thanks so much for your help.
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <8314039.1075841238828.JavaMail.evans@thyme>
+Date: Thu, 19 Jul 2001 13:24:44 -0700 (PDT)
+From: c..gossett@enron.com
+To: shona.wilson@enron.com
+Subject: FW: Task force for Risk Analytics
+Cc: greg.couch@enron.com, kam.keiser@enron.com, errol.mclaughlin@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: greg.couch@enron.com, kam.keiser@enron.com, errol.mclaughlin@enron.com
+X-From: Gossett, Jeffrey C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JGOSSET>
+X-To: Wilson, Shona </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=a2a6890e-4bbece71-862568e1-76b49b>
+X-cc: Couch, Greg </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gcouch>, Keiser, Kam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kkeiser>, McLaughlin Jr., Errol </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emclaug>
+X-bcc: 
+X-Folder: \ExMerge - McLaughlin Jr., Errol\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: erol mclaughlin 6-26-02.PST
+
+Shona -
+
+Please put Kam on the V@R task force,  Errol on the stress testing task force, and Greg on the models task force.
+
+Thanks,
+
+Jeff
+
+ -----Original Message-----
+From: 	Wilson, Shona  
+Sent:	Monday, July 16, 2001 5:41 PM
+To:	Hall, Bob M; Gossett, Jeffrey C.; White, Stacey W.; Gillis, Brian; Reeves, Kathy; Hedstrom, Peggy; Price, Brent A.; Glover, Sheila; Hall, D. Todd; Sweeney, Kevin; Latham, Jenny; Wood, Shelly; Moscoso, Michael E.; Leuschen, Sam; Hanson, Kristen J.; Jordan, Mike; New, James; Cornfield, Andrew; Mills, Scott; Pearce, Barry; Albrecht, Kristin; Miralles, Al; Ayala, Susie; Port, David; Schultz, Cassandra; Abel, Chris; Hernandez, Nancy
+Cc:	Apollo, Beth; Beck, Sally
+Subject:	Task force for Risk Analytics
+
+Today we had a meeting where we discussed, among other things, what some of the improvements to the risk analytics being done within Global Risk Operations ("Energy Ops") should be.  For those of you who could not attend today's meeting, there is an additional meeting scheduled for next Monday.
+
+As a result of previous risk/RAC meetings, task forces to address the following are being set up.  I have chosen four key areas that address our largest concerns.  We are looking for 4-5 people on a task force and each of you should either be on a task force or elect a manager or above representative from your group to sit on a task force.
+
+Please let me know by Wednesday which task force you would like to be assigned to.  I will then compile the information and get back to you with all of the team members for each task force.
+
+Task forces needed:
+
+Curve validations & correlation factors, & conversion factors- we need to look at tools, resources, methodologies etc.  The goal is to roll out to the individual risk groups a standard curve methodology and a tool to perform the validations.
+Members to date: Tom Victorio, Jeff Gossett
+Date to have methodology & tools rolled out: Aug 30
+
+Stress testing and Scenario Analysis - The goal is to determine if standard scenarios should be developed, how this testing/analytics should be performed, and what tools should be used to do it.
+Date to determine how these stress testing & scenario analysis should be performed Aug 30.  To be implemented on test basis - end of Q3, to be fully implemented Oct 30.
+
+VAR - currently the calcs are not clearly understood by all risk groups.  This task force would be responsible for defining roles and responsibilities for VAR and work with RAC to develop training courses on "ENRON VAR".
+Members to date: Sheila Glover
+Date to have classes scheduled & roles & responsibilities determined: Sept 30
+
+Models - We have developed a good tool to identify valuation profit and loss models "exotic spreadsheets" within RisktRAC and are now in the process of putting together review standards for these models.  The goal of this task force is to implement an agreed upon review standard for all models.
+Members to date: Nancy Hernandez
+Date to have review & approval process in place Sept 30
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <10138728.1075841239148.JavaMail.evans@thyme>
+Date: Mon, 7 May 2001 10:50:00 -0700 (PDT)
+From: jeffrey.gossett@enron.com
+To: david.baumbach@enron.com, kam.keiser@enron.com, phillip.love@enron.com,
+	darron.giron@enron.com, russ.severson@enron.com,
+	john.valdes@enron.com, errol.mclaughlin@enron.com,
+	martha.stevens@enron.com
+Subject: Gas Trading Audit Notification
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeffrey C Gossett <Jeffrey C Gossett/HOU/ECT@ECT>
+X-To: David Baumbach <David Baumbach/HOU/ECT@ECT>, Kam Keiser <Kam Keiser/HOU/ECT@ECT>, Phillip M Love <Phillip M Love/HOU/ECT@ECT>, Darron C Giron <Darron C Giron/HOU/ECT@ECT>, Russ Severson <Russ Severson/HOU/ECT@ECT>, John Valdes <John Valdes/HOU/ECT@ECT>, Errol McLaughlin <Errol McLaughlin/Corp/Enron@ENRON>, Martha Stevens <Martha Stevens/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - McLaughlin Jr., Errol\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: erol mclaughlin 6-26-02.PST
+
+FYI...........
+---------------------- Forwarded by Jeffrey C Gossett/HOU/ECT on 05/07/2001 07:49 AM ---------------------------
+From:	Mechelle Atwood/ENRON@enronXgate on 05/04/2001 03:24 PM
+To:	Robert L Hall/ENRON@enronXgate, Jeffrey C Gossett/HOU/ECT@ECT, Bryce Baxter/HOU/ECT@ECT
+cc:	Wes Colwell/ENRON@enronXgate, "john.j.boudreaux@andersen.com" <'john.j.boudreaux@andersen.com'>@SMTP@enronXgate, "kate.e.agnew@us.andersen.com" <'kate.e.agnew@us.andersen.com'>@SMTP@enronXgate, Nicole Mendez/ENRON@enronXgate 
+Subject:	Gas Trading Audit Notification
+
+
+The Gas Trading Audit is scheduled to begin May 11, 2001 and is expected to take approximately two to three months to complete.  The audit will be executed by Arthur Andersen and led by Kate Agnew.
+
+We will schedule an opening meeting with you the week of May 7, 2001 to discuss audit scope and any concerns or suggestions you may have.
+
+The objective of the audit will be to determine whether procedures and controls exercised over activities are adequate and operating effectively.  
+
+Results of the audit will be discussed with you and other appropriate personnel both during the audit and at the audit closing meeting. 
+
+We will endeavor to conduct this audit in a manner that will minimize interruption of your normal business activities and we look forward to working with you and your personnel. Please call me at x5-4554 if have any questions. 
+
+
+Mechelle Atwood
+Director, Enron Assurance Services
+Enron Wholesale Services
+713.345.4554; Location:  EB2383
+Mechelle.Atwood@enron.com
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <24862464.1075841238582.JavaMail.evans@thyme>
+Date: Tue, 2 Oct 2001 08:53:01 -0700 (PDT)
+From: c..gossett@enron.com
+To: david.baumbach@enron.com, anne.bike@enron.com, kam.keiser@enron.com,
+	m..love@enron.com, errol.mclaughlin@enron.com, d..winfree@enron.com
+Subject: FW: ERMS Bridge Programming Guidelines
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Gossett, Jeffrey C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JGOSSET>
+X-To: Baumbach, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dbaumba>, Bike, Anne </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Abike>, Keiser, Kam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kkeiser>, Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>, McLaughlin Jr., Errol </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emclaug>, Winfree, O'Neal D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Owinfre>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - McLaughlin Jr., Errol\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: erol mclaughlin 6-26-02.PST
+
+ 
+-----Original Message-----
+From: Moorer, Torrey 
+Sent: Tuesday, October 02, 2001 10:11 AM
+To: Gossett, Jeffrey C.; Swinney, John; Hedstrom, Peggy; Meredith, Kevin
+Cc: McKinney, Lara; Rivera, Oscar; Wei, Zhiyong; Husain, Karima; Lim, Francis S.
+Subject: ERMS Bridge Programming Guidelines
+
+
+In order to protect the integrity of TAGG production bridging logic and better facilitate development and improvements to EOL bridge functionality, the ERMS IT team has set forth some guidelines for the processing and prioritization of bridging development requests. These guidelines should assist both Risk Management and Commercial in gaining resolution on critical bridging issues while protecting against the implementation of faulty or untested logic.
+ 
+The new process flow for ERMS bridging requests and corrections is as follows:
+ 
+1) All requests for bridge logic corrections and enhancements will need to be forwarded by email through the EOL Product Control Group and should be prioritized as either "Immediate" or "standard". "Immediates" are emergency requests for which other programming efforts being made by the ERMS IT team will be placed on hold, while "standard" requests will be placed on ERMS's developmental time-table in the order received.
+ 
+    ** Note: Tara Sweitzer will be sending a supplemental email to the various Risk groups of current programming issues for prioritization.
+ 
+2) Once received, developmental requests will be evaluated by the ERMS IT team. The programmers responsible for logic implementation will then assign an estimated completion date, which PCG will forward back to the appropriate Risk Desk. Any system issues, emergency requests or other subsequent developments which may impact this due date will be communicated to the appropriate Risk group by PCG.
+ 
+3) Upon completion of testing, the ERMS IT team will load new logic enhancements and fixes into the production environment. These uploads will take place each Friday evening, except in the case of emergency requests, which may be uploaded at any time. This standardized weekend upload will correspond with the weekly EOL application enhancement uploads.
+ 
+Please feel free to contact either myself or Tara Sweitzer if you have any questions regarding the new development request procedures.
+ 
+Thank you,
+ 
+
+Torrey Moorer 
+EnronOnline Product Control Group 
+(713) 853-6218 
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <12326734.1075841239001.JavaMail.evans@thyme>
+Date: Thu, 21 Jun 2001 11:05:46 -0700 (PDT)
+From: c..gossett@enron.com
+To: david.baumbach@enron.com, greg.couch@enron.com, c..giron@enron.com,
+	kam.keiser@enron.com, m..love@enron.com, errol.mclaughlin@enron.com,
+	martha.stevens@enron.com, john.valdes@enron.com
+Subject: FW: Projected effect on US books from Project Slapshot
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Gossett, Jeffrey C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JGOSSET>
+X-To: Baumbach, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dbaumba>, Couch, Greg </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gcouch>, Giron, Darron C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dgiron>, Keiser, Kam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kkeiser>, Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>, McLaughlin Jr., Errol </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emclaug>, Stevens, Martha </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Msteven>, Valdes, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jvaldes>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - McLaughlin Jr., Errol\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: erol mclaughlin 6-26-02.PST
+
+
+
+ -----Original Message-----
+From: 	Gillis, Brian  
+Sent:	Thursday, June 21, 2001 12:49 PM
+To:	Gossett, Jeffrey C.
+Cc:	Clark, Morris; Carrington, Clara; Su, Ellen
+Subject:	Projected effect on US books from Project Slapshot
+
+Jeff, here is a projection of the effect of the deals we are going to unwind on the Houston books.  These amounts will be offset by an annuity for the same amount payable to each of the books, to be settled in June.
+
+Let me or Morris know if you have any questions - we will be unwinding these trades over the weekend, so that all of the effect will be in for Monday morning.  Let me know if there is additional co-ordination you want me to do with your book runners.  Also, I will send you a final list of deals and values by book tonight.
+
+Note that the full spreadsheet where this is analyzed is on the Houston shared drive, at O:/_Dropbox/BGillis/ENA_Exposure_Jun20_01.xls, and look at the Latest List of Deals tab (watch that you don't accidentally get the $CAD file I put out in the same directory for the currency group).  
+
+Brian
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <19534973.1075851721191.JavaMail.evans@thyme>
+Date: Tue, 16 Jan 2001 08:46:00 -0800 (PST)
+From: sheri.thomas@enron.com
+To: jeffrey.gossett@enron.com
+Subject: Re: Gas Daily deals in dispute
+Cc: torrey.moorer@enron.com, jennifer.denny@enron.com, kim.theriot@enron.com,
+	leslie.reeves@enron.com, errol.mclaughlin@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: torrey.moorer@enron.com, jennifer.denny@enron.com, kim.theriot@enron.com,
+	leslie.reeves@enron.com, errol.mclaughlin@enron.com
+X-From: Sheri Thomas
+X-To: Jeffrey C Gossett
+X-cc: Torrey Moorer, Jennifer deBoisblanc Denny, Kim S Theriot, Leslie Reeves, Errol McLaughlin
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+Jeff - call me when you get  a minute regarding this.  Torrey is absolutely 
+correct - our traders have been instructed not to allow customers out of a 
+trade without doing an OTC trade or having legal prepare a termination 
+agreement.  Sounds like it is time to send out the policy again!
+
+Sheri
+
+
+   
+
+
+From:  Torrey Moorer                                                          
+   01/16/2001 03:51 PM	
+	
+	
+	                           
+	
+
+To: Jeffrey C Gossett/HOU/ECT@ECT
+cc: Sheri Thomas/HOU/ECT@ECT, Jennifer deBoisblanc Denny/HOU/ECT@ECT, Kim S 
+Theriot/HOU/ECT@ECT, Leslie Reeves/HOU/ECT@ECT, Errol 
+McLaughlin/Corp/Enron@ENRON 
+Subject: Re: Gas Daily deals in dispute  
+
+Jeff-
+
+>From a legal perspective, the traders are not supposed to have the authority 
+to let out another entity from an EnronOnline trade. If the trade is the 
+result of a system malfunction or some other uncontrollable issue, the 
+customer can get with the trader and agree to reverse out an existing EOL 
+transaction with an OTC trade, but Commercial should not be letting customers 
+out of EOL deals simply because their traders "clicked on the wrong product". 
+This is the policy that Mark Taylor and Legal have had in place since the 
+inception of EOL.
+
+I'll get with Sheri and Jennifer and we will see what Legal has to say, but, 
+if Mike Maggi and/or John Arnold have been verbally allowing customers to 
+change these Gas Daily trades in the past, it definitely creates a problem 
+from the perspective of trying to hold them to the same trades now. The best 
+advise I can give right now is to make sure that John and Mike do not 
+continue allowing customers out of their trades simply because they "clicked 
+on the wrong product". The legal responsibility for "clicking on the right 
+product" lies firmly with the customer and whenever Commercial starts 
+allowing them out of that responsibility it can create serious legal problems 
+when and if one of these trades comes back to bite them. 
+
+Torrey
+
+
+
+
+
+
+
+Jeffrey C Gossett
+01/16/2001 03:05 PM
+To: Torrey Moorer/HOU/ECT@ECT
+cc: Sheri Thomas/HOU/ECT@ECT, Kim S Theriot/HOU/ECT@ECT, Leslie 
+Reeves/HOU/ECT@ECT 
+Subject: Gas Daily deals in dispute
+
+Torrey - 
+
+We have an issue where some of our traders are letting traders out of EOL 
+deals b/c they "clicked on the wrong product."  What happens is we end up 
+having two deals in our systems,  and the counterparty has no deals in their 
+system.  So when settlement goes out they tend to accept the one in their 
+favor and reject the one against them.  We always work it out but as you can 
+imagine it is a huge headache from everyone's perspective.  Please advise on 
+what we can do to put an end to this practice.
+
+Thanks
+---------------------- Forwarded by Jeffrey C Gossett/HOU/ECT on 01/16/2001 
+02:54 PM ---------------------------
+
+
+Gregory Carraway@ENRON
+01/16/2001 01:57 PM
+To: Jeffrey C Gossett/HOU/ECT@ECT
+cc:  
+Subject: Gas Daily deals in dispute
+
+Forwarded per request of Kim Theriot.
+---------------------- Forwarded by Gregory Carraway/Corp/Enron on 01/16/2001 
+12:46 PM ---------------------------
+
+
+Gregory Carraway
+01/16/2001 08:50 AM
+To: Errol McLaughlin/Corp/Enron@ENRON
+cc: Rebecca Ford/HOU/ECT@ECT, Kim S Theriot/HOU/ECT@ECT 
+
+Subject: Gas Daily deals in dispute
+
+The following deals are being disputed by Reliant Energy Services. TAGG is 
+showing these deals as Gas Daily, but the counterparty states that they 
+should be changed to Nymex trades. They also stated that they were told by 
+Mike Maggi that the deals would be changed to Nymex deals:
+
+
+
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <31595391.1075841238557.JavaMail.evans@thyme>
+Date: Wed, 17 Oct 2001 14:19:20 -0700 (PDT)
+From: c..gossett@enron.com
+To: anne.bike@enron.com, kam.keiser@enron.com, m..love@enron.com,
+	errol.mclaughlin@enron.com, d..winfree@enron.com
+Subject: FW: Active/Inactive books
+Cc: christy.lobusch@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: christy.lobusch@enron.com
+X-From: Gossett, Jeffrey C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JGOSSET>
+X-To: Bike, Anne </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Abike>, Keiser, Kam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kkeiser>, Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>, McLaughlin Jr., Errol </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emclaug>, Winfree, O'Neal D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Owinfre>
+X-cc: Lobusch, Christy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Clobusch>
+X-bcc: 
+X-Folder: \ExMerge - McLaughlin Jr., Errol\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: erol mclaughlin 6-26-02.PST
+
+
+Please look over this list and get back with Christy.
+
+Thanks
+ -----Original Message-----
+From: 	Lobusch, Christy  
+Sent:	Wednesday, October 17, 2001 4:13 PM
+To:	Gossett, Jeffrey C.
+Subject:	Active/Inactive books
+
+Dear Jeff-
+
+We have the following books appearing on our active list in the active/inactive website.  Could someone in your group please verifty the following:
+
+they are legitamate books
+that the books are currently active books
+and, the responsible book admin for the book
+
+I would appreciate it.  I need a response by Monday, October 22.  Thanks,
+
+Christy
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <22537083.1075851720829.JavaMail.evans@thyme>
+Date: Wed, 13 Dec 2000 07:30:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: kam.keiser@enron.com, darron.giron@enron.com, william.kelly@enron.com,
+	david.baumbach@enron.com, errol.mclaughlin@enron.com
+Subject: Spreadsheets using the old method of loading
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeffrey C Gossett
+X-To: Kam Keiser, Darron C Giron, William Kelly, David Baumbach, Errol McLaughlin
+X-cc: 
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+---------------------- Forwarded by Jeffrey C Gossett/HOU/ECT on 12/13/2000 
+03:29 PM ---------------------------
+   
+	
+	
+	From:  Burton McIntyre                           12/13/2000 03:09 PM
+	
+
+To: Rahmaan Mwongozi/Corp/Enron@ENRON, Robin Rodrigue/HOU/ECT@ECT, John 
+Swinney/HOU/ECT@ECT
+cc: Debbie R Brackett/HOU/ECT@ECT, Shona Wilson/NA/Enron@Enron, Susan D 
+Trevino/HOU/ECT@ECT, Chris Abel/HOU/ECT@ECT, Ganapathy Ramesh/HOU/ECT@ECT, 
+Jeffrey C Gossett/HOU/ECT@ECT, Michelle Bruce/HOU/ECT@ECT 
+Subject: Spreadsheets using the old method of loading
+
+Please see  the request below.  Current spreadsheets users  using the old 
+method to upload positions should get with either Susan Trevino or myself, 
+between now and Friday,  to get familiar with the new upload method.  
+Effective Monday, Dec. 18th all spreadsheet will be required to be uploaded 
+via the new method.  
+
+BM
+---------------------- Forwarded by Burton McIntyre/HOU/ECT on 12/13/2000 
+02:46 PM ---------------------------
+
+
+Ganapathy Ramesh
+12/13/2000 02:40 PM
+To: Debbie R Brackett/HOU/ECT@ECT, Shona Wilson/NA/Enron@Enron
+cc: Burton McIntyre/HOU/ECT@ECT 
+Subject: Spreadsheets using the old method of loading
+
+
+These are the spreadsheets still using the old method of processing. These 
+need to be processed with the new method as early as possible so that I can 
+get rid of the older processsing methodology.
+
+pipe_opt2_D_12122000.txt
+pipe_opt_P_12122000.txt
+FT-CAND-EXOTIC12122000.txt
+CanadaPower_12122000.txt
+plas_exop_pos12122000.txt
+erac_exop_pos12122000.txt
+ft_northwest12122000.txt
+pipe_opt_D_12122000.txt
+ng_opt12122000.txt
+rll_exop_pos12122000.txt
+
+Regards,
+Ramesh
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <1129205.1075841239244.JavaMail.evans@thyme>
+Date: Wed, 18 Apr 2001 12:34:00 -0700 (PDT)
+From: jeffrey.gossett@enron.com
+To: kam.keiser@enron.com, david.baumbach@enron.com, darron.giron@enron.com,
+	phillip.love@enron.com, errol.mclaughlin@enron.com
+Subject: Flash Liquidation Detail
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeffrey C Gossett <Jeffrey C Gossett/HOU/ECT@ECT>
+X-To: Kam Keiser <Kam Keiser/HOU/ECT@ECT>, David Baumbach <David Baumbach/HOU/ECT@ECT>, Darron C Giron <Darron C Giron/HOU/ECT@ECT>, Phillip M Love <Phillip M Love/HOU/ECT@ECT>, Errol McLaughlin <Errol McLaughlin/Corp/Enron@ENRON>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - McLaughlin Jr., Errol\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: erol mclaughlin 6-26-02.PST
+
+
+---------------------- Forwarded by Jeffrey C Gossett/HOU/ECT on 04/18/2001 09:33 AM ---------------------------
+From:	Greg Whiting/ENRON@enronXgate on 04/18/2001 08:49 AM
+To:	Jeffrey C Gossett/HOU/ECT@ECT
+cc:	Jim Little/ENRON@enronXgate, John Valdes/HOU/ECT@ECT 
+Subject:	Flash Liquidation Detail
+
+Jeff,
+
+Can you pass this on to the appropriate people in your group.  Thanks.
+
+
+In order to prepare the FRED files for March 2001 we need to have the flash detail saved to the following directory ASAP:
+
+O:\ERMS\1intra\FRED Liquidations\2001\0301\
+
+If detail is not in the directory by end of day Thursday we will prepare the FRED files accordingly.  Thanks for your help.
+
+							Greg x35399
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <6284543.1075851721023.JavaMail.evans@thyme>
+Date: Tue, 9 Jan 2001 09:15:00 -0800 (PST)
+From: irena.hogan@enron.com
+To: william.kelly@enron.com, john.valdes@enron.com, david.baumbach@enron.com,
+	kam.keiser@enron.com, darron.giron@enron.com,
+	errol.mclaughlin@enron.com, russ.severson@enron.com,
+	greg.couch@enron.com, toni.graham@enron.com,
+	francisco.dejesus@enron.com, hector.mcloughlin@enron.com,
+	phillip.love@enron.com
+Subject: Risk Management Staff Meeting for the Week of January 15
+Cc: elizabeth.soto@enron.com, janet.paz@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: elizabeth.soto@enron.com, janet.paz@enron.com
+X-From: Irena D Hogan
+X-To: William Kelly, John Valdes, David Baumbach, Kam Keiser, Darron C Giron, Errol McLaughlin, Russ Severson, Greg Couch, Toni Graham, Francisco deJesus, Hector McLoughlin, Phillip M Love
+X-cc: Elizabeth Soto, Janet De La Paz
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+Please make note,
+
+ The staff meeting for next week will not take place on Tuesday, but as 
+follows:
+
+     Thursday, January 18, 2001
+        10:30 AM - 11:30 AM
+           EB3270
+
+Our staff meeting will resume as scheduled on Tuesday, January 23.
+
+
+
+Thank you
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <26534148.1075851721238.JavaMail.evans@thyme>
+Date: Wed, 17 Jan 2001 23:49:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: kam.keiser@enron.com, darron.giron@enron.com, david.baumbach@enron.com,
+	errol.mclaughlin@enron.com, phillip.love@enron.com
+Subject: Enron Ameica's (Enron North America) Trading Track Pilot
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeffrey C Gossett
+X-To: Kam Keiser, Darron C Giron, David Baumbach, Errol McLaughlin, Phillip M Love
+X-cc: 
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+I guess they moved this up by a month.  I am making calls to find out who we 
+are getting.
+---------------------- Forwarded by Jeffrey C Gossett/HOU/ECT on 01/18/2001 
+07:48 AM ---------------------------
+   
+	
+	
+	From:  Ted C Bland                           01/18/2001 07:27 AM
+	
+
+To: Chris Gaskill/Corp/Enron@Enron, Kayne Coulter/HOU/ECT@ECT, Amanda 
+Colpean/Corp/Enron@Enron, Doug Gilbert-Smith/Corp/Enron@ENRON, Ozzie 
+Pagan/HOU/ECT@ECT, Darron C Giron/HOU/ECT@ECT, Chris Hilgert/HOU/ECT@ect, 
+Julie A Gomez/HOU/ECT@ECT, Jeffrey C Gossett/HOU/ECT@ECT, David 
+Baumbach/HOU/ECT@ECT, Phillip K Allen/HOU/ECT@ECT
+cc: John J Lavorato/Corp/Enron@Enron, David Oxley/HOU/ECT@ECT, Neil 
+Davies/Corp/Enron@ENRON, Karen Buckley/Corp/Enron@ENRON, Jeanie 
+Slone/HOU/ECT@ECT, Kim Melodick/HOU/ECT@ECT 
+Subject: Enron Ameica's (Enron North America) Trading Track Pilot
+
+As you all know we are piloting a track for selected EWS employees that will 
+be devoted to developing a pipeline for the trading floor.  The following 
+people have been selected to participate in the program which will start on 
+Feb 1, 2001.  These individual will be leaving your groups effective on that 
+date.  If you have any questions, please do not hesitate to call me at 3-5275.
+
+Participant list:
+Chuck Ames
+Bilal Bajwa
+Russ Ballato
+Steve Gim
+Mog Heu
+Juan Padron
+Vladi Pimenov
+Denver Plachy
+Elizabeth Shim
+Matt Smith
+Joe Wagner 
+Jason Wolfe
+Virawan Yawapongsiri
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <28302919.1075851721166.JavaMail.evans@thyme>
+Date: Tue, 16 Jan 2001 08:37:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: bianca.ornelas@enron.com
+Subject: Re: January 12, 2001 - Brokered Deal Errors
+Cc: larry.hunter@enron.com, david.baumbach@enron.com, errol.mclaughlin@enron.com,
+	william.kelly@enron.com, kam.keiser@enron.com, kim.theriot@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: larry.hunter@enron.com, david.baumbach@enron.com, errol.mclaughlin@enron.com,
+	william.kelly@enron.com, kam.keiser@enron.com, kim.theriot@enron.com
+X-From: Jeffrey C Gossett
+X-To: Bianca Ornelas
+X-cc: Larry Joe Hunter, David Baumbach, Errol McLaughlin, William Kelly, Kam Keiser, Kim S Theriot
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+This is great information.  However,  without knowing who entered the deals 
+there is little we can do to fix this.  ie.  Is it a trader?  Which book 
+admin is it?  Can you get names of the person entering the deals on the 
+report?  And do you put every deal that has to be changed on this report?  Or 
+just the deals that are in wrong for more than a certain time period?  I 
+would caution if you are putting every deal that changes into this report you 
+might want to change your practice, as now that the traders have TDS they 
+tend to want to see the economic impact ASAP and so everyone including the 
+trader is rushing to get the position into the system.  Please let me know if 
+there is anything I can do to help.
+
+JG
+
+
+   
+	Enron North America Corp.
+	
+	From:  Bianca Ornelas @ ENRON                           01/16/2001 04:18 PM
+	
+
+To: Larry Joe Hunter/HOU/ECT@ECT
+cc: David Baumbach/HOU/ECT@ECT, Errol McLaughlin/Corp/Enron@ENRON, William 
+Kelly/HOU/ECT@ECT, Kam Keiser/HOU/ECT@ECT, Jeffrey C Gossett/HOU/ECT@ECT 
+Subject: January 12, 2001 - Brokered Deal Errors
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <32822279.1075841238902.JavaMail.evans@thyme>
+Date: Thu, 5 Jul 2001 13:13:35 -0700 (PDT)
+From: d..hogan@enron.com
+To: david.baumbach@enron.com, kam.keiser@enron.com, anne.bike@enron.com,
+	m..love@enron.com, greg.couch@enron.com, errol.mclaughlin@enron.com,
+	john.valdes@enron.com
+Subject: Preparing for RisK Off-site
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Hogan, Irena D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=IHOGAN>
+X-To: Baumbach, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dbaumba>, Keiser, Kam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kkeiser>, Bike, Anne </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Abike>, Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>, Couch, Greg </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gcouch>, McLaughlin Jr., Errol </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emclaug>, Valdes, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jvaldes>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - McLaughlin Jr., Errol\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: erol mclaughlin 6-26-02.PST
+
+Per Jeff Gossett,
+
+	Being so that we have a new member to our team, Jeff wants to discuss the Goals and Objectives that you will/have set to accomplish for your individual group this year.  In doing so, he  wants you to think of  the following two things:
+
+	1) How Jeff should measure what  goals/objectives you are planning to accomplish?
+
+	2) What impact do you feel this should have on your review?
+
+		Jeff wants to hear these two things verbally.  Do not include these two anwsers into your Goals and Objectives Presentation!!!
+
+We will keep the same format, as per out last objectives meeting.  Please see the attached documents to print and reveiw; then give me any updates or changes you may have for your objectives.  If you have any questions or need any additional information, please let me know.
+
+ 
+
+Thank you,
+
+Irena
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <7997770.1075851721293.JavaMail.evans@thyme>
+Date: Mon, 22 Jan 2001 01:35:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: kam.keiser@enron.com, darron.giron@enron.com, david.baumbach@enron.com,
+	errol.mclaughlin@enron.com, phillip.love@enron.com
+Subject: Counterparties w/ Master Agreements with ECC
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeffrey C Gossett
+X-To: Kam Keiser, Darron C Giron, David Baumbach, Errol McLaughlin, Phillip M Love
+X-cc: 
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+I just emailed Dawn that this was correct,  so that they can get this 
+moving.  Please let her know if it is not  ASAP.  
+
+Thanks
+---------------------- Forwarded by Jeffrey C Gossett/HOU/ECT on 01/22/2001 
+09:33 AM ---------------------------
+
+
+Dawn C Kenne
+01/16/2001 05:54 PM
+To: Jeffrey C Gossett/HOU/ECT@ECT
+cc: Torrey Moorer/HOU/ECT@ECT, Tara Sweitzer/HOU/ECT@ECT, Jennifer 
+deBoisblanc Denny/HOU/ECT@ECT, Kam Keiser/HOU/ECT@ECT, Darron C 
+Giron/HOU/ECT@ECT, David Baumbach/HOU/ECT@ECT, Phillip M Love/HOU/ECT@ECT, 
+Errol McLaughlin/Corp/Enron@ENRON 
+Subject: Counterparties w/ Master Agreements with ECC
+
+Please red the paragragh in red below from an e-mail I sent last month....
+
+I need risk to confirm that all counterparties that have master agreements 
+with ECC (now 41 counterparties) need to be booked with 2 legs as described 
+below in red.  
+
+We need this confirmation from risk as soon as possible.  We are pushing IT 
+to get this logic in place and don't want anything to "blow up" for risk.  
+Please respond by e-mail.
+
+Thank you for your cooperation.
+
+Dawn
+3-9353
+---------------------- Forwarded by Dawn C Kenne/HOU/ECT on 01/16/2001 05:20 
+PM ---------------------------
+
+
+Dawn C Kenne
+12/12/2000 10:00 AM
+To: Jeffrey C Gossett/HOU/ECT@ECT, Michael Swaim/HOU/ECT@ECT, Torrey 
+Moorer/HOU/ECT@ECT, Tara Sweitzer/HOU/ECT@ECT
+cc: Jennifer deBoisblanc Denny/HOU/ECT@ECT, Kam Keiser/HOU/ECT@ECT, Darron C 
+Giron/HOU/ECT@ECT, William Kelly/HOU/ECT@ECT, David Baumbach/HOU/ECT@ECT 
+
+Subject: Counterparties w/ Master Agreements with ECC
+
+I have received an updated list of the counterparties that have Master 
+Agreements with ECC.  There are now about 40 counterparties that fall under 
+this category.  What seems to be happening is that these counterparties are 
+hitting on US gas products on EOL and are not bridging into Tagg correctly.  
+Currently, they are bridging as one leg between ENA and the counterparty.  
+The problem arises during settlement because ENA cannot settle with these 
+counterparties, only ECC can.  An example of what Risk is doing to the 
+products after bridging is Tagg#Q79131 / EOL #555401.
+
+RISK:  We need risk to verify that anytime, without exception, all companies 
+with Master Agreements with ECC that hit a US product must be booked as two 
+legs:  leg one booked between ECC and the counterparty with risk assignment 
+of FT-US/CAND-ERMS; leg two flipping the risk out of FT-US/CAND-ERMS to the 
+appropriate risk book.  Also, risk needs to verify that this is only for 
+Financial Swaps and not Physical deals.  
+
+IT:  It is my understanding that a few counterparties are set up to be booked 
+correctly (with two legs).  The list is now up to 40 counterparties and will 
+most likely be updated on a consistent basis.  Is this something that Tagg 
+Maintenance can handle?  Guidelines need to be set up for Risk/Global to 
+instruct IT when new Master Agreements are created with counterparties so 
+logic can be adjusted accordingly.
+
+Does a meeting need to be set up to elaborate on these issues?  Are there any 
+further issues that need to be addressed concerning ECC Master Agreements?    
+Please respond with your thoughts on this subject.
+
+Thank you,
+Dawn
+3-9353
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <31113310.1075851720614.JavaMail.evans@thyme>
+Date: Thu, 7 Dec 2000 02:24:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: kam.keiser@enron.com, darron.giron@enron.com, william.kelly@enron.com,
+	david.baumbach@enron.com, errol.mclaughlin@enron.com
+Subject: 8:30 Meeting on systems
+Cc: irena.hogan@enron.com, elizabeth.soto@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: irena.hogan@enron.com, elizabeth.soto@enron.com
+X-From: Jeffrey C Gossett
+X-To: Kam Keiser, Darron C Giron, William Kelly, David Baumbach, Errol McLaughlin
+X-cc: Irena D Hogan, Elizabeth Soto
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+There is a 30 minute meeting every morning on the 28th floor at 8:30 about 
+systems issues from the prior night and to discuss what books were not 
+officialized.  I have gone to this meeting this week, and I think that we 
+should always have a representative in the meeting.  Here is what I propose:  
+We alternate weeks going to this meeting.
+
+Week of :
+Dec. 4   - Jeff Gossett
+Dec. 11 - Darron Giron
+Dec. 18 - David Baumbach
+Dec. 25 - Will Kelly
+Jan. 1    -  Kam Keiser
+Jan. 8    - Errol Mclaughlin
+
+And then we will start over again.
+If you can not go,  make sure that someone goes in your place.
+
+Thanks
+
+Irena and Elizabeth -  Can you please add these daily meetings to the 
+appropriate calender?
+
+Thanks
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <18335457.1075851720852.JavaMail.evans@thyme>
+Date: Thu, 14 Dec 2000 02:50:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: kam.keiser@enron.com, darron.giron@enron.com, william.kelly@enron.com,
+	david.baumbach@enron.com, errol.mclaughlin@enron.com
+Subject: Physical Trader Matrix
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeffrey C Gossett
+X-To: Kam Keiser, Darron C Giron, William Kelly, David Baumbach, Errol McLaughlin
+X-cc: 
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+The testing on this starts tommorrow.  Please make sure that this is done 
+today.
+
+Thanks
+---------------------- Forwarded by Jeffrey C Gossett/HOU/ECT on 12/14/2000 
+10:47 AM ---------------------------
+
+
+Dawn C Kenne
+12/13/2000 04:50 PM
+To: Jeffrey C Gossett/HOU/ECT@ECT, Kam Keiser/HOU/ECT@ECT, Darron C 
+Giron/HOU/ECT@ECT, William Kelly/HOU/ECT@ECT, David Baumbach/HOU/ECT@ECT
+cc: Torrey Moorer/HOU/ECT@ECT, Tara Sweitzer/HOU/ECT@ECT 
+Subject: Physical Trader Matrix
+
+I am sending the physical trader matrix for another update from risk.  I have 
+added a column called 'Sitara Risk Assignment Desk' and populated the cells 
+in yellow with what Sitara uses now when assigning hedges.  
+
+Please update the list with the Sitara Risk Assignment Desk and also review 
+the cells I populated to ensure accuracy.  
+
+Thank you for all of your help.  Let me know if you have any further 
+questions.
+
+Dawn
+3-9353
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <4335982.1075851721360.JavaMail.evans@thyme>
+Date: Thu, 25 Jan 2001 01:46:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: kam.keiser@enron.com, darron.giron@enron.com, david.baumbach@enron.com,
+	errol.mclaughlin@enron.com, phillip.love@enron.com
+Subject: PG&E
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeffrey C Gossett
+X-To: Kam Keiser, Darron C Giron, David Baumbach, Errol McLaughlin, Phillip M Love
+X-cc: 
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+Please make sure that you have these calcs set up,  as I am sure that we will 
+be asked for this information in 5,000 different ways in the next few days.  
+I want to thank all of you for your help on this.  It is vital that these 
+numbers be right, as legal and others are presenting these numbers to PG&E to 
+state our case.  
+
+Thanks Again
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <21532149.1075851720999.JavaMail.evans@thyme>
+Date: Mon, 8 Jan 2001 08:04:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: michelle.bruce@enron.com, john.swinney@enron.com, kam.keiser@enron.com,
+	darron.giron@enron.com, william.kelly@enron.com,
+	david.baumbach@enron.com, errol.mclaughlin@enron.com,
+	phillip.love@enron.com
+Subject: Lagrasta Orig
+Cc: robin.rodrigue@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: robin.rodrigue@enron.com
+X-From: Jeffrey C Gossett
+X-To: Michelle Bruce, John Swinney, Kam Keiser, Darron C Giron, William Kelly, David Baumbach, Errol McLaughlin, Phillip M Love
+X-cc: Robin Rodrigue
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+Fred Lagrasta (Middle Market NYMEX) will begin getting a daily report 
+begining today with all of his groups daily origination.  As such,  it is 
+essential that all information is accurate on the origination schedule.  
+Meaning :
+
+All entries must have:
+
+Book
+Deal #
+Date originated
+Customer
+Origination Group
+Origination Value
+Originator
+
+
+New information needed in this order:
+B/S
+Term
+Price
+Pub code
+
+
+Thanks for your help
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <28773130.1075851721094.JavaMail.evans@thyme>
+Date: Thu, 11 Jan 2001 00:15:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: dutch.quigley@enron.com, errol.mclaughlin@enron.com, william.kelly@enron.com,
+	kam.keiser@enron.com, david.baumbach@enron.com,
+	darron.giron@enron.com
+Subject: Needs Improvement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeffrey C Gossett
+X-To: Dutch Quigley, Errol McLaughlin, William Kelly, Kam Keiser, David Baumbach, Darron C Giron
+X-cc: 
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+Please have your "needs improvement" reviews submitted to HR and Legal by 
+Friday,  January 19.  Let me know today if for some reason you will not be 
+able to complete them by that date.
+
+Dutch - Can you get with Errol so that he can write the goals and 
+expectations portion of Sherry's review.
+
+Thanks
+
+Here are the names that I have:
+
+De la Torre
+Lee
+Dawson
+Salazar
+Frank
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <31285810.1075851721406.JavaMail.evans@thyme>
+Date: Tue, 30 Jan 2001 09:54:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: kam.keiser@enron.com, darron.giron@enron.com, david.baumbach@enron.com,
+	errol.mclaughlin@enron.com, phillip.love@enron.com
+Subject: Re: Meeting
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeffrey C Gossett
+X-To: Kam Keiser, Darron C Giron, David Baumbach, Errol McLaughlin, Phillip M Love
+X-cc: 
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+---------------------- Forwarded by Jeffrey C Gossett/HOU/ECT on 01/30/2001 
+05:53 PM ---------------------------
+
+
+Yolanda Pena@ENRON
+01/30/2001 05:28 PM
+To: Jeffrey C Gossett/HOU/ECT@ECT
+cc:  
+Subject: Re: Meeting  
+
+That meeting will take place in 2166, Kim Theriots office.
+
+Thanks for all of your help.
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <10362356.1075841239025.JavaMail.evans@thyme>
+Date: Wed, 13 Jun 2001 13:27:25 -0700 (PDT)
+From: robert.yeo@enron.com
+To: errol.mclaughlin@enron.com, kam.keiser@enron.com
+Subject: Doorstep meetings
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Yeo, Robert </O=ENRON/OU=EU/CN=RECIPIENTS/CN=RYEO>
+X-To: McLaughlin Jr., Errol </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EMCLAUG>, Keiser, Kam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KKEISER>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - McLaughlin Jr., Errol\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: erol mclaughlin 6-26-02.PST
+
+Errol/Kam
+
+For the meetings that I have scheduled with yourselves is it possible to have copies of the DPRs that you produce on a daily basis for the traders?
+
+Also, a deal listing - I believe it is called "Forwards' details" - if this is not possible because the deal volumes are so big an alternative would be appreciated.
+
+For Eastern - I want to look at the Structured deals, amount of deals, types of deals, how they are entered into the system and valued - the hand offs between structuring, risk, settlements and logistics for these non-vanilla deals.  Any deal booking documentation would be an advantage.
+
+For Financial - I want to look at the calendar and basis option portfolios, how these are entered into the systems, captured, fed to risktRAC, spreadsheet models, research sign off etc.
+
+Hope this helps but I will give you an overview at the start of the meetings to ensure you fully understand what the doorstep review is and why we are doing them.
+
+Thanks
+Rob
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <21218935.1075841239123.JavaMail.evans@thyme>
+Date: Fri, 1 Jun 2001 13:16:30 -0700 (PDT)
+From: c..gossett@enron.com
+To: anne.bike@enron.com, kam.keiser@enron.com, m..love@enron.com,
+	david.baumbach@enron.com, errol.mclaughlin@enron.com,
+	c..giron@enron.com
+Subject: FW: EOL Deals being flipped automatically
+Cc: stacey.vallejo@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stacey.vallejo@enron.com
+X-From: Gossett, Jeffrey C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JGOSSET>
+X-To: Bike, Anne </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Abike>, Keiser, Kam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kkeiser>, Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>, Baumbach, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dbaumba>, McLaughlin Jr., Errol </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emclaug>, Giron, Darron C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dgiron>
+X-cc: Vallejo, Stacey </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=1a92d095-343b3f63-862564cf-253f5d>
+X-bcc: 
+X-Folder: \ExMerge - McLaughlin Jr., Errol\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: erol mclaughlin 6-26-02.PST
+
+Please look into the following and let's talk to EOL about fixing this.  
+
+ -----Original Message-----
+From: 	Vallejo, Stacey  
+Sent:	Friday, June 01, 2001 3:13 PM
+To:	Gossett, Jeffrey C.
+Subject:	EOL Deals being flipped automatically
+
+Hey Jeff,
+
+I just wanted to let you know that the fix that the EOL group put into the system
+to automatically flip ECC deals to the FT-US/CAND-ERMS book is working
+great for all deals except Gas Daily -Daily Index deals.  For some reason these
+deals aren't being flipped by the system.  This is still causing problems.  I'm not
+as familiar with all the Houston books that these types of deals are booked to as
+you guys are down there, and I'm missing several when I do my search in TAGG 
+before I invoice.  Could you please see if your people can go into their books to 
+look for any deals between ECC and third counterparties.  
+
+At least there is a little bit of a light at the end of the tunnel, all the rest of the deals
+are being flipped okay.  If only we could get these deals looked after, everything
+would be perfect.
+
+I'd really appreciate your help on this matter.  Please let me know what you think.
+
+Thanks
+Stacey
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <29209825.1075851721702.JavaMail.evans@thyme>
+Date: Mon, 12 Mar 2001 07:43:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: kam.keiser@enron.com, darron.giron@enron.com, david.baumbach@enron.com,
+	errol.mclaughlin@enron.com, phillip.love@enron.com,
+	bryce.baxter@enron.com
+Subject: OA variance as of Feb 28 GL
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeffrey C Gossett
+X-To: Kam Keiser, Darron C Giron, David Baumbach, Errol McLaughlin, Phillip M Love, Bryce Baxter
+X-cc: 
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+FYI..........
+---------------------- Forwarded by Jeffrey C Gossett/HOU/ECT on 03/12/2001 
+03:41 PM ---------------------------
+
+
+Greg Whiting@ENRON
+03/12/2001 02:21 PM
+To: Bob M Hall/NA/Enron@Enron, Leslie Reeves/HOU/ECT@ECT, Jeffrey C 
+Gossett/HOU/ECT@ECT
+cc: Elaine Schield/Corp/Enron@ENRON, Georgeanne Hodges/HOU/ECT@ECT 
+Subject: OA variance as of Feb 28 GL
+
+All,
+
+The OA variance as of 2/28 GL is $80.0 MM.  Jim Little is preparing the 
+region by production month schedule and this will be available by tomorrow.  
+I would like to get with you tomorrow afternoon to go over our strategy as 
+quarter-end and the AA audit are close at hand.  Let me know if 1:00 tomorrow 
+will work for you.  Thanks.
+
+     Greg x35399
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <28528563.1075851721046.JavaMail.evans@thyme>
+Date: Wed, 10 Jan 2001 01:33:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: kam.keiser@enron.com, darron.giron@enron.com, david.baumbach@enron.com,
+	errol.mclaughlin@enron.com, phillip.love@enron.com
+Subject: Old Books
+Cc: kori.loibl@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: kori.loibl@enron.com
+X-From: Jeffrey C Gossett
+X-To: Kam Keiser, Darron C Giron, David Baumbach, Errol McLaughlin, Phillip M Love
+X-cc: Kori Loibl
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+In the future,  if you have a book that had deals with a third party,  and 
+you move those deals out of that book or change that book to another book you 
+have to officialize that book after it has nothing in it.  The reason being,  
+if someone does not officialize an old book the credit group pulls the last 
+available information.  Confusing enough??  Let me know if you need further 
+explaination.
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <31190865.1075841238633.JavaMail.evans@thyme>
+Date: Wed, 19 Sep 2001 07:15:54 -0700 (PDT)
+From: c..gossett@enron.com
+To: anne.bike@enron.com, greg.couch@enron.com, kam.keiser@enron.com,
+	m..love@enron.com, errol.mclaughlin@enron.com,
+	russ.severson@enron.com, john.valdes@enron.com, d..winfree@enron.com
+Subject: FW: Elevator talk
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Gossett, Jeffrey C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JGOSSET>
+X-To: Bike, Anne </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Abike>, Couch, Greg </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gcouch>, Keiser, Kam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kkeiser>, Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>, McLaughlin Jr., Errol </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emclaug>, Severson, Russ </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rsevers>, Valdes, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jvaldes>, Winfree, O'Neal D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Owinfre>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - McLaughlin Jr., Errol\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: erol mclaughlin 6-26-02.PST
+
+
+Please make sure that no one is talking about these things within earshot of others.  Make sure that everyone understands that all the information that they see is strictly confidential.
+
+Thanks
+
+ -----Original Message-----
+From: 	Hayden, Frank  
+Sent:	Tuesday, September 18, 2001 2:16 PM
+To:	Neal, Scott; Grigsby, Mike; Shively, Hunter S.; Arnold, John; Presto, Kevin M.; Martin, Thomas A.; Gossett, Jeffrey C.
+Subject:	Elevator talk
+
+Please remind everyone to be mindful of elevator talk.  A consultant I know working in the Enron building overheard someone the other day saying talking about positions, price and pnl being lost?
+
+Thanks,
+Frank
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <28191816.1075851721384.JavaMail.evans@thyme>
+Date: Tue, 30 Jan 2001 09:11:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: yolanda.pena@enron.com
+Subject: Re: Meeting
+Cc: errol.mclaughlin@enron.com, william.kelly@enron.com, kam.keiser@enron.com,
+	bianca.ornelas@enron.com, david.baumbach@enron.com,
+	larry.hunter@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: errol.mclaughlin@enron.com, william.kelly@enron.com, kam.keiser@enron.com,
+	bianca.ornelas@enron.com, david.baumbach@enron.com,
+	larry.hunter@enron.com
+X-From: Jeffrey C Gossett
+X-To: Yolanda Pena
+X-cc: Errol McLaughlin, William Kelly, Kam Keiser, Bianca Ornelas, David Baumbach, Larry Joe Hunter
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+We will all be there at 10:30.  Let us know what room.  
+
+This is to discuss counterparty issues.
+
+Thanks
+
+
+
+
+Yolanda Pena@ENRON
+01/30/2001 05:04 PM
+To: Jeffrey C Gossett/HOU/ECT@ECT, Errol McLaughlin/Corp/Enron@ENRON, William 
+Kelly/HOU/ECT@ECT, Kam Keiser/HOU/ECT@ECT, Bianca Ornelas/NA/Enron@Enron, 
+David Baumbach/HOU/ECT@ECT
+cc: Larry Joe Hunter/HOU/ECT@ECT 
+Subject: Meeting
+
+Joe Hunter would like to arrange a meeting with all of you as soon as 
+possible.
+
+He would like to schedule it for tomorrow between 10:00 and 2:00.
+
+If this is a good time for you, please call me at extension 57816 before 
+10:00 tomorrow morning.
+
+Thanks,
+Yolanda
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <15558136.1075851720948.JavaMail.evans@thyme>
+Date: Wed, 27 Dec 2000 10:03:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: darron.giron@enron.com, errol.mclaughlin@enron.com
+Subject: Interest-Rate Hedging Guides - REMINDER
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeffrey C Gossett
+X-To: Darron C Giron, Errol McLaughlin
+X-cc: 
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+---------------------- Forwarded by Jeffrey C Gossett/HOU/ECT on 12/27/2000 
+06:02 PM ---------------------------
+   
+	
+	
+	From:  Sheila Glover                           12/27/2000 05:57 PM
+	
+
+To: Kam Keiser/HOU/ECT@ECT, William Kelly/HOU/ECT@ECT, David 
+Baumbach/HOU/ECT@ECT, Daren J Farmer/HOU/ECT@ECT, Monica Lande/PDX/ECT@ECT, 
+Jenny Latham/HOU/ECT@ECT, John Swinney/HOU/ECT@ECT, Stacey W 
+White/HOU/ECT@ECT, Frank Prejean/HOU/ECT@ECT, Brenda F Herod/HOU/ECT@ECT, 
+Kathy Reeves/CAL/ECT@ECT, Jeffrey C Gossett/HOU/ECT@ECT, Scott 
+Earnest/HOU/ECT@ECT, Tracy Beardmore/NA/Enron@Enron, Michael 
+Giarratano/NA/Enron@ENRON, Shifali Sharma/NA/Enron@Enron, Kristin 
+Albrecht/Enron Communications@Enron Communications, Gary Stadler/Enron 
+Communications@Enron Communications, Reno Casimir/NA/Enron@ENRON, Mary 
+Thambiah/LON/ECT@ECT, Sheila Foo/LON/ECT@ECT, Paul D'Arcy/LON/ECT@ECT, David 
+A Wall/Risk Mgmt/LON/ECT@ECT, Mike Jordan/LON/ECT@ECT, Hege 
+Kleven/OSL/ECT@ECT, Simon Thurbin/HOU/ECT@ECT, Trond Branem 
+Hansen/OSL/ECT@ECT, Coralie Evans/LON/ECT@ECT
+cc: Gary Hickerson/HOU/ECT@ECT, Pushkar Shahi/HOU/ECT@ECT, Ellen 
+Su/Corp/Enron@Enron, Shane Dallmann/LON/ECT@ECT, Brent A Price/HOU/ECT@ECT, 
+Sally Beck/HOU/ECT@ECT, Clara Carrington/HOU/ECT@ECT 
+Subject: Interest-Rate Hedging Guides - REMINDER
+
+Just a reminder....
+Please advise the Rate & Currency Trading Desk when large deals are going to 
+be booked by 1:30 P.M. (CST).  This allows the desk to hedge the deal for 
+interest rates on the same day that the trade is booked in the commodity 
+books.  This eliminates Enron's exposure to markets on the following day for 
+these large deals.  
+
+If the Rate & Currency Trading Desk is not notified of large deals prior to 
+1:30 P.M., the desk will hedge the interest-rate exposure the next day on a 
+best efforts basis.  On these deals, any resulting profit or loss in excess 
+of $20,000 will be passed back to the originating group by the trading desk.
+
+We request that the book adminstrator advise Clara Carrington, 3-9224, and 
+the Traders should be advising Pushkar Shahi, 3-9199, or Ellen Su, 3-5256, on 
+the Rate & Currency Trading Desk.  Europe should contact Shane Dallman, 
+3-4997. in the London office. 
+
+Ellen has put together some guidelines which you can share with your traders 
+regarding the sizing for large deals.   This is included below.
+
+Your cooperation is appreciated.
+Sheila
+
+Guidelines:
+The following is a guide to the profit/loss levels in various tenors that 
+would require notification of the interest-rate desk.  
+
+Tenor  Notional Cash Flows
+2y  30,000,000
+3y  20,000,000
+5y  15,000,000
+10y  10,000,000
+15y  7,000,000
+20y  5,000,000
+
+Please remember that these amounts are not cumulative.  Each bucket needs to 
+be evaluated alone, and then aggregated.  For example, if you had a -30mm 
+notional cash flow in the 2-year bucket and it is offset by a +30mm notional 
+cash flow in the 20-year bucket, the result would still be very significant 
+as the net long cash flow position would still be around +25mm 20-year cash 
+flows.
+
+As always, if you are ever unsure, we are more than happy to look at 
+deals/curve changes to determine significance.  Thanks.
+
+Ellen Su
+(713) 853-5256
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <5873260.1075851721141.JavaMail.evans@thyme>
+Date: Tue, 16 Jan 2001 07:51:00 -0800 (PST)
+From: torrey.moorer@enron.com
+To: jeffrey.gossett@enron.com
+Subject: Re: Gas Daily deals in dispute
+Cc: sheri.thomas@enron.com, jennifer.denny@enron.com, kim.theriot@enron.com,
+	leslie.reeves@enron.com, errol.mclaughlin@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sheri.thomas@enron.com, jennifer.denny@enron.com, kim.theriot@enron.com,
+	leslie.reeves@enron.com, errol.mclaughlin@enron.com
+X-From: Torrey Moorer
+X-To: Jeffrey C Gossett
+X-cc: Sheri Thomas, Jennifer deBoisblanc Denny, Kim S Theriot, Leslie Reeves, Errol McLaughlin
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+Jeff-
+
+>From a legal perspective, the traders are not supposed to have the authority 
+to let out another entity from an EnronOnline trade. If the trade is the 
+result of a system malfunction or some other uncontrollable issue, the 
+customer can get with the trader and agree to reverse out an existing EOL 
+transaction with an OTC trade, but Commercial should not be letting customers 
+out of EOL deals simply because their traders "clicked on the wrong product". 
+This is the policy that Mark Taylor and Legal have had in place since the 
+inception of EOL.
+
+I'll get with Sheri and Jennifer and we will see what Legal has to say, but, 
+if Mike Maggi and/or John Arnold have been verbally allowing customers to 
+change these Gas Daily trades in the past, it definitely creates a problem 
+from the perspective of trying to hold them to the same trades now. The best 
+advise I can give right now is to make sure that John and Mike do not 
+continue allowing customers out of their trades simply because they "clicked 
+on the wrong product". The legal responsibility for "clicking on the right 
+product" lies firmly with the customer and whenever Commercial starts 
+allowing them out of that responsibility it can create serious legal problems 
+when and if one of these trades comes back to bite them. 
+
+Torrey
+
+
+
+
+
+
+
+
+Jeffrey C Gossett
+01/16/2001 03:05 PM
+To: Torrey Moorer/HOU/ECT@ECT
+cc: Sheri Thomas/HOU/ECT@ECT, Kim S Theriot/HOU/ECT@ECT, Leslie 
+Reeves/HOU/ECT@ECT 
+Subject: Gas Daily deals in dispute
+
+Torrey - 
+
+We have an issue where some of our traders are letting traders out of EOL 
+deals b/c they "clicked on the wrong product."  What happens is we end up 
+having two deals in our systems,  and the counterparty has no deals in their 
+system.  So when settlement goes out they tend to accept the one in their 
+favor and reject the one against them.  We always work it out but as you can 
+imagine it is a huge headache from everyone's perspective.  Please advise on 
+what we can do to put an end to this practice.
+
+Thanks
+---------------------- Forwarded by Jeffrey C Gossett/HOU/ECT on 01/16/2001 
+02:54 PM ---------------------------
+
+
+Gregory Carraway@ENRON
+01/16/2001 01:57 PM
+To: Jeffrey C Gossett/HOU/ECT@ECT
+cc:  
+Subject: Gas Daily deals in dispute
+
+Forwarded per request of Kim Theriot.
+---------------------- Forwarded by Gregory Carraway/Corp/Enron on 01/16/2001 
+12:46 PM ---------------------------
+
+
+Gregory Carraway
+01/16/2001 08:50 AM
+To: Errol McLaughlin/Corp/Enron@ENRON
+cc: Rebecca Ford/HOU/ECT@ECT, Kim S Theriot/HOU/ECT@ECT 
+
+Subject: Gas Daily deals in dispute
+
+The following deals are being disputed by Reliant Energy Services. TAGG is 
+showing these deals as Gas Daily, but the counterparty states that they 
+should be changed to Nymex trades. They also stated that they were told by 
+Mike Maggi that the deals would be changed to Nymex deals:
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <28952668.1075841239220.JavaMail.evans@thyme>
+Date: Wed, 25 Apr 2001 10:34:00 -0700 (PDT)
+From: david.baumbach@enron.com
+To: kam.keiser@enron.com, phillip.love@enron.com, darron.giron@enron.com,
+	errol.mclaughlin@enron.com
+Subject: 
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: David Baumbach <David Baumbach/HOU/ECT@ECT>
+X-To: Kam Keiser <Kam Keiser/HOU/ECT@ECT>, Phillip M Love <Phillip M Love/HOU/ECT@ECT>, Darron C Giron <Darron C Giron/HOU/ECT@ECT>, Errol McLaughlin <Errol McLaughlin/Corp/Enron@ENRON>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - McLaughlin Jr., Errol\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: erol mclaughlin 6-26-02.PST
+
+FYI - The desk heads do not get to see p&l sheets for the floor.  Be careful letting them know what you have.  We also wouldn't want Lavorato to find out that more people or seeing these reports than he thinks.
+
+Dave
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <17549385.1075841238951.JavaMail.evans@thyme>
+Date: Fri, 22 Jun 2001 05:41:43 -0700 (PDT)
+From: c..gossett@enron.com
+To: david.baumbach@enron.com, c..giron@enron.com, kam.keiser@enron.com,
+	m..love@enron.com, errol.mclaughlin@enron.com
+Subject: FW: Projected USD effect on US books from Project Slapshot
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Gossett, Jeffrey C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JGOSSET>
+X-To: Baumbach, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dbaumba>, Giron, Darron C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dgiron>, Keiser, Kam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kkeiser>, Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>, McLaughlin Jr., Errol </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emclaug>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - McLaughlin Jr., Errol\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: erol mclaughlin 6-26-02.PST
+
+
+
+ -----Original Message-----
+From: 	Gillis, Brian  
+Sent:	Friday, June 22, 2001 6:49 AM
+To:	Clark, Morris; Carrington, Clara; Su, Ellen; Gossett, Jeffrey C.
+Subject:	Projected USD effect on US books from Project Slapshot
+
+Again, the full spreadsheet is out on the shared drive in O:/_Dropbox/BGillis/ENA_Exposure_Jun21_01.xls
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <33542194.1075851721680.JavaMail.evans@thyme>
+Date: Wed, 7 Mar 2001 23:00:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: errol.mclaughlin@enron.com
+Subject: Re: Sapient Minibook
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeffrey C Gossett
+X-To: Errol McLaughlin
+X-cc: 
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+Thanks for your help with this.
+
+
+
+
+Errol McLaughlin@ENRON
+03/07/2001 09:12 PM
+To: Jeffrey C Gossett/HOU/ECT@ECT
+cc:  
+Subject: Sapient Minibook
+
+Jeff,  attached is a minibook as of Dec. 29, 2000 for the Sapient deals.
+
+
+
+Thanks,
+
+Errol
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <27742331.1075851721214.JavaMail.evans@thyme>
+Date: Tue, 16 Jan 2001 09:56:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: errol.mclaughlin@enron.com
+Subject: Counterparties w/ Master Agreements with ECC
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeffrey C Gossett
+X-To: Errol McLaughlin
+X-cc: 
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+Is this right?
+---------------------- Forwarded by Jeffrey C Gossett/HOU/ECT on 01/16/2001 
+05:49 PM ---------------------------
+
+
+Dawn C Kenne
+01/16/2001 05:54 PM
+To: Jeffrey C Gossett/HOU/ECT@ECT
+cc: Torrey Moorer/HOU/ECT@ECT, Tara Sweitzer/HOU/ECT@ECT, Jennifer 
+deBoisblanc Denny/HOU/ECT@ECT, Kam Keiser/HOU/ECT@ECT, Darron C 
+Giron/HOU/ECT@ECT, David Baumbach/HOU/ECT@ECT, Phillip M Love/HOU/ECT@ECT, 
+Errol McLaughlin/Corp/Enron@ENRON 
+Subject: Counterparties w/ Master Agreements with ECC
+
+Please red the paragragh in red below from an e-mail I sent last month....
+
+I need risk to confirm that all counterparties that have master agreements 
+with ECC (now 41 counterparties) need to be booked with 2 legs as described 
+below in red.  
+
+We need this confirmation from risk as soon as possible.  We are pushing IT 
+to get this logic in place and don't want anything to "blow up" for risk.  
+Please respond by e-mail.
+
+Thank you for your cooperation.
+
+Dawn
+3-9353
+---------------------- Forwarded by Dawn C Kenne/HOU/ECT on 01/16/2001 05:20 
+PM ---------------------------
+
+
+Dawn C Kenne
+12/12/2000 10:00 AM
+To: Jeffrey C Gossett/HOU/ECT@ECT, Michael Swaim/HOU/ECT@ECT, Torrey 
+Moorer/HOU/ECT@ECT, Tara Sweitzer/HOU/ECT@ECT
+cc: Jennifer deBoisblanc Denny/HOU/ECT@ECT, Kam Keiser/HOU/ECT@ECT, Darron C 
+Giron/HOU/ECT@ECT, William Kelly/HOU/ECT@ECT, David Baumbach/HOU/ECT@ECT 
+
+Subject: Counterparties w/ Master Agreements with ECC
+
+I have received an updated list of the counterparties that have Master 
+Agreements with ECC.  There are now about 40 counterparties that fall under 
+this category.  What seems to be happening is that these counterparties are 
+hitting on US gas products on EOL and are not bridging into Tagg correctly.  
+Currently, they are bridging as one leg between ENA and the counterparty.  
+The problem arises during settlement because ENA cannot settle with these 
+counterparties, only ECC can.  An example of what Risk is doing to the 
+products after bridging is Tagg#Q79131 / EOL #555401.
+
+RISK:  We need risk to verify that anytime, without exception, all companies 
+with Master Agreements with ECC that hit a US product must be booked as two 
+legs:  leg one booked between ECC and the counterparty with risk assignment 
+of FT-US/CAND-ERMS; leg two flipping the risk out of FT-US/CAND-ERMS to the 
+appropriate risk book.  Also, risk needs to verify that this is only for 
+Financial Swaps and not Physical deals.  
+
+IT:  It is my understanding that a few counterparties are set up to be booked 
+correctly (with two legs).  The list is now up to 40 counterparties and will 
+most likely be updated on a consistent basis.  Is this something that Tagg 
+Maintenance can handle?  Guidelines need to be set up for Risk/Global to 
+instruct IT when new Master Agreements are created with counterparties so 
+logic can be adjusted accordingly.
+
+Does a meeting need to be set up to elaborate on these issues?  Are there any 
+further issues that need to be addressed concerning ECC Master Agreements?    
+Please respond with your thoughts on this subject.
+
+Thank you,
+Dawn
+3-9353
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <137948.1075851720875.JavaMail.evans@thyme>
+Date: Fri, 15 Dec 2000 00:27:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: william.kelly@enron.com, errol.mclaughlin@enron.com, darron.giron@enron.com
+Subject: New Spreadsheet input
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeffrey C Gossett
+X-To: William Kelly, Errol McLaughlin, Darron C Giron
+X-cc: 
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+---------------------- Forwarded by Jeffrey C Gossett/HOU/ECT on 12/15/2000 
+08:30 AM ---------------------------
+   
+	
+	
+	From:  Burton McIntyre                           12/15/2000 08:22 AM
+	
+
+To: Jeffrey C Gossett/HOU/ECT@ECT, Robin Rodrigue/HOU/ECT@ECT, Rahmaan 
+Mwongozi/Corp/Enron@ENRON
+cc: Shona Wilson/NA/Enron@Enron, Susan D Trevino/HOU/ECT@ECT 
+Subject: New Spreadsheet input
+
+FYI.  Pay special  attention to what Ramesh says about the 
+Intra-Northeast-PHY book.  Call if any questions.
+
+
+BM
+
+
+---------------------- Forwarded by Burton McIntyre/HOU/ECT on 12/15/2000 
+08:23 AM ---------------------------
+
+
+Ganapathy Ramesh
+12/15/2000 07:02 AM
+To: Burton McIntyre/HOU/ECT@ECT
+cc: John D Powell/HOU/ECT@ECT 
+Subject: New Spreadsheet input
+
+
+Burton,
+The following spreadsheets were still loaded from the ng_directory. Rock did 
+call me saying that some pipe option spreadsheets were not loading through 
+the new process and when I checked it seemed like a network problem and asked 
+him to run it again and it seemed to be OK.
+
+With the new process, there is no need for double quotes around the curve 
+code and counterparty code columns anymore. This has been automatically taken 
+care of since we process from the spreadsheet itself. This was the original 
+problem around the pipe option spreadsheets which we discovered yesterday and 
+the reason why the numbers did not match between the old and new processes.
+
+I also noticed that INTRA-NORTHEAST-PHY was officialised 4 times - 2 times in 
+a row in quick succcession.
+
+I would like Rock or Robin to load these spreadsheets once again during the 
+day with Virendra or me as early as possible. We have been consistently been 
+able to load these into the test data bases.
+
+The ng spreadsheet also has a quoted price curve code. It should not take any 
+time to convert these spreadsheets over.
+
+The ft_northwest sheet seems to be fine - just that it was put into the ng 
+directory. Please advise them not to use this directory anymore. Any NT based 
+directory will give much better response.
+
+The surprises are the rll and the plastics text files. I thought these were 
+the first to go the new spreadsheet format.
+
+Brian Gillis was able to load his spreadsheets successfully through terminal 
+server from Calgary yesterday.
+
+Regards,
+Ramesh
+
+pipe_opt2_D_12142000.txt
+pipe_opt_D_12142000.txt
+pipe_opt_P_12142000.txt
+plas_exop_pos12142000.txt
+ng_opt12142000.txt
+rll_exop_pos12142000.txt
+pipe_opt2_D_12142000.xls
+pipe_opt_D_12142000.xls
+pipe_opt_P_12142000.xls
+ft_northwest12142000.xls
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <20991780.1075851721497.JavaMail.evans@thyme>
+Date: Fri, 2 Feb 2001 15:48:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: larry.may@enron.com, phillip.allen@enron.com
+Subject: re: book admin for Pipe/Gas daily option book
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeffrey C Gossett
+X-To: Larry May, Phillip K Allen
+X-cc: 
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+When we meet,  I would like to address the following issues:
+
+1.)  I had at least 5 people here past midnight on both nights and I have 
+several people who have not left before 10:30 this week. 
+2.)  It is my understanding that Susan was still booking new day deals on 
+Thursday night at 8:30 b/c she did not get deal tickets from the trading 
+floor until after 5:00 p.m.
+3.)  It is also my understanding that Susan is done with the p&l and 
+benchmark part of her book often times by 6:00,  but that what keeps her here 
+late is usually running numerous extra models and spreadsheets.  (One 
+suggestion might be a permanent IT person on this book.)  (This was also my 
+understanding from Kyle Etter,  who has left the company.)
+
+I would like to get this resolved as soon as possible so that Larry can get 
+the information that he needs to be effective and so that we can run books 
+like this and not lose good people.
+
+Thanks
+
+
+
+
+
+Larry May@ENRON
+02/02/2001 02:43 PM
+To: Sally Beck/HOU/ECT@ECT, Jeffrey C Gossett/HOU/ECT@ECT, Susan M 
+Scott/HOU/ECT@ECT, Errol McLaughlin/Corp/Enron@ENRON
+cc: Phillip K Allen/HOU/ECT@ECT, John Arnold/HOU/ECT@ECT 
+Subject: re: book admin for Pipe/Gas daily option book
+
+As you might be aware,  Susan Scott (the book admin for the pipe option book) 
+was forced by system problems to stay all night Wednesday night and until 200 
+am Friday  in order to calc my book.  While she is scheduled to rotate to the 
+West desk soon,  I think we need to discuss putting two persons on my book in 
+order to bring the work load to a sustainable level.  I'd like to meet at 
+2:30 pm on Monday to discuss this issue.  Please let me know if this time 
+fits in your schedules.
+
+Thanks,
+
+Larry
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <20516522.1075851721452.JavaMail.evans@thyme>
+Date: Fri, 2 Feb 2001 06:43:00 -0800 (PST)
+From: larry.may@enron.com
+To: sally.beck@enron.com, jeffrey.gossett@enron.com, susan.scott@enron.com,
+	errol.mclaughlin@enron.com
+Subject: re: book admin for Pipe/Gas daily option book
+Cc: phillip.allen@enron.com, john.arnold@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: phillip.allen@enron.com, john.arnold@enron.com
+X-From: Larry May
+X-To: Sally Beck, Jeffrey C Gossett, Susan M Scott, Errol McLaughlin
+X-cc: Phillip K Allen, John Arnold
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+As you might be aware,  Susan Scott (the book admin for the pipe option book) 
+was forced by system problems to stay all night Wednesday night and until 200 
+am Friday  in order to calc my book.  While she is scheduled to rotate to the 
+West desk soon,  I think we need to discuss putting two persons on my book in 
+order to bring the work load to a sustainable level.  I'd like to meet at 
+2:30 pm on Monday to discuss this issue.  Please let me know if this time 
+fits in your schedules.
+
+Thanks,
+
+Larry
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <30233920.1075841238680.JavaMail.evans@thyme>
+Date: Mon, 27 Aug 2001 13:47:12 -0700 (PDT)
+From: c..gossett@enron.com
+To: david.baumbach@enron.com, anne.bike@enron.com, kam.keiser@enron.com,
+	m..love@enron.com, errol.mclaughlin@enron.com, d..winfree@enron.com
+Subject: FW: Aquila 180 Risk Product
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Gossett, Jeffrey C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JGOSSET>
+X-To: Baumbach, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dbaumba>, Bike, Anne </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Abike>, Keiser, Kam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kkeiser>, Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>, McLaughlin Jr., Errol </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emclaug>, Winfree, O'Neal D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Owinfre>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - McLaughlin Jr., Errol\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: erol mclaughlin 6-26-02.PST
+
+
+FYI -
+
+An interesting development.  This could be where we are headed.
+ -----Original Message-----
+From: 	Miller, Kevin  
+Sent:	Monday, August 27, 2001 10:12 AM
+To:	Hall, Bob M; Gossett, Jeffrey C.; Grass, John; Druzbik, Lisa; Superty, Robert
+Subject:	Aquila 180 Risk Product
+
+
+
+
+Aquila releases a Risk Management ASP product.  Please review the following press release using the link shown below and the Risk 180 web site and let me know what you think.
+
+Thanks ... Kevin
+
+http://biz.yahoo.com/bw/010827/270228.html
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <21025151.1075851721269.JavaMail.evans@thyme>
+Date: Fri, 19 Jan 2001 08:19:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: tom.wilbeck@enron.com
+Subject: Re: Trading Track Information
+Cc: sally.beck@enron.com, bob.hall@enron.com, leslie.reeves@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sally.beck@enron.com, bob.hall@enron.com, leslie.reeves@enron.com
+X-From: Jeffrey C Gossett
+X-To: Tom Wilbeck
+X-cc: Sally Beck, Bob M Hall, Leslie Reeves
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+Tom Wilbeck@ENRON
+01/19/2001 03:23 PM
+To: Jeffrey C Gossett/HOU/ECT@ECT
+cc:  
+Subject: Trading Track Information
+
+As you know, we are working on an on-boarding process to get the trading 
+track participants up to speed as quickly as possible in each of their 
+respective rotations.  One of the methods of doing this is to have each 
+rotational supervisor (you're one of them) put a few points together to 
+present to each participant on the first day of their rotation with you (or 
+someone in your group).  
+
+For example:
+What does you group do as a whole?  The Risk Management Group is responsible 
+for providing information to the trading floor.  That information consists of 
+positions,  p&l,  and other general information which may be needed by the 
+floor throughout the day.  The information must be 100% accurate 100% of the 
+time as the gas floor is taking positions based on the information they are 
+given.  In addition,  all reports go to SR.  Management such as John Lavorato 
+and Dave Delaney.
+
+The participants need to know several logistics type things such as:
+ where to sit
+ User tips on the use of related business hardware (i.e. phone system, 
+intercom, etc.)
+ How long/when or if to take lunch: use your discretion.
+ Expected working hours: Expect to be in the office no later than 8:00 and 
+preferably by 7:30
+
+It is also important to cover the expected learning criteria with the 
+participants on their first day:
+ able to work under pressure - You will be asked to provide reports and 
+answers to questions on the floor quickly.  You will be expected to know and 
+understand the information that you are giving.
+ ability to handle multiple priorities - There will be times when you are 
+faced with several tasks at once.  You will be expected to make quick 
+decisions and understand which is the most important.
+ meets deadlines - Everyday in Risk you have to meet a deadline.  The traders 
+must have positions and p&l on their desks when they walk in in the morning.
+ Excellent written communication - Your written communication will be in the 
+numbers that you provide to the floor.
+ Excellent oral communication - Again,  the traders will expect answers and 
+expect them quickly.  You will need to articulate those in a fashion that is 
+understandable.
+ Effective interpersonal skills -  see above.
+ Attention to detail - This is one of the most important considerations of 
+the job.  Again,  all information must be 100% accurate,  errors are not 
+acceptable.
+ Team player -  You will be expected to work across all groups upstream and 
+downstream to provide accurate information and solve related problems.
+ Excellent organisational skills - speed and accuracy are a hallmark of the 
+job,  therefore you will need to be organized at all times.
+ Is a motivated worker -  self explainatory
+ Excellent analytical skills - same
+ Maintains relationships with traders -  The trader will be relying on the 
+information that you provide him.  Therefore it is important that he trusts 
+what you are giving to him and that you are always asking if they need more 
+or better information.
+ Effective time management -  self explainatory
+ Competent in Excel -  Alot of the work we do is in excel.  It is important 
+that you be able to navigate excel, as well as create efficiencies to make 
+the job less prone to errors and to run more smoothly.
+ Competent with ERMS - ERMS is the system that is used to maintain positions 
+and p&l.  All deals flow through this system and all values related to deals 
+come from this system.
+ Competent with Risktrac - Risktrac is the system that tracks counterparty 
+risk and Value at Risk.  I expect you to understand what each means,  what 
+the limits are,  and how you can reduce and add to value at risk.
+ Demonstrates knowledge of trading concepts - Work with the traders to 
+understand why they are putting on the positions that they have.  Try to 
+understand proper hedging strategies etc.
+
+Each participant who comes to your area needs to know your interpretation of 
+each of these competencies so they can make sure to meet your expectations 
+while in your area.
+
+Also, the participants need to fully understand exactly what they'll be doing 
+in your area.  Let 'em know with as much detail as possible.
+
+Finally, Do you consider any information a pre-requisite for participation in 
+your area ?(i.e. Advanced Excel skills...etc)
+I'd like to know so we can push the participants to get the needed training 
+before coming to your group.  Advanced Excel skills,  preferably a level of 
+understanding of positions and value at risk.
+
+Please compile this information and forward it to me so I can put it into 
+some on-boarding material for all of the candidates by their first day of 
+rotations.
+
+The first candidates will begin on February 1, 2001.  
+
+Thank you very much for you time and consideration.
+
+Tom Wilbeck
+X57536
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <32330252.1075841238732.JavaMail.evans@thyme>
+Date: Mon, 13 Aug 2001 06:33:53 -0700 (PDT)
+From: c..gossett@enron.com
+To: errol.mclaughlin@enron.com
+Subject: 2002 Budget
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Gossett, Jeffrey C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JGOSSET>
+X-To: McLaughlin Jr., Errol </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emclaug>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - McLaughlin Jr., Errol\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: erol mclaughlin 6-26-02.PST
+
+	103820			
+				
+	2001 Forecast	2002 Plan	Variance	
+SAP COST				
+DIRECT EXPENSES				
+Subtotal Compensation	395,216 	537,663 	142,447 	
+Subtotal Benefits and Payroll Taxes	100,419 	142,859 	42,440 	
+Subtotal Employee Expenses	30,520 	52,100 	21,580 	
+Subtotal Communication Expense	1,745 	2,400 	655 	
+Infrastructure	18,868 	19,800 	932 	
+Subtotal Outside Services - IT	0 	0 	0 	
+Subtotal Outside Services	0 	0 	0 	
+Subtotal Office Supplies	9,003 	19,404 	10,401 	
+Advertising Expenses	0 	0 	0 	
+Charitable Contributions	0 	0 	0 	
+Subtotal Rent (3rd Party)	0 	0 	0 	
+Technology - Computer Exp	621 	0 	(621)	
+Transportation		0 	0 	
+EPSC Allocation	51,406 	92,400 	40,994 	
+Management Overview				
+A&A Allocation	71,200 	237,600 	166,400 	
+Subtotal Other	41,183 	0 	(41,183)	
+Subtotal Noncash Expenses	0 	0 	0 	
+Taxes Other than Income	0 	0 	0 	
+TOTAL DIRECT EXPENSES	720,182 	1,104,225 	384,044 	
+				
+TOTAL ALLOCATED EXPENSES	10,400 	0 	(10,400)	
+				
+Allocation to Others	                     (729,998)			
+				
+
+
+Errol -
+
+Here 2001 Estimates vs. what we budgeted for 2002.  $384,044 higher for next year.  Please let me know what changes we can make to get that number down.
+
+Thanks
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <27633493.1075841238756.JavaMail.evans@thyme>
+Date: Wed, 25 Jul 2001 15:28:04 -0700 (PDT)
+From: c..gossett@enron.com
+To: m..love@enron.com, anne.bike@enron.com, kam.keiser@enron.com,
+	david.baumbach@enron.com, d..winfree@enron.com,
+	errol.mclaughlin@enron.com, john.valdes@enron.com
+Subject: 2002 Budget
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Gossett, Jeffrey C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JGOSSET>
+X-To: Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>, Bike, Anne </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Abike>, Keiser, Kam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kkeiser>, Baumbach, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dbaumba>, Winfree, O'Neal D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Owinfre>, McLaughlin Jr., Errol </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emclaug>, Valdes, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jvaldes>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - McLaughlin Jr., Errol\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: erol mclaughlin 6-26-02.PST
+
+Please fill in the following and email me back by 10:00 tommorrow for your cost center section.  Don't worry about headcount,  just fill in the expenses on the detail expenses page.
+
+Thanks
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <3526090.1075851721116.JavaMail.evans@thyme>
+Date: Tue, 16 Jan 2001 07:01:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: errol.mclaughlin@enron.com
+Subject: Gas Daily deals in dispute
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeffrey C Gossett
+X-To: Errol McLaughlin
+X-cc: 
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+Errol - 
+
+Are we changing EOL deals?
+---------------------- Forwarded by Jeffrey C Gossett/HOU/ECT on 01/16/2001 
+02:53 PM ---------------------------
+
+
+Gregory Carraway@ENRON
+01/16/2001 01:57 PM
+To: Jeffrey C Gossett/HOU/ECT@ECT
+cc:  
+Subject: Gas Daily deals in dispute
+
+Forwarded per request of Kim Theriot.
+---------------------- Forwarded by Gregory Carraway/Corp/Enron on 01/16/2001 
+12:46 PM ---------------------------
+
+
+Gregory Carraway
+01/16/2001 08:50 AM
+To: Errol McLaughlin/Corp/Enron@ENRON
+cc: Rebecca Ford/HOU/ECT@ECT, Kim S Theriot/HOU/ECT@ECT 
+
+Subject: Gas Daily deals in dispute
+
+The following deals are being disputed by Reliant Energy Services. TAGG is 
+showing these deals as Gas Daily, but the counterparty states that they 
+should be changed to Nymex trades. They also stated that they were told by 
+Mike Maggi that the deals would be changed to Nymex deals:
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <3978738.1075841238657.JavaMail.evans@thyme>
+Date: Wed, 5 Sep 2001 08:06:46 -0700 (PDT)
+From: d..hogan@enron.com
+To: errol.mclaughlin@enron.com, sean.riordan@enron.com
+Subject: Meeting
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Hogan, Irena D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=IHOGAN>
+X-To: McLaughlin Jr., Errol </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emclaug>, Riordan, Sean </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sriordan>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - McLaughlin Jr., Errol\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: erol mclaughlin 6-26-02.PST
+
+Per Errol McLaughlin,
+
+	A meeting has been scheduled with Jeffrey Gossett, today @ 1:00 PM in EB 3270.
+
+Please add to your schedules.
+
+Thank you,
+
+
+Irena
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <20193416.1075841239098.JavaMail.evans@thyme>
+Date: Mon, 4 Jun 2001 06:30:49 -0700 (PDT)
+From: c..gossett@enron.com
+To: errol.mclaughlin@enron.com, kori.loibl@enron.com
+Subject: FW: Active/Inactive Books website clean up
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Gossett, Jeffrey C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JGOSSET>
+X-To: McLaughlin Jr., Errol </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emclaug>, Loibl, Kori </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kloibl>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - McLaughlin Jr., Errol\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: erol mclaughlin 6-26-02.PST
+
+What's the deal with these books???
+
+ -----Original Message-----
+From: 	Jenkins, Jason  
+Sent:	Monday, June 04, 2001 7:47 AM
+To:	McLaughlin Jr., Errol; Loibl, Kori; Gossett, Jeffrey C.
+Cc:	Abel, Chris; McIntyre, Burton; Trevino, Susan; Velasco, Jennifer
+Subject:	Active/Inactive Books website clean up
+
+The listed books are all showing an Active status on the website, but do not have post id's for the 1st.  Could you please do one of two things: 1)Change the status to Inactive or Archive, if the books do not have any trades  or 2) if they should be officialized and should have a post id, work with Burton's group to resolve the issue.
+
+We will be reporting on a daily basis all active books that did not have a post id show up on the website.  Therefore please manage the status of these books accordingly.  
+
+If you have any questions about the website, please contact Chris, Burton, Jennifer, Susan or myself.
+
+Thanks,	
+		Jason W. Jenkins
+
+Post ID	Book ID	Status	Trade Grp.	Admin.	
+	FT-TRANSPORT-BAS	ACTIVE	US GAS FIN	EMCLAUG	
+	NG-PR-SPREAD-PRC	ACTIVE	US GAS FIN	EMCLAUG	
+	NG-PRICE2-PRC	ACTIVE	US GAS FIN	EMCLAUG	
+	STAR-GDL	ACTIVE	US GAS FIN	EMCLAUG	
+	STAR-IDX	ACTIVE	US GAS FIN	EMCLAUG	
+	ECS-BAS	ACTIVE	US GAS FIN	KLOIBL	
+	ECS-GDL	ACTIVE	US GAS FIN	KLOIBL	
+	ECS-IDX	ACTIVE	US GAS FIN	KLOIBL	
+	ECS-PHY	ACTIVE	US GAS FIN	KLOIBL	
+	ECS-PRC	ACTIVE	US GAS FIN	KLOIBL	
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <255545.1075851721657.JavaMail.evans@thyme>
+Date: Wed, 21 Feb 2001 06:03:00 -0800 (PST)
+From: bilal.bajwa@enron.com
+To: jeffrey.gossett@enron.com
+Subject: Nymex Data
+Cc: errol.mclaughlin@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: errol.mclaughlin@enron.com
+X-From: Bilal Bajwa
+X-To: Jeffrey C Gossett
+X-cc: Errol McLaughlin
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+Jeff,
+I hope this data helps investor relations. Please let me know if you need any 
+further information.
+Bilal
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <22674968.1075851721429.JavaMail.evans@thyme>
+Date: Tue, 30 Jan 2001 09:58:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: kam.keiser@enron.com, darron.giron@enron.com, david.baumbach@enron.com,
+	errol.mclaughlin@enron.com, phillip.love@enron.com
+Subject: Re: Meeting
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeffrey C Gossett
+X-To: Kam Keiser, Darron C Giron, David Baumbach, Errol McLaughlin, Phillip M Love
+X-cc: 
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+10:30 tommorrow.
+---------------------- Forwarded by Jeffrey C Gossett/HOU/ECT on 01/30/2001 
+05:56 PM ---------------------------
+
+
+Yolanda Pena@ENRON
+01/30/2001 05:28 PM
+To: Jeffrey C Gossett/HOU/ECT@ECT
+cc:  
+Subject: Re: Meeting  
+
+That meeting will take place in 2166, Kim Theriots office.
+
+Thanks for all of your help.
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <17548838.1075851721519.JavaMail.evans@thyme>
+Date: Mon, 5 Feb 2001 02:12:00 -0800 (PST)
+From: brian.heinrich@enron.com
+To: errol.mclaughlin@enron.com
+Subject: Headcount Addition Form
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Brian Heinrich
+X-To: Errol McLaughlin
+X-cc: 
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+Errol,
+Here you go.  It will need to be signed by Jeff and Sally Beck, then returned 
+to me.
+If you have any questions, let me know.
+Thanks,
+Brian
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <15851111.1075851721475.JavaMail.evans@thyme>
+Date: Fri, 2 Feb 2001 09:44:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: sally.beck@enron.com
+Subject: re: book admin for Pipe/Gas daily option book
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeffrey C Gossett
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+Sally -
+
+Are you available for this meeting?  And should we ask John L. to come?  
+Also,  I had at least 5 people here past midnight on Thursday.  Let me know 
+your thought on how we should proceed with this.
+
+Thanks
+---------------------- Forwarded by Jeffrey C Gossett/HOU/ECT on 02/02/2001 
+05:30 PM ---------------------------
+
+
+Larry May@ENRON
+02/02/2001 02:43 PM
+To: Sally Beck/HOU/ECT@ECT, Jeffrey C Gossett/HOU/ECT@ECT, Susan M 
+Scott/HOU/ECT@ECT, Errol McLaughlin/Corp/Enron@ENRON
+cc: Phillip K Allen/HOU/ECT@ECT, John Arnold/HOU/ECT@ECT 
+Subject: re: book admin for Pipe/Gas daily option book
+
+As you might be aware,  Susan Scott (the book admin for the pipe option book) 
+was forced by system problems to stay all night Wednesday night and until 200 
+am Friday  in order to calc my book.  While she is scheduled to rotate to the 
+West desk soon,  I think we need to discuss putting two persons on my book in 
+order to bring the work load to a sustainable level.  I'd like to meet at 
+2:30 pm on Monday to discuss this issue.  Please let me know if this time 
+fits in your schedules.
+
+Thanks,
+
+Larry
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <26002334.1075841238803.JavaMail.evans@thyme>
+Date: Mon, 23 Jul 2001 11:17:45 -0700 (PDT)
+From: c..gossett@enron.com
+To: errol.mclaughlin@enron.com
+Subject: Bilal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Gossett, Jeffrey C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JGOSSET>
+X-To: McLaughlin Jr., Errol </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emclaug>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - McLaughlin Jr., Errol\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: erol mclaughlin 6-26-02.PST
+
+Errol -
+
+I changed the innovation line a little bit.  Read this and if you are Ok with it,  send it to Karen Buckley and copy me.
+
+Thanks 
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <4671964.1075851721338.JavaMail.evans@thyme>
+Date: Thu, 25 Jan 2001 01:37:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: errol.mclaughlin@enron.com
+Subject: Re: PG&E Canada Jan & Feb Exposure
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeffrey C Gossett
+X-To: Errol McLaughlin
+X-cc: 
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+Thanks for your help with this.
+
+
+
+
+Errol McLaughlin@ENRON
+01/25/2001 09:26 AM
+To: Jeffrey C Gossett/HOU/ECT@ECT
+cc:  
+Subject: PG&E Canada Jan & Feb Exposure
+
+
+
+Thanks,
+
+Errol, X5-8274
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <31468340.1075851721566.JavaMail.evans@thyme>
+Date: Thu, 15 Feb 2001 05:59:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: larry.may@enron.com
+Subject: re: Gas Daily options revaluation
+Cc: susan.scott@enron.com, errol.mclaughlin@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: susan.scott@enron.com, errol.mclaughlin@enron.com
+X-From: Jeffrey C Gossett
+X-To: Larry May
+X-cc: Susan M Scott, Errol McLaughlin
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+Thanks for your help in assuring that everyone is aware of this.  I really 
+appreciate it.
+
+
+
+
+Larry May@ENRON
+02/15/2001 01:16 PM
+To: John J Lavorato/Enron@EnronXGate, John Disturnal/CAL/ECT@ECT, Louise 
+Kitchen/HOU/ECT@ECT, John Arnold/HOU/ECT@ECT, Hunter S Shively/HOU/ECT@ECT, 
+Sally Beck/HOU/ECT@ECT, Phillip K Allen/HOU/ECT@ECT, Peter F 
+Keavey/HOU/ECT@ECT, Scott Neal/HOU/ECT@ECT, Susan M Scott/HOU/ECT@ECT, 
+Jeffrey C Gossett/HOU/ECT@ECT, Shouan Tang/Enron@EnronXGate
+cc:  
+Subject: re: Gas Daily options revaluation
+
+This is to inform you that we are rolling out changes to the Gas Daily option 
+pricing model.  Currently the system is not properly pricing index puts and 
+calls at locations with gas daily index premiums or discounts (puts and calls 
+are priced at the same level no matter what the index).  The change will 
+result in raising call values/lowering put values at locations with index 
+premiums and the opposite at locations with index discounts.
+
+In addition, index plus/minus option deals (for example index -1.00 puts) - 
+which are currently incorrectly priced flat to the index option (the index 
+-1.00 put is priced flat to the index put)- will be accurately priced to 
+reflect the difference in strikes.
+
+If  anyone has any questions please call me at  3-6731.
+
+Thank You,
+
+Larry May
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <9227169.1075841238780.JavaMail.evans@thyme>
+Date: Mon, 23 Jul 2001 15:30:42 -0700 (PDT)
+From: c..gossett@enron.com
+To: david.baumbach@enron.com, anne.bike@enron.com, greg.couch@enron.com,
+	kam.keiser@enron.com, m..love@enron.com, errol.mclaughlin@enron.com,
+	martha.stevens@enron.com, john.valdes@enron.com,
+	d..winfree@enron.com
+Subject: FW: 2002 Budget
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Gossett, Jeffrey C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JGOSSET>
+X-To: Baumbach, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dbaumba>, Bike, Anne </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Abike>, Couch, Greg </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gcouch>, Keiser, Kam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kkeiser>, Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>, McLaughlin Jr., Errol </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emclaug>, Stevens, Martha </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Msteven>, Valdes, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jvaldes>, Winfree, O'Neal D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Owinfre>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - McLaughlin Jr., Errol\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: erol mclaughlin 6-26-02.PST
+
+Please get this information back to me as soon as possible.
+
+Thanks
+
+ -----Original Message-----
+From: 	Hall, Bob M  
+Sent:	Monday, July 23, 2001 5:18 PM
+To:	Gossett, Jeffrey C.; White, Stacey W.; Superty, Robert; Hedstrom, Peggy; Wynne, Rita; Reeves, Leslie
+Cc:	Choate, Heather
+Subject:	2002 Budget
+
+It is that time again.  Unfortunitily, we don't have a cooridinator at this time.
+
+After talking to Brian Heinrick, the major driver is head count.
+
+I am meeting with Brian, to go over what the time line looks like (very short I am sure).
+
+PLease look at your head count numbers for the 2001 budget, head count today and what you think you need for 2002.
+
+I will try to make this as painless as possilbe.
+
+thanks
+
+bob
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <26901170.1075851720924.JavaMail.evans@thyme>
+Date: Wed, 27 Dec 2000 06:31:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: kam.keiser@enron.com, darron.giron@enron.com, william.kelly@enron.com,
+	david.baumbach@enron.com, errol.mclaughlin@enron.com
+Subject: Hedges not linking to sitara deals
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeffrey C Gossett
+X-To: Kam Keiser, Darron C Giron, William Kelly, David Baumbach, Errol McLaughlin
+X-cc: 
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+---------------------- Forwarded by Jeffrey C Gossett/HOU/ECT on 12/27/2000 
+02:30 PM ---------------------------
+
+
+Dawn C Kenne
+12/27/2000 02:25 PM
+To: Dat Truong/Corp/Enron@Enron, George Grant/HOU/ECT@ECT
+cc: Torrey Moorer/HOU/ECT@ECT, Tara Sweitzer/HOU/ECT@ECT, Jeffrey C 
+Gossett/HOU/ECT@ECT 
+Subject: Hedges not linking to sitara deals
+
+Dat and George, risk informed me of 2 additional sitara deals that are not 
+"linking" the hedges to the primary sitara deal.  Dat, can you please look 
+into this and let me know if this is a quick fix or not.  Risk is inquiring.  
+EOL #719279 and #713548 are the one's on question.
+
+Tara and Torrey, what is happening is risk is not seeing a hedge attaching to 
+the sitara deal and manually booking the hedge.  But, the hedge is being 
+created, just not linked to the primary physical deal.  
+
+Jeff,  I will let you know when this is corrected.  Please advise your group 
+not to manually hedge the deals in sitara.  If in doubt if it is hedged, have 
+them type in the next number after the sitara number which should be the 
+hedge.  For example, the physical deal is 547092, the hedge will be 547093.  
+Let me know if you have any further questions.
+
+Thanks,
+Dawn
+3-9353
+
+From MAILER-DAEMON Mon Apr 18 14:23:01 2022
+Message-ID: <14309786.1075851721612.JavaMail.evans@thyme>
+Date: Wed, 21 Feb 2001 01:42:00 -0800 (PST)
+From: errol.mclaughlin@enron.com
+To: errol.mclaughlin@enron.com
+Subject: Class Confirmation - Harassment Avoidance
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Errol McLaughlin
+X-To: Errol McLaughlin
+X-cc: 
+X-bcc: 
+X-Folder: \Errol_McLaughlin_Nov2001\Notes Folders\Gossett
+X-Origin: MCLAUGHLIN-E
+X-FileName: emclaug.nsf
+
+You are enrolled in the following class: 
+
+Harassment Avoidance
+
+Class Days and Times:
+  3/5/2001  01:00:00 PM - 02:30:00 PM
+Room # & Location: DoubleTree-La Salle B,  Houston
+Last Day to Cancel: 03/05/2001
+Participant Fee: $50.00
+Note: 
+
+Please review any prerequisite material to validate your eligibility in this 
+class.
+Your Company and RC will be charged $50.00
+
+If you have any questions, please call the Development Center Team at 
+713-853-0357.
+
+Thank you.
+

@@ -1,0 +1,1729 @@
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <7275481.1075858517915.JavaMail.evans@thyme>
+Date: Thu, 12 Jul 2001 14:50:10 -0700 (PDT)
+From: vivian.hart@enron.com
+To: chris.stokley@enron.com
+Subject: MV90
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Hart, Vivian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC53636D-18B8B8E8-862564C2-54946C>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Metering and Forcasting
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+I just talked to the developer and the MV90 and MDMA data sinks up daily.  The previous day's
+read should be available in MDMA the next day.  I haven't asked for a logon and password to get
+into MV90 because I am not sure you would want the data from MV90.  From my understanding,
+MV90 will hold the raw usage and it does not get validated for high low checks or other errors until it gets to MDMA.
+
+If the previous day's data is sufficient then MDMA should be good enough.
+
+Let me know if you still need me to pursue further.
+
+---------------------- Forwarded by Vivian Hart/HOU/EES on 07/12/2001 04:44 PM ---------------------------
+From:	Chris Stokley/ENRON@enronXgate on 07/10/2001 12:40 PM
+To:	Vivian Hart/HOU/EES@EES
+cc:	 
+Subject:	MV90
+
+Vivian,
+	Have you heard anything back on the time in which they sink up MV90 and MDMA. Also, were you able to find out the password to get into MV90 just in case we have  to go straight to the source. Thanks again for all of your help on these issues.
+
+							Chris Stokley
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <6673459.1075858517938.JavaMail.evans@thyme>
+Date: Fri, 29 Jun 2001 14:30:31 -0700 (PDT)
+From: vivian.hart@enron.com
+To: chris.stokley@enron.com
+Subject: MV90
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Hart, Vivian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC53636D-18B8B8E8-862564C2-54946C>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Metering and Forcasting
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Here is the data model and data flow diagram for MDMA.  
+
+  
+
+I am trying to find out if the data from MV90 get interfaced into MDMA on a daily basis
+or not.  If it is done on a daily basis, then I don't think there is a need to go into MV90.
+MV90 will have raw data and will not have gone through validations which are performed
+in MDMA.
+
+
+---------------------- Forwarded by Vivian Hart/HOU/EES on 06/29/2001 04:27 PM ---------------------------
+From:	Chris Stokley/ENRON@enronXgate on 06/28/2001 07:00 PM
+To:	Vivian Hart/HOU/EES@EES
+cc:	 
+Subject:	MV90
+
+Vivian,
+
+	I just wanted to leave you my contact numbers:
+	
+						Cell:    503-807-8959
+					           Work:   503-464-8219
+ 					          Home:   503-625-3541
+
+	I will be flying out tomorrow, but I should be in around 1:00 Pacific Time. Please send me an e-mail on where we stand with being able to get into the MV90 tables. I have Jeff Richter chomping at the bit on this one so it would be a nice if we can get our hands on that data. Thank you very much for your help on this topic.
+
+
+
+									   
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <4190836.1075858517659.JavaMail.evans@thyme>
+Date: Thu, 14 Jun 2001 06:51:01 -0700 (PDT)
+From: maurice.winter@enron.com
+To: neil.bresnan@enron.com, chris.stokley@enron.com, michael.frazier@enron.com
+Subject: Load Forecasting access to MV90 interval data
+Cc: gregg.young@enron.com, james.light@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: gregg.young@enron.com, james.light@enron.com
+X-From: Winter, Maurice </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=FDA61595-3F56AF8C-8625684D-570B52>
+X-To: Bresnan, Neil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC75CF5A-EBD2BACF-862566C5-6B3C9B>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>, Frazier, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=9E92D057-10EA49C5-86256982-518FA3>
+X-cc: Young, Gregg </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=2FF428DA-F9288930-862568DB-73282F>, Light, James </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=765C1539-2B2376BF-86256934-674BC4>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Metering and Forcasting
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+All,
+
+I spoke with Pat Priestley this morning about our request to get access to the MV90 daily interval meter data for load forecasting.  She said that she would not be available to meet formally until Monday due to the declared disaster at their operations due to the flood.  She said they are moving back to the Pennzoil building today and Friday, so things should be close to normal by Monday.
+
+Pat said that it is not be a problem to export the MV90 data (in just about any format) on a daily basis for us.  The data is housed in MV90 databases which , according to Pat, can only be read by an MV90 system; so we would need to purchase MV90 (very expensive) if we wanted to read the data directly.  
+
+I suggest we get the data exported daily from CSC to an FTP site at Enron, because they can manage the process on a daily basis.  We can sweep the FTP site daily and have it automatically imported into our databases.
+
+If we are in agreement with this solution, I  will create an emergency work request with CSC to begin working on this immediately.
+
+
+Maurice
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <12730089.1075858518147.JavaMail.evans@thyme>
+Date: Wed, 11 Jul 2001 13:45:19 -0700 (PDT)
+From: michael.frazier@enron.com
+To: chris.stokley@enron.com
+Subject: Meeting you would be interested in
+Cc: neil.bresnan@enron.com, jeff.richter@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: neil.bresnan@enron.com, jeff.richter@enron.com
+X-From: Frazier, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=9E92D057-10EA49C5-86256982-518FA3>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: Bresnan, Neil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC75CF5A-EBD2BACF-862566C5-6B3C9B>, Richter, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JRICHTE>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Metering and Forcasting
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+I am forwarding emails relevant to the Team Ranger initiative from the time I became involved to the time the scope of the effort was limited.  My understanding from my notes and recollections and a discussion with Glen Matthys this morning is as follows:
+*  Team Ranger is co-sponsored by Greg Young, Scott Mills, and Mary Lynn Ruffer.
+*  Team Ranger's objective is to capture all the data necessary for Ruffer to provide flash reports to Mills on what should liquidated from the risk book  vs actual costs and revenues experienced; Young's involved because his Operations group provides the link to CSC's billing and invoicing systems.
+*  Since I had been discussing my forecasting data needs and RPS tie-ins with Scott, he viewed this as an opportunity for the organization to gather more information than strictly needed to meet this objective and invited me to lobby for an expanded scope.
+*  Clearly I was outvoted, since the subsequent scope was severely restricted to retrieving only the financial data that is readily available to CSC and which will enable flash report development quickly (for power only); an expanded scope would have compromised timely deliverables.
+*  The system will pull down monthly data from STAT and LodeStar billing systems on a daily frequency (and will still provide some valuable information for me).
+*  The data collected for Team Ranger will be housed in an Enron-controlled database (not CSC's), supposedly for easy access to Enron users.
+
+
+Chris, this clearly falls in the realm we were discussing last night -- a limited scope "silo" initiative to solve a localized problem.  Like I said, I'm a culprit, too -- if no one else wants to provide the data I need, I'll pull it myself just as you counseled a month ago when we were struggling to get answers from CSC (via Operations). I admit you were right: we've gotten more data since then with access privileges than I could have wrangled out of requests to CSC in six months (despite California).
+
+Let me know what else you need from me to facilitate your efforts.  Please keep me updated with what you learn and where we stand.  I'll do the same.
+Michael
+---------------------- Forwarded by Michael Frazier/HOU/EES on 07/11/2001 03:00 PM ---------------------------
+   
+	Enron Energy Services  From:  Scott Mills                           06/03/2001 09:00 AM	
+		
+
+
+To:	Michael Frazier/HOU/EES@EES
+cc:	 
+Subject:	Meeting you would be interested in
+
+There is a meeting scheduled for Monday (see below) to discuss information that must be provided by CSC and Avista so that we can start tying out what is actually billed to what is in the Risk books.  This is a lot of the same information that I know you are trying to get your hands around.  If you are interested in attending, please do so.  If you are not available, give me some data points so that nothing is overlooked.  This will be the first of many "get togethers".  Evan Hughes and his group will be there to represent what we are currently getting from the outsource providers as well as what we are collecting internally.
+
+SRM (x33548)
+
+
+
+---------------------- Forwarded by Michael Frazier/HOU/EES on 07/11/2001 03:00 PM ---------------------------
+   
+	Enron Energy Services  From:  Scott Mills                           06/05/2001 10:23 PM	
+		
+
+
+To:	Kimberley Nelson/HOU/EES@EES
+cc:	Evan Hughes/HOU/EES@EES, Kimberley Nelson/HOU/EES@EES, Mary Lynne Ruffer/HOU/EES@EES, Gregg Young/HOU/EES@EES, Joni Fisher/HOU/EES@EES, Ben Smith/HOU/EES@EES, Wade Stubblefield/HOU/EES@EES, Patrick Cagney/HOU/EES@EES, Michael Frazier/HOU/EES@EES, Anthony Dayao/HOU/EES@EES, Anthony Dayao/HOU/EES@EES, Christina Liscano/HOU/EES@EES 
+Subject:	Re: A/R Accruals Mtg. - Reminder   
+
+After looking at this, a couple of thoughts:
+
+Assuming that we will create a "global" repository that will support everyone's needs for all EES activity (purchases and sells)
+
+	Internal as well as outsource data
+
+Outsource data needs to be "Enronized" (consistent internal formatting of field values)
+
+	We should be able to use the GCP/EES Settlement System cross reference mapping that is set up and maintained by Global Counterparty as a way to get 	to Enron's Global Counterparty number
+
+This should be a daily feed
+
+We will need the same information for payments
+
+Additional information needed in the file:
+
+EES Entity transacting Business
+Commodity 			(e.g. power, gas)
+Covered Service		(e.g. commodity, projects, AOPS)
+Flow Begin Date
+Flow End Date
+Volume
+Volume Frequency 		(e.g. daily, monthly, total for period)
+Volume Status			(e.g. estimated, actual)
+Price Type 			(e.g. Commodity, Tax, ...)
+Rate Schedule 			(if applicable -e.g. Name of Utility Rate Class)
+Rate Name 			(if applicable -e.g. IF-Transco/Z6 New York Restricted)
+Pass Through Fee 		(Yes/No)
+Price (Per Unit)/Rate  		(e.g. Per Unit $50.00 USD/MWH or Rate $100,000 USD)
+Price Currency                                   (e.g. USD, CAD, etc.
+Total Amount 			(Price * Volume)
+Total Amount Currency		(e.g. USD, CAD, etc.
+
+Joni -how different is the information in this file compared to what Mike Newlin is getting on a daily basis for the Credit Aggregation process.  Should what Mike is getting be coordinated with this process.  The one advantage that I can see now is the ability to get an aged open A/R Balance
+
+Mary Lynne -is there any additional information from what you are having pulled now for reconciliation of prior months?
+
+Michael -from your requirements that you are already discussing regarding volumes, is there anything else?
+
+How different is this from the Tax Project extract that was discussed -can these efforts be consolidated?
+
+I will have Christina schedule a meeting for further discussion.
+
+SRM (x33548)
+
+
+   
+	Enron Energy Services  From:  Kimberley Nelson                           06/05/2001 04:35 PM	
+		
+
+
+To:	Evan Hughes/HOU/EES@EES, Kimberley Nelson/HOU/EES@EES, Mary Lynne Ruffer/HOU/EES@EES, Scott Mills/HOU/EES@EES, Gregg Young/HOU/EES@EES, Joni Fisher/HOU/EES@EES, Ben Smith/HOU/EES@EES
+cc:	Wade Stubblefield/HOU/EES@EES, Patrick Cagney/HOU/EES@EES 
+Subject:	A/R Accruals Mtg. - Reminder
+
+As discussed in the subject meeting, Joni and I have been working with Patrick Cagney and CSC on defining a project to generate a daily extract file containing transactional invoice data with accounts receivable balances and collections.  Attached is the data item list as discussed with CSC for your information.  CSC has already submitted an impact statement for this work; however, if it would assist any of your efforts to use, expand, or modify this data extract, I believe it would be beneficial to discuss it before we move forward with this project.  Please let Patrick or myself know if you have any questions regarding this.
+
+Thanks,
+Kim
+
+ 
+
+
+---------------------- Forwarded by Kimberley Nelson/HOU/EES on 06/05/2001 04:27 PM ---------------------------
+
+
+Jennifer Bryan
+06/01/2001 12:47 PM
+To:	Evan Hughes/HOU/EES@EES, Kimberley Nelson/HOU/EES@EES, Mary Lynne Ruffer/HOU/EES@EES, Scott Mills/HOU/EES@EES, Gregg Young/HOU/EES@EES, Joni Fisher/HOU/EES@EES, Ben Smith/HOU/EES@EES
+cc:	Sonia Perez/HOU/EES@EES, Leticia Botello/HOU/EES@EES, Christina Liscano/HOU/EES@EES, Olga Lopez/HOU/EES@EES, Nidia Garcia/HOU/EES@EES, Wade Stubblefield/HOU/EES@EES 
+Subject:	A/R Accruals Mtg. - Reminder
+
+I know I sent the reminder out the other day, but Wade wanted to add Ben Smith and Kim Nelson to this meeting.
+
+This meeting is to discuss a strategy and have a joint discussion of projects around liquidations, accruals and operations analysis.
+
+Monday, June 4th
+4:00
+EB9C1
+
+If you have any questions, please let me know.
+
+Jennifer - x5-8340
+
+
+
+
+
+---------------------- Forwarded by Michael Frazier/HOU/EES on 07/11/2001 03:00 PM ---------------------------
+
+	Enron Energy Services  From:  Robert Bailey                           06/12/2001 10:58 AM Phone No: 713-853-7130	
+		
+
+
+
+
+To:	Team Ranger - Everyone
+cc:	Nidia Garcia/HOU/EES@EES 
+Subject:	Team Ranger - Revamped
+
+I hate it when I do that!!
+ 
+---------------------- Forwarded by Robert Bailey/HOU/EES on 06/12/2001 10:57 AM ---------------------------
+
+	Enron Energy Services  From:  Robert Bailey                           06/12/2001 10:56 AM Phone No: 713-853-7130	
+		
+
+
+
+
+To:	Team Ranger - Everyone
+cc:	Nidia Garcia/HOU/EES@EES 
+Subject:	Team Ranger - Revamped
+
+As some of you know, Gregg Young formed a team (Team Ranger) to identify and report on actual bill payment and invoicing information.  After meeting with other department heads, Team Ranger has been expanded.  Attached is a document identifying:
+
+The 3 phases of Team Ranger
+Project Management
+The team members assigned to each phase and the groups they represent
+Initial due date of Project deliverables
+
+Please review this document.  If you have not been notified that you will participate on this team, please see your supervisor.
+
+The Power phase will be the first to start.  Glenn Matthys will be contacting those individuals to set up our first meeting.....probably tomorrow.
+
+Thank you in advance for your cooperation!
+Robert Bailey
+
+
+
+---------------------- Forwarded by Michael Frazier/HOU/EES on 07/11/2001 03:00 PM ---------------------------
+
+	Enron Energy Services  From:  Robert Bailey                           06/12/2001 11:04 AM Phone No: 713-853-7130	
+		
+
+
+
+
+To:	Team Ranger - Everyone
+cc:	 
+Subject:	Minutes from 1st Meeting
+
+Attached are the minutes from our preliminary meeting..........Before the scope included groups outside of Evan's org.  
+
+Also attached is the project plan we had.  This can be used to 'jump start' our first meeting(s) and to assist in creating our new project plan.
+
+Glenn, can you combine these documents into one and bring to our first meeting?
+
+Thanks
+Robert
+
+  
+---------------------- Forwarded by Michael Frazier/HOU/EES on 07/11/2001 03:00 PM ---------------------------
+
+Alarm enabled: an alarm will occur 30 minutes before the start time of this entry.
+	Calendar Entry	
+
+
+
+Brief description:
+Date:
+Time:
+
+EB-872 Team Ranger Mtg
+06/13/2001
+03:00 PM - 05:00 PM
+
+
+Detailed description:
+
+
+Invitations have been sent to:	Robert Bailey/HOU/EES, Glenn E Matthys/NA/Enron, Joseph Capasso/HOU/EES, Michael Kim/HOU/EES, Scott Mills/HOU/EES, Angela Smith/HOU/EES, Mary Lynne Ruffer/HOU/EES, Richard Miller/HOU/EES, Maurice Winter/HOU/EES, swalker2@csc.com, Michael Frazier/HOU/EES, Kimberley Nelson/HOU/EES, Vivian Hart/HOU/EES, Neal Symms/HOU/EES, thuson@csc.com, Brenda F Herod/Enron
+_________________________________________________________________________
+Chairperson:	Tammy Dawson/HOU/EES
+This meeting repeats   starting on    (if the date occurs on a weekend the meeting ).
+---------------------- Forwarded by Michael Frazier/HOU/EES on 07/11/2001 03:00 PM ---------------------------
+
+
+	Cancelled	
+
+		
+Chairperson:	Tammy Dawson
+
+Start:	06/18/2001 10:00 AM
+End:	06/18/2001 11:00 AM
+
+Description:	EB-12C3  Team Ranger (GNO Team)
+
+
+
+
+
+
+Detailed description:
+
+
+
+---------------------- Forwarded by Michael Frazier/HOU/EES on 07/11/2001 03:00 PM ---------------------------
+
+
+	Cancelled	
+
+		
+Chairperson:	Tammy Dawson
+
+Start:	06/18/2001 01:30 PM
+End:	06/18/2001 03:00 PM
+
+Description:	EB-12C3 Power Team Meeting
+
+
+
+
+
+
+
+Detailed description:
+Action Items
+1) Update of the Data Elements' is due to Pat Cagney by Monday 8am.  Pat is to compile list.
+2) Bring the reports that we listed (on the white board) and hightlight which data elements these reports provide.
+3) Bring a draft list of the reports they need from our database project.
+
+
+---------------------- Forwarded by Michael Frazier/HOU/EES on 07/11/2001 03:00 PM ---------------------------
+
+
+Patrick Cagney
+06/19/2001 11:37 AM
+To:	Robert Bailey/HOU/EES@EES
+cc:	Mary Lynne Ruffer/HOU/EES@EES, Michael Frazier/HOU/EES@EES, Scott Mills/HOU/EES@EES, Kimberley Nelson/HOU/EES@EES 
+Subject:	Re: Data Element List for Team Ranger
+
+Robert,
+Below is an attachment with additional data item input from Mike Frazier who needs data for Volume Forecasting.
+I wasn't sure if this data fell into the amended scope of "Flash to Actual" or not.
+
+Can you let Mike know?
+
+Thanks, Pat.
+ 
+---------------------- Forwarded by Patrick Cagney/HOU/EES on 06/19/2001 11:30 AM ---------------------------
+
+
+Michael Frazier
+06/19/2001 10:59 AM
+To:	Patrick Cagney/HOU/EES@EES
+cc:	 
+Subject:	Re: Data Element List for Team Ranger   
+
+Pat
+First, I'm sorry about the tardiness.  Attached is the file you sent me with data elements that are important in volume forecasting highlighted and copied into its own column, then supplemented with additional information that would be useful if available from the sources contemplated.  Note the color codes used in highlighting are yellow to denote necessary or essential and blue to mark elements that "would be nice or occasionally useful."  Thanks, Pat, for your help in compiling this list.
+Michael
+713-345-3200
+
+
+ 
+
+
+
+Patrick Cagney
+06/14/2001 09:06 AM
+To:	Mary Lynne Ruffer/HOU/EES@EES, Angela Smith/HOU/EES@EES, Cathy Pittenger/HOU/EES@EES, Michael Frazier/HOU/EES@EES
+cc:	Joni Fisher/HOU/EES@EES, Robert Bailey/HOU/EES@EES 
+Subject:	Data Element List for Team Ranger
+
+Here is the file reviewed in yesterday's meeting.
+Pat.
+ 
+
+
+
+
+
+
+---------------------- Forwarded by Michael Frazier/HOU/EES on 07/11/2001 03:00 PM ---------------------------
+   
+	Enron Energy Services  From:  Robert Bailey                           07/10/2001 03:58 PM	
+		
+
+
+To:	Glenn.E.Matthys@Enron.com, Michael Frazier/HOU/EES@EES
+cc:	 
+Subject:	update
+
+Glenn,
+
+please get with Michael and give him a Ranger updatre
+
+
+
+<Embedded StdOleLink>
+<Embedded StdOleLink>
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <4245932.1075858517990.JavaMail.evans@thyme>
+Date: Mon, 21 May 2001 08:59:30 -0700 (PDT)
+From: michael.frazier@enron.com
+To: diann.huddleson@enron.com, rebecca.fite@enron.com, maurice.winter@enron.com
+Subject: 
+Cc: evan.hughes@enron.com, neil.bresnan@enron.com, chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: evan.hughes@enron.com, neil.bresnan@enron.com, chris.stokley@enron.com
+X-From: Frazier, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=9E92D057-10EA49C5-86256982-518FA3>
+X-To: Huddleson, Diann </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=42FC33C8-1B17856E-86256583-4C4C89>, Fite, Rebecca </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=E37F510B-967F074C-862569CB-53C357>, Winter, Maurice </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=FDA61595-3F56AF8C-8625684D-570B52>
+X-cc: Hughes, Evan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=1131EC5F-7E48D039-8625692F-52EA2E>, Bresnan, Neil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC75CF5A-EBD2BACF-862566C5-6B3C9B>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Metering and Forcasting
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+For clarification, let me summarize my understanding of discussions held over the past few weeks concerning data requests and reports from your group and from CSC.  For forecasting and scheduling purposes in both established and new markets, we need to develop the following products and services:
+1.  Capability to identify, track, and cross-reference customers by all unique "meta data" such as name(s), address (service sites), account number(s), underlying LDC/UDC (by service zone where applicable), utility tariff and profile, etc. and to aggregate loads by these descriptions.
+2.  Capability to capture and store for subsequent analysis the 12-month (or longer) billing history provided by the UDC/customer when deal is initiated.
+3.  Capability to incorporate and utilize metered data and billing data into a forecasting and scheduling process for all customers (existing and potential) where physical delivery of gas or power is required or anticipated.
+4.  Reported data must contain specific identification of those customers who are/will be physical and best known start and stop dates for physical service.
+5.  Capability to monitor validity of forecasts on a near real-time basis by comparison with actual aggregate load(s), as estimated by pre-settlement quality data.
+6.  Final settlement quality data that is as complete and accurate as possible.
+
+It is evident that data collected by or under the control of your group is integral to accomplishing the above.  Your unique placement in the process, as interface to CSC, means that data from origination, deal sheets, dasrs, and meter ops passes through your group, directly or indirectly.  The following information, at a minimum, would seem to be key components of a process needed to provide such data needs to the Load desk:
+1.  Access to live data feeds, where available, for metered data from MDMA and other systems (EDI,...).
+2.  Access to alternative usage information systems such as files sent by UDCs or posted to websites.
+3.  Deal sheet and DASR (or "de-DASR") information to anticipate changes in customers.
+4.  Query and report capability to obtain routine reports, such as a weekly report on the impact on load of added/returned customers, and to obtain special reports, such as customer count or load by region, rate class, UDC, demand zone, or individual "deal" (like UCCSU, IBM, Sony, etc.)
+
+In order to better develop our capabilities, the load desk has been working directly with CSC and through your group to turn that data into usable information.  We now understand that you wish to establish a single point of contact with CSC for facilitating development of customized reports or interfaces for data.  In addition, your group plans to add in-house querying and reporting capability that would augment or replace certain report needs from CSC.  I would suggest we meet and discuss again the exact form and timing of deliverables from CSC, or your group, that will be used, in turn, to underpin the systems and products needed from my group for more accurate forecasting, scheduling, and trading.  A meeting this week, while Chris Stokley could attend, would be especially helpful.
+
+If everyone would please let me know your schedules for this week, I will arrange a meeting time and location.
+I greatly appreciate your help in this matter.  
+Michael
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <25096720.1075858518046.JavaMail.evans@thyme>
+Date: Fri, 27 Jul 2001 10:45:26 -0700 (PDT)
+From: michael.frazier@enron.com
+To: neil.bresnan@enron.com
+Subject: Work Requests must be WRITTEN and emailed to Me and Jay
+Cc: jeff.richter@enron.com, chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jeff.richter@enron.com, chris.stokley@enron.com
+X-From: Frazier, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=9E92D057-10EA49C5-86256982-518FA3>
+X-To: Bresnan, Neil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC75CF5A-EBD2BACF-862566C5-6B3C9B>
+X-cc: Richter, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JRICHTE>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Metering and Forcasting
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Neil -- to confirm what we discussed this morning and to keep others in the information loop:
+The attached message is apparently in response to a request from Diann to try to get us better data from the utilities or from the CSC process, particularly with regard to customer switchover dates.  I have been pushing on her to get the information we need (although she reminded me it is no longer her job to do so), and she in turn asked Jay Bhatty to extract the data.  I have left a voice mail for Richard Miller, who is unavailable today, asking for a meeting or message outlining where the responsibility now resides that was formerly under Evan Hughes' operations group.  I also spoke with Diann, who told me she has a meeting set up with parties from the "service desk" in the new EWS organization handling data requests and CSC liason duties for us.  I asked her to impress upon them how expensive omissions can be.  She thinks an announcement of a reorganized group is coming as soon as Monday.
+
+The CSC representative in Dublin producing the "Frazier report" mentioned below told me that PG&E has agreed to start submitting the expected switchover dates, but will back-date those fields for meters that are already flowing (ones that resulted in the shortfall between expected and actual load of returning customers).  That may be important in determining if there is any recourse for tagging the utility with some of the cost of underscheduling over the last two weeks.  I will keep you updated as I learn more.  Meanwhile, the load desk is making what we believe to be reasonable assumptions of load ramp-ups in August and beyond.  Call if you have questions.
+MRF
+---------------------- Forwarded by Michael Frazier/HOU/EES on 07/27/2001 12:02 PM ---------------------------
+
+
+Richard Miller
+07/26/2001 06:54 PM
+To:	Michael Frazier/HOU/EES@EES, Diann Huddleson/HOU/EES@EES
+cc:	Jay Bhatty/HOU/EES@EES, Brenda F Herod/Enron@EnronXGate, Gregg Young/HOU/EES@EES, JoAnn Lavine/HOU/EES@EES 
+Subject:	Work Requests must be WRITTEN and emailed to Me and Jay
+
+ 		
+
+
+FYI----We must have written requests that explicitly define all work requests.  Please provide this and we will work it into the queue.
+We will attempt to do everything as fast as possible, but we must prioritize the work.
+
+I have told Jay NOT to do any work requests based on verbal instructions from anyone.  This is brutal but necessary.
+
+I know there is a version of a "Frazier Report" that can be provided by CSC.  I know that certain knowledge has been passed to 
+Michael Frazier.  
+
+I must have a written request for your project.
+
+Jay's main job in to do set-up enrollments and train our team to do set-up enrollments.
+He will be assuming the meter and DASR functions as necessary beginning next week.
+
+Jay is not available to do data requests if there is any chance at all that CSC can do the work.
+If CSC does the work late or wrong, that is another issue.
+
+Thanks, Richard
+
+
+
+Richard Miller
+3AC-1607
+713.345.5254 OFFICE/VOICE MAIL
+888.526.5716 PAGER
+rmiller8@enron.com
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <28647.1075858517774.JavaMail.evans@thyme>
+Date: Tue, 29 May 2001 17:16:02 -0700 (PDT)
+From: michael.spruiell@enron.com
+To: jeff.richter@enron.com, chris.stokley@enron.com
+Subject: Forecast Report using Forecasted vs. Actual Weather Data -
+ 5/21/01-5/27/01
+Cc: mfrazier@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: mfrazier@enron.com
+X-From: Spruiell, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=F5CD6A70-7D4C4AAE-86256888-55E157>
+X-To: Richter, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JRICHTE>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: mfrazier@enron.com
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Metering and Forcasting
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+This report compares load forecasts created using forecasted weather data in order to create day-ahead schedules and forecasts created using actual weather data received after the forecast date has passed.  It will be provided regularly in order to keep you informed of the accuracy of our forecasts based on unexpected changes in weather.  If you have any questions or concerns, please feel free to contact me.  Thank you.
+
+ 
+
+Michael D. Spruiell
+Analyst
+Commodity Risk Management
+Load Forecasting Desk
+Office: 713-345-8644
+Pager: 877-408-1373
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <9738373.1075858518253.JavaMail.evans@thyme>
+Date: Fri, 3 Aug 2001 11:11:01 -0700 (PDT)
+From: f..herod@enron.com
+To: richard.miller@enron.com
+Subject: FW: CSC UPDATE ON INTERVAL METER DATA PUSH TO FTP SERVER ON T-1
+Cc: chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: chris.stokley@enron.com
+X-From: Herod, Brenda F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BHEROD>
+X-To: Miller, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=a48f5dae-b6f4ad54-862568e8-59e936>
+X-cc: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Metering and Forcasting
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Can you run this down for Chris, and copy me on it.  If they haven't completed it, I'd like to why and when it will be done.
+
+Chris,  I apologize for this sitting here since Wednesday with no response.  I was in CSC's offices on Wednesday and Thursday.  I need to get a lap top to check in when I travel.
+
+ -----Original Message-----
+From: 	Stokley, Chris  
+Sent:	Wednesday, August 01, 2001 8:11 AM
+To:	Herod, Brenda F.
+Subject:	CSC UPDATE ON INTERVAL METER DATA PUSH TO FTP SERVER ON T-1
+Importance:	High
+
+Brenda,
+	I need to give Jeff Ricter an update on where this item stands with CSC. I am still going off of the e-mail listed below stating that CSC could meet this deliverable by sometime this week. This is the item that we talked about in last week's Project Ranger meeting, and agreed needed to put on the high priority list. If you have any questions on this item, please feel free to call me at 503-807-8959. Thank for your help on this item.
+
+								Chris 
+
+ -----Original Message-----
+From: 	Winter, Maurice  
+Sent:	Wednesday, July 25, 2001 8:05 AM
+To:	Stokley, Chris
+Cc:	Huddleson, Diann; O'Neil, Murray P.; Hart, Vivian; Carsten Haack/Enron@EUEnronXgate@ENRON <mailto:Haack/Enron@EUEnronXgate@ENRON>; Ha, Kenny; Richter, Alma
+Subject:	RE: FW: CSC UPDATE
+
+Chris,
+
+In our meeting with Pat Priestley yesterday, she said it would not be difficult to post a CSV file to an FTP server for all the Interval Meter Data accounts in MV90.  Pat said that to post it in the Energy Sense format (MDEF) would be very difficult because of how the system operates.  
+
+Pat also confirmed that they do not post data from all MV90 accounts to the MDMA on a daily basis.  I asked her if they could change this process and she said that it was something they have been wanting to do, but it has not been a high priority.  
+
+I recommend that we get the daily CSV file from the FTP server and import it into the Load Database that John Rutledge is developing.  Pat says that if we can have the Work Request completed today, we could have this set up next week. 
+
+The best scenario is for all the data to be posted to the MDMA daily, so we can possibly get CSC to make this a high priority.
+
+Maurice
+
+
+
+
+From:	Chris Stokley/ENRON@enronXgate <mailto:Stokley/ENRON@enronXgate> on 07/25/2001 09:45 AM
+To:	Diann Huddleson/HOU/EES@EES <mailto:Huddleson/HOU/EES@EES>
+cc:	Murray P ONeil/ENRON@enronXgate <mailto:ONeil/ENRON@enronXgate>, Vivian Hart/HOU/EES@EES <mailto:Hart/HOU/EES@EES>, Carsten Haack/Enron@EUEnronXgate@ENRON <mailto:Haack/Enron@EUEnronXgate@ENRON>, Kenny Ha/HOU/EES@EES <mailto:Ha/HOU/EES@EES>, Alma Richter/ENRON@enronXgate <mailto:Richter/ENRON@enronXgate>, Maurice Winter/HOU/EES@EES <mailto:Winter/HOU/EES@EES> 
+Subject:	RE: FW: CSC UPDATE
+
+Diann,
+
+	We have a few paths that we are looking into, including the one that we discussed w/ Maurice. Never at any time in that meeting did we decide not to look at the paths listed below. Does this mean that you have done nothing to facilitate these request to CSC?  
+
+
+				Chris
+
+ -----Original Message-----
+From: 	Huddleson, Diann  
+Sent:	Wednesday, July 25, 2001 7:24 AM
+To:	Stokley, Chris
+Cc:	O'Neil, Murray P.; Hart, Vivian; Carsten Haack/Enron@EUEnronXgate@ENRON <mailto:Haack/Enron@EUEnronXgate@ENRON>; Ha, Kenny; Richter, Alma; Winter, Maurice
+Subject:	Re: FW: CSC UPDATE
+
+Chris,  I thought that you and Michael met with Maurice the other day and decided a slightly different path.  Is that not the case?  
+
+
+
+From:	Chris Stokley/ENRON@enronXgate <mailto:Stokley/ENRON@enronXgate> on 07/24/2001 04:02 PM
+To:	Diann Huddleson/HOU/EES@EES <mailto:Huddleson/HOU/EES@EES>
+cc:	Murray P ONeil/ENRON@enronXgate <mailto:ONeil/ENRON@enronXgate>, Vivian Hart/HOU/EES@EES <mailto:Hart/HOU/EES@EES>, Carsten Haack/Enron@EUEnronXgate <mailto:Haack/Enron@EUEnronXgate>, Kenny Ha/HOU/EES@EES <mailto:Ha/HOU/EES@EES>, Alma Richter/ENRON@enronXgate <mailto:Richter/ENRON@enronXgate> 
+Subject:	FW: CSC UPDATE
+
+Diann,
+	I have got to get an update on the items below. Please send me your status on these items by close of business today. 
+
+
+									Chris
+
+ -----Original Message-----
+From: 	Stokley, Chris  
+Sent:	Monday, July 23, 2001 3:23 PM
+To:	Huddleson, Diann
+Cc:	Frazier, Michael; Hart, Vivian; O'Neil, Murray P.; Ha, Kenny
+Subject:	RE: CSC UPDATE
+
+Diann,
+
+	Do you have an update on the status of the other two items we discussed.
+
+1)	CSC's ability to send all of our Calf. Customers files out to the FTP server as they do with the Energy Sense customers, along with the  timeline to get this implemented.
+2)	The cost and timeline to put all of our customers into the Energy Sense website.
+
+Chris
+503-807-8959
+
+ -----Original Message-----
+From: 	Huddleson, Diann  
+Sent:	Friday, July 20, 2001 2:59 PM
+To:	Stokley, Chris
+Cc:	Frazier, Michael; Hart, Vivian
+Subject:	Re: CSC UPDATE
+
+Vivian has regained access to the MDMA.    However, I need to control who has access so that we don't interfere with CSC's operation.  Let me know who will need access to this data.  Thanks.
+
+
+
+From:	Chris Stokley/ENRON@enronXgate <mailto:Stokley/ENRON@enronXgate> on 07/19/2001 04:04 PM
+To:	Diann Huddleson/HOU/EES@EES <mailto:Huddleson/HOU/EES@EES>
+cc:	 
+Subject:	CSC UPDATE
+
+Diann,
+
+	I am flying back to Portland tomorrow morning at about 9:30 arriving at 12:00 Please call me at 503-807-8959 or e-mail me w/ and update on you talks w/ CSC. Thanks for your help.
+
+
+
+									Chris Stokley
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <22914080.1075858518118.JavaMail.evans@thyme>
+Date: Fri, 13 Jul 2001 10:58:54 -0700 (PDT)
+From: michael.frazier@enron.com
+To: neil.bresnan@enron.com
+Subject: August Forecast (revised)
+Cc: jeff.richter@enron.com, chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jeff.richter@enron.com, chris.stokley@enron.com
+X-From: Frazier, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=9E92D057-10EA49C5-86256982-518FA3>
+X-To: Bresnan, Neil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC75CF5A-EBD2BACF-862566C5-6B3C9B>
+X-cc: Richter, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JRICHTE>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Metering and Forcasting
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Neil 
+I am forwarding a file containing the most current projections we have for California volumes during August, 2001.  The summary sheet contains averages for selected hours and the typical monthly averages we usually supply you in three views: the month as a whole, beginning of the month, and end of the month.  It is presented this way to highlight the anticipated growth in load over the course of August by 200-300 MW per hour as more and more customers are returned to service on their respective bill cycles.
+
+The load projections shown are totals including IBM in the North and SDG&E customers in the South.  The incremental loads of returned SCE and PG&E customers plus new load in SDGE is shown in the following table:
+
+
+
+As we get newer and better data, we will keep you informed of changes in August projections.  I've taken the liberty of copying Jeff and Chris on this; please forward to whoever else needs it.  Thanks.  Call me or Michael Spruiell with questions.
+Michael
+---------------------- Forwarded by Michael Frazier/HOU/EES on 07/13/2001 12:39 PM ---------------------------
+
+	Enron Energy Services  From:  Michael Spruiell                           07/13/2001 12:15 PM Phone No: 713-345-8644	
+		
+
+
+
+
+To:	mfrazier
+cc:	 
+Subject:	August Forecast (revised)
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <5377225.1075858517587.JavaMail.evans@thyme>
+Date: Thu, 21 Jun 2001 12:55:40 -0700 (PDT)
+From: maurice.winter@enron.com
+To: neil.bresnan@enron.com, chris.stokley@enron.com, michael.frazier@enron.com
+Subject: Re: Following Up
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Winter, Maurice </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=FDA61595-3F56AF8C-8625684D-570B52>
+X-To: Bresnan, Neil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC75CF5A-EBD2BACF-862566C5-6B3C9B>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>, Frazier, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=9E92D057-10EA49C5-86256982-518FA3>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Metering and Forcasting
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+I spoke with this guy at Iron, the company the sells MV90.  MV-Webb may be what we need.  He says it costs about $50k but we may be able to get CSC to pitch in.........they also have some load forecasting tools.......see below
+
+Sorry about our meeting.........I will try to set one up tomorrow, if things go as planned tonight.
+
+Maurice
+
+
+
+
+Brandon Force <Brandon.Force@Itron.com> on 06/21/2001 09:45:29 AM
+To:	"'mwinter@enron.com'" <mwinter@enron.com>
+cc:	 
+Subject:	Following Up
+
+
+Maurice,
+Here is the MV-WEB demo website information as requested.  I have also
+enclosed some brief white papers on other solutions from Itron EIS.  Again I
+will be going through Houston next week and could visit your site either,
+Wed. or Friday to discuss any of these software solutions.  Please let me
+know if I can answer any other questions for you.  Thank you for your time
+and consideration.
+
+http://utstest.itron.com <---No www
+
+User ID:  demo
+PW:  m5dem0   <---zero
+
+
+
+Brandon Force
+Regional Account Manager
+Itron, Energy Information Systems, Raleigh, NC
+Voice: 919-876-2600 x1210  Fax: 919-876-4001
+Email: brandon.force@itron.com
+ <<MV-90EE2.doc>>  <<MV-WEB Brochure.doc>>  <<MV-STAR2 Brochure.doc>>
+<<MV-PBS Brochure.doc>>
+
+ - MV-90EE2.doc 
+ - MV-WEB Brochure.doc 
+ - MV-STAR2 Brochure.doc 
+ - MV-PBS Brochure.doc 
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <19030649.1075858517891.JavaMail.evans@thyme>
+Date: Fri, 20 Jul 2001 15:23:49 -0700 (PDT)
+From: vivian.hart@enron.com
+To: diann.huddleson@enron.com
+Subject: Re: CSC UPDATE
+Cc: chris.stokley@enron.com, michael.frazier@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: chris.stokley@enron.com, michael.frazier@enron.com
+X-From: Hart, Vivian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC53636D-18B8B8E8-862564C2-54946C>
+X-To: Huddleson, Diann </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=42FC33C8-1B17856E-86256583-4C4C89>
+X-cc: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>, Frazier, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=9E92D057-10EA49C5-86256982-518FA3>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Metering and Forcasting
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+We have a common logon id that everyone uses.  The people that I know of who normally access the database
+are Michael Frazier's group, John Rutledge from IT supporting Michael Frazier, SH, Maurice, and John Hamby.
+
+
+---------------------- Forwarded by Vivian Hart/HOU/EES on 07/20/2001 05:20 PM ---------------------------
+
+
+Diann Huddleson
+07/20/2001 04:59 PM
+To:	Chris Stokley/ENRON@enronXgate @ ENRON
+cc:	Michael Frazier/HOU/EES@EES, Vivian Hart/HOU/EES@EES 
+Subject:	Re: CSC UPDATE   
+
+Vivian has regained access to the MDMA.    However, I need to control who has access so that we don't interfere with CSC's operation.  Let me know who will need access to this data.  Thanks.
+
+
+
+From:	Chris Stokley/ENRON@enronXgate on 07/19/2001 04:04 PM
+To:	Diann Huddleson/HOU/EES@EES
+cc:	 
+Subject:	CSC UPDATE
+
+Diann,
+
+	I am flying back to Portland tomorrow morning at about 9:30 arriving at 12:00 Please call me at 503-807-8959 or e-mail me w/ and update on you talks w/ CSC. Thanks for your help.
+
+
+
+									Chris Stokley
+
+
+
+
+
+
+<Embedded StdOleLink>
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <3903650.1075858518228.JavaMail.evans@thyme>
+Date: Fri, 1 Jun 2001 10:06:46 -0700 (PDT)
+From: michael.frazier@enron.com
+To: neil.bresnan@enron.com, michael.spruiell@enron.com
+Subject: Retail load in California
+Cc: jeff.richter@enron.com, chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jeff.richter@enron.com, chris.stokley@enron.com
+X-From: Frazier, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=9E92D057-10EA49C5-86256982-518FA3>
+X-To: Bresnan, Neil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC75CF5A-EBD2BACF-862566C5-6B3C9B>, Spruiell, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=F5CD6A70-7D4C4AAE-86256888-55E157>
+X-cc: Richter, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JRICHTE>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Metering and Forcasting
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+It is my understanding that agreements are imminent to begin the process of returning EES's residential customers in California to bundled service under their respective utilities.  This will reduce load in all congestion zones -- roughly by an average 10 MW in the south and 10 MW in the north.  This cumulative load reduction will be phased in over the course of a full billing month as customer meters are read in their normal cycles.  For now the timing is uncertain but I assume load reductions could begin as soon as mid-June.  These developments will be reflected in future forecast schedules.  Details will be sent you as soon as they are available.
+
+Michael
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <4230739.1075858517635.JavaMail.evans@thyme>
+Date: Mon, 18 Jun 2001 07:46:00 -0700 (PDT)
+From: maurice.winter@enron.com
+To: neil.bresnan@enron.com
+Subject: Re: Load Forecasting access to MV90 interval data
+Cc: michael.frazier@enron.com, chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: michael.frazier@enron.com, chris.stokley@enron.com
+X-From: Winter, Maurice </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=FDA61595-3F56AF8C-8625684D-570B52>
+X-To: Bresnan, Neil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC75CF5A-EBD2BACF-862566C5-6B3C9B>
+X-cc: Frazier, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=9E92D057-10EA49C5-86256982-518FA3>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Metering and Forcasting
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Neil,
+
+Pat is meeting with the CAISO auditors all afternoon, but I have asked if she can give us some time after 5pm.  If she is not available, what time tommorow morning is good for you? Chris and Micheal?
+
+Also, I have attached the CSC systems drawing that I spoke of in our last meeting.
+
+Maurice
+
+ 
+
+
+   
+	Enron Energy Services  From:  Neil Bresnan                           06/15/2001 08:04 AM	
+		
+
+
+To:	Michael Frazier/HOU/EES@EES
+cc:	Maurice Winter/HOU/EES@EES, Chris Stokley/ENRON@enronXgate 
+Subject:	Re: Load Forecasting access to MV90 interval data   
+
+Maurice,
+
+I have PRC Monday.  If we have the meeting with Pat at 4 PM I should be able to make it. 
+Please send me an e-mail to confirm the time and location. 
+
+NFB 
+
+
+
+
+Michael Frazier
+06/14/2001 07:09 PM
+To:	Maurice Winter/HOU/EES@EES
+cc:	Neil Bresnan/HOU/EES@EES, Chris Stokley/ENRON@enronXgate, Gregg Young/HOU/EES@EES, James Light/HOU/EES@EES 
+Subject:	Re: Load Forecasting access to MV90 interval data   
+
+Sounds like a feasible solution to me as long as we can get specified formats and the data uploads are well-maintained by CSC.  Are there any extra costs on their end for performing this posting function?
+mrf
+
+
+
+Maurice Winter
+06/14/2001 08:51 AM
+To:	Neil Bresnan/HOU/EES@EES, Chris Stokley/ENRON@enronXgate, Michael Frazier/HOU/EES@EES
+cc:	Gregg Young/HOU/EES@EES, James Light/HOU/EES@EES 
+Subject:	Load Forecasting access to MV90 interval data
+
+All,
+
+I spoke with Pat Priestley this morning about our request to get access to the MV90 daily interval meter data for load forecasting.  She said that she would not be available to meet formally until Monday due to the declared disaster at their operations due to the flood.  She said they are moving back to the Pennzoil building today and Friday, so things should be close to normal by Monday.
+
+Pat said that it is not be a problem to export the MV90 data (in just about any format) on a daily basis for us.  The data is housed in MV90 databases which , according to Pat, can only be read by an MV90 system; so we would need to purchase MV90 (very expensive) if we wanted to read the data directly.  
+
+I suggest we get the data exported daily from CSC to an FTP site at Enron, because they can manage the process on a daily basis.  We can sweep the FTP site daily and have it automatically imported into our databases.
+
+If we are in agreement with this solution, I  will create an emergency work request with CSC to begin working on this immediately.
+
+
+Maurice
+
+
+
+
+
+
+
+
+
+
+<Embedded StdOleLink>
+<Embedded StdOleLink>
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <21364309.1075858518070.JavaMail.evans@thyme>
+Date: Mon, 23 Jul 2001 14:46:28 -0700 (PDT)
+From: michael.frazier@enron.com
+To: vivian.hart@enron.com
+Subject: Re: CSC UPDATE
+Cc: diann.huddleson@enron.com, chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: diann.huddleson@enron.com, chris.stokley@enron.com
+X-From: Frazier, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=9E92D057-10EA49C5-86256982-518FA3>
+X-To: Hart, Vivian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC53636D-18B8B8E8-862564C2-54946C>
+X-cc: Huddleson, Diann </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=42FC33C8-1B17856E-86256583-4C4C89>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Metering and Forcasting
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+I need the logon ID and password, although my direct use of it may be only on rare occasion.  Please inform me of updates if (as) they occur.
+Thanks
+Michael
+
+
+
+
+Vivian Hart
+07/20/2001 05:23 PM
+To:	Diann Huddleson/HOU/EES@EES
+cc:	Chris Stokley/ENRON@enronXgate, Michael Frazier/HOU/EES@EES 
+Subject:	Re: CSC UPDATE
+
+We have a common logon id that everyone uses.  The people that I know of who normally access the database
+are Michael Frazier's group, John Rutledge from IT supporting Michael Frazier, SH, Maurice, and John Hamby.
+
+
+---------------------- Forwarded by Vivian Hart/HOU/EES on 07/20/2001 05:20 PM ---------------------------
+
+
+Diann Huddleson
+07/20/2001 04:59 PM
+To:	Chris Stokley/ENRON@enronXgate @ ENRON
+cc:	Michael Frazier/HOU/EES@EES, Vivian Hart/HOU/EES@EES 
+Subject:	Re: CSC UPDATE   
+
+Vivian has regained access to the MDMA.    However, I need to control who has access so that we don't interfere with CSC's operation.  Let me know who will need access to this data.  Thanks.
+
+
+
+From:	Chris Stokley/ENRON@enronXgate on 07/19/2001 04:04 PM
+To:	Diann Huddleson/HOU/EES@EES
+cc:	 
+Subject:	CSC UPDATE
+
+Diann,
+
+	I am flying back to Portland tomorrow morning at about 9:30 arriving at 12:00 Please call me at 503-807-8959 or e-mail me w/ and update on you talks w/ CSC. Thanks for your help.
+
+
+
+									Chris Stokley
+
+
+
+
+
+
+
+
+
+<Embedded StdOleLink>
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <12951260.1075858517610.JavaMail.evans@thyme>
+Date: Wed, 20 Jun 2001 11:01:18 -0700 (PDT)
+From: maurice.winter@enron.com
+To: michael.frazier@enron.com, chris.stokley@enron.com, neil.bresnan@enron.com
+Subject: Today's 3pm mtng
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Winter, Maurice </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=FDA61595-3F56AF8C-8625684D-570B52>
+X-To: Frazier, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=9E92D057-10EA49C5-86256982-518FA3>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>, Bresnan, Neil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC75CF5A-EBD2BACF-862566C5-6B3C9B>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Metering and Forcasting
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Gentlemen,
+
+I have been pulled into an emergency task force this morning by Evan Hughes to address some CA issues for which you are probably aware.  Therefore, I must reschedule our meeting for tomorrow afternoon or Friday.  I would like to try 3:00pm on Thurs.  What are your schedules looking like?
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <21921336.1075858517961.JavaMail.evans@thyme>
+Date: Fri, 25 May 2001 15:02:28 -0700 (PDT)
+From: michael.frazier@enron.com
+To: jeff.richter@enron.com, chris.stokley@enron.com
+Subject: 
+Cc: neil.bresnan@enron.com, jubran.whalan@enron.com, michael.spruiell@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: neil.bresnan@enron.com, jubran.whalan@enron.com, michael.spruiell@enron.com
+X-From: Frazier, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=9E92D057-10EA49C5-86256982-518FA3>
+X-To: Richter, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JRICHTE>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: Bresnan, Neil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC75CF5A-EBD2BACF-862566C5-6B3C9B>, Whalan, Jubran </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=1C21E1A5-A799714F-862564C8-6C925D>, Spruiell, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=F5CD6A70-7D4C4AAE-86256888-55E157>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Metering and Forcasting
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Please note that the IBM load (approximately 40 MW per hour) in the PGE3 demand zone that was expected to be returned to PG&E bundled service on June 1 is now expected to remain a scheduling and supply obligation for EES.  A complete hourly schedule for June 1, including IBM and incorporating all known changes confirmed by that time, will be sent on Tuesday May 29.
+
+In addition, a sample "flash report" based on weather-corrected load projections and the explanation of available forecast detail will be sent on Tuesday.  Please call me at 713-345-3200 or Michael Spruiell at 713-345-8644 for questions.
+
+Thanks
+Michael
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <3972313.1075858518094.JavaMail.evans@thyme>
+Date: Thu, 19 Jul 2001 07:29:43 -0700 (PDT)
+From: michael.frazier@enron.com
+To: debra.coleman@enron.com
+Subject: Re: Energy Sense Meeting
+Cc: kenny.ha@enron.com, diann.huddleson@enron.com, p..o'neil@enron.com,
+	chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: kenny.ha@enron.com, diann.huddleson@enron.com, p..o'neil@enron.com,
+	chris.stokley@enron.com
+X-From: Frazier, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=9E92D057-10EA49C5-86256982-518FA3>
+X-To: Coleman, Debra </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DCOLEMA2>
+X-cc: Ha, Kenny </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=C9DDB2C7-4C8C1C5C-86256A26-6D11B8>, Huddleson, Diann </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=42FC33C8-1B17856E-86256583-4C4C89>, O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Metering and Forcasting
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+I will manage my schedule to attend as soon as possible, although a needed 2:30 meeting may result in my being slightly late. 
+Thanks.
+MRF
+
+
+
+From:	Debra Coleman/ENRON@enronXgate on 07/19/2001 08:59 AM
+To:	Kenny Ha/HOU/EES@EES, Diann Huddleson/HOU/EES@EES, Michael Frazier/HOU/EES@EES, Murray P ONeil/ENRON@enronXgate
+cc:	Chris Stokley/ENRON@enronXgate 
+Subject:	Energy Sense Meeting
+
+Chris Stokley has requested your attendance to an Energy Sense meeting on Thursday, July 19th for 3:00 - 4:00 pm in conference room EB 644.  Please advise if this conflicts with your schedule.  Thanks.
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <3350285.1075858518196.JavaMail.evans@thyme>
+Date: Thu, 14 Jun 2001 17:09:16 -0700 (PDT)
+From: michael.frazier@enron.com
+To: maurice.winter@enron.com
+Subject: Re: Load Forecasting access to MV90 interval data
+Cc: neil.bresnan@enron.com, chris.stokley@enron.com, gregg.young@enron.com,
+	james.light@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: neil.bresnan@enron.com, chris.stokley@enron.com, gregg.young@enron.com,
+	james.light@enron.com
+X-From: Frazier, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=9E92D057-10EA49C5-86256982-518FA3>
+X-To: Winter, Maurice </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=FDA61595-3F56AF8C-8625684D-570B52>
+X-cc: Bresnan, Neil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC75CF5A-EBD2BACF-862566C5-6B3C9B>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>, Young, Gregg </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=2FF428DA-F9288930-862568DB-73282F>, Light, James </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=765C1539-2B2376BF-86256934-674BC4>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Metering and Forcasting
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Sounds like a feasible solution to me as long as we can get specified formats and the data uploads are well-maintained by CSC.  Are there any extra costs on their end for performing this posting function?
+mrf
+
+
+
+
+Maurice Winter
+06/14/2001 08:51 AM
+To:	Neil Bresnan/HOU/EES@EES, Chris Stokley/ENRON@enronXgate, Michael Frazier/HOU/EES@EES
+cc:	Gregg Young/HOU/EES@EES, James Light/HOU/EES@EES 
+Subject:	Load Forecasting access to MV90 interval data
+
+All,
+
+I spoke with Pat Priestley this morning about our request to get access to the MV90 daily interval meter data for load forecasting.  She said that she would not be available to meet formally until Monday due to the declared disaster at their operations due to the flood.  She said they are moving back to the Pennzoil building today and Friday, so things should be close to normal by Monday.
+
+Pat said that it is not be a problem to export the MV90 data (in just about any format) on a daily basis for us.  The data is housed in MV90 databases which , according to Pat, can only be read by an MV90 system; so we would need to purchase MV90 (very expensive) if we wanted to read the data directly.  
+
+I suggest we get the data exported daily from CSC to an FTP site at Enron, because they can manage the process on a daily basis.  We can sweep the FTP site daily and have it automatically imported into our databases.
+
+If we are in agreement with this solution, I  will create an emergency work request with CSC to begin working on this immediately.
+
+
+Maurice
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <4634219.1075858517682.JavaMail.evans@thyme>
+Date: Mon, 2 Jul 2001 12:23:32 -0700 (PDT)
+From: michael.spruiell@enron.com
+To: jeff.richter@enron.com, chris.stokley@enron.com
+Subject: Forecast Comparison for 6/25/01 to 7/1/01
+Cc: michael.frazier@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: michael.frazier@enron.com
+X-From: Spruiell, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=F5CD6A70-7D4C4AAE-86256888-55E157>
+X-To: Richter, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JRICHTE>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: Frazier, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=9E92D057-10EA49C5-86256982-518FA3>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Metering and Forcasting
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Here is the comparison of our EES California load forecasts using  forecasted weather data (high/low temperatures) from the days for which the day-ahead schedules were created (anywhere from 2 to 4 days in advance of the actual scheduled day), and actual weather data which was used to "back-forecast" the days for which we already scheduled.  If you have any questions, please contact me.  Thanks.
+
+Michael D. Spruiell
+Analyst
+Commodity Risk Management
+Load Forecasting Desk
+Office: 713-345-8644
+Pager: 877-408-1373
+P-mail: 8774081373@skytel.com
+ 
+
+
+<Embedded Microsoft Excel Worksheet>
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <24661714.1075858518021.JavaMail.evans@thyme>
+Date: Fri, 27 Jul 2001 11:07:19 -0700 (PDT)
+From: michael.frazier@enron.com
+To: john.rutledge@enron.com
+Subject: Re: WIP for MV-90 data
+Cc: chris.stokley@enron.com, richard.miller@enron.com, maurice.winter@enron.com,
+	kenny.ha@enron.com, steven.gullion@enron.com,
+	robert.gresch@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: chris.stokley@enron.com, richard.miller@enron.com, maurice.winter@enron.com,
+	kenny.ha@enron.com, steven.gullion@enron.com,
+	robert.gresch@enron.com
+X-From: Frazier, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=9E92D057-10EA49C5-86256982-518FA3>
+X-To: Rutledge, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=3280182C-A763D018-86256A31-5303A9>
+X-cc: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>, Miller, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=A48F5DAE-B6F4AD54-862568E8-59E936>, Winter, Maurice </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=FDA61595-3F56AF8C-8625684D-570B52>, Ha, Kenny </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=C9DDB2C7-4C8C1C5C-86256A26-6D11B8>, Gullion, Steven </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=4F6EA263-DE7D5A44-86256A18-7780D6>, Gresch, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=D33029BA-A25FCC77-862564C2-54446E>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Metering and Forcasting
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+John
+
+You wrote:
+Enron wants a daily report of all interval data received from meters that we monitor. The data will be made available to Enron in a manner to be specified.
+	If the data has been VEE'd (validated, edited, and estimated) the fields should be marked as actual or estimated - This should not be an issue on a daily basis because the data is not put through the VEE process until the end of the billing cycle when it is passed to MDMA.
+	It is understood by Enron that there may be missing data in this report (i.e. missed meters, missed time periods). They do not require that they be notified of this missing data, with the understanding that all such missing data appears is an later report.
+This report should include all data received by MV90 for each meter that day.
+
+Enron asks that an initial report be generated containing the output for part of a day and sent to the Requestor for evaluation and determination of final data field need. The requestor will respond following receipt of this file with any changes in data fields required.
+
+A second test file(s) would then be forwarded containing several days output in order to allow the Requestor to gauge daily information and volume. The requestor will respond following receipt of this second file(s) with final approval to complete the project.
+
+I have one concern with the wording above.  It seems to confuse normal estimation requirements, which is partly designed to fill in "missing observations" (like a couple of hours), with data missing due to a downed phone line or no meter answer (which would be "backfilled" in subsequent files as you note).  Also, while we may choose to duplicate CSC's process of implementing required VEE rules, we need to understand what is required to do so.  Is it to our benefit to do so?  I have sent you separately the link to a site where you can review just what CSC is supposedly doing to comply with CAISO rules.  Would an issue arise of consistency between the VEE rules applications by CSC if different than EWS?  I never realized that VEE was applied only at the end by the MV90 system.  Are you sure?
+mrf
+
+
+   
+	Enron Energy Services  From:  John Rutledge                           07/27/2001 12:01 PM	
+		
+
+
+To:	Chris Stokley/ENRON@enronXgate, Michael Frazier/HOU/EES@EES, Richard Miller/HOU/EES@EES, Maurice Winter/HOU/EES@EES, Kenny Ha/HOU/EES@EES, Steven Gullion/HOU/EES@EES, Robert D Gresch/HOU/EES@EES
+cc:	 
+Subject:	Re: WIP for MV-90 data
+
+All--
+
+Please take a brief moment to review the contents of the WIP and make sure you agree with the wording of the "Project Description" section. I will enter myself (John Rutledge) as Lead Requestor, and Kenny Ha as Alternate Requestor. If this is not acceptable to anyone please reply with subsitutes.
+
+Chris--
+
+Who do I put down for VP-level sponsor?
+
+--John
+
+ 
+
+---------------------- Forwarded by John Rutledge/HOU/EES on 07/27/2001 11:53 AM ---------------------------
+
+
+swalker2@csc.com on 07/27/2001 11:40:24 AM
+To:	"John Rutledge" <jrutledg@enron.com>
+cc:	"Chris Stokley" <Chris_Stokley.enronXgate@enron.com>, "Michael Frazier" <mfrazier@enron.com>, "Richard Miller" <rmiller8@enron.com>, "Maurice Winter" <mwinter@enron.com>, "Kenny Ha" <kha@enron.com>, "Steven Gullion" <sgullion@enron.com>, rgresch@enron.com, tcarrol6@csc.com 
+Subject:	Re: WIP for MV-90 data
+
+
+John-
+
+I have attached a copy of the Work Request for this effort. Please review
+it to be sure that it accurately reflects your need.
+
+Everywhere on the form where you find 3 questions marks (???), you need to
+supply the data. If there is no information to be filled in, feel free to
+leave the field blank. The only fields that are REQUIRED are the fields for
+Lead requestor (the person who can answer questions related to this
+request), the Alternate requestor (someone who can answer questions in the
+lead's absence) and the Business sponsor (the person who can authorize
+spending for this effort if it approved -- must be VP level or above)
+
+When you have filled in those fields, please forward this form to Jackie
+Jackson (jjackson@enron.com) for submission to CSC in Dublin. (They are
+aware of this request, but need the official request from Enron.)
+
+Please let me know if you have any questions.
+
+--Steve
+
+
+
+
+"John Rutledge" <jrutledg@enron.com> on 07/26/2001 11:26:59 AM
+
+To:   "Chris Stokley" <Chris_Stokley.enronXgate@enron.com>
+cc:   "Michael Frazier" <mfrazier@enron.com>, "Richard Miller"
+      <rmiller8@enron.com>, "Maurice Winter" <mwinter@enron.com>, "Kenny
+      Ha" <kha@enron.com>, "Steven Gullion" <sgullion@enron.com>, Stephen
+      Walker/TMG/CSC@CSC
+
+Subject:  WIP for MV-90 data
+
+
+
+
+Chris--
+
+To clarify what I meant regarding prioritization:
+
+CSC handles multiple, often independent, requests from ENA as well as EES,
+many
+of which are of the "we need this as soon as possible" variety. What they
+want
+from us (not just EES, but Enron as a whole) is a prioritization of *all*
+of
+these outstanding requests, not just what our group might have asked of
+them.
+
+Sorry about the confusion,
+
+--John
+
+
+
+---------------------- Forwarded by John Rutledge/HOU/EES on 07/26/2001
+11:16 AM
+---------------------------
+
+
+ (Embedded     Enron Energy Services
+ image moved
+ to file:      From:  John Rutledge
+ pic10437.pcx) 07/26/2001 10:42 AM
+
+
+
+
+
+
+To:   swalker2@csc.com, Chris Stokley/ENRON@enronXgate, Michael
+      Frazier/HOU/EES@EES
+cc:   Richard Miller/HOU/EES@EES, Maurice Winter/HOU/EES@EES, Kenny
+      Ha/HOU/EES@EES, Steven Gullion/HOU/EES@EES
+Subject:  WIP for MV-90 data
+
+Steve--
+
+Here's a quick synopsis of what we need:
+
+   Users want actual historical metered data. If they can't get the data
+before
+   it has been EEV'd (?) by MV-90, they need to know, for each value,
+whether it
+   is the actual metered amount or an estimated value.
+   Users understand that there may be missing data, but do not require the
+   meta-data detailing this. However, this is with the understanding that
+the
+   back-fill data will eventually arrive at some later date.
+   We want any account- and meter-descriptive data as well as the
+associated
+   volumetric data.
+   A  test file to see what kind of data are available and a few
+consecutive
+   days worth of data to get a feel for volumes are needed.
+   If data is received from 12 - 6 a.m., how soon after 6 a.m. can we get a
+   file?
+
+Please do not "burn in" this process just yet because data and timing
+requirements may change.
+
+
+Chris--
+
+With the bullets above, Steve has promised to turn around the completed WIP
+by
+COB today or tomorrow morning. Hopefully this will at least get the ball
+rolling. It is then up to the business to determine whether to proceed and
+how
+to prioritze it. There must be concerted effort from the business to
+prioritize
+requests to CSC. Steve gave me Richard Miller's name as the EES coordinator
+for
+these requests. Please contact him and let me know what you find out.
+
+Going forward we MUST establish who is responsible for filling these things
+out
+and keeping track of them. I've heard different things from different
+people,
+and I don't want to end up (nor should anyone else) being the person who
+fields
+random and anonymous lobs from the other side of the fence.
+
+Cheers,
+
+--John
+
+
+
+(See attached file: pic10437.pcx)
+
+
+ - pic10437.pcx 
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <8103615.1075858517730.JavaMail.evans@thyme>
+Date: Tue, 19 Jun 2001 06:11:47 -0700 (PDT)
+From: michael.spruiell@enron.com
+To: neil.bresnan@enron.com, jeff.richter@enron.com, chris.stokley@enron.com,
+	phillip.platter@enron.com
+Subject: CA Residential Load
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Spruiell, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=F5CD6A70-7D4C4AAE-86256888-55E157>
+X-To: Bresnan, Neil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC75CF5A-EBD2BACF-862566C5-6B3C9B>, Richter, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JRICHTE>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>, Platter, Phillip </O=ENRON/OU=NA/CN=RECIPIENTS/CN=PPLATTE>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Metering and Forcasting
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+FYI,
+
+Starting on the 20th (traded today), all of the residential load requirements for California will begin rolling off, with the last day of roll-offs on July 20.  At this point, EES will no longer have a residential load commitment.  This will amount to an average of 12 to 13 MW per hour that will be rolled off.  Please let me know if you have any questions.  Thanks.
+
+Michael D. Spruiell
+Analyst
+Commodity Risk Management
+Load Forecasting Desk
+Office: 713-345-8644
+Pager: 877-408-1373
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <11714909.1075858517797.JavaMail.evans@thyme>
+Date: Tue, 29 May 2001 16:17:34 -0700 (PDT)
+From: michael.spruiell@enron.com
+To: phillip.platter@enron.com, jeff.richter@enron.com, chris.stokley@enron.com
+Subject: JUNE 1 SCHEDULE
+Cc: dkang@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: dkang@enron.com
+X-From: Spruiell, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=F5CD6A70-7D4C4AAE-86256888-55E157>
+X-To: Platter, Phillip </O=ENRON/OU=NA/CN=RECIPIENTS/CN=PPLATTE>, Richter, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JRICHTE>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: dkang@enron.com
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Metering and Forcasting
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Phil,
+
+This document gives the estimated load for JUNE 1, 2 and 3, as well as our current positions.  We will call tomorrow to discuss the positions before we send out the actual schedule for June 1 and 2.  Thanks.
+
+ 
+
+Michael Spruiell
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <28624161.1075858517820.JavaMail.evans@thyme>
+Date: Fri, 22 Jun 2001 07:36:09 -0700 (PDT)
+From: john.rutledge@enron.com
+To: michael.frazier@enron.com, chris.stokley@enron.com, neil.bresnan@enron.com
+Subject: Cadillacs, 8 trays, and other information that will save your life
+Cc: charles.alvarez@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: charles.alvarez@enron.com
+X-From: Rutledge, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=3280182C-A763D018-86256A31-5303A9>
+X-To: Frazier, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=9E92D057-10EA49C5-86256982-518FA3>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>, Bresnan, Neil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC75CF5A-EBD2BACF-862566C5-6B3C9B>
+X-cc: Alvarez, Charles </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=408BA722-821038A5-862569EF-62C508>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Metering and Forcasting
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Confirmed with Charles Alvarez some questions that came up at yesterday's meeting:
+
+Regarding the elimination of PowerStation, this is only for the West Desk, not East Desk.
+
+The "Cadillac of Servers" is being employed for RPS, in order to boost performance. (It even comes with a longhorn hood ornament!)
+
+The "80 Gigs of space" has been reserved for Steve Gullion's use. Charles says that once we're ready to proceed with the Load Database, it will not be an issue to get server space and an Oracle database setup for us. (i.e., we will not--more than likely--need to purchase additional hardware.)
+
+Have a great weekend,
+
+--John
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <7489187.1075858517707.JavaMail.evans@thyme>
+Date: Mon, 25 Jun 2001 12:01:39 -0700 (PDT)
+From: michael.spruiell@enron.com
+To: jeff.richter@enron.com, chris.stokley@enron.com
+Subject: Forecast Comparison for 6/18/01 to 06/24/01
+Cc: michael.frazier@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: michael.frazier@enron.com
+X-From: Spruiell, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=F5CD6A70-7D4C4AAE-86256888-55E157>
+X-To: Richter, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JRICHTE>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: Frazier, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=9E92D057-10EA49C5-86256982-518FA3>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Metering and Forcasting
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Here is the comparison of our EES California load forecasts using  forecasted weather data (high/low temperatures) from the days for which the day-ahead schedules were created (anywhere from 2 to 4 days in advance of the actual scheduled day), and actual weather data which was used to "back-forecast" the days for which we already scheduled.  If you have any questions, please contact me.  Thanks.
+
+Michael D. Spruiell
+Analyst
+Commodity Risk Management
+Load Forecasting Desk
+Office: 713-345-8644
+Pager: 877-408-1373
+ 
+
+
+<Embedded Microsoft Excel Worksheet>
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <11551692.1075858518172.JavaMail.evans@thyme>
+Date: Thu, 5 Jul 2001 20:21:29 -0700 (PDT)
+From: michael.frazier@enron.com
+To: neil.bresnan@enron.com, jeff.richter@enron.com, scott.stoness@enron.com,
+	kenneth.lee@enron.com
+Subject: Initial estimate of returning California loads
+Cc: chris.stokley@enron.com, maurice.winter@enron.com,
+	michael.spruiell@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: chris.stokley@enron.com, maurice.winter@enron.com,
+	michael.spruiell@enron.com
+X-From: Frazier, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=9E92D057-10EA49C5-86256982-518FA3>
+X-To: Bresnan, Neil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC75CF5A-EBD2BACF-862566C5-6B3C9B>, Richter, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JRICHTE>, Stoness, Scott </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=C8C96EC4-22671F75-86256604-524F2F>, Lee, Kenneth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=D71E20C8-8F35684F-862567CF-6A1A06>
+X-cc: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>, Winter, Maurice </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=FDA61595-3F56AF8C-8625684D-570B52>, Spruiell, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=F5CD6A70-7D4C4AAE-86256888-55E157>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Metering and Forcasting
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Information on returned loads is still coming in, but we have made rough estimates with the data at hand.  Please note that these estimates will likely change considerably.  As soon as feasible, we will provide ranges for hourly loads (on-peak, off-peak, max, etc.)  Call me is you have any questions or comments. 
+Michael
+
+		
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <25030698.1075858517868.JavaMail.evans@thyme>
+Date: Tue, 24 Jul 2001 13:02:13 -0700 (PDT)
+From: vivian.hart@enron.com
+To: john.rutledge@enron.com
+Subject: RE: CSC UPDATE
+Cc: diann.huddleson@enron.com, p..o'neil@enron.com, kenny.ha@enron.com,
+	michael.frazier@enron.com, maurice.winter@enron.com,
+	chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: diann.huddleson@enron.com, p..o'neil@enron.com, kenny.ha@enron.com,
+	michael.frazier@enron.com, maurice.winter@enron.com,
+	chris.stokley@enron.com
+X-From: Hart, Vivian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC53636D-18B8B8E8-862564C2-54946C>
+X-To: Rutledge, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=3280182C-A763D018-86256A31-5303A9>
+X-cc: Huddleson, Diann </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=42FC33C8-1B17856E-86256583-4C4C89>, O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>, Ha, Kenny </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=C9DDB2C7-4C8C1C5C-86256A26-6D11B8>, Frazier, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=9E92D057-10EA49C5-86256982-518FA3>, Winter, Maurice </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=FDA61595-3F56AF8C-8625684D-570B52>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Metering and Forcasting
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+You're right in that the MV90 that holds the consumption data is in BTrieve not Oracle.
+You will have to have a special driver to get to it.
+
+---------------------- Forwarded by Vivian Hart/HOU/EES on 07/24/2001 02:59 PM ---------------------------
+From:	Chris Stokley/ENRON@enronXgate on 07/23/2001 05:22 PM
+To:	Diann Huddleson/HOU/EES@EES
+cc:	Michael Frazier/HOU/EES@EES, Vivian Hart/HOU/EES@EES, Murray P ONeil/ENRON@enronXgate, Kenny Ha/HOU/EES@EES 
+Subject:	RE: CSC UPDATE
+
+Diann,
+
+	Do you have an update on the status of the other two items we discussed.
+
+1)	CSC's ability to send all of our Calf. Customers files out to the FTP server as they do with the Energy Sense customers, along with the  timeline to get this implemented.
+2)	The cost and timeline to put all of our customers into the Energy Sense website.
+
+Chris
+503-807-8959
+
+ -----Original Message-----
+From: 	Huddleson, Diann  
+Sent:	Friday, July 20, 2001 2:59 PM
+To:	Stokley, Chris
+Cc:	Frazier, Michael; Hart, Vivian
+Subject:	Re: CSC UPDATE
+
+Vivian has regained access to the MDMA.    However, I need to control who has access so that we don't interfere with CSC's operation.  Let me know who will need access to this data.  Thanks.
+
+
+
+From:	Chris Stokley/ENRON@enronXgate on 07/19/2001 04:04 PM
+To:	Diann Huddleson/HOU/EES@EES
+cc:	 
+Subject:	CSC UPDATE
+
+Diann,
+
+	I am flying back to Portland tomorrow morning at about 9:30 arriving at 12:00 Please call me at 503-807-8959 or e-mail me w/ and update on you talks w/ CSC. Thanks for your help.
+
+
+
+									Chris Stokley
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <16384405.1075858517843.JavaMail.evans@thyme>
+Date: Thu, 14 Jun 2001 10:50:49 -0700 (PDT)
+From: p..o'neil@enron.com
+To: chris.stokley@enron.com
+Subject: RE: Load Forecasting access to MV90 interval data
+Cc: jeff.richter@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jeff.richter@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-cc: Richter, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jrichte>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Metering and Forcasting
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Chris,  
+
+I would have Maurice move forward with the request.  I would make sure that we know what detail data we want them to provide in the file and what format we want it in and have that in the request.
+
+We should also have a listing of all of the meters we expect this information to come in on so we can validate that we are getting everything we want.
+
+Ask if there is an automated process on the CSC side where we can send requests for data.  In other words.  Can we submit a request to a server which will kick off an MV90 job and that job will kick out the results to a FTP site.   (Same concept we have with ISO meter data - for generation).  
+
+If the automated process does not exist ask CSC what it would take to create it.
+
+Thanks for the update - MO
+
+ -----Original Message-----
+From: 	Stokley, Chris  
+Sent:	Thursday, June 14, 2001 7:15 AM
+To:	Richter, Jeff; O'Neil, Murray P.
+Subject:	FW: Load Forecasting access to MV90 interval data
+
+
+
+ -----Original Message-----
+From: 	Winter, Maurice  
+Sent:	Thursday, June 14, 2001 6:51 AM
+To:	Bresnan, Neil; Stokley, Chris; Frazier, Michael
+Cc:	Young, Gregg; Light, James
+Subject:	Load Forecasting access to MV90 interval data
+
+All,
+
+I spoke with Pat Priestley this morning about our request to get access to the MV90 daily interval meter data for load forecasting.  She said that she would not be available to meet formally until Monday due to the declared disaster at their operations due to the flood.  She said they are moving back to the Pennzoil building today and Friday, so things should be close to normal by Monday.
+
+Pat said that it is not be a problem to export the MV90 data (in just about any format) on a daily basis for us.  The data is housed in MV90 databases which , according to Pat, can only be read by an MV90 system; so we would need to purchase MV90 (very expensive) if we wanted to read the data directly.  
+
+I suggest we get the data exported daily from CSC to an FTP site at Enron, because they can manage the process on a daily basis.  We can sweep the FTP site daily and have it automatically imported into our databases.
+
+If we are in agreement with this solution, I  will create an emergency work request with CSC to begin working on this immediately.
+
+
+Maurice
+

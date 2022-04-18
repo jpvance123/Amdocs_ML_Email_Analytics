@@ -1,0 +1,769 @@
+From MAILER-DAEMON Mon Apr 18 14:23:56 2022
+Message-ID: <5567901.1075855930747.JavaMail.evans@thyme>
+Date: Fri, 6 Oct 2000 02:28:00 -0700 (PDT)
+From: stacey.white@enron.com
+To: sally.beck@enron.com
+Subject: Estimate Power Cashflows
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Stacey W White
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\White, stacey
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+---------------------- Forwarded by Stacey W White/HOU/ECT on 10/06/2000 
+09:26 AM ---------------------------
+
+
+Clara Carrington
+10/05/2000 04:31 PM
+To: Stacey W White/HOU/ECT@ECT
+cc:  
+Subject: Estimate Power Cashflows
+
+
+---------------------- Forwarded by Clara Carrington/HOU/ECT on 10/05/2000 
+04:30 PM ---------------------------
+
+
+Kathy Reeves
+10/03/2000 02:58 PM
+To: Clara Carrington/HOU/ECT@ECT
+cc:  
+Subject: Estimate Power Cashflows
+
+Note:  Our power curve is a critical component of the cashflows and this has 
+not yes been finalized.
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:56 2022
+Message-ID: <20843891.1075849860729.JavaMail.evans@thyme>
+Date: Wed, 21 Feb 2001 01:54:00 -0800 (PST)
+From: stacey.white@enron.com
+To: tim.belden@enron.com
+Subject: Re: Potential Gas System Exposure
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Stacey W White
+X-To: Tim Belden
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\White, stacey
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+I agree with your concerns.  I didn't go into all the specifics previously 
+because of the audience of the e-mail.  This is the intended procedure for 
+use of the dummy account:
+
+Both the East and the West load gas books into the Enpower system nightly 
+(this is not one person's responsibility but the entire group's 
+responsibility).
+Previously, the only message we get for this load is a success that all the 
+books went somewhere in Enpower
+With the installation of the new 'dummy' account, the message will now tell 
+us if one of the books was loaded to this 'dummy' account
+If an EOL bridge mistakenly puts gas deals in a power gas book that was not 
+correctly mapped, the position would go to the 'dummy' account
+If an EOL bridge mistakenly puts gas deals in a power gas book that WAS 
+correctly mapped, the position would show up in that trader's gas positions
+Depending on which load (East or West) has a book that was mapped to the 
+'dummy' account will determine which group investigates (with IT) what & 
+whose positions are now stored in 'dummy'
+
+As you have indicated, manual processes do inevitably create errors.  The 
+perfect procedure would be for the book to have complete and correct set up 
+prior to having deals entered into it.  It would also be ideal if deals could 
+not be entered into this book if setup was incomplete, but because this is an 
+interface mapping problem to Enpower, the TAGG (gas) system does not 
+recognize that the setup is incomplete.  I am not under the impression that 
+the 'dummy' account is a perfect fix; however, with the new 'alert' it will 
+provide us better data than we had before and it will keep the unmapped 
+positions out of the West portfolio.
+
+The only time the West would be affected by this change in the future is if a 
+new power gas book is set up for your traders.
+
+I hope I have addressed your concerns.  If I have not, please give me a call 
+or e-mail me back.
+
+Thanks,
+Stacey (3-1870)
+
+
+
+To: Stacey W White/HOU/ECT@ECT
+cc:  
+Subject: Re: Potential Gas System Exposure  
+
+does any of this impact the west anymore?  who is going to be "alerted when 
+positions are loaded to the 'dummy' account."?  what's the procedure for 
+resolving?  what happens if eol dumps trades to a dummy account?  what 
+happens if the person who is watching the dummy account is out sick or on 
+vacation or leaves enron or is asleep at the wheel?
+
+given the volatility of the commodities that we are trading and the fact that 
+manual processes inevitably create errors (as is evidenced by a $7 million 
+hit we took yesterday because one keystroke on deal entry was done 
+incorrectly last summer) i think it's important to raise these issues.  
+
+
+
+To: Tim Belden/HOU/ECT@ECT
+cc: John J Lavorato/Enron@EnronXGate, Sally Beck/HOU/ECT@ECT, Beth 
+Perlman/enron@EnronXgate, Steve Nat/Enron@EnronXGate, Sheri 
+Thomas/HOU/ECT@ECT 
+Subject: Re: Potential Gas System Exposure  
+
+The mapping problem mentioned below is a power desk problem only.  The 
+mapping problem is purely between the interface of the gas and power trading 
+systems and does not affect the book if it is strictly a gas trader's gas 
+book.  There was one instance when a gas trader's transactions were 
+incorrectly bridged to a power trader's gas book through EOL.  The root of 
+this problem was with the EOL bridge not the interface mapping.
+
+The procedure to set up a gas book for power traders includes communication 
+to IT regarding the appropriate interface mapping of the book.  If for some 
+reason the mapping does not occur, the position will be mapped to a 'dummy' 
+default desk.  We will be alerted when positions are loaded to the 'dummy' 
+account on a nightly basis in order to investigate the problem and ensure 
+that positions do no get lost in the system.  
+
+If anyone needs to further discuss the problem we have been having and why it 
+is only the power world that is affected, please give me a call.  
+
+Thanks,
+Stacey
+(3-1870)
+
+
+
+   
+	
+	
+	From:  Tim Belden                           02/14/2001 05:25 PM
+	
+
+To: John J Lavorato/Corp/Enron, Stacey W White/HOU/ECT@ECT, Sally 
+Beck/HOU/ECT@ECT, Beth Perlman/HOU/ECT, Steve Nat/Corp/Enron
+cc:  
+Subject: Potential Gas System Exposure
+
+For some period of time, various West Power desks have been the default desk 
+which received gas positions for new books that were not properly setup in 
+TAGG.  I have worked with our risk team and the techology group to get West 
+Power out of this problem.  I'm happy with the result from the West Power 
+point of view.  
+
+I am writing to alert you that one half of the problem still exists.  If 
+someone does a gas deal and hasn't set up a new book properly and doesn't 
+carefully track his/her position, the trade goes into a dummy book that 
+nobody manages.  Days, weeks, or months later you discover the trade and take 
+the hit or the gain.  I think that this risk is real because we were the ones 
+finding the misplaced gas trades before -- not the gas desk with the 
+misplaced trade.  Now nobody will find them unless the gas trader realizes 
+that some of his/her position is missing.
+
+These are the facts as I understand them.  I'm sure that Stacey White, Steve 
+Nat, and Monica Lande could fill you in with more detailed information.  Let 
+me know if I can be of further assistance.
+---------------------- Forwarded by Tim Belden/HOU/ECT on 02/14/2001 02:18 PM 
+---------------------------
+
+
+Monica Lande
+02/14/2001 02:34 PM
+To: Tim Belden/HOU/ECT@ECT
+cc: Fran Chang/PDX/ECT@ECT, Valarie Sabo/PDX/ECT@ECT, Samantha 
+Law/PDX/ECT@ECT 
+Subject: RE: Remaining problem with West tot  
+
+Tim,
+
+Steve has described the problem accurately.  Setting up a dummy book solves 
+the problem for us, but not for Enron as a whole.  If no one monitors the 
+dummy book on the daily basis (which probably won't happen if there is no 
+ownership), then you still have the possibility of positions falling into 
+that book and never showing up in the book that they were intended.  Why 
+can't a process be put in place for the initial set-up of a book in TAGG?
+
+Monica
+
+
+To: Fran Chang/PDX/ECT@ECT, Monica Lande/PDX/ECT@ECT, Valarie 
+Sabo/PDX/ECT@ECT, Samantha Law/PDX/ECT@ECT
+cc:  
+Subject: RE: Remaining problem with West tot
+
+do you guys agree?
+---------------------- Forwarded by Tim Belden/HOU/ECT on 02/14/2001 01:23 PM 
+---------------------------
+From: Steve Nat/ENRON@enronXgate on 02/14/2001 03:49 PM CST
+To: Tim Belden/HOU/ECT@ECT, Stacey W White/HOU/ECT@ECT
+cc: Beth Perlman/ENRON@enronXgate 
+Subject: RE: Remaining problem with West tot
+
+
+Tim,  The root problem was related to the default mapping logic in the 
+'interface' job that moves the ERMS gas calc results to the portcalc results 
+tables.  If mapping logic is not set up for a new book, the job was 
+defaulting the gas deals to the ST-PLT desk.  The default mapping has been 
+changed to a dummy  ZZ_erms book, which will prevent the deals from showing 
+up in the wrong book if the mapping logic is not updated.
+
+In reference to Beth's concerns... turns out this was a limitation in our 
+production code, not an IT change to production data, so we should be OK on 
+that front.  
+
+The long-term solution would be to remove the hard-coded logic, set-up table 
+structures, and maintain the mapping rules through a user screen.  Given our 
+other priorities, and the default logic change, we will not pursue this 
+option.
+
+Let me know if you have any other questions or concerns.
+
+Steve
+
+ -----Original Message-----
+From:  Belden, Tim  
+Sent: Wednesday, February 14, 2001 11:49 AM
+To: White, Stacey
+Cc: Perlman, Beth; Nat, Steve
+Subject: RE: Remaining problem with West tot
+
+thanks for the concise description of the problem.  i should have cc'd you on 
+the original message.  your description is much better than mine.  now that 
+beth has a better understanding of the issue, how long will it take to get 
+solved!?
+
+
+To: Beth Perlman/ENRON@enronXgate @ ENRON
+cc: Tim Belden/HOU/ECT@ECT, Steve Nat/ENRON@enronXgate@ENRON 
+Subject: RE: Remaining problem with West tot   << OLE Object: StdOleLink >> 
+
+The problem is not that we should enter a reversing trade in the system as 
+this would misrepresent the positions across the board.  The problem is that 
+the position belongs to another book within Enpower.  The users have no 
+access to the screens which define where our gas books are mapped in Enpower; 
+therefore, IT has to manually define the correct mapping for us.  When the 
+manual fix has not been made, we have true positions for one book mapped to 
+another book.
+
+Stacey
+
+
+From: Beth Perlman/ENRON@enronXgate on 02/14/2001 11:14 AM
+To: Tim Belden/HOU/ECT@ECT, Steve Nat/ENRON@enronXgate, Stacey W 
+White/HOU/ECT@ECT
+cc:  
+Subject: RE: Remaining problem with West tot
+
+Tim,
+
+Sorry about this.  A better question to ask is why are systems people 
+manipulating data?  Why can't the users put on a reversing trade?  I'm having 
+fits about IT resources touching production data and I can't tell you how 
+many times we screw ourselves up because IT does this. 
+
+I'll let you know the end result.  Sorry again, but these practices have to 
+stop!
+
+Beth
+
+ -----Original Message-----
+From:  Belden, Tim  
+Sent: Wednesday, February 14, 2001 7:59 AM
+To: Beth Perlman/HOU/ECT@ENRON
+Subject: Remaining problem with West tot
+
+words cannot describe how distressing this problem is.  in terms of 
+mis-reporting our risk, we are dropping mmbtu's from some other book into our 
+book as mwhs.  mmbtus go for around $10.  mwhs go for around $400.  why is 
+this problem so hard to fix?
+---------------------- Forwarded by Tim Belden/HOU/ECT on 02/14/2001 04:58 AM 
+---------------------------
+
+ << OLE Object: Picture (Device Independent Bitmap) >> 
+Fran Chang
+02/13/2001 06:27 PM
+To: Tim Belden/HOU/ECT@ECT
+cc: Monica Lande/PDX/ECT@ECT, Valarie Sabo/PDX/ECT@ECT, Samantha 
+Law/PDX/ECT@ECT 
+Subject: Remaining problem with West tot
+
+Tim:
+
+Please note that as of 2/13 there will still be 1,321 MWhs of Nymex Swap 
+position in ST-PLT book (COB) which is yet to be cleared out by IT.   I have 
+sent out an email to Norman Lee in IT and will follow up with him to make 
+sure this problem is removed asap.  (The "unknown" position of the -311,354 
+MWhs showing up on 2/12 has already been taken cared of.)  
+
+Regards,
+Fran
+x7973
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:56 2022
+Message-ID: <11793938.1075849860781.JavaMail.evans@thyme>
+Date: Wed, 13 Dec 2000 02:01:00 -0800 (PST)
+From: stacey.white@enron.com
+To: sally.beck@enron.com
+Subject: Re: Enpower
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Stacey W White
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\White, stacey
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+I have not personally talked to James about these issues in Enpower.  His 
+concerns regarding swaptions and asian options are accurate.  IT is currently 
+working on new volatility curves for swaptions to use.  IT is also working on 
+correlations in order for asian options to be valued properly.  London trades 
+many more swaptions and asian options than the US; therefore, the impact of 
+not having swaption volatility curves and correlations is greater to them.  
+The majority of options in the U.S. are European monthly and daily exercises 
+and the current volatility curves adequately take care of these deals.  The 
+idea of swaption volatility curves has floated around in the US, but other 
+more material items always got in the way and we continue to use the deal 
+specific volatilities for the swaptions we do have.  Once the technology is 
+in place to use swaption volatilities we will also adopt.   The system was 
+originally built to handle the physical power world that existed in the US 
+and as new markets and new ideas (such as the US becoming more and more of a 
+financial market) we will need to enhance Enpower to follow suit.  Swaption 
+vols and asian options are two of these enhancements. 
+
+Also, it is difficult to get option data out of Enpower.  We have in stage an 
+option sensitivity matrix that, once implemented into production. I will be 
+sure that James knows about.  It probably will not solve all his problems, 
+but it will give him a starting place.
+
+Stacey
+
+
+   
+	Enron North America Corp.
+	
+	From:  Sally Beck                           12/11/2000 11:00 AM
+	
+
+To: Stacey W White/HOU/ECT@ECT
+cc:  
+Subject: Enpower
+
+In cleaning up e:mails, I ran across this one that I had not yet read.  Has 
+James called and talke with you about Enpower?  Are his concerns in the memo 
+accurate?  Let me know.  --Sally 
+---------------------- Forwarded by Sally Beck/HOU/ECT on 12/11/2000 11:03 AM 
+---------------------------
+
+
+Fernley Dyson
+11/29/2000 02:54 AM
+To: Richard Causey/Corp/Enron@ENRON, Sally Beck/HOU/ECT@ECT
+cc:  
+Subject: Enpower
+
+Just a heads-up - a long-winded email, but please see highlighted paragraphs. 
+I find it hard to believe the scenario portrayed here, but stranger things 
+have happened - will keep you posted.
+---------------------- Forwarded by Fernley Dyson/LON/ECT on 29/11/2000 08:44 
+---------------------------
+
+
+James New
+28/11/2000 13:42
+To: Ted Murphy/HOU/ECT@ECT, David Port/Market Risk/Corp/Enron@ENRON
+cc: Mike Jordan/LON/ECT@ECT, Coralie Evans/LON/ECT@ECT, Fernley 
+Dyson/LON/ECT@ECT 
+
+Subject: Status update on the issues surrounding Continental Power 
+volatilities and correlations
+
+As you know for some time we have been trying to get the Continental Power 
+traders to increase the volatilities they use for valuing their option 
+portfolio and for use in calculating their VAR as it has been obvious that 
+the market  has become more volatile but this was not being reflected in 
+their mark.
+
+In looking at the impacts of this, various other issues came to light. 
+Firstly it raised issues over the correlation matrix used in the VAR model as 
+this was way out of date. We have worked with Jitendra and have now put in a 
+matrix that both the traders, risk and RAC are happy with. Secondly, as you 
+may be aware, in Portcalc swaptions currently use the volatility input on the 
+deal ticket and not off any volatility curve. 
+
+The current portfolio is 90% swaptions and so this represents a serious issue 
+for us in that it is not practical to manually change all the volatilities at 
+the deal ticket level every time the implied voaltilities change. We cannot 
+use the option functionality as this only values hourly or daily exercise 
+options and not fixed expiry swaptions or options. We also have not found any 
+way in Portcalc of valuing Asian options so we are having to 'force' in the 
+few we have. We have had the Houston based Portcalc IT team work on a 'new' 
+piece of swaption valuation code but currently it contains a number of 
+worrying bugs. These are primarily that the proposed code does not take the 
+correct underlying forward price and uses the volatility of (approximating) 
+the last day of the underlying rather than the implied volatility of the  
+underlying. 
+
+They are currently being hampered in that they do not have any IT personnel 
+who have sufficient option knowledge (I understand that the two most 
+experienced coders resigned to go to another Houston based energy company). 
+This is extremely worrying and I find it hard to believe that the whole of 
+Enron's power business is having to use the methodology of inputting the 
+volatility at the deal ticket level. This will almost certainly mean that 
+different volatilities are being used in the VAR as are being used to value 
+the swaption portfolio globally. As well as these issues we have concerns 
+over the use and accuracy of the smile adjustment in Portcalc (worryingly it 
+does not seem that you can 'switch' this off). Briefly it seems that Portcalc 
+calculates the delta used to adjust the volatility by comparing the strike 
+price to the forward price of the last day of the underlying rather than the 
+forward price of the underlying itself. 
+
+We have engaged London based  IT and are looking at the code we have used in 
+Power 99 to se if there is a way we can get something done quickly to start 
+to value all option products off a curve and to be able to book Asian options.
+
+Once we get the above resolved we still have no way or extracting the vega or 
+gamma risk from Portcalc in it's current state as the information is just no 
+there (so we are told by IT). The system 'seems' (we cannot be 100% sure 
+given all the other errors) to produce a vega and gamma P&L number but what 
+the risk is remains a mystery. Again this is very worrying in that we have 
+Power option traders all over the world who can't get their underlying vega 
+or gamma risk position from the global valuation system. We are trying to 
+work on something manual to draw a line in the sand but I would really like 
+to know how the American based traders cope as they have this problem 
+(knowingly or not)  for years. What sign offs were gained for the 
+implementation of Enpower because it seems to us that using the current 
+system it is not possible to comply with the Global Risk policy. How do we 
+validate the inputs to the valuation if we do not know the risk ?
+
+Despite the above we have now persuaded the traders to save out newer higher 
+volatilities a week ago and you should have seen a large move up in their 
+VAR. However, as it stands at the moment they are notable to save out a daily 
+remark as Jitendra is saying that he is not happy with their 'model' / vol 
+curve generator (I have today asked for a full explanation, details of any 
+testing etc etc and time lines so we can move to getting over this hurdle). 
+The swaptions have also not yet had the ticket volatility changed but the 
+impacts are expected to be positive as we are long volatility.
+
+I would appreciate your comments on the above as it seems that we are pushing 
+the boundaries here on areas which we really expect to have already been 
+covered in Houston some time ago and could do with some help. We are having 
+to use a system which seems to us to have numerous bugs and short comings and 
+are having to spend an enormous amount of IT time overcoming the inadequacies 
+of Enpower wich I do not think most people are aware of. Consequently we have 
+not been able to deliver all the improvements we were required to do in 
+gaining the increased limits so 3 months ago but I would hope you agree that 
+it is not for a lack of trying.
+
+Sorry it's so long but if there are any questions or any perceived 
+inaccuracies in any of the above then please let me know.
+
+James
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:56 2022
+Message-ID: <15020038.1075849860755.JavaMail.evans@thyme>
+Date: Wed, 21 Feb 2001 00:06:00 -0800 (PST)
+From: stacey.white@enron.com
+To: tim.belden@enron.com
+Subject: Re: Potential Gas System Exposure
+Cc: john.lavorato@enron.com, sally.beck@enron.com, beth.perlman@enron.com,
+	steve.nat@enron.com, sheri.thomas@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: john.lavorato@enron.com, sally.beck@enron.com, beth.perlman@enron.com,
+	steve.nat@enron.com, sheri.thomas@enron.com
+X-From: Stacey W White
+X-To: Tim Belden
+X-cc: John J Lavorato, Sally Beck, Beth Perlman, Steve Nat, Sheri Thomas
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\White, stacey
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+The mapping problem mentioned below is a power desk problem only.  The 
+mapping problem is purely between the interface of the gas and power trading 
+systems and does not affect the book if it is strictly a gas trader's gas 
+book.  There was one instance when a gas trader's transactions were 
+incorrectly bridged to a power trader's gas book through EOL.  The root of 
+this problem was with the EOL bridge not the interface mapping.
+
+The procedure to set up a gas book for power traders includes communication 
+to IT regarding the appropriate interface mapping of the book.  If for some 
+reason the mapping does not occur, the position will be mapped to a 'dummy' 
+default desk.  We will be alerted when positions are loaded to the 'dummy' 
+account on a nightly basis in order to investigate the problem and ensure 
+that positions do no get lost in the system.  
+
+If anyone needs to further discuss the problem we have been having and why it 
+is only the power world that is affected, please give me a call.  
+
+Thanks,
+Stacey
+(3-1870)
+
+
+
+   
+	
+	
+	From:  Tim Belden                           02/14/2001 05:25 PM
+	
+
+To: John J Lavorato/Corp/Enron, Stacey W White/HOU/ECT@ECT, Sally 
+Beck/HOU/ECT@ECT, Beth Perlman/HOU/ECT, Steve Nat/Corp/Enron
+cc:  
+Subject: Potential Gas System Exposure
+
+For some period of time, various West Power desks have been the default desk 
+which received gas positions for new books that were not properly setup in 
+TAGG.  I have worked with our risk team and the techology group to get West 
+Power out of this problem.  I'm happy with the result from the West Power 
+point of view.  
+
+I am writing to alert you that one half of the problem still exists.  If 
+someone does a gas deal and hasn't set up a new book properly and doesn't 
+carefully track his/her position, the trade goes into a dummy book that 
+nobody manages.  Days, weeks, or months later you discover the trade and take 
+the hit or the gain.  I think that this risk is real because we were the ones 
+finding the misplaced gas trades before -- not the gas desk with the 
+misplaced trade.  Now nobody will find them unless the gas trader realizes 
+that some of his/her position is missing.
+
+These are the facts as I understand them.  I'm sure that Stacey White, Steve 
+Nat, and Monica Lande could fill you in with more detailed information.  Let 
+me know if I can be of further assistance.
+---------------------- Forwarded by Tim Belden/HOU/ECT on 02/14/2001 02:18 PM 
+---------------------------
+
+
+Monica Lande
+02/14/2001 02:34 PM
+To: Tim Belden/HOU/ECT@ECT
+cc: Fran Chang/PDX/ECT@ECT, Valarie Sabo/PDX/ECT@ECT, Samantha 
+Law/PDX/ECT@ECT 
+Subject: RE: Remaining problem with West tot  
+
+Tim,
+
+Steve has described the problem accurately.  Setting up a dummy book solves 
+the problem for us, but not for Enron as a whole.  If no one monitors the 
+dummy book on the daily basis (which probably won't happen if there is no 
+ownership), then you still have the possibility of positions falling into 
+that book and never showing up in the book that they were intended.  Why 
+can't a process be put in place for the initial set-up of a book in TAGG?
+
+Monica
+
+
+To: Fran Chang/PDX/ECT@ECT, Monica Lande/PDX/ECT@ECT, Valarie 
+Sabo/PDX/ECT@ECT, Samantha Law/PDX/ECT@ECT
+cc:  
+Subject: RE: Remaining problem with West tot
+
+do you guys agree?
+---------------------- Forwarded by Tim Belden/HOU/ECT on 02/14/2001 01:23 PM 
+---------------------------
+From: Steve Nat/ENRON@enronXgate on 02/14/2001 03:49 PM CST
+To: Tim Belden/HOU/ECT@ECT, Stacey W White/HOU/ECT@ECT
+cc: Beth Perlman/ENRON@enronXgate 
+Subject: RE: Remaining problem with West tot
+
+
+Tim,  The root problem was related to the default mapping logic in the 
+'interface' job that moves the ERMS gas calc results to the portcalc results 
+tables.  If mapping logic is not set up for a new book, the job was 
+defaulting the gas deals to the ST-PLT desk.  The default mapping has been 
+changed to a dummy  ZZ_erms book, which will prevent the deals from showing 
+up in the wrong book if the mapping logic is not updated.
+
+In reference to Beth's concerns... turns out this was a limitation in our 
+production code, not an IT change to production data, so we should be OK on 
+that front.  
+
+The long-term solution would be to remove the hard-coded logic, set-up table 
+structures, and maintain the mapping rules through a user screen.  Given our 
+other priorities, and the default logic change, we will not pursue this 
+option.
+
+Let me know if you have any other questions or concerns.
+
+Steve
+
+ -----Original Message-----
+From:  Belden, Tim  
+Sent: Wednesday, February 14, 2001 11:49 AM
+To: White, Stacey
+Cc: Perlman, Beth; Nat, Steve
+Subject: RE: Remaining problem with West tot
+
+thanks for the concise description of the problem.  i should have cc'd you on 
+the original message.  your description is much better than mine.  now that 
+beth has a better understanding of the issue, how long will it take to get 
+solved!?
+
+
+To: Beth Perlman/ENRON@enronXgate @ ENRON
+cc: Tim Belden/HOU/ECT@ECT, Steve Nat/ENRON@enronXgate@ENRON 
+Subject: RE: Remaining problem with West tot   << OLE Object: StdOleLink >> 
+
+The problem is not that we should enter a reversing trade in the system as 
+this would misrepresent the positions across the board.  The problem is that 
+the position belongs to another book within Enpower.  The users have no 
+access to the screens which define where our gas books are mapped in Enpower; 
+therefore, IT has to manually define the correct mapping for us.  When the 
+manual fix has not been made, we have true positions for one book mapped to 
+another book.
+
+Stacey
+
+
+From: Beth Perlman/ENRON@enronXgate on 02/14/2001 11:14 AM
+To: Tim Belden/HOU/ECT@ECT, Steve Nat/ENRON@enronXgate, Stacey W 
+White/HOU/ECT@ECT
+cc:  
+Subject: RE: Remaining problem with West tot
+
+Tim,
+
+Sorry about this.  A better question to ask is why are systems people 
+manipulating data?  Why can't the users put on a reversing trade?  I'm having 
+fits about IT resources touching production data and I can't tell you how 
+many times we screw ourselves up because IT does this. 
+
+I'll let you know the end result.  Sorry again, but these practices have to 
+stop!
+
+Beth
+
+ -----Original Message-----
+From:  Belden, Tim  
+Sent: Wednesday, February 14, 2001 7:59 AM
+To: Beth Perlman/HOU/ECT@ENRON
+Subject: Remaining problem with West tot
+
+words cannot describe how distressing this problem is.  in terms of 
+mis-reporting our risk, we are dropping mmbtu's from some other book into our 
+book as mwhs.  mmbtus go for around $10.  mwhs go for around $400.  why is 
+this problem so hard to fix?
+---------------------- Forwarded by Tim Belden/HOU/ECT on 02/14/2001 04:58 AM 
+---------------------------
+
+ << OLE Object: Picture (Device Independent Bitmap) >> 
+Fran Chang
+02/13/2001 06:27 PM
+To: Tim Belden/HOU/ECT@ECT
+cc: Monica Lande/PDX/ECT@ECT, Valarie Sabo/PDX/ECT@ECT, Samantha 
+Law/PDX/ECT@ECT 
+Subject: Remaining problem with West tot
+
+Tim:
+
+Please note that as of 2/13 there will still be 1,321 MWhs of Nymex Swap 
+position in ST-PLT book (COB) which is yet to be cleared out by IT.   I have 
+sent out an email to Norman Lee in IT and will follow up with him to make 
+sure this problem is removed asap.  (The "unknown" position of the -311,354 
+MWhs showing up on 2/12 has already been taken cared of.)  
+
+Regards,
+Fran
+x7973
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:56 2022
+Message-ID: <29969390.1075855930786.JavaMail.evans@thyme>
+Date: Thu, 7 Sep 2000 05:58:00 -0700 (PDT)
+From: stacey.white@enron.com
+To: sally.beck@enron.com
+Subject: ENPOWER CASH FLOWS FOR 9/1/00
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Stacey W White
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\White, stacey
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+---------------------- Forwarded by Stacey W White/HOU/ECT on 09/07/2000 
+12:44 PM ---------------------------
+
+
+Clara Carrington
+09/05/2000 07:01 PM
+To: Valarie Sabo/PDX/ECT@ECT
+cc: Stacey W White/HOU/ECT@ECT, Joyce Kuo/NA/Enron@Enron, Sheila 
+Glover/HOU/ECT@ECT, Brent A Price/HOU/ECT@ECT, Sally Beck/HOU/ECT@ECT, Monica 
+Lande/PDX/ECT@ECT, Donald Wayne Vinson/HOU/ECT@ECT 
+Subject: ENPOWER CASH FLOWS FOR 9/1/00
+
+Valarie,
+
+Thanks again for the emails you sent to us on 9/1/00 and 9/4/00 regarding the 
+killed deals for the City of Vernon.  The reports you provided were exactly 
+what we needed in order to explain the large cash flow change received from 
+the West book.    Please continue to send these types of reports in the 
+future.
+
+
+
+Clara
+

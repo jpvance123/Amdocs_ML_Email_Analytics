@@ -1,0 +1,220 @@
+From MAILER-DAEMON Mon Apr 18 14:18:42 2022
+Message-ID: <12252362.1075843998016.JavaMail.evans@thyme>
+Date: Thu, 14 Sep 2000 08:17:00 -0700 (PDT)
+From: ted.murphy@enron.com
+To: jeffrey.shankman@enron.com, mark.frevert@enron.com, mike.mcconnell@enron.com,
+	rick.buy@enron.com, john.nowlan@enron.com
+Subject: VAR for Global Liquid Fuels
+Cc: bjorn.hagelmann@enron.com, brent.price@enron.com, scott.earnest@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: bjorn.hagelmann@enron.com, brent.price@enron.com, scott.earnest@enron.com
+X-From: Ted Murphy
+X-To: Jeffrey A Shankman, Mark Frevert, Mike McConnell, Rick Buy, John L Nowlan
+X-cc: Bjorn Hagelmann, Brent A Price, Scott Earnest
+X-bcc: 
+X-Folder: \Mark_McConnell_June2001\Notes Folders\Var
+X-Origin: MCCONNELL-M
+X-FileName: mmcconn.nsf
+
+The Global Liquid Fuels group has been over its VAR limit for the past 7 
+days.   There have been some questions regarding the accuracy of the 
+numbers.  The RAC-Market Risk Group believes that the calculations are 
+generally correct according to accepted methodology.  While it is not 
+perfect, the primary issues are not with the calculations but with the data 
+inputs and the expectations of John Nowlan of interday position changes 
+(where actual trades done have been different than his expectations).  There 
+has been a proposal to change the calculation of forward-forward volatilities 
+offered by the option trader.  After a review of that request, we believe 
+that it would be better to adopt the change proposed and implemented on the 
+North American Gas desk.   If  the traders agree and formulate a request, we 
+will recommend to Rick that he approve it and instruct the operations team to 
+implement as policy.
+Please let me know it you have any questions.
+Ted
+
+From MAILER-DAEMON Mon Apr 18 14:18:42 2022
+Message-ID: <7053639.1075843997946.JavaMail.evans@thyme>
+Date: Thu, 7 Dec 2000 01:49:00 -0800 (PST)
+From: jeffrey.shankman@enron.com
+To: mike.mcconnell@enron.com
+Subject: Liquids VaR violation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeffrey A Shankman
+X-To: Mike McConnell
+X-cc: 
+X-bcc: 
+X-Folder: \Mark_McConnell_June2001\Notes Folders\Var
+X-Origin: MCCONNELL-M
+X-FileName: mmcconn.nsf
+
+fyi
+---------------------- Forwarded by Jeffrey A Shankman/HOU/ECT on 12/07/2000 
+09:51 AM ---------------------------
+   
+	
+	
+	From:  Christian LeBroc @ ENRON                           12/07/2000 09:40 AM
+	
+
+To: Chris Abel/HOU/ECT@ECT, Susan D Trevino/HOU/ECT@ECT, Michael 
+Benien/Corp/Enron@ENRON
+cc: Jeffrey A Shankman/HOU/ECT@ECT, John L Nowlan/HOU/ECT@ECT, Ted 
+Murphy/HOU/ECT@ECT, Bjorn Hagelmann/HOU/ECT@ECT, Homan Amiry/LON/ECT@ECT, 
+Cassandra Schultz/NA/Enron@Enron 
+Subject: Liquids VaR violation
+
+Liquids VaR for effective date Dec. 06 is $8.5MM, a seven percent violation 
+of its limit.  The cause of the violation was due to the following factors.
+Company wide crude position got shorter 6.3MM barrels
+Short NG from Jan-Feb-01 of 1.2 BCF.  (EOL trade placed in error, position 
+Nowlan intended for was 10 contracts/month instead of 10 contract/day.)
+
+With component VaR attached below, it is clear that crude product resulted 
+the most VaR increase.  Keeping everything constant, if Nowlan gets out of 
+his NG position, VaR would be $7.8MM.  
+
+
+
+Please contact me for questions
+
+Christian x58062 
+
+From MAILER-DAEMON Mon Apr 18 14:18:42 2022
+Message-ID: <14231465.1075843997991.JavaMail.evans@thyme>
+Date: Thu, 21 Sep 2000 03:21:00 -0700 (PDT)
+From: jeffrey.shankman@enron.com
+To: mike.mcconnell@enron.com, mark.frevert@enron.com
+Subject: 
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeffrey A Shankman
+X-To: Mike McConnell, Mark Frevert
+X-cc: 
+X-bcc: 
+X-Folder: \Mark_McConnell_June2001\Notes Folders\Var
+X-Origin: MCCONNELL-M
+X-FileName: mmcconn.nsf
+
+FYI, the email i sent to Nowlan.  
+---------------------- Forwarded by Jeffrey A Shankman/HOU/ECT on 09/21/2000 
+10:01 AM ---------------------------
+   
+	
+	
+	From:  Jeffrey A Shankman                           09/21/2000 09:35 AM
+	
+
+To: John L Nowlan/HOU/ECT@ECT
+cc:  
+Subject: 
+
+John, 
+
+you and I have spoken of this issue before, and I hope you understand how 
+important this is now.  I understand 
+about the endemic risk from J Block, etc.  but I need details on how much 
+those portfolios add to our var.  
+Last night you guys blew var by 3.1 million by adding 4.7 million var.  As a 
+result, I am not prepared to go to the board and ask for more.
+The best way to approach this problem is by managing the var and making sure 
+we have no violations, coming up with detailed reports
+indicating exposure by product and trader, etc.  While we have been working 
+on this with Brent Price, we are not there yet. 
+
+A violation like this one today after our string of many is particularly 
+troubling, esp since we are not keeping the money made over the last two 
+weeks.  The MTD P&L, being reported as a little over one million this month 
+doesn't help us really.  
+
+I am now going to give out specific position limits to certain traders who 
+have had big var swings without the resultant P&L.  
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:18:42 2022
+Message-ID: <2704047.1075843997969.JavaMail.evans@thyme>
+Date: Thu, 21 Sep 2000 10:25:00 -0700 (PDT)
+From: john.nowlan@enron.com
+To: jeffrey.shankman@enron.com, mike.mcconnell@enron.com
+Subject: Re:
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: John L Nowlan
+X-To: Jeffrey A Shankman, Mike McConnell
+X-cc: 
+X-bcc: 
+X-Folder: \Mark_McConnell_June2001\Notes Folders\Var
+X-Origin: MCCONNELL-M
+X-FileName: mmcconn.nsf
+
+Jeff, as we talked earlier we need to get what you want ASAP because in these 
+energy markets , which I think we both agree are not going to settle down any 
+time soon, coupled with the growth you and Mike want to see we are operating 
+under ridiculously small limits. 8 million VAR for a group our size , with 
+our turnover and number of traders just doesn't work. We have 15 to 20 
+million of structured deals, primarlily coming from Don S that at this time 
+we would have to walk away from. We can not go out and recruit more and 
+better traders to have them sit at their desk and not trade do to limits 
+which in no way are reflective of the size and risk Enron should be willing 
+to take if they truly have bought into this being a significant global 
+business. I  suggest they should have raised them already as a reflection of 
+where they want to take the business and thought this through prior to the 
+move  to Global Markets. You wouldn't be handed a Model T and asked to go out 
+and win the Indy 500. We need the tools to make the money and VAR is just as 
+important a componenet as leadership,  people, vol limits, systems 
+,reporting, etc. 
+ We have shut down positions  today, which will cost us significantly, due to 
+the VAR issue.  All we seem to be doing now is trading and worrying about VAR 
+and NOT doing what we think is right with our positions. This definitely, 
+like today, has had a negative impact on P/L.We will get a chance to visit 
+this issue  with Chris and John on your visit here next week. 
+
+From MAILER-DAEMON Mon Apr 18 14:18:42 2022
+Message-ID: <1908762.1075843998038.JavaMail.evans@thyme>
+Date: Tue, 5 Sep 2000 01:46:00 -0700 (PDT)
+From: jeffrey.shankman@enron.com
+To: john.nowlan@enron.com
+Subject: Liquids VaR Violation Aug. 31
+Cc: mike.mcconnell@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: mike.mcconnell@enron.com
+X-From: Jeffrey A Shankman
+X-To: John L Nowlan
+X-cc: Mike McConnell
+X-bcc: 
+X-Folder: \Mark_McConnell_June2001\Notes Folders\Var
+X-Origin: MCCONNELL-M
+X-FileName: mmcconn.nsf
+
+I'm tired of signing Var Violation memos.  Keep your var under limits for a 
+while and we will talk about more var.  Also we need to fininsh up reports.  
+You need to be running the business at 7.5 million or so to give yourself 
+some room.
+---------------------- Forwarded by Jeffrey A Shankman/HOU/ECT on 09/05/2000 
+08:38 AM ---------------------------
+   
+	
+	
+	From:  Christian LeBroc @ ENRON                           09/01/2000 03:44 PM
+	
+
+To: Jeffrey A Shankman/HOU/ECT@ECT, John L Nowlan/HOU/ECT@ECT, Chris 
+Abel/HOU/ECT@ECT, Michael E Moscoso/HOU/ECT@ECT, Homan Amiry/LON/ECT@ECT
+cc:  
+Subject: Liquids VaR Violation Aug. 31
+
+Global Liquids VaR for Aug.31st is $8.15MM, exceeded its limit by $150K due 
+to the following:
+Increased unleaded crack spread by 639K barrels (Jim Goughary)
+A spread on financial and physical gasoil 2% increased by 1MM barrels (Niamh 
+Clarke)
+Financial crude portfolio up 500K barrels (John Wilson)
+

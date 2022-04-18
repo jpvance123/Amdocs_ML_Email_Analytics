@@ -1,0 +1,85 @@
+From MAILER-DAEMON Mon Apr 18 14:21:39 2022
+Message-ID: <1019115.1075853779673.JavaMail.evans@thyme>
+Date: Wed, 8 Nov 2000 05:17:00 -0800 (PST)
+From: carlos.alatorre@enron.com
+To: gerald.nemec@enron.com, colleen.sullivan@enron.com, chris.germany@enron.com,
+	dick.jenkins@enron.com
+Subject: Re: Revised GTC
+Cc: carl.carter@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: carl.carter@enron.com
+X-From: Carlos Alatorre
+X-To: Gerald Nemec, Colleen Sullivan, Chris Germany, Dick Jenkins
+X-cc: Carl Carter
+X-bcc: 
+X-Folder: \Chris_Germany_Dec2000\Notes Folders\Eol
+X-Origin: Germany-C
+X-FileName: cgerman.nsf
+
+I assume that since we mention on the GTC "If a Transaction includes a 
+Receipt Location or a Delivery Location which is specified as a zone...." 
+We will need to include it on the Long Description- i.e. on CGAS Leach-M28 we 
+should have
+The transaction is for non-recallable transportation capacity on Columbia Gas 
+Transmission Corporation Pipeline (the Reference Pipeline) under the FTS Rate 
+Schedule (the Rate Schedule) from Leach Point (the Receipt Location) to Zone 
+M28 (the Delivery Location).
+Please let me know if this is correct, or if we need to specify which zone, 
+pls let me know.
+Thanks
+Carlos
+
+
+
+
+Gerald Nemec@ECT
+11/08/2000 11:50 AM
+To: Colleen Sullivan/HOU/ECT@ECT, Chris Germany/HOU/ECT@ECT, Carlos 
+Alatorre/NA/Enron@Enron
+cc:  
+
+Subject: Revised GTC
+
+Attached is a redline with the changes per my discussion with Colleen.  
+Please review.
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:39 2022
+Message-ID: <15513371.1075853779695.JavaMail.evans@thyme>
+Date: Tue, 7 Nov 2000 02:33:00 -0800 (PST)
+From: colleen.sullivan@enron.com
+To: chris.germany@enron.com, judy.townsend@enron.com, scott.goodell@enron.com,
+	scott.neal@enron.com, dick.jenkins@enron.com,
+	hunter.shively@enron.com
+Subject: Revised GTC and Product Descrp.
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Colleen Sullivan
+X-To: Chris Germany, Judy Townsend, Scott Goodell, Scott Neal, Dick Jenkins, Hunter S Shively
+X-cc: 
+X-bcc: 
+X-Folder: \Chris_Germany_Dec2000\Notes Folders\Eol
+X-Origin: Germany-C
+X-FileName: cgerman.nsf
+
+Please see the latest versions of the EOL documents covering transportation.  
+We have made several changes since I gave you all copies this morning.  
+Please forward any comments to me and Gerald Nemec by the END OF THE DAY 
+TODAY so we can keep on schedule for testing.   Thanks for your cooperation.
+---------------------- Forwarded by Colleen Sullivan/HOU/ECT on 11/07/2000 
+10:31 AM ---------------------------
+To: Carlos Alatorre/NA/Enron@Enron, Carl Carter/NA/Enron@Enron, Colleen 
+Sullivan/HOU/ECT@ECT, Julie A Gomez/HOU/ECT@ECT
+cc: Steve Van Hooser/HOU/ECT@ECT, Mark Taylor/HOU/ECT@ECT 
+Subject: Revised GTC and Product Descrp.
+
+Attached are redlines of the latest revisions.  Please let me know if you 
+have any questions.
+
+
+

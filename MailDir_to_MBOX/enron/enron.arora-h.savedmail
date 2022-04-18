@@ -1,0 +1,4524 @@
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <31439103.1075848347045.JavaMail.evans@thyme>
+Date: Fri, 1 Dec 2000 09:34:00 -0800 (PST)
+From: suresh.raghavan@enron.com
+To: harry.arora@enron.com, jeff.bartlett@enron.com, donald.w.herrick@enron.com,
+	kristi.demaiolo@enron.com, tobias.munk@enron.com,
+	ross.mesquita@enron.com, miguel.vasquez@enron.com,
+	vanessa.carranza@enron.com, barbara.lewis@enron.com,
+	andrea.crump@enron.com, dale.neuner@enron.com
+Subject: STUFF IN STAGING
+Cc: john.spitz@enron.com, sireesha.chillakuru@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: john.spitz@enron.com, sireesha.chillakuru@enron.com
+X-From: Suresh Raghavan
+X-To: Harry Arora, Jeff Bartlett, donald.w.herrick@enron.com, Kristi Demaiolo, Tobias Munk, Ross Mesquita, Miguel Vasquez, Vanessa Carranza, Barbara Lewis, Andrea Crump, Dale Neuner
+X-cc: John Spitz, Sireesha Chillakuru
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+Folks:
+
+John and Sireesha have just pushed to staging a bunch of enhancements / bug 
+fixes / new features.  Included in them are:
+
+ 1.  Configurable Questionnaire
+ 2.  Invitee Lists Part I (this does NOT include the upload of the contact 
+lists)
+ 3.  User Statistics
+ 4.  Fix for the Issuing Entity
+ 5.  Auction security fix
+ 6.  Auction enhancements Part I 
+ 7.  Rewrite of the view deal page impacting permission levels in EVERY domain
+ 8.  The Adapter for the User Registration piece (this should be seamless to 
+the user, but be happy that     this change ELIMINATES message brokers from 
+this process)
+ 9.  Various bug fixes including those relating to view closing etc.
+
+The remaining auction enhancements are planned to be pushed sometime early 
+next week.
+
+I would recommend everybody spend some time testing next week and reflect 
+their comments / suggestions to John and I.  
+
+The location of the test site is:  http://testfinweb1.ecomtest.enron.com.  
+You also need to establish new IDs and passwords (since your production IDs 
+and Passwords will not work!).  The admin ID and password (if you need to 
+approve users and deals to test them are - ID: jspitz; Pwd: pass).
+
+We do PLAN on pushing all this stuff to PRODUCTION (barring any major bugs or 
+mishaps) next FRIDAY - Dec 8th, 2000.
+
+Look forward to your comments.  Thanks.  SR:-)
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <20503819.1075848347227.JavaMail.evans@thyme>
+Date: Tue, 28 Nov 2000 06:56:00 -0800 (PST)
+From: suresh.raghavan@enron.com
+To: brad.richter@enron.com
+Subject: Ross Mesquita's PRC
+Cc: harry.arora@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: harry.arora@enron.com
+X-From: Suresh Raghavan
+X-To: Brad Richter
+X-cc: Harry Arora
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+Attached is a one page summary on Ross.  Look forward to speaking with you 
+this afternoon at 4:15pm.  Thanks.  SR:-)
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <21867467.1075848347112.JavaMail.evans@thyme>
+Date: Wed, 29 Nov 2000 11:31:00 -0800 (PST)
+From: suresh.raghavan@enron.com
+To: harry.arora@enron.com
+Subject: Jens Gobel
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Suresh Raghavan
+X-To: Harry Arora
+X-cc: 
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+Harry:
+
+Let me know what you think.  Thanks.  SR:-)
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <29803716.1075859177703.JavaMail.evans@thyme>
+Date: Tue, 20 Feb 2001 09:44:00 -0800 (PST)
+From: kenneth.d'silva@enron.com
+To: infinity.developers@enron.com, infinity.users@enron.com
+Subject: Contact in London - Revised Number
+Cc: clara.carrington@enron.com, sheila.glover@enron.com, kevin.lee@enron.com,
+	iain.greig@enron.com, jonathan.le@enron.com,
+	isaac.rodriguez@enron.com, vridhay.mathias@enron.com,
+	twana.lee@enron.com, keith.derington@enron.com,
+	chris.constantine@enron.com, joseph.koothrappaly@enron.com,
+	brad.merrell@enron.com, ganapathy.ramesh@enron.com,
+	jeremy.wong@enron.com, amanda.curless@enron.com, gary.buck@enron.com,
+	jennifer.richard@enron.com, nick.paraschos@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: clara.carrington@enron.com, sheila.glover@enron.com, kevin.lee@enron.com,
+	iain.greig@enron.com, jonathan.le@enron.com,
+	isaac.rodriguez@enron.com, vridhay.mathias@enron.com,
+	twana.lee@enron.com, keith.derington@enron.com,
+	chris.constantine@enron.com, joseph.koothrappaly@enron.com,
+	brad.merrell@enron.com, ganapathy.ramesh@enron.com,
+	jeremy.wong@enron.com, amanda.curless@enron.com, gary.buck@enron.com,
+	jennifer.richard@enron.com, nick.paraschos@enron.com
+X-From: Kenneth D'Silva <Kenneth D'Silva/HOU/ECT@ECT>
+X-To: Infinity - Developers <Infinity - Developers@ECT>, Infinity - Users <Infinity - Users@ECT>
+X-cc: Clara Carrington <Clara Carrington/HOU/ECT@ECT>, Sheila Glover <Sheila Glover/HOU/ECT@ECT>, Kevin Lee <Kevin Lee/Corp/Enron@Enron>, Iain Greig <Iain Greig/Corp/Enron@ECT>, Jonathan Le <Jonathan Le/HOU/ECT@ECT>, Isaac Rodriguez <Isaac Rodriguez/NA/Enron@Enron>, Vridhay Mathias <Vridhay Mathias/NA/Enron@ENRON>, Twana Lee <Twana Lee/Corp/Enron@Enron>, Keith Derington <Keith Derington/Corp/Enron@Enron>, Chris Constantine <Chris Constantine/HOU/ECT@ECT>, Joseph Koothrappaly <Joseph Koothrappaly/HOU/ECT@ECT>, Brad Merrell <Brad Merrell/HOU/ECT@ECT>, Ganapathy Ramesh <Ganapathy Ramesh/HOU/ECT@ECT>, Jeremy Wong <Jeremy Wong/HOU/ECT@ECT>, Amanda Curless <Amanda Curless/Corp/Enron@ENRON>, Gary Buck <Gary Buck/HOU/ECT@ECT>, Jennifer Richard <Jennifer Richard/HOU/ECT@ECT>, Nick Paraschos <Nick Paraschos/Corp/Enron@ENRON>
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+All,
+
+I have moved to London temporarily on an assignment . My contact number is London is 011442077834188.
+
+Regards,
+Ken
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <14530248.1075848346777.JavaMail.evans@thyme>
+Date: Mon, 1 Jan 2001 13:09:00 -0800 (PST)
+From: advapl@vsnl.com
+To: harora@ect.enron.com
+Subject: New Year Greetings !
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: "MURARKA" <advapl@vsnl.com>
+X-To: "harpreet" <harora@ect.enron.com>
+X-cc: 
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+01.01.01 heralds the actual millenium. A unique date to be repeated only  
+after 1000 years !
+?
+?
+Here's hoping that the millenium showers health, wealth & hapiness in  all 
+extremes on you & your family & makes the world a great place to  live.
+?
+?
+best regards,
+?
+?
+MUKUL-JAYSHREE
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <29679356.1075848346379.JavaMail.evans@thyme>
+Date: Fri, 26 Jan 2001 04:40:00 -0800 (PST)
+From: debi.vanwey@enron.com
+To: philippe.bibi@enron.com, peggy.mccurley@enron.com, jenny.rub@enron.com,
+	marlin.gubser@enron.com, bob.mcauliffe@enron.com,
+	keith.dziadek@enron.com, lametrice.dopson@enron.com,
+	beth.perlman@enron.com, stephen.stock@enron.com,
+	jeff.johnson@enron.com, richard.burchfield@enron.com,
+	bryan.powell@enron.com, joe.wong@enron.com, chris.hanz@enron.com,
+	tommy.yanowski@enron.com, louise.kitchen@enron.com,
+	david.forster@enron.com, bruce.garner@enron.com,
+	michael.patrick@enron.com, greg.piper@enron.com, jay.webb@enron.com,
+	john.pavetto@enron.com, jeff.kinneman@enron.com,
+	harry.arora@enron.com, dan.bruce@enron.com, bob.hillier@enron.com,
+	steve.hotte@enron.com, laura.wilkinson@enron.com,
+	robert.jones@enron.com, gary.buck@enron.com, neil.davies@enron.com,
+	philip.conn@enron.com, brad.mcsherry@enron.com,
+	mark.broadfoot@enron.com, candace.womack@enron.com,
+	jennifer.cronin@enron.com, jennifer.richard@enron.com,
+	becky.quintana@enron.com, amanda.curless@enron.com,
+	ben.herman@enron.com, don.iacobell@enron.com,
+	lauren.johnson@enron.com, sheryl.beckman@enron.com,
+	tania.patel@enron.com, vangie.salas@enron.com, laura.lara@enron.com,
+	perrin.worrell@enron.com, april.weatherford@enron.com,
+	ashley.baxter@enron.com, simone.lewis@enron.com,
+	qiana.nolly@enron.com
+Subject: Enron Net Works Staffing Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Debi Vanwey
+X-To: Philippe A Bibi, Peggy McCurley, Jenny Rub, Marlin Gubser, Bob McAuliffe, Keith Dziadek, LaMetrice Dopson, Beth Perlman, Stephen Stock, Jeff Johnson, Richard Burchfield, Bryan Powell, Joe Wong, Chris Hanz, Tommy J Yanowski, Louise Kitchen, David Forster, Bruce Garner, Michael K Patrick, Greg Piper, Jay Webb, John Pavetto, Jeff Kinneman, Harry Arora, Dan Bruce, Bob Hillier, Steve Hotte, Laura Wilkinson, Robert Jones, Gary Buck, Neil Davies, Philip Conn, Brad McSherry, Mark Broadfoot, Candace Womack, Jennifer Cronin, Jennifer Richard, Becky Quintana, Amanda Curless, Ben Herman, Don Iacobell, Lauren Johnson, Sheryl Beckman, Tania Patel, Vangie Salas, Laura Lara, Perrin Worrell, April Weatherford, Ashley Baxter, Simone Lewis, Qiana Nolly
+X-cc: 
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+This will be the final staffing report for year 2000.   It spans the last 3 
+weeks of December.    Beginning in January 2001, reports will be sent 
+monthly.   If you would like to be removed from the distribution list, or 
+would like to add someone, please let me know.
+
+Thanks, Debi x39300
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <757765.1075848346402.JavaMail.evans@thyme>
+Date: Fri, 26 Jan 2001 03:19:00 -0800 (PST)
+From: donald.herrick@enron.com
+To: harry.arora@enron.com
+Subject: CL Transaction on DealBench
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Donald W Herrick
+X-To: Harry Arora
+X-cc: 
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+FYI
+
+Don
+---------------------- Forwarded by Donald W Herrick/HOU/ECT on 01/26/2001 
+11:19 AM ---------------------------
+Kristi Demaiolo @ ENRON   01/26/2001 10:57 AM
+
+To: Donald W Herrick/HOU/ECT@ECT
+cc:  
+Subject: CL Transaction on DealBench
+
+
+Some positive feedback so far.
+
+---------------------- Forwarded by Kristi Demaiolo/NA/Enron on 01/26/2001 
+10:55 AM ---------------------------
+
+
+"Elkouby, Jean-Maurice" <Jean-Maurice.Elkouby@creditlyonnais.co.uk> on 
+01/26/2001 10:13:53 AM
+To: "'Kristi.Demaiolo@enron.com'" <Kristi.Demaiolo@enron.com>
+cc: "Perry, Stuart" <Stuart.Perry@creditlyonnais.co.uk> 
+
+Subject: RE: Transaction on DealBench
+
+
+Wow !! Big brother is watching you... Thanks for your message. Actually, we
+are quite impressed by how smooth the whole process is. But I think that my
+colleague is talking to you at the moment... So far so good. We will see how
+banks respond to the system. Many thanks indeed. With kind regards, JM
+
+-----Original Message-----
+From: Kristi.Demaiolo@enron.com [mailto:Kristi.Demaiolo@enron.com]
+Sent: 26 January 2001 16:08
+To: jean-maurice.elkouby@creditlyonnais.co.uk
+Subject: Transaction on DealBench
+
+
+
+Hi Jean-Maurice,
+
+I just wanted to touch base with you to see how your DealBench experience
+is going.  I realize you may have some colleagues that are working with you
+that may not have been in our demo in November.  I'm happy to spend some
+time with them on the phone walking through the functionality within the
+site.  Please feel free to call me at 713-345-3726.
+
+I look forward to hearing from you to know how things are going.
+
+Kind Regards,
+Kristi DeMaiolo
+
+
+
+*************************************************************************
+The information in this internet E-mail is confidential and is intended
+solely for the addressee. Access, copying or re-use of information in it
+by anyone else is unauthorized. Any views or opinions presented are
+solely those of the author and do not necessarily represent those of
+Credit Lyonnais or any of its affiliates. The information contained herein
+is recorded for business purposes and use of services is monitored to
+protect both the company and its individual users. If you are not the
+intended recipient please contact postmaster@creditlyonnais.co.uk
+*************************************************************************
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <32962828.1075859178444.JavaMail.evans@thyme>
+Date: Fri, 23 Feb 2001 08:37:56 -0800 (PST)
+From: philip.greedy@us.pwcglobal.com
+To: harry.arora@enron.com, dave.samuels@enron.com
+Subject: Response to the TSS Opportunity
+Cc: patricia.guzman@us.pwcglobal.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: patricia.guzman@us.pwcglobal.com
+X-From: <philip.greedy@us.pwcglobal.com>@ENRON <IMCEANOTES-+3Cphilip+2Egreedy+40us+2Epwcglobal+2Ecom+3E+40ENRON@ENRON.com>
+X-To: Arora, Harry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=HARORA>, Samuels, Dave </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DSAMUELS>
+X-cc: patricia.guzman@us.pwcglobal.com
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+Harry and Dave, I have attached a letter for you as a response to the TSS
+opportunity we discussed last week. Please view this letter as an
+opportunity to have further discussions.
+(See attached file: Letter for TSS.doc)
+
+Thanks
+Phil Greedy
+----------------------------------------------------------------
+The information transmitted is intended only for the person or entity to
+which it is addressed and may contain confidential and/or privileged
+material.  Any review, retransmission, dissemination or other use of, or
+taking of any action in reliance upon, this information by persons or
+entities other than the intended recipient is prohibited.   If you received
+this in error, please contact the sender and delete the material from any
+computer.
+ - Letter for TSS.doc 
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <15367602.1075848347068.JavaMail.evans@thyme>
+Date: Fri, 1 Dec 2000 08:00:00 -0800 (PST)
+From: kristi.demaiolo@enron.com
+To: miguel.vasquez@enron.com, suresh.raghavan@enron.com,
+	vanessa.carranza@enron.com, jeff.bartlett@enron.com
+Subject: DealBench vs. Intralinks
+Cc: harry.arora@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: harry.arora@enron.com
+X-From: Kristi Demaiolo
+X-To: Miguel Vasquez, Suresh Raghavan, Vanessa Carranza, Jeff Bartlett
+X-cc: Harry Arora
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+I thought this updated comparison might be useful to you.
+
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <26458767.1075848346971.JavaMail.evans@thyme>
+Date: Tue, 5 Dec 2000 03:24:00 -0800 (PST)
+From: nicholas.m.sopkin@db.com
+To: harry.arora@enron.com
+Subject: Re: Option settings in structured note
+Cc: steven.herrup@db.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: steven.herrup@db.com
+X-From: nicholas.m.sopkin@db.com
+X-To: Harry.Arora@enron.com
+X-cc: steven.herrup@db.com
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+Harry:
+
+Just give me or Steve Herrup a call and we'll get moving on the options.  My 
+number is 212 469 5673   - if I am not around Steve is at 212 469 5955.
+
+Regards,
+
+Nicholas
+
+Nicholas Mayes Sopkin
+Structured Transactions
+Phone: 212 469 5673
+Fax: 212 469 5630
+
+
+
+
+
+
+Harry.Arora@enron.com on 12/04/2000 10:31:48 AM
+
+To:   nicholas.m.sopkin@db.com, William.Stuart@enron.com, 
+Tina.Livingston@enron.com
+cc:
+Subject:  Option settings in structured note
+
+
+
+
+
+Nick
+
+Hope things are going well.
+
+In the next few days we need to do two things.
+
+1. Set the termination value of the existing options
+2. Set the terms for new options for the next year.
+
+Since the option is cash settled and not settled with actual currency
+payments, while we need actual currency exchanges to mitigate our risk, we
+would like to talk to you to manage that.
+
+We also need to spend a few minutes, on the structure of the next set of
+options, to ensure a good execution.
+
+When you get  a chance give William Stuart ( 713-853-1507) our ccy trader
+or myself (713-853-6750) a call, or point us in the right direction.
+
+Thanks
+
+
+Harry
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <4858173.1075848346141.JavaMail.evans@thyme>
+Date: Mon, 19 Feb 2001 00:54:00 -0800 (PST)
+From: nmwolf@duke-energy.com
+To: harry.arora@enron.com
+Subject: Good News
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: nmwolf@duke-energy.com
+X-To: harry.arora@enron.com
+X-cc: 
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+----- Forwarded by Nicole Wolf/Hou-Mktg/EnergyTrading/PEC on 02/19/01 08:54
+AM -----
+
+                    "Parvinder
+                    Kaur"                  To:     dheerajm@hotmail.com, 
+fshamsi@hotmail.com, hirdesh@hotmail.com,
+                    <k_parvinder@ho        khalidmo@hotmail.com, 
+sahoremk@hotmail.com, manmohan@earthlink.net,
+                    tmail.com>             rajatl@hotmail.com, 
+rajeev.malik@writeme.com, SandeepGupta@firstusa.com,
+                                           sandeept@rocketmail.com, 
+seethal@hotmail.com, vivekv@writeme.com,
+                    02/16/01 12:44         gcmine@hotmail.com, 
+gcmine@yahoo.com, jkaur@avaya.com,
+                    AM                     nmwolf@duke-energy.com, 
+sahjit@hotmail.com
+                                           cc:
+                                           Subject:     Good News
+
+
+
+
+
+Hi!,
+
+We would like to share some good news with all of you. We have been blessed
+
+with a precious little baby girl on 5th February, 2001 at 15:39 p.m. Her
+name is Sahiba.
+
+Proud Parents,
+Parvinder & Sahjit
+
+4142, Stevenson Blvd,
+Apartment No. 1205,
+Fremont, California - 94538
+
+Phone : (510)-687-0702
+_________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
+(See attached file: Sahiba s.jpg)(See attached file: Sahiba13.jpg)(See
+attached file: Sahiba6.jpg)
+
+ - Sahiba s.jpg
+ - Sahiba13.jpg
+ - Sahiba6.jpg
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <21711330.1075848347019.JavaMail.evans@thyme>
+Date: Mon, 4 Dec 2000 04:53:00 -0800 (PST)
+From: suresh.raghavan@enron.com
+To: harry.arora@enron.com, jeff.bartlett@enron.com, vanessa.carranza@enron.com,
+	miguel.vasquez@enron.com, donald.w.herrick@enron.com,
+	tobias.munk@enron.com, kristi.demaiolo@enron.com,
+	john.spitz@enron.com, ross.mesquita@enron.com,
+	andrea.crump@enron.com
+Subject: Testing Script
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Suresh Raghavan
+X-To: Harry Arora, Jeff Bartlett, Vanessa Carranza, Miguel Vasquez, donald.w.herrick@enron.com, Tobias Munk, Kristi Demaiolo, John Spitz, Ross Mesquita, Andrea Crump
+X-cc: 
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+Folks:
+
+Attached is an updated testing script for your benefit.  Please feel free to 
+add additional steps if I have missed anything to this list.  Thanks.  SR:-)
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <14826981.1075848347090.JavaMail.evans@thyme>
+Date: Thu, 30 Nov 2000 11:14:00 -0800 (PST)
+From: suresh.raghavan@enron.com
+To: harry.arora@enron.com
+Subject: Bullet Points
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Suresh Raghavan
+X-To: Harry Arora
+X-cc: 
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+Harry:
+
+Let me know what you think.  Thanks.  SR:-)
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <16884019.1075859178604.JavaMail.evans@thyme>
+Date: Tue, 6 Mar 2001 15:46:15 -0800 (PST)
+From: 40enron@enron.com
+Subject: Organizational Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Ken Lay & Jeff Skilling@ENRON <IMCEANOTES-Ken+20Lay+20+26+20Jeff+20Skilling+40ENRON@ENRON.com>
+X-To: All Enron Worldwide@ENRON <??SAll Enron Worldwide@ENRON>
+X-cc: 
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+We are pleased to announce that Dave Delainey and John Sherriff are joining the Enron Corporate Policy Committee.
+With these additions, below is a current listing of Corporate Policy Committee members.
+
+ 
+Cliff Baxter
+Rick Causey
+Dave Delainey
+Jim Derrick
+Andy Fastow
+Mark Frevert
+Kevin Hannon
+Stan Horton
+Steve Kean
+Ken Lay
+Lou Pai
+Ken Rice
+John Sherriff
+Jeff Skilling
+Greg Whalley
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <32024281.1075848346584.JavaMail.evans@thyme>
+Date: Wed, 17 Jan 2001 01:46:00 -0800 (PST)
+From: tobias.munk@enron.com
+To: harry.arora@enron.com, suresh.raghavan@enron.com, john.spitz@enron.com
+Subject: Acceptance contract, specifications
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Tobias Munk
+X-To: Harry Arora, suresh.raghavan@enron.com, John Spitz
+X-cc: 
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+Hi,
+
+Harry would like to meet with us to get buy-in for the development time-table 
+of FileOpen deliverables for the dataroom.
+
+This is in the light of the impending signing-off on the design 
+specifications for FileOpen Systems.
+
+I have attached that document for reference
+
+Could you please confirm 1:30 pm today, on the 27th floor.
+
+Regards
+
+Tobias
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <24961106.1075848346449.JavaMail.evans@thyme>
+Date: Wed, 24 Jan 2001 00:47:00 -0800 (PST)
+From: ross.mesquita@enron.com
+To: kristi.demaiolo@enron.com, miguel.vasquez@enron.com,
+	vanessa.carranza@enron.com, suresh.raghavan@enron.com
+Subject: Summary of All DealBench Deals to Date
+Cc: harry.arora@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: harry.arora@enron.com
+X-From: Ross Mesquita
+X-To: Kristi Demaiolo, Miguel Vasquez, Vanessa Carranza, Suresh Raghavan
+X-cc: Harry Arora
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+Attached is a spreadsheet that shows all deals that have been 
+completed/in-process to date.  Please take a few minutes to see if anything 
+from your domain has been omitted.  I will post this on our Deal Area so that 
+you can update as appropriate.
+
+Thanks,
+Ross
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <15766682.1075859178559.JavaMail.evans@thyme>
+Date: Thu, 8 Mar 2001 13:39:46 -0800 (PST)
+From: paguilarp@hotmail.com
+To: harora@enron.com
+Subject: Fw: A voice from the past
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: "Pilar Maria Aguilar" <paguilarp@hotmail.com>@ENRON <IMCEANOTES-+22Pilar+20Maria+20Aguilar+22+20+3Cpaguilarp+40hotmail+2Ecom+3E+40ENRON@ENRON.com>
+X-To: harora@enron.com
+X-cc: 
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+
+This might just be your e-mail...
+ 
+----- Original Message -----  
+From: Pilar Maria  Aguilar  
+To: HARORA@AOL.COM  
+Sent: Thursday, February 22, 2001 9:20 PM
+Subject: A voice from the past
+It?s been what,  3 years?
+Are you at this address?
+ 
+I really hope so. I would love to re-establish  contact with an old friend.
+ 
+Lot?s of news!
+ 
+Pilar
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <32123663.1075859178743.JavaMail.evans@thyme>
+Date: Tue, 20 Mar 2001 09:24:42 -0800 (PST)
+From: nmwolf@duke-energy.com
+To: harry.arora@enron.com
+Subject: Sunshine
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "Nicole Wolf" <nmwolf@duke-energy.com>@ENRON <IMCEANOTES-+22Nicole+20Wolf+22+20+3Cnmwolf+40duke-energy+2Ecom+3E+40ENRON@ENRON.com>
+X-To: Arora, Harry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=HARORA>
+X-cc: 
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+You are my sunshine, my only sunshine
+you make me happy, when skies are gray
+you'll never know dear..how much "I love you"
+please don't take my sunshine away....
+
+
+Love ya,
+Nicole
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <11284972.1075859178581.JavaMail.evans@thyme>
+Date: Wed, 28 Feb 2001 06:14:04 -0800 (PST)
+From: anupindi@tibco.com
+To: harry.arora@enron.com
+Subject: RE: Tibco implementation at DealBench
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "Sharma Anupindi" <anupindi@tibco.com>@ENRON <IMCEANOTES-+22Sharma+20Anupindi+22+20+3Canupindi+40tibco+2Ecom+3E+40ENRON@ENRON.com>
+X-To: Arora, Harry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=HARORA>
+X-cc: 
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+Thanks a lot Harry.
+
+Sharma
+
+-----Original Message-----
+From: Arora, Harry [mailto:Harry.Arora@ENRON.com]
+Sent: Tuesday, February 27, 2001 5:53 PM
+To: anupindi@tibco.com
+Cc: Raghavan, Suresh
+Subject: Tibco implementation at DealBench
+
+
+
+Sharma
+
+We have completed our first year at DealBench.  It has been an exciting
+and fruitful year when we launched our platform and evolved the
+business.  I wanted to take a moment to appreciate your help in making
+this a success.  You help was critical in getting our implementation
+done in a reasonable time frame. Also, I appreciate your help in
+teaching Tibco products to other outside consultants who worked with us.
+
+Please feel free in sharing this email with your supervisor or others in
+your company. Ecommerce implementations are hard business, and there is
+always a time crunch and we appreciate your hard work and extra effort
+in making this business implementation possible in a timely fashion.
+
+Thanks
+
+
+Harry Arora
+Vice President, Enron NetWorks
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <6448797.1075848346495.JavaMail.evans@thyme>
+Date: Mon, 22 Jan 2001 10:36:00 -0800 (PST)
+From: harry.arora@enron.com
+To: dave.samuels@enron.com
+Subject: Business Plan
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Harry Arora
+X-To: Dave Samuels
+X-cc: 
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+Dave
+
+Find enclosed the business plan and the valuation model for DealBench.  Feel 
+free to call me with questions.
+
+
+
+
+
+
+Harry Arora
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <11838149.1075859178398.JavaMail.evans@thyme>
+Date: Thu, 8 Feb 2001 20:41:00 -0800 (PST)
+From: vanessa.carranza@enron.com
+To: karissa.johnson@enron.com
+Subject: Re: Contract Listing
+Cc: tobias.munk@enron.com, harry.arora@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: tobias.munk@enron.com, harry.arora@enron.com
+X-From: Vanessa Carranza <Vanessa Carranza/Corp/Enron@ENRON>
+X-To: Karissa Johnson <Karissa Johnson/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT@ECT>
+X-cc: Tobias Munk <Tobias Munk/HOU/ECT@ECT>, Harry Arora <Harry Arora/HOU/ECT@ECT>
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+Karissa-
+
+Thanks for the information.  Tobias just clarified that it is 3,500 instead of 35,000.  Based on these specs we will get you 
+the price quote by tomorrow afternoon.  We will contact you tomorrow.
+
+Thanks again-
+Vanessa Carranza
+DealBench
+vanessa.carranza@dealbench.com
+713-853-5030	office
+1-877-368-7170      toll free
+832-524-4713	cellular    
+			
+
+
+
+
+Karissa Johnson@ENRON_DEVELOPMENT
+02/08/2001 04:03 PM
+To:	Vanessa Carranza@ECT, Tobias Munk@ECT
+cc:	Tami Scrudder/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Michael Gantt/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Rosalinda V Gonzalez/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Darlene McKeever/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT 
+
+Subject:	Contract Listing
+
+Attached is a document that lists the projects that we believe would be included in our data room. We expect
+roughly 3,000-3,5000 documents and between 5-10 potential bidders. Based on this information, please provide
+ a price quote. 
+
+Best regards,
+Karissa
+---------------------- Forwarded by Karissa Johnson/ENRON_DEVELOPMENT on 02/09/2001 04:44 AM ---------------------------
+
+	 Rosalinda V Gonzalez  02/08/2001 11:15:58 AM 	
+
+To:	Tami Scrudder/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Karissa Johnson/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Michael Gantt/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT
+cc:	Shemeika S Landry/Corp/Enron@ENRON, Donna Lowry@ECT 
+
+Subject:	Contract Listing
+
+Per your request, attached the a list of the documents/contracts we have for each asset (per the file categories indicated).  Note that some spreadsheets contain more than one asset as this report was created by country.  In these cases, I highlighted each asset in different colors to indicate where one project ends and another begins.  
+
+Please advise of any questions.
+Rosalinda
+x67929
+
+ 
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <25528502.1075859178348.JavaMail.evans@thyme>
+Date: Wed, 7 Feb 2001 20:01:00 -0800 (PST)
+From: leonardo.pacheco@enron.com
+To: harry.arora@enron.com
+Subject: TSS Presentation (Final version)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Leonardo Pacheco <Leonardo Pacheco/Corp/Enron@ENRON>
+X-To: Harry Arora <Harry Arora/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+Final version for tomorrow's presentation
+
+Regards,
+
+Leonardo Pacheco
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <30727388.1075848346235.JavaMail.evans@thyme>
+Date: Fri, 2 Feb 2001 06:59:00 -0800 (PST)
+From: dan.bruce@enron.com
+To: louise.kitchen@enron.com
+Subject: FW: DealBench 2/2 auction failure cause and solution
+Cc: philippe.bibi@enron.com, harry.arora@enron.com, suresh.raghavan@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: philippe.bibi@enron.com, harry.arora@enron.com, suresh.raghavan@enron.com
+X-From: Dan Bruce
+X-To: Louise Kitchen
+X-cc: Philippe A Bibi, Harry Arora, Suresh Raghavan
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+Louise -
+
+Below is the report on yesterday's DealBench issues.  Please let me know if 
+you would like further information.
+
+- Dan
+
+ -----Original Message-----
+From:  Elrod, Hal  
+Sent: Friday, February 02, 2001 2:53 PM
+To: Bruce, Dan
+Cc: Hillier, Bob; Spitz, John
+Subject: DealBench 2/2 auction failure cause and solution
+Importance: High
+
+
+Event Sequence
+? Lot 1 of two Sabre auctions went through without issues
+? Between Lots, there was a scheduled 15 minute interval.  About 10 minutes 
+into this period, developers monitoring the system saw errors showing up on 
+the View Deal page.  Within minutes, users reported the same problem 
+reentering the Sabre deal.  The rest of the site was unaffected
+? Within five minutes, the problem was isolated to the document management 
+subsystem of DealBench.  Solution Attempts:
+? Restart the process that returns documents
+? Move the documents off the deal
+Solution:
+? Create a second deal, same structure as the first, but without the 
+documents.
+? The auction on the second Lot started approximately 40 minutes late.  Once 
+started, it continued without further errors through several auction 
+extensions, finally resulting in a $500K savings for Sabre.
+
+Cause
+? Document management process stopped returning documents and was instead 
+returning null values.  This caused the View Deal page to appear "hung". The 
+Document to be served was the "deal agent logo", a special document type that 
+is displayed at the top of the page.
+
+Contributing Factors
+? The run.bat script, which launches the document management Java process, 
+was not logging its status
+? The SQL statement that retrieves the deal agent logo did not correctly 
+handle the special case of a document file being moved.  Therefore, moving 
+the deal agent logo to another deal did not solve the error.   
+? run.bat had never failed previously, and the process had been running 
+consistently for over 60 days.  Therefore it was not initially suspected as a 
+problem source.
+
+Fixes
+? An immediate stop-work on further enhancements to DealBench until system 
+stability has been addressed
+? Isolate document management process in the test environment, and thoroughly 
+test all possible failure scenarios.
+? Start logging and tracking of run.bat script and document management process
+? Make document management process fully redundant, so it will failover in 
+the event of error
+? Increase monitoring on new log files
+? Initiate an in-depth architectural review with Kevin Montagne's team, to 
+identify further areas to improve system robustness
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <24883023.1075848346855.JavaMail.evans@thyme>
+Date: Fri, 15 Dec 2000 03:44:00 -0800 (PST)
+From: harry.arora@enron.com
+To: yolanda.roberts@enron.com
+Subject: Re: Aspen
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Harry Arora
+X-To: Yolanda Roberts
+X-cc: 
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+Yolanda
+
+I will be attending the ski outing - I am not sure about my arrival and 
+departure dates, but I did put tentative dates. Once I make my bookings I 
+will update you on my final dates. I might stay an extra day, and will pick 
+that up. Thanks
+
+
+Harry
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <20095920.1075848346878.JavaMail.evans@thyme>
+Date: Mon, 11 Dec 2000 04:58:00 -0800 (PST)
+From: barbara.lewis@enron.com
+To: harry.arora@enron.com, suresh.raghavan@enron.com, pamela.chambers@enron.com
+Subject: Birthday Party
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Barbara Lewis
+X-To: Harry Arora, Suresh Raghavan, Pamela Chambers
+X-cc: 
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+---------------------- Forwarded by Barbara Lewis/HOU/ECT on 12/11/2000 12:59 
+PM ---------------------------
+
+
+Walter Tibbs <Walter.Tibbs@att.net> on 12/10/2000 10:24:28 PM
+To: Barbara Lewis <Barbara.Lewis@enron.com>
+cc:  
+Subject: Birthday Party
+
+
+Good Morning, 
+The party was Great!!! 
+I thought you might want to use this one as a screen saver. 
+
+The disk that I left behind was a (8mb-3.3) Smart Media Disk for an Olympus 
+D-600L Digital Camera. 
+Thanks a lot for your help! 
+
+If you need to reply, please reply to??? wtibbs@uh.edu 
+are call me at 713-743-2645 . This is at work. Otherwise replying to this 
+address will not be answered till the following day.
+
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <27807977.1075859178126.JavaMail.evans@thyme>
+Date: Wed, 24 Jan 2001 12:47:00 -0800 (PST)
+From: ross.mesquita@enron.com
+To: kristi.demaiolo@enron.com, miguel.vasquez@enron.com,
+	vanessa.carranza@enron.com, suresh.raghavan@enron.com
+Subject: Summary of All DealBench Deals to Date
+Cc: harry.arora@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: harry.arora@enron.com
+X-From: Ross Mesquita <Ross Mesquita/NA/Enron@ENRON>
+X-To: Kristi Demaiolo <Kristi Demaiolo/NA/Enron@Enron>, Miguel Vasquez <Miguel Vasquez/HOU/ECT@ECT>, Vanessa Carranza <Vanessa Carranza/Corp/Enron@Enron>, Suresh Raghavan <Suresh Raghavan/Corp/Enron@Enron>
+X-cc: Harry Arora <Harry Arora/HOU/ECT@ECT>
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+
+Attached is a spreadsheet that shows all deals that have been completed/in-process to date.  Please take a few minutes to see if anything from your domain has been omitted.  I will post this on our Deal Area so that you can update as appropriate.
+
+Thanks,
+Ross
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <14988257.1075848346738.JavaMail.evans@thyme>
+Date: Wed, 3 Jan 2001 09:47:00 -0800 (PST)
+From: ross.mesquita@enron.com
+To: harry.arora@enron.com
+Subject: NBPL -- DealBench Auction Results
+Cc: suresh.raghavan@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: suresh.raghavan@enron.com
+X-From: Ross Mesquita
+X-To: Harry Arora
+X-cc: Suresh Raghavan
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+Harry,
+
+Today's live auction for Northern Border Pipeline's procurement of line pipe 
+was quite a success!  Here are some highlights:
+
+
+
+The auction lasted longer than the scheduled 15 minutes due to the automatic 
+extension feature resulting from new Best Bids placed during the last two 
+minutes of the auction.  Please note that we earned $52,500 for this auction 
+and are on track to do another auction for NBPL on 1/30 for a $20,000 fee.
+
+Regards, 
+Ross
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <14499213.1075859178673.JavaMail.evans@thyme>
+Date: Tue, 27 Feb 2001 12:34:00 -0800 (PST)
+From: sanjay.bhatnagar@enron.com
+To: harry.arora@enron.com
+Subject: Re: Business plan for financial trading in India
+Cc: sanjay.bhatnagar@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sanjay.bhatnagar@enron.com
+X-From: Bhatnagar, Sanjay </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=C3F9EE58-7F08421E-862566CC-7FA061>
+X-To: Arora, Harry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=HARORA>
+X-cc: Bhatnagar, Sanjay </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=C3F9EE58-7F08421E-862566CC-7FA061>
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+I am no longer at Enron and am available at sanjaybhatnagar00@yahoo.com. My US mobile after 15th March will be 832-368-4164 and my mobile in India is 91-98102-67215 when I am in India.
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <30391955.1075848346562.JavaMail.evans@thyme>
+Date: Fri, 19 Jan 2001 01:18:00 -0800 (PST)
+From: marc.eichmann@enron.com
+To: harry.arora@enron.com
+Subject: EOL Model with commodity markets
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Marc Eichmann
+X-To: Harry Arora
+X-cc: 
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+---------------------- Forwarded by Marc Eichmann/Corp/Enron on 01/19/2001 
+09:17 AM ---------------------------
+   
+	
+	
+	From:  Marc Eichmann                           01/19/2001 08:44 AM
+	
+
+To: Harry Arora/HOU/ECT@ECT
+cc: Greg Piper/Corp/Enron@Enron 
+
+Subject: EOL Model with commodity markets
+
+I am sending you the EOL model on Greg Piper's request. The model reflects 
+accurately the traded volumes on EOL for 2000. Projections for 2001- 2011 
+were built based on feedback from traders, investment bank and research 
+institutes B2B forecasts and, common sense. These can be manipulated by 
+changing the assumptions in the assumption sheet.
+
+On the financial side the balance sheet and income statement have not been 
+completely modelled since no specific deal structure has been defined. 
+Though, they include the main revenue and expense components for EOL.
+
+If you have any doubts with respect to the functionality of the model, please 
+let me know. I am available to clarify them at your convenience.
+
+
+Marc Eichmann
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <26780284.1075848346900.JavaMail.evans@thyme>
+Date: Fri, 8 Dec 2000 04:14:00 -0800 (PST)
+From: brad.blesie@enron.com
+Subject: Use of Dealbench for Project MI-3
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Brad Blesie
+X-To: Harry Arora@ECT
+X-cc: Donald M- ECT Origination Black@ECT, Jere C Overdyke@ECT
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+Harry,
+
+Per our previous discussion, we would like to use DealBench for Project MI-3, 
+which will appear on DealBench as Project Electra.  The site looks great, and 
+we are excited to use it.
+
+Thanks,
+
+Brad
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <30641183.1075848346927.JavaMail.evans@thyme>
+Date: Thu, 7 Dec 2000 08:29:00 -0800 (PST)
+From: debi.vanwey@enron.com
+To: harry.arora@enron.com
+Subject: Linda Wolf
+Cc: robert.jones@enron.com, neil.davies@enron.com, ted.bland@enron.com,
+	rhonna.palmer@enron.com, amanda.curless@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: robert.jones@enron.com, neil.davies@enron.com, ted.bland@enron.com,
+	rhonna.palmer@enron.com, amanda.curless@enron.com
+X-From: Debi Vanwey
+X-To: Harry Arora
+X-cc: Robert Jones, Neil Davies, Ted C Bland, Rhonna Palmer, Amanda Curless
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+Hi Harry, thank you for sending us Linda Wolf's resume.    We are considering 
+her for our Administrative openings in Wholesale Services and one of our 
+recruiters will be in contact with her.
+
+Thanks, Debi Vanwey
+x39300
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <29173503.1075848346996.JavaMail.evans@thyme>
+Date: Mon, 4 Dec 2000 08:38:00 -0800 (PST)
+From: amy.spoede@enron.com
+To: harry.arora@enron.com
+Subject: Budget for 2001
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Amy Spoede
+X-To: Harry Arora
+X-cc: 
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+Here is the final 2001 Plan for Deal Bench, please call if you have any 
+questions.  Thanks Amy 3-7805
+
+---------------------- Forwarded by Amy Spoede/HOU/ECT on 12/04/2000 04:37 PM 
+---------------------------
+
+
+Elise Clark@ENRON
+12/04/2000 04:06 PM
+To: Amy Spoede/HOU/ECT@ECT
+cc:  
+Subject: Budget for 2001
+
+
+---------------------- Forwarded by Elise Clark/Corp/Enron on 12/04/2000 
+03:52 PM ---------------------------
+
+
+Michael K Patrick
+12/04/2000 03:20 PM
+To: Elise Clark/Corp/Enron@ENRON
+cc:  
+
+Subject: Budget for 2001
+
+
+---------------------- Forwarded by Michael K Patrick/NA/Enron on 12/04/2000 
+02:33 PM ---------------------------
+From: Harry Arora@ECT on 12/04/2000 02:41 PM
+To: Michael K Patrick/NA/Enron@Enron
+cc:  
+Subject: Budget for 2001
+
+
+Mike
+
+Can you provide me the final  budget for DealBench for 2001. Thanks
+
+
+Harry
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <4834060.1075848347135.JavaMail.evans@thyme>
+Date: Wed, 29 Nov 2000 10:20:00 -0800 (PST)
+From: jeff.bartlett@enron.com
+To: kira@yahoo-inc.com
+Subject: Introduction to Enron Net Works' DealBench B2B platform
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeff Bartlett
+X-To: kira@yahoo-inc.com
+X-cc: 
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+Kira-
+I got your name (and email address) from Chad Muir and was hoping to arrange 
+a time to briefly (and informally) talk to you about Yahoo's B2B business 
+strategy and whether you think there might be any opporunities to discuss 
+some strategic relationship between Yahoo and Enron Net Works's DealBench 
+subsidiary.
+
+Without getting into too many details, DealBench is an ASP addressing the 
+needs of large, secure, sophisticated transaction participants.   We are 
+currently offering live online auctioning capabilities, online virtual 
+datarooms and certain deal areas for the syndication of bank products and 
+lease portfolios.  We have completed transactions with nominal value of over 
+$4 Billion since launching the site 4 months ago.   My initial thought is 
+that this could potentially fit in nicely with what I believe is Yahoo's need 
+for recurring transaction-based revenues in certain B2B areas.
+
+Hopefully we can find time to talk soon.
+Take care,
+Jeff
+
+
+Jeffrey M. Bartlett
+Principal, DealBench
+Director, Enron Net Works
+713-853-5629 (work)
+713-598-1946 (cell)
+jeff.bartlett@dealbench.com
+jeff.bartlett@enron.com
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <23655471.1075848346068.JavaMail.evans@thyme>
+Date: Tue, 20 Feb 2001 14:05:00 -0800 (PST)
+From: advapl@vsnl.com
+To: harora@ect.enron.com
+Subject: Hi
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: "MURARKA" <advapl@vsnl.com>
+X-To: "harpreet" <harora@ect.enron.com>
+X-cc: 
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+?
+Dear Harry,
+?
+Hi How are you.
+?
+Long time since heard from you.
+?
+Things are fine at my end. I became father for the second time. A daughter  
+was born to us on 31st January. Both mother and baby are fine. Yet to 
+finalise a  name for her.
+?
+So how are you doing.? do reply
+?
+Love,
+?
+MUKUL MURARKA
+?
+?
+?
+?
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <31936408.1075859177801.JavaMail.evans@thyme>
+Date: Sun, 4 Feb 2001 17:38:00 -0800 (PST)
+From: vk167@hotmail.com
+To: harora@ect.enron.com
+Subject: Re: Fwd :Thought for the day !
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: vijay kumar  <vk167@hotmail.com>
+X-To: harora <harora@ect.enron.com>
+X-cc: 
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+
+
+
+Hi!
+
+Where r u and how have u been? Saw in morning papers the news about
+resignation of Sanjay Bhatnagar. ANy chance of ur coming to India?
+
+Here things r all right. I have been in Daman for about a year now as
+collector. It is a small union territory about 190 kms from Bombay. It's a
+good weekend spot. If u visit Bombay, do drop in Daman. U can also plan a
+journey to Diu, Dwarka, Somnath and Gir tiger reserve.
+
+
+Keep in touch.
+
+
+Vijay Kumar, IAS
+Collector and District Magistrate, Daman
+Collectorate,Moti Daman,
+Daman 396220, India
+
+Ph. O 0260 254698/254207
+    R      254696
+Fax        254922/254689
+Mobile 09824066305
+
+_________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <32312405.1075848346351.JavaMail.evans@thyme>
+Date: Fri, 26 Jan 2001 05:14:00 -0800 (PST)
+From: jens.gobel@enron.com
+To: harry.arora@enron.com
+Subject: ENRON METALS WEEKLY REVIEW
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jens Gobel
+X-To: Harry Arora
+X-cc: 
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+Remember our discussion yesterday?
+
+Jens
+---------------------- Forwarded by Jens Gobel/EU/Enron on 26/01/2001 19:18 
+---------------------------
+   
+	Enron North America Corp.
+	
+	From:  Alex Heath @ ECT                           26/01/2001 12:30
+	
+
+To: Enron Metal & Commodity - UK traders, Enron Metal &Commodity - Global 
+Traders, Enron Metals Global a/es, Enron Metals lme Dealers, Enron Metals 
+London A/E's, Enron Metals ORIGINATION TEAM, ENRON METALS SCRAP GROUP, ENRON 
+ONLINE MKTG
+cc:  
+
+Subject: ENRON METALS WEEKLY REVIEW
+
+
+
+      Enron Metals Weekly Review
+
+Good evening ...one and all . It hardly seems possible that  we are another 
+week on  already such has been the pace of activity here . The  ebb and flow 
+in the Ali  market both in the spreads and outright price have kept  our 
+valiant dealers on their toes  as  seemingly the whole market  vies to  avail 
+itself of our  pricing and liquidity services on-line ! .   Daily volumes 
+have  continued to grow with  over 800  separate transactions being seen 
+today! .  In fact volumes have risen by approximately  56% since December  
+from a daily average  of 357 to a daily average of 557  for January .At the 
+same time the regular Non-EOL transaction count has decreased from about 1800 
+trades a day to 1586 trades  since December.    Your efforts at getting  the  
+registered customers who had not  completed an on line trade are beginning 
+to  pay dividends  finally - but the migration remains painfully slow . Keep 
+plugging away 
+   
+                
+
+
+
+
+                            
+
+ The graph  above illustrates the growth of our  average daily online 
+transaction volumes  in relation to our regular transaction volume on a 
+monthly basis  from July of 99 to date .
+
+
+This week's daily  transaction volume  is another  record and   but for the 
+blip on Monday  which put down to the  Mother's day in Africa  holiday  would 
+have been sensational .  
+ 
+  
+
+   
+
+
+We have asked for your response to several queries over the past three weeks 
+and have received little or no  reaction.  Consequently we shall ask again.  
+
+Currently at the top of the list:  if  each of you could create a list of 
+Metals Conferences you believe would be beneficial for Enron metals to 
+attend, speak at and/ or have metals or EnronOnline presence, it would be 
+greatly appreciated. This is a multi faceted sales and marketing tool for 
+your benefit  .  Aside from the overall goal of creating a unified metals 
+marketing plan, we are also trying to prepare a budget to assure that proper 
+attention and funds are given Enron metals Global exposure in 2001 .  
+Therefore, if we do not receive your recommendations  well in  advance we 
+will not be in a position to sponsor them . We have created a conference 
+listing which will be circulated next week . Please add to it  if we have 
+missed any off . and mark onto our list those you think should have  our 
+attention . 
+
+
+For those of you that missed it last week, we have attached another copy of 
+the Account Application Form.  The completion of this form for BOTH 
+traditional and online customers will speed your client's access to trading 
+with Enron Metals.
+
+
+
+The lack of contributions for this review  from  any of you is  rather 
+disappointing . We will continue to offer you  items that you may find of use 
+. However the purpose of this  review is also  to incorporate content  from  
+around the network of our  global field offices.    I know you are all very 
+busy  making money for the cause . This  medium is  a useful platform to get 
+your message over .   
+
+For those of you not on the circulation lists  see the attached reports    
+
+       The Metals Crammer report    
+
+
+       The daily Options report 
+
+
+
+
+ Whilst not exactly a feature  we thought it might be  a useful exercise in  
+client relationship damage  limitation  to explain   what happens when a 
+customer finds he cannot trade  on line .This has begun to occur more 
+regularly as our volumes and activity increase.
+
+ Customers are allocated  a credit line for EOL within the system based upon 
+their  agreements.  This limit   is set daily   as a  default against the 
+clients name . basis the AS400 's  net valuation of the client's position  . 
+The amount of available  variation  credit  on the client's account  on EOL 
+is  set as his  limit f or the next days trading . If the client should 
+trigger this limit  during the next day's trading  the system will reject the 
+trade and lock out the customer . Not very user friendly   as the customer is 
+not told why .  London credit (Hamish's team) get a red flag , as of course 
+do the traders running the stack managers as they see the trade rejected.  
+The problem now becomes one of frustration for the customer as the system 
+will not allow him to liquidate his position either in part or whole .He will 
+have to pick the phone to do this . Secondly the resetting of any limit in 
+the system takes 48hrs .  This  is being  worked on but  we must remember 
+that Metals are the only futures products on the system and the other OTC 
+products on the system  are dealt with differently .  It also serves to 
+highlight that  clients with small credit lines in the 1 to 200,000 dollar 
+range are not really suited to use EOL . Security  such as g/tees and cash 
+are taken into account but can be missed  ,but forward profits are as it is 
+net availability that is  used on the AS400.   This will all improve with the 
+introduction of  a new bridge  between the Enron  risk system and the AS400  
+in the very near future .  
+ 
+ In the meantime  it will be up to you to  keep the peace and explain to your 
+clients .  Get them to keep within their limits . Call them quickly when they 
+get locked out.   
+
+
+
+
+Remember, we are here to help your efforts and help create positive 
+communication lines between our offices world-wide.  So, send us your 
+thoughts, questions, concerns, local area market news  etc.  We will look 
+forward to hearing from you.  
+
+Cheers, 
+
+Alex and Molly
+
+
+
+
+Alex Heath     Molly Hellerman
+alex.heath@enron.com    molly.hellerman@enron.com
++44 207 783 2071    +44 207 783 5198
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <11710104.1075848346716.JavaMail.evans@thyme>
+Date: Fri, 5 Jan 2001 08:24:00 -0800 (PST)
+From: harry.arora@enron.com
+To: suresh.raghavan@enron.com
+Subject: Tasks
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Harry Arora
+X-To: Suresh Raghavan
+X-cc: 
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+Suresh
+
+For the next two weeks, I'd like you to focus on the following.
+
+1. Development frame-work and getting Zach upto speed
+ Specs for Syndication report & testing & production date
+ Finalize questionnaire and production date
+ Modifications to Invitee and User stats
+2. EnronOnline auctions - structure, and hash out details to enable kick off
+3. Legal frame-work , shorten contracts for both deal-rooms and auctions
+4. Marketing materials for procurement - and leasing, mail to top 100 list.
+5.Complete transfer of operations to Networks group (Sherri Thomas's group)
+6. Budget changes
+7. Finalize hiring needs for Q1 and Q2
+8. Focus each of the marketing leads on revenue, client lists, outreach, 
+marketing and sales strategy
+ Ross - procurement
+ Don - Banks
+ Toby - Data rooms
+ Miguel - leases, legal and other data rooms
+9. Dataroom development frame-work
+
+
+Harry
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <16261421.1075848346119.JavaMail.evans@thyme>
+Date: Mon, 19 Feb 2001 21:44:00 -0800 (PST)
+From: kenneth.d'silva@enron.com
+To: infinity.developers@enron.com, infinity.users@enron.com
+Subject: Contact in London - Revised Number
+Cc: clara.carrington@enron.com, sheila.glover@enron.com, kevin.lee@enron.com,
+	iain.greig@enron.com, jonathan.le@enron.com,
+	isaac.rodriguez@enron.com, vridhay.mathias@enron.com,
+	twana.lee@enron.com, keith.derington@enron.com,
+	chris.constantine@enron.com, joseph.koothrappaly@enron.com,
+	brad.merrell@enron.com, ganapathy.ramesh@enron.com,
+	jeremy.wong@enron.com, amanda.curless@enron.com, gary.buck@enron.com,
+	jennifer.richard@enron.com, nick.paraschos@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: clara.carrington@enron.com, sheila.glover@enron.com, kevin.lee@enron.com,
+	iain.greig@enron.com, jonathan.le@enron.com,
+	isaac.rodriguez@enron.com, vridhay.mathias@enron.com,
+	twana.lee@enron.com, keith.derington@enron.com,
+	chris.constantine@enron.com, joseph.koothrappaly@enron.com,
+	brad.merrell@enron.com, ganapathy.ramesh@enron.com,
+	jeremy.wong@enron.com, amanda.curless@enron.com, gary.buck@enron.com,
+	jennifer.richard@enron.com, nick.paraschos@enron.com
+X-From: Kenneth D'Silva
+X-To: Infinity - Developers, Infinity - Users
+X-cc: Clara Carrington, Sheila Glover, Kevin Lee, Iain Greig, Jonathan Le, Isaac Rodriguez, Vridhay Mathias, Twana Lee, Keith Derington, Chris Constantine, Joseph Koothrappaly, Brad Merrell, Ganapathy Ramesh, Jeremy Wong, Amanda Curless, Gary Buck, Jennifer Richard, Nick Paraschos
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+All,
+
+I have moved to London temporarily on an assignment . My contact number is 
+London is 011442077834188.
+
+Regards,
+Ken
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <4126111.1075848346516.JavaMail.evans@thyme>
+Date: Mon, 22 Jan 2001 09:18:00 -0800 (PST)
+From: enron.announcements@enron.com
+To: enw-employees@enron.com
+Subject: Enron Net Works - T&E Policy
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: ENW-Employees
+X-cc: 
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+Please review the attached T&E Policy for Enron Net Works.
+
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <2306898.1075859177916.JavaMail.evans@thyme>
+Date: Fri, 26 Jan 2001 20:21:00 -0800 (PST)
+From: rahil.jafry@enron.com
+To: harry.arora@enron.com
+Subject: AG Presentation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Rahil Jafry <Rahil Jafry/HOU/ECT@ECT>
+X-To: Harry Arora <Harry Arora/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+FYI only - the agriculture documents....
+
+---------------------- Forwarded by Rahil Jafry/HOU/ECT on 01/26/2001 04:20 PM ---------------------------
+
+
+Patrick Conner
+01/26/2001 02:43 PM
+To:	rahil.jafry@enron.com
+cc:	 
+Subject:	AG Presentation
+
+
+---------------------- Forwarded by Patrick Conner/HOU/ECT on 01/26/2001 02:43 PM ---------------------------
+
+
+Darren Maloney@ENRON
+12/13/2000 08:24 PM
+To:	Mark Wadlington/NA/Enron@ENRON
+cc:	Patrick Conner/HOU/ECT@ECT 
+
+Subject:	AG Presentation   
+
+Here is McKinsey's work.  Broad overview only, with no specific analysis of 
+grains, meats or softs.  Priorities here are grains, then meats, and separately 
+softs given our existing exposure to this segment (53k Tons of Cocoa Physical,
+Softs Brokerage Business in London).
+
+Mark, I would encourage you to come down to 29 (assuming you are on 33) and
+we will be more than happy to share all of our resources to get you up to speed
+on our analysis and why we think these segments hold a lot of opportunity.
+
+Regards,
+Darren Maloney
+
+  
+
+
+<Embedded StdOleLink>
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <24593309.1075848346093.JavaMail.evans@thyme>
+Date: Tue, 20 Feb 2001 01:29:00 -0800 (PST)
+From: barbara.lewis@enron.com
+To: harry.arora@enron.com, jeff.bartlett@enron.com, vanessa.carranza@enron.com,
+	kristi.demaiolo@enron.com, donald.herrick@enron.com,
+	barbara.lewis@enron.com, ross.mesquita@enron.com,
+	suresh.raghavan@enron.com, john.spitz@enron.com,
+	tobias.munk@enron.com, zachary.streight@enron.com,
+	jocelyn.gordon@enron.com, amy.lehnert@enron.com,
+	renuka.bongu@enron.com, john.alvar@enron.com,
+	sireesha.chillakuru@enron.com, ciby.mathew@enron.com,
+	christopher.schweigart@enron.com, ping.zhang@enron.com,
+	wenxia.zhang@enron.com, dan.harrell@enron.com,
+	jason.stephens@enron.com, dwayne.peterson@enron.com
+Subject: Per Zachary Streight
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Barbara Lewis
+X-To: Harry Arora, Jeff Bartlett, Vanessa Carranza, Kristi Demaiolo, Donald W Herrick, Barbara Lewis, Ross Mesquita, Suresh Raghavan, John Spitz, Tobias Munk, Zachary Streight, Jocelyn Gordon, Amy Lehnert, Renuka Bongu, John Alvar, Sireesha Chillakuru, Ciby Mathew, Christopher Schweigart, Ping Zhang, Wenxia Zhang, Dan Harrell, Jason Stephens, Dwayne Peterson
+X-cc: 
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+All,
+
+There has been some concern about the lack of clarity regarding what 
+functionality is ready for user acceptance testing in the staging 
+environment.  To attempt to solve this problem, we have come up with a simple 
+process that will enhance communication and will allow everyone on the team 
+to know what functionality is in staging waiting for user acceptance signoff 
+prior to a release to production.  Please read the attached one page document 
+that details the proposed process.  Let me know if you have any questions.
+
+Thanks,
+Zach
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <10778140.1075848347158.JavaMail.evans@thyme>
+Date: Wed, 29 Nov 2000 09:05:00 -0800 (PST)
+From: jeff.bartlett@enron.com
+To: harry.arora@enron.com
+Subject: Yahoo lead.....
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeff Bartlett
+X-To: Harry Arora
+X-cc: 
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+thought you'd be interested to hear Chad's perspective here.....
+
+
+---------------------- Forwarded by Jeff Bartlett/HOU/ECT on 11/29/2000 05:04 
+PM ---------------------------
+
+
+"Chad Muir" <chad@campuspipeline.com> on 11/29/2000 04:09:40 PM
+To: Jeff.Bartlett@enron.com
+cc:  
+Subject: Re: quick question
+
+
+Just got off the phone with Kira.  She asked me what y'all do and I probably
+butchered it, but she sounded interested (especially when I closed by saying 
+it
+would be a business services, fee-based revenue stream - from what I know in
+the industry, Yahoo's all about that these days, trying to find complements to
+its existing largely ad-driven model for which they are getting pummeled).  
+She
+said you should forward any information on to her at kira@yahoo-inc.com.  To
+reach her by phone (I'd recommend handling initial contact through email and
+then suggesting phone time, but your call), I don't have her direct number, 
+but
+called the main Yahoo corporate number 408-731-3300, then used the dial by 
+name
+directory - her last name is spelled Zahn, but you have to keep adding letters
+from her first name (i went through K-I) before it will recognize it.  She and
+her husband both were in law school with me and are very, very cool folks.  He
+works at Silicon Valley Bank now.
+
+Let me know if there's anything else I can do to help.
+
+chad
+
+Jeff.Bartlett@enron.com wrote:
+
+> Thanks for the perspective on Yahoo - very helpful, especially since we
+> don't have much (any) business history with them.
+> I'll be looking at W's 600 appointments next week to see if your name is
+> there along with Ken Lay's (that rumor knocked $5B market cap from us
+> today)
+> jb
+>
+> "Chad Muir" <chad@campuspipeline.com> on 11/29/2000 02:14:52 PM
+>
+> To:   Jeff.Bartlett@enron.com
+> cc:
+> Subject:  Re: quick question
+>
+> Yes, I do.  Two actually.  Drew Lanham and Kira Zann.  Rather than me
+> putting
+> stuff in an email about which of the two you should go through, call me
+> when
+> you can.  I'm at the house all day today 435-655-2939.  Tomorrow I'm at the
+> office, but can be reached by cell 801-556-8490.  There's a definite
+> difference
+> between the two, but they both work together.
+>
+> By the way, sorry we missed you over T-day weekend - hope you had a good
+> weekend in OU country, despite the close game...  Let's try to get together
+> over New Year's if you'll be around.  We're in Dec. 29-Jan. 2.
+>
+> chad
+>
+> Jeff.Bartlett@enron.com wrote:
+>
+> > Do you have any Business Development contacts at Yahoo?   We are trying
+> to
+> > initiate some dialouge regarding strategic parters for our B2B
+> > transactional platform initiatives.
+> > I would be willing to offer several Diet Cokes while you here next month
+> as
+> > payment for such consulting services....
+> > jb
+
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <31958747.1075848346833.JavaMail.evans@thyme>
+Date: Mon, 18 Dec 2000 06:47:00 -0800 (PST)
+From: eileen.buerkert@enron.com
+To: harry.arora@enron.com
+Subject: Re: Approval needed for PO No. 20120613 and PO 20120612
+Cc: barbara.lewis@enron.com, heather.alon@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: barbara.lewis@enron.com, heather.alon@enron.com
+X-From: Eileen Buerkert
+X-To: Harry Arora
+X-cc: Barbara Lewis, Heather Alon, Enron IT Purchasing@Enron
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+Heather - send me the other RC and I will add it to the request.  Thanks!
+
+Eileen Buerkert
+IT Sourcing and Procurement
+713-345-6272
+
+
+
+	Harry Arora@ECT
+	12/18/2000 02:49 PM
+		
+		 To: Eileen Buerkert/NA/Enron@Enron, Barbara Lewis/HOU/ECT@ECT, Heather 
+Alon/HOU/ECT@ECT
+		 cc: 
+		 Subject: Re: Approval needed for PO No. 20120613 and PO 20120612
+
+
+Approved - Pls  bill half to DealBench RC and the other half to Networks 
+corporate RC (Louise Kitchen) - that RC could be provided to you by Heather.
+
+Thanks
+
+
+
+
+
+   
+	Enron North America Corp.
+	
+	From:  Barbara Lewis                           12/18/2000 02:17 PM
+	
+
+To: Harry Arora/HOU/ECT@ECT
+cc:  
+
+Subject: Approval needed for PO No. 20120613 and PO 20120612
+
+
+---------------------- Forwarded by Barbara Lewis/HOU/ECT on 12/18/2000 02:14 
+PM ---------------------------
+
+
+Eileen Buerkert@ENRON
+12/18/2000 02:11 PM
+To: Heather Alon/HOU/ECT@ECT, Barbara Lewis/HOU/ECT@ECT
+cc: Enron IT Purchasing@Enron 
+Subject: Approval needed for PO No. 20120613 and PO 20120612
+
+Heather,
+
+Per our conversation, I am going to go ahead and process this order without 
+the keyboards and/or mice.  The desktops, monitors and Palm Pilots come to 
+roughly $34,000, which means I will need approval from a Sr. Director before 
+I can place the order.  Can you have the appropriate person send me an email 
+with his/her approval?  I will place the order as soon as I have that.  
+Thanks!
+
+Eileen Buerkert
+IT Sourcing and Procurement
+713-345-6272
+----- Forwarded by Eileen Buerkert/NA/Enron on 12/18/2000 02:13 PM -----
+
+ECT Hardware Request	Request #:ECTH-4S5N9T
+	Request Status:New
+
+				Request information:
+Requested By:	Barbara Lewis		Phone:	3-5085
+Requested For:	Barbara Lewis		Location:	EB 2158
+SAP Cost Center #:	103237		User Mgr Approval:	Barbara Lewis
+CO #:	1149		WO # / Project #:	
+CO Name:	Enron Net Works		User Phone:	
+Priority:	Normal		Due Date:	12/21/2000
+Request Type:	Upgrade Existing		Request Date:	12/18/2000 11:16:28 AM
+RAM:			CD-ROM:	
+Docking Station:			Local Printer:	
+Justification:				
+User Selected HW:				Standard 18" Flat Panel x 9
+Standard Desktop x 9
+Quad Card x 2
+Cordless Straight KB/Mouse x 9
+3COM Palm IIIx x 2
+User Comments:	This equipment will be used for the DealBench Auction Control Room
+located on EB 27.  Please rush all equipment ASAP.  The room will be 
+completed in the near future.  All flatscreen monitors, keyboards and mice 
+should be BLACK.  If additional information is needed please contact me at 
+ext. 3-5085.			
+
+
+Hardware selected for this request: 
+Item Number	Item Name	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+159244-001
+159244-001
+159244-001
+159244-001
+159244-001
+159244-001
+159244-001
+159244-001
+159244-001
+612304
+612304	EN 6600 DESKTOP P3-600 10GB 64MB 32X NT 4.0
+EN 6600 128MB INSTALLED IN DESKTOP
+EN 6600 DESKTOP P3-600 10GB 64MB 32X NT 4.0
+EN 6600 128MB INSTALLED IN DESKTOP
+EN 6600 DESKTOP P3-600 10GB 64MB 32X NT 4.0
+EN 6600 128MB INSTALLED IN DESKTOP
+EN 6600 DESKTOP P3-600 10GB 64MB 32X NT 4.0
+EN 6600 128MB INSTALLED IN DESKTOP
+EN 6600 DESKTOP P3-600 10GB 64MB 32X NT 4.0
+EN 6600 128MB INSTALLED IN DESKTOP
+EN 6600 DESKTOP P3-600 10GB 64MB 32X NT 4.0
+EN 6600 128MB INSTALLED IN DESKTOP
+EN 6600 DESKTOP P3-600 10GB 64MB 32X NT 4.0
+EN 6600 128MB INSTALLED IN DESKTOP
+EN 6600 DESKTOP P3-600 10GB 64MB 32X NT 4.0
+EN 6600 128MB INSTALLED IN DESKTOP
+EN 6600 DESKTOP P3-600 10GB 64MB 32X NT 4.0
+EN 6600 128MB INSTALLED IN DESKTOP
+CORDLESS STRAIGHT KB/MOUSE AND CORDLESS DESKTOP ITOUCH
+CORDLESS STRAIGHT KB/MOUSE AND CORDLESS DESKTOP ITOUCH
+CORDLESS STRAIGHT KB/MOUSE AND CORDLESS DESKTOP ITOUCH
+CORDLESS STRAIGHT KB/MOUSE AND CORDLESS DESKTOP ITOUCH
+CORDLESS STRAIGHT KB/MOUSE AND CORDLESS DESKTOP ITOUCH
+CORDLESS STRAIGHT KB/MOUSE AND CORDLESS DESKTOP ITOUCH
+CORDLESS STRAIGHT KB/MOUSE AND CORDLESS DESKTOP ITOUCH
+CORDLESS STRAIGHT KB/MOUSE AND CORDLESS DESKTOP ITOUCH
+CORDLESS STRAIGHT KB/MOUSE AND CORDLESS DESKTOP ITOUCH
+PALM PILOT IIIXE
+PALM PILOT IIIXE
+18IN TFT8020 FLATPANEL CARBON
+18IN TFT8020 FLATPANEL CARBON
+18IN TFT8020 FLATPANEL CARBON
+18IN TFT8020 FLATPANEL CARBON
+18IN TFT8020 FLATPANEL CARBON
+18IN TFT8020 FLATPANEL CARBON
+18IN TFT8020 FLATPANEL CARBON
+18IN TFT8020 FLATPANEL CARBON
+18IN TFT8020 FLATPANEL CARBON
+QUAD CARD/COLORGRAFIX PREDATOR LT
+QUAD CARD/COLORGRAFIX PREDATOR LT	
+
+
+	Comments and process information:
+IS Group Comments:	eb//holding off on keyboards and mice
+Ops Group Comments:	
+Date Completed:	
+
+
+Revision History:	Eileen Buerkert
+Eileen Buerkert
+Eileen Buerkert
+Eileen Buerkert
+Eileen Buerkert
+Eileen Buerkert	12/18/2000 02:05:24 PM
+12/18/2000 01:44:27 PM
+12/18/2000 01:44:17 PM
+12/18/2000 01:43:32 PM
+12/18/2000 01:43:28 PM
+12/18/2000 01:43:06 PM
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <16581883.1075859177755.JavaMail.evans@thyme>
+Date: Thu, 15 Feb 2001 13:58:00 -0800 (PST)
+From: tobias.munk@enron.com
+To: karissa.johnson@enron.com
+Subject: DealBench DataRoom Summary
+Cc: michael.gantt@enron.com, tami.scrudder@enron.com, darlene.mckeever@enron.com,
+	rosalinda.gonzalez@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: michael.gantt@enron.com, tami.scrudder@enron.com, darlene.mckeever@enron.com,
+	rosalinda.gonzalez@enron.com
+X-From: Tobias Munk <Tobias Munk/HOU/ECT@ECT>
+X-To: Karissa Johnson <Karissa Johnson/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT>
+X-cc: Michael Gantt <Michael Gantt/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT>, Tami Scrudder <Tami Scrudder/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT>, Darlene McKeever <Darlene McKeever/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT>, Rosalinda V Gonzalez <Rosalinda V Gonzalez/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT>
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+Hi all,
+
+I just wanted to sum up our discussions from yesterday.
+
+Enron Global Assets is considering using DealBench for hosting virtual datarooms for the divestiture of 32 international assets. The projected total number of documents will be in the region of 3500. DealBench has offered to host these datarooms at a cost of $25k per dataroom. This is on the basis that you are hosting all 32 datarooms, as we have worked some steep discounts into the pricing. The term of the dataroom hosting services under this offer is for the year 2001.
+
+We have also offered to help with the transition of the data to the improved dataroom platform once that is in place sometime in Q2. 
+
+You have mentioned that a few documents that you intend to upload are bigger than 8MB. We have discussed that we can lift the current file size ceiling to greater than 8MB. I just want to make you aware that for users of the platform with slower connections it will be extremely time consuming to download these files. Even under ideal circumstances it will take al least 5 minutes for a 15MB file to download. For users with slower connections it will potentially seem like the download has failed, even though the download is still in progress. This could result in a lot of calls to you and our help-desk.
+
+As I mentioned it might be of value to you to have professional assistance with the conversion of your paper documents to PDF. We are working together with a company in Houston that could help in the conversion process. From our experience file size and quality of scans are greatly improved by outsourcing this function. This is especially true if one is performing an OCR process on the TIFF files during conversion to PDF. 
+
+In the light of the urgency of your projects it might be a good idea to start the dataroom preparation process as soon as possible. May I ask why you suggested to wait until March to get back in contact with us ?
+
+If you have any questions feel free to give me a call at 713-345-4147. We are very excited in helping you to deliver a world class solution.
+
+Thanks
+
+Tobias Munk
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <33441240.1075859178627.JavaMail.evans@thyme>
+Date: Tue, 27 Feb 2001 20:15:25 -0800 (PST)
+From: 40enron@enron.com
+Subject: DealBench Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Office of the Chairman - Enron Net Works LLC@ENRON <IMCEANOTES-Office+20of+20the+20Chairman+20-+20Enron+20Net+20Works+20LLC+40ENRON@ENRON.com>
+X-To: ENW-Employees@ENRON <??SENW-Employees@ENRON>
+X-cc: 
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+Effective March 2, Harry Arora will be leaving DealBench to join Enron Americas' East Power Desk.  Harry and his team have done an excellent job of launching and growing the DealBench business.  We thank him for his contributions and wish him the best in his new role at Enron Americas.
+
+Moving forward, the DealBench effort will be jointly headed by Suresh Raghavan and Jeff Bartlett, who will report to Greg Piper and continue the development and marketing of the platform for Enron and other customers.
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <10830369.1075859178051.JavaMail.evans@thyme>
+Date: Fri, 26 Jan 2001 16:40:00 -0800 (PST)
+From: debi.vanwey@enron.com
+To: philippe.bibi@enron.com, peggy.mccurley@enron.com, jenny.rub@enron.com,
+	marlin.gubser@enron.com, bob.mcauliffe@enron.com,
+	keith.dziadek@enron.com, lametrice.dopson@enron.com,
+	beth.perlman@enron.com, stephen.stock@enron.com,
+	jeff.johnson@enron.com, richard.burchfield@enron.com,
+	bryan.powell@enron.com, joe.wong@enron.com, chris.hanz@enron.com,
+	tommy.yanowski@enron.com, louise.kitchen@enron.com,
+	david.forster@enron.com, bruce.garner@enron.com,
+	michael.patrick@enron.com, greg.piper@enron.com, jay.webb@enron.com,
+	john.pavetto@enron.com, jeff.kinneman@enron.com,
+	harry.arora@enron.com, dan.bruce@enron.com, bob.hillier@enron.com,
+	steve.hotte@enron.com, laura.wilkinson@enron.com,
+	robert.jones@enron.com, gary.buck@enron.com, neil.davies@enron.com,
+	philip.conn@enron.com, brad.mcsherry@enron.com,
+	mark.broadfoot@enron.com, candace.womack@enron.com,
+	jennifer.cronin@enron.com, jennifer.richard@enron.com,
+	becky.quintana@enron.com, amanda.curless@enron.com,
+	ben.herman@enron.com, don.iacobell@enron.com,
+	lauren.johnson@enron.com, sheryl.beckman@enron.com,
+	tania.patel@enron.com, vangie.salas@enron.com, laura.lara@enron.com,
+	perrin.worrell@enron.com, april.weatherford@enron.com,
+	ashley.baxter@enron.com, simone.lewis@enron.com,
+	qiana.nolly@enron.com
+Subject: Enron Net Works Staffing Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Debi Vanwey <Debi Vanwey/HOU/ECT@ECT>
+X-To: Philippe A Bibi <Philippe A Bibi/HOU/ECT@ECT>, Peggy McCurley <Peggy McCurley/HOU/ECT@ECT>, Jenny Rub <Jenny Rub/Corp/Enron@ECT>, Marlin Gubser <Marlin Gubser/HOU/ECT@ECT>, Bob McAuliffe <Bob McAuliffe/Corp/Enron@ECT>, Keith Dziadek <Keith Dziadek/NA/Enron@ECT>, LaMetrice Dopson <LaMetrice Dopson/NA/Enron@ECT>, Beth Perlman <Beth Perlman/HOU/ECT@ECT>, Stephen Stock <Stephen Stock/HOU/ECT@ECT>, Jeff Johnson <Jeff Johnson/Corp/Enron@ECT>, Richard Burchfield <Richard Burchfield/HOU/ECT@ECT>, Bryan Powell <Bryan Powell/HOU/ECT@ECT>, Joe Wong <Joe Wong/ENRON@enronXgate>, Chris Hanz <Chris Hanz/Corp/Enron@ECT>, Tommy J Yanowski <Tommy J Yanowski/HOU/ECT@ECT>, Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>, David Forster <David Forster/Corp/Enron@Enron>, Bruce Garner <Bruce Garner/LON/ECT@ECT>, Michael K Patrick <Michael K Patrick/NA/Enron@Enron>, Greg Piper <Greg Piper/Corp/Enron@Enron>, Jay Webb <Jay Webb/HOU/ECT@ECT>, John Pavetto <John Pavetto/Corp/Enron@Enron>, Jeff Kinneman <Jeff Kinneman/HOU/ECT@ECT>, Harry Arora <Harry Arora/HOU/ECT@ECT>, Dan Bruce <Dan Bruce/HOU/ECT@ECT>, Bob Hillier <Bob Hillier/NA/Enron@ECT>, Steve Hotte <Steve Hotte/Corp/Enron@ENRON>, Laura Wilkinson <Laura Wilkinson/OTS/Enron@Enron>, Robert Jones <Robert Jones/Corp/Enron@ENRON>, Gary Buck <Gary Buck/HOU/ECT@ECT>, Neil Davies <Neil Davies/Corp/Enron@ENRON>, Philip Conn <Philip Conn/Corp/Enron@ENRON>, Brad McSherry <Brad McSherry/HOU/ECT@ECT>, Mark Broadfoot <Mark Broadfoot/HOU/ECT@ECT>, Candace Womack <Candace Womack/HOU/ECT@ECT>, Jennifer Cronin <Jennifer Cronin/Corp/Enron@ENRON>, Jennifer Richard <Jennifer Richard/HOU/ECT@ECT>, Becky Quintana <Becky Quintana/Corp/Enron@ENRON>, Amanda Curless <Amanda Curless/Corp/Enron@ENRON>, Ben Herman <Ben Herman/NA/Enron@ENRON>, Don Iacobell <Don Iacobell/NA/Enron@ENRON>, Lauren Johnson <Lauren Johnson/NA/Enron@ENRON>, Sheryl Beckman <Sheryl Beckman/HOU/ECT@ECT>, Tania Patel <Tania Patel/NA/Enron@Enron>, Vangie Salas <Vangie Salas/NA/Enron@ENRON>, Laura Lara <Laura Lara/HOU/ECT@ECT>, Perrin Worrell <Perrin Worrell/NA/Enron@Enron>, April Weatherford <April Weatherford/ENRON@enronXgate>, Ashley Baxter <Ashley Baxter/Corp/Enron@Enron>, Simone Lewis <Simone Lewis/NA/Enron@Enron>, Qiana Nolly <Qiana Nolly/NA/Enron@ENRON>
+X-cc: 
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+This will be the final staffing report for year 2000.   It spans the last 3 weeks of December.    Beginning in January 2001, reports will be sent monthly.   If you would like to be removed from the distribution list, or would like to add someone, please let me know.
+
+Thanks, Debi x39300
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <6560490.1075859177895.JavaMail.evans@thyme>
+Date: Fri, 26 Jan 2001 22:10:00 -0800 (PST)
+From: ross.mesquita@enron.com
+To: harry.arora@enron.com, suresh.raghavan@enron.com
+Subject: EES - Phase I - Thrid Party Supply
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Ross Mesquita <Ross Mesquita/NA/Enron@ENRON>
+X-To: Harry Arora <Harry Arora/HOU/ECT@ECT>, Suresh Raghavan <Suresh Raghavan/Corp/Enron@Enron>
+X-cc: 
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+
+Looks like EES has pretty much decided to use us for this RFQ (see the Word doc attached below) -- remember that we have a meeting scheduled with EES on Monday to discuss a "realtionship" and pricing.  Let's make sure before our meeting that we are all in agreement as to the pricing approach we will take with them.
+
+RM 	
+---------------------- Forwarded by Ross Mesquita/NA/Enron on 01/26/2001 06:07 PM ---------------------------
+   
+	  From:  Samuel Harrell @ EES                           01/26/2001 03:34 PM	
+		
+
+
+To:	Javier Gallo/HOU/EES@EES, Dag Joraholmen/HOU/EES@EES, L Michelle Foust/HOU/EES@EES, Scott Layne/HOU/EES@EES, Michael O Brown/HOU/EES@EES, Peter Johnston/HOU/EES@EES, Christopher Wheeler/HOU/EES@EES, Bryan Gee/HOU/EES@EES, Charles Allured/Western Region/The Bentley Company@Exchange
+cc:	Jerry Zeleny/HOU/EES@EES, Wayne Truxillo/HOU/EES@EES, Jess Galura/HOU/EES@EES, Brad J Snyder/HOU/EES@EES, Maria Gonzalez/HOU/EES@EES, Ross Mesquita/NA/Enron@ENRON, Chris Holmes/HOU/EES@EES 
+
+Subject:	Phase I - Thrid Party Supply
+
+Refer to meeting notes for update/status of third party supply process.
+
+   
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <18632410.1075848346426.JavaMail.evans@thyme>
+Date: Wed, 24 Jan 2001 00:55:00 -0800 (PST)
+From: john.spitz@enron.com
+To: sireesha.chillakuru@enron.com, ping.zhang@enron.com, wenxia.zhang@enron.com,
+	renuka.bongu@enron.com, john.alvar@enron.com, ciby.mathew@enron.com,
+	christopher.schweigart@enron.com
+Subject: DealBench Development Methodology
+Cc: harry.arora@enron.com, jeff.bartlett@enron.com, vanessa.carranza@enron.com,
+	kristi.demaiolo@enron.com, donald.herrick@enron.com,
+	ross.mesquita@enron.com, suresh.raghavan@enron.com,
+	miguel.vasquez@enron.com, tobias.munk@enron.com,
+	zachary.streight@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: harry.arora@enron.com, jeff.bartlett@enron.com, vanessa.carranza@enron.com,
+	kristi.demaiolo@enron.com, donald.herrick@enron.com,
+	ross.mesquita@enron.com, suresh.raghavan@enron.com,
+	miguel.vasquez@enron.com, tobias.munk@enron.com,
+	zachary.streight@enron.com
+X-From: John Spitz
+X-To: Sireesha Chillakuru, Ping Zhang, Wenxia Zhang, Renuka Bongu, John Alvar, Ciby Mathew, Christopher Schweigart
+X-cc: Harry Arora, Jeff Bartlett, Vanessa Carranza, Kristi Demaiolo, Donald W Herrick, Ross Mesquita, Suresh Raghavan, Miguel Vasquez, Tobias Munk, Zachary Streight
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+Hello all...
+
+Attached is the DealBench Development Methodology that we will be following 
+to sure up the development effort.  Please look over it and let me know if 
+you have any questions.
+
+
+
+
+By following this, we will ensure the stability of the site and make life a 
+lot easier on everyone.
+
+Thanks,
+-John
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <15989658.1075859178697.JavaMail.evans@thyme>
+Date: Tue, 13 Mar 2001 13:04:01 -0800 (PST)
+From: lisa.shoemake@enron.com
+To: p..adamik@enron.com
+Subject: Broker Speaker Box
+Cc: harry.arora@enron.com, lloyd.will@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: harry.arora@enron.com, lloyd.will@enron.com
+X-From: Shoemake, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=4A191D05-CAA14A32-862566AD-71CE68>
+X-To: Adamik, Darren P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DADAMIK>
+X-cc: Arora, Harry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=HARORA>, Will, Lloyd </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=78EBDA6F-A582EE07-86256775-47285C>
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+Darren I need to order an 8 channel broker speaker box for Harry Arora EB3121j.  Please charge to Co#0413  Cost Center# 107443.  If you have any questions please give me a call.
+
+Thank You, 
+Lisa x39194
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <30313842.1075859178103.JavaMail.evans@thyme>
+Date: Wed, 24 Jan 2001 12:55:00 -0800 (PST)
+From: john.spitz@enron.com
+To: sireesha.chillakuru@enron.com, ping.zhang@enron.com, wenxia.zhang@enron.com,
+	renuka.bongu@enron.com, john.alvar@enron.com, ciby.mathew@enron.com,
+	christopher.schweigart@enron.com
+Subject: DealBench Development Methodology
+Cc: harry.arora@enron.com, jeff.bartlett@enron.com, vanessa.carranza@enron.com,
+	kristi.demaiolo@enron.com, donald.herrick@enron.com,
+	ross.mesquita@enron.com, suresh.raghavan@enron.com,
+	miguel.vasquez@enron.com, tobias.munk@enron.com,
+	zachary.streight@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: harry.arora@enron.com, jeff.bartlett@enron.com, vanessa.carranza@enron.com,
+	kristi.demaiolo@enron.com, donald.herrick@enron.com,
+	ross.mesquita@enron.com, suresh.raghavan@enron.com,
+	miguel.vasquez@enron.com, tobias.munk@enron.com,
+	zachary.streight@enron.com
+X-From: John Spitz <John Spitz/NA/Enron@ENRON>
+X-To: Sireesha Chillakuru <Sireesha Chillakuru/NA/Enron@Enron>, Ping Zhang <Ping Zhang/NA/Enron@Enron>, Wenxia Zhang <Wenxia Zhang/NA/Enron@Enron>, Renuka Bongu <Renuka Bongu/NA/Enron@Enron>, John Alvar <John Alvar/HOU/ECT@ECT>, Ciby Mathew <Ciby Mathew/NA/Enron@Enron>, Christopher Schweigart <Christopher Schweigart/NA/Enron@ENRON>
+X-cc: Harry Arora <Harry Arora/HOU/ECT@ECT>, Jeff Bartlett <Jeff Bartlett/HOU/ECT@ECT>, Vanessa Carranza <Vanessa Carranza/Corp/Enron@Enron>, Kristi Demaiolo <Kristi Demaiolo/NA/Enron@Enron>, Donald W Herrick <Donald W Herrick/HOU/ECT@ECT>, Ross Mesquita <Ross Mesquita/NA/Enron@ENRON>, Suresh Raghavan <Suresh Raghavan/Corp/Enron@Enron>, Miguel Vasquez <Miguel Vasquez/HOU/ECT@ECT>, Tobias Munk <Tobias Munk/HOU/ECT@ECT>, Zachary Streight <Zachary Streight/ENRON@enronXgate>
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+
+Hello all...
+
+Attached is the DealBench Development Methodology that we will be following to sure up the development effort.  Please look over it and let me know if you have any questions.
+
+ 
+
+
+By following this, we will ensure the stability of the site and make life a lot easier on everyone.
+
+Thanks,
+-John
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <26500531.1075848346949.JavaMail.evans@thyme>
+Date: Tue, 5 Dec 2000 09:45:00 -0800 (PST)
+From: jeff.bartlett@enron.com
+To: harry.arora@enron.com
+Subject: JMB Deal Summary Sheet for 2000
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeff Bartlett
+X-To: Harry Arora
+X-cc: 
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+here's the 2000 deals summary sheet that I had put together last week.  
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <21385895.1075848347183.JavaMail.evans@thyme>
+Date: Wed, 29 Nov 2000 08:23:00 -0800 (PST)
+From: scano@velaw.com
+To: harry.arora@enron.com
+Subject: FW: Document from Spring Hollis
+Cc: tina.livingston@enron.com, rrabalais@velaw.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: tina.livingston@enron.com, rrabalais@velaw.com
+X-From: "Cano, Sandy" <scano@velaw.com>
+X-To: "harry. arora@enron. com (E-mail)" <harry.arora@enron.com>
+X-cc: "Livingston, Tina (Enron)" <tina.livingston@enron.com>, "Rabalais, Robert" <RRabalais@velaw.com>
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+Attached is the Structured Note I received from Spring Hollis' office.
+
+-----Original Message-----
+From: Betty.Cantwell@weil.com [mailto:Betty.Cantwell@weil.com]
+Sent: Wednesday, November 29, 2000 4:14 PM
+To: scano@velaw.com
+Cc: Betty.Cantwell@weil.com
+Subject: Document from Spring Hollis
+
+**********NOTE**********
+The information contained in this email message is intended only
+for use of the individual or entity named above.  If the reader
+of this message is not the intended recipient, or the employee or
+agent responsible to deliver it to the intended recipient, you
+are hereby notified that any dissemination, distribution or
+copying of this communication is strictly prohibited.  If you
+have received this communication in error, please immediately
+notify us by telephone (212-310-8000), and destroy the original
+message. Thank you.
+
+
+(PROMISSORY NOTE) (See attached file: j#2j07!.DOC)
+          ++++++CONFIDENTIALITY NOTICE+++++
+The information in this email may be confidential and/or privileged.  This
+email is intended to be reviewed by only the individual or organization
+named above.  If you are not the intended recipient or an authorized
+representative of the intended recipient, you are hereby notified that any
+review, dissemination or copying of this email and its attachments, if any,
+or the information contained herein is prohibited.  If you have received
+this email in error, please immediately notify the sender by return email
+and delete this email from your system.  Thank You
+
+
+
+ - j#2j07!.DOC
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <20897864.1075859178170.JavaMail.evans@thyme>
+Date: Mon, 22 Jan 2001 22:36:00 -0800 (PST)
+From: harry.arora@enron.com
+To: dave.samuels@enron.com
+Subject: Business Plan
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Harry Arora
+X-To: Dave Samuels <Dave Samuels/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+
+
+Dave
+
+Find enclosed the business plan and the valuation model for DealBench.  Feel free to call me with questions.
+
+
+  
+
+
+
+Harry Arora
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <10498351.1075859177726.JavaMail.evans@thyme>
+Date: Mon, 19 Feb 2001 12:54:00 -0800 (PST)
+From: nmwolf@duke-energy.com
+To: harry.arora@enron.com
+Subject: Good News
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: nmwolf@duke-energy.com <nmwolf@duke-energy.com@ENRON>
+X-To: harry.arora <harry.arora@enron.com>
+X-cc: 
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+
+----- Forwarded by Nicole Wolf/Hou-Mktg/EnergyTrading/PEC on 02/19/01 08:54
+AM -----
+
+                    "Parvinder
+                    Kaur"                  To:     dheerajm@hotmail.com, fshamsi@hotmail.com, hirdesh@hotmail.com,
+                    <k_parvinder@ho        khalidmo@hotmail.com, sahoremk@hotmail.com, manmohan@earthlink.net,
+                    tmail.com>             rajatl@hotmail.com, rajeev.malik@writeme.com, SandeepGupta@firstusa.com,
+                                           sandeept@rocketmail.com, seethal@hotmail.com, vivekv@writeme.com,
+                    02/16/01 12:44         gcmine@hotmail.com, gcmine@yahoo.com, jkaur@avaya.com,
+                    AM                     nmwolf@duke-energy.com, sahjit@hotmail.com
+                                           cc:
+                                           Subject:     Good News
+
+
+
+
+
+Hi!,
+
+We would like to share some good news with all of you. We have been blessed
+
+with a precious little baby girl on 5th February, 2001 at 15:39 p.m. Her
+name is Sahiba.
+
+Proud Parents,
+Parvinder & Sahjit
+
+4142, Stevenson Blvd,
+Apartment No. 1205,
+Fremont, California - 94538
+
+Phone : (510)-687-0702
+_________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
+(See attached file: Sahiba s.jpg)(See attached file: Sahiba13.jpg)(See
+attached file: Sahiba6.jpg)
+
+ - Sahiba s.jpg 
+ - Sahiba13.jpg 
+ - Sahiba6.jpg 
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <18529940.1075859177825.JavaMail.evans@thyme>
+Date: Fri, 2 Feb 2001 18:59:00 -0800 (PST)
+From: dan.bruce@enron.com
+To: louise.kitchen@enron.com
+Subject: FW: DealBench 2/2 auction failure cause and solution
+Cc: philippe.bibi@enron.com, harry.arora@enron.com, suresh.raghavan@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: philippe.bibi@enron.com, harry.arora@enron.com, suresh.raghavan@enron.com
+X-From: Dan Bruce <Dan Bruce/ENRON@enronXgate@ENRON>
+X-To: Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>
+X-cc: Philippe A Bibi <Philippe A Bibi/HOU/ECT@ECT>, Harry Arora <Harry Arora/HOU/ECT@ECT>, Suresh Raghavan <Suresh Raghavan/Corp/Enron@Enron>
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+
+Louise -
+
+Below is the report on yesterday's DealBench issues.  Please let me know if you would like further information.
+
+- Dan
+
+ -----Original Message-----
+From: 	Elrod, Hal  
+Sent:	Friday, February 02, 2001 2:53 PM
+To:	Bruce, Dan
+Cc:	Hillier, Bob; Spitz, John
+Subject:	DealBench 2/2 auction failure cause and solution
+Importance:	High
+
+
+Event Sequence
+?	Lot 1 of two Sabre auctions went through without issues
+?	Between Lots, there was a scheduled 15 minute interval.  About 10 minutes into this period, developers monitoring the system saw errors showing up on the View Deal page.  Within minutes, users reported the same problem reentering the Sabre deal.  The rest of the site was unaffected
+?	Within five minutes, the problem was isolated to the document management subsystem of DealBench.  Solution Attempts:
+?	Restart the process that returns documents
+?	Move the documents off the deal
+Solution:
+?	Create a second deal, same structure as the first, but without the documents.
+?	The auction on the second Lot started approximately 40 minutes late.  Once started, it continued without further errors through several auction extensions, finally resulting in a $500K savings for Sabre.
+
+Cause
+?	Document management process stopped returning documents and was instead returning null values.  This caused the View Deal page to appear "hung". The Document to be served was the "deal agent logo", a special document type that is displayed at the top of the page.
+
+Contributing Factors
+?	The run.bat script, which launches the document management Java process, was not logging its status
+?	The SQL statement that retrieves the deal agent logo did not correctly handle the special case of a document file being moved.  Therefore, moving the deal agent logo to another deal did not solve the error.   
+?	run.bat had never failed previously, and the process had been running consistently for over 60 days.  Therefore it was not initially suspected as a problem source.
+
+Fixes
+?	An immediate stop-work on further enhancements to DealBench until system stability has been addressed
+?	Isolate document management process in the test environment, and thoroughly test all possible failure scenarios.
+?	Start logging and tracking of run.bat script and document management process
+?	Make document management process fully redundant, so it will failover in the event of error
+?	Increase monitoring on new log files
+?	Initiate an in-depth architectural review with Kevin Montagne's team, to identify further areas to improve system robustness
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <22766978.1075859178216.JavaMail.evans@thyme>
+Date: Mon, 22 Jan 2001 13:08:00 -0800 (PST)
+From: raj.thapar@enron.com
+To: harry.arora@enron.com
+Subject: McKinsey presentation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Raj Thapar <Raj Thapar/Enron Communications@ENRON>
+X-To: Harry Arora <Harry Arora/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+
+FYI
+ 
+
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <24095036.1075848346539.JavaMail.evans@thyme>
+Date: Mon, 22 Jan 2001 01:08:00 -0800 (PST)
+From: raj.thapar@enron.com
+To: harry.arora@enron.com
+Subject: McKinsey presentation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Raj Thapar
+X-To: Harry Arora
+X-cc: 
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+FYI
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <18453937.1075848346694.JavaMail.evans@thyme>
+Date: Mon, 8 Jan 2001 01:18:00 -0800 (PST)
+From: erequest@enron.com
+To: harry.arora@enron.com
+Subject: eRequest Password
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: eRequest@enron.com
+X-To: harry.arora@enron.com (Harry Arora)
+X-cc: 
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+Your eRequest's password is 6783
+To use this password, go to the eRequest website and click on non-Corp logon.
+Put in your email address and the password above and click Log In, and you 
+will log into eRequest.
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <20676233.1075859178536.JavaMail.evans@thyme>
+Date: Fri, 23 Feb 2001 06:42:36 -0800 (PST)
+From: lhenderson@sapient.com
+To: harry.arora@enron.com, dave.samuels@enron.com
+Subject: Summary of Initial Findings
+Cc: edragon@sapient.com, mgodbole@sapient.com, kcheng@sapient.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: edragon@sapient.com, mgodbole@sapient.com, kcheng@sapient.com
+X-From: Lee Henderson <LHenderson@sapient.com>@ENRON <IMCEANOTES-Lee+20Henderson+20+3CLHenderson+40sapient+2Ecom+3E+40ENRON@ENRON.com>
+X-To: Arora, Harry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=HARORA>, Samuels, Dave </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DSAMUELS>
+X-cc: Ed Dragon <edragon@sapient.com>, Milind Godbole <MGodbole@sapient.com>, Kevin Cheng <kcheng@sapient.com>
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+
+Dear Harry and Dave, 
+
+I wanted to summarize where we are currently at in relation to the Automated Confirms project and to pass on our preliminary findings from our analysis. Bear with me this is a long email.
+
+We completed a very high-level analysis of the value we believe would be created for Enron, Enron's trading partners, and a Systems Integrator. We based our model on the architecture you have currently proposed. 
+The value created for Enron Online will be significant based on value associated with increasing the volume of trades on Enron Online and driving additional liquidity into the market. We also included, in the Enron value calculation, revenue for providing the service to trading partners. We believe additional value will also be created by offering other products through this channel but we did not estimate this.
+
+By leveraging some in-depth analysis we did based on other markets (not power and gas) the value to Enron's largest trading partners for doing automated confirms is not quite as compelling as it might appear on the surface. Our high-level estimates put the value at around $800 thousand per year on average. This is made up of reduced risk from incorrectly marked deals, more accurate position reporting, and efficiencies in the mid and back office personnel. Based on your current model it would cost a trading company $200-$500 thousand dollars to set up the service plus ongoing transaction fees or subscriptions. This service might not be as easy to sell as we initially thought. 
+
+Based on your proposed architecture, the system integrator revenue would be $200K - $400K per installation for somewhere in the neighborhood of 10 - 20 major trading partners. Assuming an average of $300K for 15 sites the total services fees would be a total of $4.5 million without including any additional fees from ongoing transactions. 
+
+This back of the envelope analysis is based on a lot of assumptions and some past work we did for other markets including other energy commodities such as crude. I'm sharing this in the spirit of openness and invite you to challenge us on any glaring flaws you see as we are not claiming that this is a perfect analysis or that we went to a great level of detail. However, some suggestions we have based on this are as follows:
+You must make this as easy and inexpensive as possible to get organizations connected, possibly viewing this as a loss leader. This is because the largest value is created for Enron through increased transaction throughput not from charging for the service. Alternatively, you might think of adding additional services from day one to increase the value to the trading companies and get them to sign up more rapidly. You may want to consider co-operating with other online / offline services to increase number of automated confirms so that trading companies can take greater advantage of the Enron service.
+
+You should take another look at the architecture and give consideration to how you could more easily get companies online, possibly without the need for large integration fees or additional hardware. Once people are online it would be easier to sell a more robust solution that would involve actually putting a server on their premise.  
+
+You might want to consider some type of market assessment of the trading partners to determine exactly what they would like but more importantly what they would be willing to pay for. This could dramatically alter your go-to-market strategy.
+
+As I shared with Dave, at this point without further analysis or a change to the proposed model, we (Ed, Milind, and I) would never be able to get Sapient to agree to  a significant cash investment in the partnership. What we would propose could take the form of "sweat equity" on the part of Sapient to train a team on the API's and feet on the street to go and talk to trading companies about the opportunity.
+
+We also could offer to do a co-funded (Sapient and Enron) market assessment to take a two to four weeks to flush out the business model and analyze what trading companies would be willing to pay for in the way of additional products and services. We do believe that if you completed the assessment you would be better able to strengthen your go-to-market strategy.
+
+Keep in mind that we are sharing these thoughts because we do want to develop a relationship and just as importantly want your team to be successful in this venture even if that means there is not a role for Sapient. Also if someone is telling you something that is contrary to our findings based on their analysis please give me a call because I definitely want to understand if we are fundamentally missing something.  
+
+I will follow-up with each of you over the next week to see how you are progressing. Please call or email me with any thoughts or reactions.
+
+Sincerely, 
+
+Lee Henderson 
+Director, Energy Services 
+(713) 402 - 1618 
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <22152576.1075859177779.JavaMail.evans@thyme>
+Date: Wed, 7 Feb 2001 21:07:00 -0800 (PST)
+From: paula.hix@enron.com
+To: miguel.vasquez@enron.com
+Subject: EGEP DealBench activity
+Cc: jeffrey.sherrick@enron.com, stephen.harper@enron.com,
+	horace.snyder@enron.com, harry.arora@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jeffrey.sherrick@enron.com, stephen.harper@enron.com,
+	horace.snyder@enron.com, harry.arora@enron.com
+X-From: Paula Hix <Paula Hix/Corp/Enron@ENRON>
+X-To: Miguel Vasquez <Miguel Vasquez/HOU/ECT@ECT>
+X-cc: Jeffrey Sherrick <Jeffrey Sherrick/Corp/Enron@ENRON>, Stephen Harper <Stephen Harper/Corp/Enron@ENRON>, Horace Snyder <Horace Snyder/Corp/Enron@ENRON>, Harry Arora <Harry Arora/HOU/ECT@ECT>
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+Miguel,
+
+EGEP extends our best wishes to you on pursuing your new assignment and expresses sincere appreciation for all of your assistance with our DealBench projects. 
+
+You probably follow the DealBench activity but if you haven't watched specific details, we have observed the following activity level to date:
+	India Deal Rooms A-G		9573 Deal and Document hits (since 27 Dec when stats became available)
+	India Deal Room  H		  417 Deal and Document hits (since opening 1 Feb)
+	China Deal Rooms A-B		  500 Deal and Document hits (since opening 23 Feb)
+
+We consider the DealBench datarooms a great success.  We appreciate the insights you shared with us when we were first designing the rooms, as well as, the support  you provided with regard to our questions and problems thereafter.  You were always knowledgeable, resourceful, responsive and courteous in all of our dealings.
+
+Thanks again, Miguel.  We will miss you in the DealBench project group but will look forward to hearing about your new assignment.  
+
+Sincerely,
+Paula
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <10186779.1075859178650.JavaMail.evans@thyme>
+Date: Wed, 28 Feb 2001 18:30:55 -0800 (PST)
+From: emarketing@teachco.com
+To: harry.arora@enron.com
+Subject: Teaching Company offer-Now you can own both 'Astronomy' & 'Physics'
+ for one low video price
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: The Teaching Company <EMarketing@Teachco.com>@ENRON <IMCEANOTES-The+20Teaching+20Company+20+3CEMarketing+40Teachco+2Ecom+3E+40ENRON@ENRON.com>
+X-To: Arora, Harry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=HARORA>
+X-cc: 
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+
+======================================
+ORDER BY MARCH 8 AND SAVE ON A PAIR OF SUPERB SCIENCE COURSES!
+======================================
+
+Dear Harry Arora:
+
+Here's a terrific opportunity to boost your scientific literacy by enjoying video lectures featuring two of the finest science teachers in America today.
+
+Between now and March 8, you can order BOTH Prof. Alex Filippenko's "Understanding the Universe: An Introduction to Astronomy" (40 video lectures) and Prof. Seth Shostak's series on "The Search for Intelligent Life in Space" (12 video lectures) for a single low price of $229.90 plus $20 shipping, handling, and insurance.
+
+That's a savings of more than $300 off list, and works out to less than $5 per lecture--an excellent value for your learning dollar.
+
+Neither course requires any special science or math background; both are geared to the intelligent general student.
+
+This is a limited-time offer good only till March 8. Take advantage of it today. Click on https://www.teachco.com/ttcstore/Special030101a.htm.
+
+Or you can phone us toll-free at 1-800-TEACH-12 (1-800-832-2412).
+
+Sincerely,
+
+Tom Rollins, President
+
+P.S.-Feel free to forward this message to a friend if you think they'd be interested.
+
+___CUSTOMER PRIVACY & SECURITY
+
+Ordering is secure. Your credit-card and other personal data are protected by state-of-the-art SSL encryption technology. Every course comes with our No-Risk, Money-Back Guarantee.
+
+For The Teaching Company's full privacy & security statement, go to http://www.TeachCo.Com/Guarantee/Guarantee.htm
+
+___TO UNSUBSCRIBE
+
+If you'd rather not get any more messages like this one, please reply to this email with "Unsubscribe" in the subject line.
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <13387420.1075848346165.JavaMail.evans@thyme>
+Date: Thu, 15 Feb 2001 01:58:00 -0800 (PST)
+From: tobias.munk@enron.com
+To: karissa.johnson@enron.com
+Subject: DealBench DataRoom Summary
+Cc: michael.gantt@enron.com, tami.scrudder@enron.com, darlene.mckeever@enron.com,
+	rosalinda.gonzalez@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: michael.gantt@enron.com, tami.scrudder@enron.com, darlene.mckeever@enron.com,
+	rosalinda.gonzalez@enron.com
+X-From: Tobias Munk
+X-To: Karissa Johnson
+X-cc: Michael Gantt, Tami Scrudder, Darlene McKeever, Rosalinda V Gonzalez
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+Hi all,
+
+I just wanted to sum up our discussions from yesterday.
+
+Enron Global Assets is considering using DealBench for hosting virtual 
+datarooms for the divestiture of 32 international assets. The projected total 
+number of documents will be in the region of 3500. DealBench has offered to 
+host these datarooms at a cost of $25k per dataroom. This is on the basis 
+that you are hosting all 32 datarooms, as we have worked some steep discounts 
+into the pricing. The term of the dataroom hosting services under this offer 
+is for the year 2001.
+
+We have also offered to help with the transition of the data to the improved 
+dataroom platform once that is in place sometime in Q2. 
+
+You have mentioned that a few documents that you intend to upload are bigger 
+than 8MB. We have discussed that we can lift the current file size ceiling to 
+greater than 8MB. I just want to make you aware that for users of the 
+platform with slower connections it will be extremely time consuming to 
+download these files. Even under ideal circumstances it will take al least 5 
+minutes for a 15MB file to download. For users with slower connections it 
+will potentially seem like the download has failed, even though the download 
+is still in progress. This could result in a lot of calls to you and our 
+help-desk.
+
+As I mentioned it might be of value to you to have professional assistance 
+with the conversion of your paper documents to PDF. We are working together 
+with a company in Houston that could help in the conversion process. From our 
+experience file size and quality of scans are greatly improved by outsourcing 
+this function. This is especially true if one is performing an OCR process on 
+the TIFF files during conversion to PDF. 
+
+In the light of the urgency of your projects it might be a good idea to start 
+the dataroom preparation process as soon as possible. May I ask why you 
+suggested to wait until March to get back in contact with us ?
+
+If you have any questions feel free to give me a call at 713-345-4147. We are 
+very excited in helping you to deliver a world class solution.
+
+Thanks
+
+Tobias Munk
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <16160667.1075859178193.JavaMail.evans@thyme>
+Date: Mon, 22 Jan 2001 21:18:00 -0800 (PST)
+From: office.llc@enron.com
+To: enw-employees@enron.com
+Subject: Enron Net Works - T&E Policy
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Office of the Chairman - Enron Net Works LLC <Office of the Chairman - Enron Net Works LLC@ENRON>
+X-To: ENW-Employees <ENW-Employees@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+Please review the attached T&E Policy for Enron Net Works.
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <8820118.1075859177665.JavaMail.evans@thyme>
+Date: Tue, 20 Feb 2001 13:29:00 -0800 (PST)
+From: barbara.lewis@enron.com
+To: harry.arora@enron.com, jeff.bartlett@enron.com, vanessa.carranza@enron.com,
+	kristi.demaiolo@enron.com, donald.herrick@enron.com,
+	barbara.lewis@enron.com, ross.mesquita@enron.com,
+	suresh.raghavan@enron.com, john.spitz@enron.com,
+	tobias.munk@enron.com, zachary.streight@enron.com,
+	jocelyn.gordon@enron.com, amy.lehnert@enron.com,
+	renuka.bongu@enron.com, john.alvar@enron.com,
+	sireesha.chillakuru@enron.com, ciby.mathew@enron.com,
+	christopher.schweigart@enron.com, ping.zhang@enron.com,
+	wenxia.zhang@enron.com, dan.harrell@enron.com,
+	jason.stephens@enron.com, dwayne.peterson@enron.com
+Subject: Per Zachary Streight
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Barbara Lewis <Barbara Lewis/HOU/ECT@ECT>
+X-To: Harry Arora <Harry Arora/HOU/ECT@ECT>, Jeff Bartlett <Jeff Bartlett/HOU/ECT@ECT>, Vanessa Carranza <Vanessa Carranza/Corp/Enron@Enron>, Kristi Demaiolo <Kristi Demaiolo/NA/Enron@Enron>, Donald W Herrick <Donald W Herrick/HOU/ECT@ECT>, Barbara Lewis <Barbara Lewis/HOU/ECT@ECT>, Ross Mesquita <Ross Mesquita/NA/Enron@ENRON>, Suresh Raghavan <Suresh Raghavan/Corp/Enron@Enron>, John Spitz <John Spitz/NA/Enron@Enron>, Tobias Munk <Tobias Munk/HOU/ECT@ECT>, Zachary Streight <Zachary Streight/ENRON@enronXgate>, Jocelyn Gordon <Jocelyn Gordon/ENRON@enronXgate>, Amy Lehnert <Amy Lehnert/NA/Enron@Enron>, Renuka Bongu <Renuka Bongu/NA/Enron@Enron>, John Alvar <John Alvar/HOU/ECT@ECT>, Sireesha Chillakuru <Sireesha Chillakuru/NA/Enron@Enron>, Ciby Mathew <Ciby Mathew/NA/Enron@Enron>, Christopher Schweigart <Christopher Schweigart/NA/Enron@ENRON>, Ping Zhang <Ping Zhang/NA/Enron@Enron>, Wenxia Zhang <Wenxia Zhang/NA/Enron@Enron>, Dan Harrell <Dan Harrell/HOU/ECT@ect>, Jason Stephens <Jason Stephens/HOU/ECT@ECT>, Dwayne Peterson <Dwayne Peterson/NA/Enron@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+All,
+
+There has been some concern about the lack of clarity regarding what functionality is ready for user acceptance testing in the staging environment.  To attempt to solve this problem, we have come up with a simple process that will enhance communication and will allow everyone on the team to know what functionality is in staging waiting for user acceptance signoff prior to a release to production.  Please read the attached one page document that details the proposed process.  Let me know if you have any questions.
+
+Thanks,
+Zach
+
+  
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <4556302.1075859177872.JavaMail.evans@thyme>
+Date: Thu, 1 Feb 2001 14:00:00 -0800 (PST)
+From: libasco@netvigator.com
+To: harry.arora@enron.com
+Subject: 
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Roy and Loreli Ibasco  <libasco@netvigator.com>
+X-To: harry.arora@enron.com
+X-cc: 
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+
+Hi Harry,
+ 
+Just thought of saying hi since it has been an long  time.  How's everything in Houston?  Things in banking are slowing  down.  I'm just hoping that this project I'm staffed on will go live.   There is a 90% chance.  Most activity now in Asia is M&A related.   You see cross-border deals happening, i.e. Europe into Asia and Asia into the  U.S.  High yield and convertibles appear to be rocketing.  I've  encountered a couple of personalities at Lehman but so far things are  okay.    Just got the bonus and so I'm thinking where to park the  money.  Maybe I'll invest it in power technology since California  lacks electricity.  Who knows.  
+ 
+I heard from Jens that you moved to Enron Online.  Jens got a great  vacation in Cuba.  I wish I could have joined him.
+Well, that's all for now.
+ 
+Best regards,
+ 
+Roy
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <736597.1075848346799.JavaMail.evans@thyme>
+Date: Thu, 21 Dec 2000 10:05:00 -0800 (PST)
+From: enron.announcements@enron.com
+To: enronoptions.mailing@enron.com
+Subject: EnronOptions Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+X-From: Enron Announcements
+X-To: EnronOptions mailing
+X-cc: 
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+EnronOptions Announcement
+
+
+You can now access a web site that describes EnronOptions =01) Your Stock O=
+ption=20
+Program.  The web site contains some highlights of the EnronOptions Program=
+=20
+as well as some Frequently Asked Questions (FAQs).
+
+Access EnronOptions =01) Your Stock Option Program web site by clicking on=
+=20
+http://hrweb.enron.com or by typing the address into your web browser.
+
+We hope you find the site helpful in addressing your questions about the=20
+EnronOptions Program.  If you have any questions, please contact your H.R.=
+=20
+Representative.
+
+There will be several EnronOptions - Your Stock Option Program presentation=
+s=20
+throughout the month of January.  Stay tuned to a computer near you for=20
+details.
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <23810115.1075848346472.JavaMail.evans@thyme>
+Date: Tue, 23 Jan 2001 04:21:00 -0800 (PST)
+From: dave.samuels@enron.com
+To: harry.arora@enron.com, michael.bridges@enron.com, leonardo.pacheco@enron.com
+Subject: Re API for Enron Online
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Dave Samuels
+X-To: Harry Arora, Michael Bridges, Leonardo Pacheco
+X-cc: 
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+here is another request for a direct EOL data feed.  We should figure out how 
+we want to respond to such inquiries.  I have never heard of this company 
+before.
+
+Dave
+
+
+
+----- Forwarded by Dave Samuels/HOU/ECT on 01/23/2001 12:20 PM -----
+
+	Graham Mansfield <gmansfield@kalahari.co.uk>
+	01/23/2001 05:47 AM
+		 
+		 To: "'dave.samuels@enron.com'" <dave.samuels@enron.com>
+		 cc: 
+		 Subject: Re API for Enron Online
+
+
+Good Day to you.
+I would like to introduce myself and my company.
+Kalahari Ltd is a UK based software company that has for the past 14
+years been supply pricing software to the Financial Markets.
+Over the past year we have been branching out into the energy markets
+and are currently working for a number of UK based Electricity
+companies.
+One such company (London Electricity) has asked us to produce software
+to filter and highlight online trading prices. This allows them to see
+ONLY the best price in the market for any one product at a time. This is
+due to the sudden explosion of internet based price delivery systems. To
+enable us to acieve their requirements we require an API to the relative
+online trading systems. Today I spoke to a gentlemen in your call centre
+who gave me your contact details. Could you please advise me if you do
+indeed publish an API to your internet trading platform and if so how do
+I go about getting it.
+We would of course be prepared to sign a non disclosure agreement in
+this respect.
+
+I look forward to hearing from you in due course.
+
+With kind regards
+
+Graham Mansfield
+Deputy Managing Director
+
+Kalahari Limited
+Tel: +44 (0)1483 756246
+Fax:+44 (0)1483 756300
+
+www.kalahari.co.uk
+
+
+> **********************************************************************
+> *********
+> The information in this Internet e-mail is confidential and may be
+> legally privileged.  It is intended solely for the addressee.  Access
+> to this Internet e-mail by anyone else is unauthorised and any
+> disclosure, copying, distribution or any action taken or omitted to be
+> taken in reliance on it, is prohibited and may be unlawful.
+>
+> Any views expressed in this message are those of the individual sender
+> except where they are stated to be the views of Kalahari Ltd.
+> **********************************************************************
+> *********
+> 
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <30055875.1075859178490.JavaMail.evans@thyme>
+Date: Thu, 15 Feb 2001 14:46:00 -0800 (PST)
+From: bob.shults@enron.com
+To: harry.arora@enron.com
+Subject: Soft Questionaire on Transaction Feeds
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Bob Shults <Bob Shults/HOU/ECT@ECT>
+X-To: Harry Arora <Harry Arora/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+Attached is a summary and individual survey of current EnronOnline customers.  I am still waiting to talk to several customers who have traded voice mails.
+
+ 
+ mails.
+
+We can discuss at your convenience.
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <16667057.1075859177941.JavaMail.evans@thyme>
+Date: Fri, 26 Jan 2001 17:14:00 -0800 (PST)
+From: jens.gobel@enron.com
+To: harry.arora@enron.com
+Subject: ENRON METALS WEEKLY REVIEW
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+X-From: Jens Gobel <Jens Gobel/Corp/Enron@ENRON>
+X-To: Harry Arora <Harry Arora/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+Remember our discussion yesterday?
+
+Jens
+---------------------- Forwarded by Jens Gobel/EU/Enron on 26/01/2001 19:18=
+ ---------------------------
+  =20
+=09Enron North America Corp.  From:  Alex Heath @ ECT                      =
+     26/01/2001 12:30=09
+=09=09
+
+
+To:=09Enron Metal & Commodity - UK traders, Enron Metal &Commodity - Global=
+ Traders, Enron Metals Global a/es, Enron Metals lme Dealers, Enron Metals =
+London A/E's, Enron Metals ORIGINATION TEAM, ENRON METALS SCRAP GROUP, ENRO=
+N ONLINE MKTG
+cc:=09=20
+
+Subject:=09ENRON METALS WEEKLY REVIEW
+
+
+
+=09=09=09=09=09=09Enron Metals Weekly Review
+
+Good evening ...one and all . It hardly seems possible that  we are another=
+ week on  already such has been the pace of activity here . The  ebb and fl=
+ow in the Ali  market both in the spreads and outright price have kept  our=
+ valiant dealers on their toes  as  seemingly the whole market  vies to  av=
+ail itself of our  pricing and liquidity services on-line ! .   Daily volum=
+es have  continued to grow with  over 800  separate transactions being seen=
+ today! .  In fact volumes have risen by approximately  56% since December =
+ from a daily average  of 357 to a daily average of 557  for January .At th=
+e same time the regular Non-EOL transaction count has decreased from about =
+1800 trades a day to 1586 trades  since December.    Your efforts at gettin=
+g  the  registered customers who had not  completed an on line trade are be=
+ginning to  pay dividends  finally - but the migration remains painfully sl=
+ow . Keep plugging away=20
+  =09
+=09=09     =09=09=09=09=09   =20
+
+
+
+
+                           =20
+
+=09The graph  above illustrates the growth of our  average daily online tra=
+nsaction volumes  in relation to our regular transaction volume on a monthl=
+y basis  from July of 99 to date .
+
+
+This week's daily  transaction volume  is another  record and   but for the=
+ blip on Monday  which put down to the  Mother's day in Africa  holiday  wo=
+uld have been sensational . =20
+=09
+=09=09
+
+=09=09=09
+
+
+We have asked for your response to several queries over the past three week=
+s and have received little or no  reaction.  Consequently we shall ask agai=
+n. =20
+
+Currently at the top of the list:  if  each of you could create a list of M=
+etals Conferences you believe would be beneficial for Enron metals to atten=
+d, speak at and/ or have metals or EnronOnline presence, it would be greatl=
+y appreciated. This is a multi faceted sales and marketing tool for your be=
+nefit  .  Aside from the overall goal of creating a unified metals marketin=
+g plan, we are also trying to prepare a budget to assure that proper attent=
+ion and funds are given Enron metals Global exposure in 2001 .  Therefore, =
+if we do not receive your recommendations  well in  advance we will not be =
+in a position to sponsor them . We have created a conference listing which =
+will be circulated next week . Please add to it  if we have missed any off =
+. and mark onto our list those you think should have  our attention .=20
+
+
+For those of you that missed it last week, we have attached another copy of=
+ the Account Application Form.  The completion of this form for BOTH tradit=
+ional and online customers will speed your client's access to trading with =
+Enron Metals.
+=20
+
+
+The lack of contributions for this review  from  any of you is  rather disa=
+ppointing . We will continue to offer you  items that you may find of use .=
+ However the purpose of this  review is also  to incorporate content  from =
+ around the network of our  global field offices.    I know you are all ver=
+y busy  making money for the cause . This  medium is  a useful platform to =
+get your message over .  =20
+
+For those of you not on the circulation lists  see the attached reports   =
+=20
+
+=09=09=09=09=09=09 =09The Metals Crammer report  =09=09
+
+
+=09=09=09=09=09=09 =09The daily Options report=20
+
+
+
+
+=09Whilst not exactly a feature  we thought it might be  a useful exercise =
+in  client relationship damage  limitation  to explain   what happens when =
+a customer finds he cannot trade  on line .This has begun to occur more reg=
+ularly as our volumes and activity increase.
+
+=09Customers are allocated  a credit line for EOL within the system based u=
+pon their  agreements.  This limit   is set daily   as a  default against t=
+he clients name . basis the AS400 's  net valuation of the client's positio=
+n  . The amount of available  variation  credit  on the client's account  o=
+n EOL is  set as his  limit f or the next days trading . If the client shou=
+ld trigger this limit  during the next day's trading  the system will rejec=
+t the trade and lock out the customer . Not very user friendly   as the cus=
+tomer is not told why .  London credit (Hamish's team) get a red flag , as =
+of course do the traders running the stack managers as they see the trade r=
+ejected.  The problem now becomes one of frustration for the customer as th=
+e system will not allow him to liquidate his position either in part or who=
+le .He will have to pick the phone to do this . Secondly the resetting of a=
+ny limit in the system takes 48hrs .  This  is being  worked on but  we mus=
+t remember that Metals are the only futures products on the system and the =
+other OTC products on the system  are dealt with differently .  It also ser=
+ves to highlight that  clients with small credit lines in the 1 to 200,000 =
+dollar range are not really suited to use EOL . Security  such as g/tees an=
+d cash are taken into account but can be missed  ,but forward profits are a=
+s it is net availability that is  used on the AS400.   This will all improv=
+e with the introduction of  a new bridge  between the Enron  risk system an=
+d the AS400  in the very near future . =20
+=09
+=09In the meantime  it will be up to you to  keep the peace and explain to =
+your clients .  Get them to keep within their limits . Call them quickly wh=
+en they get locked out.  =20
+
+
+
+
+Remember, we are here to help your efforts and help create positive communi=
+cation lines between our offices world-wide.  So, send us your thoughts, qu=
+estions, concerns, local area market news  etc.  We will look forward to he=
+aring from you. =20
+
+Cheers,=20
+
+Alex and Molly
+
+
+
+
+Alex Heath=09=09=09=09=09Molly Hellerman
+alex.heath@enron.com=09=09=09=09molly.hellerman@enron.com
++44 207 783 2071=09=09=09=09+44 207 783 5198
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <31221795.1075848347205.JavaMail.evans@thyme>
+Date: Tue, 28 Nov 2000 07:54:00 -0800 (PST)
+From: donald.herrick@enron.com
+To: harry.arora@enron.com
+Subject: Kristi DeMaiolo
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Donald W Herrick
+X-To: Harry Arora
+X-cc: 
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+Harry,
+
+Feel free to add or subtract as you see fit. Thanks.
+
+Don
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <1202787.1075859178304.JavaMail.evans@thyme>
+Date: Thu, 22 Feb 2001 13:55:00 -0800 (PST)
+From: kristi.demaiolo@enron.com
+To: harry.arora@enron.com
+Subject: DealRooms Spreadsheet
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Kristi Demaiolo <Kristi Demaiolo/NA/Enron@ENRON>
+X-To: Harry Arora <Harry Arora/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+
+Harry -
+
+Please look this over for column headings more than content at this point.  If you are satisfied that it reflects everything you'll want to see, I'll finish the macros and complete the information.
+
+Thanks,
+Kristi
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <5139576.1075859178261.JavaMail.evans@thyme>
+Date: Thu, 22 Feb 2001 21:03:00 -0800 (PST)
+From: suresh.raghavan@enron.com
+To: harry.arora@enron.com, jeff.bartlett@enron.com
+Subject: Brochure
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Suresh Raghavan <Suresh Raghavan/Corp/Enron@ENRON>
+X-To: Harry Arora <Harry Arora/HOU/ECT@ECT>, Jeff Bartlett <Jeff Bartlett/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+This is the final version without the new 800 number text in it.  Let me know what you think.  This needs to be released EARLY tomorrow morning.  Thanks.  SR:-)
+---------------------- Forwarded by Suresh Raghavan/Corp/Enron on 02/22/2001 05:00 PM ---------------------------
+
+ 	Heather Alon @ ECT 02/22/2001 04:57 PM 	
+
+To:	suresh.raghavan@enron.com
+cc:	 
+
+Subject:	brochure
+
+Here's the latest/final???  version
+
+ - DB2.pdf  
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <21547578.1075848346211.JavaMail.evans@thyme>
+Date: Sun, 4 Feb 2001 17:08:00 -0800 (PST)
+From: vk167@hotmail.com
+To: harora@ect.enron.com
+Subject: Re: Fwd :Thought for the day !
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "vijay kumar" <vk167@hotmail.com>
+X-To: harora@ect.enron.com
+X-cc: 
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+Hi!
+
+Where r u and how have u been? Saw in morning papers the news about
+resignation of Sanjay Bhatnagar. ANy chance of ur coming to India?
+
+Here things r all right. I have been in Daman for about a year now as
+collector. It is a small union territory about 190 kms from Bombay. It's a
+good weekend spot. If u visit Bombay, do drop in Daman. U can also plan a
+journey to Diu, Dwarka, Somnath and Gir tiger reserve.
+
+
+Keep in touch.
+
+
+Vijay Kumar, IAS
+Collector and District Magistrate, Daman
+Collectorate,Moti Daman,
+Daman 396220, India
+
+Ph. O 0260 254698/254207
+    R      254696
+Fax        254922/254689
+Mobile 09824066305
+
+_________________________________________________________________________
+Get Your Private, Free E-mail from MSN Hotmail at http://www.hotmail.com.
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <26774275.1075859178074.JavaMail.evans@thyme>
+Date: Fri, 26 Jan 2001 15:19:00 -0800 (PST)
+From: donald.herrick@enron.com
+To: harry.arora@enron.com
+Subject: CL Transaction on DealBench
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Donald W Herrick <Donald W Herrick/HOU/ECT@ECT>
+X-To: Harry Arora <Harry Arora/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+FYI
+
+Don
+---------------------- Forwarded by Donald W Herrick/HOU/ECT on 01/26/2001 11:19 AM ---------------------------
+Kristi Demaiolo @ ENRON   01/26/2001 10:57 AM
+
+To:	Donald W Herrick/HOU/ECT@ECT
+cc:	 
+Subject:	CL Transaction on DealBench
+
+
+Some positive feedback so far.
+
+---------------------- Forwarded by Kristi Demaiolo/NA/Enron on 01/26/2001 10:55 AM ---------------------------
+
+
+"Elkouby, Jean-Maurice" <Jean-Maurice.Elkouby@creditlyonnais.co.uk> on 01/26/2001 10:13:53 AM
+To:	"'Kristi.Demaiolo@enron.com'" <Kristi.Demaiolo@enron.com>
+cc:	"Perry, Stuart" <Stuart.Perry@creditlyonnais.co.uk> 
+
+Subject:	RE: Transaction on DealBench
+
+
+Wow !! Big brother is watching you... Thanks for your message. Actually, we
+are quite impressed by how smooth the whole process is. But I think that my
+colleague is talking to you at the moment... So far so good. We will see how
+banks respond to the system. Many thanks indeed. With kind regards, JM
+
+-----Original Message-----
+From: Kristi.Demaiolo@enron.com [mailto:Kristi.Demaiolo@enron.com]
+Sent: 26 January 2001 16:08
+To: jean-maurice.elkouby@creditlyonnais.co.uk
+Subject: Transaction on DealBench
+
+
+
+Hi Jean-Maurice,
+
+I just wanted to touch base with you to see how your DealBench experience
+is going.  I realize you may have some colleagues that are working with you
+that may not have been in our demo in November.  I'm happy to spend some
+time with them on the phone walking through the functionality within the
+site.  Please feel free to call me at 713-345-3726.
+
+I look forward to hearing from you to know how things are going.
+
+Kind Regards,
+Kristi DeMaiolo
+
+
+
+*************************************************************************
+The information in this internet E-mail is confidential and is intended
+solely for the addressee. Access, copying or re-use of information in it
+by anyone else is unauthorized. Any views or opinions presented are
+solely those of the author and do not necessarily represent those of
+Credit Lyonnais or any of its affiliates. The information contained herein
+is recorded for business purposes and use of services is monitored to
+protect both the company and its individual users. If you are not the
+intended recipient please contact postmaster@creditlyonnais.co.uk
+*************************************************************************
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <32517370.1075848346259.JavaMail.evans@thyme>
+Date: Thu, 1 Feb 2001 02:59:00 -0800 (PST)
+From: john.wack@enron.com
+To: harry.arora@enron.com
+Subject: Re: Retail power RFQs on DealBench
+Cc: samuel.harrell@enron.com, brad.snyder@enron.com, ross.mesquita@enron.com,
+	suresh.raghavan@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: samuel.harrell@enron.com, brad.snyder@enron.com, ross.mesquita@enron.com,
+	suresh.raghavan@enron.com
+X-From: John Wack
+X-To: Harry Arora
+X-cc: Samuel Harrell, Brad J Snyder, Ross Mesquita, Suresh Raghavan
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+Thanks for the the flexibility,  I believe this will be of great help.  My 
+Co# is 0985 and RC # is 105081
+
+ 
+
+
+To: Samuel Harrell/HOU/EES@EES, Brad J Snyder/HOU/EES@EES, John 
+Wack/HOU/EES@EES, Ross Mesquita/NA/Enron@ENRON, Suresh 
+Raghavan/Corp/Enron@Enron
+cc:  
+Subject: Re: Retail power RFQs on DealBench  
+
+
+Regarding the lotting strategy, we do intend to be very flexible. Our general 
+recommendation is that the number of lots should be around 10 but if there 
+are situations where it makes sense to have more than 10 lots, we would not 
+have a problem with it.
+>From a pricing perspective, as long as bids*lots is less than 150, we would 
+treat it in a similar way.
+
+Hope that works for you. Look forward to your confirmation (and the RC#)
+
+
+Harry
+
+
+
+
+
+
+
+   
+	
+	
+	From:  Samuel Harrell @ EES                           01/31/2001 09:56 AM
+	
+
+To: Harry Arora/HOU/ECT@ECT
+cc: John Wack/HOU/EES@EES, Brad J Snyder/HOU/EES@EES, Ross 
+Mesquita/NA/Enron@ENRON 
+
+Subject: Re: Retail power RFQs on DealBench  
+
+Harry-
+
+Before we go ahead with this, let's revise the first bullet to reflect a more 
+realistic variation of how our soliciations might play out over the first and 
+second quarter of  2001. 
+
+As I see it (refer to the attachment for more information), we might conduct, 
+at best, five sealed-bids over the next three months. However, for each of 
+the bids there may be more than 10 lots in each bid. Looking at the attached 
+Notice of Solicitation as an example, we have 7 separate blocks for suppliers 
+to bid having up-to 3 bid scenarios for each block for a total of 21 lots for 
+this phase. The way I see it, future soliciations will follow a similar 
+model. 
+
+Having said this, an alternative to the current language would be to have 5-6 
+sealed bid opportunities with a 20-25 lot limit for each bid. Does this work 
+for you or does this complicate the process for your group? 
+
+Please advise....
+
+Sam
+5-6785
+
+
+
+
+
+To: John Wack/HOU/EES@EES, Brad J Snyder/HOU/EES@EES, Samuel 
+Harrell/HOU/EES@EES, Ross Mesquita/NA/Enron@ENRON
+cc:  
+Subject: Retail power RFQs on DealBench
+
+
+John
+
+
+We very much enjoyed meeting with you yesterday and discussing opportunities 
+for EES and DealBench to work together.  As we discussed, this email will 
+serve as the framework for our pilot arrangement.  As soon as we receive an 
+email confirmation from you, your team will be able to add deals to the 
+DealBench platform.
+
+3-month access as a standard user (15 sealed-bid deals with up to 10 lots for 
+each deal) .  Months utilitzed do not need to be consecutive, but if a deal 
+is up on DealBench in any day during a calendar month, that month will be 
+inlcuded as part of the three month period.
+
+EES will pay DealBench a fee of $22,500, with $7,500 due immediately, $7,500 
+due February 28th, and $7,500 due March 31st.  We would like to debit your RC 
+directly to avoid billing overheads. 
+ 
+EES will solely control and be responsible for all business transactions that 
+it conducts on the DealBench platform.  As such, DealBench assumes no 
+liability for any EES business transactions conducted on DealBench.
+
+We believe you will realize significant value from DealBench and look forward 
+to working with you.  As you know, I am going to be happy when we do a Live 
+Auction for you and save you some significant money.  Please confirm, with 
+your RC number that you are IN with this arrangement. We also would want to 
+explore further the larger opportunity - I will try to allocate some-one to 
+work on that one with you next week.
+
+
+Regards,
+
+
+Harry Arora
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <18410950.1075848346282.JavaMail.evans@thyme>
+Date: Thu, 1 Feb 2001 16:00:00 -0800 (PST)
+From: libasco@netvigator.com
+To: harry.arora@enron.com
+Subject: 
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: "Roy and Loreli Ibasco" <libasco@netvigator.com>
+X-To: <harry.arora@enron.com>
+X-cc: 
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+Hi Harry,
+?
+Just thought of saying hi since it has been an long  time.? How's everything 
+in Houston?? Things in banking are slowing  down.? I'm just hoping that this 
+project I'm staffed on will go live.?  There is a 90% chance.? Most activity 
+now in Asia is M&A related.?  You see cross-border deals happening, i.e. 
+Europe into Asia and Asia into the  U.S.? High yield and convertibles appear 
+to be rocketing.? I've  encountered a couple of personalities at Lehman but 
+so far things are  okay.??? Just got the bonus and so I'm thinking where to 
+park the  money.? Maybe I'll invest it in power technology?since California  
+lacks electricity.? Who knows.? 
+?
+I heard from Jens that you moved to Enron Online.? Jens got a great  vacation 
+in Cuba.? I wish I could have joined him.
+Well, that's all for now.
+?
+Best regards,
+?
+Roy
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <14019383.1075859177850.JavaMail.evans@thyme>
+Date: Thu, 1 Feb 2001 14:59:00 -0800 (PST)
+From: john.wack@enron.com
+To: harry.arora@enron.com
+Subject: Re: Retail power RFQs on DealBench
+Cc: samuel.harrell@enron.com, brad.snyder@enron.com, ross.mesquita@enron.com,
+	suresh.raghavan@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: samuel.harrell@enron.com, brad.snyder@enron.com, ross.mesquita@enron.com,
+	suresh.raghavan@enron.com
+X-From: John Wack <John Wack/HOU/EES@EES>
+X-To: Harry Arora <Harry Arora/HOU/ECT@ECT>
+X-cc: Samuel Harrell <Samuel Harrell/HOU/EES@EES@ECT>, Brad J Snyder <Brad J Snyder/HOU/EES@EES@ECT>, Ross Mesquita <Ross Mesquita/NA/Enron@ENRON@ECT>, Suresh Raghavan <Suresh Raghavan/Corp/Enron@Enron@ECT>
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+Thanks for the the flexibility,  I believe this will be of great help.  My Co# is 0985 and RC # is 105081
+
+ 
+
+
+To:	Samuel Harrell/HOU/EES@EES, Brad J Snyder/HOU/EES@EES, John Wack/HOU/EES@EES, Ross Mesquita/NA/Enron@ENRON, Suresh Raghavan/Corp/Enron@Enron
+cc:	 
+Subject:	Re: Retail power RFQs on DealBench   
+
+
+Regarding the lotting strategy, we do intend to be very flexible. Our general recommendation is that the number of lots should be around 10 but if there are situations where it makes sense to have more than 10 lots, we would not have a problem with it.
+>From a pricing perspective, as long as bids*lots is less than 150, we would treat it in a similar way.
+
+Hope that works for you. Look forward to your confirmation (and the RC#)
+
+
+Harry
+
+
+
+
+
+
+
+   
+	  From:  Samuel Harrell @ EES                           01/31/2001 09:56 AM	
+		
+
+
+To:	Harry Arora/HOU/ECT@ECT
+cc:	John Wack/HOU/EES@EES, Brad J Snyder/HOU/EES@EES, Ross Mesquita/NA/Enron@ENRON 
+
+Subject:	Re: Retail power RFQs on DealBench   
+
+Harry-
+
+Before we go ahead with this, let's revise the first bullet to reflect a more realistic variation of how our soliciations might play out over the first and second quarter of  2001. 
+
+As I see it (refer to the attachment for more information), we might conduct, at best, five sealed-bids over the next three months. However, for each of the bids there may be more than 10 lots in each bid. Looking at the attached Notice of Solicitation as an example, we have 7 separate blocks for suppliers to bid having up-to 3 bid scenarios for each block for a total of 21 lots for this phase. The way I see it, future soliciations will follow a similar model. 
+
+Having said this, an alternative to the current language would be to have 5-6 sealed bid opportunities with a 20-25 lot limit for each bid. Does this work for you or does this complicate the process for your group? 
+
+Please advise....
+
+Sam
+5-6785
+
+ 
+
+
+
+To:	John Wack/HOU/EES@EES, Brad J Snyder/HOU/EES@EES, Samuel Harrell/HOU/EES@EES, Ross Mesquita/NA/Enron@ENRON
+cc:	 
+Subject:	Retail power RFQs on DealBench
+
+
+John
+
+
+We very much enjoyed meeting with you yesterday and discussing opportunities for EES and DealBench to work together.  As we discussed, this email will serve as the framework for our pilot arrangement.  As soon as we receive an email confirmation from you, your team will be able to add deals to the DealBench platform.
+
+3-month access as a standard user (15 sealed-bid deals with up to 10 lots for each deal) .  Months utilitzed do not need to be consecutive, but if a deal is up on DealBench in any day during a calendar month, that month will be inlcuded as part of the three month period.
+
+EES will pay DealBench a fee of $22,500, with $7,500 due immediately, $7,500 due February 28th, and $7,500 due March 31st.  We would like to debit your RC directly to avoid billing overheads. 
+ 
+EES will solely control and be responsible for all business transactions that it conducts on the DealBench platform.  As such, DealBench assumes no liability for any EES business transactions conducted on DealBench.
+
+We believe you will realize significant value from DealBench and look forward to working with you.  As you know, I am going to be happy when we do a Live Auction for you and save you some significant money.  Please confirm, with your RC number that you are IN with this arrangement. We also would want to explore further the larger opportunity - I will try to allocate some-one to work on that one with you next week.
+
+
+Regards,
+
+
+Harry Arora
+
+
+
+
+
+
+
+
+
+
+<Embedded StdOleLink>
+<Embedded StdOleLink>
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <19915928.1075848346189.JavaMail.evans@thyme>
+Date: Wed, 7 Feb 2001 09:07:00 -0800 (PST)
+From: paula.hix@enron.com
+To: miguel.vasquez@enron.com
+Subject: EGEP DealBench activity
+Cc: jeffrey.sherrick@enron.com, stephen.harper@enron.com,
+	horace.snyder@enron.com, harry.arora@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jeffrey.sherrick@enron.com, stephen.harper@enron.com,
+	horace.snyder@enron.com, harry.arora@enron.com
+X-From: Paula Hix
+X-To: Miguel Vasquez
+X-cc: Jeffrey Sherrick, Stephen Harper, Horace Snyder, Harry Arora
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+Miguel,
+
+EGEP extends our best wishes to you on pursuing your new assignment and 
+expresses sincere appreciation for all of your assistance with our DealBench 
+projects. 
+
+You probably follow the DealBench activity but if you haven't watched 
+specific details, we have observed the following activity level to date:
+ India Deal Rooms A-G  9573 Deal and Document hits (since 27 Dec when stats 
+became available)
+ India Deal Room  H    417 Deal and Document hits (since opening 1 Feb)
+ China Deal Rooms A-B    500 Deal and Document hits (since opening 23 Feb)
+
+We consider the DealBench datarooms a great success.  We appreciate the 
+insights you shared with us when we were first designing the rooms, as well 
+as, the support  you provided with regard to our questions and problems 
+thereafter.  You were always knowledgeable, resourceful, responsive and 
+courteous in all of our dealings.
+
+Thanks again, Miguel.  We will miss you in the DealBench project group but 
+will look forward to hearing about your new assignment.  
+
+Sincerely,
+Paula
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <19009353.1075848346609.JavaMail.evans@thyme>
+Date: Fri, 12 Jan 2001 11:31:00 -0800 (PST)
+From: office.chairman@enron.com
+To: all.worldwide@enron.com
+Subject: Managing Director and Vice President Elections
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+X-From: Office of the Chairman
+X-To: All Enron Worldwide
+X-cc: 
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+The Managing Director PRC Committee met this week to elect individuals to=
+=20
+Managing Director and Vice President positions.  These employees are=20
+recognized as outstanding contributors to the organization, whose individua=
+l=20
+efforts have been instrumental in the continued success and growth of the=
+=20
+company.  We are pleased to announce the election of the following new=20
+Managing Directors and Vice Presidents.  Please join us in congratulating=
+=20
+these individuals on their new appointments.
+
+Managing Director =01) Commercial
+
+Phillip K. Allen, ENA (EWS) West Gas Trading - Houston
+Franklin R. Bay, EBS Entertainment on Demand - Houston
+Timothy N. Belden, ENA (EWS) =01) West Power Trading - Portland
+Michael R. Brown, EEL =01) Executive - London
+Christopher F. Calger, ENA (EWS) West Power Origination - Portland
+Joseph M. Deffner, ENA (EWS) Treasury & Funding - Houston
+Timothy J. Detmering, ENA (EWS) Corporate Development - Houston
+William D. Duran, ENA (EWS) Generation Investments - Houston
+Robert S. Gahn, EES Commodity Structuring - Houston
+Kevin C. Garland, EBS Broadband Ventures - Houston
+Ben F. Glisan, Jr., Corporate =01) Global Equity Markets - Houston
+Robert E. Hayes, ETS COMM Marketing - Houston
+Phillip R. Milnthorp, ENA (EWS) Canada Origination & Trading - Calgary
+
+Managing Director =01) Commercial Support
+
+Sally W. Beck, ENW (EWS) Energy Operations Management - Houston
+Fernley Dyson, EEL Finance & Support Services - London
+
+Vice President =01) Commercial
+
+Gregory Adams, EES MMC Management - Houston
+Robert Bayley, EEL-UK Origination =01) London
+Jack D. Boatman, ETS Market Development =01) Houston
+Rhenn Cherry, EES Assets/Labor =01) Houston
+Niamh Clarke, EGM (EWS) Liquids Trading =01) London
+Peter Crilly, EEL-UK Origination =01) London
+Derek J. Davies, ENA (EWS) Canada Origination =01) Calgary
+Mark D. Davis, Jr., ENA (EWS) East Power Trading =01) Houston
+Charles Delacey, Corporate Finance =01) Houston
+Paul Devries, ENA (EWS) Canada Origination =01) Toronto
+Christopher H. Foster, ENA (EWS) West Power Trading =01) Portland
+Jeffrey F. Golden, EES Corporate Development =01) Houston
+Michael D. Grigsby, ENA West Gas Trading Group - Houston
+Troy A. Henry, EES Bundled Sales-Heavy Industrial =01) Houston
+Rogers Herndon, ENA (EWS) East Power Trading =01) Houston
+James W. Lewis, EES Underwriting =01) Houston
+Christopher Mahoney, EGM (EWS) Liquids Trading =01) London
+Andrew Marsden, EBS Broadband Ventures =01) London
+John McClain, EBS Broadband Wholesale Origination =01) Houston
+Kevin J. McGowan, EGM (EWS) American Coal =01) Houston
+Albert E. McMichael, Jr., ENA (EWS) Gas Commodity Structuring =01) Houston
+Ermes I. Melinchon, Central America Origination =01) Houston
+Steven R. Meyers, EES Consumption =01) Houston
+Lloyd D. Miller, ENA (EWS) Portfolio Management =01) Houston
+Michael A. Miller, Wind Development / Execution-General Administration =01)=
+=20
+Houston
+Marcello Romano, EBS EEL-Broadband Trading =01) London
+David A. Samuels, ENW (EWS) EnronOnline - Houston
+Per A. Sekse, EGM (EWS) Global Risk Markets =01) New York
+Edward S. Smida, EBS Video on Demand =01) Houston
+Mark Tawney, EGM (EWS) Weather Trading =01) Houston
+Jon Thomsen, EBS Business Development =01) Latin America/Canada =01) Portla=
+nd
+Barry L. Tycholiz, ENA (EWS) West Gas Origination - Houston
+Frank W. Vickers, ENA (EWS) East Gas Origination =01) Houston
+Amit Walia, Corporate, Corporate Development =01) Houston
+William White, EBS Global Bandwidth Risk Mgmt =01) Houston
+Jonathan Whitehead, EEL EA Trading =01) Japan
+Mark Whitt, ENA (EWS) West Gas Origination =01) Denver
+John A. Zufferli, ENA (EWS) Canada Power Trading - Calgary
+
+Vice President =01) Commercial Support
+
+Beth Apollo, EEL Financial Operations Executive =01) London
+Marla Barnard, EBS Human Resources =01) Houston
+Karen L. Denne, Corporate, Public Relations =01) Houston
+Georganne M. Hodges, ENA (EWS) Trading, Origination & Power Plant Accountin=
+g=20
+=01) Houston
+Phillip Lord, EEL Transaction Support =01) London
+Peggy Mahoney, EES Marketing =01) Communication =01) Houston
+Steven Montovano, Corporate, Government & Regulatory Affairs =01) Dublin
+Laura Scott, ENA (EWS) Canada Accounting =01) Calgary
+Richard C. Sherman, ENA (EWS) Transaction Support =01) Houston
+Gregory W. Stubblefield, EES Financial Planning & Reporting =01) Houston
+Dennis D. Vegas, CALME International Public Relations =01) Houston
+
+Vice President =01) Specialized Technical=20
+
+Sami Arap Sobrinho, ESA (EWS) Legal =01) Houston
+Merat Bagha, EBS Sales Engineering =01) Houston
+Justin Boyd, EEL Legal =01) London
+Mary Nell Browning, EBS Legal =01) London
+Jonathan Chapman, EEL Legal =01) London
+Robert D. Eickenroht, Corporate, Legal =01) Houston
+Mark Evans, EEL Legal =01) London
+David Forster, ENW (EWS) EnronOnline =01) Houston
+Janine Juggins, EEL Tax =01) London
+Peter C. Keohane, ENA (EWS) Canada Legal =01) Calgary
+Pinnamaneni V. Krishnarao, ENA (EWS) Research Group =01) Houston
+Travis C. McCullough, ENA (EWS) Finance Origination, Mergers/Acquisitions =
+=01)=20
+Houston
+Michael Popkin, ESA (EWS) SA- Risk Management/Network Integration =01) Hous=
+ton
+Elizabeth A. Sager, ENA (EWS) Physical Trading =01) Houston
+Richard B. Sanders, ENA (EWS) Litigation =01) Houston
+John W. Schwartzenburg, EECC Legal =01) Houston
+Michael D. Smith, EES Legal =01) Houston
+Marcus Vonbock Und Polach, EEL Legal =01) London
+Jay C. Webb, ENW (EWS) EnronOnline Systems =01) Houston
+
+Vice President =01) Technical
+
+Donald R. Hawkins, ETS Quality Management =01) Houston
+John R. Keller, ETS Engineering & Construction =01) Houston
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <22589688.1075859178467.JavaMail.evans@thyme>
+Date: Fri, 23 Feb 2001 08:41:16 -0800 (PST)
+From: james.j.dailey@accenture.com
+To: mike.haney@enron.com
+Subject: Accenture Draft of potential transaction
+Cc: david.berberian@enron.com, harry.arora@enron.com, suresh.raghavan@enron.com,
+	jeff.bartlett@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: david.berberian@enron.com, harry.arora@enron.com, suresh.raghavan@enron.com,
+	jeff.bartlett@enron.com
+X-From: james.j.dailey@accenture.com@ENRON <IMCEANOTES-james+2Ej+2Edailey+40accenture+2Ecom+40ENRON@ENRON.com>
+X-To: Haney, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MHANEY>
+X-cc: kenny.w.baldwin@accenture.com, paul.e.primavera@accenture.com, christopher.brousseau@accenture.com, Shelby, Rex </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RSHELBY>, Berberian, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DBERBERI>, Arora, Harry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=HARORA>, Raghavan, Suresh </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SRAGHAVA>, Bartlett, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JBARTLE>
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+
+(See attached file: enron_2_23.ppt)
+
+Mike
+Thanks for your discussion doc.  Ours is attached.
+
+Talk to you in 10!
+
+Jim
+
+This message is for the designated recipient only and may contain
+privileged or confidential information.  If you have received it in error,
+please notify the sender immediately and delete the original.  Any other
+use of the email by you is prohibited.
+
+ - enron_2_23.ppt 
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <23424721.1075859178238.JavaMail.evans@thyme>
+Date: Fri, 23 Feb 2001 08:36:42 -0800 (PST)
+From: danielle.marcinkowski@enron.com
+To: harry.arora@enron.com
+Subject: FW: Harry Arora
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Marcinkowski, Danielle </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DMARCIN>
+X-To: Arora, Harry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Harora>
+X-cc: 
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+
+
+ -----Original Message-----
+From: 	"Becky McGraw" <becky@cqg.com>@ENRON [mailto:IMCEANOTES-+22Becky+20McGraw+22+20+3Cbecky+40cqg+2Ecom+3E+40ENRON@ENRON.com] 
+Sent:	Friday, February 23, 2001 10:38 AM
+To:	Marcinkowski, Danielle
+Subject:	Harry Arora
+
+
+Hi Danielle,
+ 
+Harry is ready to  go:
+ 
+User name:  Harry  Arora
+Password:   53690
+ 
+The old system will stay on  for a week to allow you to grab his pages.
+ 
+Thanks!
+ 
+Becky
+  
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <15478043.1075859178327.JavaMail.evans@thyme>
+Date: Wed, 21 Feb 2001 12:51:00 -0800 (PST)
+From: suresh.raghavan@enron.com
+To: harry.arora@enron.com, jeff.bartlett@enron.com, rex.shelby@enron.com
+Subject: Re: Your Powerpoint presentation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Suresh Raghavan <Suresh Raghavan/Corp/Enron@ENRON>
+X-To: Harry Arora <Harry Arora/HOU/ECT@ECT>, Jeff Bartlett <Jeff Bartlett/HOU/ECT@ECT>, Rex Shelby <Rex Shelby/NA/Enron@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+FYI...
+---------------------- Forwarded by Suresh Raghavan/Corp/Enron on 02/21/2001 08:48 AM ---------------------------
+
+
+christopher.brousseau@accenture.com on 02/20/2001 11:54:27 PM
+To:	Suresh.Raghavan@enron.com
+cc:	james.j.dailey@accenture.com 
+
+Subject:	Re: Your Powerpoint presentation
+
+
+
+Suresh,
+
+Thanks for your note - I enjoyed the afernoon as well... Our presentation
+is attached as you requested - I look forward to talking with you again on
+Friday.
+
+Chris
+
+     (See attached file: enron_2_20.ppt)
+
+
+
+Suresh.Raghavan@enron.com
+02/20/2001 06:09 PM CST
+
+To:   cristopher.brousseau
+cc:
+Subject:  Your Powerpoint presentation
+
+
+Chris:
+
+Thank you very much for spending the time with us this afternoon.  Harry,
+Jeff and I found your presentation very informative and look frward to
+continuing the discussions with you and Jim on Friday.  In this vein, could
+I please ask you to send me a copy of your presentation?  Thanks in advance
+and best regards.  SR:-)
+
+
+
+
+This message is for the designated recipient only and may contain
+privileged or confidential information.  If you have received it in error,
+please notify the sender immediately and delete the original.  Any other
+use of the email by you is prohibited.
+
+ - enron_2_20.ppt 
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <11747217.1075859178282.JavaMail.evans@thyme>
+Date: Thu, 25 Jan 2001 22:03:00 -0800 (PST)
+From: bob.shults@enron.com
+To: harry.arora@enron.com, jeff.bartlett@enron.com
+Subject: Transaction Data Feed - Average Trades
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Bob Shults <Bob Shults/HOU/ECT@ECT>
+X-To: Harry Arora <Harry Arora/HOU/ECT@ECT>, Jeff Bartlett <Jeff Bartlett/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+Here are the average daily trade counts for Novembner and December
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <29916815.1075848346327.JavaMail.evans@thyme>
+Date: Fri, 26 Jan 2001 08:21:00 -0800 (PST)
+From: rahil.jafry@enron.com
+To: harry.arora@enron.com
+Subject: AG Presentation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Rahil Jafry
+X-To: Harry Arora
+X-cc: 
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+FYI only - the agriculture documents....
+
+---------------------- Forwarded by Rahil Jafry/HOU/ECT on 01/26/2001 04:20 
+PM ---------------------------
+
+
+Patrick Conner
+01/26/2001 02:43 PM
+To: rahil.jafry@enron.com
+cc:  
+Subject: AG Presentation
+
+
+---------------------- Forwarded by Patrick Conner/HOU/ECT on 01/26/2001 
+02:43 PM ---------------------------
+
+
+Darren Maloney@ENRON
+12/13/2000 08:24 PM
+To: Mark Wadlington/NA/Enron@ENRON
+cc: Patrick Conner/HOU/ECT@ECT 
+
+Subject: AG Presentation  
+
+Here is McKinsey's work.  Broad overview only, with no specific analysis of 
+grains, meats or softs.  Priorities here are grains, then meats, and 
+separately 
+softs given our existing exposure to this segment (53k Tons of Cocoa Physical,
+Softs Brokerage Business in London).
+
+Mark, I would encourage you to come down to 29 (assuming you are on 33) and
+we will be more than happy to share all of our resources to get you up to 
+speed
+on our analysis and why we think these segments hold a lot of opportunity.
+
+Regards,
+Darren Maloney
+
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <22555204.1075859178149.JavaMail.evans@thyme>
+Date: Tue, 23 Jan 2001 16:21:00 -0800 (PST)
+From: dave.samuels@enron.com
+To: harry.arora@enron.com, michael.bridges@enron.com, leonardo.pacheco@enron.com
+Subject: Re API for Enron Online
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Dave Samuels <Dave Samuels/HOU/ECT@ECT>
+X-To: Harry Arora <Harry Arora/HOU/ECT@ECT>, Michael Bridges <Michael Bridges/NA/Enron@ENRON>, Leonardo Pacheco <Leonardo Pacheco/Corp/Enron@Enron>
+X-cc: 
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+here is another request for a direct EOL data feed.  We should figure out how we want to respond to such inquiries.  I have never heard of this company before.
+
+Dave
+
+
+
+----- Forwarded by Dave Samuels/HOU/ECT on 01/23/2001 12:20 PM -----
+
+
+	Graham Mansfield <gmansfield@kalahari.co.uk> 01/23/2001 05:47 AM 	   To: "'dave.samuels@enron.com'" <dave.samuels@enron.com>  cc:   Subject: Re API for Enron Online	
+
+
+
+Good Day to you.
+I would like to introduce myself and my company.
+Kalahari Ltd is a UK based software company that has for the past 14
+years been supply pricing software to the Financial Markets.
+Over the past year we have been branching out into the energy markets
+and are currently working for a number of UK based Electricity
+companies.
+One such company (London Electricity) has asked us to produce software
+to filter and highlight online trading prices. This allows them to see
+ONLY the best price in the market for any one product at a time. This is
+due to the sudden explosion of internet based price delivery systems. To
+enable us to acieve their requirements we require an API to the relative
+online trading systems. Today I spoke to a gentlemen in your call centre
+who gave me your contact details. Could you please advise me if you do
+indeed publish an API to your internet trading platform and if so how do
+I go about getting it.
+We would of course be prepared to sign a non disclosure agreement in
+this respect.
+
+I look forward to hearing from you in due course.
+
+With kind regards
+
+Graham Mansfield
+Deputy Managing Director
+
+Kalahari Limited
+Tel: +44 (0)1483 756246
+Fax:+44 (0)1483 756300
+
+www.kalahari.co.uk
+
+
+> **********************************************************************
+> *********
+> The information in this Internet e-mail is confidential and may be
+> legally privileged.  It is intended solely for the addressee.  Access
+> to this Internet e-mail by anyone else is unauthorised and any
+> disclosure, copying, distribution or any action taken or omitted to be
+> taken in reliance on it, is prohibited and may be unlawful.
+>
+> Any views expressed in this message are those of the individual sender
+> except where they are stated to be the views of Kalahari Ltd.
+> **********************************************************************
+> *********
+> 
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <30574427.1075859178374.JavaMail.evans@thyme>
+Date: Tue, 13 Feb 2001 19:11:00 -0800 (PST)
+From: philippe.bibi@enron.com
+To: paul.e.primavera@accenture.com
+Subject: Re: DealBench
+Cc: harry.arora@enron.com, greg.piper@enron.com, kenny.w.baldwin@accenture.com,
+	james.j.dailey@accenture.com, peggy.mccurley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: harry.arora@enron.com, greg.piper@enron.com, kenny.w.baldwin@accenture.com,
+	james.j.dailey@accenture.com, peggy.mccurley@enron.com
+X-From: Philippe A Bibi <Philippe A Bibi/HOU/ECT@ECT>
+X-To: paul.e.primavera <paul.e.primavera@accenture.com>
+X-cc: Harry Arora <Harry Arora/HOU/ECT@ECT>, Greg Piper <Greg Piper/Enron@EnronXGate>, kenny.w.baldwin <kenny.w.baldwin@accenture.com>, james.j.dailey <james.j.dailey@accenture.com>, Peggy McCurley <Peggy McCurley/Enron@EnronXGate>
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+Paul,
+
+I would be happy to meet on Tuesday maybe I could host you guys for lunch here and we could spend
+the afternoon looking at possibilities.
+
+I have asked Peggy my Assistant to keep Tuesday open as of noon.
+
+Looking forward to meeting on Tuesday.
+
+Kind Regards,
+
+P.
+
+
+
+
+
+
+
+paul.e.primavera@accenture.com on 02/13/2001 10:02:06 AM
+To:	philippe.a.bibi@enron.com
+cc:	kenny.w.baldwin@accenture.com, james.j.dailey@accenture.com 
+Subject:	DealBench
+
+
+Philippe,
+
+Thank you for presenting us with the opportunity to work with Enron around
+the DealBench play. Since we last met we have been busy promoting the idea
+of working with Enron on DealBench to our Supply Chain Service Line
+leadership partners.   I believe we have convinced them that there is a
+nice fit between Deal Bench and our own Auction Services play (known as
+Dynamic Pricing Solutions or DPS).  We would like to get back together with
+you and your team early next week, preferably Monday afternoon and Tuesday
+to sort through the potential shape of an ongoing arrangement.  We believe
+the combination of Accenture's relationships, assets and book of business
+in the Auction Services space creates a tremendous platform for helping
+Enron generate value from your DealBench investment.  Our DPS group
+provides a ready made model for bringing Auction Services to the market
+place in a way that fully leverages our 15,000+ supply chain resources.
+
+As you and your team pointed out there are many options to forming a
+relationship going forward.  During our meetings with you we would like to
+further explore the manner in which we might work together to collectively
+service the marketplace.   The possibilities to consider would be the items
+you listed in the packet you shared with us:
+
+     DealBench/Accenture Marketing Alliance
+     DealBench/Accenture Special Purpose Vehicle
+
+Our initial view is that the Special Purpose Vehicle is likely to be the
+optimum structure.  This view is based on the fact that we both have
+similar assets, resources and market potential that would likely fit
+together in a combination of some kind very well.  We see working together
+but with separate competitive offerings or simply the addition of another
+tool to our offering as limiting over the long term.
+
+As a path forward, I have asked our DPS group to work with us to develop a
+synergistic play.  They are available early next week to provide you and
+your team an overview of the offerings we are currently providing to the
+marketplace.  After we demonstrate our DPS offering we can discuss the
+appropriate aspects of the Special Purpose Vehicle and if appropriate
+determine the go forward approach.  It is our view that both parties would
+assign dedicated resources to drive out the structure, business plan
+(including offering scope, operating model, cost estimates, capital
+requirements) and overall initial contributions of the parties.  We think
+this effort could be completed in 1 or 2 weeks at most.
+
+We are excited about the possibilities of working with Enron on this
+initiative and appreciate your willingness to work with Accenture.  I will
+be calling you later today to set-up the logistics for the discussions next
+week.  I will ask our people to come to Houston for these meetings.  In the
+meantime you can reach me at 713-837-2406.
+
+
+Regards,
+
+
+Paul
+
+
+This message is for the designated recipient only and may contain
+privileged or confidential information.  If you have received it in error,
+please notify the sender immediately and delete the original.  Any other
+use of the email by you is prohibited.
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <27435078.1075848346304.JavaMail.evans@thyme>
+Date: Fri, 26 Jan 2001 10:10:00 -0800 (PST)
+From: ross.mesquita@enron.com
+To: harry.arora@enron.com, suresh.raghavan@enron.com
+Subject: EES - Phase I - Thrid Party Supply
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Ross Mesquita
+X-To: Harry Arora, Suresh Raghavan
+X-cc: 
+X-bcc: 
+X-Folder: \Harpreet_Arora_Nov2001\Notes Folders\Savedmail
+X-Origin: ARORA-H
+X-FileName: harora.nsf
+
+Looks like EES has pretty much decided to use us for this RFQ (see the Word 
+doc attached below) -- remember that we have a meeting scheduled with EES on 
+Monday to discuss a "realtionship" and pricing.  Let's make sure before our 
+meeting that we are all in agreement as to the pricing approach we will take 
+with them.
+
+RM  
+---------------------- Forwarded by Ross Mesquita/NA/Enron on 01/26/2001 
+06:07 PM ---------------------------
+   
+	
+	
+	From:  Samuel Harrell @ EES                           01/26/2001 03:34 PM
+	
+
+To: Javier Gallo/HOU/EES@EES, Dag Joraholmen/HOU/EES@EES, L Michelle 
+Foust/HOU/EES@EES, Scott Layne/HOU/EES@EES, Michael O Brown/HOU/EES@EES, 
+Peter Johnston/HOU/EES@EES, Christopher Wheeler/HOU/EES@EES, Bryan 
+Gee/HOU/EES@EES, Charles Allured/Western Region/The Bentley Company@Exchange
+cc: Jerry Zeleny/HOU/EES@EES, Wayne Truxillo/HOU/EES@EES, Jess 
+Galura/HOU/EES@EES, Brad J Snyder/HOU/EES@EES, Maria Gonzalez/HOU/EES@EES, 
+Ross Mesquita/NA/Enron@ENRON, Chris Holmes/HOU/EES@EES 
+
+Subject: Phase I - Thrid Party Supply
+
+Refer to meeting notes for update/status of third party supply process.
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <748585.1075859178721.JavaMail.evans@thyme>
+Date: Mon, 19 Mar 2001 11:39:13 -0800 (PST)
+From: paguilarp@hotmail.com
+To: harry.arora@enron.com
+Subject: Re: Glad I found you!
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: "Pilar Maria Aguilar" <paguilarp@hotmail.com>@ENRON <IMCEANOTES-+22Pilar+20Maria+20Aguilar+22+20+3Cpaguilarp+40hotmail+2Ecom+3E+40ENRON@ENRON.com>
+X-To: Arora, Harry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=HARORA>
+X-cc: 
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+Right! Forgot to send you my phone. We are in Mexico City (surrounded by
+Zapatistas and all). Here it is:
+011-52 (5) 259-3773
+Did you send me yours?  I believe you did, but could you send it again?
+Thxs.
+Say hi to Nicole as well.
+Pilar
+----- Original Message -----
+From: "Arora, Harry" <Harry.Arora@ENRON.com>
+To: "Pilar Maria Aguilar" <paguilarp@hotmail.com>
+Sent: Monday, March 19, 2001 5:34 PM
+Subject: RE: Glad I found you!
+
+
+Ho Ho Ho !! Good to hear and am very happy for you. I must confide, I
+myself want to take some time off in the next few years. Thats what I
+tell Nicole, she is going to have the baby, I dont mind raising him or
+her.  How is life in Mexico city (you all are there, right ?)
+
+Say hi to Juan.
+
+Harry
+
+
+PS - Let me have your phone number - would love to chat.
+
+
+
+
+
+
+
+
+>  -----Original Message-----
+> From: "Pilar Maria Aguilar" <paguilarp@hotmail.com>@ENRON
+> [mailto:IMCEANOTES-+22Pilar+20Maria+20Aguilar+22+20+3Cpaguilarp+40hotm
+> ail+2Ecom+3E+40ENRON@ENRON.com]
+> Sent: Monday, March 19, 2001 1:13 PM
+> To: harora@enron.com
+> Subject: Glad I found you!
+>
+>
+> Dear Harry,
+>
+> It is great to hear that you are doing so well!  Every now and then I
+> think of you too, specially when I recall those good old UT  times.
+> You are engaged! That?s really nice.  So, when  is the wedding?
+> On my side, there are lots of news.  I  re-married a little over a
+> year ago, to this GREAT guy whose name is Juan  Alberto. He is also a
+> consultant (as I was) at McKinsey, who I met in  1998.  We are really
+> happy (We are ecstatic!) and are planning on getting  pregnant this
+> year.
+> Professionally, I am taking a sabatical.   After I left McKinsey in
+> 1998 (at the time I had little energy to keep up with  the
+> consultant?s life style) I joined SatMex (the Mexican Satellite
+> operator)  and headed its Corporate Development Division.  Last year I
+> quit that  job and moved to Miami (Juan Alberto was transferred for a
+> year), where I helped  some friends with their e-business on a
+> part-time basis.  Back in Mexico I  decided to take a sabatical in
+> order to pursue our family plans.  That  is the current state.
+>
+> I am really happy to be in touch with you again.  Lets keep those
+> e-mails flowing.
+>
+> Regards,
+>
+> Pilar
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <32472877.1075859177618.JavaMail.evans@thyme>
+Date: Tue, 20 Feb 2001 14:35:00 -0800 (PST)
+From: advapl@vsnl.com
+To: harora@ect.enron.com
+Subject: Hi
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: MURARKA  <advapl@vsnl.com>
+X-To: harpreet  <harora@ect.enron.com>
+X-cc: 
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+
+ 
+Dear Harry,
+ 
+Hi How are you.
+ 
+Long time since heard from you.
+ 
+Things are fine at my end. I became father for the second time. A daughter  was born to us on 31st January. Both mother and baby are fine. Yet to finalise a  name for her.
+ 
+So how are you doing.  do reply
+ 
+Love,
+ 
+MUKUL MURARKA
+ 
+ 
+ 
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:20:29 2022
+Message-ID: <19543270.1075859178421.JavaMail.evans@thyme>
+Date: Fri, 26 Jan 2001 20:21:00 -0800 (PST)
+From: zachary.streight@enron.com
+To: john.spitz@enron.com
+Subject: DataRoom Specification
+Cc: suresh.raghavan@enron.com, harry.arora@enron.com, tobias.munk@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: suresh.raghavan@enron.com, harry.arora@enron.com, tobias.munk@enron.com
+X-From: Zachary Streight <Zachary Streight/ENRON@enronXgate@ENRON>
+X-To: John Spitz <John Spitz/NA/Enron@Enron>
+X-cc: Suresh Raghavan <Suresh Raghavan/Corp/Enron@Enron>, Harry Arora <Harry Arora/HOU/ECT@ECT>, Tobias Munk <Tobias Munk/HOU/ECT@ECT>
+X-bcc: 
+X-Folder: \Harry_Arora_Jan2002\Arora, Harry\SavedMail
+X-Origin: Arora-H
+X-FileName: harora (Non-Privileged).pst
+
+John,
+
+I have attached a link to the first iteration of the DataRoom spec.  Due to all the screen shots, the file is too large to email.  Please review the document and I am fully available to try and answer all of the questions that will arise.  Tobias and I reviewed what we had come up with with Suresh this morning.  He added some good insights that have been incorporated into the document.  There still are some outstanding issues (noted in the document), but this should provide a detailed starting point for the development of the DataRoom.
+
+Take a read and let me know when you want to meet.
+
+Thanks,
+Zach
+
+\\enehou\houston\common\directfinance\dataroom\DR_spec_v1.doc
+

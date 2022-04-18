@@ -1,0 +1,861 @@
+From MAILER-DAEMON Mon Apr 18 14:21:02 2022
+Message-ID: <14317439.1075853054056.JavaMail.evans@thyme>
+Date: Fri, 21 Sep 2001 13:12:32 -0700 (PDT)
+From: steven.january@enron.com
+To: shelley.corman@enron.com, lynn.blair@enron.com, gary.kenagy@enron.com,
+	dale.ratliff@enron.com, mike.bryant@enron.com,
+	bradley.holmes@enron.com, sheila.nacey@enron.com,
+	donna.scott@enron.com, rick.dietz@enron.com
+Subject: INGAA Conference Call
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: January, Steven </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SJANUARY>
+X-To: Corman, Shelley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Scorman>, Blair, Lynn </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lblair>, Kenagy, Gary </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gkenagy>, Ratliff, Dale </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dratlif>, Bryant, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbryant>, Holmes, Bradley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bholmes>, Nacey, Sheila </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Snacey>, Scott, Donna </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dscott1>, Dietz, Rick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rdietz>
+X-cc: 
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\DRA Info
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+Dale and I joined in on an INGAA conference call this morning. There were many parties (maybe 30) on the line, but I didn't hear anyone else identify themselves from Enron. The topic of the call was enhanced security for facilities in light of the recent events, and a small discussion related to the recent "worm" problems. The discussion was led by Terry Boss and someone named Greg from INGAA, whose last name I didn't catch. 
+The gist of the meeting was that there has been a Security Task Group identifed. Names and companies participating were not given on the call.   
+INGAA wants the goal of this group to achieve consistent and effective communications to the various Government agencies with regard to steps being taken to enhance security. The agencies identified that will have a say in this are: DOT, DOE, FERC, and the new Home Defense agency.
+Four other goals were listed: 1) Determine how to achieve cost recovery
+			      2) Share Best Practices
+		                  3) Research and Development
+			      4) Public Communication and Education
+
+There was a discussion to determine if companies would be willing to share best practices in this area. Several companies, Iroquois, Williston Basin, Trans Canada, Williams, El Paso, Duke indicated that they would be willing to share. At that point several companies volunteered what they have done. It ranged from the extreme--Iroquois is manning all facilities, putting new and tougher chains and locks on valves and gates, security cameras at all facilities, etc. to El Paso, which indicated they are studying several things but for the most part they are on "heightened awareness." 
+
+Concerning the virus or worm in the SCADA system, it appears that systems utilizing UNIX are vulnerable if they also have some interaction with the Internet. No solution or fix was discussed. The effects of contamination are missing data from the RTU's and inability to send setpoints.
+
+Steve
+
+From MAILER-DAEMON Mon Apr 18 14:21:02 2022
+Message-ID: <14372866.1075853054087.JavaMail.evans@thyme>
+Date: Tue, 9 Oct 2001 21:03:50 -0700 (PDT)
+From: no.address@enron.com
+Subject: Security Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+X-From: Steve Kean@ENRON
+X-To: All Enron Worldwide@ENRON <??SAll Enron Worldwide@ENRON>
+X-cc: 
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\DRA Info
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+
+Enron has been increasing security at its facilities around the world.  Som=
+e of the changes took effect immediately (e.g. additional security personne=
+l) and some are phasing in.  While not all of the changes will be visible, =
+there are a few that will have an impact on everyday activities.  In all th=
+e steps we take and recommendations we make, we will be making our faciliti=
+es and systems more secure and endeavoring to increase your sense of securi=
+ty, while doing our best to minimize disruption to our day-to-day business.
+
+Primary responsibility for Enron Corp. Security resides in our business con=
+trols organization.  You can contact this organization through their websit=
+e (<http://home.enron.com/security>), by phone (713-345-2804), or by email =
+(CorporateSecurity@enron.com <mailto:CorporateSecurity@enron.com>).  John B=
+rindle, Senior Director, Business Controls, leads this organization.  Pleas=
+e feel free to provide John and his team with your comments and questions, =
+or to report security threats.
+
+We have two areas to update you on:  changes in the access procedures for t=
+he Enron Center Campus in Houston and changes to our travel advisory.
+
+Access to the Enron Center
+
+Over the next few days, the following access control procedures will be ins=
+tituted at the Enron Center (and other facilities where practical):
+
+?=09As employees swipe their badges at the card readers to enter the Enron =
+Center, a guard will match the photo on the badge to the bearer.
+
+?=09Employees and contractors who forget their badges must present a valid =
+picture ID to obtain access to the Enron Center (U.S. driver's license, U.S=
+. or foreign passport, or some form of U.S. federal, state or local identif=
+ication).=20
+
+?=09Visitors to the Enron Center must produce a valid photo ID when signing=
+ in at the lobby reception desk and must completely fill out the visitor ca=
+rd.  Adult visitors without a valid photo ID (U.S. driver's license, U.S. o=
+r foreign passport, or some form of U.S. federal, state or local identifica=
+tion) will not be allowed access to the Enron Center.
+
+?=09Visitors to Enron facilities must be escorted by an Enron employee or b=
+adged contractor at all times.
+
+?=09Visitors to the Enron Center will be met in the lobby by an Enron emplo=
+yee or badged contractor, signed into a visitor's log at the lobby receptio=
+n area by the employee or badged contractor, and escorted to their appointm=
+ent.  At the conclusion of the appointment, the visitor will be escorted to=
+ the lobby by an employee or badged contractor, the visitor badge collected=
+, and the visitor signed out in the log at the plaza reception area by the =
+escorting employee or badged contractor.
+
+?=09Employees are also being asked to participate in the security of their =
+workplace by following these guidelines; report suspicious activity to Secu=
+rity (phone 3-6300), do not open secured doors for individuals unknown to y=
+ou or hold doors open, allowing "tail gating" by others.
+
+These will be the first in a series of new security procedures to be instit=
+uted at Enron.  We ask that all employees be patient during congested times=
+ in the lobby.  As we proceed and obtain increased guard personnel and equi=
+pment, we expect the inconvenience to decrease.  We hope you understand the=
+se measures are being instituted for the security of all our employees. =09
+
+
+Travel Advisory Update
+
+With the beginning of retaliatory strikes, we have two important recommenda=
+tions:
+
+?=09While the retaliatory strikes are ongoing, corporate security recommend=
+s that travel through or to the Middle East be avoided.  We continue to str=
+ongly recommend that all travel during this time to Afghanistan, Yemen, Pak=
+istan, Indonesia, Iran, Iraq, Sudan, Somalia, Tajikistan, Turkmenistan, Geo=
+rgia, and the Kyrgyz Republic be canceled.  In addition, we recommend that =
+planned travel to Egypt, Israel, Gaza/West Bank, Jordan, Lebanon, Saudi Ara=
+bia, Syria, and Algeria be very carefully considered.
+
+?=09For non-U.S. citizens traveling in the United States, corporate securit=
+y recommends that you carry documentation.  There have been several recent =
+reports of non-U.S. citizens who reside in the United States being question=
+ed and asked for documentation when boarding U.S. domestic flights. As a re=
+sult, we suggest that all non-U.S. citizens who currently reside in the Uni=
+ted States - and who do not have Permanent Resident Alien status - carry th=
+eir passport, Form I-94 and Form I-797 at all times.  We would also suggest=
+ that Permanent Resident Aliens carry their Permanent Resident (Green) Card=
+ as proof of their status as a precautionary measure.  It appears that Immi=
+gration Officials may be applying a section of the Immigration and National=
+ity Act that requires individuals over the age of 18 to carry his/her "regi=
+stration" documentation with them at all times. This can include a Permanen=
+t Resident Card, Form I-94 card, Employment Authorization Card, Border Cros=
+sing Card, or a Temporary Resident Card. Immigration Officials have not his=
+torically been asking domestic travelers for "registration" documentation, =
+but in light of the heightened security measures and current atmosphere, it=
+ would be best to be prepared with all of your documentation proving your c=
+urrent lawful status.
+
+We will keep you apprised of new information and developments on the Corpor=
+ate Security website and by e-mail, as appropriate.
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:02 2022
+Message-ID: <4844020.1075853053766.JavaMail.evans@thyme>
+Date: Wed, 19 Sep 2001 07:26:43 -0700 (PDT)
+From: toby.kuehl@enron.com
+To: karen.brostad@enron.com, elizabeth.brown@enron.com, alma.carrillo@enron.com,
+	zuela.carter@enron.com, martha.cormier@enron.com,
+	rick.dietz@enron.com, richard.hanagriff@enron.com,
+	dennis.lee@enron.com, linda.trevino@enron.com,
+	ramona.betancourt@enron.com, legale.black@enron.com,
+	mary.draemer@enron.com, deborah.dunten@enron.com,
+	theresa.hess@enron.com, tammy.jaquet@enron.com, toby.kuehl@enron.com,
+	maggie.matheson@enron.com, gerry.medeles@enron.com,
+	kim.perez@enron.com, james.studebaker@enron.com,
+	martha.benner@enron.com, deborah.cappiello@enron.com,
+	rosemary.gracey@enron.com, connie.hook@enron.com,
+	julie.mccoy@enron.com, virginia.o'neill@enron.com,
+	pilar.ramirez@enron.com, audrey.robertson@enron.com,
+	linda.wehring@enron.com, mike.barry@enron.com,
+	joni.bollinger@enron.com, janet.bowers@enron.com,
+	lorna.brennan@enron.com, bill.fowler@enron.com,
+	steve.gilbert@enron.com, tim.johanson@enron.com,
+	karen.lagerstrom@enron.com, laura.lantefield@enron.com,
+	w..mcgowan@enron.com, kent.miller@enron.com, dave.neubauer@enron.com,
+	frank.oldenhuis@enron.com, larry.pavlou@enron.com,
+	loren.penkava@enron.com, chris.sebesta@enron.com,
+	larry.swett@enron.com, chuck.wilkinson@enron.com,
+	jo.williams@enron.com, frank.semin@enron.com, bob.stevens@enron.com,
+	lisa.valley@enron.com, lynn.blair@enron.com,
+	shelley.corman@enron.com, bradley.holmes@enron.com,
+	steven.january@enron.com, sheila.nacey@enron.com,
+	donna.scott@enron.com, william.aldinger@enron.com,
+	dannis.bellard@enron.com, mike.bryant@enron.com,
+	karen.clapper@enron.com, marion.collins@enron.com,
+	galen.coon@enron.com, tim.cooper@enron.com, lanny.cramer@enron.com,
+	laura.giambrone@enron.com, jack.howard@enron.com,
+	lynda.laferla@enron.com, hilda.lindley@enron.com,
+	mary.phillips@enron.com, jesse.alvarado@enron.com,
+	roy.armitage@enron.com, rodney.barnes@enron.com,
+	sharon.brown@enron.com, steve.coash@enron.com,
+	jeffrey.cochran@enron.com, helen.cummings@enron.com,
+	michael.ellington@enron.com, jerry.graves@enron.com,
+	margaret.hall@enron.com, crandal.hardy@enron.com,
+	gaynel.henley@enron.com, robert.munson@enron.com,
+	dale.ratliff@enron.com, darrell.schoolcraft@enron.com,
+	ron.spain@enron.com, gary.spraggins@enron.com,
+	edward.welsh@enron.com, michael.bodnar@enron.com,
+	theresa.branney@enron.com, sue.neville@enron.com,
+	maria.perales@enron.com, kay.threet@enron.com, jean.adams@enron.com,
+	robert.benningfield@enron.com, larry.berger@enron.com,
+	jean.blair@enron.com, randy.bryan@enron.com, john.buchanan@enron.com,
+	craig.buehler@enron.com, nancy.callans@enron.com,
+	james.carr@enron.com, tangie.dykes@enron.com, jodie.floyd@enron.com,
+	sherry.forbish@enron.com, ava.garcia@enron.com,
+	chris.greaney@enron.com, bert.hernandez@enron.com,
+	randy.janzen@enron.com, terry.kowalke@enron.com,
+	joe.linhart@enron.com, maryann.locknar@enron.com,
+	janet.mcdaniel@enron.com, vernon.mercaldo@enron.com,
+	beverly.miller@enron.com, amy.mulligan@enron.com,
+	renee.perry@enron.com, diana.porter@enron.com,
+	cynthia.rivers@enron.com, debra.scurlock@enron.com,
+	kathy.sturr@enron.com, shirley.walden@enron.com,
+	linda.ward@enron.com, kathy.washington@enron.com,
+	jerry.wilkens@enron.com, ricki.winters@enron.com,
+	harry.woodson@enron.com, raetta.zadow@enron.com,
+	lindy.donoho@enron.com, steven.harris@enron.com,
+	lorraine.lindberg@enron.com, tk.lohman@enron.com,
+	kimberly.watson@enron.com, tracy.minter@enron.com
+Subject: Revised Customer Notice #2 9/19/01
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Kuehl, Toby </O=ENRON/OU=NA/CN=RECIPIENTS/CN=TKUEHL>
+X-To: Brostad, Karen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kbrosta>, Brown, Elizabeth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ebrown1>, Carrillo, Alma </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ACARRIL>, Carter, Zuela </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Zcarter>, Cormier, Martha </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mcormie>, Dietz, Rick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rdietz>, Hanagriff, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rhanagr>, Lee, Dennis </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dlee>, Trevino, Linda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ltrevino>, Betancourt, Ramona  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbetanc>, Black, Legale  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lblack2>, Draemer, Mary  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mdraeme>, Dunten, Deborah </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ddunten>, Hess, Theresa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Thess>, Jaquet, Tammy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tjaquet>, Kuehl, Toby </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tkuehl>, Matheson, Maggie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mmathes>, Medeles, Gerry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gmedele>, Perez, Kim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kperez>, Studebaker, James  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jstudeb>, Benner, Martha </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbenner>, Cappiello, Deborah </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dcappie>, Gracey, Rosemary </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rgracey>, Hook, Connie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Chook>, McCoy, Julie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmccoy>, O'Neill, Virginia <Virginia.O'Neill@ENRON.com>, Ramirez, Pilar </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pramire>, Robertson, Audrey </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Arobert>, Wehring, Linda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lwehrin>, Barry, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbarry>, Bollinger, Joni </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jbollin>, Bowers, Janet </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jbowers>, Brennan, Lorna </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lbrenna>, Fowler, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bfowler>, Gilbert, Steve </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sgilbe2>, Johanson, Tim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tjohans>, Lagerstrom, Karen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Klagers>, Lantefield, Laura </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Llantef>, McGowan, Mike W. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mmcgowa>, Miller, Kent </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kmiller2>, Neubauer, Dave </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dneubau>, Oldenhuis, Frank </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Foldenhu>, Pavlou, Larry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lpavlou>, Penkava, Loren </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lpenkav>, Sebesta, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Csebest2>, Swett, Larry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lswett>, Wilkinson, Chuck </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cwilkin>, Williams, Jo </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jwillia3>, Semin, Frank </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Fsemin>, Stevens, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bsteven2>, Valley, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lvalley>, Blair, Lynn </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lblair>, Corman, Shelley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Scorman>, Holmes, Bradley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bholmes>, January, Steven </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SJANUARY>, Nacey, Sheila </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Snacey>, Scott, Donna </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dscott1>, Aldinger, William </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Walding>, Bellard, Dannis </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dbellar>, Bryant, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbryant>, Clapper, Karen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KCLAPPE>, Collins, Marion </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mcollin>, Coon, Galen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gcoon>, Cooper, Tim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tcooper>, Cramer, Lanny </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jcramer>, Giambrone, Laura </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lgiambr>, Howard, Jack </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jhoward>, Laferla, Lynda  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Llaferl>, Lindley, Hilda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Hlindle>, Phillips, Mary </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mphilli2>, Alvarado, Jesse </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jalvara>, Armitage, Roy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rarmita>, Barnes, Rodney </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbarnes>, Brown, Sharon </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sbrown1>, Coash, Steve </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Scoash>, Cochran, Jeffrey </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jcochra>, Cummings, Helen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Hcummin>, Ellington, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Melling>, Graves, Jerry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jgraves>, Hall, Margaret </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mhall1>, Hardy, Crandal </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Chardy2>, Henley, Gaynel </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ghenley>, Munson, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rmunson>, Ratliff, Dale </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dratlif>, Schoolcraft, Darrell </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dschool>, Spain, Ron </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rspain>, Spraggins, Gary </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gspragg>, Welsh, Edward </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ewelsh>, Bodnar, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbodnar>, Branney, Theresa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tbranne>, Neville, Sue </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Snevill1>, Perales, Maria </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mperale>, Threet, Kay </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kthreet>, Adams, Jean </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jadams1>, Benningfield, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbennin>, Berger, Larry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lberger>, Blair, Jean </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jblair>, Bryan, Randy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbryan2>, Buchanan, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jbuchan2>, Buehler, Craig </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cbuehle>, Callans, Nancy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ncallan>, Carr, James </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jcarr2>, Dykes, Tangie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tdykes>, Floyd, Jodie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jfloyd>, Forbish, Sherry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sforbis>, Garcia, Ava </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Agarcia6>, Greaney, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cgreane>, Hernandez, Bert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ahernan>, Janzen, Randy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rjanzen>, Kowalke, Terry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tkowalk>, Linhart, Joe </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jlinhar>, Locknar, MaryAnn <MaryAnn.Locknar@ENRON.com>, McDaniel, Janet </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmcdani>, Mercaldo, Vernon </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vmercal>, Miller, Beverly </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bmiller1>, Mulligan, Amy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Amullig>, Perry, Renee </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kperry>, Porter, Diana </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dporter1>, Rivers, Cynthia </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Crivers>, Scurlock, Debra </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dscurloc>, Sturr, Kathy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ksturr>, Walden, Shirley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Swalden>, Ward, Linda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lward>, Washington, Kathy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kwashin>, Wilkens, Jerry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jwilken>, Winters, Ricki </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rwinter>, Woodson, Harry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Hwoodso>, Zadow, Raetta </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rzadow>, Donoho, Lindy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ldonoho>, Harris, Steven </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sharris1>, Lindberg, Lorraine </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Llindbe>, Lohman, TK </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tlohman>, Watson, Kimberly </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kwatson>, Minter, Tracy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tminter>
+X-cc: 
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\DRA Info
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+See attrached Notice sent to customers this morning.
+
+thx
+
+Toby
+
+From MAILER-DAEMON Mon Apr 18 14:21:02 2022
+Message-ID: <3103938.1075853053882.JavaMail.evans@thyme>
+Date: Wed, 19 Sep 2001 18:11:58 -0700 (PDT)
+From: 40enron@enron.com
+Subject: SECURITY TRAVEL UPDATE
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Corp Business Controls@ENRON <IMCEANOTES-Enron+20Corp+20Business+20Controls+40ENRON@ENRON.com>
+X-To: All Enron Worldwide@ENRON <??SAll Enron Worldwide@ENRON>
+X-cc: 
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\DRA Info
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+As we return to our regular business activities following last week's tragic events, we wanted to disseminate as widely as possible the following information on security and travel.  Updates will be posted as necessary under "bulletins" on the Corporate Security website located at www.home.enron.com.
+
+We do not believe that any terrorist groups will target Enron's employees or facilities.  As a precautionary measure, however, we have increased security in and around our facilities.  We urge all employees to maintain a heightened sense of awareness and to immediately report any suspicious activity to Enron Corporate Security in Houston at (713) 345-2804. 
+
+All non-essential business travel should be postponed until further notice.   Airline schedules and flights will be disrupted for some time - and bomb hoaxes, false alarms, and increased security measures will result in additional delays and disruptions.  In addition, all carriers, particularly U.S. carriers and those of U.S. allies such as Israel and NATO member countries, may be at risk for copycat hijackings.
+
+	We realize that, as Enron conducts its business, some air travel is unavoidable.   Enron employees who wish to discuss their travel options should contact Corporate Security at (713) 345-2804 or via email at CorporateSecurity@enron.com.   
+
+	U.S. military action in retaliation for the terrorist attacks may result in violent Islamic extremist reactions in a number of countries, particularly in Afghanistan, Yemen, and Pakistan, as well as in Egypt, Iran, Iraq, Israel, Gaza/West Bank, Jordan, Kuwait, Lebanon, Libya, Saudi Arabia, Sudan, Syria and Tajikistan.  Reactions could take the form of acts by individuals or organized groups against U.S. government or commercial facilities.  All travel to or through these countries should be canceled.
+
+Most of the U.S.' busiest airports have implemented the FAA's stepped-up security measures and are open and operating, with the exception of Washington Reagan National Airport.  If you are traveling by air, allow plenty of time to check in under these new security procedures.  Contact your carrier directly to find out about flight schedules and specific boarding requirements.  You can find more information on the new security standards as well as a list of airports that have certified they can meet the new security standards on the FAA's website at http://www.faa.gov. 
+
+From MAILER-DAEMON Mon Apr 18 14:21:02 2022
+Message-ID: <18315960.1075853053681.JavaMail.evans@thyme>
+Date: Tue, 18 Sep 2001 17:26:37 -0700 (PDT)
+From: toby.kuehl@enron.com
+To: lynn.blair@enron.com, shelley.corman@enron.com, rick.dietz@enron.com,
+	bradley.holmes@enron.com, steven.january@enron.com,
+	sheila.nacey@enron.com, donna.scott@enron.com
+Subject: FW: Revised ETS Notice
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Kuehl, Toby </O=ENRON/OU=NA/CN=RECIPIENTS/CN=TKUEHL>
+X-To: Blair, Lynn </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lblair>, Corman, Shelley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Scorman>, Dietz, Rick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rdietz>, Holmes, Bradley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bholmes>, January, Steven </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SJANUARY>, Nacey, Sheila </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Snacey>, Scott, Donna </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dscott1>
+X-cc: 
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\DRA Info
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+Notice #2 DONE!!!  see ya in the morning!!! EV1 may send snipers after me!!! If I'm not here you will know what happened!
+
+Toby
+
+-----Original Message-----
+From: ets1 [mailto:ets1@mail.ev1.net]
+Sent: Tuesday, September 18, 2001 7:18 PM
+To: TIBBETSP@EPENERGY.COM; TIM.MCCOLLOW@WEPCO.COM;
+timeibes@alliant-energy.com; tinag@cinergy.com; TIPTONNT@NETINS.NET;
+tjones@oneok.com; tjones@oneok.com; TJWILLIAMS@RELIANTENERGY.COM;
+TKINNEY@GIANT.COM; TKOWALK@ENRON.COM; TKSIMPSON@CSI.COM;
+TKUEHL@ENRON.COM
+Subject: Revised ETS Notice
+
+
+see attached
+ 
+
+________________________________________________________________
+Sent via the EV1 webmail system at mail.ev1.net
+
+
+ 
+                   
+
+From MAILER-DAEMON Mon Apr 18 14:21:02 2022
+Message-ID: <8757306.1075853054032.JavaMail.evans@thyme>
+Date: Fri, 21 Sep 2001 08:54:50 -0700 (PDT)
+From: toby.kuehl@enron.com
+To: ramona.betancourt@enron.com, legale.black@enron.com, mary.draemer@enron.com,
+	deborah.dunten@enron.com, theresa.hess@enron.com,
+	tammy.jaquet@enron.com, toby.kuehl@enron.com,
+	maggie.matheson@enron.com, gerry.medeles@enron.com,
+	kim.perez@enron.com, james.studebaker@enron.com,
+	martha.benner@enron.com, deborah.cappiello@enron.com,
+	rosemary.gracey@enron.com, connie.hook@enron.com,
+	julie.mccoy@enron.com, virginia.o'neill@enron.com,
+	pilar.ramirez@enron.com, audrey.robertson@enron.com,
+	linda.wehring@enron.com, mike.barry@enron.com,
+	joni.bollinger@enron.com, janet.bowers@enron.com,
+	lorna.brennan@enron.com, bill.fowler@enron.com,
+	steve.gilbert@enron.com, tim.johanson@enron.com,
+	karen.lagerstrom@enron.com, laura.lantefield@enron.com,
+	w..mcgowan@enron.com, kent.miller@enron.com, dave.neubauer@enron.com,
+	frank.oldenhuis@enron.com, larry.pavlou@enron.com,
+	loren.penkava@enron.com, chris.sebesta@enron.com,
+	larry.swett@enron.com, chuck.wilkinson@enron.com,
+	jo.williams@enron.com, frank.semin@enron.com, bob.stevens@enron.com,
+	lisa.valley@enron.com, lynn.blair@enron.com,
+	shelley.corman@enron.com, rick.dietz@enron.com,
+	bradley.holmes@enron.com, steven.january@enron.com,
+	sheila.nacey@enron.com, donna.scott@enron.com,
+	william.aldinger@enron.com, dannis.bellard@enron.com,
+	mike.bryant@enron.com, karen.clapper@enron.com,
+	marion.collins@enron.com, galen.coon@enron.com, tim.cooper@enron.com,
+	lanny.cramer@enron.com, laura.giambrone@enron.com,
+	jack.howard@enron.com, lynda.laferla@enron.com,
+	hilda.lindley@enron.com, mary.phillips@enron.com,
+	jesse.alvarado@enron.com, roy.armitage@enron.com,
+	rodney.barnes@enron.com, sharon.brown@enron.com,
+	steve.coash@enron.com, jeffrey.cochran@enron.com,
+	helen.cummings@enron.com, michael.ellington@enron.com,
+	jerry.graves@enron.com, margaret.hall@enron.com,
+	crandal.hardy@enron.com, gaynel.henley@enron.com,
+	robert.munson@enron.com, dale.ratliff@enron.com,
+	darrell.schoolcraft@enron.com, ron.spain@enron.com,
+	gary.spraggins@enron.com, edward.welsh@enron.com,
+	michael.bodnar@enron.com, theresa.branney@enron.com,
+	sue.neville@enron.com, maria.perales@enron.com, kay.threet@enron.com,
+	jean.adams@enron.com, robert.benningfield@enron.com,
+	larry.berger@enron.com, jean.blair@enron.com, randy.bryan@enron.com,
+	john.buchanan@enron.com, craig.buehler@enron.com,
+	nancy.callans@enron.com, james.carr@enron.com,
+	martha.cormier@enron.com, tangie.dykes@enron.com,
+	jodie.floyd@enron.com, sherry.forbish@enron.com,
+	ava.garcia@enron.com, chris.greaney@enron.com,
+	bert.hernandez@enron.com, randy.janzen@enron.com,
+	terry.kowalke@enron.com, joe.linhart@enron.com,
+	maryann.locknar@enron.com, janet.mcdaniel@enron.com,
+	vernon.mercaldo@enron.com, beverly.miller@enron.com,
+	amy.mulligan@enron.com, renee.perry@enron.com,
+	diana.porter@enron.com, cynthia.rivers@enron.com,
+	debra.scurlock@enron.com, kathy.sturr@enron.com,
+	shirley.walden@enron.com, linda.ward@enron.com,
+	kathy.washington@enron.com, jerry.wilkens@enron.com,
+	ricki.winters@enron.com, harry.woodson@enron.com,
+	raetta.zadow@enron.com, lindy.donoho@enron.com,
+	steven.harris@enron.com, lorraine.lindberg@enron.com,
+	tk.lohman@enron.com, kimberly.watson@enron.com,
+	tracy.minter@enron.com
+Subject: System Notice 9/21/01
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Kuehl, Toby </O=ENRON/OU=NA/CN=RECIPIENTS/CN=TKUEHL>
+X-To: Betancourt, Ramona  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbetanc>, Black, Legale  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lblack2>, Draemer, Mary  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mdraeme>, Dunten, Deborah </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ddunten>, Hess, Theresa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Thess>, Jaquet, Tammy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tjaquet>, Kuehl, Toby </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tkuehl>, Matheson, Maggie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mmathes>, Medeles, Gerry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gmedele>, Perez, Kim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kperez>, Studebaker, James  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jstudeb>, Benner, Martha </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbenner>, Cappiello, Deborah </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dcappie>, Gracey, Rosemary </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rgracey>, Hook, Connie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Chook>, McCoy, Julie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmccoy>, O'Neill, Virginia <Virginia.O'Neill@ENRON.com>, Ramirez, Pilar </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pramire>, Robertson, Audrey </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Arobert>, Wehring, Linda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lwehrin>, Barry, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbarry>, Bollinger, Joni </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jbollin>, Bowers, Janet </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jbowers>, Brennan, Lorna </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lbrenna>, Fowler, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bfowler>, Gilbert, Steve </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sgilbe2>, Johanson, Tim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tjohans>, Lagerstrom, Karen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Klagers>, Lantefield, Laura </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Llantef>, McGowan, Mike W. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mmcgowa>, Miller, Kent </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kmiller2>, Neubauer, Dave </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dneubau>, Oldenhuis, Frank </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Foldenhu>, Pavlou, Larry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lpavlou>, Penkava, Loren </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lpenkav>, Sebesta, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Csebest2>, Swett, Larry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lswett>, Wilkinson, Chuck </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cwilkin>, Williams, Jo </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jwillia3>, Semin, Frank </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Fsemin>, Stevens, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bsteven2>, Valley, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lvalley>, Blair, Lynn </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lblair>, Corman, Shelley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Scorman>, Dietz, Rick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rdietz>, Holmes, Bradley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bholmes>, January, Steven </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SJANUARY>, Nacey, Sheila </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Snacey>, Scott, Donna </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dscott1>, Aldinger, William </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Walding>, Bellard, Dannis </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dbellar>, Bryant, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbryant>, Clapper, Karen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KCLAPPE>, Collins, Marion </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mcollin>, Coon, Galen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gcoon>, Cooper, Tim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tcooper>, Cramer, Lanny </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jcramer>, Giambrone, Laura </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lgiambr>, Howard, Jack </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jhoward>, Laferla, Lynda  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Llaferl>, Lindley, Hilda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Hlindle>, Phillips, Mary </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mphilli2>, Alvarado, Jesse </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jalvara>, Armitage, Roy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rarmita>, Barnes, Rodney </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbarnes>, Brown, Sharon </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sbrown1>, Coash, Steve </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Scoash>, Cochran, Jeffrey </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jcochra>, Cummings, Helen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Hcummin>, Ellington, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Melling>, Graves, Jerry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jgraves>, Hall, Margaret </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mhall1>, Hardy, Crandal </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Chardy2>, Henley, Gaynel </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ghenley>, Munson, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rmunson>, Ratliff, Dale </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dratlif>, Schoolcraft, Darrell </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dschool>, Spain, Ron </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rspain>, Spraggins, Gary </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gspragg>, Welsh, Edward </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ewelsh>, Bodnar, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbodnar>, Branney, Theresa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tbranne>, Neville, Sue </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Snevill1>, Perales, Maria </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mperale>, Threet, Kay </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kthreet>, Adams, Jean </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jadams1>, Benningfield, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbennin>, Berger, Larry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lberger>, Blair, Jean </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jblair>, Bryan, Randy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbryan2>, Buchanan, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jbuchan2>, Buehler, Craig </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cbuehle>, Callans, Nancy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ncallan>, Carr, James </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jcarr2>, Cormier, Martha </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mcormie>, Dykes, Tangie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tdykes>, Floyd, Jodie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jfloyd>, Forbish, Sherry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sforbis>, Garcia, Ava </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Agarcia6>, Greaney, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cgreane>, Hernandez, Bert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ahernan>, Janzen, Randy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rjanzen>, Kowalke, Terry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tkowalk>, Linhart, Joe </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jlinhar>, Locknar, MaryAnn <MaryAnn.Locknar@ENRON.com>, McDaniel, Janet </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmcdani>, Mercaldo, Vernon </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vmercal>, Miller, Beverly </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bmiller1>, Mulligan, Amy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Amullig>, Perry, Renee </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kperry>, Porter, Diana </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dporter1>, Rivers, Cynthia </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Crivers>, Scurlock, Debra </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dscurloc>, Sturr, Kathy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ksturr>, Walden, Shirley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Swalden>, Ward, Linda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lward>, Washington, Kathy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kwashin>, Wilkens, Jerry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jwilken>, Winters, Ricki </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rwinter>, Woodson, Harry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Hwoodso>, Zadow, Raetta </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rzadow>, Donoho, Lindy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ldonoho>, Harris, Steven </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sharris1>, Lindberg, Lorraine </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Llindbe>, Lohman, TK </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tlohman>, Watson, Kimberly </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kwatson>, Minter, Tracy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tminter>
+X-cc: 
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\DRA Info
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+Attached verbiage was placed on the HotTap site as well as each individual companies website this morning.
+
+Toby
+
+9/21/01 10:30 a.m
+
+To ETS Customers:
+  
+ETS systems are operating normally and have been returned to the original operating mode.  
+
+Please call your Customer Services Representative or the HotTap Helpdesk (800 421-6221) if you have any questions.    
+
+From MAILER-DAEMON Mon Apr 18 14:21:02 2022
+Message-ID: <11823299.1075853053731.JavaMail.evans@thyme>
+Date: Tue, 18 Sep 2001 14:07:24 -0700 (PDT)
+From: toby.kuehl@enron.com
+To: shelley.corman@enron.com, bradley.holmes@enron.com, lynn.blair@enron.com,
+	rick.dietz@enron.com, sheila.nacey@enron.com,
+	steven.january@enron.com
+Subject: FW: ETS Customer Notice
+Cc: kim.perez@enron.com, helpdesk.hottap@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: kim.perez@enron.com, helpdesk.hottap@enron.com
+X-From: Kuehl, Toby </O=ENRON/OU=NA/CN=RECIPIENTS/CN=TKUEHL>
+X-To: Corman, Shelley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Scorman>, Holmes, Bradley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bholmes>, Blair, Lynn </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lblair>, Dietz, Rick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rdietz>, Nacey, Sheila </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Snacey>, January, Steven </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sjanuary>
+X-cc: Perez, Kim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kperez>, Hottap HelpDesk </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbx_hottapHD>
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\DRA Info
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+1326 e-mails were sent out with the attached notice               whew!!!!!!
+under a new e-mail account I set up on my account...ets1@ev1.net
+
+I bet ev1 is happy with me!!!!!   HA! Got my $10.00 worth this month!!!!!
+
+Toby
+
+-----Original Message-----
+From: ets1 [mailto:ets1@mail.ev1.net]
+Sent: Tuesday, September 18, 2001 3:37 PM
+To: RROLLINS@FLGAS.COM; rsnyd@city.lakeland.net; RSOMMERF@UTILICORP.COM;
+RSOUTHERLAND@ZEMEX.COM; RTABER@RICHLANDRESOURCES.COM;
+RTANGEMAN@KGAS.COM; rtibbs@oneok.com; RTISDALE@OXY.COM;
+rwebb@teainc.org; rwilliams@enogex.com; rwshuck@farmland.com;
+RWW@KCSENERGY
+Subject: ETS Customer Notice
+
+
+Please see attached notice
+ 
+
+________________________________________________________________
+Sent via the EV1 webmail system at mail.ev1.net
+
+
+ 
+                   
+
+From MAILER-DAEMON Mon Apr 18 14:21:02 2022
+Message-ID: <7982533.1075853053707.JavaMail.evans@thyme>
+Date: Tue, 18 Sep 2001 16:13:19 -0700 (PDT)
+From: ets1@mail.ev1.net
+To: gassupply@mge.com, gassupply@mge.com, gassupply@xemkt.com,
+	gassupply@xemkt.com, gassupply@xemkt.com, gassupply@xemkt.com,
+	gblair@enron.com, gborrego@sempra-slns.com,
+	gbricker@sempratrading.com, gcapone@peoplesgas.com, gcgd@alaweb.com,
+	gchesnut@ngp.com
+Subject: Revised ETS Notice
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "ets1" <ets1@mail.ev1.net>@ENRON <IMCEANOTES-+22ets1+22+20+3Cets1+40mail+2Eev1+2Enet+3E+40ENRON@ENRON.com>
+X-To: GASSUPPLY@MGE.COM, GASSUPPLY@MGE.COM, gassupply@xemkt.com, gassupply@xemkt.com, gassupply@xemkt.com, gassupply@xemkt.com, GBLAIR@ENRON.COM, gborrego@sempra-slns.com, GBRICKER@SEMPRATRADING.COM, gcapone@peoplesgas.com, GCGD@ALAWEB.COM, GCHESNUT@NGP.COM
+X-cc: 
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\DRA Info
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+see attached
+
+
+________________________________________________________________
+Sent via the EV1 webmail system at mail.ev1.net
+
+
+
+
+
+ - CustomerNotice_9_18_2.doc 
+
+From MAILER-DAEMON Mon Apr 18 14:21:02 2022
+Message-ID: <10403438.1075853053794.JavaMail.evans@thyme>
+Date: Wed, 19 Sep 2001 07:26:07 -0700 (PDT)
+From: john.buchanan@enron.com
+To: william.aldinger@enron.com, marion.collins@enron.com,
+	jacob.conklin@enron.com, galen.coon@enron.com, tim.cooper@enron.com,
+	lanny.cramer@enron.com, jack.howard@enron.com,
+	lynda.laferla@enron.com, mary.phillips@enron.com,
+	cynthia.rivers@enron.com, jean.adams@enron.com,
+	patrick.barry@enron.com, robert.benningfield@enron.com,
+	jean.blair@enron.com, randy.bryan@enron.com, nancy.callans@enron.com,
+	james.carr@enron.com, karen.clapper@enron.com,
+	sherry.forbish@enron.com, chris.greaney@enron.com,
+	scott.hibbard@enron.com, randy.janzen@enron.com,
+	joe.linhart@enron.com, janet.mcdaniel@enron.com,
+	renee.perry@enron.com, diana.porter@enron.com,
+	debra.scurlock@enron.com, kathy.sturr@enron.com,
+	cara.vaughan@enron.com, shirley.walden@enron.com,
+	kathy.washington@enron.com, jerry.wilkens@enron.com,
+	harry.woodson@enron.com, laura.giambrone@enron.com,
+	bert.hernandez@enron.com, christine.mcevoy@enron.com,
+	beverly.miller@enron.com, l.miller@enron.com, tracy.minter@enron.com,
+	amy.mulligan@enron.com, linda.ward@enron.com, larry.berger@enron.com,
+	michael.bodnar@enron.com, darrell.schoolcraft@enron.com,
+	gary.spraggins@enron.com, raetta.zadow@enron.com
+Subject: System Update
+Cc: lynn.blair@enron.com, sheila.nacey@enron.com, shelley.corman@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: lynn.blair@enron.com, sheila.nacey@enron.com, shelley.corman@enron.com
+X-From: Buchanan, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JBUCHAN2>
+X-To: Aldinger, William </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Walding>, Collins, Marion </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mcollin>, Conklin, Jacob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jconklin>, Coon, Galen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gcoon>, Cooper, Tim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tcooper>, Cramer, Lanny </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jcramer>, Howard, Jack </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jhoward>, Laferla, Lynda  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Llaferl>, Phillips, Mary </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mphilli2>, Rivers, Cynthia </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Crivers>, Adams, Jean </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jadams1>, Barry, Patrick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pbarry>, Benningfield, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbennin>, Blair, Jean </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jblair>, Bryan, Randy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbryan2>, Callans, Nancy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ncallan>, Carr, James </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jcarr2>, Clapper, Karen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kclappe>, Forbish, Sherry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sforbis>, Greaney, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cgreane>, Hibbard, Scott </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SHIBBARD>, Janzen, Randy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rjanzen>, Linhart, Joe </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jlinhar>, McDaniel, Janet </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmcdani>, Perry, Renee </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kperry>, Porter, Diana </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dporter1>, Scurlock, Debra </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dscurloc>, Sturr, Kathy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ksturr>, Vaughan, Cara </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cvaughan>, Walden, Shirley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Swalden>, Washington, Kathy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kwashin>, Wilkens, Jerry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jwilken>, Woodson, Harry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Hwoodso>, Giambrone, Laura </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lgiambr>, Hernandez, Bert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ahernan>, McEvoy, Christine </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cmcevoy>, Miller, Beverly </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bmiller1>, Miller, Chris L </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cmiller6>, Minter, Tracy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tminter>, Mulligan, Amy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Amullig>, Ward, Linda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lward>, Berger, Larry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lberger>, Bodnar, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbodnar>, Schoolcraft, Darrell </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dschool>, Spraggins, Gary </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gspragg>, Zadow, Raetta </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rzadow>
+X-cc: Blair, Lynn </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lblair>, Nacey, Sheila </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Snacey>, Corman, Shelley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Scorman>
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\DRA Info
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+Teams,
+As of this morning Critical notices and Cut notices started going out to customers. Both web sites are now available, the Omaha site is still the best one for customers to log into, the Houston site is still pretty slow but can be used if needed.
+
+Omaha (www.hottap.enroncorp.com
+Houston (www.hottap.enron.com
+
+The Team EDI is still not available so before each nomination and confirmation deadline contact Mary Draemer or Jim Studebaker to fined out if EDI transactions have cleared the EDI Hub. 
+
+Please continue to be proactive in helping our customers with nominations, confirmations and scheduled quantities information. 
+There is still no estimated time as to when internal employees will have access to the internet.
+
+John Buchanan
+
+From MAILER-DAEMON Mon Apr 18 14:21:02 2022
+Message-ID: <7766397.1075853053857.JavaMail.evans@thyme>
+Date: Thu, 20 Sep 2001 07:25:08 -0700 (PDT)
+From: toby.kuehl@enron.com
+To: karen.brostad@enron.com, elizabeth.brown@enron.com, alma.carrillo@enron.com,
+	zuela.carter@enron.com, martha.cormier@enron.com,
+	rick.dietz@enron.com, richard.hanagriff@enron.com,
+	dennis.lee@enron.com, linda.trevino@enron.com,
+	ramona.betancourt@enron.com, legale.black@enron.com,
+	mary.draemer@enron.com, deborah.dunten@enron.com,
+	theresa.hess@enron.com, tammy.jaquet@enron.com, toby.kuehl@enron.com,
+	maggie.matheson@enron.com, gerry.medeles@enron.com,
+	kim.perez@enron.com, james.studebaker@enron.com,
+	martha.benner@enron.com, deborah.cappiello@enron.com,
+	rosemary.gracey@enron.com, connie.hook@enron.com,
+	julie.mccoy@enron.com, virginia.o'neill@enron.com,
+	pilar.ramirez@enron.com, audrey.robertson@enron.com,
+	linda.wehring@enron.com, mike.barry@enron.com,
+	joni.bollinger@enron.com, janet.bowers@enron.com,
+	lorna.brennan@enron.com, bill.fowler@enron.com,
+	steve.gilbert@enron.com, tim.johanson@enron.com,
+	karen.lagerstrom@enron.com, laura.lantefield@enron.com,
+	w..mcgowan@enron.com, kent.miller@enron.com, dave.neubauer@enron.com,
+	frank.oldenhuis@enron.com, larry.pavlou@enron.com,
+	loren.penkava@enron.com, chris.sebesta@enron.com,
+	larry.swett@enron.com, chuck.wilkinson@enron.com,
+	jo.williams@enron.com, frank.semin@enron.com, bob.stevens@enron.com,
+	lisa.valley@enron.com, lynn.blair@enron.com,
+	shelley.corman@enron.com, bradley.holmes@enron.com,
+	steven.january@enron.com, sheila.nacey@enron.com,
+	donna.scott@enron.com, william.aldinger@enron.com,
+	dannis.bellard@enron.com, mike.bryant@enron.com,
+	karen.clapper@enron.com, marion.collins@enron.com,
+	galen.coon@enron.com, tim.cooper@enron.com, lanny.cramer@enron.com,
+	laura.giambrone@enron.com, jack.howard@enron.com,
+	lynda.laferla@enron.com, hilda.lindley@enron.com,
+	mary.phillips@enron.com, jesse.alvarado@enron.com,
+	roy.armitage@enron.com, rodney.barnes@enron.com,
+	sharon.brown@enron.com, steve.coash@enron.com,
+	jeffrey.cochran@enron.com, helen.cummings@enron.com,
+	michael.ellington@enron.com, jerry.graves@enron.com,
+	margaret.hall@enron.com, crandal.hardy@enron.com,
+	gaynel.henley@enron.com, robert.munson@enron.com,
+	dale.ratliff@enron.com, darrell.schoolcraft@enron.com,
+	ron.spain@enron.com, gary.spraggins@enron.com,
+	edward.welsh@enron.com, michael.bodnar@enron.com,
+	theresa.branney@enron.com, sue.neville@enron.com,
+	maria.perales@enron.com, kay.threet@enron.com, jean.adams@enron.com,
+	robert.benningfield@enron.com, larry.berger@enron.com,
+	jean.blair@enron.com, randy.bryan@enron.com, john.buchanan@enron.com,
+	craig.buehler@enron.com, nancy.callans@enron.com,
+	james.carr@enron.com, tangie.dykes@enron.com, jodie.floyd@enron.com,
+	sherry.forbish@enron.com, ava.garcia@enron.com,
+	chris.greaney@enron.com, bert.hernandez@enron.com,
+	randy.janzen@enron.com, terry.kowalke@enron.com,
+	joe.linhart@enron.com, maryann.locknar@enron.com,
+	janet.mcdaniel@enron.com, vernon.mercaldo@enron.com,
+	beverly.miller@enron.com, amy.mulligan@enron.com,
+	renee.perry@enron.com, diana.porter@enron.com,
+	cynthia.rivers@enron.com, debra.scurlock@enron.com,
+	kathy.sturr@enron.com, shirley.walden@enron.com,
+	linda.ward@enron.com, kathy.washington@enron.com,
+	jerry.wilkens@enron.com, ricki.winters@enron.com,
+	harry.woodson@enron.com, raetta.zadow@enron.com,
+	lindy.donoho@enron.com, steven.harris@enron.com,
+	lorraine.lindberg@enron.com, tk.lohman@enron.com,
+	kimberly.watson@enron.com, tracy.minter@enron.com
+Subject: Revised Customer Notice 9/20/01
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Kuehl, Toby </O=ENRON/OU=NA/CN=RECIPIENTS/CN=TKUEHL>
+X-To: Brostad, Karen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kbrosta>, Brown, Elizabeth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ebrown1>, Carrillo, Alma </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ACARRIL>, Carter, Zuela </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Zcarter>, Cormier, Martha </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mcormie>, Dietz, Rick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rdietz>, Hanagriff, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rhanagr>, Lee, Dennis </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dlee>, Trevino, Linda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ltrevino>, Betancourt, Ramona  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbetanc>, Black, Legale  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lblack2>, Draemer, Mary  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mdraeme>, Dunten, Deborah </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ddunten>, Hess, Theresa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Thess>, Jaquet, Tammy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tjaquet>, Kuehl, Toby </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tkuehl>, Matheson, Maggie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mmathes>, Medeles, Gerry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gmedele>, Perez, Kim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kperez>, Studebaker, James  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jstudeb>, Benner, Martha </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbenner>, Cappiello, Deborah </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dcappie>, Gracey, Rosemary </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rgracey>, Hook, Connie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Chook>, McCoy, Julie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmccoy>, O'Neill, Virginia <Virginia.O'Neill@ENRON.com>, Ramirez, Pilar </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pramire>, Robertson, Audrey </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Arobert>, Wehring, Linda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lwehrin>, Barry, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbarry>, Bollinger, Joni </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jbollin>, Bowers, Janet </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jbowers>, Brennan, Lorna </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lbrenna>, Fowler, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bfowler>, Gilbert, Steve </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sgilbe2>, Johanson, Tim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tjohans>, Lagerstrom, Karen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Klagers>, Lantefield, Laura </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Llantef>, McGowan, Mike W. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mmcgowa>, Miller, Kent </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kmiller2>, Neubauer, Dave </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dneubau>, Oldenhuis, Frank </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Foldenhu>, Pavlou, Larry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lpavlou>, Penkava, Loren </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lpenkav>, Sebesta, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Csebest2>, Swett, Larry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lswett>, Wilkinson, Chuck </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cwilkin>, Williams, Jo </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jwillia3>, Semin, Frank </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Fsemin>, Stevens, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bsteven2>, Valley, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lvalley>, Blair, Lynn </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lblair>, Corman, Shelley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Scorman>, Holmes, Bradley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bholmes>, January, Steven </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SJANUARY>, Nacey, Sheila </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Snacey>, Scott, Donna </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dscott1>, Aldinger, William </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Walding>, Bellard, Dannis </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dbellar>, Bryant, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbryant>, Clapper, Karen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KCLAPPE>, Collins, Marion </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mcollin>, Coon, Galen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gcoon>, Cooper, Tim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tcooper>, Cramer, Lanny </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jcramer>, Giambrone, Laura </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lgiambr>, Howard, Jack </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jhoward>, Laferla, Lynda  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Llaferl>, Lindley, Hilda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Hlindle>, Phillips, Mary </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mphilli2>, Alvarado, Jesse </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jalvara>, Armitage, Roy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rarmita>, Barnes, Rodney </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbarnes>, Brown, Sharon </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sbrown1>, Coash, Steve </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Scoash>, Cochran, Jeffrey </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jcochra>, Cummings, Helen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Hcummin>, Ellington, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Melling>, Graves, Jerry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jgraves>, Hall, Margaret </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mhall1>, Hardy, Crandal </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Chardy2>, Henley, Gaynel </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ghenley>, Munson, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rmunson>, Ratliff, Dale </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dratlif>, Schoolcraft, Darrell </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dschool>, Spain, Ron </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rspain>, Spraggins, Gary </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gspragg>, Welsh, Edward </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ewelsh>, Bodnar, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbodnar>, Branney, Theresa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tbranne>, Neville, Sue </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Snevill1>, Perales, Maria </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mperale>, Threet, Kay </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kthreet>, Adams, Jean </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jadams1>, Benningfield, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbennin>, Berger, Larry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lberger>, Blair, Jean </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jblair>, Bryan, Randy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbryan2>, Buchanan, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jbuchan2>, Buehler, Craig </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cbuehle>, Callans, Nancy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ncallan>, Carr, James </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jcarr2>, Dykes, Tangie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tdykes>, Floyd, Jodie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jfloyd>, Forbish, Sherry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sforbis>, Garcia, Ava </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Agarcia6>, Greaney, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cgreane>, Hernandez, Bert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ahernan>, Janzen, Randy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rjanzen>, Kowalke, Terry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tkowalk>, Linhart, Joe </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jlinhar>, Locknar, MaryAnn <MaryAnn.Locknar@ENRON.com>, McDaniel, Janet </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmcdani>, Mercaldo, Vernon </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vmercal>, Miller, Beverly </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bmiller1>, Mulligan, Amy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Amullig>, Perry, Renee </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kperry>, Porter, Diana </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dporter1>, Rivers, Cynthia </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Crivers>, Scurlock, Debra </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dscurloc>, Sturr, Kathy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ksturr>, Walden, Shirley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Swalden>, Ward, Linda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lward>, Washington, Kathy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kwashin>, Wilkens, Jerry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jwilken>, Winters, Ricki </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rwinter>, Woodson, Harry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Hwoodso>, Zadow, Raetta </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rzadow>, Donoho, Lindy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ldonoho>, Harris, Steven </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sharris1>, Lindberg, Lorraine </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Llindbe>, Lohman, TK </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tlohman>, Watson, Kimberly </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kwatson>, Minter, Tracy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tminter>
+X-cc: 
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\DRA Info
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+Please see attached notice. Posted 9/20/01
+
+Toby
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:21:02 2022
+Message-ID: <24314418.1075853053906.JavaMail.evans@thyme>
+Date: Thu, 20 Sep 2001 08:33:26 -0700 (PDT)
+From: center.ets@enron.com
+Subject: Customer Notification
+Cc: sue.rich@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sue.rich@enron.com
+X-From: ETS Solution Center, </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=B502D3D9-A0AB9D3B-8625693C-5D4DD1>
+X-To: Enron Everyone_ET&S_Houston@ENRON <??SEnron Everyone_ET&S_Houston@ENRON>
+X-cc: Rich, Sue </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SRICH>
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\DRA Info
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+
+
+Please inform all ETS customers that http:\\infosource.ets.enron.com is available for use.  
+
+Thanks,
+
+For any questions  please contact the ETS Solution Center.
+
+ETS Solution Center - Houston, at 713-345-4745
+ETS Solution Center - Omaha, at 402-398-7454
+
+From MAILER-DAEMON Mon Apr 18 14:21:02 2022
+Message-ID: <26564801.1075853053940.JavaMail.evans@thyme>
+Date: Thu, 20 Sep 2001 08:38:24 -0700 (PDT)
+From: shelley.corman@enron.com
+To: jean.adams@enron.com, william.aldinger@enron.com, jesse.alvarado@enron.com,
+	roy.armitage@enron.com, rodney.barnes@enron.com,
+	patrick.barry@enron.com, richard.barry@enron.com,
+	nancy.bastida@enron.com, robert.benningfield@enron.com,
+	larry.berger@enron.com, ramona.betancourt@enron.com,
+	legale.black@enron.com, jean.blair@enron.com, lynn.blair@enron.com,
+	michael.bodnar@enron.com, keith.braswell@enron.com,
+	karen.brostad@enron.com, elizabeth.brown@enron.com,
+	randy.bryan@enron.com, john.buchanan@enron.com,
+	craig.buehler@enron.com, rory.calhoun@enron.com,
+	nancy.callans@enron.com, james.carr@enron.com,
+	alma.carrillo@enron.com, zuela.carter@enron.com,
+	miller.chris@enron.com, karen.clapper@enron.com,
+	steve.coash@enron.com, jeffrey.cochran@enron.com,
+	marion.collins@enron.com, galen.coon@enron.com, tim.cooper@enron.com,
+	shelley.corman@enron.com, martha.cormier@enron.com,
+	lanny.cramer@enron.com, helen.cummings@enron.com,
+	esther.dasilva@enron.com, larry.davis@enron.com,
+	rick.dietz@enron.com, mary.draemer@enron.com,
+	dale.eldridge@enron.com, michael.ellington@enron.com,
+	jodie.floyd@enron.com, sherry.forbish@enron.com,
+	ava.garcia@enron.com, laura.giambrone@enron.com,
+	chris.greaney@enron.com, alma.green@enron.com, sarah.haden@enron.com,
+	margaret.hall@enron.com, richard.hanagriff@enron.com,
+	crandal.hardy@enron.com, gaynel.henley@enron.com,
+	bert.hernandez@enron.com, theresa.hess@enron.com,
+	scott.hibbard@enron.com, bradley.holmes@enron.com,
+	jack.howard@enron.com, jacob.conklin@enron.com,
+	steven.january@enron.com, randy.janzen@enron.com,
+	alice.johnson@enron.com, terry.kowalke@enron.com,
+	toby.kuehl@enron.com, lynda.laferla@enron.com, dennis.lee@enron.com,
+	hilda.lindley@enron.com, joe.linhart@enron.com,
+	maggie.matheson@enron.com, janet.mcdaniel@enron.com,
+	christine.mcevoy@enron.com, gerry.medeles@enron.com,
+	beverly.miller@enron.com, l.miller@enron.com, tracy.minter@enron.com,
+	bart.monden@enron.com, jeff.moore@enron.com, amy.mulligan@enron.com,
+	robert.munson@enron.com, sheila.nacey@enron.com,
+	ets <.nelson@enron.com>, renee.perry@enron.com,
+	mary.phillips@enron.com, diana.porter@enron.com,
+	dale.ratliff@enron.com, cynthia.rivers@enron.com,
+	darrell.schoolcraft@enron.com, conklin.scott@enron.com,
+	donna.scott@enron.com, debra.scurlock@enron.com, ron.spain@enron.com,
+	patricia.steele@enron.com, james.studebaker@enron.com,
+	kathy.sturr@enron.com, gina.taylor@enron.com,
+	linda.trevino@enron.com, josue.vasquez@enron.com,
+	cara.vaughan@enron.com, michael.wagoner@enron.com,
+	shirley.walden@enron.com, linda.ward@enron.com,
+	kathy.washington@enron.com, edward.welsh@enron.com,
+	jerry.wilkens@enron.com, john.williams@enron.com,
+	ricki.winters@enron.com, harry.woodson@enron.com,
+	raetta.zadow@enron.com
+Subject: Please Read This Message
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Corman, Shelley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SCORMAN>
+X-To: Adams, Jean </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jadams1>, Aldinger, William </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Walding>, Alvarado, Jesse </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jalvara>, Armitage, Roy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rarmita>, Barnes, Rodney </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbarnes>, Barry, Patrick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pbarry>, Barry, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbarry>, Bastida, Nancy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Nbastid>, Benningfield, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbennin>, Berger, Larry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lberger>, Betancourt, Ramona  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbetanc>, Black, Legale  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lblack2>, Blair, Jean </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jblair>, Blair, Lynn </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lblair>, Bodnar, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbodnar>, Braswell, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kbraswe>, Brostad, Karen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kbrosta>, Brown, Elizabeth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ebrown1>, Bryan, Randy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbryan2>, Buchanan, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jbuchan2>, Buehler, Craig </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cbuehle>, Calhoun, Rory </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rcalhou>, Callans, Nancy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ncallan>, Carr, James </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jcarr2>, Carrillo, Alma </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ACARRIL>, Carter, Zuela </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Zcarter>, Chris Miller <chris.miller@enron.com>, Clapper, Karen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KCLAPPE>, Coash, Steve </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Scoash>, Cochran, Jeffrey </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jcochra>, Collins, Marion </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mcollin>, Coon, Galen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gcoon>, Cooper, Tim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tcooper>, Corman, Shelley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Scorman>, Cormier, Martha </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mcormie>, Cramer, Lanny </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jcramer>, Cummings, Helen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Hcummin>, Dasilva, Esther </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Edasilv>, Davis, Larry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ldavis>, Dietz, Rick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rdietz>, Draemer, Mary  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mdraeme>, Eldridge, Dale </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Deldrid2>, Ellington, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Melling>, Floyd, Jodie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jfloyd>, Forbish, Sherry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sforbis>, Garcia, Ava </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Agarcia6>, Giambrone, Laura </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lgiambr>, Greaney, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cgreane>, Green, Alma </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Agreen1>, Haden, Sarah </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Shaden>, Hall, Margaret </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mhall1>, Hanagriff, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rhanagr>, Hardy, Crandal </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Chardy2>, Henley, Gaynel </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ghenley>, Hernandez, Bert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ahernan>, Hess, Theresa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Thess>, Hibbard, Scott </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Shibbard>, Holmes, Bradley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bholmes>, Howard, Jack </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jhoward>, Conklin, Jacob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JCONKLIN>, January, Steven </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SJANUARY>, Janzen, Randy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rjanzen>, Johnson, Alice </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ajohnso>, Kowalke, Terry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tkowalk>, Kuehl, Toby </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tkuehl>, Laferla, Lynda  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Llaferl>, Lee, Dennis </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dlee>, Lindley, Hilda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Hlindle>, Linhart, Joe </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jlinhar>, Matheson, Maggie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mmathes>, McDaniel, Janet </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmcdani>, McEvoy, Christine </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cmcevoy>, Medeles, Gerry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gmedele>, Miller, Beverly </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bmiller1>, Miller, Chris L </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cmiller6>, Minter, Tracy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tminter>, Monden, Bart </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bmonden>, Moore, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmoore7>, Mulligan, Amy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Amullig>, Munson, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rmunson>, Nacey, Sheila </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Snacey>, Nelson, Kimberly (ETS) </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Knelson3>, Perry, Renee </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kperry>, Phillips, Mary </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mphilli2>, Porter, Diana </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dporter1>, Ratliff, Dale </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dratlif>, Rivers, Cynthia </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Crivers>, Schoolcraft, Darrell </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dschool>, Scott Conklin <scott.conklin@enron.com>, Scott, Donna </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dscott1>, Scurlock, Debra </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dscurloc>, Spain, Ron </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rspain>, Steele, Patricia </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Psteele>, Studebaker, James  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jstudeb>, Sturr, Kathy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ksturr>, Taylor, Gina </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gtaylor10>, Trevino, Linda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ltrevino>, Vasquez, Josue </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jvasquez>, Vaughan, Cara </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cvaughan>, Wagoner, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mwagone>, Walden, Shirley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Swalden>, Ward, Linda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lward>, Washington, Kathy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kwashin>, Welsh, Edward </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ewelsh>, Wilkens, Jerry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jwilken>, Williams, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jwillia2>, Winters, Ricki </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rwinter>, Woodson, Harry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Hwoodso>, Zadow, Raetta </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rzadow>
+X-cc: 
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\DRA Info
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+
+I want to thank each of you for the role you played in maintaining operations and customer communications during the Internet outages we have experienced this week.   
+
+Having knowledgeable and dedicated staff to answer customer calls is always important, especially during periods of Internet and email outages.  Our customer teams and the HotTap helpdesk talked many customers through the process of using the offsite server and even manually entered nominations for customers.  Our gas control staff continued to effectively operate our systems despite having to handle an increased volume of calls from customers and while working in an environment without many of the normal reports.
+
+The events of last week and this week added to an already long list of operational and systems challenges that we have faced this summer.  It has been a long and exhausting summer for our entire ETS logistics team and for our system support staff.  And, with a move ahead for much of our team, I realize that there are still added demands on everyone's plate.
+
+As I salute all your efforts to date and your patience in the move ahead, I need to make a few additional requests of you:
+
+1.  Please refrain from any non-essential Internet use.   As our team is connected back to Internet access, it is absolutely critical that we not re-infect company computers.  Please avoid use of any non-essential business sites, including news, shopping, financial, games, etc, whether at your desk or dialed in to company computers through VPN.  If you have a question about the appropriateness of a site, please consult with a team advisor.   Some groups may be disabled from Internet access altogether for the immediate term to ensure the reliability of critical systems.  This is a serious issue for Enron.  If our team re-infects company computers it will impact the long-term ability of our group to have Internet access.
+
+2. Make sure that customer calls are answered.  The demands of system outages, testing and moving are weighing heavy on all of us.   I know that you have gone to great lengths to answer customer calls these last few days.  I need for you to continue that level of customer phone service.  Each customer team needs to ensure that customer calls are answered by a live representative and do not roll to phone mail.  This is the level of service that we have committed to deliver to our customers and we will have to find a way to keep this promise despite our move and other demands.
+
+3. Smile and know that you are appreciated.  It seems like everywhere we turn these last few weeks we are confronted with bad news -- national events, Internet viruses, the stock market.   Perhaps it is trivial, but I wanted to make sure to tell you how much I appreciate what you do.  I feel proud to be part of this team and even prouder of the way that we pull together during tough times.  I also wanted to tell you that we are planning a fun celebration for our team in the near future -- details to follow soon. 
+
+
+Thank you 
+
+Shelley 
+
+From MAILER-DAEMON Mon Apr 18 14:21:02 2022
+Message-ID: <31993665.1075853053821.JavaMail.evans@thyme>
+Date: Wed, 19 Sep 2001 04:32:49 -0700 (PDT)
+From: lynn.blair@enron.com
+To: cara.vaughan@enron.com, patrick.barry@enron.com, l.miller@enron.com,
+	larry.berger@enron.com, lynn.blair@enron.com,
+	michael.bodnar@enron.com, john.buchanan@enron.com,
+	terry.kowalke@enron.com, raetta.zadow@enron.com,
+	william.aldinger@enron.com, marion.collins@enron.com,
+	jacob.conklin@enron.com, galen.coon@enron.com, tim.cooper@enron.com,
+	lanny.cramer@enron.com, jack.howard@enron.com,
+	lynda.laferla@enron.com, mary.phillips@enron.com,
+	cynthia.rivers@enron.com, patrick.barry@enron.com,
+	jean.blair@enron.com, randy.bryan@enron.com, nancy.callans@enron.com,
+	james.carr@enron.com, karen.clapper@enron.com, renee.perry@enron.com,
+	diana.porter@enron.com, shirley.walden@enron.com,
+	kathy.washington@enron.com, jerry.wilkens@enron.com,
+	laura.giambrone@enron.com, bert.hernandez@enron.com,
+	christine.mcevoy@enron.com, beverly.miller@enron.com,
+	l.miller@enron.com, tracy.minter@enron.com, amy.mulligan@enron.com,
+	linda.ward@enron.com, jean.adams@enron.com,
+	robert.benningfield@enron.com, sherry.forbish@enron.com,
+	chris.greaney@enron.com, scott.hibbard@enron.com,
+	randy.janzen@enron.com, joe.linhart@enron.com,
+	janet.mcdaniel@enron.com, debra.scurlock@enron.com,
+	kathy.sturr@enron.com, cara.vaughan@enron.com,
+	harry.woodson@enron.com
+Subject: Customer Service
+Cc: shelley.corman@enron.com, sharon.brown@enron.com, alma.carrillo@enron.com,
+	ava.garcia@enron.com, ricki.winters@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: shelley.corman@enron.com, sharon.brown@enron.com, alma.carrillo@enron.com,
+	ava.garcia@enron.com, ricki.winters@enron.com
+X-From: Blair, Lynn </O=ENRON/OU=NA/CN=RECIPIENTS/CN=LBLAIR>
+X-To: Vaughan, Cara </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cvaughan>, Barry, Patrick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pbarry>, Miller, Chris L </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cmiller6>, Berger, Larry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lberger>, Blair, Lynn </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lblair>, Bodnar, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbodnar>, Buchanan, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jbuchan2>, Kowalke, Terry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tkowalk>, Zadow, Raetta </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rzadow>, Aldinger, William </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Walding>, Collins, Marion </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mcollin>, Conklin, Jacob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jconklin>, Coon, Galen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gcoon>, Cooper, Tim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tcooper>, Cramer, Lanny </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jcramer>, Howard, Jack </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jhoward>, Laferla, Lynda  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Llaferl>, Phillips, Mary </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mphilli2>, Rivers, Cynthia </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Crivers>, Barry, Patrick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pbarry>, Blair, Jean </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jblair>, Bryan, Randy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbryan2>, Callans, Nancy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ncallan>, Carr, James </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jcarr2>, Clapper, Karen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kclappe>, Perry, Renee </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kperry>, Porter, Diana </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dporter1>, Walden, Shirley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Swalden>, Washington, Kathy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kwashin>, Wilkens, Jerry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jwilken>, Giambrone, Laura </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lgiambr>, Hernandez, Bert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ahernan>, McEvoy, Christine </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cmcevoy>, Miller, Beverly </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bmiller1>, Miller, Chris L </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cmiller6>, Minter, Tracy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tminter>, Mulligan, Amy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Amullig>, Ward, Linda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lward>, Adams, Jean </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jadams1>, Benningfield, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbennin>, Forbish, Sherry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sforbis>, Greaney, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cgreane>, Hibbard, Scott </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Shibbard>, Janzen, Randy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rjanzen>, Linhart, Joe </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jlinhar>, McDaniel, Janet </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmcdani>, Scurlock, Debra </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dscurloc>, Sturr, Kathy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ksturr>, Vaughan, Cara </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cvaughan>, Woodson, Harry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Hwoodso>
+X-cc: Corman, Shelley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Scorman>, Brown, Sharon </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sbrown1>, Carrillo, Alma </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Acarril>, Garcia, Ava </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Agarcia6>, Winters, Ricki </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rwinter>
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\DRA Info
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+	
+	I want to thank all of you for your efforts yesterday to help our customers get their
+	business taken care of on the Enron pipes.  It looks like we will be in the same
+	mode of operation at least through this morning.  
+
+	Please make every effort to contact your customers and let them know they
+	can get into Hottap through URL:
+		
+			www.hottap.enroncorp.com
+	 	
+	If they are having problems accessing Hottap, give them the pertinent information they
+	need to do their "next cycle" business (ie. schedule quantity info).  Let's be proactive and 
+	help the customers through this frustrating time.
+
+	I also appreicate everyone staying around until 6:00 last night.  It is good to work with 
+	a group that is willing to help out where possible.
+
+	Also, Toby thanks for your "hours" of work on sending out the emails to our customers
+	to let them know what our plans were. 
+
+	Thanks. Lynn
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:02 2022
+Message-ID: <6800449.1075853053996.JavaMail.evans@thyme>
+Date: Thu, 20 Sep 2001 21:27:08 -0700 (PDT)
+From: gary.kenagy@enron.com
+To: paul.anderson@enron.com, clifford.basha@enron.com, craig.bronaugh@enron.com,
+	kimberly.carter@enron.com, david.farrell@enron.com,
+	serena.gutierrez@enron.com, bob.hagen@enron.com,
+	steve.littel@enron.com, george.margoliner@enron.com,
+	george.marshall@enron.com, brian.murray@enron.com,
+	kenneth.poole@enron.com, ruben.rodriguez@enron.com,
+	angela.sayegh@enron.com, j.smith@enron.com, chris.taft@enron.com,
+	hardy.thomas@enron.com, rodney.thompson@enron.com,
+	roderick.white@enron.com, dannis.bellard@enron.com,
+	lynn.blair@enron.com, mike.bryant@enron.com,
+	shelley.corman@enron.com, rick.dietz@enron.com,
+	bradley.holmes@enron.com, steven.january@enron.com,
+	phil.lowry@enron.com, sheila.nacey@enron.com, dale.ratliff@enron.com,
+	darrell.schoolcraft@enron.com, gary.spraggins@enron.com,
+	scott.abshire@enron.com, kevin.dumas@enron.com,
+	mark.gigliotti@enron.com, steve.hotte@enron.com,
+	hasan.kedwaii@enron.com, tony.mayer@enron.com, joe.palik@enron.com,
+	nick.rahn@enron.com, sue.rich@enron.com, lisa.sawyer@enron.com,
+	michael.sullivan@enron.com, james.sumpter@enron.com,
+	elaine.tombaugh@enron.com
+Subject: Vacation on Friday
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Kenagy, Gary </O=ENRON/OU=NA/CN=RECIPIENTS/CN=GKENAGY>
+X-To: Anderson, Paul </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=b9015d77-6890ca8e-86256602-7631cb>, Basha, Clifford </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cbasha>, Bronaugh, Craig </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=88ba4982-2d95dc5d-86256739-6912b1>, Carter, Kimberly </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kcarter6>, Farrell, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=d3b49a29-8332ec0a-86256a39-55b7ef>, Gutierrez, Serena <Serena.Gutierrez@ENRON.com>, Hagen, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bhagen>, Littel, Steve </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Slittel>, Margoliner, George </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gmargol>, Marshall, George </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gmarsha>, Murray, Brian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=f49dfe85-aa6cd328-86256a37-46c302>, Poole, Kenneth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kpoole>, Rodriguez, Ruben </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rrodrig3>, Sayegh, Angela </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Asayegh>, Smith, Mike J </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Msmith19>, Taft, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ctaft>, Thomas, Hardy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Hthomas>, Thompson, Rodney </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rthomps>, White, Roderick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rwhite4>, Bellard, Dannis </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dbellar>, Blair, Lynn </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lblair>, Bryant, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbryant>, Corman, Shelley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Scorman>, Dietz, Rick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rdietz>, Holmes, Bradley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bholmes>, January, Steven </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sjanuary>, Lowry, Phil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plowry2>, Nacey, Sheila </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Snacey>, Ratliff, Dale </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dratlif>, Schoolcraft, Darrell </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dschool>, Spraggins, Gary </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gspragg>, Abshire, Scott </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sabshir>, Dumas, Kevin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kdumas>, Gigliotti, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mgigliot>, Hotte, Steve </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Shotte>, Kedwaii, Hasan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Hkedwai>, Mayer, Tony </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tmayer>, Palik, Joe </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jpalik>, Rahn, Nick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Nrahn>, Rich, Sue </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Srich>, Sawyer, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lsawyer>, Sullivan, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Msulliv>, Sumpter, James </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jsumpte>, Tombaugh, Elaine </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Etombau>
+X-cc: 
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\DRA Info
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+
+I will be out of the office on vacation on Friday the 21st. I will be out of town but available via pager and cell phone.
+Don't hesitate to call if I am needed.
+
+Pager	713-990-8458
+Cell	713-870-8214
+
+Thanks, Gary
+
+From MAILER-DAEMON Mon Apr 18 14:21:02 2022
+Message-ID: <32896006.1075853053967.JavaMail.evans@thyme>
+Date: Wed, 19 Sep 2001 18:16:00 -0700 (PDT)
+From: 40enron@enron.com
+Subject: Message from the Office of the Chair Enron Americas Re: September
+ 11, 2001
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Americas - Office of the Chairman@ENRON <IMCEANOTES-Enron+20Americas+20-+20Office+20of+20the+20Chairman+40ENRON@ENRON.com>
+X-To: All Enron Employees North America@ENRON <??SAll Enron Employees North America@ENRON>
+X-cc: 
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\DRA Info
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+In light of the tragic events that occurred on September 11, 2001, our concern is to support our employees through this difficult time.  We would like to take this opportunity to remind you of a resource available to you, Enron's Employee Assistance Program.  This service is available to you or any member of your immediate family to provide counseling services.  To talk to a counselor, simply call (713) 853-6057 during business hours in Houston or the 24 hour service line at (800) 345-1391.  If you are outside the US, please contact your Human Resources Representative for further details.  Please also be aware of any colleagues who may require assistance during this time and may not be able to seek help for themselves.
+
+Louise & John
+

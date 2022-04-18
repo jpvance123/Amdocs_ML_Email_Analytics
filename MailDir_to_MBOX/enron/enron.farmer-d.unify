@@ -1,0 +1,2665 @@
+From MAILER-DAEMON Mon Apr 18 14:27:13 2022
+Message-ID: <25723346.1075854184207.JavaMail.evans@thyme>
+Date: Fri, 23 Jun 2000 06:41:00 -0700 (PDT)
+From: dave.nommensen@enron.com
+To: donna.greif@enron.com, robert.superty@enron.com, richard.pinion@enron.com,
+	kenneth.harmon@enron.com, judy.rose@enron.com, scott.mills@enron.com,
+	tommy.yanowski@enron.com, daren.farmer@enron.com,
+	george.smith@enron.com, charles.muzzy@enron.com,
+	edward.terry@enron.com, katherine.kelly@enron.com,
+	tricia.bowen@enron.com, randall.gay@enron.com, gary.nelson@enron.com,
+	regan.smith@enron.com, jim.ogg@enron.com,
+	jaikishore.bharathi@enron.com, susan.harrison@enron.com,
+	rita.wynne@enron.com, bryce.baxter@enron.com,
+	dave.mcmullan@enron.com, trisha.luong@enron.com,
+	diane.niestrath@enron.com, benedicta.tung@enron.com,
+	paul.poellinger@enron.com, larry.scott@enron.com,
+	romeo.d'souza@enron.com, heather.choate@enron.com,
+	mark.schrab@enron.com, reyna.cabrera@enron.com,
+	patti.sullivan@enron.com, kevin.heal@enron.com,
+	mark.mcclure@enron.com, thomas.engel@enron.com, pat.clynes@enron.com,
+	carlos.rodriguez@enron.com, carrie.hollomon@enron.com,
+	kimberly.olinger@enron.com, milind.patil@enron.com,
+	debbie.keeton@enron.com, victor.lamadrid@enron.com
+Subject: Dave N out until July 5th
+Cc: jeff.johnson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jeff.johnson@enron.com
+X-From: Dave Nommensen
+X-To: Donna Greif, Robert Superty, Richard Pinion, Kenneth M Harmon, Judy Rose, Scott Mills, Tommy J Yanowski, Daren J Farmer, George Smith, Charles T Muzzy, Edward Terry, Katherine L Kelly, Tricia Bowen, Randall L Gay, Gary Nelson, Regan M Smith, Jim Ogg, Jaikishore Bharathi, Susan Harrison, Rita Wynne, Bryce Baxter, Dave McMullan, Trisha Luong, Diane E Niestrath, Benedicta Tung, Paul F Poellinger, Larry Scott, Romeo D'Souza, Heather Choate, Mark L Schrab, Reyna Cabrera, Patti Sullivan, Kevin Heal, Mark McClure, Thomas Engel, Pat Clynes, Carlos J Rodriguez, Carrie Hollomon, Kimberly S Olinger, Milind Patil, Debbie Keeton, Victor Lamadrid
+X-cc: Jeff Johnson
+X-bcc: 
+X-Folder: \Darren_Farmer_Dec2000\Notes Folders\Unify
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+I will be taking a sabbatical beginning any moment.  I have no control over 
+the exact time; it may have already happened.  I plan to visit the mountains 
+and the ocean.  They miss me. I miss them.  
+
+Unfortunately, Enron requires employees to use vacation time instead of Inner 
+Self time, so I will have to return someday.  Looks like July 5th.  I'm kind 
+of bummed about it, but maybe by then I will have transcended to a new 
+plateau of understanding.
+
+In my absence, contact Milind Patil, x39247 for Unify performance issues.
+
+Thanks for understanding, 
+
+ The Persona Formerly Known as Dave  (the keyboard can no longer be used to 
+spell my new name)
+
+From MAILER-DAEMON Mon Apr 18 14:27:13 2022
+Message-ID: <4347889.1075854184277.JavaMail.evans@thyme>
+Date: Tue, 5 Sep 2000 09:35:00 -0700 (PDT)
+From: pat.clynes@enron.com
+To: daren.farmer@enron.com
+Subject: Re: possibly adding deal prices to Path Manager
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Pat Clynes
+X-To: Daren J Farmer
+X-cc: 
+X-bcc: 
+X-Folder: \Darren_Farmer_Dec2000\Notes Folders\Unify
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+   
+	
+	
+	From:  Donna Greif @ ECT                           09/05/2000 02:28 PM
+	
+
+To: Patti Sullivan/HOU/ECT@ECT, Victor Lamadrid/HOU/ECT@ECT, George 
+Smith/HOU/ECT@ECT, Pat Clynes/Corp/Enron@ENRON, Kevin Heal/CAL/ECT@ECT
+cc: Diane H Cook/HOU/ECT@ECT, Robert Superty/HOU/ECT@ECT, Dave 
+Nommensen/HOU/ECT@ECT 
+
+Subject: possibly adding deal prices to Path Manager
+
+Please see note from Nommensen below and let me know your thoughts (note:  
+this additional functionality/screen 
+view may cause an impact on system performance).
+
+THanks!
+
+dg
+---------------------- Forwarded by Donna Greif/HOU/ECT on 09/05/2000 02:23 
+PM ---------------------------
+   
+	
+	
+	From:  Dave Nommensen                           08/31/2000 11:37 AM
+	
+
+To: Donna Greif/HOU/ECT@ECT
+cc: Matt Pena/NA/Enron@Enron, Dave McMullan/HOU/ECT@ECT 
+Subject: possibly adding deal prices to Path Manager
+
+Donna,
+
+A request was brought up this week that I would like you to run by the 
+managers for input:
+ - add the deal price to the Sales and Supply list windows of Path Manager
+This seems more significant based on the transactions from EOL.
+
+This has been mentioned in the past, but has had some related "baggage":
+ - impact on performance, may run slower.  Could make it an option so you pay 
+the price when you need it.
+ - ability to show tier info.  Maybe just use the work "Tiered" and not try 
+to represent the actual pricing
+ - agreed format for those deals that have index pricing and percentage and 
+fixed price offset (ie 98% of IF.Transco.ZN1 + .02)
+
+This column would be customizable by resizing and relocating it by user 
+preference.
+
+Let me know what you hear.  d.n.
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:27:13 2022
+Message-ID: <3746409.1075854183931.JavaMail.evans@thyme>
+Date: Thu, 6 Apr 2000 04:51:00 -0700 (PDT)
+From: donna.greif@enron.com
+To: kathryn.bussell@enron.com, robert.cotten@enron.com, mark.mcclure@enron.com,
+	gary.payne@enron.com, richard.pinion@enron.com,
+	robert.superty@enron.com, katherine.kelly@enron.com,
+	randall.gay@enron.com, daren.farmer@enron.com,
+	edward.terry@enron.com, dave.nommensen@enron.com,
+	diane.niestrath@enron.com, carrie.hollomon@enron.com,
+	bryce.baxter@enron.com, kathryn.cordes@enron.com,
+	dana.daigle@enron.com, elizabeth.hernandez@enron.com,
+	julie.meyers@enron.com, b.palmer@enron.com,
+	stephanie.sever@enron.com, dianne.swiber@enron.com,
+	peggy.hedstrom@enron.com, dianne.seib@enron.com,
+	sylvia.campos@enron.com, linda.bryan@enron.com, faye.ellis@enron.com,
+	donna.consemiu@enron.com, scott.mills@enron.com,
+	russ.severson@enron.com, martha.stevens@enron.com,
+	karie.hastings@enron.com, regina.perkins@enron.com,
+	imelda.frayre@enron.com, william.kasemervisz@enron.com,
+	hunaid.engineer@enron.com, steven.gullion@enron.com,
+	larrissa.sharma@enron.com, thomas.engel@enron.com,
+	george.smith@enron.com
+Subject: Re: Sitara Release (Re: Changes in Global due to Consent to
+ Assignment)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Donna Greif
+X-To: Kathryn Bussell, Robert Cotten, Mark McClure, Gary L Payne, Richard Pinion, Robert Superty, Katherine L Kelly, Randall L Gay, Daren J Farmer, Edward Terry, Dave Nommensen, Diane E Niestrath, Carrie Hollomon, Bryce Baxter, Kathryn Cordes, Dana Daigle, Elizabeth L Hernandez, Julie Meyers, B Scott Palmer, Stephanie Sever, Dianne J Swiber, Peggy Hedstrom, Dianne Seib, Sylvia A Campos, Linda S Bryan, Faye Ellis, Donna Consemiu, Scott Mills, Russ Severson, Martha Stevens, Karie Hastings, Regina Perkins, Imelda Frayre, William E Kasemervisz, Hunaid Engineer, Steven Gullion, Larrissa Sharma, Thomas Engel, George Smith
+X-cc: 
+X-bcc: 
+X-Folder: \Darren_Farmer_Dec2000\Notes Folders\Unify
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+Changing counterparty names on Sitara deal tickets has absolutely no impact 
+to any downstream processes.  
+
+I hope the following will give more clarification.   
+
+Let me know if you have any questions or need more detail! 
+
+Thanks,
+dg  3-9517
+
+
+Sitara / Unify - Process
+* Scenario - Counterparty name changes on Sitara deal ticket after deal had 
+been pathed, scheduled & bridged back from Unify.
+* Impact - zero impact to Logistics & Volume Management, absolutely 
+harmless.  Settlements has process in place to eliminate issues.
+* Process - 
+Counterparty A in Sitara changes to Counterparty B.   
+Ctprty A was on original path sent to pipeline.  
+The new name (ctprty B) does bridge over to Unify.
+Ctprty A remains at the path level in Unify (gui display does not change)
+Ctprty B is now displayed at the deal level in Unify.  The field is now 
+highlighted to indicate a change occurred. (gui display changes only at high 
+level, not on path)
+The Scheduler has choice to repath (if necessary), or not re-path
+If re-pathing occurs, the new counterparty name will be displaced on new path
+
+Unify pushes back the deal number & meter to Sitara (not ctprty info)
+Balancing works on deal number & meter only (not ctprty info)
+The confirmation desk utilizes the information in Sitara (where all 
+information is correct)
+Volume Management utilizes the information in Unify for pipeline tie-out.  
+(all information sent to pipeline is correct at the path level and will match 
+up perfectly)
+Settlements utilizes information in Unify.  
+Settlements recognizes that changed ctprty names changes contracts, which 
+would create two notification entries
+If invoice did happen to go out to wrong ctprty, re-draft would occur.
+(note:  there was an issues discovered on reports which IT is correcting now)
+
+
+Autonoms "Tom's words of warning" - 
+Previously there was an issue when counterparty name changes took place after 
+deals were pathed and nominated.  Basically it would change a key on an EDI 
+path (duns number) not affecting any other of the information already 
+nominated to the pipeline.  If the scheduler re-nominated, data at the 
+pipeline would get doubled up and the scheduler would have NO way to correct 
+the problem.  In most cases, the schedulers would have to get the pipeline to 
+manually cut the original nominated volume.  This is not an issue with Unify 
+(as explained above).
+
+
+(Dave - feel free to chime in if I left anything out.)
+
+
+
+
+   
+
+
+From:  Donna Greif                                                            
+ 04/05/2000 01:18 PM	
+	
+	
+	                           
+	
+
+To: Kathryn Bussell/HOU/ECT@ECT, Robert Cotten/HOU/ECT@ECT, Mark 
+McClure/HOU/ECT@ECT, Gary L Payne/HOU/ECT, Richard Pinion/HOU/ECT@ECT, Robert 
+Superty/HOU/ECT@ECT, George Smith/HOU/ECT@ECT, Katherine L Kelly/HOU/ECT@ECT, 
+Randall L Gay/HOU/ECT@ECT, Daren J Farmer/HOU/ECT@ECT, Edward 
+Terry/HOU/ECT@ECT
+cc: Dave Nommensen/HOU/ECT@ECT, Diane E Niestrath/HOU/ECT@ECT, Carrie 
+Hollomon/HOU/ECT@ect, Bryce Baxter/HOU/ECT@ECT, Kathryn Cordes/HOU/ECT@ECT, 
+Dana Daigle/Corp/Enron@ENRON, Elizabeth L Hernandez/HOU/ECT@ECT, Julie 
+Meyers/HOU/ECT@ECT, B Scott Palmer/HOU/ECT@ECT, Stephanie Sever/HOU/ECT@ECT, 
+Dianne J Swiber/HOU/ECT@ECT, Peggy Hedstrom/CAL/ECT@ECT, Dianne 
+Seib/CAL/ECT@ECT, Sylvia A Campos/HOU/ECT@ECT, Linda S Bryan/HOU/ECT@ECT, 
+Faye Ellis/HOU/ECT@ECT, Donna Consemiu/HOU/ECT@ECT, Scott Mills/HOU/ECT@ECT, 
+Russ Severson/HOU/ECT@ECT, Martha Stevens/HOU/ECT@ECT, Karie 
+Hastings/HOU/ECT@ECT, Regina Perkins/HOU/ECT@ECT, Imelda Frayre/HOU/ECT@ECT, 
+William E Kasemervisz/HOU/ECT@ECT, Hunaid Engineer/HOU/ECT@ECT, Steven 
+Gullion/HOU/ECT@ECT, Larrissa Sharma/HOU/ECT@ECT, Thomas Engel/HOU/ECT@ECT 
+Subject: Re: Sitara Release (Re: Changes in Global due to Consent to 
+Assignment)  
+
+FYI....
+
+This change went in for the Deal Validation group.   It gives them the 
+ability to change counterparties names after bridge back.
+
+Impact to Logistics - Unify
+If a counterparty name change takes place to deals that have been bridge 
+backed, it could cause problems on EDI pipes as that new counterparty name 
+will flow over to Unify and repathing should eventually take place.
+One problem may be with the Imbalance data sets, which are not in production 
+yet......(EDI Imbalance Qtys would not match up to paths)
+This may also cause an issue with the scheduled quantities (especially where 
+nominations were sent for entire month)
+can't remember the rules on this one, but I think Unify does have some safe 
+guards (idiot proofs) to force re-pathing.
+Unify does have the ability to over-ride duns numbers, yet would still cause 
+an additional step for EDI the scheduler would need to think through in order 
+to get a clean quick response.
+What are (if any) impacts to Vol Mgt if counterparty name changes take 
+place?  (prior periods?  re-pathing?)
+
+I have a call into Diane and Dave both.  After speaking w/ them, hopefully I 
+can get a clear understanding of the true impact.  I am sure we'll need to 
+put some processes and procedures together for Deal Validation to follow when 
+these type of changes are needed.
+
+Will keep you posted.
+
+Thanks,
+
+dg
+
+
+
+   
+	
+	
+	From:  Thomas Engel                           04/05/2000 09:44 AM
+	
+
+To: Kathryn Cordes/HOU/ECT@ECT, Dana Daigle/Corp/Enron@ENRON, Elizabeth L 
+Hernandez/HOU/ECT@ECT, Julie Meyers/HOU/ECT@ECT, B Scott Palmer/HOU/ECT@ECT, 
+Stephanie Sever/HOU/ECT@ECT, Dianne J Swiber/HOU/ECT@ECT, Peggy 
+Hedstrom/CAL/ECT@ECT, Dianne Seib/CAL/ECT@ECT
+cc: Sylvia A Campos/HOU/ECT@ECT, Linda S Bryan/HOU/ECT@ECT, Faye 
+Ellis/HOU/ECT@ECT, Donna Consemiu/HOU/ECT@ECT, Scott Mills/HOU/ECT@ECT, Russ 
+Severson/HOU/ECT@ECT, Martha Stevens/HOU/ECT@ECT, Karie Hastings/HOU/ECT@ECT, 
+Regina Perkins/HOU/ECT@ECT, Imelda Frayre/HOU/ECT@ECT, William E 
+Kasemervisz/HOU/ECT@ECT, Hunaid Engineer/HOU/ECT@ECT, Steven 
+Gullion/HOU/ECT@ECT, Larrissa Sharma/HOU/ECT@ECT, Donna Greif/HOU/ECT@ECT 
+Subject: Sitara Release (Re: Changes in Global due to Consent to Assignment)
+
+
+Regarding the ability to change counterparties on deals in SITARA with 
+confirmed volumes - Tom's words of caution:
+
+If someone calls you and wants to change a counterparty - we created the 
+ability for you to invalidate the deal - and 
+then change the counterparty - however - I did add a warning message:
+
+"Warning - changing counterparty on deal with confirmed volumes - make sure 
+pipeline allows this change."   
+
+Some pipelines do not allow us to change counterparties after there is 
+feedback - I assume for the same reasons
+we had this rule - it used to blow up our old scheduling systems 
+(pre-UNIFY).  Some pipelines will require a new 
+deal and we will have to zero out the old deal.
+
+Before you make the change - make sure the logistics person is aware - just 
+in case it causes problems with their
+pipeline.   Sorry - I don't know which pipes these are - you will have to ask 
+the UNIFY team.
+
+There is one rule still in place - you can change from ENA-IM East to ENA-IM 
+Market East - but not from 
+ENA-IM Texas to HPLC-IM HPLC - when changing business units - they must be 
+the same legal entity. 
+"Warning - not the same legal entity"
+
+Also - beware of making contract and counterparty changes to Service deals 
+(Transport Capacity, Storage, Cash Out).
+Once the deal is invalidated - there are no rules.  Don't forget - the items 
+were locked down for a reason.
+ If you invalidate a service deal - and change the previously locked down 
+data that was validated - and someone used these
+deals in UNIFY - it is highly likely that the UNIFY deals and paths created 
+using these deals will get corrupted.  Always check 
+with someone from UNIFY to make sure no one used these deals for anything in 
+UNIFY.
+
+
+
+
+
+---------------------- Forwarded by Thomas Engel/HOU/ECT on 04/05/2000 09:47 
+AM ---------------------------
+From: Scott Mills on 04/04/2000 07:38 PM
+To: Kathryn Cordes/HOU/ECT@ECT, Dana Daigle/Corp/Enron@ENRON, Elizabeth L 
+Hernandez/HOU/ECT@ECT, Julie Meyers/HOU/ECT@ECT, B Scott Palmer/HOU/ECT@ECT, 
+Stephanie Sever/HOU/ECT@ECT, Dianne J Swiber/HOU/ECT@ECT
+cc: Steve Jackson/HOU/ECT@ECT, Thomas Engel/HOU/ECT@ECT, Sylvia A 
+Campos/HOU/ECT@ECT, Linda S Bryan/HOU/ECT@ECT, Faye Ellis/HOU/ECT@ECT, Donna 
+Consemiu/HOU/ECT@ECT 
+Subject: Sitara Release (Re: Changes in Global due to Consent to Assignment)  
+
+With the release that was put out Tuesday evening, Deal Validation should be 
+able to change the counterparty on deals where the volume is something other 
+than expected (e.g. confirmed, nominated, scheduled, etc.).  
+
+In addition, this release will also capture "near-time" the contract changes 
+that are made in global.  This means that need for server bounces will not be 
+necessary.
+
+ New/Changes to contracts will show up without having to get out of deal 
+manager.
+ New Counterparties, and new/changes to facilities will require getting out 
+of all active Sitara apps (except for launch pad).  
+  Once out of all apps, start a new app - the respective information that you 
+are looking for will appear.
+
+I mention "near-time" because we are constrained by the amount of time it 
+takes for the change in Global data to trigger an alert for Sitara who then 
+updates its information
+
+SRM (x33548)
+
+
+
+
+
+Cyndie Balfour-Flanagan@ENRON
+04/04/2000 03:41 PM
+To: Connie Sutton/HOU/ECT@ECT, Linda S Bryan/HOU/ECT@ECT, Kathryn 
+Cordes/HOU/ECT@ECT, Scott Mills/HOU/ECT@ECT, Richard Elwood/HOU/ECT@ECT, Dave 
+Nommensen/HOU/ECT@ECT, Kenneth M Harmon/HOU/ECT@ECT, Dana 
+Daigle/Corp/Enron@ENRON, Kathryn Cordes/HOU/ECT@ECT, Elizabeth L 
+Hernandez/HOU/ECT@ECT, Julie Meyers/HOU/ECT@ECT, B Scott Palmer/HOU/ECT@ECT, 
+Stephanie Sever/HOU/ECT@ECT, Dianne J Swiber/HOU/ECT@ECT, Gayle 
+Horn/Corp/Enron@ENRON, Brant Reves/HOU/ECT@ECT, Russell Diamond/HOU/ECT@ECT, 
+Debbie R Brackett/HOU/ECT@ECT, Steve Jackson/HOU/ECT@ECT
+cc:  
+Subject: Changes in Global due to Consent to Assignment
+
+The following changes will be made in the Global Contracts database due to 
+receipt of executed Consent to Assignment for the following contracts:
+
+Current Counterparty Name   Contract Type  Contract #   'New' Counterparty 
+Name
+CES - Commonwealth Energy Services  GISB   96029892  Commonwealth Energy 
+Services
+
+CES - Samuel Gary Jr. & Associates, Inc  GISB   96029302  Samuel Gary Jr. & 
+Associates
+
+CES - South Jersey Gas Company  GISB   96029143  South Jersey Gas Company
+
+CP name change and Contract Type correction (Contract Type different than 
+that provided by CES)
+Per CES
+CES - Southwest Gas Corporation  1/1/98 GISB  96029146
+
+Per Contract File
+CES - Southwest Gas Corporation  04/14/93 Master Purchase/Sale Interruptible 
+(will edit Global #96029146)
+&
+CES - Southwest Gas Corporation  12/01/94 Master Sale Firm   (created new 
+Global record to accommodate this K, #96037402)
+
+Please note that Southwest Gas Corporation has consented to the assignment of 
+both of these contracts.
+
+
+
+
+
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:27:13 2022
+Message-ID: <16987403.1075854184230.JavaMail.evans@thyme>
+Date: Tue, 27 Jun 2000 13:45:00 -0700 (PDT)
+From: brenda.herod@enron.com
+To: lisa.csikos@enron.com, daren.farmer@enron.com, mary.smith@enron.com,
+	rita.wynne@enron.com, steve.venturatos@enron.com,
+	pat.clynes@enron.com, michael.eiben@enron.com,
+	yvette.connevey@enron.com
+Subject: Wed Unify Mtg 2:00 - 2 Allen Center, 12th floor conf room
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Brenda F Herod
+X-To: Lisa Csikos, Daren J Farmer, Mary M Smith, Rita Wynne, Steve Venturatos, Pat Clynes, Michael Eiben, Yvette G Connevey
+X-cc: 
+X-bcc: 
+X-Folder: \Darren_Farmer_Dec2000\Notes Folders\Unify
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+Attached is the presentation that Jeff reviewed last week in the meeting.
+---------------------- Forwarded by Brenda F Herod/HOU/ECT on 06/27/2000 
+08:39 PM ---------------------------
+
+
+Jeff Johnson@ENRON
+06/19/2000 05:34 PM
+To: Beth Perlman/HOU/ECT@ECT, Bryce Baxter/HOU/ECT@ECT, Brent A 
+Price/HOU/ECT@ECT, Leslie Reeves/HOU/ECT@ECT, Laura E Scott/CAL/ECT@ECT, 
+Sheila Glover/HOU/ECT@ECT, Jefferson D Sorenson/HOU/ECT@ECT, Robert 
+Superty/HOU/ECT@ECT, Brenda F Herod/HOU/ECT@ECT, Kenneth M 
+Harmon/HOU/ECT@ECT, Dave Nommensen/HOU/ECT@ECT, Regan M Smith/HOU/ECT@ECT, 
+laray.odum@luminant.com, nadeem.abbasi@luminant.com, Scott 
+Williamson/HOU/ECT@ECT, Paul F Poellinger/HOU/ECT@ECT, John 
+Simmons/NA/Enron@Enron, Chris Hanz/Corp/Enron@Enron, Sally Beck/HOU/ECT@ECT, 
+Rebecca Ford/HOU/ECT@ECT
+cc: Angelina V Lorio/HOU/ECT@ECT, John Paskin/LON/ECT@ECT 
+Subject: Wed Unify Mtg 2:00 - 2 Allen Center, 12th floor conf room
+
+
+
+Please note that the Wed meeting will be held as planned from 2:00-4:00PM in 
+the 2 Allen Center in the 12th floor Forum conference room. 
+The room entrance is just off the elevator bank foyer. 
+
+Here is the draft of the presentation that we will discuss on Wednesday. We 
+are interested in your input and feedback in the meeting on Wednesday. 
+
+
+
+Thanks. 
+
+
+
+
+---------------------- Forwarded by Jeff Johnson/Corp/Enron on 06/19/2000 
+05:20 PM ---------------------------
+
+Alarm enabled: an alarm will occur  on 06/21/2000 01:55 PM
+	Calendar Entry
+
+
+Brief description:
+Date:
+Time:
+
+Unify System -- Problems and Proposed Immediate Projects. Two Allen Center, 
+12th floor forum
+06/21/2000
+02:00 PM - 04:00 PM
+
+
+Detailed description:
+
+
+The meeting will be held in Two Allen Center on the 12th floor in the large 
+conference room (called the Forum). The room entrance is just off the 
+elevator bank in the foyer. 
+
+
+We believe that we have an approach to immediately begin to address key 
+performance issues in the Unify system. 
+To be successful with the proposed projects, we need your input, sponsorship 
+and participation. Angie Lorio will find a location and will publish as soon 
+as possible. 
+
+The proposed agenda is as follows: 
+
+I. UNIFY --  Current State, Strengths, Issues
+II. Conceptual Overview Of Proposed Solutions
+Organization Building
+Performance Monitoring Team
+Sybase 12 Upgrade
+SQL Server Testing
+Middle Tier Rearchitecture Project
+Scoping For A Re-Write Effort
+III. Solutions Proposals / Plans For Immediate Review / Kickoff
+Proposed Scope
+Assumptions
+High Timelines / Cost Estimates
+Staffing
+IV. Facilitated Discussion On Unify 
+Future Growth / Changes Required For Unify 
+New Project Prioritization
+
+
+
+
+Invitations have been sent to: Beth Perlman/HOU/ECT@ECT, Bryce 
+Baxter/HOU/ECT@ECT, Brent A Price/HOU/ECT@ECT, Leslie Reeves/HOU/ECT@ECT, 
+Laura E Scott/CAL/ECT@ECT, Sheila Glover/HOU/ECT@ECT, Jefferson D 
+Sorenson/HOU/ECT@ECT, Robert Superty/HOU/ECT@ECT, Brenda F Herod/HOU/ECT@ECT, 
+Kenneth M Harmon/HOU/ECT@ECT, Dave Nommensen/HOU/ECT@ECT, Regan M 
+Smith/HOU/ECT@ECT, laray.odum@luminant.com, nadeem.abbasi@luminant.com, Scott 
+Williamson/HOU/ECT@ECT, Paul F Poellinger/HOU/ECT@ECT
+Optional invitees: Chris Hanz/Corp/Enron@Enron, John Simmons/NA/Enron@Enron, 
+Angie Lorio
+_________________________________________________________________________
+This meeting repeats   starting on    (if the date occurs on a weekend the 
+meeting ).
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:27:13 2022
+Message-ID: <22827118.1075854184127.JavaMail.evans@thyme>
+Date: Mon, 5 Jun 2000 01:28:00 -0700 (PDT)
+From: thomas.engel@enron.com
+To: kathryn.cordes@enron.com, julie.meyers@enron.com,
+	elizabeth.hernandez@enron.com, b.palmer@enron.com,
+	hillary.mack@enron.com, shawna.johnson@enron.com,
+	connie.sutton@enron.com, linda.bryan@enron.com,
+	anthony.campos@enron.com, sylvia.campos@enron.com,
+	stacey.richardson@enron.com, cyndie.balfour-flanagan@enron.com,
+	marlene.hilliard@enron.com, faye.ellis@enron.com,
+	karen.lambert@enron.com, scott.mills@enron.com,
+	russ.severson@enron.com, martha.stevens@enron.com,
+	karie.hastings@enron.com, regina.perkins@enron.com,
+	imelda.frayre@enron.com, william.kasemervisz@enron.com,
+	hunaid.engineer@enron.com, steven.gullion@enron.com,
+	larrissa.sharma@enron.com, peggy.hedstrom@enron.com,
+	kevin.heal@enron.com, brenda.herod@enron.com,
+	dave.mcmullan@enron.com, richard.pinion@enron.com,
+	donna.greif@enron.com, mark.mcclure@enron.com,
+	tommy.yanowski@enron.com, george.smith@enron.com,
+	edward.terry@enron.com, tricia.bowen@enron.com,
+	victor.lamadrid@enron.com, beverly.beaty@enron.com,
+	daren.farmer@enron.com, randall.gay@enron.com,
+	anita.patton@enron.com, carrie.hollomon@enron.com,
+	jeffrey.gossett@enron.com, william.kelly@enron.com,
+	steve.venturatos@enron.com, brenda.fletcher@enron.com,
+	kimberly.olinger@enron.com, kathryn.bussell@enron.com,
+	michael.eiben@enron.com
+Subject: NEW SU BRIDGE
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Thomas Engel
+X-To: Kathryn Cordes, Julie Meyers, Elizabeth L Hernandez, B Scott Palmer, Hillary Mack, Shawna Johnson, Connie Sutton, Linda S Bryan, Anthony Campos, Sylvia A Campos, Stacey Richardson, Cyndie Balfour-Flanagan, Marlene Hilliard, Faye Ellis, Karen Lambert, Scott Mills, Russ Severson, Martha Stevens, Karie Hastings, Regina Perkins, Imelda Frayre, William E Kasemervisz, Hunaid Engineer, Steven Gullion, Larrissa Sharma, Peggy Hedstrom, Kevin Heal, Brenda F Herod, Dave McMullan, Richard Pinion, Donna Greif, Mark McClure, Tommy J Yanowski, George Smith, Edward Terry, Tricia Bowen, Victor Lamadrid, Beverly Beaty, Daren J Farmer, Randall L Gay, Anita K Patton, Carrie Hollomon, Jeffrey C Gossett, William Kelly, Steve Venturatos, Brenda H Fletcher, Kimberly S Olinger, Kathryn Bussell, Michael Eiben
+X-cc: 
+X-bcc: 
+X-Folder: \Darren_Farmer_Dec2000\Notes Folders\Unify
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+The new SITARA to UNIFY bridge monitor is in production.
+
+The monitor shows deals in error state (failed) or in queue to bridge 
+(pending) - for deals going to UNIFY from SITARA.
+
+You will find it under - Start - Programs - Trading - SITARA - SU Bridge 
+Monitor.
+
+You may need to load the Borland BDE v5.0 software to use this, if not 
+already loaded. 
+
+We enhanced the monitor to make it a more useful tool.
+
+
+
+
+If deal is in an error state on the SITARA side - we have not sent it over to 
+UNIFY.
+If the deal in an error state on the UNIFY side - SITARA has sent it to UNIFY 
+- however - it is in the UNIFY failed deal group.
+
+You can sort by the columns - best to sort by business unit.
+
+The date column - shows the last time someone edited the deal. 
+Start Date and Stop Date - are begin and end date of deal.
+
+SITARA deal ID - as well as - EOL deal ID.
+
+Indicates if the deal is an business unit is an agent on the deal.
+
+If you are contract or validation support - please do not edit the STATUS = P 
+deals - these are the deals with pending status for desk to desk transactions 
+(awaiting the other desk to approve the deal or changes to the deal).  If you 
+release these deals - you will be the approver of the deal - as you have 
+access to multiple desks. 
+
+You can hit the refresh button to re-query the data - or set the auto refresh 
+on the tool bar.
+
+We did not build Filter by Business Unit for multiple reasons:
+- the expense to build the filter.
+- it is easier to support if everyone is looking at the same thing.
+- if there is a new business unit - you will see it.
+- normally - there should not be more than a screen full of deals in error 
+state - once Petro Can/Suncor/Sunoco are set up - we will have a reasonable
+  number to look at - and you can sort by the business unit column. 
+- If you do want to filter - you may do so - by using the send to excel 
+feature - under tool bar option - file - dump to excel.
+
+If you have any questions or problems - please call the SITARA hotline.
+
+From MAILER-DAEMON Mon Apr 18 14:27:13 2022
+Message-ID: <26962107.1075840440584.JavaMail.evans@thyme>
+Date: Thu, 25 Oct 2001 09:27:22 -0700 (PDT)
+From: victor.lamadrid@enron.com
+To: chuck.ames@enron.com, f..brawner@enron.com, chris.germany@enron.com,
+	scott.goodell@enron.com, john.hodge@enron.com, f..keavey@enron.com,
+	brad.mckay@enron.com, jonathan.mckay@enron.com, scott.neal@enron.com,
+	w..pereira@enron.com, vladi.pimenov@enron.com, andrea.ring@enron.com,
+	leonidas.savvas@enron.com, maureen.smith@enron.com,
+	craig.taylor@enron.com, judy.townsend@enron.com,
+	victoria.versen@enron.com, frank.vickers@enron.com
+Subject: FW: Sitara EOL Bridge Problem Today
+Cc: robert.superty@enron.com, f..smith@enron.com, richard.pinion@enron.com,
+	tammy.jaquet@enron.com, lisa.kinsey@enron.com, l..schrab@enron.com,
+	patti.sullivan@enron.com, j..farmer@enron.com, m.hall@enron.com,
+	suzanne.calcagno@enron.com, donna.greif@enron.com,
+	robert.allwein@enron.com, airam.arteaga@enron.com,
+	shanna.boudreaux@enron.com, tamara.carter@enron.com,
+	joann.collins@enron.com, stephanie.erwin@enron.com,
+	clarissa.garcia@enron.com, steve.gillespie@enron.com,
+	lia.halstead@enron.com, meredith.homco@enron.com,
+	kelly.loocke@enron.com, scott.loving@enron.com,
+	chris.ordway@enron.com, dan.prudenti@enron.com,
+	robert.ramirez@enron.com, christina.sanchez@enron.com,
+	tracy.wood@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: robert.superty@enron.com, f..smith@enron.com, richard.pinion@enron.com,
+	tammy.jaquet@enron.com, lisa.kinsey@enron.com, l..schrab@enron.com,
+	patti.sullivan@enron.com, j..farmer@enron.com, m.hall@enron.com,
+	suzanne.calcagno@enron.com, donna.greif@enron.com,
+	robert.allwein@enron.com, airam.arteaga@enron.com,
+	shanna.boudreaux@enron.com, tamara.carter@enron.com,
+	joann.collins@enron.com, stephanie.erwin@enron.com,
+	clarissa.garcia@enron.com, steve.gillespie@enron.com,
+	lia.halstead@enron.com, meredith.homco@enron.com,
+	kelly.loocke@enron.com, scott.loving@enron.com,
+	chris.ordway@enron.com, dan.prudenti@enron.com,
+	robert.ramirez@enron.com, christina.sanchez@enron.com,
+	tracy.wood@enron.com
+X-From: Lamadrid, Victor </O=ENRON/OU=NA/CN=RECIPIENTS/CN=VLAMADR>
+X-To: Ames, Chuck </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cames>, Brawner, Sandra F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sbrawne>, Germany, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cgerman>, Goodell, Scott </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sgoodel>, Hodge, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jhodge2>, Keavey, Peter F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pkeavey>, Mckay, Brad </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bmckay>, Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmckay1>, Neal, Scott </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sneal>, Pereira, Susan W. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Spereir>, Pimenov, Vladi </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vpimenov>, Ring, Andrea </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Aring>, Savvas, Leonidas </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lsavvas>, Smith, Maureen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mgreena>, Taylor, Craig </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jtaylo2>, Townsend, Judy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jtownse>, Versen, Victoria </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vversen>, Vickers, Frank </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Fvicker>
+X-cc: Superty, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rsupert>, Smith, George F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gsmith>, Pinion, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rpinion>, Jaquet, Tammy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tjaquet>, Kinsey, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkinsey>, Schrab, Mark L. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mschrab>, Sullivan, Patti </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Psulliv>, Farmer, Daren J. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dfarmer>, Hall, Bob M </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rhall3>, Calcagno, Suzanne </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Scalcagn>, Greif, Donna </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dcorrig>, Allwein, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rallwei>, Arteaga, Airam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Aarteag>, Boudreaux, Shanna </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sboudrea>, Carter, Tamara </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tcarter4>, Collins, Joann </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JCOLLIN>, Erwin, Stephanie  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Serwin2>, Garcia, Clarissa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cgarcia>, Gillespie, Steve </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sgillesp>, Halstead, Lia </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lhalstea>, Homco, Meredith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mmitch2>, Loocke, Kelly </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kloocke>, Loving, Scott </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sloving>, Ordway, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cordway>, Prudenti, Dan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DPRUDENT>, Ramirez, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rramire3>, Sanchez, Christina </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Csanche>, Wood, Tracy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Twood2>
+X-bcc: 
+X-Folder: \ExMerge - Farmer, Darren\Unify
+X-Origin: FARMER-D
+X-FileName: darren farmer 6-26-02.pst
+
+FYI>>>We were also monitoring the EOL to Sitara bridge during this time to inform our traders and other desks of the situation and status...All deals bridged over by 10:30ish. THANKS
+
+ -----Original Message-----
+From: 	Truong, Dat  
+Sent:	Thursday, October 25, 2001 11:11 AM
+To:	Moorer, Torrey; Lamadrid, Victor; Severson, Russ; Grant, George
+Cc:	Husain, Karima; Lim, Francis S.; Saluja, Gurdip; Sweitzer, Tara
+Subject:	Sitara EOL Bridge Problem Today
+
+The problem we faced today was due to 2 eol deal packets (2098073, 2099764) not having startdate and enddate.  Missing these 2 tibco message fields caused the bridge to bounce and resulted in the queue to build up while the bridge is starting up. (The bridge takes 2 minute for startup).  Each time these deals are sent/resent, it continuously cause the Sitarar EOLBridge to restart, thus magnifying the buildup of the queue.
+
+The corrective action we are taking at our end is to build a rejection logic when eol packets do not have start and/or enddate. 
+
+-Dat Truong 
+
+From MAILER-DAEMON Mon Apr 18 14:27:13 2022
+Message-ID: <32539766.1075854184181.JavaMail.evans@thyme>
+Date: Tue, 20 Jun 2000 07:01:00 -0700 (PDT)
+From: heather.choate@enron.com
+To: heather.choate@enron.com, diane.cook@enron.com, alex.saldana@enron.com,
+	robert.superty@enron.com, tricia.bowen@enron.com,
+	sabra.dinari@enron.com, edward.terry@enron.com, joe.casas@enron.com,
+	christina.sanchez@enron.com, scott.loving@enron.com,
+	meredith.mitchell@enron.com, victoria.versen@enron.com,
+	clarissa.garcia@enron.com, beverly.beaty@enron.com,
+	robert.allwein@enron.com, cindy.vachuska@enron.com,
+	jesse.villarreal@enron.com, joan.veselack@enron.com,
+	phillip.villagomez@enron.com, joann.collins@enron.com,
+	cynthia.franklin@enron.com, angie.zeman@enron.com,
+	steve.gillespie@enron.com, alvin.thompson@enron.com,
+	george.smith@enron.com, charles.muzzy@enron.com,
+	mark.schrab@enron.com, lisa.kinsey@enron.com,
+	margie.straight@enron.com, reyna.cabrera@enron.com,
+	darren.espey@enron.com, cora.pendergrass@enron.com,
+	kirk.lenart@enron.com, wes.dempsey@enron.com,
+	michael.taylor@enron.com, jacqueline.adams@enron.com,
+	stacey.brewer@enron.com, suzanne.christiansen@enron.com,
+	brenda.everett@enron.com, randall.gay@enron.com,
+	patti.sullivan@enron.com, natalie.baker@enron.com,
+	denise.squirrel@enron.com, morgan.sharifi@enron.com,
+	gary.payne@enron.com, kathryn.bussell@enron.com,
+	mark.mcclure@enron.com, richard.pinion@enron.com,
+	donna.greif@enron.com, victor.lamadrid@enron.com,
+	molly.johnson@enron.com, jason.williams@enron.com
+Subject: Unify stress test next week with Sybase 12.0
+Cc: yvette.connevey@enron.com, pat.clynes@enron.com, alex.saldana@enron.com,
+	daren.farmer@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: yvette.connevey@enron.com, pat.clynes@enron.com, alex.saldana@enron.com,
+	daren.farmer@enron.com
+X-From: Heather Choate
+X-To: Heather Choate, Diane H Cook, Alex Saldana, Robert Superty, Tricia Bowen, Sabra L Dinari, Edward Terry, Joe A Casas, Christina Sanchez, Scott Loving, Meredith Mitchell, Victoria Versen, Clarissa Garcia, Beverly Beaty, Robert Allwein, Cindy Vachuska, Jesse Villarreal, Joan Veselack, Phillip Villagomez, Joann Collins, Cynthia Franklin, Angie Zeman, Steve Gillespie, Alvin Thompson, George Smith, Charles T Muzzy, Mark L Schrab, Lisa Kinsey, Margie Straight, Reyna Cabrera, Darren Espey, Cora Pendergrass, Kirk Lenart, Wes Dempsey, Michael Taylor, Jacqueline P Adams, Stacey J Brewer, Suzanne Christiansen, Brenda Everett, Randall L Gay, Patti Sullivan, Natalie Baker, Denise Squirrel, Morgan Sharifi, Gary L Payne, Kathryn Bussell, Mark McClure, Richard Pinion, Donna Greif, Victor Lamadrid, Molly Johnson, Jason Williams
+X-cc: Yvette G Connevey, Pat Clynes, Alex Saldana, Daren J Farmer
+X-bcc: 
+X-Folder: \Darren_Farmer_Dec2000\Notes Folders\Unify
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+ 
+
+  Yvette/Pat/Daren- Please send this to your gas schedulers.  
+______________________________________________________________________________
+_____________________________________________________
+
+   
+Hi,
+
+You probably already heard... test of the new Sybase data base release is off 
+for today.  Testing will resume tomorrow, Wed 6/21 at Noon.  People should at 
+least verify their security access today.  If you do not have access, please 
+contact Diane Niestrath at 3-9931 or Dave McMullan at 3-9127.
+
+Diane Niestrath
+
+  
+	
+	
+	From:  Dave Nommensen                           06/16/2000 05:25 PM
+	
+
+To: Susan Harrison/HOU/ECT@ECT, Brenda F Herod/HOU/ECT@ECT, Bryce 
+Baxter/HOU/ECT@ECT, Rita Wynne/HOU/ECT@ECT, Pat Clynes/Corp/Enron@ENRON, 
+Randall L Gay/HOU/ECT@ECT, George Smith/HOU/ECT@ECT, Edward 
+Terry/HOU/ECT@ECT, Beverly Beaty/HOU/ECT@ECT, Carrie Hollomon/HOU/ECT@ect
+cc: Jeff Johnson/Corp/Enron@Enron, Scott Williamson/HOU/ECT@ECT, John 
+Pyle/Corp/Enron@ENRON, Jim Ogg/HOU/ECT@ECT, Jaikishore Bharathi/HOU/ECT@ECT, 
+Regan M Smith/HOU/ECT@ECT, Kenneth M Harmon/HOU/ECT@ECT, Paul F 
+Poellinger/HOU/ECT@ECT 
+Subject: Unify stress test next week with Sybase 12.0
+
+We have done some preliminary testing of the latest version of Sybase 
+(version 12).  We have seen very positive results from our initial tests and 
+would like to proceed with a "stress test" (not to be confused with me 
+showing up each day at work).  We would like to do 2 tests next week due to 
+hardware and business restrictions.
+
+The test would be similar to those from late-1998 (ah, those were the 
+days!).  We will ask all users, as well as I.T. folks, to run as many of 
+their usual processing during a scripted time frame from approx noon - 1:30pm 
+on Tuesday and Wednesday. Be sure to order some yummy pizza or sandwiches for 
+your staff!
+
+The Sybase 12.0 environment can be accessed via Start/Programs/Test 
+Applications/Unify Applications/Unify Gas-Power Stage.  On the Login window, 
+select server = "ASE 12 Test".  If you usual Production password does not 
+work, try "houston".  If that does not work, try a neighbor's (Audit says 
+that fine, its just a test).  Each user should plan to run several sessions 
+where permissible to simulate a heavy load on the system and to make up for 
+those not able to participate during this time.  Please have your staff try 
+to login some time Monday to insure they have access.
+
+The test script during the time period will be:
+12:00 - 1:30 Logistics:  pathing, nominating, running some reports
+12:20 - 1:30 Volume Management: do your thing
+12:40 - 1:30 Settlements/Accounting:  pile in
+
+Please let me know if your area would NOT be able to assist in this very 
+important test.  The results of these 2 tests will dictate whether we should 
+pursue our migration to this new release in mid-July.  The less bid weeks 
+with poor system performance the better!
+
+Thanks in advance for your help, d.n.
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:27:13 2022
+Message-ID: <26177786.1075854184256.JavaMail.evans@thyme>
+Date: Fri, 18 Aug 2000 05:18:00 -0700 (PDT)
+From: chris.schomer@enron.com
+To: unify.group@enron.com, unify.group@enron.com, unify.group@enron.com
+Subject: Unify passwords will be reset under Sybase 12.0
+Cc: dave.nommensen@enron.com, regan.smith@enron.com, kenneth.harmon@enron.com,
+	matt.pena@enron.com, ramesh.rao@enron.com, regan.smith@enron.com,
+	samuel.blaylock@enron.com, steve.neal@enron.com,
+	cynthia.clark@enron.com, richard.brockhan@enron.com,
+	jeff.zwiers@enron.com, mutaz.mallak@enron.com, hoong.foon@enron.com,
+	michael.cuccia@enron.com, russ.whitton@enron.com,
+	steve.roberts@enron.com, george.ji@enron.com, jeff.johnson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: dave.nommensen@enron.com, regan.smith@enron.com, kenneth.harmon@enron.com,
+	matt.pena@enron.com, ramesh.rao@enron.com, regan.smith@enron.com,
+	samuel.blaylock@enron.com, steve.neal@enron.com,
+	cynthia.clark@enron.com, richard.brockhan@enron.com,
+	jeff.zwiers@enron.com, mutaz.mallak@enron.com, hoong.foon@enron.com,
+	michael.cuccia@enron.com, russ.whitton@enron.com,
+	steve.roberts@enron.com, george.ji@enron.com, jeff.johnson@enron.com
+X-From: Chris Schomer
+X-To: Unify Financial User Group, Unify Gas User Group, Unify Power User Group
+X-cc: Dave Nommensen, Regan M Smith, Kenneth M Harmon, Matt Pena, Ramesh Rao, Regan M Smith, Samuel Blaylock, Steve Neal, Cynthia Clark, Richard Brockhan, Jeff Zwiers, Mutaz Mallak, Hoong P Foon, Michael Cuccia, Russ Whitton, Steve Roberts, George Ji, Jeff Johnson
+X-bcc: 
+X-Folder: \Darren_Farmer_Dec2000\Notes Folders\Unify
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+All,
+
+When we convert Unify to Sybase 12.0, all passwords will get reset to 
+"houston".  Once you login to Unify you will have to change you password.  
+This is an unavoidable side affect of migrating to Sybase 12.0.
+
+Thanks,
+Chris 
+
+From MAILER-DAEMON Mon Apr 18 14:27:13 2022
+Message-ID: <9837119.1075854183802.JavaMail.evans@thyme>
+Date: Fri, 21 Jan 2000 04:17:00 -0800 (PST)
+From: robert.superty@enron.com
+To: randall.gay@enron.com, george.smith@enron.com, edward.terry@enron.com,
+	katherine.kelly@enron.com, daren.farmer@enron.com,
+	pat.clynes@enron.com
+Subject: Monthly clean-up and bridge back for non-EDI pipes
+Cc: inja.chun@enron.com, dave.nommensen@enron.com, scotty.gilbert@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: inja.chun@enron.com, dave.nommensen@enron.com, scotty.gilbert@enron.com
+X-From: Robert Superty
+X-To: Randall L Gay, George Smith, Edward Terry, Katherine L Kelly, Daren J Farmer, Pat Clynes
+X-cc: Inja Chun, Dave Nommensen, Scotty Gilbert
+X-bcc: 
+X-Folder: \Darren_Farmer_Dec2000\Notes Folders\Unify
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+To help avoid Unify problems during bid-week we must be keeping up with the 
+business on the non-EDI pipes throughout the month rather than wait until the 
+end of the month to clean-up and bridge back. The IT staff has identified 
+this as one of the things Logistics could do to help them maintain reasonable 
+performance. 
+
+Please make sure you know the status of each of your pipes and speak to the 
+schedulers if you see they aren't keeping their data clean and bridged. I 
+expect you to keep on top of this throughout each month.
+
+We are asking everyone else to work around our schedule so lets make sure we 
+do our part.
+
+Thanks - Bob
+
+From MAILER-DAEMON Mon Apr 18 14:27:13 2022
+Message-ID: <25595385.1075854183712.JavaMail.evans@thyme>
+Date: Tue, 28 Dec 1999 00:03:00 -0800 (PST)
+From: dave.nommensen@enron.com
+To: george.smith@enron.com, edward.terry@enron.com, daren.farmer@enron.com,
+	randall.gay@enron.com, robert.superty@enron.com,
+	richard.pinion@enron.com, kevin.heal@enron.com,
+	kenneth.harmon@enron.com, gary.nelson@enron.com,
+	bryce.baxter@enron.com, sheri.thomas@enron.com, rita.wynne@enron.com,
+	dorothy.ricketts@enron.com, melissa.white@enron.com
+Subject: Unify Production back - EOL Deals highlighted
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Dave Nommensen
+X-To: George Smith, Edward Terry, Daren J Farmer, Randall L Gay, Robert Superty, Richard Pinion, Kevin Heal, Kenneth M Harmon, Gary Nelson, Bryce Baxter, Sheri Thomas, Rita Wynne, Dorothy Ricketts, Melissa White
+X-cc: 
+X-bcc: 
+X-Folder: \Darren_Farmer_Dec2000\Notes Folders\Unify
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+The Proton machine is up and Unify Production is now available.
+
+For being so patient, Path Manager will now highlight your EOL deals in 
+yellow.
+
+Thanks, d.n.
+
+From MAILER-DAEMON Mon Apr 18 14:27:13 2022
+Message-ID: <24808259.1075840440689.JavaMail.evans@thyme>
+Date: Wed, 10 Oct 2001 14:56:18 -0700 (PDT)
+From: lisa.kinsey@enron.com
+To: richard.pinion@enron.com, matt.pena@enron.com
+Subject: RE: Path Manager Rewrite / Optimization project
+Cc: john.warner@enron.com, brian.ripley@enron.com, romeo.d'souza@enron.com,
+	ramesh.rao@enron.com, victor.lamadrid@enron.com,
+	mary.sullivan@enron.com, patti.sullivan@enron.com,
+	kevin.heal@enron.com, theresa.staab@enron.com, j..farmer@enron.com,
+	tammy.jaquet@enron.com, robert.superty@enron.com,
+	kathryn.bussell@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Bcc: john.warner@enron.com, brian.ripley@enron.com, romeo.d'souza@enron.com,
+	ramesh.rao@enron.com, victor.lamadrid@enron.com,
+	mary.sullivan@enron.com, patti.sullivan@enron.com,
+	kevin.heal@enron.com, theresa.staab@enron.com, j..farmer@enron.com,
+	tammy.jaquet@enron.com, robert.superty@enron.com,
+	kathryn.bussell@enron.com
+X-From: Kinsey, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=LKINSEY>
+X-To: Pinion, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rpinion>, Pena, Matt </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mpena2>
+X-cc: Warner, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jwarner3>, Ripley, Brian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bripley>, D'Souza, Romeo </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rdsouza>, Rao, Ramesh </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rrao>, Lamadrid, Victor </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vlamadr>, Sullivan, Mary </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=191a6ff2-e84592c0-86256604-648eec>, Sullivan, Patti </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Psulliv>, Heal, Kevin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kheal>, Staab, Theresa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tstaab>, Farmer, Daren J. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dfarmer>, Jaquet, Tammy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tjaquet>, Superty, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rsupert>, Bussell l, Kathryn </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kbussel>
+X-bcc: 
+X-Folder: \ExMerge - Farmer, Darren\Unify
+X-Origin: FARMER-D
+X-FileName: darren farmer 6-26-02.pst
+
+My comments are in fuschia.
+Lisa
+
+ -----Original Message-----
+From: =09Pinion, Richard =20
+Sent:=09Wednesday, October 10, 2001 2:35 PM
+To:=09Pena, Matt
+Cc:=09Warner, John; Ripley, Brian; D'Souza, Romeo; Rao, Ramesh; Kinsey, Lis=
+a; Lamadrid, Victor; Sullivan, Mary; Sullivan, Patti; Heal, Kevin; Staab, T=
+heresa; Farmer, Daren J.; Jaquet, Tammy; Superty, Robert; Bussell l, Kathry=
+n
+Subject:=09RE: Path Manager Rewrite / Optimization project
+
+Following are my comments.  The managers cc'd might have some additional th=
+oughts.
+
+ -----Original Message-----
+From: =09Pena, Matt =20
+Sent:=09Monday, October 08, 2001 4:26 PM
+To:=09Pinion, Richard; Jaquet, Tammy; Superty, Robert; Pena, Matt
+Cc:=09Warner  , John ; Ripley, Brian; D'Souza, Romeo; Rao, Ramesh
+Subject:=09Path Manager Rewrite / Optimization project
+Importance:=09High
+
+All:
+
+We're currently identifying processes that are inefficient and could possib=
+ly benefit from being rewritten or not even performed.  Going foward, I wou=
+ld like Bob to appoint a lead business person to whom we could ask question=
+s and or suggest ideas to so that they could in turn validate this informat=
+ion with the desk managers/schedulers.  We had this approach with Nomlogic =
+and having Clarissa work the issues worked quite nicely.  Who ever you choo=
+se, we would need about 15% of their time for now.  Later on, with coordina=
+tion efforts and testing, it may go up to 75%.  I don't see that happening =
+for a while though.
+
+The sooner we get someone to devote to this, the better off we will be.  I =
+expect these changes that we'll be looking into should improve performance =
+quite a bit. =20
+
+That being said, we've identified three items that would speed up processin=
+g the retrieval of Path Manager. =20
+
+1)  Currently, the Path Manager attempts to reuse Path Ids.  I can't think =
+of any reason why we need to perform this extra step?    It runs through th=
+is processing on the application and generally doesn't find a match.  I kno=
+w Patti has mentioned this several times and I can't think of a valid reaso=
+n for performing this work.  I talked with Dave Nommensen, and according to=
+ him, what used to happen is that sometimes schedulers would get duplicate =
+paths out there which is why they put this code in place???  From a schedul=
+ing perspective, my understanding of what your main concern is to just main=
+tain your position and be able to change it.  If you were overpathed, you'd=
+ see it in the Path Manager either way. [Pinion, Richard]    To restate the=
+ question for clarity, in path manager a scheduler pulls down a supply, mar=
+ket and a service, adds any up/downstream contract information and/or Duns =
+or DRN override and then saves it.  Unify looks for an old path with those =
+exact variables and if it finds it re-uses it and if it does not find an ex=
+act match creates a new path and path id.  I had been told that to do away =
+with this function would create an unacceptably high amount of paths since =
+any path once nominated on could not be deleted.  Has this changed???  At o=
+ne time there were some schedulers that looked for the same path / activity=
+ number match for nominations.  Texas Eastern was the only pipeline that ne=
+eded the old activity numbers no matter how long it had been since they wer=
+e used.  I spoke with Chris Ordway and the new LINK system no longer needs =
+this to occur.  Transco uses activity numbers but uses the Activity number =
+cross reference table to that function and therefore should not be affected=
+.  Therefore, if it does not create a space or memory problem for Unify, I =
+don't think that this constant old path look up is needed.   [Kinsey, Lisa]=
+   Get rid of this. =20
+
+2)  The scheduling position window:  does anyone use this?  If not, we'll r=
+emove the code logic that populates this window.  I have never seen a sched=
+uler use this.  Please verify. [Pinion, Richard]   Originally such a window=
+ was in use by everyone in the legacy system "Autonoms" so it was duplicate=
+d in Unify by request.  It is not used in Unify now because of the other so=
+phisticated tools Unify provides which obviate it's use.  The only value wo=
+uld be notification of bridge errors or contract imbalances but there are o=
+ther ways to determine those problems.  As voted on in a previous meeting o=
+f the managers - Lose it!  [Kinsey, Lisa]  Why is this still here?=09=20
+
+3)  On the inventory pool list, does anyone need to see the Contarct Refere=
+nces List?  Again, this code is called every retrieval time and doesn't app=
+ear to be used from my observations.   If they do need this information, we=
+ could provide it, but if not, I'd prefer to remove the functionality. [Pin=
+ion, Richard]    This function is still very much in use by those with poin=
+t based pipelines that must use the imbalance pool to facilitate balancing =
+nomination volumes where multiple pipeline external pools exist and are pat=
+hed through the same contract imbalance pool.  Keep it!  [Kinsey, Lisa]  Ye=
+s.  We use this functionality a lot when pathing pools.=09=20
+
+4)  When pathing a one to many or many to one set of paths, what's the aver=
+age number of paths they create at one time?  What about updates?  I know t=
+hat ANR and NIGAS are big users of this feature since they have small packa=
+ges of gas that they are limited in size to.  Does the system seem faster w=
+hen you update one record at a time or chunks of records?  My real question=
+ is how often they do this and for what number of paths on both Updates and=
+ Inserts.  By update, I mean, going to the path list and changing an upstre=
+am / downstream contract or a PSNA which in turn forces a new path to be cr=
+eated. [Pinion, Richard]    This one to many or many to one pathing goes on=
+ every day on every pipeline.  There is no 'average'.  They typically updat=
+e a path with up/downstream meters or duns or dnb numbers one at a time how=
+ever.  I hope this answers your question.  I see no change to this process =
+at this time  [Kinsey, Lisa]  On some pipes this function is used more than=
+ others.  When it is used we try and do as many paths as possible.  At this=
+ time I do not see a need to change this process. =09=20
+
+5)  On brokered paths, do you want to utilize the same logic we have for Se=
+rvice?  In other words, when updating Brokered arrangements, we don't incor=
+porate the same logic for zeroing out the path and recreating a new arrangm=
+ent link and hence sending it to be renominated?  Why do we do this for ser=
+vice?  Is it because we have to renominate it?  I assume that's what it's f=
+or since we don't send brokered paths to the pipe.  Anyway, with the Nomlog=
+ic implmentation (two way interface), we were planning on having it behave =
+the same way as service.  We need this verified. [Pinion, Richard]    We do=
+n't perform the same logic for Brokered paths because these are not nominat=
+ed to the pipeline and hence do not need a zero path to be resent to the pi=
+peline when a significant change is made to the already nominated path.  I =
+don't see a need to change the way Brokered paths are behaving at this time=
+. [Kinsey, Lisa]  Agree with Richard.=09=20
+
+From MAILER-DAEMON Mon Apr 18 14:27:13 2022
+Message-ID: <11947249.1075854184003.JavaMail.evans@thyme>
+Date: Fri, 5 May 2000 02:02:00 -0700 (PDT)
+From: brenda.herod@enron.com
+To: daren.farmer@enron.com
+Subject: Unify performance problem on Wednesday
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Brenda F Herod
+X-To: Daren J Farmer
+X-cc: 
+X-bcc: 
+X-Folder: \Darren_Farmer_Dec2000\Notes Folders\Unify
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+FYI.
+---------------------- Forwarded by Brenda F Herod/HOU/ECT on 05/05/2000 
+09:01 AM ---------------------------
+
+
+Rita Wynne
+05/05/2000 08:11 AM
+To: Brenda F Herod/HOU/ECT@ECT
+cc:  
+Subject: Unify performance problem on Wednesday
+
+FYI.........
+---------------------- Forwarded by Rita Wynne/HOU/ECT on 05/05/2000 08:10 AM 
+---------------------------
+   
+	
+	
+	From:  Dave Nommensen                           05/04/2000 06:56 PM
+	
+
+To: George Smith/HOU/ECT@ECT, Edward Terry/HOU/ECT@ECT, Tricia 
+Bowen/HOU/ECT@ECT, Randall L Gay/HOU/ECT@ECT, Patti Sullivan/HOU/ECT@ECT, Pat 
+Clynes/Corp/Enron@ENRON, Carlos J Rodriguez/HOU/ECT@ECT, Robert 
+Superty/HOU/ECT@ECT, Bryce Baxter/HOU/ECT@ECT, Rita Wynne/HOU/ECT@ECT, Donna 
+Greif/HOU/ECT@ECT
+cc: Jeff Johnson/Corp/Enron@Enron, Tommy J Yanowski/HOU/ECT@ECT, Beth 
+Perlman/HOU/ECT@ECT, Scott Williamson/HOU/ECT@ECT, Jim Ogg/HOU/ECT@ECT, Regan 
+M Smith/HOU/ECT@ECT, Kenneth M Harmon/HOU/ECT@ECT 
+Subject: Unify performance problem on Wednesday
+
+As you are aware, the Unify system experienced significant performance 
+problems Wednesday from approx 9:30 am - 11:20 am.  The duration of the 
+problem was due to a type of system behavior we had not experienced before.  
+The problem was exacerbated by a multitude of additional user logins thinking 
+that a fresh login might work better.  Additional logins never improve 
+performance and generally degrade it, but that is another story.  (There was 
+actually a single user with 21 sessions!)  We had to "bounce" the server 
+twice to bring the system back to its normal level of performance.
+
+The good news is that we found out what caused the problem.  It was not a 
+particular user or a particular report or process.  It was actually an 
+intentional change to a specific table that we have done numerous times in 
+the past, but this particular change had drastic side effects.  We have 
+contacted Sybase with this problem to see if they can help determine if the 
+behavior is a "feature" or a bug.  In the meanwhile, we will do these types 
+of changes at night during scheduled outages.
+
+I apologize for the frustration, anxiety, and extra work brought on by this 
+problem and will take every precaution to see that it does not happen again.  
+If you have any further questions or comments, please feel free to give me a 
+call.
+
+Dave N.
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:27:13 2022
+Message-ID: <7706078.1075854184026.JavaMail.evans@thyme>
+Date: Tue, 9 May 2000 09:52:00 -0700 (PDT)
+From: donna.greif@enron.com
+To: kathryn.bussell@enron.com, robert.cotten@enron.com, mark.mcclure@enron.com,
+	gary.payne@enron.com, richard.pinion@enron.com,
+	paul.carroll@enron.com, diane.cook@enron.com,
+	robert.superty@enron.com, katherine.kelly@enron.com,
+	edward.terry@enron.com, george.smith@enron.com, pat.clynes@enron.com,
+	daren.farmer@enron.com, randall.gay@enron.com
+Subject: new Unify Transaction/Volume Count reports
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Donna Greif
+X-To: Kathryn Bussell, Robert Cotten, Mark McClure, Gary L Payne, Richard Pinion, Paul Carroll, Diane H Cook, Robert Superty, Katherine L Kelly, Edward Terry, George Smith, Pat Clynes, Daren J Farmer, Randall L Gay
+X-cc: 
+X-bcc: 
+X-Folder: \Darren_Farmer_Dec2000\Notes Folders\Unify
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+---------------------- Forwarded by Donna Greif/HOU/ECT on 05/09/2000 04:49 
+PM ---------------------------
+   
+	
+	
+	From:  Dave Nommensen                           05/09/2000 12:13 PM
+	
+
+To: Donna Greif/HOU/ECT@ECT
+cc:  
+Subject: new Unify Transaction/Volume Count reports
+
+fyi
+---------------------- Forwarded by Dave Nommensen/HOU/ECT on 05/09/2000 
+12:12 PM ---------------------------
+   
+	
+	
+	From:  Dave Nommensen                           05/09/2000 08:24 AM
+	
+
+To: Lisa B Cousino/HOU/ECT@ECT, Diane H Cook/HOU/ECT@ECT, Shari 
+Mao/HOU/ECT@ECT
+cc: Benedicta Tung/HOU/ECT@ECT 
+Subject: new Unify Transaction/Volume Count reports
+
+These 2 new reports are now available in 
+Start/Programs/Trading/Unify (Gas-Reporting).  This password should be the 
+same as your Unify (Gas) password.
+
+Go to Path Manager/Report/General Report Selection/Path Manager.
+
+The two new reports are Monthly Transaction Counts and Monthly Volume Counts.
+
+Enjoy, d.n.
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:27:13 2022
+Message-ID: <13238721.1075854183901.JavaMail.evans@thyme>
+Date: Wed, 5 Apr 2000 07:55:00 -0700 (PDT)
+From: mark.mcclure@enron.com
+To: donna.greif@enron.com
+Subject: Re: Sitara Release (Re: Changes in Global due to Consent to
+ Assignment)
+Cc: robert.superty@enron.com, kathryn.bussell@enron.com, robert.cotten@enron.com,
+	gary.payne@enron.com, richard.pinion@enron.com,
+	george.smith@enron.com, katherine.kelly@enron.com,
+	randall.gay@enron.com, daren.farmer@enron.com,
+	edward.terry@enron.com, bryce.baxter@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: robert.superty@enron.com, kathryn.bussell@enron.com, robert.cotten@enron.com,
+	gary.payne@enron.com, richard.pinion@enron.com,
+	george.smith@enron.com, katherine.kelly@enron.com,
+	randall.gay@enron.com, daren.farmer@enron.com,
+	edward.terry@enron.com, bryce.baxter@enron.com
+X-From: Mark McClure
+X-To: Donna Greif
+X-cc: Robert Superty, Kathryn Bussell, Robert Cotten, Gary L Payne, Richard Pinion, George Smith, Katherine L Kelly, Randall L Gay, Daren J Farmer, Edward Terry, Bryce Baxter
+X-bcc: 
+X-Folder: \Darren_Farmer_Dec2000\Notes Folders\Unify
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+Volume Management should be fine with this change. All name changes will be 
+still attached to the original path of the Buy/Sell deal. The Settlement 
+Group will have to make sure that the new name that is being added to the 
+deal has the appropriate 'Statement Group' attached.  Other than that this 
+change should flow smoothly.
+
+Thanks,
+m.m.
+
+
+   
+
+
+From:  Donna Greif                                                            
+ 04/05/2000 01:18 PM	
+	
+	
+	                           
+	
+
+To: Kathryn Bussell/HOU/ECT@ECT, Robert Cotten/HOU/ECT@ECT, Mark 
+McClure/HOU/ECT@ECT, Gary L Payne/HOU/ECT, Richard Pinion/HOU/ECT@ECT, Robert 
+Superty/HOU/ECT@ECT, George Smith/HOU/ECT@ECT, Katherine L Kelly/HOU/ECT@ECT, 
+Randall L Gay/HOU/ECT@ECT, Daren J Farmer/HOU/ECT@ECT, Edward 
+Terry/HOU/ECT@ECT
+cc: Dave Nommensen/HOU/ECT@ECT, Diane E Niestrath/HOU/ECT@ECT, Carrie 
+Hollomon/HOU/ECT@ect, Bryce Baxter/HOU/ECT@ECT, Kathryn Cordes/HOU/ECT@ECT, 
+Dana Daigle/Corp/Enron@ENRON, Elizabeth L Hernandez/HOU/ECT@ECT, Julie 
+Meyers/HOU/ECT@ECT, B Scott Palmer/HOU/ECT@ECT, Stephanie Sever/HOU/ECT@ECT, 
+Dianne J Swiber/HOU/ECT@ECT, Peggy Hedstrom/CAL/ECT@ECT, Dianne 
+Seib/CAL/ECT@ECT, Sylvia A Campos/HOU/ECT@ECT, Linda S Bryan/HOU/ECT@ECT, 
+Faye Ellis/HOU/ECT@ECT, Donna Consemiu/HOU/ECT@ECT, Scott Mills/HOU/ECT@ECT, 
+Russ Severson/HOU/ECT@ECT, Martha Stevens/HOU/ECT@ECT, Karie 
+Hastings/HOU/ECT@ECT, Regina Perkins/HOU/ECT@ECT, Imelda Frayre/HOU/ECT@ECT, 
+William E Kasemervisz/HOU/ECT@ECT, Hunaid Engineer/HOU/ECT@ECT, Steven 
+Gullion/HOU/ECT@ECT, Larrissa Sharma/HOU/ECT@ECT, Thomas Engel/HOU/ECT@ECT 
+Subject: Re: Sitara Release (Re: Changes in Global due to Consent to 
+Assignment)  
+
+FYI....
+
+This change went in for the Deal Validation group.   It gives them the 
+ability to change counterparties names after bridge back.
+
+Impact to Logistics - Unify
+If a counterparty name change takes place to deals that have been bridge 
+backed, it could cause problems on EDI pipes as that new counterparty name 
+will flow over to Unify and repathing should eventually take place.
+One problem may be with the Imbalance data sets, which are not in production 
+yet......(EDI Imbalance Qtys would not match up to paths)
+This may also cause an issue with the scheduled quantities (especially where 
+nominations were sent for entire month)
+can't remember the rules on this one, but I think Unify does have some safe 
+guards (idiot proofs) to force re-pathing.
+Unify does have the ability to over-ride duns numbers, yet would still cause 
+an additional step for EDI the scheduler would need to think through in order 
+to get a clean quick response.
+What are (if any) impacts to Vol Mgt if counterparty name changes take 
+place?  (prior periods?  re-pathing?)
+
+I have a call into Diane and Dave both.  After speaking w/ them, hopefully I 
+can get a clear understanding of the true impact.  I am sure we'll need to 
+put some processes and procedures together for Deal Validation to follow when 
+these type of changes are needed.
+
+Will keep you posted.
+
+Thanks,
+
+dg
+
+
+
+   
+	
+	
+	From:  Thomas Engel                           04/05/2000 09:44 AM
+	
+
+To: Kathryn Cordes/HOU/ECT@ECT, Dana Daigle/Corp/Enron@ENRON, Elizabeth L 
+Hernandez/HOU/ECT@ECT, Julie Meyers/HOU/ECT@ECT, B Scott Palmer/HOU/ECT@ECT, 
+Stephanie Sever/HOU/ECT@ECT, Dianne J Swiber/HOU/ECT@ECT, Peggy 
+Hedstrom/CAL/ECT@ECT, Dianne Seib/CAL/ECT@ECT
+cc: Sylvia A Campos/HOU/ECT@ECT, Linda S Bryan/HOU/ECT@ECT, Faye 
+Ellis/HOU/ECT@ECT, Donna Consemiu/HOU/ECT@ECT, Scott Mills/HOU/ECT@ECT, Russ 
+Severson/HOU/ECT@ECT, Martha Stevens/HOU/ECT@ECT, Karie Hastings/HOU/ECT@ECT, 
+Regina Perkins/HOU/ECT@ECT, Imelda Frayre/HOU/ECT@ECT, William E 
+Kasemervisz/HOU/ECT@ECT, Hunaid Engineer/HOU/ECT@ECT, Steven 
+Gullion/HOU/ECT@ECT, Larrissa Sharma/HOU/ECT@ECT, Donna Greif/HOU/ECT@ECT 
+Subject: Sitara Release (Re: Changes in Global due to Consent to Assignment)
+
+
+Regarding the ability to change counterparties on deals in SITARA with 
+confirmed volumes - Tom's words of caution:
+
+If someone calls you and wants to change a counterparty - we created the 
+ability for you to invalidate the deal - and 
+then change the counterparty - however - I did add a warning message:
+
+"Warning - changing counterparty on deal with confirmed volumes - make sure 
+pipeline allows this change."   
+
+Some pipelines do not allow us to change counterparties after there is 
+feedback - I assume for the same reasons
+we had this rule - it used to blow up our old scheduling systems 
+(pre-UNIFY).  Some pipelines will require a new 
+deal and we will have to zero out the old deal.
+
+Before you make the change - make sure the logistics person is aware - just 
+in case it causes problems with their
+pipeline.   Sorry - I don't know which pipes these are - you will have to ask 
+the UNIFY team.
+
+There is one rule still in place - you can change from ENA-IM East to ENA-IM 
+Market East - but not from 
+ENA-IM Texas to HPLC-IM HPLC - when changing business units - they must be 
+the same legal entity. 
+"Warning - not the same legal entity"
+
+Also - beware of making contract and counterparty changes to Service deals 
+(Transport Capacity, Storage, Cash Out).
+Once the deal is invalidated - there are no rules.  Don't forget - the items 
+were locked down for a reason.
+ If you invalidate a service deal - and change the previously locked down 
+data that was validated - and someone used these
+deals in UNIFY - it is highly likely that the UNIFY deals and paths created 
+using these deals will get corrupted.  Always check 
+with someone from UNIFY to make sure no one used these deals for anything in 
+UNIFY.
+
+
+
+
+
+---------------------- Forwarded by Thomas Engel/HOU/ECT on 04/05/2000 09:47 
+AM ---------------------------
+From: Scott Mills on 04/04/2000 07:38 PM
+To: Kathryn Cordes/HOU/ECT@ECT, Dana Daigle/Corp/Enron@ENRON, Elizabeth L 
+Hernandez/HOU/ECT@ECT, Julie Meyers/HOU/ECT@ECT, B Scott Palmer/HOU/ECT@ECT, 
+Stephanie Sever/HOU/ECT@ECT, Dianne J Swiber/HOU/ECT@ECT
+cc: Steve Jackson/HOU/ECT@ECT, Thomas Engel/HOU/ECT@ECT, Sylvia A 
+Campos/HOU/ECT@ECT, Linda S Bryan/HOU/ECT@ECT, Faye Ellis/HOU/ECT@ECT, Donna 
+Consemiu/HOU/ECT@ECT 
+Subject: Sitara Release (Re: Changes in Global due to Consent to Assignment)  
+
+With the release that was put out Tuesday evening, Deal Validation should be 
+able to change the counterparty on deals where the volume is something other 
+than expected (e.g. confirmed, nominated, scheduled, etc.).  
+
+In addition, this release will also capture "near-time" the contract changes 
+that are made in global.  This means that need for server bounces will not be 
+necessary.
+
+ New/Changes to contracts will show up without having to get out of deal 
+manager.
+ New Counterparties, and new/changes to facilities will require getting out 
+of all active Sitara apps (except for launch pad).  
+  Once out of all apps, start a new app - the respective information that you 
+are looking for will appear.
+
+I mention "near-time" because we are constrained by the amount of time it 
+takes for the change in Global data to trigger an alert for Sitara who then 
+updates its information
+
+SRM (x33548)
+
+
+
+
+
+Cyndie Balfour-Flanagan@ENRON
+04/04/2000 03:41 PM
+To: Connie Sutton/HOU/ECT@ECT, Linda S Bryan/HOU/ECT@ECT, Kathryn 
+Cordes/HOU/ECT@ECT, Scott Mills/HOU/ECT@ECT, Richard Elwood/HOU/ECT@ECT, Dave 
+Nommensen/HOU/ECT@ECT, Kenneth M Harmon/HOU/ECT@ECT, Dana 
+Daigle/Corp/Enron@ENRON, Kathryn Cordes/HOU/ECT@ECT, Elizabeth L 
+Hernandez/HOU/ECT@ECT, Julie Meyers/HOU/ECT@ECT, B Scott Palmer/HOU/ECT@ECT, 
+Stephanie Sever/HOU/ECT@ECT, Dianne J Swiber/HOU/ECT@ECT, Gayle 
+Horn/Corp/Enron@ENRON, Brant Reves/HOU/ECT@ECT, Russell Diamond/HOU/ECT@ECT, 
+Debbie R Brackett/HOU/ECT@ECT, Steve Jackson/HOU/ECT@ECT
+cc:  
+Subject: Changes in Global due to Consent to Assignment
+
+The following changes will be made in the Global Contracts database due to 
+receipt of executed Consent to Assignment for the following contracts:
+
+Current Counterparty Name   Contract Type  Contract #   'New' Counterparty 
+Name
+CES - Commonwealth Energy Services  GISB   96029892  Commonwealth Energy 
+Services
+
+CES - Samuel Gary Jr. & Associates, Inc  GISB   96029302  Samuel Gary Jr. & 
+Associates
+
+CES - South Jersey Gas Company  GISB   96029143  South Jersey Gas Company
+
+CP name change and Contract Type correction (Contract Type different than 
+that provided by CES)
+Per CES
+CES - Southwest Gas Corporation  1/1/98 GISB  96029146
+
+Per Contract File
+CES - Southwest Gas Corporation  04/14/93 Master Purchase/Sale Interruptible 
+(will edit Global #96029146)
+&
+CES - Southwest Gas Corporation  12/01/94 Master Sale Firm   (created new 
+Global record to accommodate this K, #96037402)
+
+Please note that Southwest Gas Corporation has consented to the assignment of 
+both of these contracts.
+
+
+
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:27:13 2022
+Message-ID: <24916353.1075854183780.JavaMail.evans@thyme>
+Date: Tue, 11 Jan 2000 08:47:00 -0800 (PST)
+From: dave.nommensen@enron.com
+To: paul.poellinger@enron.com, dave.mcmullan@enron.com
+Subject: rollout schedule for Unify real-time Deal/Path updates
+Cc: inja.chun@enron.com, tommy.yanowski@enron.com, scotty.gilbert@enron.com,
+	robert.superty@enron.com, daren.farmer@enron.com,
+	kevin.heal@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: inja.chun@enron.com, tommy.yanowski@enron.com, scotty.gilbert@enron.com,
+	robert.superty@enron.com, daren.farmer@enron.com,
+	kevin.heal@enron.com
+X-From: Dave Nommensen
+X-To: Paul F Poellinger, Dave McMullan
+X-cc: Inja Chun, Tommy J Yanowski, Scotty Gilbert, Robert Superty, Daren J Farmer, Kevin Heal
+X-bcc: 
+X-Folder: \Darren_Farmer_Dec2000\Notes Folders\Unify
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+A walk-thru/demo of this new functionality was held today with the Logistics 
+Managers and representative schedulers from each region except for Texas and 
+Calgary.  The changes were well received and no revisions were requested.  
+They would like to have the changes migrated to Production the evening of 
+Tuesday, January 18 for use the morning of Wednesday, January 19.
+
+Paul, could you please insure that the network folks have the Tibco install 
+complete by Monday, including Terminal Server.
+Scotty, Paul may need one of your folks to insure that the Tibco install 
+works OK on Terminal Server (none of us have access).
+Scotty, can you follow up with Calgary and Texas since they missed the demo.
+ Also, what level of security is desired for the rollout - selected 
+schedulers or all of Logistics?
+Dave M, plan to have the last few related items in Stage by Monday to insure 
+all is clean by Tuesday night. (print, filter, closed Path List, & app close 
+error msg)
+
+If you do not feel like this schedule can be met, please let me know as you 
+become aware.
+
+Thanks, d.n.
+
+From MAILER-DAEMON Mon Apr 18 14:27:13 2022
+Message-ID: <29516200.1075854184048.JavaMail.evans@thyme>
+Date: Fri, 12 May 2000 02:46:00 -0700 (PDT)
+From: romeo.d'souza@enron.com
+To: michael.eiben@enron.com, daren.farmer@enron.com, rita.wynne@enron.com,
+	gary.hanks@enron.com
+Subject: POPS IT Team temporarily moving to Allen Center
+Cc: clem.cernosek@enron.com, jennifer.pattison@enron.com, pat.clynes@enron.com,
+	mary.smith@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: clem.cernosek@enron.com, jennifer.pattison@enron.com, pat.clynes@enron.com,
+	mary.smith@enron.com
+X-From: Romeo D'Souza
+X-To: Michael Eiben, Daren J Farmer, Rita Wynne, Gary A Hanks
+X-cc: Clem Cernosek, Jennifer D Pattison, Pat Clynes, Mary M Smith
+X-bcc: 
+X-Folder: \Darren_Farmer_Dec2000\Notes Folders\Unify
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+Please note that the POPS team will be temporarily moving
+to 3 Allen Center starting Monday 5/15. We will be located
+in 3AC 3708 till we move back to the Enron Bldg.
+
+The POPS oncall pager :      713-796-4149
+POPS Cellular:                       713-562-2458
+
+Also note that I'll be attending a class  thru the whole of next week (5/15 - 
+5/19)
+If there are any POPS issues please have your people contact the following 
+
+Christine Pham     x34202
+Shawn MacPhail  x31837
+
+thanks
+Romeo
+
+From MAILER-DAEMON Mon Apr 18 14:27:13 2022
+Message-ID: <10052256.1075854184074.JavaMail.evans@thyme>
+Date: Fri, 12 May 2000 04:09:00 -0700 (PDT)
+From: dave.nommensen@enron.com
+To: donna.greif@enron.com, robert.superty@enron.com, richard.pinion@enron.com,
+	kenneth.harmon@enron.com, judy.rose@enron.com, scott.mills@enron.com,
+	tommy.yanowski@enron.com, daren.farmer@enron.com,
+	george.smith@enron.com, charles.muzzy@enron.com,
+	edward.terry@enron.com, katherine.kelly@enron.com,
+	tricia.bowen@enron.com, randall.gay@enron.com, gary.nelson@enron.com,
+	regan.smith@enron.com, jim.ogg@enron.com,
+	jaikishore.bharathi@enron.com, susan.harrison@enron.com,
+	rita.wynne@enron.com, bryce.baxter@enron.com,
+	dave.mcmullan@enron.com, trisha.luong@enron.com,
+	diane.niestrath@enron.com, benedicta.tung@enron.com,
+	paul.poellinger@enron.com, larry.scott@enron.com,
+	romeo.d'souza@enron.com, heather.choate@enron.com,
+	mark.schrab@enron.com, reyna.cabrera@enron.com,
+	patti.sullivan@enron.com, kevin.heal@enron.com,
+	mark.mcclure@enron.com, thomas.engel@enron.com, pat.clynes@enron.com,
+	carlos.rodriguez@enron.com, robert.cotten@enron.com,
+	kathryn.bussell@enron.com, carrie.hollomon@enron.com,
+	kimberly.olinger@enron.com
+Subject: Dave N out of pocket next week, beyond
+Cc: jeffery.johnson@enron.com, beth.perlman@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jeffery.johnson@enron.com, beth.perlman@enron.com
+X-From: Dave Nommensen
+X-To: Donna Greif, Robert Superty, Richard Pinion, Kenneth M Harmon, Judy Rose, Scott Mills, Tommy J Yanowski, Daren J Farmer, George Smith, Charles T Muzzy, Edward Terry, Katherine L Kelly, Tricia Bowen, Randall L Gay, Gary Nelson, Regan M Smith, Jim Ogg, Jaikishore Bharathi, Susan Harrison, Rita Wynne, Bryce Baxter, Dave McMullan, Trisha Luong, Diane E Niestrath, Benedicta Tung, Paul F Poellinger, Larry Scott, Romeo D'Souza, Heather Choate, Mark L Schrab, Reyna Cabrera, Patti Sullivan, Kevin Heal, Mark McClure, Thomas Engel, Pat Clynes, Carlos J Rodriguez, Robert Cotten, Kathryn Bussell, Carrie Hollomon, Kimberly S Olinger
+X-cc: Jeffery Johnson, Beth Perlman
+X-bcc: 
+X-Folder: \Darren_Farmer_Dec2000\Notes Folders\Unify
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+I will be in class next week at the Hyatt.  If you have Unify performance 
+issues that need immediate attention, please call:
+Jim Ogg 5-7225
+Kishore B. 3-0347
+Russ Whitton 3-3874
+You already have my pager number.
+
+Also, for the next 2 months while our office space is being gutted and 
+re-built, I will be located in 3 Allen Center, 37th floor.  How convenient.
+I will have the same phone number.  Feel free to send me a postcard ;-)
+
+d.n.
+
+From MAILER-DAEMON Mon Apr 18 14:27:13 2022
+Message-ID: <27565004.1075854184152.JavaMail.evans@thyme>
+Date: Thu, 15 Jun 2000 05:17:00 -0700 (PDT)
+From: regina.perkins@enron.com
+To: jeffrey.gossett@enron.com, william.kelly@enron.com,
+	carrie.hollomon@enron.com, kam.keiser@enron.com,
+	david.oliver@enron.com, victor.lamadrid@enron.com,
+	edward.terry@enron.com, george.smith@enron.com,
+	daren.farmer@enron.com, pat.clynes@enron.com,
+	carlos.rodriguez@enron.com, randall.gay@enron.com,
+	tricia.bowen@enron.com
+Subject: Desk to Desk deals
+Cc: jayant.krishnaswamy@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jayant.krishnaswamy@enron.com
+X-From: Regina Perkins
+X-To: Jeffrey C Gossett, William Kelly, Carrie Hollomon, Kam Keiser, David Oliver, Victor Lamadrid, Edward Terry, George Smith, Daren J Farmer, Pat Clynes, Carlos J Rodriguez, Randall L Gay, Tricia Bowen
+X-cc: Jayant Krishnaswamy
+X-bcc: 
+X-Folder: \Darren_Farmer_Dec2000\Notes Folders\Unify
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+During mid-july, SITARA will change the logic on Desk to Desk deals to post 
+the volume associated with the Sales (Seller) side to the SITARA deal.  
+Currently, the volume on the Receipt (Buyer) side is being posted.  This 
+change will be implemented in order to coincide with the logic currently 
+being used in SAP.  This change should help to avoid Intercompany imbalances.
+
+Please be aware that this change will effect Desk to Desk deals only.  The 
+logic on Transport Usage deals will remain as it is currently - Delivery 
+Point (To) - posts to the SITARA deal.
+
+If you have any questions, please give me a call at X39222.
+
+Chao!
+
+From MAILER-DAEMON Mon Apr 18 14:27:13 2022
+Message-ID: <26986436.1075854184299.JavaMail.evans@thyme>
+Date: Wed, 15 Nov 2000 04:41:00 -0800 (PST)
+From: pat.clynes@enron.com
+To: daren.farmer@enron.com, david.baumbach@enron.com
+Subject: Re: Prelminary Findings on Deals Not Bridging
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Pat Clynes
+X-To: Daren J Farmer, David Baumbach
+X-cc: 
+X-bcc: 
+X-Folder: \Darren_Farmer_Dec2000\Notes Folders\Unify
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+	Matt Pena
+	11/15/2000 12:09 PM
+	
+To: Robert Superty/HOU/ECT@ECT
+cc: Edward Terry/HOU/ECT@ECT, Victor Lamadrid/HOU/ECT@ECT, Pat 
+Clynes/Corp/Enron@ENRON, Donna Greif/HOU/ECT@ECT, Richard Pinion/HOU/ECT@ECT, 
+Patti Sullivan/HOU/ECT@ECT, George Smith/HOU/ECT@ECT, Randall L 
+Gay/HOU/ECT@ECT, Tricia Spence/HOU/ECT@ECT, Carlos J Rodriguez/HOU/ECT@ECT, 
+Tom Acton/Corp/Enron@ENRON 
+
+Subject: Prelminary Findings on Deals Not Bridging
+
+I've attached a spreadsheet showing deals that were not bridged to Unify for 
+November.  Please don't let this alarm you, this is how the bridge has always 
+worked.  If you have questions or would like to discuss, please let me know.
+
+Every instance I've found looks okay because of the following:
+
+* A Transport Ut ticket on the same pipe was the deal
+* The deal was killed
+* The deal was entered as a mistake buy and should of been a sell hence the 
+Inactive state in Unify
+* The deal was a demand based deal price with no volumes
+* The deal didn't have a point assigned to it, only a zone
+
+Thanks
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:27:13 2022
+Message-ID: <1569939.1075840440497.JavaMail.evans@thyme>
+Date: Tue, 20 Nov 2001 12:14:02 -0800 (PST)
+From: anwar.melethil@enron.com
+To: bryce.baxter@enron.com, kathryn.bussell@enron.com, cheryl.dawes@enron.com,
+	margaret.dhont@enron.com, terry'.'ed@enron.com, j..farmer@enron.com,
+	donna.greif@enron.com, m.hall@enron.com, melanie.harwell@enron.com,
+	kevin.heal@enron.com, camp'.'howard@enron.com,
+	charles.jacobs@enron.com, tammy.jaquet@enron.com,
+	lopez'.'john@enron.com, lisa.kinsey@enron.com,
+	shahnaz.lakho@enron.com, victor.lamadrid@enron.com,
+	shirley.machleit@enron.com, mark.mcclure@enron.com,
+	thomas.mcfatridge@enron.com, s..olinger@enron.com,
+	scott.palmer@enron.com, richard.pinion@enron.com,
+	leslie.reeves@enron.com, f..smith@enron.com, theresa.staab@enron.com,
+	patti.sullivan@enron.com, robert.superty@enron.com,
+	lisa.valderrama@enron.com, rita.wynne@enron.com
+Subject: RE: Unify Gas Month end Close - November 2001
+Cc: michael.cuccia@enron.com, michael.kaspereit@enron.com,
+	robert.laurel@enron.com, mutaz.mallak@enron.com,
+	danny.martinez@enron.com, steve.neal@enron.com, matt.pena@enron.com,
+	steve.roberts@enron.com, m..smith@enron.com, sql_mail@enron.com,
+	darren.stokes@enron.com, bob.ward@enron.com, john.warner@enron.com,
+	jeff.zwiers@enron.com, dba.dl-sql@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: michael.cuccia@enron.com, michael.kaspereit@enron.com,
+	robert.laurel@enron.com, mutaz.mallak@enron.com,
+	danny.martinez@enron.com, steve.neal@enron.com, matt.pena@enron.com,
+	steve.roberts@enron.com, m..smith@enron.com, sql_mail@enron.com,
+	darren.stokes@enron.com, bob.ward@enron.com, john.warner@enron.com,
+	jeff.zwiers@enron.com, dba.dl-sql@enron.com
+X-From: Melethil, Anwar </O=ENRON/OU=NA/CN=RECIPIENTS/CN=AMELETHI>
+X-To: Baxter, Bryce </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bbaxter>, Bussell l, Kathryn </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kbussel>, Dawes, Cheryl </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cdawes>, Dhont, Margaret </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mdhont>, 'Ed Terry' <eaterry@aep.com>, Farmer, Daren J. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dfarmer>, Greif, Donna </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dcorrig>, Hall, Bob M </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rhall3>, Harwell, Melanie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mharwell>, Heal, Kevin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kheal>, 'Howard Camp' <hbcamp@aep.com>, Jacobs, Charles </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cjacobs>, Jaquet, Tammy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tjaquet>, 'John Lopez' <jrlopez@aep.com>, Kinsey, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkinsey>, Lakho, Shahnaz </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Slakho>, Lamadrid, Victor </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vlamadr>, Machleit, Shirley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Smachlei>, Mcclure, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mmcclur>, McFatridge, Thomas </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tmcfatri>, Olinger, Kimberly S. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kolinge>, Palmer, B. Scott </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Spalmer>, Pinion, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rpinion>, Reeves, Leslie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lreeves>, Smith, George F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gsmith>, Staab, Theresa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tstaab>, Sullivan, Patti </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Psulliv>, Superty, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rsupert>, Valderrama, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lvalde2>, Wynne, Rita </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rwynne>
+X-cc: Cuccia, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mcuccia>, Kaspereit, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mkasper>, Laurel, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rlaurel>, Mallak, Mutaz </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mmallak>, Martinez, Danny </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dmarti10>, Neal, Steve </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sneal2>, Pena, Matt </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mpena2>, Roberts, Steve </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sroberts>, Smith, Regan M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rsmith>, SQL_MAIL </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbx_sqlmail>, Stokes, Darren </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dstokes>, Ward, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bward2>, Warner, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jwarner3>, Zwiers, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jzwiers>, DL-SQL Server DBA </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DL-SQLServerDBA>
+X-bcc: 
+X-Folder: \ExMerge - Farmer, Darren\Unify
+X-Origin: FARMER-D
+X-FileName: darren farmer 6-26-02.pst
+
+please see attached. this includes Richard Pinion's changes for Logistics.
+
+ 
+thanks,
+Anwar
+
+ -----Original Message-----
+From: 	Melethil, Anwar  
+Sent:	Wednesday, November 14, 2001 5:19 PM
+To:	Baxter, Bryce; Bussell, Kathryn; Dawes, Cheryl; Dhont, Margaret; Ed Terry; Farmer, Daren J.; Greif, Donna; Hall, Bob M; Harwell, Melanie; Heal, Kevin; Howard Camp; Jacobs, Charles; Jaquet, Tammy; John Lopez; Kinsey, Lisa; Lakho, Shahnaz; Lamadrid, Victor; Machleit, Shirley; Mcclure, Mark; McFatridge, Thomas; Olinger, Kimberly S.; Palmer, B. Scott; Pinion, Richard; Reeves, Leslie; Smith, George F.; Staab, Theresa; Sullivan, Patti; Superty, Robert; Valderrama, Lisa; Wynne, Rita
+Cc:	Cuccia, Michael; Kaspereit, Michael; Laurel, Robert; Mallak, Mutaz; Martinez, Danny; Neal, Steve; Pena, Matt; Roberts, Steve; Smith, Regan M.; SQL_MAIL; Stokes, Darren; Ward, Bob; Warner, John; Zwiers, Jeff
+Subject:	RE: Unify Gas Month end Close - November 2001
+
+attached is the month end close document for Gas Settlements:
+
+ << File: Month End Close -November.doc >> 
+
+the first mass draft run is tomorrow, Nov 15 for ENA Sales/Supply at 7.00pm.
+Michael Cuccia will be monitoring the mass drafts for this month end.
+
+thanks,
+Anwar
+
+ -----Original Message-----
+From: 	Melethil, Anwar  
+Sent:	Tuesday, November 13, 2001 3:01 PM
+To:	Baxter, Bryce; Hiatt, Wendy; Jaquet, Tammy; Lakho, Shahnaz; Mcclure, Mark; Pinion, Richard; Wynne, Rita
+Cc:	Cuccia, Michael; Laurel, Robert; Mallak, Mutaz; Martinez, Danny; Neal, Steve; Pena, Matt; Roberts, Steve; Smith, Regan M.; SQL_MAIL; Stokes, Darren; Ward, Bob; Warner, John; Zwiers, Jeff
+Subject:	Unify Gas Month end Close - November 2001
+
+Please review the attached 'month end close' document and let us know if you would like to make any changes.
+
+ << File: Month End Close -November.doc >> 
+
+i will be sending out this document tomorrow to the other Business Leads who are not in this list.
+
+thanks very much.
+
+Cheers,
+Anwar
+
+From MAILER-DAEMON Mon Apr 18 14:27:13 2022
+Message-ID: <25317843.1075854183874.JavaMail.evans@thyme>
+Date: Mon, 3 Apr 2000 09:51:00 -0700 (PDT)
+From: dave.nommensen@enron.com
+To: edward.terry@enron.com, katherine.kelly@enron.com, tricia.bowen@enron.com,
+	chris.germany@enron.com, maria.garza@enron.com,
+	george.smith@enron.com, randall.gay@enron.com,
+	daren.farmer@enron.com, carlos.rodriguez@enron.com,
+	pat.clynes@enron.com, kimberly.olinger@enron.com
+Subject: Procedure for adding new Capacity tickets for multi-desk Service
+ utilization - revised
+Cc: tommy.yanowski@enron.com, scott.mills@enron.com, thomas.engel@enron.com,
+	robert.superty@enron.com, inja.chun@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: tommy.yanowski@enron.com, scott.mills@enron.com, thomas.engel@enron.com,
+	robert.superty@enron.com, inja.chun@enron.com
+X-From: Dave Nommensen
+X-To: Edward Terry, Katherine L Kelly, Tricia Bowen, Chris Germany, Maria Garza, George Smith, Randall L Gay, Daren J Farmer, Carlos J Rodriguez, Pat Clynes, Kimberly S Olinger
+X-cc: Tommy J Yanowski, Scott Mills, Thomas Engel, Robert Superty, Inja Chun
+X-bcc: 
+X-Folder: \Darren_Farmer_Dec2000\Notes Folders\Unify
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+Revision in bold.  Pass on to any who may need this.
+
+In order to provide the ability to track transport expense by Desk, Sitara 
+was modified to allow multiple Transport Capacity tickets for the same 
+Service Contract provided that they are for different desks and only one is 
+tagged as "Primary".  Here is the procedure for setting up new Capacity 
+tickets to reflect the "other" desks:
+
+a.  You will probably first notice this via a warning/error message in Path 
+Manager when building a new path.  The message will read something like   
+"Source/Destination 123456 for desk IMCT does not match Service contract 3434 
+and will be removed."
+b.  Make note of the deal number in the Service List of the Service contract 
+that you were using in the new path.
+c.  Open that Transport Capacity deal in Sitara.  Then hit Copy.
+d.  On the new deal:
+ Change the Buyer from the old desk to the new desk that matches the Supply 
+or Market deal that you are pathing with.  If it a deal for which we are 
+  agent, then don't change the Buyer but instead change the Agent to the new 
+desk.  The "primary" deal will carry the actual Agent.  The Agent
+  contract will get cleared.  Re-select the Agent Contract.
+ Changing the Buyer causes the Contract field to get blanked out.  Re-select 
+the Pipeline contract.
+ Just above the various exchange line items is a Primary Deal check box.  
+Un-check it.
+ On each exchange line item, change the MDQ to zero and for any Negotiated 
+rates, uncheck them as well.  The "primary" deal will carry the MDQ and
+  any negotiated Demand, Commodity or fuel.
+ Hit Release.
+e.  You may need to re-retrieve Path Manager.  You should see the Deal number 
+in the Service list now read "Multiple".  Right-click/Service Deals will list 
+the  specific deals.
+f.  Re-build the path as you originally desired.  The warning/error message 
+should not appear again.
+
+This could occur for any combination of Desk and Service Contract.
+Please file this in your "Call Dave If I Can't Find This" folder.
+
+Thanks, d.n.
+
+From MAILER-DAEMON Mon Apr 18 14:27:13 2022
+Message-ID: <8177090.1075840440554.JavaMail.evans@thyme>
+Date: Wed, 14 Nov 2001 08:56:47 -0800 (PST)
+From: richard.pinion@enron.com
+To: matt.pena@enron.com, ben.nguyen@enron.com, benedicta.tung@enron.com
+Subject: Zero Path Termination in Path Manager
+Cc: tammy.jaquet@enron.com, victor.lamadrid@enron.com, lisa.kinsey@enron.com,
+	kevin.heal@enron.com, f..smith@enron.com, j..farmer@enron.com,
+	lisa.kinsey@enron.com, shahnaz.lakho@enron.com,
+	kathryn.bussell@enron.com, wendy.hiatt@enron.com,
+	donna.greif@enron.com, l..schrab@enron.com,
+	clarissa.garcia@enron.com, john.warner@enron.com,
+	rita.wynne@enron.com, mark.mcclure@enron.com,
+	robert.superty@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: tammy.jaquet@enron.com, victor.lamadrid@enron.com, lisa.kinsey@enron.com,
+	kevin.heal@enron.com, f..smith@enron.com, j..farmer@enron.com,
+	lisa.kinsey@enron.com, shahnaz.lakho@enron.com,
+	kathryn.bussell@enron.com, wendy.hiatt@enron.com,
+	donna.greif@enron.com, l..schrab@enron.com,
+	clarissa.garcia@enron.com, john.warner@enron.com,
+	rita.wynne@enron.com, mark.mcclure@enron.com,
+	robert.superty@enron.com
+X-From: Pinion, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RPINION>
+X-To: Pena, Matt </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mpena2>, Nguyen, Ben </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bnguyen2>, Tung, Benedicta </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Btung>
+X-cc: Jaquet, Tammy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tjaquet>, Lamadrid, Victor </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vlamadr>, Kinsey, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkinsey>, Heal, Kevin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kheal>, Smith, George F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gsmith>, Farmer, Daren J. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dfarmer>, Kinsey, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkinsey>, 'jrlopez@aep.com', 'cjrodriguez@aep.com', Staab, Theresa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tstaab>, Lakho, Shahnaz </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Slakho>, Bussell l, Kathryn </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kbussel>, Hiatt, Wendy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Whiatt>, Greif, Donna </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dcorrig>, Schrab, Mark L. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mschrab>, Garcia, Clarissa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cgarcia>, Warner, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jwarner3>, Wynne, Rita </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rwynne>, Mcclure, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mmcclur>, Superty, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rsupert>
+X-bcc: 
+X-Folder: \ExMerge - Farmer, Darren\Unify
+X-Origin: FARMER-D
+X-FileName: darren farmer 6-26-02.pst
+
+Matt / Ben:
+
+I am responding to your request for comments on revising path manager by expanding the parameters of the path termination process to include zero volume paths on the last day of the month as a way to speed up Unify response and retrieve times.  
+
+Based on my interviews of various desks including AEP and Calgary and our recent discussions, we find a legitimate business need to allow zero volume paths to roll from month to month (requirements contracts on wellhead gas).  Following is a recap of what is PROPOSED to be done regarding zero path termination.
+
+1.  All paths that are zero on the last day of a month  (exception noted in #2 below)  will terminate on that day and WILL NO LONGER roll into the following month.
+	This path termination out function will run every night.  Any paths changed to zero retroactively will zero out future month's paths UNLESS a volume 
+	is on that path in the future month.
+
+2.  Zero Paths marked as "always send nominations" WILL CONTINUE to roll from month to month until changed to some other nomination option.  It appears that HPL
+	(736 paths) and NIGAS (1136 paths) might have some paths rolling that no longer need to.  A special one time handling of these paths will be coordinated with the
+	scheduler when you are ready.
+
+3.  Zero paths which roll from month to month using the "Volume Management - Do Not Send" function will CEASE to do so.  This was agree to by Patti in regards to 
+	paths for OBA tracking.
+
+ALL:
+Please respond via e-mail with any comments.
+
+Richard 
+x37339
+
+From MAILER-DAEMON Mon Apr 18 14:27:13 2022
+Message-ID: <13826846.1075854183733.JavaMail.evans@thyme>
+Date: Tue, 28 Dec 1999 08:07:00 -0800 (PST)
+From: dave.nommensen@enron.com
+To: stacey.neuweiler@enron.com
+Subject: missing TXU Lonestar and Oasis paths
+Cc: daren.farmer@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: daren.farmer@enron.com
+X-From: Dave Nommensen
+X-To: Stacey Neuweiler
+X-cc: Daren J Farmer
+X-bcc: 
+X-Folder: \Darren_Farmer_Dec2000\Notes Folders\Unify
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+Stacey,
+
+It looks like your missing paths revealed a quirk in our suppression of zero 
+paths.  There were 4 paths initially entered as zero, then changed to 
+non-zero on a later date.  The system did not correctly determine that the 
+zero path should no longer be suppressed.
+
+We have fixed the 4 paths affected and have corrected the code so this won't 
+happen any more.  Below is a screen print of the Nov 22 problem that is now 
+fixed.
+
+Thanks, d.n.
+
+From MAILER-DAEMON Mon Apr 18 14:27:13 2022
+Message-ID: <12188848.1075840440526.JavaMail.evans@thyme>
+Date: Wed, 14 Nov 2001 15:19:09 -0800 (PST)
+From: anwar.melethil@enron.com
+To: bryce.baxter@enron.com, kathryn.bussell@enron.com, cheryl.dawes@enron.com,
+	margaret.dhont@enron.com, terry.ed@enron.com, j..farmer@enron.com,
+	donna.greif@enron.com, m.hall@enron.com, melanie.harwell@enron.com,
+	kevin.heal@enron.com, camp.howard@enron.com,
+	charles.jacobs@enron.com, tammy.jaquet@enron.com,
+	lopez.john@enron.com, lisa.kinsey@enron.com, shahnaz.lakho@enron.com,
+	victor.lamadrid@enron.com, shirley.machleit@enron.com,
+	mark.mcclure@enron.com, thomas.mcfatridge@enron.com,
+	s..olinger@enron.com, scott.palmer@enron.com,
+	richard.pinion@enron.com, leslie.reeves@enron.com,
+	f..smith@enron.com, theresa.staab@enron.com,
+	patti.sullivan@enron.com, robert.superty@enron.com,
+	lisa.valderrama@enron.com, rita.wynne@enron.com
+Subject: RE: Unify Gas Month end Close - November 2001
+Cc: michael.cuccia@enron.com, michael.kaspereit@enron.com,
+	robert.laurel@enron.com, mutaz.mallak@enron.com,
+	danny.martinez@enron.com, steve.neal@enron.com, matt.pena@enron.com,
+	steve.roberts@enron.com, m..smith@enron.com, sql_mail@enron.com,
+	darren.stokes@enron.com, bob.ward@enron.com, john.warner@enron.com,
+	jeff.zwiers@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: michael.cuccia@enron.com, michael.kaspereit@enron.com,
+	robert.laurel@enron.com, mutaz.mallak@enron.com,
+	danny.martinez@enron.com, steve.neal@enron.com, matt.pena@enron.com,
+	steve.roberts@enron.com, m..smith@enron.com, sql_mail@enron.com,
+	darren.stokes@enron.com, bob.ward@enron.com, john.warner@enron.com,
+	jeff.zwiers@enron.com
+X-From: Melethil, Anwar </O=ENRON/OU=NA/CN=RECIPIENTS/CN=AMELETHI>
+X-To: Baxter, Bryce </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BBAXTER>, Bussell l, Kathryn </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KBUSSEL>, Dawes, Cheryl </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cdawes>, Dhont, Margaret </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mdhont>, Ed Terry <eaterry@aep.com>, Farmer, Daren J. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dfarmer>, Greif, Donna </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dcorrig>, Hall, Bob M </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rhall3>, Harwell, Melanie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mharwell>, Heal, Kevin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHEAL>, Howard Camp <hbcamp@aep.com>, Jacobs, Charles </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cjacobs>, Jaquet, Tammy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tjaquet>, John Lopez <jrlopez@aep.com>, Kinsey, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkinsey>, Lakho, Shahnaz </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Slakho>, Lamadrid, Victor </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vlamadr>, Machleit, Shirley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Smachlei>, Mcclure, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mmcclur>, McFatridge, Thomas </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tmcfatri>, Olinger, Kimberly S. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kolinge>, Palmer, B. Scott </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Spalmer>, Pinion, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rpinion>, Reeves, Leslie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lreeves>, Smith, George F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gsmith>, Staab, Theresa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tstaab>, Sullivan, Patti </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Psulliv>, Superty, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RSUPERT>, Valderrama, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lvalde2>, Wynne, Rita </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rwynne>
+X-cc: Cuccia, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mcuccia>, Kaspereit, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mkasper>, Laurel, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rlaurel>, Mallak, Mutaz </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mmallak>, Martinez, Danny </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dmarti10>, Neal, Steve </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sneal2>, Pena, Matt </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mpena2>, Roberts, Steve </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sroberts>, Smith, Regan M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rsmith>, SQL_MAIL </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbx_sqlmail>, Stokes, Darren </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dstokes>, Ward, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bward2>, Warner, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jwarner3>, Zwiers, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jzwiers>
+X-bcc: 
+X-Folder: \ExMerge - Farmer, Darren\Unify
+X-Origin: FARMER-D
+X-FileName: darren farmer 6-26-02.pst
+
+attached is the month end close document for Gas Settlements:
+
+ 
+
+the first mass draft run is tomorrow, Nov 15 for ENA Sales/Supply at 7.00pm.
+Michael Cuccia will be monitoring the mass drafts for this month end.
+
+thanks,
+Anwar
+
+ -----Original Message-----
+From: 	Melethil, Anwar  
+Sent:	Tuesday, November 13, 2001 3:01 PM
+To:	Baxter, Bryce; Hiatt, Wendy; Jaquet, Tammy; Lakho, Shahnaz; Mcclure, Mark; Pinion, Richard; Wynne, Rita
+Cc:	Cuccia, Michael; Laurel, Robert; Mallak, Mutaz; Martinez, Danny; Neal, Steve; Pena, Matt; Roberts, Steve; Smith, Regan M.; SQL_MAIL; Stokes, Darren; Ward, Bob; Warner, John; Zwiers, Jeff
+Subject:	Unify Gas Month end Close - November 2001
+
+Please review the attached 'month end close' document and let us know if you would like to make any changes.
+
+ << File: Month End Close -November.doc >> 
+
+i will be sending out this document tomorrow to the other Business Leads who are not in this list.
+
+thanks very much.
+
+Cheers,
+Anwar
+
+From MAILER-DAEMON Mon Apr 18 14:27:13 2022
+Message-ID: <5781647.1075854184322.JavaMail.evans@thyme>
+Date: Thu, 16 Nov 2000 01:23:00 -0800 (PST)
+From: pat.clynes@enron.com
+To: daren.farmer@enron.com
+Subject: Re: Sitara positions, end of month feedback from Unify
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Pat Clynes
+X-To: Daren J Farmer
+X-cc: 
+X-bcc: 
+X-Folder: \Darren_Farmer_Dec2000\Notes Folders\Unify
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+Robert Superty@ECT
+11/16/2000 09:02 AM
+To: Randall L Gay/HOU/ECT@ECT, Edward Terry/HOU/ECT@ECT, Victor 
+Lamadrid/HOU/ECT@ECT, Tricia Spence/HOU/ECT@ECT, George Smith/HOU/ECT@ECT, 
+Beverly Beaty/HOU/ECT@ECT, Pat Clynes/Corp/Enron@ENRON, Patti 
+Sullivan/HOU/ECT@ECT, Donna Greif/HOU/ECT@ECT, Richard Pinion/HOU/ECT@ECT
+cc: Dave Nommensen/HOU/ECT@ECT, Matt Pena/NA/Enron@Enron, Bob M 
+Hall/NA/Enron@Enron 
+
+Subject: Re: Sitara positions, end of month feedback from Unify  
+
+Please take note of Dave's very important  message regarding Sitara 
+positions. We absolutely cannot afford to go through this again and need to 
+do everything  possible to help limit the exposure. With prices where they 
+are and winter weather upon us we will most likely have a very challenging 
+bid week. 
+
+That being said I want each of you to make sure we adhere to the "daily 
+clean" process. You should pull all the necessary reports each day and keep 
+after the schedulers to make sure they are up to date. If you wish, Donna and 
+Richard can make these available each day and distribute to the group. We 
+don't have much time so this needs to happen immediately.
+
+Donna, please provide me with a daily summary of all the desks for the 
+remainder of the month. 
+
+
+Let me know if you have any questions or concerns, thanks - Bob
+
+ 
+
+
+   
+	
+	
+	From:  Dave Nommensen                           11/16/2000 08:31 AM
+	
+
+To: Robert Superty/HOU/ECT@ECT, Randall L Gay/HOU/ECT@ECT, George 
+Smith/HOU/ECT@ECT, Edward Terry/HOU/ECT@ECT, Victor Lamadrid/HOU/ECT@ECT, 
+Tricia Spence/HOU/ECT@ECT, Beverly Beaty/HOU/ECT@ECT, Pat 
+Clynes/Corp/Enron@ENRON, Patti Sullivan/HOU/ECT@ECT, Carlos J 
+Rodriguez/HOU/ECT@ECT, Kevin Heal/CAL/ECT@ECT, Anita K Patton/HOU/ECT@ECT
+cc: Matt Pena/NA/Enron@Enron, Donna Greif/HOU/ECT@ECT, Richard 
+Pinion/HOU/ECT@ECT, Kathryn Bussell/HOU/ECT@ECT, Jeff 
+Johnson/Corp/Enron@Enron, Bob M Hall/NA/Enron@Enron, Jayant 
+Krishnaswamy/HOU/ECT@ECT, Scott Mills/HOU/ECT@ECT, Tommy J 
+Yanowski/HOU/ECT@ECT, Richard Burchfield/HOU/ECT@ECT 
+Subject: Sitara positions, end of month feedback from Unify
+
+Bob, et al,
+
+As I am sure you recall, we had a problem with Sitara positions earlier in 
+the month and had to cease trading early and revert to CPR for positions.  
+Although I have not gotten very far in my transition off of Unify and onto 
+Sitara and TDS, we do see some potential for this happening again towards the 
+end of this month and the beginning of next month.
+
+The problem with managing positions is a combination of sheer deal counts, 
+along with updates to those deals.  A large portion of these updates come to 
+Sitara via the Unify Bridge Back process.  It would be ideal if we could 
+continue to have the Unify data "cleaned/scrubbed" week to week and try to 
+avoid having the bulk of the month being updated/bridged in the final 
+week/days of the month.  I know this is the goal of Logistics, but I just 
+want to help reinforce that goal due to the performance impact it can have on 
+the Gas Trading systems.  Perhaps a few extra pair of eyes on the Pipeline 
+Exception Summary and the Bridge Back Pipeline Summary in Unify this month 
+would help.
+
+Another area that causes these transaction counts to increase is the need to 
+have 2 months "active" at a time.  In other words, when November is over and 
+we are in the first week or two of December, Sitara continues to maintain 
+positions for November.  This November data degrades the ability to update 
+December positions in a timely manner.  We may find ourselves having to 
+remove the November deals from the Sitara positions sooner than we have in 
+the past.
+
+I will be trying to work with the Sitara team in the coming days/weeks to 
+implement some combination of quick fixes, as well as look into the long term 
+changes necessary to support our increased trading business.
+
+Please let me know if you have any questions or comments in this area.
+
+Thanks, d.n.
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:27:13 2022
+Message-ID: <280214.1075854183979.JavaMail.evans@thyme>
+Date: Wed, 3 May 2000 07:18:00 -0700 (PDT)
+From: edward.terry@enron.com
+To: george.smith@enron.com, randall.gay@enron.com, daren.farmer@enron.com,
+	patti.sullivan@enron.com
+Subject: Unify
+Cc: robert.superty@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: robert.superty@enron.com
+X-From: Edward Terry
+X-To: George Smith, Randall L Gay, Daren J Farmer, Patti Sullivan
+X-cc: Robert Superty
+X-bcc: 
+X-Folder: \Darren_Farmer_Dec2000\Notes Folders\Unify
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+Please provide Bob Superty with a list of pipelines whom were late or had 
+nomiation issues as a result of this mornings Unify problems.
+
+From MAILER-DAEMON Mon Apr 18 14:27:13 2022
+Message-ID: <1702338.1075854184100.JavaMail.evans@thyme>
+Date: Tue, 30 May 2000 02:00:00 -0700 (PDT)
+From: mechelle.stevens@enron.com
+To: brent.price@enron.com, tommy.yanowski@enron.com, brenda.herod@enron.com,
+	inja.chun@enron.com, dave.nommensen@enron.com,
+	paul.poellinger@enron.com, scott.williamson@enron.com,
+	jaikishore.bharathi@enron.com, jim.ogg@enron.com,
+	george.smith@enron.com, katherine.kelly@enron.com,
+	mary.smith@enron.com, daren.farmer@enron.com,
+	jeffrey.gossett@enron.com, gary.nelson@enron.com,
+	rita.wynne@enron.com, susan.harrison@enron.com,
+	kristen.hanson@enron.com, cynthia.hakemack@enron.com,
+	troy.klussmann@enron.com, lisa.cousino@enron.com,
+	joe.villela@enron.com, kenneth.harmon@enron.com,
+	regan.smith@enron.com, robert.superty@enron.com,
+	edward.terry@enron.com, randall.gay@enron.com, john.valdes@enron.com,
+	lisa.csikos@enron.com, david.baumbach@enron.com,
+	bryan.hull@enron.com, judy.barnes@enron.com, romeo.d'souza@enron.com,
+	eric.bass@enron.com, jim.pond@enron.com, theresa.staab@enron.com,
+	scott.sitter@enron.com, willie.harrell@enron.com,
+	anthony.austin@enron.com, pat.clynes@enron.com,
+	stephen.schwarz@enron.com, bryce.baxter@enron.com
+Subject: Unify Close Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Mechelle Stevens
+X-To: Brent A Price, Tommy J Yanowski, Brenda F Herod, Inja Chun, Dave Nommensen, Paul F Poellinger, Scott Williamson, Jaikishore Bharathi, Jim Ogg, George Smith, Katherine L Kelly, Mary M Smith, Daren J Farmer, Jeffrey C Gossett, Gary Nelson, Rita Wynne, Susan Harrison, Kristen J Hanson, Cynthia Hakemack, Troy Klussmann, Lisa B Cousino, Joe Villela, Kenneth M Harmon, Regan M Smith, Robert Superty, Edward Terry, Randall L Gay, John Valdes, Lisa Csikos, David Baumbach, Bryan Hull, Judy Barnes, Romeo D'Souza, Eric Bass, Jim Pond, Theresa Staab, Scott Sitter, Willie Harrell, Anthony Austin, Pat Clynes, Stephen P Schwarz, Bryce Baxter
+X-cc: 
+X-bcc: 
+X-Folder: \Darren_Farmer_Dec2000\Notes Folders\Unify
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+The following is our close schedule for this coming month.  Please keep in 
+mind the following key times...
+
+Unify to Sitara bridge back 1:45p.m. Wednesday, May 31st (all errors must be 
+clear by this time)
+Mass draft at 6p.m. Wednesday evening
+Accrual process begins Thursday, June 1st at 6a.m.
+
+If you have any changes to this timeline, please ensure that I am contacted 
+as soon as possible.
+
+Thanks,
+Mechelle
+x37278
+
+From MAILER-DAEMON Mon Apr 18 14:27:13 2022
+Message-ID: <23369997.1075854183757.JavaMail.evans@thyme>
+Date: Wed, 5 Jan 2000 01:36:00 -0800 (PST)
+From: dave.nommensen@enron.com
+To: robert.superty@enron.com, george.smith@enron.com, charles.muzzy@enron.com,
+	daren.farmer@enron.com, edward.terry@enron.com,
+	katherine.kelly@enron.com, randall.gay@enron.com,
+	heather.choate@enron.com, pat.clynes@enron.com
+Subject: real time deal updates to Path Manager - test group
+Cc: scotty.gilbert@enron.com, tommy.yanowski@enron.com, inja.chun@enron.com,
+	dave.mcmullan@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: scotty.gilbert@enron.com, tommy.yanowski@enron.com, inja.chun@enron.com,
+	dave.mcmullan@enron.com
+X-From: Dave Nommensen
+X-To: Robert Superty, George Smith, Charles T Muzzy, Daren J Farmer, Edward Terry, Katherine L Kelly, Randall L Gay, Heather Choate, Pat Clynes
+X-cc: Scotty Gilbert, Tommy J Yanowski, Inja Chun, Dave McMullan
+X-bcc: 
+X-Folder: \Darren_Farmer_Dec2000\Notes Folders\Unify
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+Beginning this week, we are actively testing the changes to Path Manager to 
+receive real-time deal updates from Sitara.  To prepare for this, we would 
+like to have a limited group of schedulers from each desk go thru a quick 
+walkthru/training of the new features sometime early next week.  This should 
+only take about 30 minutes.  Once they are comfortable with the features and 
+performance, and once the testing is complete, we would like to migrate this 
+to Unify Production either next week or the week after.  This should give us 
+an adequate adjustment period prior to the next bid week.
+
+Once it is migrated to Production, we can either roll it out to all 
+schedulers or to selected schedulers via security.
+
+Heather, could you please schedule some time with the designated schedulers, 
+Scotty, and myself early next week.  A room with a projector would work best.
+
+Thanks, d.n.
+
+From MAILER-DAEMON Mon Apr 18 14:27:13 2022
+Message-ID: <25442342.1075854183850.JavaMail.evans@thyme>
+Date: Tue, 28 Mar 2000 12:57:00 -0800 (PST)
+From: dave.nommensen@enron.com
+To: edward.terry@enron.com, katherine.kelly@enron.com, tricia.bowen@enron.com,
+	chris.germany@enron.com, maria.garza@enron.com,
+	george.smith@enron.com, randall.gay@enron.com,
+	daren.farmer@enron.com, carlos.rodriguez@enron.com,
+	pat.clynes@enron.com, kimberly.olinger@enron.com
+Subject: Procedure for adding new Capacity tickets for multi-desk Service
+ utilization
+Cc: tommy.yanowski@enron.com, scott.mills@enron.com, thomas.engel@enron.com,
+	robert.superty@enron.com, inja.chun@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: tommy.yanowski@enron.com, scott.mills@enron.com, thomas.engel@enron.com,
+	robert.superty@enron.com, inja.chun@enron.com
+X-From: Dave Nommensen
+X-To: Edward Terry, Katherine L Kelly, Tricia Bowen, Chris Germany, Maria Garza, George Smith, Randall L Gay, Daren J Farmer, Carlos J Rodriguez, Pat Clynes, Kimberly S Olinger
+X-cc: Tommy J Yanowski, Scott Mills, Thomas Engel, Robert Superty, Inja Chun
+X-bcc: 
+X-Folder: \Darren_Farmer_Dec2000\Notes Folders\Unify
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+In order to provide the ability to track transport expense by Desk, Sitara 
+was modified to allow multiple Transport Capacity tickets for the same 
+Service Contract provided that they are for different desks and only one is 
+tagged as "Primary".  Here is the procedure for setting up new Capacity 
+tickets to reflect the "other" desks:
+
+a.  You will probably first notice this via a warning/error message in Path 
+Manager when building a new path.  The message will read something like   
+"Source/Destination 123456 for desk IMCT does not match Service contract 3434 
+and will be removed."
+b.  Make note of the deal number in the Service List of the Service contract 
+that you were using in the new path.
+c.  Open that Transport Capacity deal in Sitara.  Then hit Copy.
+d.  On the new deal:
+ Change the Buyer from the old desk to the new desk that matches the Supply 
+or Market deal that you are pathing with.  If it a contract for which we are 
+  agent, then don't change the Buyer but instead change the Agent to the new 
+desk.  The "primary" deal will carry the actual Agent.
+ Changing the Buyer causes the Contract field to get blanked out.  Re-select 
+the contract.
+ Just above the various exchange line items is a Primary Deal check box.  
+Un-check it.
+ On each exchange line item, change the MDQ to zero and for any Negotiated 
+rates, uncheck them as well.  The "primary" deal will carry the MDQ and
+  any negotiated Demand, Commodity or fuel.
+ Hit Release.
+e.  You may need to re-retrieve Path Manager.  You should see the Deal number 
+in the Service list now read "Multiple".  Right-click/Service Deals will list 
+the  specific deals.
+f.  Re-build the path as you originally desired.  The warning/error message 
+should not appear again.
+
+This could occur for any combination of Desk and Service Contract.
+Please file this in your "Call Dave If I Can't Find This" folder.
+
+Thanks, d.n.
+
+From MAILER-DAEMON Mon Apr 18 14:27:13 2022
+Message-ID: <33098325.1075840440609.JavaMail.evans@thyme>
+Date: Thu, 18 Oct 2001 09:00:11 -0700 (PDT)
+From: richard.pinion@enron.com
+To: victor.lamadrid@enron.com, lisa.kinsey@enron.com, patti.sullivan@enron.com,
+	j..farmer@enron.com, theresa.staab@enron.com, kevin.heal@enron.com
+Subject: Volume Feedback from Unify to Sitara
+Cc: l..schrab@enron.com, clarissa.garcia@enron.com, tammy.jaquet@enron.com,
+	shahnaz.lakho@enron.com, kathryn.bussell@enron.com,
+	robert.superty@enron.com, donna.greif@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: l..schrab@enron.com, clarissa.garcia@enron.com, tammy.jaquet@enron.com,
+	shahnaz.lakho@enron.com, kathryn.bussell@enron.com,
+	robert.superty@enron.com, donna.greif@enron.com
+X-From: Pinion, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RPINION>
+X-To: Lamadrid, Victor </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vlamadr>, Kinsey, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkinsey>, Sullivan, Patti </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Psulliv>, Farmer, Daren J. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dfarmer>, Staab, Theresa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tstaab>, Heal, Kevin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kheal>
+X-cc: Schrab, Mark L. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mschrab>, Garcia, Clarissa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cgarcia>, Jaquet, Tammy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tjaquet>, Lakho, Shahnaz </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Slakho>, Bussell l, Kathryn </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kbussel>, Superty, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rsupert>, Greif, Donna </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dcorrig>
+X-bcc: 
+X-Folder: \ExMerge - Farmer, Darren\Unify
+X-Origin: FARMER-D
+X-FileName: darren farmer 6-26-02.pst
+
+FYI:  The following is the Unify to Sitara Bridge back schedule from the Sitara Team.  Unify can still send the files to Sitara but Sitara will not process during the "No bridge back" times listed.  This list is in response to several inquiries to me regarding slow bridge-back times to Sitara.    Hours are listed in 24hr  format central time.
+
+
+1. Monday - Friday	14:00  - 19:49 hrs	Single Thread
+2. Monday - Friday	19:50 - 24:00hrs		Multi Thread
+3. Monday - Friday	00:01 - 13:59 hrs	No bridge back
+
+4 . Sat - Sunday		12:50 - 24:00hrs	 	MultiThread
+5.  Sat - Sunday	00:01 - 12:49 hrs	No bridge back 
+
+From MAILER-DAEMON Mon Apr 18 14:27:13 2022
+Message-ID: <17782448.1075854183957.JavaMail.evans@thyme>
+Date: Wed, 26 Apr 2000 01:59:00 -0700 (PDT)
+From: melissa.ratnala@enron.com
+To: brent.price@enron.com, tommy.yanowski@enron.com, brenda.herod@enron.com,
+	inja.chun@enron.com, dave.nommensen@enron.com,
+	paul.poellinger@enron.com, scott.williamson@enron.com,
+	jaikishore.bharathi@enron.com, jim.ogg@enron.com,
+	george.smith@enron.com, katherine.kelly@enron.com,
+	mary.smith@enron.com, daren.farmer@enron.com,
+	jeffrey.gossett@enron.com, mark.friedman@enron.com,
+	gary.nelson@enron.com, rita.wynne@enron.com,
+	mechelle.stevens@enron.com, angela.henn@enron.com,
+	melissa.ratnala@enron.com, susan.harrison@enron.com,
+	kristen.hanson@enron.com, cynthia.hakemack@enron.com,
+	troy.klussmann@enron.com, lisa.cousino@enron.com,
+	stephen.schwarz@enron.com, joe.villela@enron.com,
+	kenneth.harmon@enron.com, regan.smith@enron.com,
+	robert.superty@enron.com, edward.terry@enron.com,
+	randall.gay@enron.com, john.valdes@enron.com, lisa.csikos@enron.com,
+	david.baumbach@enron.com, bryan.hull@enron.com,
+	judy.barnes@enron.com, romeo.d'souza@enron.com, eric.bass@enron.com,
+	pat.clynes@enron.com, jim.pond@enron.com, theresa.staab@enron.com,
+	scott.sitter@enron.com, jim.pond@enron.com, willie.harrell@enron.com,
+	anthony.austin@enron.com
+Subject: Unify Close Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Melissa K Ratnala
+X-To: Brent A Price, Tommy J Yanowski, Brenda F Herod, Inja Chun, Dave Nommensen, Paul F Poellinger, Scott Williamson, Jaikishore Bharathi, Jim Ogg, George Smith, Katherine L Kelly, Mary M Smith, Daren J Farmer, Jeffrey C Gossett, Mark Friedman, Gary Nelson, Rita Wynne, Mechelle Stevens, Angela Henn, Melissa K Ratnala, Susan Harrison, Kristen J Hanson, Cynthia Hakemack, Troy Klussmann, Lisa B Cousino, Stephen -ECT- Schwarz, Joe Villela, Kenneth M Harmon, Regan M Smith, Robert Superty, Edward Terry, Randall L Gay, John Valdes, Lisa Csikos, David Baumbach, Bryan Hull, Judy Barnes, Romeo D'Souza, Eric Bass, Pat Clynes, Jim Pond, Theresa Staab, Scott Sitter, Jim Pond, Willie Harrell, Anthony Austin
+X-cc: 
+X-bcc: 
+X-Folder: \Darren_Farmer_Dec2000\Notes Folders\Unify
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+The following is our close schedule for this coming month.  Please keep in 
+the mind the following key times....
+
+Unify to Sitara bridge back 1:45p.m. Friday, April 28th (all errors must be 
+clear by this time)
+Mass draft at 6p.m. Friday evening.
+Accrual process begins Monday, May 1st at 6a.m.
+
+If you have any changes to this timeline, please ensure that I am contacted 
+as soon as possible.
+
+Thank you, 
+
+Melissa x35615
+
+
+From MAILER-DAEMON Mon Apr 18 14:27:13 2022
+Message-ID: <10642632.1075854183689.JavaMail.evans@thyme>
+Date: Mon, 27 Dec 1999 23:17:00 -0800 (PST)
+From: dave.nommensen@enron.com
+To: george.smith@enron.com, edward.terry@enron.com, daren.farmer@enron.com,
+	randall.gay@enron.com, robert.superty@enron.com,
+	richard.pinion@enron.com, kevin.heal@enron.com,
+	kenneth.harmon@enron.com, gary.nelson@enron.com,
+	bryce.baxter@enron.com, sheri.thomas@enron.com, rita.wynne@enron.com,
+	dorothy.ricketts@enron.com, melissa.white@enron.com
+Subject: Unify down - Unix team working on it
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Dave Nommensen
+X-To: George Smith, Edward Terry, Daren J Farmer, Randall L Gay, Robert Superty, Richard Pinion, Kevin Heal, Kenneth M Harmon, Gary Nelson, Bryce Baxter, Sheri Thomas, Rita Wynne, Dorothy Ricketts, Melissa White
+X-cc: 
+X-bcc: 
+X-Folder: \Darren_Farmer_Dec2000\Notes Folders\Unify
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+The Unix server that Unify Production runs on (Proton) went down this 
+morning.  The Unix team is working on it.  I will let you know as soon as 
+Unify is available.
+
+d.n.
+
+From MAILER-DAEMON Mon Apr 18 14:27:13 2022
+Message-ID: <19307203.1075840440661.JavaMail.evans@thyme>
+Date: Fri, 12 Oct 2001 11:56:23 -0700 (PDT)
+From: richard.pinion@enron.com
+To: victor.lamadrid@enron.com, patti.sullivan@enron.com, lisa.kinsey@enron.com,
+	kevin.heal@enron.com, theresa.staab@enron.com, j..farmer@enron.com,
+	f..smith@enron.com
+Subject: FW: Unify Exception List
+Cc: matt.pena@enron.com, tammy.jaquet@enron.com, robert.superty@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: matt.pena@enron.com, tammy.jaquet@enron.com, robert.superty@enron.com
+X-From: Pinion, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RPINION>
+X-To: Lamadrid, Victor </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vlamadr>, Sullivan, Patti </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Psulliv>, Kinsey, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkinsey>, Heal, Kevin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kheal>, Staab, Theresa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tstaab>, Farmer, Daren J. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dfarmer>, Smith, George F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gsmith>
+X-cc: Pena, Matt </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mpena2>, Jaquet, Tammy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tjaquet>, Superty, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rsupert>
+X-bcc: 
+X-Folder: \ExMerge - Farmer, Darren\Unify
+X-Origin: FARMER-D
+X-FileName: darren farmer 6-26-02.pst
+
+All:
+>From Matt's response it sounds like you might want to specify exception personnel for 8-12, 12 thru 4:00, and 4 thru 6 Normal business hours and not end of the month, holidays or long weekends.
+
+RP
+
+
+ -----Original Message-----
+From: 	Pena, Matt  
+Sent:	Friday, October 12, 2001 1:03 PM
+To:	Pinion, Richard
+Subject:	RE: Unify Exception List
+
+yes, you are correct.  when we watchdog, we'll most likely do VM and Settlements and not PM.  But, in the afternoon, if they need payments out the door, PM will get it.  It goes both ways.  So, if you send me who needs to be in the system no matter what, that would help.  
+
+you are correct, 8-12 is logistics critical, and after that it's anyones guess.  
+
+ -----Original Message-----
+From: 	Pinion, Richard  
+Sent:	Friday, October 12, 2001 11:38 AM
+To:	Pena, Matt
+Subject:	FW: Unify Exception List
+
+Based on Victor's response, I think there is some confusion.  There are actually several critical time periods depending on the group and time of day.  Perhaps to eliminate the confusion you could specify which time period you are going to watchdog.  I interpreted it to mean the 8-12 AM period but Victor was thinking the afternoon.  Depending on the time there might be different people who should be kicked out.
+
+RP
+
+ -----Original Message-----
+From: 	Lamadrid, Victor  
+Sent:	Friday, October 12, 2001 11:00 AM
+To:	Sullivan, Patti; Pena, Matt
+Cc:	Warner, John; Hall, Bob M; Rao, Ramesh; Sengupta, Jayanta; Nguyen, Ben; Melethil, Anwar; Baxter, Bryce; Bussell l, Kathryn; Dawes, Cheryl; Greif, Donna; Hall, Bob M; Heal, Kevin; Jaquet, Tammy; Kinsey, Lisa; Lakho, Shahnaz; Machleit, Shirley; Mcclure, Mark; Olinger, Kimberly S.; Pinion, Richard; Reeves, Leslie; Smith, George F.; Staab, Theresa; Superty, Robert; Wynne, Rita
+Subject:	RE: Unify Exception List
+
+The critical users on the east desk using path manager will be Meredith Homco, Clarissa Garcia, Christina Sanchez and Victor Lamadrid. If you could alert us as to when y'all are invoking watchdog to kick logistics out, that would be great.  THANKS
+
+ -----Original Message-----
+From: 	Sullivan, Patti  
+Sent:	Friday, October 12, 2001 9:42 AM
+To:	Pena, Matt
+Cc:	Warner, John; Hall, Bob M; Rao, Ramesh; Sengupta, Jayanta; Nguyen, Ben; Melethil, Anwar; Baxter, Bryce; Bussell l, Kathryn; Dawes, Cheryl; Greif, Donna; Hall, Bob M; Heal, Kevin; Jaquet, Tammy; Kinsey, Lisa; Lakho, Shahnaz; Lamadrid, Victor; Machleit, Shirley; Mcclure, Mark; Olinger, Kimberly S.; Pinion, Richard; Reeves, Leslie; Smith, George F.; Staab, Theresa; Superty, Robert; Wynne, Rita
+Subject:	RE: Unify Exception List
+
+The west desk critical users will all use path manager. The users will be Shannon Groenewold, Daniel Lisk, Suzanne Christiansen, Corey Wilkes, Jackie Adams, Shelly Mendel, Stacey Brewer, Walt Spiegelhauer and starting next week Joshua Blair.
+
+ -----Original Message-----
+From: 	Pena, Matt  
+Sent:	Thursday, October 11, 2001 8:37 PM
+To:	Baxter, Bryce; Bussell l, Kathryn; Dawes, Cheryl; Greif, Donna; Hall, Bob M; Heal, Kevin; Jaquet, Tammy; Kinsey, Lisa; Lakho, Shahnaz; Lamadrid, Victor; Machleit, Shirley; Mcclure, Mark; Olinger, Kimberly S.; Pinion, Richard; Reeves, Leslie; Smith, George F.; Staab, Theresa; Sullivan, Patti; Superty, Robert; Wynne, Rita
+Cc:	Warner, John; Hall, Bob M; Rao, Ramesh; Sengupta, Jayanta; Nguyen, Ben; Melethil, Anwar
+Subject:	Unify Exception List
+
+Going forward, as a precautionary measure, we will begin locking users out of the system if the need arises.  We will use our Watchdog application in order to initiate this process.  We will do so only as a last resort and will notify you that we will be doing this.  Our reasons for doing this are mainly to ensure the critical system resources are provided to the users that need them the most.
+
+The old list we had from Sybase no longer exists.  I need your help in putting together a new list.  Please provide the list of people who ARE ABSOLUTELY CRITICAL users that have to be on the system.  Obviously, the situation isn't remedied if everyone is an exception user :)
+
+Please provide User Name and Application they need (i.e. Volume Management, Settlements, Path Manager).
+
+The sooner I get this, the sooner we can get this implemented.
+
+Thanks!
+
+From MAILER-DAEMON Mon Apr 18 14:27:13 2022
+Message-ID: <5038225.1075840440798.JavaMail.evans@thyme>
+Date: Thu, 4 Oct 2001 16:18:45 -0700 (PDT)
+From: tammy.jaquet@enron.com
+To: matt.pena@enron.com, ben.nguyen@enron.com, donna.greif@enron.com,
+	richard.pinion@enron.com, shahnaz.lakho@enron.com,
+	j..farmer@enron.com, kevin.heal@enron.com, lisa.kinsey@enron.com,
+	victor.lamadrid@enron.com, f..smith@enron.com,
+	patti.sullivan@enron.com, l..dinari@enron.com,
+	l..driscoll-ernest@enron.com, donna.greif@enron.com,
+	t..muzzy@enron.com
+Subject: Automate Load of Scheduled Quantity SIRP00067
+Cc: robert.superty@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: robert.superty@enron.com
+X-From: Jaquet, Tammy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=TJAQUET>
+X-To: Pena, Matt </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mpena2>, Nguyen, Ben </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bnguyen2>, Greif, Donna </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dcorrig>, Pinion, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rpinion>, Lakho, Shahnaz </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Slakho>, Farmer, Daren J. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dfarmer>, Heal, Kevin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kheal>, Kinsey, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkinsey>, Lamadrid, Victor </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vlamadr>, Smith, George F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gsmith>, Sullivan, Patti </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Psulliv>, Dinari, Sabra L. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sdinari>, Driscoll-Ernest, Marde L. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mdriscol>, Greif, Donna </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dcorrig>, Muzzy, Charles T. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cmuzzy>
+X-cc: Superty, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rsupert>
+X-bcc: 
+X-Folder: \ExMerge - Farmer, Darren\Unify
+X-Origin: FARMER-D
+X-FileName: darren farmer 6-26-02.pst
+
+
+I have attached a draft of the enhancement to automate the load of scheduled quantities.  Please review and provide your input by COB 10/10/01.  If you need to discuss this document,  let know and I will make arrangements to meet with you.  Once we get your input, we will issue an updated document and meet with IT to prioritize.
+
+
+ 
+
+Thanks,
+
+Tammy  
+
+From MAILER-DAEMON Mon Apr 18 14:27:13 2022
+Message-ID: <19625657.1075840440825.JavaMail.evans@thyme>
+Date: Thu, 4 Oct 2001 07:22:26 -0700 (PDT)
+From: tammy.jaquet@enron.com
+To: j..farmer@enron.com, kevin.heal@enron.com, lisa.kinsey@enron.com,
+	victor.lamadrid@enron.com, f..smith@enron.com,
+	patti.sullivan@enron.com
+Subject: Escalation Procedures - Gas Logistics
+Cc: robert.superty@enron.com, shahnaz.lakho@enron.com, richard.pinion@enron.com,
+	donna.greif@enron.com, t..muzzy@enron.com, l..dinari@enron.com,
+	e-mail <.habib@enron.com>, e-mail <.john@enron.com>,
+	e-mail <.matt@enron.com>, e-mail <.ramesh@enron.com>,
+	e-mail <.robert@enron.com>, e-mail <.romeo@enron.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: robert.superty@enron.com, shahnaz.lakho@enron.com, richard.pinion@enron.com,
+	donna.greif@enron.com, t..muzzy@enron.com, l..dinari@enron.com,
+	e-mail <.habib@enron.com>, e-mail <.john@enron.com>,
+	e-mail <.matt@enron.com>, e-mail <.ramesh@enron.com>,
+	e-mail <.robert@enron.com>, e-mail <.romeo@enron.com>
+X-From: Jaquet, Tammy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=TJAQUET>
+X-To: Farmer, Daren J. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dfarmer>, Heal, Kevin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kheal>, Kinsey, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkinsey>, Lamadrid, Victor </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vlamadr>, Smith, George F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gsmith>, Sullivan, Patti </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Psulliv>
+X-cc: Superty, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rsupert>, Lakho, Shahnaz </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Slakho>, Pinion, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rpinion>, Greif, Donna </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dcorrig>, Muzzy, Charles T. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cmuzzy>, Dinari, Sabra L. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sdinari>, Habib Ahsan (E-mail) </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Hahsan>, john Warner (E-mail) </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jwarner3>, Matt Pena (E-mail) </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mpena2>, Ramesh Rao (E-mail) </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rrao>, Robert Virnau (E-mail) </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rvirnau>, Romeo D'Souza (E-mail) </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rdsouza>
+X-bcc: 
+X-Folder: \ExMerge - Farmer, Darren\Unify
+X-Origin: FARMER-D
+X-FileName: darren farmer 6-26-02.pst
+
+
+Desk Managers, 
+
+I will be issuing a small laminated version of the attached list of contacts for escalation of Unify and EDI issues in a small laminated version.  The objective in putting Richard first on the list is to address any issues that are business related or education related prior to getting IT folks involved; thereby, freeing up our IT folks to work on programming fixes and enhancements.  
+
+<<EscalationProcedures.xls>> 
+
+After implementation, if you feel these escalation procedures are not providing the level of support your desk requires, please let me know. 
+
+Regards, 
+
+Tammy 
+
+From MAILER-DAEMON Mon Apr 18 14:27:13 2022
+Message-ID: <18190857.1075840440635.JavaMail.evans@thyme>
+Date: Mon, 15 Oct 2001 09:24:57 -0700 (PDT)
+From: tammy.jaquet@enron.com
+To: tammy.jaquet@enron.com, matt.pena@enron.com, ben.nguyen@enron.com,
+	donna.greif@enron.com, richard.pinion@enron.com,
+	shahnaz.lakho@enron.com, j..farmer@enron.com, kevin.heal@enron.com,
+	lisa.kinsey@enron.com, victor.lamadrid@enron.com, f..smith@enron.com,
+	patti.sullivan@enron.com, l..dinari@enron.com,
+	l..driscoll-ernest@enron.com, donna.greif@enron.com,
+	t..muzzy@enron.com, vusal.najafov@enron.com, naj.boukhris@enron.com
+Subject: RE: Automate Load of Scheduled Quantity SIRP00067
+Cc: robert.superty@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: robert.superty@enron.com
+X-From: Jaquet, Tammy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=TJAQUET>
+X-To: Jaquet, Tammy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tjaquet>, Pena, Matt </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mpena2>, Nguyen, Ben </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bnguyen2>, Greif, Donna </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dcorrig>, Pinion, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rpinion>, Lakho, Shahnaz </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Slakho>, Farmer, Daren J. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dfarmer>, Heal, Kevin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kheal>, Kinsey, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkinsey>, Lamadrid, Victor </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vlamadr>, Smith, George F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gsmith>, Sullivan, Patti </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Psulliv>, Dinari, Sabra L. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sdinari>, Driscoll-Ernest, Marde L. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mdriscol>, Greif, Donna </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dcorrig>, Muzzy, Charles T. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cmuzzy>, Najafov, Vusal </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vnajafov>, Boukhris, Naj </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Nboukhri>
+X-cc: Superty, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rsupert>
+X-bcc: 
+X-Folder: \ExMerge - Farmer, Darren\Unify
+X-Origin: FARMER-D
+X-FileName: darren farmer 6-26-02.pst
+
+I have updated the draft enhancement document to automate the load of scheduled quantities.  Once again, I would appreciate your feedback.  Please have your comments to me by COB 10/19/01.
+
+
+ 
+
+Thanks,
+
+Tammy
+
+ -----Original Message-----
+From: 	Jaquet, Tammy  
+Sent:	Thursday, October 04, 2001 6:19 PM
+To:	Pena, Matt; Nguyen, Ben; Greif, Donna; Pinion, Richard; Lakho, Shahnaz; Farmer, Daren J.; Heal, Kevin; Kinsey, Lisa; Lamadrid, Victor; Smith, George F.; Sullivan, Patti; Dinari, Sabra L.; Driscoll-Ernest, Marde L.; Greif, Donna; Muzzy, Charles T.
+Cc:	Superty, Robert
+Subject:	Automate Load of Scheduled Quantity SIRP00067
+
+
+I have attached a draft of the enhancement to automate the load of scheduled quantities.  Please review and provide your input by COB 10/10/01.  If you need to discuss this document,  let know and I will make arrangements to meet with you.  Once we get your input, we will issue an updated document and meet with IT to prioritize.
+
+
+ << File: Auto load sched qty SIRP00067.doc >> 
+
+Thanks,
+
+Tammy  
+
+From MAILER-DAEMON Mon Apr 18 14:27:13 2022
+Message-ID: <9788139.1075854183826.JavaMail.evans@thyme>
+Date: Fri, 4 Feb 2000 05:09:00 -0800 (PST)
+From: regina.perkins@enron.com
+To: edward.terry@enron.com, katherine.kelly@enron.com, george.smith@enron.com,
+	mary.smith@enron.com, daren.farmer@enron.com, jim.homco@enron.com,
+	randall.gay@enron.com, pat.clynes@enron.com, bryce.baxter@enron.com,
+	rita.wynne@enron.com, gary.nelson@enron.com
+Subject: Buyer vs. Seller on Intercompany Deals
+Cc: scott.mills@enron.com, francis.lim@enron.com, regina.perkins@enron.com,
+	mark.feldman@enron.com, john.valdes@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: scott.mills@enron.com, francis.lim@enron.com, regina.perkins@enron.com,
+	mark.feldman@enron.com, john.valdes@enron.com
+X-From: Regina Perkins
+X-To: Edward Terry, Katherine L Kelly, George Smith, Mary M Smith, Daren J Farmer, Jim Homco, Randall L Gay, Pat Clynes, Bryce Baxter, Rita Wynne, Gary Nelson
+X-cc: Scott Mills, Francis S Lim, Regina Perkins, Mark Feldman, John Valdes
+X-bcc: 
+X-Folder: \Darren_Farmer_Dec2000\Notes Folders\Unify
+X-Origin: Farmer-D
+X-FileName: dfarmer.nsf
+
+To clarify the memo that I sent yesterday concerning Buyer vs. Seller on 
+Intercompany deals, I want to make sure that everyone understands that not 
+only will the Seller side post on the SITARA deal but that the Volume 
+Feedback Reconciliation report  will reflect the error(s) associated with the 
+buy side as well.  It will no longer show the the error(s) generated by the 
+sales side as it currently does.  This change will coincide with the way SAP 
+reports Intercompany transactions.
+
+Please let me know if you have any questions or concerns.
+
+Note: The Volume Feedback Reconciliation report is the report which I 
+distribute on a daily basis.
+
+Thanks,
+RHP
+
+
+
+---------------------- Forwarded by Regina Perkins/HOU/ECT on 02/04/2000 
+10:20 AM ---------------------------
+
+
+Regina Perkins
+02/03/2000 05:32 PM
+To: Edward Terry/HOU/ECT@ECT, Katherine L Kelly/HOU/ECT@ECT, George 
+Smith/HOU/ECT@ECT, Mary M Smith/HOU/ECT@ECT, Daren J Farmer/HOU/ECT@ECT, Jim 
+Homco/HOU/ECT@ECT, Randall L Gay/HOU/ECT@ECT, Pat Clynes/Corp/Enron@ENRON, 
+Bryce Baxter/HOU/ECT@ECT, Rita Wynne/HOU/ECT@ECT, Gary Nelson/HOU/ECT@ECT
+cc: Regina Perkins/HOU/ECT@ECT, Scott Mills/HOU/ECT@ECT, Francis S 
+Lim/HOU/ECT@ECT 
+Subject: Buyer vs. Seller on Intercompany Deals
+
+It has been brought to my attention that SAP will not use the Buyer as the 
+governing value associated with Intercompany deals but the Seller.  
+Currently, SITARA captures the volume bridged back on the buy side not the 
+sales side.  I wanted to make sure that those of you who would be impacted by 
+the change were aware of how SITARA would reflected the volumes associated 
+with Intercompany deals.  If there are any concerns with this, please let me 
+know as soon as possible.  I will need to have an adjustment made to the 
+Volume Feedback Reconciliation report to reflect this change once it has been 
+finalized.   It may be a month or two before this is implemented but I wanted 
+to make sure everyone had advance notice.
+
+If you have any questions, please do not hesitate to contact me at X39222.
+
+Thanks,
+RHP
+

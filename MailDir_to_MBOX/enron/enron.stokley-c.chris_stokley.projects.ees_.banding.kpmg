@@ -1,0 +1,3004 @@
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <31597659.1075858520450.JavaMail.evans@thyme>
+Date: Tue, 25 Sep 2001 15:54:19 -0700 (PDT)
+From: jgalvan@kpmg.com
+To: chris.stokley@enron.com, p..o'neil@enron.com
+Subject: Power Baseline/Bandwidth Project Status
+Cc: leung@enron.com, annieleung@kpmg.com, wilson@enron.com, rdwilson@kpmg.com,
+	miller@enron.com, bamiller@kpmg.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: leung@enron.com, annieleung@kpmg.com, wilson@enron.com, rdwilson@kpmg.com,
+	miller@enron.com, bamiller@kpmg.com
+X-From: Galvan, Joshua P <jgalvan@kpmg.com>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>, O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-cc: Leung, Annie <annieleung@kpmg.com>, Wilson, Randy D <rdwilson@kpmg.com>, Miller, Brett (US/Houston) <bamiller@kpmg.com>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Chris -
+
+Find below the details as to the Power Baseline/Bandwidth Project Status.
+
+Issues/Addressing Actions
+*	Issues that have been identified with approximately 50 current
+contracts visually reviewed:
+*	Bandwidth (Max and Min) but NO baseline
+*	Baseline with NO bandwidth
+*	Min Bandwidth noted but NO Max bandwidth. 
+*	Baseline with no level of aggregation noted
+*	Bandwidth with no level of aggregation noted
+*	No escalators for Baseline
+*	No escalators for Bandwidth
+*	CSC data has not been reviewed (Chris S to follow-up) - Data from
+Project Ranger may also address (see below)
+*	Decision on how to aggregate data volumes for CSC data (Chris S to
+follow-up)
+
+Current status
+*	The Access DB tool has been completed with regard to requirements
+submitted as of Friday, 9/21/01.  Development is in progress for the
+calculation functionality, as is the necessary gathering of CSC/billing
+information for volumes.  We expect that we can finish this request within a
+week, if we can obtain suitable CSC/billing information soon.
+*	We have met with a contact from the Enron side for the Project
+Ranger.  Vivian Hart is providing for us thorough documentation on the
+status strategy and tasks, as well as a data model depicting their solution.
+>From this information we have identified and scheduled the necessary data
+extraction information to assist us in determining what data source will be
+used for the baseline/bandwidth calculations.  This data contains 8 months
+of volume information (Dec 2000 - August 2001).
+*	Statistics of data analyzed:
+*	Missing data (common areas where data is identified as missing) : to
+be determined when a greater population of contracts is analyzed
+*	Contracts processed : 35
+*	Deals processed : 350
+*	Deals with baselines specified : 90 (of 350)
+*	Approximate minutes processing time per contract : 8
+
+Future planned activities
+*	Annie Leung and one KPMG staff person are dedicated to the
+baseline/bandwidth data capture activities.  One additional staff will be
+added per week for the next couple of weeks.
+*	Contracts continue to be copied at the Pennzoil Place location of
+CSC (Houston, TX).  Preparations may be made by end of week for a trip to
+Dublin, OH with the Gas Team to obtain any further contracts.  We are
+working closely with a contact in the Legal Department to refine the number
+of expected paper contracts; we will retrieve any that they have on-hand as
+the week wears on.  After these activities, our final option will be the
+originators.
+*	Full validation is underway on the paper contracts available,
+focusing on the CA utilities first.  As discussed, the Baseline/Bandwidth
+data capture activities require less work, and so these activities are
+occurring after validation procedures.
+
+> kpmg LLP  Information Risk Management
+Joshua P. Galv?n
+Senior Associate
+700 Louisiana, Ste. 3200
+Houston, Texas  77002
+713/319-2082 (wrk)
+713/256-8499 (mob)
+jgalvan@kpmg.com
+
+*****************************************************************************
+The information in this email is confidential and may be legally privileged.
+It is intended solely for the addressee. Access to this email by anyone else
+is unauthorized. 
+
+If you are not the intended recipient, any disclosure, copying, distribution
+or any action taken or omitted to be taken in reliance on it, is prohibited
+and may be unlawful. When addressed to our clients any opinions or advice
+contained in this email are subject to the terms and conditions expressed in
+the governing KPMG client engagement letter.         
+*****************************************************************************
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <11934603.1075858520185.JavaMail.evans@thyme>
+Date: Tue, 9 Oct 2001 14:54:35 -0700 (PDT)
+From: jgalvan@kpmg.com
+To: chris.stokley@enron.com, us/houston <.miller@enron.com>
+Subject: Project Ranger and CSC Data Discussion
+Cc: wilson@enron.com, rdwilson@kpmg.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: wilson@enron.com, rdwilson@kpmg.com
+X-From: Galvan, Joshua P <jgalvan@kpmg.com>
+X-To: 'vhart@enron.com', Fisher, Steven </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SFISHER3>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>, Miller, Brett (US/Houston) <bamiller@kpmg.com>
+X-cc: Wilson, Randy D <rdwilson@kpmg.com>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+We will meet tomorrow at 10AM to discuss the contents of the Project Ranger
+data extracts delivered thus far.  We can use the Team Room at 2946.
+Briefly, we will need to cover the following:
+
+1.	Addition of "STATUS" and "METER #" fields to the Project Ranger data
+2.	Rationale behind the extent of customer data included in the Project
+Ranger extract
+3.	Specific needs of the Power Contract Reconciliation Team for
+activities involving RPS and CSC data
+
+> kpmg LLP  Information Risk Management
+Joshua P. Galv?n
+Senior Associate
+700 Louisiana, Ste. 3200
+Houston, Texas  77002
+713/319-2082 (wrk)
+713/256-8499 (mob)
+jgalvan@kpmg.com
+
+*****************************************************************************
+The information in this email is confidential and may be legally privileged.
+It is intended solely for the addressee. Access to this email by anyone else
+is unauthorized. 
+
+If you are not the intended recipient, any disclosure, copying, distribution
+or any action taken or omitted to be taken in reliance on it, is prohibited
+and may be unlawful. When addressed to our clients any opinions or advice
+contained in this email are subject to the terms and conditions expressed in
+the governing KPMG client engagement letter.         
+*****************************************************************************
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <4766304.1075858519836.JavaMail.evans@thyme>
+Date: Fri, 7 Sep 2001 15:37:45 -0700 (PDT)
+From: annieleung@kpmg.com
+To: chris.stokley@enron.com
+Subject: Mike Kim update
+Cc: galvan@enron.com, jgalvan@kpmg.com, swider@enron.com, eswider@kpmg.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: galvan@enron.com, jgalvan@kpmg.com, swider@enron.com, eswider@kpmg.com
+X-From: Leung, Annie <annieleung@kpmg.com>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: Galvan, Joshua P <jgalvan@kpmg.com>, Swider, Erin M <eswider@kpmg.com>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Hi Chris,
+
+Here is a briefing from my phone conversation with Mike Kim regarding the
+usage reports.  Mike will give us more details when he gets back on Tuesday.
+
+
+California Usage Extract
+
+MDA 2.1 is the new meter database which contains extracted information from
+the Cheop System, CSC system and updated position.  
+
+Mike may have data from 1999-2000 and will be contacting us with this
+information on Tuesday 9/11.   Per Mike, the 98-99 deals have no specified
+baseline, they must be taken at face value.  
+
+National Usage Extract (i.e. Arch Diocese of Chicago, MultiFiber Glass)
+
+The National Usage data is extracted from the Fazer Database
+
+
+Also, I left Dennis a message regarding the 80-85% of the Discount Frozen
+Tariff vs the18,000 power deals in RPS.  I have not heard from him yet.
+
+Thanks,
+
+Annie
+
+
+
+
+*****************************************************************************
+The information in this email is confidential and may be legally privileged.
+It is intended solely for the addressee. Access to this email by anyone else
+is unauthorized. 
+
+If you are not the intended recipient, any disclosure, copying, distribution
+or any action taken or omitted to be taken in reliance on it, is prohibited
+and may be unlawful. When addressed to our clients any opinions or advice
+contained in this email are subject to the terms and conditions expressed in
+the governing KPMG client engagement letter.         
+*****************************************************************************
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <12851897.1075858519860.JavaMail.evans@thyme>
+Date: Fri, 7 Sep 2001 15:19:35 -0700 (PDT)
+From: annieleung@kpmg.com
+To: wilson@enron.com, rdwilson@kpmg.com, swider@enron.com, eswider@kpmg.com,
+	galvan@enron.com, jgalvan@kpmg.com, abundis@enron.com,
+	cabundis@kpmg.com, ashorn@enron.com, cashorn@kpmg.com,
+	taylor@enron.com, staciataylor@kpmg.com, bratten@enron.com,
+	bbratten@kpmg.com
+Subject: Contact List
+Cc: steven.fisher@enron.com, chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: steven.fisher@enron.com, chris.stokley@enron.com
+X-From: Leung, Annie <annieleung@kpmg.com>
+X-To: Wilson, Randy D <rdwilson@kpmg.com>, Swider, Erin M <eswider@kpmg.com>, Galvan, Joshua P <jgalvan@kpmg.com>, Abundis, Christopher <cabundis@kpmg.com>, Ashorn, Christopher L <cashorn@kpmg.com>, Taylor, Stacia <staciataylor@kpmg.com>, Bratten, Brian <bbratten@kpmg.com>
+X-cc: Fisher, Steven </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SFISHER3>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Attached is the contact list for our power team.  Please let me know if the
+information is not correct.
+
+Thanks,
+
+Annie
+
+ <<ContactList.xls>> 
+
+
+
+
+
+
+
+**********************************************************************
+The information in this email is confidential and may be legally privileged.
+It is intended solely for the addressee. Access to this email by anyone else
+is unauthorized.
+
+If you are not the intended recipient, any disclosure, copying, distribution
+or any action taken or omitted to be taken in reliance on it, is prohibited
+and may be unlawful. When addressed to our clients any opinions or advice
+contained in this email are subject to the terms and conditions expressed in
+the governing KPMG client engagement letter.
+**********************************************************************
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <29430772.1075858520473.JavaMail.evans@thyme>
+Date: Tue, 25 Sep 2001 06:27:40 -0700 (PDT)
+From: jgalvan@kpmg.com
+To: chris.stokley@enron.com
+Subject: FW: Enron - Power Team Meeting Reminders
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Galvan, Joshua P <jgalvan@kpmg.com>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+
+
+> kpmg LLP  Information Risk Management
+Joshua P. Galv?n
+Senior Associate
+700 Louisiana, Ste. 3200
+Houston, Texas  77002
+713/319-2082 (wrk)
+713/256-8499 (mob)
+jgalvan@kpmg.com
+
+>  -----Original Message-----
+> From: 	Galvan, Joshua P  
+> Sent:	Monday, 24 September, 2001 07:07 PM
+> To:	Wilson, Randy D; Miller, Brett (US/Houston)
+> Subject:	Enron - Power Team Meeting Reminders
+> 
+> Guys -
+> 
+> In case you did not have the particulars on the meetings for tomorrow ...
+> 
+> 1.	1130a - Power Contracts Tutorial - coordinated by Colette Weinreich
+> on 37th floor (~ 1hr duration)
+> 2.	130p - DPR Report Creation - with Jeff Jackson at 601A (~ 1hr
+> duration)
+> 
+> See ya tomorrow.
+> 
+> kpmg LLP  Information Risk Management
+> Joshua P. Galv?n
+> Senior Associate
+> 700 Louisiana, Ste. 3200
+> Houston, Texas  77002
+> 713/319-2082 (wrk)
+> 713/256-8499 (mob)
+> jgalvan@kpmg.com
+> 
+*****************************************************************************
+The information in this email is confidential and may be legally privileged.
+It is intended solely for the addressee. Access to this email by anyone else
+is unauthorized. 
+
+If you are not the intended recipient, any disclosure, copying, distribution
+or any action taken or omitted to be taken in reliance on it, is prohibited
+and may be unlawful. When addressed to our clients any opinions or advice
+contained in this email are subject to the terms and conditions expressed in
+the governing KPMG client engagement letter.         
+*****************************************************************************
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <2534365.1075858520378.JavaMail.evans@thyme>
+Date: Fri, 28 Sep 2001 18:49:57 -0700 (PDT)
+From: jgalvan@kpmg.com
+To: steven.fisher@enron.com
+Subject: Power Project Scorecard - 09/28/2001
+Cc: us/houston <.miller@enron.com>, m.swider@enron.com, annie.leung@enron.com,
+	d.wilson@enron.com, chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: us/houston <.miller@enron.com>, m.swider@enron.com, annie.leung@enron.com,
+	d.wilson@enron.com, chris.stokley@enron.com
+X-From: Galvan, Joshua P <jgalvan@kpmg.com>
+X-To: Fisher, Steven </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SFISHER3>
+X-cc: Miller, Brett (US/Houston) <bamiller@kpmg.com>, Swider, Erin M <eswider@kpmg.com>, Leung, Annie <annieleung@kpmg.com>, Wilson, Randy D <rdwilson@kpmg.com>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Steven - 
+
+Please find attached the scorecard for the Power Validation/Reconciliation
+Project.  In the scorecard, there are two important notes related to the
+reconciliation effort and the collection of paper documentation.  We can
+discuss these further on Monday if you wish, although I think that you are
+already informed of these.
+
+Additionally, since we are still working out the metrics on throughput, the
+relation to fees consumption is not noted.  
+
+Talk to you on Monday.
+
+ <<Enron-PwrPrjctScorecard.xls>> 
+
+> kpmg LLP  Information Risk Management
+Joshua P. Galv?n
+Senior Associate
+700 Louisiana, Ste. 3200
+Houston, Texas  77002
+713/319-2082 (wrk)
+713/256-8499 (mob)
+jgalvan@kpmg.com
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <9228004.1075858519590.JavaMail.evans@thyme>
+Date: Thu, 6 Sep 2001 12:53:01 -0700 (PDT)
+From: jgalvan@kpmg.com
+To: kristin.albrecht@enron.com
+Subject: RE: Update - Power Contract Validation/Reconciliation Project
+Cc: d.wilson@enron.com, steven.fisher@enron.com, scott.mills@enron.com,
+	chris.stokley@enron.com, p..o'neil@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: d.wilson@enron.com, steven.fisher@enron.com, scott.mills@enron.com,
+	chris.stokley@enron.com, p..o'neil@enron.com
+X-From: Galvan, Joshua P <jgalvan@kpmg.com>
+X-To: Albrecht, Kristin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KALBREC>
+X-cc: Wilson, Randy D <rdwilson@kpmg.com>, Fisher, Steven </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SFISHER3>, Mills, Scott </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SMILLS>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>, O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Kristin/Steven -
+
+Thanks for the reply.  To answer your questions:
+
+1.	The assistance you and Steven will be giving by going through some
+contracts will be invaluable.  We have had several meetings lately with
+representatives from all sorts of Enron groups, but have still not been able
+to at least minimally define a solid contract.  This is an absolute
+necessity for designing and building the validation and reconciliation
+tools.
+2.	It is actually Steve Watson, not Scott.  That was my mistake.  He is
+a contact of ours in Toby Ellis' group, which is gathering power contracts
+and copying them for us on an ongoing basis, including new business.  The
+process being followed for this detailed in the attached presentation.  We
+have not fully developed a plan for how to handle new business, but such a
+decision is forthcoming.
+3.	As for the number of contracts, I am not sure.  We of course have
+the paper copies delivered so far, which equal 6 letter-size boxes, with
+about 5-7 pages per each contract.  On top of that, there are some contracts
+being copied at CSC, totaling about 10 full file drawers, although we are
+not sure yet of the overlap of these with our already on-hand copies.
+Finally, we do have extracts from the RPS and CSC (Loadstar and STAT)
+systems.  The CSC dump equaled about 32000 records, which are summarized in
+the attached Excel spreadsheet.  The RPS dump equaled about 15000 records,
+but no real analysis of the comprehensiveness of the data has been executed.
+We are working with IT and business representatives to garner a more keen
+understanding of the fields themselves, as well as determining what
+additional ones can be of use to us, so as to formulate a final request for
+RPS data dump.
+4.	Rest assured that the work is being executed.  We currently have 6-7
+staff persons on hand already.  With the preparation of the Access DB for
+contract validation today, alongside our already available set of contracts,
+there will be plenty of data entry and validation work to do.
+
+Please contact me if there are any other topics you wish to discuss.  I can
+be reached by any means as listed below.
+
+> kpmg LLP  Information Risk Management
+Joshua P. Galv?n
+Senior Associate
+700 Louisiana, Ste. 3200
+Houston, Texas  77002
+713/319-2082 (wrk)
+713/256-8499 (mob)
+jgalvan@kpmg.com
+
+
+-----Original Message-----
+From: Albrecht, Kristin [mailto:Kristin_Albrecht@enron.net]
+Sent: Thursday, 06 September, 2001 09:00 AM
+To: Galvan, Joshua P
+Cc: Wilson, Randy D; Fisher, Steven; Mills, Scott; Stokley, Chris;
+O'Neil, Murray P.
+Subject: RE: Update - Power Contract Validation/Reconciliation Project
+
+
+Josh,
+Thanks for the update.  Please include Steven Fisher on all
+communication related to the project.  He is leading this project from
+Enron's side.  Just a few questions/comments:
+- Steven is in the process of finalizing necessary fields.  Our plan is
+to go through a few contracts ourselves to ensure we are not missing
+anything before you guys ramp up.
+- Who is Scott Watson?  
+- How many contracts do we think we have? I may have an EES resource to
+help track down contracts.  
+- Let's just make sure we have enough contracts/work to keep that many
+people busy.  I'm doubtful that we do at this point.
+Thanks again,
+Kristin
+
+
+
+
+
+Kristin -
+
+I just wanted to drop you a line since my last email communication last
+week
+to give you a status on our current activities for the Power Contract
+Validation/Reconciliation Project.
+
+1.	The Access Database that will be used for the validation and
+reconciliation processes is 70% complete.  Our estimate is about 1.5-2
+days
+for completion.  The main issue slowing the development process is that
+we
+are still trying to identify all of the required fields for a complete
+Power
+contract.  After doing so, we will need to go back to the folks working
+with
+Scott Mills to do another RPS data extraction.
+2.	Toby Ellis' group has been working to gather paper contracts
+from
+the Legal Dep't, CSC, and Origination so that we have all of the sources
+necessary for validation and reconciliation.  As further contracts are
+generated and/or located, they are copied and on a daily basis, we are
+to
+meet with Scott Watson mid-afternoon for ongoing collection.
+4.	Leveraging the experiences of the Gas Project, we are currently
+documenting the processes and procedures that the staff personnel will
+use
+to actually execute the validation and reconciliation procedures.  This
+should ensure a smooth transition for them.  I will look for Chris',
+Murray's, and your recommendations for these at some point by end of
+week.
+5.	We are currently ramping up the staff involved with this
+project.
+By week-end, we should have about 7-8 staff personnel on board.  Finding
+a
+physical location for everyone will be difficult.  Murray O'Neil, Chris
+Stokley, and one of the office managers in 3 Allen are aware of this
+need
+and its urgency, and are working with me to arrange the space.
+
+Please let me know if you have any questions about the above.  I can be
+reached at any of the numbers/locations below.  Thanks.
+
+
+> kpmg LLP  Information Risk Management
+Joshua P. Galv?n
+Senior Associate
+700 Louisiana, Ste. 3200
+Houston, Texas  77002
+713/319-2082 (wrk)
+713/256-8499 (mob)
+jgalvan@kpmg.com
+
+
+
+**********************************************************************
+The information in this email is confidential and may be legally
+privileged.
+It is intended solely for the addressee. Access to this email by anyone
+else
+is unauthorized.
+
+If you are not the intended recipient, any disclosure, copying,
+distribution
+or any action taken or omitted to be taken in reliance on it, is
+prohibited
+and may be unlawful. When addressed to our clients any opinions or
+advice
+contained in this email are subject to the terms and conditions
+expressed in
+the governing KPMG client engagement letter.
+**********************************************************************
+
+
+
+**********************************************************************
+This e-mail is the property of Enron Corp. and/or its relevant affiliate and
+may contain confidential and privileged material for the sole use of the
+intended recipient (s). Any review, use, distribution or disclosure by
+others is strictly prohibited. If you are not the intended recipient (or
+authorized to receive for the recipient), please contact the sender or reply
+to Enron Corp. at enron.messaging.administration@enron.com and delete all
+copies of the message. This e-mail (and any attachments hereto) are not
+intended to be an offer (or an acceptance) and do not create or evidence a
+binding and enforceable contract between Enron Corp. (or any of its
+affiliates) and the intended recipient or any other party, and may not be
+relied on by anyone as the basis of a contract by estoppel or otherwise.
+Thank you. 
+**********************************************************************
+
+
+**********************************************************************
+The information in this email is confidential and may be legally privileged.
+It is intended solely for the addressee. Access to this email by anyone else
+is unauthorized.
+
+If you are not the intended recipient, any disclosure, copying, distribution
+or any action taken or omitted to be taken in reliance on it, is prohibited
+and may be unlawful. When addressed to our clients any opinions or advice
+contained in this email are subject to the terms and conditions expressed in
+the governing KPMG client engagement letter.
+**********************************************************************
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <12296054.1075858520425.JavaMail.evans@thyme>
+Date: Wed, 26 Sep 2001 06:06:26 -0700 (PDT)
+From: jgalvan@kpmg.com
+To: chris.stokley@enron.com
+Subject: FW: Project Ranger
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Galvan, Joshua P <jgalvan@kpmg.com>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Chris -
+
+I though that you may be interested in the presentation attached.  The other
+attachments may be out of your realm, but just in case.
+
+> kpmg LLP  Information Risk Management
+Joshua P. Galv?n
+Senior Associate
+700 Louisiana, Ste. 3200
+Houston, Texas  77002
+713/319-2082 (wrk)
+713/256-8499 (mob)
+jgalvan@kpmg.com
+
+
+-----Original Message-----
+From: Vivian Hart [mailto:vhart@enron.com]
+Sent: Tuesday, 25 September, 2001 04:50 PM
+To: jgalvan@kpmg.com
+Cc: Scott Mills
+Subject: Project Ranger
+
+
+
+
+Here's the Ranger Presentation and the latest data model documents.
+I will send you the Ranger data from Dec 2000 - Aug 2001 next week.
+
+(See attached file: Ranger Presentation.ppt)
+
+
+(See attached file: RANGER_V5_1.ER1)
+(See attached file: RANGER_V5_1.pdf)
+(See attached file: Entity_Attribute_Definition_Note 09_06_2001.xls)
+
+
+*****************************************************************************
+The information in this email is confidential and may be legally privileged.
+It is intended solely for the addressee. Access to this email by anyone else
+is unauthorized. 
+
+If you are not the intended recipient, any disclosure, copying, distribution
+or any action taken or omitted to be taken in reliance on it, is prohibited
+and may be unlawful. When addressed to our clients any opinions or advice
+contained in this email are subject to the terms and conditions expressed in
+the governing KPMG client engagement letter.         
+*****************************************************************************
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <17114414.1075858520498.JavaMail.evans@thyme>
+Date: Thu, 20 Sep 2001 16:41:06 -0700 (PDT)
+From: jgalvan@kpmg.com
+To: chris.stokley@enron.com
+Subject: 
+Cc: wilson@enron.com, rdwilson@kpmg.com, leung@enron.com, annieleung@kpmg.com,
+	miller@enron.com, bamiller@kpmg.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: wilson@enron.com, rdwilson@kpmg.com, leung@enron.com, annieleung@kpmg.com,
+	miller@enron.com, bamiller@kpmg.com
+X-From: Galvan, Joshua P <jgalvan@kpmg.com>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: Wilson, Randy D <rdwilson@kpmg.com>, Leung, Annie <annieleung@kpmg.com>, Miller, Brett (US/Houston) <bamiller@kpmg.com>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Chris -
+
+Sorry for the delay again.  We have had a very busy two days, with the hopes
+for bluer skies starting tomorrow.  Please read the below and let me know
+where your concerns are.  Of course, in the issues sections, we will most
+likely need your assistance in overcoming.
+
+Issues/Addressing Actions
+*	Locating a reliable source for volume actuals remains difficult.  
+*	I have still not been able to obtain Michael Frazier's 12-months
+to-date report on volumes, but upon doing so we can determine the source's
+value.
+*	I have put a call out to Eric Evans, a Manager at CSC in Dublin, OH,
+to discuss the Project Ranger, where they went out a validated actual
+volumes.  We need to confirm the target set of counterparties and/or
+utilities used here so that we can leverage their information for our
+project.
+*	As a team, it is still not clear as to our direction for handling
+contracts that do not have baselines/bandwidths defined.
+
+Current status
+*	Completed PG&E baseline/bandwidth information capture (based only on
+the paper contracts on hand already).  This amounted to 25 paper contracts
+and 44 deals.  The timing for processing one contract is being determined so
+that we can prepare a thorough analysis of the time and expenses required to
+complete the project.
+*	The Access DB tool has been completed with regard to to-date
+submitted requirements, both front- and back-end.  We are awaiting your
+approval and further requirements definition, in addition to the potential
+change efforts.
+*	We have confirmed a process for working the
+Validation/Reconciliation and Baseline/Bandwidths projects in parallel.
+Contracts will first go through the Validation/Reconciliation phase, then
+through the Baseline/Bandwidths phase.  Due to the lower amount of time
+required to process a single contact, a smaller, dedicated team of
+personnel, under Annie Leung's organization, will be on hand to perform the
+Baseline/Bandwidths information capture activities.
+
+Future planned activities
+*	Continue Baseline/Bandwidths information capture activities to
+gather metrics; the process is to begin in full on Monday.
+
+> kpmg LLP  Information Risk Management
+Joshua P. Galv?n
+Senior Associate
+700 Louisiana, Ste. 3200
+Houston, Texas  77002
+713/319-2082 (wrk)
+713/256-8499 (mob)
+jgalvan@kpmg.com
+
+*****************************************************************************
+The information in this email is confidential and may be legally privileged.
+It is intended solely for the addressee. Access to this email by anyone else
+is unauthorized. 
+
+If you are not the intended recipient, any disclosure, copying, distribution
+or any action taken or omitted to be taken in reliance on it, is prohibited
+and may be unlawful. When addressed to our clients any opinions or advice
+contained in this email are subject to the terms and conditions expressed in
+the governing KPMG client engagement letter.         
+*****************************************************************************
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <14050776.1075858520069.JavaMail.evans@thyme>
+Date: Fri, 12 Oct 2001 08:09:23 -0700 (PDT)
+From: annieleung@kpmg.com
+To: chris.stokley@enron.com
+Subject: Baseline/Band Metrics
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Leung, Annie <annieleung@kpmg.com>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Chris,
+
+These are the metrics for the reviewed California contracts
+
+
+  Actual Baseline (stating MWHs) with Band Min/Max   2 of  124
+
+  Baseline with "KWH used at all facilities during the first contract year"
+language with band  22 of 24
+  
+  Baseline with "Other" language  74 of 124
+*	Historical mo. Avg's(if available) & next 24 mo's from agreement
+date;
+*	KWH's for 12 months preceding the service date;
+*	KWH used at all facilities during the first contract year OR if
+needed for first year, the 12 months preeceding the effective date) with
+Band  
+*	8,000(MWH)for first year,  and for each year there after, the actual
+usage for the 12 month period following the effective date
+
+  Bandwidth with NO Baseline 10 0f 124
+
+  Baseline with NO Bandwidth 9 of 124
+
+  NO Baseline and NO Bandwidth 8 of 124
+
+
+In summary,
+Contracts with both Baseline and Band information is 92 of 124  (This is the
+total of those with ANY baseline language and band in the contract)
+
+This may have changed from what we gave you yesterday since data was being
+entered as we spoke. This is current as of last evening.  
+
+
+
+
+*****************************************************************************
+The information in this email is confidential and may be legally privileged.
+It is intended solely for the addressee. Access to this email by anyone else
+is unauthorized. 
+
+If you are not the intended recipient, any disclosure, copying, distribution
+or any action taken or omitted to be taken in reliance on it, is prohibited
+and may be unlawful. When addressed to our clients any opinions or advice
+contained in this email are subject to the terms and conditions expressed in
+the governing KPMG client engagement letter.         
+*****************************************************************************
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <27238258.1075858519907.JavaMail.evans@thyme>
+Date: Mon, 17 Sep 2001 15:41:48 -0700 (PDT)
+From: jgalvan@kpmg.com
+To: steven.fisher@enron.com, d.wilson@enron.com, m.swider@enron.com,
+	chris.stokley@enron.com
+Subject: Meeting - Enron Bldg, 6th Floor - Power Batch Modules Discussion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Galvan, Joshua P <jgalvan@kpmg.com>
+X-To: Fisher, Steven </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SFISHER3>, Wilson, Randy D <rdwilson@kpmg.com>, Swider, Erin M <eswider@kpmg.com>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Just a reminder to everyone that we will be meeting with Dickson Koo
+tomorrow at 2pm to discuss the Power Batch Modules and how pricing, volumes,
+etc., are calculated and fed into the RPS system.  As well, considering the
+potential for large amounts of manual data entry of contracts during our
+validation procedures, we will be discussing options for appropriately
+handling this on a periodic basis.
+
+> kpmg LLP  Information Risk Management
+Joshua P. Galv?n
+Senior Associate
+700 Louisiana, Ste. 3200
+Houston, Texas  77002
+713/319-2082 (wrk)
+713/256-8499 (mob)
+jgalvan@kpmg.com
+
+*****************************************************************************
+The information in this email is confidential and may be legally privileged.
+It is intended solely for the addressee. Access to this email by anyone else
+is unauthorized. 
+
+If you are not the intended recipient, any disclosure, copying, distribution
+or any action taken or omitted to be taken in reliance on it, is prohibited
+and may be unlawful. When addressed to our clients any opinions or advice
+contained in this email are subject to the terms and conditions expressed in
+the governing KPMG client engagement letter.         
+*****************************************************************************
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <1884698.1075858519955.JavaMail.evans@thyme>
+Date: Fri, 12 Oct 2001 14:15:17 -0700 (PDT)
+From: jgalvan@kpmg.com
+To: steven.fisher@enron.com, chris.stokley@enron.com
+Subject: Power Team Status - 10/12/2001
+Cc: miller@enron.com, bamiller@kpmg.com, wilson@enron.com, rdwilson@kpmg.com,
+	leung@enron.com, annieleung@kpmg.com, swider@enron.com,
+	eswider@kpmg.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: miller@enron.com, bamiller@kpmg.com, wilson@enron.com, rdwilson@kpmg.com,
+	leung@enron.com, annieleung@kpmg.com, swider@enron.com,
+	eswider@kpmg.com
+X-From: Galvan, Joshua P <jgalvan@kpmg.com>
+X-To: Fisher, Steven </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SFISHER3>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: Miller, Brett (US/Houston) <bamiller@kpmg.com>, Wilson, Randy D <rdwilson@kpmg.com>, Leung, Annie <annieleung@kpmg.com>, Swider, Erin M <eswider@kpmg.com>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Steven/Chris -
+
+Please find attached this week's status report.
+
+ <<Enron-PwrPrjctTaskList.xls>> 
+
+> kpmg LLP  Information Risk Management
+Joshua P. Galv?n
+Senior Associate
+700 Louisiana, Ste. 3200
+Houston, Texas  77002
+713/319-2082 (wrk)
+713/256-8499 (mob)
+jgalvan@kpmg.com
+
+
+*****************************************************************************
+The information in this email is confidential and may be legally privileged.
+It is intended solely for the addressee. Access to this email by anyone else
+is unauthorized. 
+
+If you are not the intended recipient, any disclosure, copying, distribution
+or any action taken or omitted to be taken in reliance on it, is prohibited
+and may be unlawful. When addressed to our clients any opinions or advice
+contained in this email are subject to the terms and conditions expressed in
+the governing KPMG client engagement letter.         
+*****************************************************************************
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <25723615.1075858519688.JavaMail.evans@thyme>
+Date: Tue, 4 Sep 2001 14:03:59 -0700 (PDT)
+From: jgalvan@kpmg.com
+To: chris.stokley@enron.com
+Subject: Outstanding Issues for Power Contracts/RPS Extract
+Cc: swider@enron.com, eswider@kpmg.com, leung@enron.com, annieleung@kpmg.com,
+	wilson@enron.com, rdwilson@kpmg.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: swider@enron.com, eswider@kpmg.com, leung@enron.com, annieleung@kpmg.com,
+	wilson@enron.com, rdwilson@kpmg.com
+X-From: Galvan, Joshua P <jgalvan@kpmg.com>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: Swider, Erin M <eswider@kpmg.com>, Leung, Annie <annieleung@kpmg.com>, Wilson, Randy D <rdwilson@kpmg.com>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Chris -
+
+As discussed, we are having issues with the RPS extract completion.  I have
+cc'd you on another message with status to Kristin Albrecht.  Some of the
+other issues we are having are listed there.  I will use this message to
+elaborate on the contract details and RPS extraction in particular.
+
+1.  There are some data fields missing from the extract that we will
+definitely need.  These include the following:
+
+- Volume Data (per unit time, aggregation level, total for contract)
+- Start and End Date of Contract
+- Pricing Data (type: indexed, fixed, etc.)
+- Counterparty ID
+- Deal Date (inception date)
+- MTM Value
+
+The problem is not that we do not understand these issues, so much as we
+need to make sure to standardize the way the data is extracted from RPS for
+each contract.  In doing so, we will be able to finish the Access Database
+on the back end.  As for the front end of the database, we are ready for a
+demo of the forms and fields to be used for the validation and
+reconciliation procedures.  As planned, today or tomorrow we will do such.
+
+2.  In addition, we need to arrange for a generic, introductory
+presentation/discussion for the staff personnel to understand how Power
+contracts work, what data pieces are of particular importance, and what
+variations may be encountered.  Given the six boxes of contracts that we
+already have, it should be possible to select a sampling of these with the
+expertise of an Enron EES (Power) person to demonstrate the concepts
+inherent there.  This will be absolutely critical to the efficiency and
+success of our validation and reconciliation team.  It may also lead to
+slight reconfiguration measures of the Access Database.
+
+As it stands, those are the major issues we are encountering.  Please assist
+with coordinating your or the appropriate person's time for resolution.  We
+are looking to take care of these promptly so that the team can launch
+headlong into validation/reconciliation effort.
+
+> kpmg LLP  Information Risk Management
+Joshua P. Galv?n
+Senior Associate
+700 Louisiana, Ste. 3200
+Houston, Texas  77002
+713/319-2082 (wrk)
+713/256-8499 (mob)
+jgalvan@kpmg.com
+
+
+
+**********************************************************************
+The information in this email is confidential and may be legally privileged.
+It is intended solely for the addressee. Access to this email by anyone else
+is unauthorized.
+
+If you are not the intended recipient, any disclosure, copying, distribution
+or any action taken or omitted to be taken in reliance on it, is prohibited
+and may be unlawful. When addressed to our clients any opinions or advice
+contained in this email are subject to the terms and conditions expressed in
+the governing KPMG client engagement letter.
+**********************************************************************
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <14888791.1075858520260.JavaMail.evans@thyme>
+Date: Fri, 5 Oct 2001 06:22:18 -0700 (PDT)
+From: annieleung@kpmg.com
+To: chris.stokley@enron.com, steven.fisher@enron.com
+Subject: Updated screen shots
+Cc: galvan@enron.com, jgalvan@kpmg.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: galvan@enron.com, jgalvan@kpmg.com
+X-From: Leung, Annie <annieleung@kpmg.com>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>, Fisher, Steven </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SFISHER3>
+X-cc: Galvan, Joshua P <jgalvan@kpmg.com>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Attached is a copy of the updated screenshots and training manual for the
+Power Db.  Please note that the Baseline/Bandwidth screen is currently being
+updated.
+
+Thanks,
+
+Annie
+
+ <<Validation Rules1.doc>> 
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <20522321.1075858520285.JavaMail.evans@thyme>
+Date: Fri, 5 Oct 2001 05:59:32 -0700 (PDT)
+From: jgalvan@kpmg.com
+To: vivian.hart@enron.com
+Subject: RE: RPS Data fields
+Cc: annie.leung@enron.com, us/houston <.miller@enron.com>,
+	steven.fisher@enron.com, chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: annie.leung@enron.com, us/houston <.miller@enron.com>,
+	steven.fisher@enron.com, chris.stokley@enron.com
+X-From: Galvan, Joshua P <jgalvan@kpmg.com>
+X-To: Hart, Vivian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=VHART>
+X-cc: Leung, Annie <annieleung@kpmg.com>, Miller, Brett (US/Houston) <bamiller@kpmg.com>, Fisher, Steven </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SFISHER3>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Vivian -
+
+What do you think about today at 3PM?  We are compiling the results right
+now.
+
+> kpmg LLP  Information Risk Management
+Joshua P. Galv?n
+Senior Associate
+700 Louisiana, Ste. 3200
+Houston, Texas  77002
+713/319-2082 (wrk)
+713/256-8499 (mob)
+jgalvan@kpmg.com
+
+
+-----Original Message-----
+From: Hart, Vivian [mailto:Vivian.Hart@enron.com]
+Sent: Thursday, 04 October, 2001 06:09 PM
+To: Miller, Brett (US/Houston); Leung, Annie; vhart@enron.com
+Cc: Galvan, Joshua P
+Subject: RE: RPS Data fields
+
+
+Can we meet tomorrow or next week so you guys can show me what
+you've done to look at Ranger against RPS.
+
+
+-----Original Message-----
+From: Miller, Brett (US/Houston) [mailto:bamiller@kpmg.com]
+Sent: Thursday, October 04, 2001 5:57 PM
+To: Leung, Annie; 'vhart@enron.com'
+Cc: Galvan, Joshua P
+Subject: RE: RPS Data fields
+
+
+Vivian,
+To clarify.  The following fields are not in the current RPS extract but
+rather are proposed to be included in future extracts.
+
+PortfolioName (BatchName)
+Physical/Financial
+UtilityAccout#
+EnronAcctID
+PriceRegion(aka-name of curve used
+SiteID
+
+The fields included in the current extract are:
+year_id
+Deal_No
+Deal_Date
+CP
+CP_ID
+GCP_ID
+BuySell_ID
+Utility
+SiteName
+WaPrice
+start_date
+end_date
+volume
+
+If you have any questions please call me at 832 465 5443.
+
+Regards
+
+Brett Miller
+
+>  -----Original Message-----
+> From: 	Leung, Annie  
+> Sent:	Thursday, October 04, 2001 4:03 PM
+> To:	'vhart@enron.com'
+> Cc:	Galvan, Joshua P; Miller, Brett (US/Houston)
+> Subject:	RPS Data fields
+> 
+> Vivan,
+> 
+> Per your request, attached is a spreadsheet of all our RPS fields.
+> 
+> Thanks,
+> 
+> Annie
+>  << File: RPSData.xls >> 
+************************************************************************
+*****
+The information in this email is confidential and may be legally
+privileged.
+It is intended solely for the addressee. Access to this email by anyone
+else
+is unauthorized. 
+
+If you are not the intended recipient, any disclosure, copying,
+distribution
+or any action taken or omitted to be taken in reliance on it, is
+prohibited
+and may be unlawful. When addressed to our clients any opinions or
+advice
+contained in this email are subject to the terms and conditions
+expressed in
+the governing KPMG client engagement letter.         
+************************************************************************
+*****
+
+
+**********************************************************************
+This e-mail is the property of Enron Corp. and/or its relevant affiliate and
+may contain confidential and privileged material for the sole use of the
+intended recipient (s). Any review, use, distribution or disclosure by
+others is strictly prohibited. If you are not the intended recipient (or
+authorized to receive for the recipient), please contact the sender or reply
+to Enron Corp. at enron.messaging.administration@enron.com and delete all
+copies of the message. This e-mail (and any attachments hereto) are not
+intended to be an offer (or an acceptance) and do not create or evidence a
+binding and enforceable contract between Enron Corp. (or any of its
+affiliates) and the intended recipient or any other party, and may not be
+relied on by anyone as the basis of a contract by estoppel or otherwise.
+Thank you. 
+**********************************************************************
+*****************************************************************************
+The information in this email is confidential and may be legally privileged.
+It is intended solely for the addressee. Access to this email by anyone else
+is unauthorized. 
+
+If you are not the intended recipient, any disclosure, copying, distribution
+or any action taken or omitted to be taken in reliance on it, is prohibited
+and may be unlawful. When addressed to our clients any opinions or advice
+contained in this email are subject to the terms and conditions expressed in
+the governing KPMG client engagement letter.         
+*****************************************************************************
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <24832626.1075858520161.JavaMail.evans@thyme>
+Date: Thu, 11 Oct 2001 10:52:00 -0700 (PDT)
+From: annieleung@kpmg.com
+To: pgrumul@enron.com
+Subject: RE: Baseline Db Meeting Tuesday 10:30
+Cc: chris.stokley@enron.com, us/houston <.miller@enron.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: chris.stokley@enron.com, us/houston <.miller@enron.com>
+X-From: Leung, Annie <annieleung@kpmg.com>
+X-To: pgrumul@enron.com
+X-cc: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>, Miller, Brett (US/Houston) <bamiller@kpmg.com>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Paige,
+
+I set up a time with your admin to meet with you tomorrow about the baseline
+database at 10:30am.  Please let me know if that will work out for you.  
+
+I also met with Chris in the afternoon and gave him an overview on what we
+went over today.  He will try to come to the meeting tomorrow.
+
+Thanks,
+
+Annie
+
+-----Original Message-----
+From: pgrumul@enron.com [mailto:pgrumul@enron.com]
+Sent: Monday, October 08, 2001 2:58 PM
+To: annieleung@kpmg.com
+Subject: Re: Baseline Team Meeting 3 Allen Center--16th floor
+11:30am-12:30pm
+
+
+
+I'm open all morning and have gaps in the afternoon - 2-3 or 4-5.  Let me
+know.
+
+
+
+**********************************************************************
+This e-mail is the property of Enron Corp. and/or its relevant affiliate and
+may contain confidential and privileged material for the sole use of the
+intended recipient (s). Any review, use, distribution or disclosure by
+others is strictly prohibited. If you are not the intended recipient (or
+authorized to receive for the recipient), please contact the sender or reply
+to Enron Corp. at enron.messaging.administration@enron.com and delete all
+copies of the message. This e-mail (and any attachments hereto) are not
+intended to be an offer (or an acceptance) and do not create or evidence a
+binding and enforceable contract between Enron Corp. (or any of its
+affiliates) and the intended recipient or any other party, and may not be
+relied on by anyone as the basis of a contract by estoppel or otherwise.
+Thank you. 
+**********************************************************************
+*****************************************************************************
+The information in this email is confidential and may be legally privileged.
+It is intended solely for the addressee. Access to this email by anyone else
+is unauthorized. 
+
+If you are not the intended recipient, any disclosure, copying, distribution
+or any action taken or omitted to be taken in reliance on it, is prohibited
+and may be unlawful. When addressed to our clients any opinions or advice
+contained in this email are subject to the terms and conditions expressed in
+the governing KPMG client engagement letter.         
+*****************************************************************************
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <12654759.1075858520308.JavaMail.evans@thyme>
+Date: Thu, 4 Oct 2001 15:10:30 -0700 (PDT)
+From: bamiller@kpmg.com
+To: steven.fisher@enron.com, chris.stokley@enron.com
+Subject: CSC / Contract / RPS Matrix
+Cc: wilson@enron.com, rdwilson@kpmg.com, galvan@enron.com, jgalvan@kpmg.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: wilson@enron.com, rdwilson@kpmg.com, galvan@enron.com, jgalvan@kpmg.com
+X-From: Miller, Brett (US/Houston) <bamiller@kpmg.com>
+X-To: Fisher, Steven </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SFISHER3>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: Wilson, Randy D <rdwilson@kpmg.com>, Galvan, Joshua P <jgalvan@kpmg.com>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Attached is a matrix of our discussion from Tuesday where we described the result of finding contracts in each of the different areas (ie. CSC / Avista, RPS or the paper contract).
+
+ 
+In the original version of this table CSC and Avista were separated based on an assumption that there should be feeds between the two systems.  After the meeting at 11:00 on 10/4 this assumption was changed, such that CSC and Avista are both sources of billing / usage data.
+
+Please call me at 832 465 5443 if you have any questions.
+
+Brett Miller
+KPMG LLP
+Information Risk Management
+
+700 Louisiana
+Houston, Texas  77002
+Office :	713.319.2037
+Fax  :	713.319.2685
+Mobile :	832.465.5443
+Email :	bamiller@kpmg.com
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <20555363.1075858520332.JavaMail.evans@thyme>
+Date: Thu, 4 Oct 2001 09:56:12 -0700 (PDT)
+From: bamiller@kpmg.com
+To: chris.stokley@enron.com
+Subject: Baseline / Bandwidth
+Cc: leung@enron.com, annieleung@kpmg.com, galvan@enron.com, jgalvan@kpmg.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: leung@enron.com, annieleung@kpmg.com, galvan@enron.com, jgalvan@kpmg.com
+X-From: Miller, Brett (US/Houston) <bamiller@kpmg.com>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: Leung, Annie <annieleung@kpmg.com>, Galvan, Joshua P <jgalvan@kpmg.com>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Chris as discussed this morning attached is the scope document.
+
+ 
+This morning's meeting has helped in defining the types of calculations / reports that will be needed in the database.  
+
+Outcomes from the meeting are:
+Verify transaction economics for newer contracts
+Power Baseline team to compile data so that you can get an indication on the number of contracts that have baseline information for California.  
+Data relating to material change will be captured and we will attempt to identify trends in the data captured.
+Process flow to be prepared for baseline / bandwidth capture
+
+Items that we are waiting on from you are:
+Confirmation that we will be basing calculations for bandwidth on Project Ranger data
+Copy of some sample MDMA data for use in constructing the database.
+Confirmation of the scope described in the attached document.
+
+Call me if you have any questions at 832 465 5443.
+
+Regards
+
+Brett Miller
+KPMG LLP
+Information Risk Management
+
+700 Louisiana
+Houston, Texas  77002
+Office :	713.319.2037
+Fax  :	713.319.2685
+Mobile :	832.465.5443
+Email :	bamiller@kpmg.com
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <14510972.1075858520401.JavaMail.evans@thyme>
+Date: Wed, 26 Sep 2001 09:38:02 -0700 (PDT)
+From: jgalvan@kpmg.com
+To: chris.stokley@enron.com
+Subject: Power DB
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Galvan, Joshua P <jgalvan@kpmg.com>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+ <<PwrDB.ZIP>> 
+
+> kpmg LLP  Information Risk Management
+Joshua P. Galv?n
+Senior Associate
+700 Louisiana, Ste. 3200
+Houston, Texas  77002
+713/319-2082 (wrk)
+713/256-8499 (mob)
+jgalvan@kpmg.com
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <6706218.1075858519514.JavaMail.evans@thyme>
+Date: Wed, 12 Sep 2001 07:39:12 -0700 (PDT)
+From: jgalvan@kpmg.com
+To: chris.stokley@enron.com
+Subject: FW: Finalization of Field Requirements
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Galvan, Joshua P <jgalvan@kpmg.com>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+FYI
+
+> kpmg LLP  Information Risk Management
+Joshua P. Galv?n
+Senior Associate
+700 Louisiana, Ste. 3200
+Houston, Texas  77002
+713/319-2082 (wrk)
+713/256-8499 (mob)
+jgalvan@kpmg.com
+
+
+-----Original Message-----
+From: Galvan, Joshua P 
+Sent: Wednesday, 12 September, 2001 08:56 AM
+To: 'TTaylor4@enron.com'
+Cc: Leung, Annie; Swider, Erin M; Steven Fisher (E-mail)
+Subject: FW: Finalization of Field Requirements
+Importance: High
+
+
+Todd -
+
+So sorry to dump this on you last minute.  They have just sent me another
+requirement for the RPS data dump.  We will also need the pass through costs
+as a field for each record in the data dump.
+
+Please let me know if this is going to be a problem.  We are still wanting
+to get the data dump today, even if you cannot satisfy this last request.
+We can get the final field later.
+
+Thanks.
+
+> kpmg LLP  Information Risk Management
+Joshua P. Galv?n
+Senior Associate
+700 Louisiana, Ste. 3200
+Houston, Texas  77002
+713/319-2082 (wrk)
+713/256-8499 (mob)
+jgalvan@kpmg.com
+
+
+-----Original Message-----
+From: Fisher, Steven [mailto:Steven.Fisher@enron.com]
+Sent: Wednesday, 12 September, 2001 08:50 AM
+To: jgalvan@kpmg.com; annieleung@kpmg.com
+Subject: FW: Finalization of Field Requirements
+
+
+Another field for pass through costs will need to be added to the
+database.  Also when you get the meeting set with the power deal
+management person to discuss data input into RPS Kristin and I would
+like to participate.  I should be around all day if you need anything.
+
+Steve
+
+>  -----Original Message-----
+> From: 	Busby, Todd  
+> Sent:	Tuesday, September 11, 2001 8:23 AM
+> To:	Fisher, Steven
+> Subject:	RE: Finalization of Field Requirements
+> 
+> here is something we forgot:  Sometimes the costs of delivery are
+> passed through to the customer we are serving.  The most common
+> example of this is T&D, but it could be all adders (ancillary
+> services, T&D, losses, ICAP, etc).  We need to capture which costs we
+> are responsible for and which are the customer responsibility.
+> 
+> 
+> 
+> 
+> 
+> t
+> 
+>  -----Original Message-----
+> From: 	Fisher, Steven  
+> Sent:	Monday, September 10, 2001 4:35 PM
+> To:	Busby, Todd
+> Cc:	Albrecht, Kristin
+> Subject:	Finalization of Field Requirements
+> 
+> Todd - attached is the current access database screen prints and the
+> spreadsheet with all fields needed for the power process.  Could you
+> review the screen prints and determine if there are any other data
+> fields that you will need from the KPMG Access database for the
+> downloaded into the new power system.  Second on the excel spreadsheet
+> I have highlighted in red the fields which will be validated by KPMG,
+> other fields will not be validated unless others believe they should.
+> After discussions with Murray O'Neil and Kristin Albrecht if the site
+> profile database needs to be validated we could run a simultaneous
+> project to accomplish.  Murray wants to move forward with the
+> consumption band analysis as quickly as possible and believes this
+> could slow down the current initiatives if done within the same
+> project.  I have already discussed these items with Kristin.
+> Appreciate your assistance.
+> 
+> 
+>  << File: Power DB Field Requirements.xls >>  << File:
+> PowerDbScreenShots.doc >> 
+> 
+> Steve
+> x58240
+
+
+**********************************************************************
+This e-mail is the property of Enron Corp. and/or its relevant affiliate and
+may contain confidential and privileged material for the sole use of the
+intended recipient (s). Any review, use, distribution or disclosure by
+others is strictly prohibited. If you are not the intended recipient (or
+authorized to receive for the recipient), please contact the sender or reply
+to Enron Corp. at enron.messaging.administration@enron.com and delete all
+copies of the message. This e-mail (and any attachments hereto) are not
+intended to be an offer (or an acceptance) and do not create or evidence a
+binding and enforceable contract between Enron Corp. (or any of its
+affiliates) and the intended recipient or any other party, and may not be
+relied on by anyone as the basis of a contract by estoppel or otherwise.
+Thank you. 
+**********************************************************************
+*****************************************************************************
+The information in this email is confidential and may be legally privileged.
+It is intended solely for the addressee. Access to this email by anyone else
+is unauthorized. 
+
+If you are not the intended recipient, any disclosure, copying, distribution
+or any action taken or omitted to be taken in reliance on it, is prohibited
+and may be unlawful. When addressed to our clients any opinions or advice
+contained in this email are subject to the terms and conditions expressed in
+the governing KPMG client engagement letter.         
+*****************************************************************************
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <12887405.1075858519812.JavaMail.evans@thyme>
+Date: Thu, 23 Aug 2001 11:56:50 -0700 (PDT)
+From: jgalvan@kpmg.com
+To: p..o'neil@enron.com, chris.stokley@enron.com
+Subject: RE: Description of MS Access Gas Solution - KPMG IRM
+Cc: wilson@enron.com, rdwilson@kpmg.com, leung@enron.com, annieleung@kpmg.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: wilson@enron.com, rdwilson@kpmg.com, leung@enron.com, annieleung@kpmg.com
+X-From: Galvan, Joshua P <jgalvan@kpmg.com>
+X-To: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: Wilson, Randy D <rdwilson@kpmg.com>, Leung, Annie <annieleung@kpmg.com>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Murray -
+
+Sorry for the delay.  We spent a lot of time this morning working with the
+designer of the Gas solution.  We have a much better understanding of their
+business case now, and of course the resultant IT solution.  This should
+help us in attacking the Power issue.
+
+Attached are the updated memo I sent yesterday, with a more detailed
+description and an illustration of the data flow, and a new document with a
+set of questions that we may use to steer our initial information gathering
+sessions.  Please take a look at these and let me know if you have any
+questions.
+
+Annie and I will be meeting with Chris for more business case understanding
+next week.  I look forward to this time, and will work with Randy Wilson to
+post status to you by week-end.  Thanks.
+
+> kpmg LLP  Information Risk Management
+Joshua P. Galv?n
+Senior Associate
+700 Louisiana, Ste. 3200
+Houston, Texas  77002
+713/319-2082 (wrk)
+713/256-8499 (mob)
+jgalvan@kpmg.com
+
+
+-----Original Message-----
+From: O'Neil, Murray P. [mailto:Murray.P.O'Neil@enron.com]
+Sent: Thursday, 23 August, 2001 07:05 AM
+To: Galvan, Joshua P
+Subject: RE: Description of MS Access Gas Solution - KPMG IRM
+
+
+Joshua,
+
+Thanks for the document.  I am also a very visual person.  Can you
+please forward me a data flow where I can see the sources of the
+information and how they are tied together.  Don't spend a lot of time
+on it. I am hoping that this has already been put together.
+
+Thanks - MO
+
+ -----Original Message-----
+From: 	Galvan, Joshua P [mailto:jgalvan@kpmg.com] 
+Sent:	Wednesday, August 22, 2001 7:35 PM
+To:	O'Neil, Murray P.
+Cc:	Leung, Annie; Wilson, Randy D
+Subject:	Description of MS Access Gas Solution - KPMG IRM
+
+ << File: Enron-GasAccessDBArch-Aug2001-IRM.doc >> Murray -
+
+As requested, I am attaching here a document describing the high-level
+uses
+of the MS Access Gas solution.  It also details the main table and the
+primary key for all records therein.
+
+Please review and let me know if you have any questions.  Annie and I
+have a
+meeting planned with the developer of the Gas solution tomorrow at 9AM,
+after which we are planning on working with Chris to identify some of
+the
+key data areas required for the Power solution.
+
+Thanks.
+
+ <<Enron-GasAccessDBArch-Aug2001-IRM.doc>> 
+
+> kpmg LLP  Information Risk Management
+Joshua P. Galv?n
+Senior Associate
+700 Louisiana, Ste. 3200
+Houston, Texas  77002
+713/319-2082 (wrk)
+713/256-8499 (mob)
+jgalvan@kpmg.com
+
+
+
+************************************************************************
+*****
+The information in this email is confidential and may be legally
+privileged.
+It is intended solely for the addressee. Access to this email by anyone
+else
+is unauthorized. 
+
+If you are not the intended recipient, any disclosure, copying,
+distribution
+or any action taken or omitted to be taken in reliance on it, is
+prohibited
+and may be unlawful. When addressed to our clients any opinions or
+advice
+contained in this email are subject to the terms and conditions
+expressed in
+the governing KPMG client engagement letter.         
+************************************************************************
+*****
+
+
+
+**********************************************************************
+This e-mail is the property of Enron Corp. and/or its relevant affiliate and
+may contain confidential and privileged material for the sole use of the
+intended recipient (s). Any review, use, distribution or disclosure by
+others is strictly prohibited. If you are not the intended recipient (or
+authorized to receive for the recipient), please contact the sender or reply
+to Enron Corp. at enron.messaging.administration@enron.com and delete all
+copies of the message. This e-mail (and any attachments hereto) are not
+intended to be an offer (or an acceptance) and do not create or evidence a
+binding and enforceable contract between Enron Corp. (or any of its
+affiliates) and the intended recipient or any other party, and may not be
+relied on by anyone as the basis of a contract by estoppel or otherwise.
+Thank you. 
+**********************************************************************
+
+
+
+*****************************************************************************
+The information in this email is confidential and may be legally privileged.
+It is intended solely for the addressee. Access to this email by anyone else
+is unauthorized. 
+
+If you are not the intended recipient, any disclosure, copying, distribution
+or any action taken or omitted to be taken in reliance on it, is prohibited
+and may be unlawful. When addressed to our clients any opinions or advice
+contained in this email are subject to the terms and conditions expressed in
+the governing KPMG client engagement letter.         
+*****************************************************************************
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <15334257.1075858520138.JavaMail.evans@thyme>
+Date: Thu, 11 Oct 2001 15:32:25 -0700 (PDT)
+From: annieleung@kpmg.com
+To: chris.stokley@enron.com
+Subject: Baseline Status
+Cc: miller@enron.com, bamiller@kpmg.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: miller@enron.com, bamiller@kpmg.com
+X-From: Leung, Annie <annieleung@kpmg.com>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: Miller, Brett (US/Houston) <bamiller@kpmg.com>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Chris,
+
+Attached is the Baseline Status Document.
+
+Thanks,
+
+annie
+ <<BaselineStatus .doc>> 
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <13812030.1075858519563.JavaMail.evans@thyme>
+Date: Fri, 7 Sep 2001 12:49:24 -0700 (PDT)
+From: jgalvan@kpmg.com
+To: chris.stokley@enron.com, steven.fisher@enron.com
+Subject: 
+Cc: leung@enron.com, annieleung@kpmg.com, swider@enron.com, eswider@kpmg.com,
+	wilson@enron.com, rdwilson@kpmg.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: leung@enron.com, annieleung@kpmg.com, swider@enron.com, eswider@kpmg.com,
+	wilson@enron.com, rdwilson@kpmg.com
+X-From: Galvan, Joshua P <jgalvan@kpmg.com>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>, Fisher, Steven </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SFISHER3>
+X-cc: Leung, Annie <annieleung@kpmg.com>, Swider, Erin M <eswider@kpmg.com>, Wilson, Randy D <rdwilson@kpmg.com>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Chris/Steven -
+
+As a recap to the meeting today with Dennis Benevides, I have a few points
+to confirm with you guys.
+
+General
+1.	There are approximately 200 contracts in the CA market, of varying
+types and structures (discounted frozen tariffs [~80%] and outsourced
+commodity [~20%]), including penalty terms (e.g., positive differences on
+underage and overage), start/end dates, maturity of contract (e.g., 2001 is
+the 3rd year of a 5 year agreement), and bandwidths.
+2.	The CA market contracts are typically 3-4 year terms, with most
+having 1-2 years to go for expiration.  Also, a lot of these have bandwidths
+of +/- 10%, tied to an annual consumption amount.
+3.	The CA market contracts have undergone a true-up process over the
+last 6-12 months, with the books (i.e., RPS) being updated concurrently.
+However, actual usage was not tested against these true-up values.  Mike Kim
+has information regarding usage and baselines.
+4.	The other markets are NY, NJ, Maine, and Illinois, with NJ and
+Illinois typically employing regional commodity transactions and +/- 10%
+bandwidths and positive differences on settlements.
+5.	Dennis mentioned that a lot of the contracts may not be settled as
+yet, due to the terms, which hold that the tail-end of the contract
+experiences most of the financial impact.  This will have to be confirmed to
+assist with scoping our settlement project.
+
+Action Items - Validation/Reconciliation
+1.	Understand the different types of contracts, both chronologically
+and regionally.  
+2.	Define the minimal requirements for contract validation and
+reconciliation procedures.
+3.	Implement these parameters into the Access database solution.
+ ----- Validate/Reconcile contracts -----
+4.	Determine the contracts in the CA pool (delivered by Ian McAbeer)
+that match with the RPS data dump (to be delivered by Monday hopefully),
+then get with Karen Cordova in legal to retrieve the balance of the
+contracts.
+ ----- Validate/Reconcile contracts -----
+
+Action Items - Settlements
+1.	Contact Dennis Benevides again to get the list of his top 40 CA
+contracts; compare these with the 200 paper contracts delivered by Ian
+McAbeer to gauge the exposure.
+1.	Contact Mike Kim to discuss his insight into usage information; use
+this information to determine what exactly has been done to
+bandwidths/baselines as a result of the true-up project.
+2.	Determine the minimal requirements for establishing, correcting,
+and/or settling off of a baseline.
+3.	Implement these parameters into the Access database solution.
+
+kpmg LLP  Information Risk Management
+Joshua P. Galv?n
+Senior Associate
+700 Louisiana, Ste. 3200
+Houston, Texas  77002
+713/319-2082 (wrk)
+713/256-8499 (mob)
+jgalvan@kpmg.com
+
+
+**********************************************************************
+The information in this email is confidential and may be legally privileged.
+It is intended solely for the addressee. Access to this email by anyone else
+is unauthorized.
+
+If you are not the intended recipient, any disclosure, copying, distribution
+or any action taken or omitted to be taken in reliance on it, is prohibited
+and may be unlawful. When addressed to our clients any opinions or advice
+contained in this email are subject to the terms and conditions expressed in
+the governing KPMG client engagement letter.
+**********************************************************************
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <736805.1075858519998.JavaMail.evans@thyme>
+Date: Fri, 12 Oct 2001 14:05:16 -0700 (PDT)
+From: annieleung@kpmg.com
+To: ebrakke@enron.com
+Subject: Baseline Contract Language
+Cc: us/houston <.miller@enron.com>, chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: us/houston <.miller@enron.com>, chris.stokley@enron.com
+X-From: Leung, Annie <annieleung@kpmg.com>
+X-To: 'ebrakke@enron.com'
+X-cc: Miller, Brett (US/Houston) <bamiller@kpmg.com>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Erling,
+
+Attached is the contract language we have seen regarding baseline/band
+consumption.  Please review and we can discuss it in detail during our 9am
+meeting Monday.
+I will also bring some sample contracts.  Please call if you have any
+questions 832-524-9850.
+
+Thanks,
+
+Annie
+
+ <<BaselineContractLanguage.doc>> 
+
+*****************************************************************************
+The information in this email is confidential and may be legally privileged.
+It is intended solely for the addressee. Access to this email by anyone else
+is unauthorized. 
+
+If you are not the intended recipient, any disclosure, copying, distribution
+or any action taken or omitted to be taken in reliance on it, is prohibited
+and may be unlawful. When addressed to our clients any opinions or advice
+contained in this email are subject to the terms and conditions expressed in
+the governing KPMG client engagement letter.         
+*****************************************************************************
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <2079132.1075858519538.JavaMail.evans@thyme>
+Date: Fri, 7 Sep 2001 12:53:04 -0700 (PDT)
+From: jgalvan@kpmg.com
+To: ttaylor4@enron.com
+Subject: RE: ReCap - RPS Extract Meeting (Todd Taylor)
+Cc: annie.leung@enron.com, m.swider@enron.com, d.wilson@enron.com,
+	chris.stokley@enron.com, steven.fisher@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: annie.leung@enron.com, m.swider@enron.com, d.wilson@enron.com,
+	chris.stokley@enron.com, steven.fisher@enron.com
+X-From: Galvan, Joshua P <jgalvan@kpmg.com>
+X-To: 'ttaylor4@enron.com'
+X-cc: Leung, Annie <annieleung@kpmg.com>, Swider, Erin M <eswider@kpmg.com>, Wilson, Randy D <rdwilson@kpmg.com>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>, Fisher, Steven </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SFISHER3>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Todd -
+
+Just to recap from our meeting this morning.
+
+Discussion Points
+1.	The following personnel are familiar with the batch module
+architecture:  Ress Young, Dickson Koo, and Rogers Herndon.
+2.	On the IT side, the following personnel can assist with data
+extraction/description from RPS:  Charles Alvarez (*main contact), Ed
+Calderon, Scott Yergin.
+3.	On the Origination side, Phil Laden is familiar with the creation of
+batch modules.
+
+Action Items
+1. (Todd Taylor)  We should expect a listing of all the available data for
+extract from RPS.  This list should be sent to all of the parties on this
+email by end of day Friday.
+2. (Power Team)  We will redefine the RPS extract list, including the
+information reviewed in #1 and that discussed in our meeting this morning.
+The data dump will be delivered at the latest Wednesday, but our target is
+today.  Please send it in ZIP format to limit the size of the email.  Again,
+please copy all of the parties on this email.  The redefined extraction list
+will include the current listing of fields, plus information regarding the
+following.  (Should Annie, Erin, and Steven finalize this request, and
+forward it to you via email?)
+	- penalty parameters
+	- actual and contractual max/min usage amounts
+	- the financial instrument of the deal
+	- records for multiple utilities at one site, plus an indicator of
+this for such records
+	- the RPS unique identifier
+	- the name of the curve used to mark the deal to market
+	- rate combo ID
+	- aggregation level of MWH ON/OFF, pvMWH ON/OFF, and MW ON/OFF
+values
+3. (Power Team)  We will contact Dickson Koo for a meeting to discuss the
+batch modules.  This will allow us to understand what all the calculations
+and details are that are uploaded to the RPS system, in addition to
+providing for us some take-away copies of the batch modules.
+4. (Power Team)  We will establish a protocol for backing up the Access
+database on a daily (M-F) basis to the KPMG server.
+
+kpmg LLP  Information Risk Management
+Joshua P. Galv?n
+Senior Associate
+700 Louisiana, Ste. 3200
+Houston, Texas  77002
+713/319-2082 (wrk)
+713/256-8499 (mob)
+jgalvan@kpmg.com
+
+
+
+**********************************************************************
+The information in this email is confidential and may be legally privileged.
+It is intended solely for the addressee. Access to this email by anyone else
+is unauthorized.
+
+If you are not the intended recipient, any disclosure, copying, distribution
+or any action taken or omitted to be taken in reliance on it, is prohibited
+and may be unlawful. When addressed to our clients any opinions or advice
+contained in this email are subject to the terms and conditions expressed in
+the governing KPMG client engagement letter.
+**********************************************************************
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <7305917.1075858520236.JavaMail.evans@thyme>
+Date: Fri, 5 Oct 2001 08:47:53 -0700 (PDT)
+From: jgalvan@kpmg.com
+To: vivian.hart@enron.com
+Subject: RE: RPS Data fields
+Cc: steven.fisher@enron.com, us/houston <.miller@enron.com>,
+	chris.stokley@enron.com, d.wilson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: steven.fisher@enron.com, us/houston <.miller@enron.com>,
+	chris.stokley@enron.com, d.wilson@enron.com
+X-From: Galvan, Joshua P <jgalvan@kpmg.com>
+X-To: Hart, Vivian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=VHART>
+X-cc: Fisher, Steven </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SFISHER3>, Miller, Brett (US/Houston) <bamiller@kpmg.com>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>, Wilson, Randy D <rdwilson@kpmg.com>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+We have a team room.  It is 2948.  Please call me at 713/256-8499 if anything changes.
+ 
+
+kpmg LLP  Information Risk Management 
+Joshua P. Galv?n 
+Senior Associate 
+700 Louisiana, Ste. 3200 
+Houston, Texas  77002 
+713/319-2082 (wrk) 
+713/256-8499 (mob) 
+jgalvan@kpmg.com 
+
+-----Original Message-----
+From: Hart, Vivian [mailto:Vivian.Hart@enron.com]
+Sent: Friday, 05 October, 2001 10:18 AM
+To: Galvan, Joshua P
+Cc: Leung, Annie; Miller, Brett (US/Houston); Fisher, Steven; Stokley, Chris
+Subject: RE: RPS Data fields
+
+
+Today at 3pm would work.  Where?
+
+-----Original Message----- 
+From: Galvan, Joshua P 
+Sent: Fri 10/5/2001 7:59 AM 
+To: Hart, Vivian 
+Cc: Leung, Annie; Miller, Brett (US/Houston); Fisher, Steven; Stokley, Chris 
+Subject: RE: RPS Data fields
+
+
+
+Vivian -
+
+What do you think about today at 3PM?  We are compiling the results right
+now.
+
+> kpmg LLP  Information Risk Management
+Joshua P. Galv?n
+Senior Associate
+700 Louisiana, Ste. 3200
+Houston, Texas  77002
+713/319-2082 (wrk)
+713/256-8499 (mob)
+jgalvan@kpmg.com
+
+
+-----Original Message-----
+From: Hart, Vivian [<mailto:Vivian.Hart@enron.com>]
+Sent: Thursday, 04 October, 2001 06:09 PM
+To: Miller, Brett (US/Houston); Leung, Annie; vhart@enron.com
+Cc: Galvan, Joshua P
+Subject: RE: RPS Data fields
+
+
+Can we meet tomorrow or next week so you guys can show me what
+you've done to look at Ranger against RPS.
+
+
+-----Original Message-----
+From: Miller, Brett (US/Houston) [<mailto:bamiller@kpmg.com>]
+Sent: Thursday, October 04, 2001 5:57 PM
+To: Leung, Annie; 'vhart@enron.com'
+Cc: Galvan, Joshua P
+Subject: RE: RPS Data fields
+
+
+Vivian,
+To clarify.  The following fields are not in the current RPS extract but
+rather are proposed to be included in future extracts.
+
+PortfolioName (BatchName)
+Physical/Financial
+UtilityAccout#
+EnronAcctID
+PriceRegion(aka-name of curve used
+SiteID
+
+The fields included in the current extract are:
+year_id
+Deal_No
+Deal_Date
+CP
+CP_ID
+GCP_ID
+BuySell_ID
+Utility
+SiteName
+WaPrice
+start_date
+end_date
+volume
+
+If you have any questions please call me at 832 465 5443.
+
+Regards
+
+Brett Miller
+
+>  -----Original Message-----
+> From:         Leung, Annie 
+> Sent: Thursday, October 04, 2001 4:03 PM
+> To:   'vhart@enron.com'
+> Cc:   Galvan, Joshua P; Miller, Brett (US/Houston)
+> Subject:      RPS Data fields
+>
+> Vivan,
+>
+> Per your request, attached is a spreadsheet of all our RPS fields.
+>
+> Thanks,
+>
+> Annie
+>  << File: RPSData.xls >>
+************************************************************************
+*****
+The information in this email is confidential and may be legally
+privileged.
+It is intended solely for the addressee. Access to this email by anyone
+else
+is unauthorized.
+
+If you are not the intended recipient, any disclosure, copying,
+distribution
+or any action taken or omitted to be taken in reliance on it, is
+prohibited
+and may be unlawful. When addressed to our clients any opinions or
+advice
+contained in this email are subject to the terms and conditions
+expressed in
+the governing KPMG client engagement letter.        
+************************************************************************
+*****
+
+
+**********************************************************************
+This e-mail is the property of Enron Corp. and/or its relevant affiliate and
+may contain confidential and privileged material for the sole use of the
+intended recipient (s). Any review, use, distribution or disclosure by
+others is strictly prohibited. If you are not the intended recipient (or
+authorized to receive for the recipient), please contact the sender or reply
+to Enron Corp. at enron.messaging.administration@enron.com and delete all
+copies of the message. This e-mail (and any attachments hereto) are not
+intended to be an offer (or an acceptance) and do not create or evidence a
+binding and enforceable contract between Enron Corp. (or any of its
+affiliates) and the intended recipient or any other party, and may not be
+relied on by anyone as the basis of a contract by estoppel or otherwise.
+Thank you.
+**********************************************************************
+*****************************************************************************
+The information in this email is confidential and may be legally privileged.
+It is intended solely for the addressee. Access to this email by anyone else
+is unauthorized.
+
+If you are not the intended recipient, any disclosure, copying, distribution
+or any action taken or omitted to be taken in reliance on it, is prohibited
+and may be unlawful. When addressed to our clients any opinions or advice
+contained in this email are subject to the terms and conditions expressed in
+the governing KPMG client engagement letter.        
+*****************************************************************************
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <11968376.1075858519884.JavaMail.evans@thyme>
+Date: Wed, 12 Sep 2001 09:18:19 -0700 (PDT)
+From: jgalvan@kpmg.com
+To: chris.stokley@enron.com, annie.leung@enron.com
+Subject: Baseline/Bandwidth Screen Requirements
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Galvan, Joshua P <jgalvan@kpmg.com>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>, Leung, Annie <annieleung@kpmg.com>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Guys -
+
+Please review my amended requirements for the Baseline/Bandwidth project.  I
+think the approach will be relatively simple, with a lot of data entry on
+the side of our staff.  That notwithstanding, I think that our requirements
+are pretty solid, with the exception of the code/calculations required for
+actually establishing baselines/bands where they do not exist.  We will need
+to establish processes and procedures for doing so; this for the staff
+actually performing the contract-by-contract work.  We should discuss this
+stuff again today.  thanks.
+
+ <<Enron-DealTicketRqmts-Aug2001-PBC.doc>> 
+
+> kpmg LLP  Information Risk Management
+Joshua P. Galv?n
+Senior Associate
+700 Louisiana, Ste. 3200
+Houston, Texas  77002
+713/319-2082 (wrk)
+713/256-8499 (mob)
+jgalvan@kpmg.com
+
+
+*****************************************************************************
+The information in this email is confidential and may be legally privileged.
+It is intended solely for the addressee. Access to this email by anyone else
+is unauthorized. 
+
+If you are not the intended recipient, any disclosure, copying, distribution
+or any action taken or omitted to be taken in reliance on it, is prohibited
+and may be unlawful. When addressed to our clients any opinions or advice
+contained in this email are subject to the terms and conditions expressed in
+the governing KPMG client engagement letter.         
+*****************************************************************************
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <31108924.1075858520355.JavaMail.evans@thyme>
+Date: Thu, 4 Oct 2001 09:15:50 -0700 (PDT)
+From: annieleung@kpmg.com
+To: chris.stokley@enron.com
+Subject: Contract Review Training 1-3pm
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Leung, Annie <annieleung@kpmg.com>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Chris,
+
+Paige will be meeting us on the 29th floor to show us how to go through the
+contracts at 1pm-3pm.
+
+thanks,
+
+annie
+*****************************************************************************
+The information in this email is confidential and may be legally privileged.
+It is intended solely for the addressee. Access to this email by anyone else
+is unauthorized. 
+
+If you are not the intended recipient, any disclosure, copying, distribution
+or any action taken or omitted to be taken in reliance on it, is prohibited
+and may be unlawful. When addressed to our clients any opinions or advice
+contained in this email are subject to the terms and conditions expressed in
+the governing KPMG client engagement letter.         
+*****************************************************************************
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <1909625.1075858520022.JavaMail.evans@thyme>
+Date: Fri, 12 Oct 2001 13:23:27 -0700 (PDT)
+From: annieleung@kpmg.com
+To: chris.stokley@enron.com
+Subject: Meeting with Kenny Ha
+Cc: miller@enron.com, bamiller@kpmg.com, galvan@enron.com, jgalvan@kpmg.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: miller@enron.com, bamiller@kpmg.com, galvan@enron.com, jgalvan@kpmg.com
+X-From: Leung, Annie <annieleung@kpmg.com>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>, 'pgrumal@enron.com'
+X-cc: Miller, Brett (US/Houston) <bamiller@kpmg.com>, Galvan, Joshua P <jgalvan@kpmg.com>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Chris,
+
+Here is a briefing from our meeting with Kenny.  These are the fields he
+requested for.  In order to include these in the database, we will need
+additional information/clarification from you and Paige.
+
+Thanks,
+
+Annie
+
+
+Pass through Cost 
+-Cost Type (we need a list from you of the different types)
+-Percent
+-Different percentages among cost types (i.e.. ICAP-50%; LL 75%, etc)
+
+Pricing
+-Fixed
+-Indexed  
+-Type of Index (we need a list from you of the different types)
+
+Discount Frozen Tariff
+-Frozen Tariff Date
+-Incentive Percent and Period (Per Kenny, you would be the contact person fo
+this)
+
+Currency
+-Eurodollars
+-US dollars
+
+-Settlement Period
+-Band Max/Min Calculated Monthly but may settle Yearly/Quarterly  (Per
+Kenny, Paige should be able to interpret this in the contract)
+	
+*****************************************************************************
+The information in this email is confidential and may be legally privileged.
+It is intended solely for the addressee. Access to this email by anyone else
+is unauthorized. 
+
+If you are not the intended recipient, any disclosure, copying, distribution
+or any action taken or omitted to be taken in reliance on it, is prohibited
+and may be unlawful. When addressed to our clients any opinions or advice
+contained in this email are subject to the terms and conditions expressed in
+the governing KPMG client engagement letter.         
+*****************************************************************************
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <9739623.1075858520115.JavaMail.evans@thyme>
+Date: Thu, 11 Oct 2001 15:40:27 -0700 (PDT)
+From: bamiller@kpmg.com
+To: chris.stokley@enron.com
+Subject: Contract Validation process
+Cc: galvan@enron.com, jgalvan@kpmg.com, leung@enron.com, annieleung@kpmg.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: galvan@enron.com, jgalvan@kpmg.com, leung@enron.com, annieleung@kpmg.com
+X-From: Miller, Brett (US/Houston) <bamiller@kpmg.com>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: Galvan, Joshua P <jgalvan@kpmg.com>, Leung, Annie <annieleung@kpmg.com>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Chris,
+Attached is the contract validation process put together by Erin.
+
+ 
+
+Let me know if you have any questions.
+
+Brett Miller
+KPMG LLP
+Information Risk Management
+
+700 Louisiana
+Houston, Texas  77002
+Office :	713.319.2037
+Fax  :	713.319.2685
+Mobile :	832.465.5443
+Email :	bamiller@kpmg.com
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <6490413.1075858519616.JavaMail.evans@thyme>
+Date: Thu, 6 Sep 2001 12:56:06 -0700 (PDT)
+From: jgalvan@kpmg.com
+To: kristin.albrecht@enron.com
+Subject: FW: Update - Power Contract Validation/Reconciliation Project
+Cc: steven.fisher@enron.com, scott.mills@enron.com, d.wilson@enron.com,
+	chris.stokley@enron.com, p..o'neil@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: steven.fisher@enron.com, scott.mills@enron.com, d.wilson@enron.com,
+	chris.stokley@enron.com, p..o'neil@enron.com
+X-From: Galvan, Joshua P <jgalvan@kpmg.com>
+X-To: Albrecht, Kristin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KALBREC>
+X-cc: Fisher, Steven </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SFISHER3>, Mills, Scott </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SMILLS>, Wilson, Randy D <rdwilson@kpmg.com>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>, O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+I forgot the attachments.  Please forgive.  Thanks.
+
+
+
+> kpmg LLP  Information Risk Management
+Joshua P. Galv?n
+Senior Associate
+700 Louisiana, Ste. 3200
+Houston, Texas  77002
+713/319-2082 (wrk)
+713/256-8499 (mob)
+jgalvan@kpmg.com
+
+
+-----Original Message-----
+From: Galvan, Joshua P 
+Sent: Thursday, 06 September, 2001 02:53 PM
+To: 'Albrecht, Kristin'
+Cc: Wilson, Randy D; Fisher, Steven; Mills, Scott; Stokley, Chris;
+O'Neil, Murray P.
+Subject: RE: Update - Power Contract Validation/Reconciliation Project
+
+
+Kristin/Steven -
+
+Thanks for the reply.  To answer your questions:
+
+1.	The assistance you and Steven will be giving by going through some
+contracts will be invaluable.  We have had several meetings lately with
+representatives from all sorts of Enron groups, but have still not been able
+to at least minimally define a solid contract.  This is an absolute
+necessity for designing and building the validation and reconciliation
+tools.
+2.	It is actually Steve Watson, not Scott.  That was my mistake.  He is
+a contact of ours in Toby Ellis' group, which is gathering power contracts
+and copying them for us on an ongoing basis, including new business.  The
+process being followed for this detailed in the attached presentation.  We
+have not fully developed a plan for how to handle new business, but such a
+decision is forthcoming.
+3.	As for the number of contracts, I am not sure.  We of course have
+the paper copies delivered so far, which equal 6 letter-size boxes, with
+about 5-7 pages per each contract.  On top of that, there are some contracts
+being copied at CSC, totaling about 10 full file drawers, although we are
+not sure yet of the overlap of these with our already on-hand copies.
+Finally, we do have extracts from the RPS and CSC (Loadstar and STAT)
+systems.  The CSC dump equaled about 32000 records, which are summarized in
+the attached Excel spreadsheet.  The RPS dump equaled about 15000 records,
+but no real analysis of the comprehensiveness of the data has been executed.
+We are working with IT and business representatives to garner a more keen
+understanding of the fields themselves, as well as determining what
+additional ones can be of use to us, so as to formulate a final request for
+RPS data dump.
+4.	Rest assured that the work is being executed.  We currently have 6-7
+staff persons on hand already.  With the preparation of the Access DB for
+contract validation today, alongside our already available set of contracts,
+there will be plenty of data entry and validation work to do.
+
+Please contact me if there are any other topics you wish to discuss.  I can
+be reached by any means as listed below.
+
+> kpmg LLP  Information Risk Management
+Joshua P. Galv?n
+Senior Associate
+700 Louisiana, Ste. 3200
+Houston, Texas  77002
+713/319-2082 (wrk)
+713/256-8499 (mob)
+jgalvan@kpmg.com
+
+
+-----Original Message-----
+From: Albrecht, Kristin [mailto:Kristin_Albrecht@enron.net]
+Sent: Thursday, 06 September, 2001 09:00 AM
+To: Galvan, Joshua P
+Cc: Wilson, Randy D; Fisher, Steven; Mills, Scott; Stokley, Chris;
+O'Neil, Murray P.
+Subject: RE: Update - Power Contract Validation/Reconciliation Project
+
+
+Josh,
+Thanks for the update.  Please include Steven Fisher on all
+communication related to the project.  He is leading this project from
+Enron's side.  Just a few questions/comments:
+- Steven is in the process of finalizing necessary fields.  Our plan is
+to go through a few contracts ourselves to ensure we are not missing
+anything before you guys ramp up.
+- Who is Scott Watson?  
+- How many contracts do we think we have? I may have an EES resource to
+help track down contracts.  
+- Let's just make sure we have enough contracts/work to keep that many
+people busy.  I'm doubtful that we do at this point.
+Thanks again,
+Kristin
+
+
+
+
+
+Kristin -
+
+I just wanted to drop you a line since my last email communication last
+week
+to give you a status on our current activities for the Power Contract
+Validation/Reconciliation Project.
+
+1.	The Access Database that will be used for the validation and
+reconciliation processes is 70% complete.  Our estimate is about 1.5-2
+days
+for completion.  The main issue slowing the development process is that
+we
+are still trying to identify all of the required fields for a complete
+Power
+contract.  After doing so, we will need to go back to the folks working
+with
+Scott Mills to do another RPS data extraction.
+2.	Toby Ellis' group has been working to gather paper contracts
+from
+the Legal Dep't, CSC, and Origination so that we have all of the sources
+necessary for validation and reconciliation.  As further contracts are
+generated and/or located, they are copied and on a daily basis, we are
+to
+meet with Scott Watson mid-afternoon for ongoing collection.
+4.	Leveraging the experiences of the Gas Project, we are currently
+documenting the processes and procedures that the staff personnel will
+use
+to actually execute the validation and reconciliation procedures.  This
+should ensure a smooth transition for them.  I will look for Chris',
+Murray's, and your recommendations for these at some point by end of
+week.
+5.	We are currently ramping up the staff involved with this
+project.
+By week-end, we should have about 7-8 staff personnel on board.  Finding
+a
+physical location for everyone will be difficult.  Murray O'Neil, Chris
+Stokley, and one of the office managers in 3 Allen are aware of this
+need
+and its urgency, and are working with me to arrange the space.
+
+Please let me know if you have any questions about the above.  I can be
+reached at any of the numbers/locations below.  Thanks.
+
+
+> kpmg LLP  Information Risk Management
+Joshua P. Galv?n
+Senior Associate
+700 Louisiana, Ste. 3200
+Houston, Texas  77002
+713/319-2082 (wrk)
+713/256-8499 (mob)
+jgalvan@kpmg.com
+
+
+
+**********************************************************************
+The information in this email is confidential and may be legally
+privileged.
+It is intended solely for the addressee. Access to this email by anyone
+else
+is unauthorized.
+
+If you are not the intended recipient, any disclosure, copying,
+distribution
+or any action taken or omitted to be taken in reliance on it, is
+prohibited
+and may be unlawful. When addressed to our clients any opinions or
+advice
+contained in this email are subject to the terms and conditions
+expressed in
+the governing KPMG client engagement letter.
+**********************************************************************
+
+
+
+**********************************************************************
+This e-mail is the property of Enron Corp. and/or its relevant affiliate and
+may contain confidential and privileged material for the sole use of the
+intended recipient (s). Any review, use, distribution or disclosure by
+others is strictly prohibited. If you are not the intended recipient (or
+authorized to receive for the recipient), please contact the sender or reply
+to Enron Corp. at enron.messaging.administration@enron.com and delete all
+copies of the message. This e-mail (and any attachments hereto) are not
+intended to be an offer (or an acceptance) and do not create or evidence a
+binding and enforceable contract between Enron Corp. (or any of its
+affiliates) and the intended recipient or any other party, and may not be
+relied on by anyone as the basis of a contract by estoppel or otherwise.
+Thank you. 
+**********************************************************************
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <30047093.1075858520211.JavaMail.evans@thyme>
+Date: Fri, 5 Oct 2001 15:05:56 -0700 (PDT)
+From: jgalvan@kpmg.com
+To: steven.fisher@enron.com, chris.stokley@enron.com
+Subject: Power Team Status - 10/05/2001
+Cc: miller@enron.com, bamiller@kpmg.com, wilson@enron.com, rdwilson@kpmg.com,
+	swider@enron.com, eswider@kpmg.com, leung@enron.com,
+	annieleung@kpmg.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: miller@enron.com, bamiller@kpmg.com, wilson@enron.com, rdwilson@kpmg.com,
+	swider@enron.com, eswider@kpmg.com, leung@enron.com,
+	annieleung@kpmg.com
+X-From: Galvan, Joshua P <jgalvan@kpmg.com>
+X-To: Fisher, Steven </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SFISHER3>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: Miller, Brett (US/Houston) <bamiller@kpmg.com>, Wilson, Randy D <rdwilson@kpmg.com>, Swider, Erin M <eswider@kpmg.com>, Leung, Annie <annieleung@kpmg.com>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Steven/Chris -
+
+Please find attached this week's status report.  As discussed, we have
+changed the format, so that we can capture all tasks on an ongoing basis,
+and be able to monitor progress and assign priorities.  Please take a look
+and let me know if there is any additional information you need to see, or
+if there are any enhancements that you require.
+
+Thanks, and have a good weekend.
+
+ <<Enron-PwrPrjctTaskList.xls>> 
+
+> kpmg LLP  Information Risk Management
+Joshua P. Galv?n
+Senior Associate
+700 Louisiana, Ste. 3200
+Houston, Texas  77002
+713/319-2082 (wrk)
+713/256-8499 (mob)
+jgalvan@kpmg.com
+
+
+*****************************************************************************
+The information in this email is confidential and may be legally privileged.
+It is intended solely for the addressee. Access to this email by anyone else
+is unauthorized. 
+
+If you are not the intended recipient, any disclosure, copying, distribution
+or any action taken or omitted to be taken in reliance on it, is prohibited
+and may be unlawful. When addressed to our clients any opinions or advice
+contained in this email are subject to the terms and conditions expressed in
+the governing KPMG client engagement letter.         
+*****************************************************************************
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <10295834.1075858519931.JavaMail.evans@thyme>
+Date: Mon, 15 Oct 2001 08:44:08 -0700 (PDT)
+From: annieleung@kpmg.com
+Subject: RE: FW: Meeting with Kenny Ha
+Cc: nash@enron.com, kaseynash@kpmg.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: nash@enron.com, kaseynash@kpmg.com
+X-From: Leung, Annie <annieleung@kpmg.com>
+X-To: 'pgrumul@enron.com', Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: Nash, Kasey <kaseynash@kpmg.com>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Paige,
+
+Kenny said you would be the contact to clarify on settlement date.  We have
+seen some settlement language in the contracts stating that settlement is
+done quarterly.
+
+As of now, we added it into our form and are capturing the term if it is
+stated.  Is there anything else you know that we should be capturing
+regarding the settlement date?
+
+Thanks,
+
+Annie
+
+-----Original Message-----
+From: pgrumul@enron.com [mailto:pgrumul@enron.com]
+Sent: Monday, October 15, 2001 10:05 AM
+To: annieleung@kpmg.com
+Subject: RE: FW: Meeting with Kenny Ha
+
+
+
+Was there a todo for me or have we covered it.
+
+
+
+**********************************************************************
+This e-mail is the property of Enron Corp. and/or its relevant affiliate and
+may contain confidential and privileged material for the sole use of the
+intended recipient (s). Any review, use, distribution or disclosure by
+others is strictly prohibited. If you are not the intended recipient (or
+authorized to receive for the recipient), please contact the sender or reply
+to Enron Corp. at enron.messaging.administration@enron.com and delete all
+copies of the message. This e-mail (and any attachments hereto) are not
+intended to be an offer (or an acceptance) and do not create or evidence a
+binding and enforceable contract between Enron Corp. (or any of its
+affiliates) and the intended recipient or any other party, and may not be
+relied on by anyone as the basis of a contract by estoppel or otherwise.
+Thank you. 
+**********************************************************************
+*****************************************************************************
+The information in this email is confidential and may be legally privileged.
+It is intended solely for the addressee. Access to this email by anyone else
+is unauthorized. 
+
+If you are not the intended recipient, any disclosure, copying, distribution
+or any action taken or omitted to be taken in reliance on it, is prohibited
+and may be unlawful. When addressed to our clients any opinions or advice
+contained in this email are subject to the terms and conditions expressed in
+the governing KPMG client engagement letter.         
+*****************************************************************************
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <29628934.1075858519664.JavaMail.evans@thyme>
+Date: Tue, 4 Sep 2001 14:04:08 -0700 (PDT)
+From: jgalvan@kpmg.com
+To: kristin.albrecht@enron.com
+Subject: Update - Power Contract Validation/Reconciliation Project
+Cc: annie.leung@enron.com, m.swider@enron.com, d.wilson@enron.com,
+	p..o'neil@enron.com, chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: annie.leung@enron.com, m.swider@enron.com, d.wilson@enron.com,
+	p..o'neil@enron.com, chris.stokley@enron.com
+X-From: Galvan, Joshua P <jgalvan@kpmg.com>
+X-To: Albrecht, Kristin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KALBREC>
+X-cc: Leung, Annie <annieleung@kpmg.com>, Swider, Erin M <eswider@kpmg.com>, Wilson, Randy D <rdwilson@kpmg.com>, O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Kristin -
+
+I just wanted to drop you a line since my last email communication last week
+to give you a status on our current activities for the Power Contract
+Validation/Reconciliation Project.
+
+1.	The Access Database that will be used for the validation and
+reconciliation processes is 70% complete.  Our estimate is about 1.5-2 days
+for completion.  The main issue slowing the development process is that we
+are still trying to identify all of the required fields for a complete Power
+contract.  After doing so, we will need to go back to the folks working with
+Scott Mills to do another RPS data extraction.
+2.	Toby Ellis' group has been working to gather paper contracts from
+the Legal Dep't, CSC, and Origination so that we have all of the sources
+necessary for validation and reconciliation.  As further contracts are
+generated and/or located, they are copied and on a daily basis, we are to
+meet with Scott Watson mid-afternoon for ongoing collection.
+4.	Leveraging the experiences of the Gas Project, we are currently
+documenting the processes and procedures that the staff personnel will use
+to actually execute the validation and reconciliation procedures.  This
+should ensure a smooth transition for them.  I will look for Chris',
+Murray's, and your recommendations for these at some point by end of week.
+5.	We are currently ramping up the staff involved with this project.
+By week-end, we should have about 7-8 staff personnel on board.  Finding a
+physical location for everyone will be difficult.  Murray O'Neil, Chris
+Stokley, and one of the office managers in 3 Allen are aware of this need
+and its urgency, and are working with me to arrange the space.
+
+Please let me know if you have any questions about the above.  I can be
+reached at any of the numbers/locations below.  Thanks.
+
+
+> kpmg LLP  Information Risk Management
+Joshua P. Galv?n
+Senior Associate
+700 Louisiana, Ste. 3200
+Houston, Texas  77002
+713/319-2082 (wrk)
+713/256-8499 (mob)
+jgalvan@kpmg.com
+
+
+
+**********************************************************************
+The information in this email is confidential and may be legally privileged.
+It is intended solely for the addressee. Access to this email by anyone else
+is unauthorized.
+
+If you are not the intended recipient, any disclosure, copying, distribution
+or any action taken or omitted to be taken in reliance on it, is prohibited
+and may be unlawful. When addressed to our clients any opinions or advice
+contained in this email are subject to the terms and conditions expressed in
+the governing KPMG client engagement letter.
+**********************************************************************
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <21497193.1075858519714.JavaMail.evans@thyme>
+Date: Tue, 4 Sep 2001 09:30:49 -0700 (PDT)
+From: jgalvan@kpmg.com
+To: p..o'neil@enron.com, chris.stokley@enron.com
+Subject: CSC Power Data Extract - Summary
+Cc: leung@enron.com, annieleung@kpmg.com, easton@enron.com, measton@kpmg.com,
+	wilson@enron.com, rdwilson@kpmg.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: leung@enron.com, annieleung@kpmg.com, easton@enron.com, measton@kpmg.com,
+	wilson@enron.com, rdwilson@kpmg.com
+X-From: Galvan, Joshua P <jgalvan@kpmg.com>
+X-To: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: Leung, Annie <annieleung@kpmg.com>, Easton, Matthew <measton@kpmg.com>, Wilson, Randy D <rdwilson@kpmg.com>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Murray/Chris -
+
+Attached is an Excel spreadsheet with the breakdown of the CSC-extracted
+power data.  You will find that the majority (~70%) of the contracts are
+PG&E or Southern California Edison Co.  Additionally, we noted that 144 of
+the deals have repeats, with varying numbers of repeats by each account, and
+resulting in 305 records with non-distinct account numbers.  These numbers
+are listed in the last four pages of the report.  We have not determined the
+reason some of the account numbers are repeated.
+
+The data extracted from CSC includes the following fields:
+
+ENTITY (LoadStar, EESI, etc.)
+POWERLINE_CUSTOMER_NAME
+ENRON_ACCT_NUMBER
+POWERLINE_DEAL_NAME
+CUSTOMER_TYPE (Residential, Commercial)
+OPCO_CODE (Operating Company Code?)
+PES_INVOICE_DATE
+SERVICE_PERIOD_START
+SERVICE_PERIOD_STOP
+TOTAL_CHARGES
+TOTAL_USAGE
+UOM (?)
+FLAG (?)
+SERVICE_CODE (Status)
+
+We are in the process of identifying the main contact at CSC to describe the
+data to us, as some of the fields (e.g., those with ?'s above) contain
+values that we are not familiar with or that exhibit some non-clarity.  For
+example, in the Status section of the summary report, you will notice some
+"DE-ACTIVE", "CANCELLED", and "CLOSED" types, which seem all to be the same
+or quite similar in nature.  We want to make sure that we understand these
+values and where they come from in order to work with the data.
+
+Please review my report, and let me know if you have any questions.  As I
+continue to work with the data, I will be able to speak to these.  Thanks.
+
+ <<Enron-CSCPwrDataExtractSumm-Sep2001-IRM.xls>> 
+
+> kpmg LLP  Information Risk Management
+Joshua P. Galv?n
+Senior Associate
+700 Louisiana, Ste. 3200
+Houston, Texas  77002
+713/319-2082 (wrk)
+713/256-8499 (mob)
+jgalvan@kpmg.com
+
+
+
+*****************************************************************************
+The information in this email is confidential and may be legally privileged.
+It is intended solely for the addressee. Access to this email by anyone else
+is unauthorized. 
+
+If you are not the intended recipient, any disclosure, copying, distribution
+or any action taken or omitted to be taken in reliance on it, is prohibited
+and may be unlawful. When addressed to our clients any opinions or advice
+contained in this email are subject to the terms and conditions expressed in
+the governing KPMG client engagement letter.         
+*****************************************************************************
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <22769857.1075858519738.JavaMail.evans@thyme>
+Date: Tue, 4 Sep 2001 09:30:45 -0700 (PDT)
+From: jgalvan@kpmg.com
+To: chris.stokley@enron.com
+Subject: Meeting Tomorrow - Todd Taylor - 10AM, Wed, 9/5/01
+Cc: wilson@enron.com, rdwilson@kpmg.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: wilson@enron.com, rdwilson@kpmg.com
+X-From: Galvan, Joshua P <jgalvan@kpmg.com>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: Wilson, Randy D <rdwilson@kpmg.com>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Chris -
+
+Just a message to see if you have any time tomorrow at 10AM to meet with
+Todd Taylor.  He wants to get with us to discuss how our effort fits in with
+all the others going on.  Please let me know sometime this afternoon after
+you get in the office.  Thanks.
+
+> kpmg LLP  Information Risk Management
+Joshua P. Galv?n
+Senior Associate
+700 Louisiana, Ste. 3200
+Houston, Texas  77002
+713/319-2082 (wrk)
+713/256-8499 (mob)
+jgalvan@kpmg.com
+
+
+
+*****************************************************************************
+The information in this email is confidential and may be legally privileged.
+It is intended solely for the addressee. Access to this email by anyone else
+is unauthorized. 
+
+If you are not the intended recipient, any disclosure, copying, distribution
+or any action taken or omitted to be taken in reliance on it, is prohibited
+and may be unlawful. When addressed to our clients any opinions or advice
+contained in this email are subject to the terms and conditions expressed in
+the governing KPMG client engagement letter.         
+*****************************************************************************
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <32478108.1075858519639.JavaMail.evans@thyme>
+Date: Thu, 6 Sep 2001 11:32:14 -0700 (PDT)
+From: jgalvan@kpmg.com
+To: chris.stokley@enron.com
+Subject: Reminder - JPG Out of Office Monday 9/10/2001.
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Galvan, Joshua P <jgalvan@kpmg.com>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+
+
+> kpmg LLP  Information Risk Management
+Joshua P. Galv?n
+Senior Associate
+700 Louisiana, Ste. 3200
+Houston, Texas  77002
+713/319-2082 (wrk)
+713/256-8499 (mob)
+jgalvan@kpmg.com
+
+*****************************************************************************
+The information in this email is confidential and may be legally privileged.
+It is intended solely for the addressee. Access to this email by anyone else
+is unauthorized. 
+
+If you are not the intended recipient, any disclosure, copying, distribution
+or any action taken or omitted to be taken in reliance on it, is prohibited
+and may be unlawful. When addressed to our clients any opinions or advice
+contained in this email are subject to the terms and conditions expressed in
+the governing KPMG client engagement letter.         
+*****************************************************************************
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <28859347.1075858520091.JavaMail.evans@thyme>
+Date: Thu, 11 Oct 2001 16:16:21 -0700 (PDT)
+From: bamiller@kpmg.com
+To: chris.stokley@enron.com
+Subject: Not in RPS
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Miller, Brett (US/Houston) <bamiller@kpmg.com>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Chris the number of contracts that we have that are not in RPS (to date) are 170.  This number is growing as we look at more contracts (similarly for not in RPS and expired).
+
+Brett Miller
+KPMG LLP
+Information Risk Management
+
+700 Louisiana
+Houston, Texas  77002
+Office :	713.319.2037
+Fax  :	713.319.2685
+Mobile :	832.465.5443
+Email :	bamiller@kpmg.com
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <6810677.1075858519786.JavaMail.evans@thyme>
+Date: Thu, 30 Aug 2001 18:35:52 -0700 (PDT)
+From: jgalvan@kpmg.com
+To: kristin.albrecht@enron.com
+Subject: Power Deal Validation and Reconciliation Access Tool - Screen Shots
+Cc: d.wilson@enron.com, chris.stokley@enron.com, p..o'neil@enron.com,
+	matthew.easton@enron.com, annie.leung@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: d.wilson@enron.com, chris.stokley@enron.com, p..o'neil@enron.com,
+	matthew.easton@enron.com, annie.leung@enron.com
+X-From: Galvan, Joshua P <jgalvan@kpmg.com>
+X-To: Albrecht, Kristin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KALBREC>
+X-cc: Wilson, Randy D <rdwilson@kpmg.com>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>, O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>, Easton, Matthew <measton@kpmg.com>, Leung, Annie <annieleung@kpmg.com>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Kristin -
+
+As per our discussion yesterday, I am writing give you a status on the
+Access Tool we are building for the Power Deal Validation and Reconciliation
+processes.  We have taken the Gas Tool's model, and begun to modify it to
+suit the activities planned for Power deals.  This work has focused thus far
+on the look-and-feel of the tool, with work on the data and performance
+factors promptly following, scheduled for completion by early next week. 
+T
+ he modification process has also considered some additional Power deal
+required data, which were not necessary for Gas.  Also, in consideration of
+the initiative where we will work to calculate/correct the settlement
+amounts on the deals, we have developed a billing section.  In this section
+we hope to leverage paper contract, CSC, and RPS validated and reconciled
+deal information to pump through a calculation engine for said settlements.
+
+Please take a look at the attachment, which includes screen shots of the
+main sections of the tool so far.  The screens developed are mostly useful
+for the validation and reconciliation activities, although others are
+pending modification or development, as needed.  We hope to use your
+feedback for tweaking the screens.
+
+Thanks for the time and I hope you enjoy your weekend.
+
+ <<Enron-PwrToolScreenShots-Aug2001.doc>> 
+
+> kpmg LLP  Information Risk Management
+Joshua P. Galv?n
+Senior Associate
+700 Louisiana, Ste. 3200
+Houston, Texas  77002
+713/319-2082 (wrk)
+713/256-8499 (mob)
+jgalvan@kpmg.com
+
+
+
+*****************************************************************************
+The information in this email is confidential and may be legally privileged.
+It is intended solely for the addressee. Access to this email by anyone else
+is unauthorized. 
+
+If you are not the intended recipient, any disclosure, copying, distribution
+or any action taken or omitted to be taken in reliance on it, is prohibited
+and may be unlawful. When addressed to our clients any opinions or advice
+contained in this email are subject to the terms and conditions expressed in
+the governing KPMG client engagement letter.         
+*****************************************************************************
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <4690079.1075858519762.JavaMail.evans@thyme>
+Date: Fri, 31 Aug 2001 08:40:24 -0700 (PDT)
+From: jgalvan@kpmg.com
+To: chris.stokley@enron.com
+Subject: Contract Documentation Round-Up Procedures
+Cc: matthew.easton@enron.com, d.wilson@enron.com, annie.leung@enron.com,
+	p..o'neil@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: matthew.easton@enron.com, d.wilson@enron.com, annie.leung@enron.com,
+	p..o'neil@enron.com
+X-From: Galvan, Joshua P <jgalvan@kpmg.com>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: Easton, Matthew <measton@kpmg.com>, Wilson, Randy D <rdwilson@kpmg.com>, Leung, Annie <annieleung@kpmg.com>, O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Banding\KPMG
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Chris -
+
+We have gathered the information from the Gas Team as to what the procedures
+are for rounding up contracts.  These details are illustrated in the
+attached PowerPoint presentation.  I am assuming that the Gas approach will
+serve as the basic model of the Power roundup activities, with minor
+adjustments, depending on such things as regions, number of contracts, and
+the like.  Please take a look at the slides and give me any feedback you
+feel necessary.  Today, we will be working to establish communication lines
+with the listed contacts, as well as determining contact points where holes
+exist.
+
+Also in the presentation is a slide describing the procedures for
+controlling paper documentation for new contracts.  As you'll recall, the
+Gas group has established a new process for capturing deal information,
+something that has been in place since end of July.  Given the fact that the
+RGS system is still live during the contract review process, however,
+another review will have to be executed at some future point in time in
+order to cover any new deals being incepted.  Your feedback on an approach
+to handling this for Power deals will also be valuable.
+
+Thanks and have a good weekend.
+
+ <<Enron-CntrctMgmtProc--Aug2001-IRM.ppt>>   
+
+> kpmg LLP  Information Risk Management
+Joshua P. Galv?n
+Senior Associate
+700 Louisiana, Ste. 3200
+Houston, Texas  77002
+713/319-2082 (wrk)
+713/256-8499 (mob)
+jgalvan@kpmg.com
+
+
+
+*****************************************************************************
+The information in this email is confidential and may be legally privileged.
+It is intended solely for the addressee. Access to this email by anyone else
+is unauthorized. 
+
+If you are not the intended recipient, any disclosure, copying, distribution
+or any action taken or omitted to be taken in reliance on it, is prohibited
+and may be unlawful. When addressed to our clients any opinions or advice
+contained in this email are subject to the terms and conditions expressed in
+the governing KPMG client engagement letter.         
+*****************************************************************************
+

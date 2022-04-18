@@ -1,0 +1,412 @@
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <31730067.1075858653396.JavaMail.evans@thyme>
+Date: Thu, 18 Oct 2001 07:10:37 -0700 (PDT)
+From: alex.hidalgo@enron.com
+To: richard.ring@enron.com
+Subject: FW: Massachusetts Electric Default Customer List - FTP Site
+ Instructions
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Hidalgo, Alex </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=B2BCFC9E-4A394F3B-6256A00-544F08>
+X-To: Ring, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RRING>
+X-cc: 
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIPhysicalPowerDelivery
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+Richard,
+Here is the phone number we need to call to get access to the list.  Could you please call and see if they will give you the password?
+Thanks,
+alex
+---------------------- Forwarded by Alex Hidalgo/HOU/EES on 10/18/2001 09:09 AM ---------------------------
+From:	Frank Rishe/ENRON@enronXgate on 10/12/2001 01:13 PM
+To:	Alex Hidalgo/HOU/EES@EES
+cc:	Richard Ring/ENRON@enronXgate 
+Subject:	FW: Massachusetts Electric Default Customer List - FTP Site Instructions
+
+See e-mail below re: Meco updated default service customer list.  -  Frank  
+
+ -----Original Message-----
+From: 	"Yetman, Kathleen" <KATHLEEN.YETMAN@us.ngrid.com>@ENRON  
+Sent:	Friday, October 12, 2001 1:05 PM
+To:	'frishe@enron.com'
+Subject:	FW: Massachusetts Electric Default Customer List - FTP Site Instr	uctions
+
+
+The Default Customer List has been updated.  To obtain the new password,
+please call Supplier Services at 508-357-4700.
+
+
+> An Internet FTP site has been set up for access to the Massachusetts
+> Electric Default Customer lists.  See the information below on the FTP
+> site details and for setting up your FTP software for file download.   If
+> you would prefer to receive the list on a Zip Disk, please let me know.
+>
+> The package WS_FTP Pro is suggested for downloading the files.  It is
+> available for purchase and download from http://wsftp.com for about $40.
+> Once WS_FTP is obtained and loaded, you will need to set up an entry
+> representing the Masselectric FTP server.
+>
+> 	FTP site name:	ftp.us.ngrid.com
+> 	FTP site IP address:	204.164.80.201
+> 	User ID: 	Obtain from Masselectric Supplier Services  Call
+> (508) 357-4700
+> 	Password:	Obtain from Masselectric Supplier Services
+>
+> *	Open WS_FTP Pro - you will see a screen with two windows side by
+> side, with a 'WS_FTP Sites' dialog box on top.
+> *	In the WS_FTP sites dialog box:
+> *	click 'New' - another dialog box will open
+> *	select 'Create a FTP site', and type 'ftp.us.ngrid.com' on the "With
+> Name" line - click 'Next'
+> *	in the next dialog box, fill in Host Name or IP Address:
+> '204.164.80.201' -- click 'Next'
+> *	in the next (and last) last dialog box, fill in User ID (do not
+> click 'Anonymous'), fill in the Password, and click 'Finish'
+> *	Toggle the tab within WS_FTP Pro for this entry to default to
+> "nonpassive mode" ftp.
+> *	Record the user ID and password for future access - you will be
+> prompted for it whenever you attempt to use the 'ftp.us.ngrid.com' site.
+> *	Now you will see the WS_FTP two-window screen with a new directory
+> entry in the right screen under 'MySites' named 'ftp.us.ngrid.com'.  The
+> left screen is the directory of your PC and network.
+> *	You may obtain the User ID and Password from Mass Electric Supplier
+> Services.  The Password will be changed periodically to control access to
+> the customer lists.
+>
+> If you already have FTP software other than WS_FTP Pro, it may be used for
+> the downloads.  You will need to set up the software using the site and
+> access information above.
+>
+> To transfer files from the FTP site, start Ws_FTP, and select the
+> "destination" directory for the download in the left (local) window.  Open
+> the 'ftp.us.ngrid.com' site in the right window (password required).  In
+> the right screen, select the file(s) to be transferred, and either
+> drag-and-drop or use the "arrow" controls to transfer it to the
+> destination directory.  The file will be transferred into the selected
+> directory in the left window.  It can now be unzipped on the local
+> machine.
+>
+> If you have any questions, please let me know.
+>
+> Thanks
+> Kathy
+> (508) 421-7209
+>
+>
+>
+
+
+________________________________________________________________________
+This e-mail and any files transmitted with it, are confidential to
+National Grid and are intended solely for the use of the individual or
+entity to whom they are addressed.  If you have received this e-mail in
+error, please contact the National Grid USA help desk on 508-389-3375.
+
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <17209166.1075858653460.JavaMail.evans@thyme>
+Date: Fri, 5 Oct 2001 13:23:15 -0700 (PDT)
+From: vinio.floris@enron.com
+To: richard.ring@enron.com
+Subject: RE: Needs information-Customers requesting ConEd bundled services
+Cc: harry.kingerski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: harry.kingerski@enron.com
+X-From: Floris, Vinio </O=ENRON/OU=NA/CN=RECIPIENTS/CN=VFLORIS>
+X-To: Ring, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rring>
+X-cc: Kingerski, Harry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Hkingers>
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIPhysicalPowerDelivery
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+No problem. Let me know if you need any further assistance. Regards, Vinio
+
+ -----Original Message-----
+From: 	Ring, Richard  
+Sent:	Friday, October 05, 2001 3:00 PM
+To:	Floris, Vinio
+Subject:	RE: Needs information-Customers requesting ConEd bundled services
+
+Vinio,
+
+Thanks for the information and the prompt response.
+
+Richard
+
+ -----Original Message-----
+From: 	Floris, Vinio  
+Sent:	Friday, October 05, 2001 12:49 PM
+To:	'LYNCHR@coned.com@ENRON COMMUNICATIONS'
+Subject:	RE: Needs information-Customers requesting ConEd bundled services
+
+Thanks for the information, Rebecca. Have a good weekend. Vinio
+
+ -----Original Message-----
+From: 	LYNCHR@coned.com@ENRON COMMUNICATIONS [mailto:IMCEANOTES-LYNCHR+40coned+2Ecom+40ENRON+20COMMUNICATIONS@ENRON.com] 
+Sent:	Friday, October 05, 2001 12:42 PM
+To:	Floris, Vinio
+Cc:	Ring, Richard; LYNCHR@coned.com
+Subject:	RE: Needs information-Customers requesting ConEd bundled services
+
+ << OLE Object: Picture (Device Independent Bitmap) >> 
+There are currently no minimum term of service requirements in effect for
+electric customers returning to bundled service.  Customers may switch as
+frequently as they like.  Gas customers, however, must remain with Con
+Edison for 12 months when returning from ESCOs.
+
+Rebecca L. Lynch
+Retail Choice Operations
+phone...........212 780 6701
+fax.................646 654 3062
+
+
+-----Original Message-----
+From: Floris, Vinio [mailto:Vinio_Floris@ENRON.net]
+Sent: Friday, October 05, 2001 11:07 AM
+To: Rebecca Lynch (E-mail)
+Cc: Ring, Richard
+Subject: Needs information-Customers requesting ConEd bundled services
+
+
+Hi Rebecca.
+
+In ConEd's Phase 4 Retail Access Implementation Plan and Operating
+Procedure, under section 5.3.7. Customers Requesting Con Edison Bundled
+Service, it reads (Page 20), "D. Con Edison reserves the right to
+establish a minimum term of service for customers under the Schedule for
+Electricity Service in connection with transfers from retail access
+service to bundled service..." What is ConEd's minimum term of service?
+The NY UBP establishes that it should not exceed 12 months. I thank you
+in advance for your assistance, Vinio
+
+
+**********************************************************************
+This e-mail is the property of Enron Corp. and/or its relevant affiliate and
+may contain confidential and privileged material for the sole use of the
+intended recipient (s). Any review, use, distribution or disclosure by
+others is strictly prohibited. If you are not the intended recipient (or
+authorized to receive for the recipient), please contact the sender or reply
+to Enron Corp. at enron.messaging.administration@enron.com and delete all
+copies of the message. This e-mail (and any attachments hereto) are not
+intended to be an offer (or an acceptance) and do not create or evidence a
+binding and enforceable contract between Enron Corp. (or any of its
+affiliates) and the intended recipient or any other party, and may not be
+relied on by anyone as the basis of a contract by estoppel or otherwise.
+Thank you.
+**********************************************************************
+ << OLE Object: Picture (Device Independent Bitmap) >>  - att1.eml << File: att1.eml >> 
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <6657207.1075858653437.JavaMail.evans@thyme>
+Date: Fri, 12 Oct 2001 11:13:13 -0700 (PDT)
+From: frank.rishe@enron.com
+To: alex.hidalgo@enron.com
+Subject: FW: Massachusetts Electric Default Customer List - FTP Site
+ Instructions
+Cc: richard.ring@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: richard.ring@enron.com
+X-From: Rishe, Frank </O=ENRON/OU=NA/CN=RECIPIENTS/CN=FRISHE>
+X-To: Hidalgo, Alex </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=b2bcfc9e-4a394f3b-6256a00-544f08>
+X-cc: Ring, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rring>
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIPhysicalPowerDelivery
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+See e-mail below re: Meco updated default service customer list.  -  Frank  
+
+ -----Original Message-----
+From: 	"Yetman, Kathleen" <KATHLEEN.YETMAN@us.ngrid.com>@ENRON  
+Sent:	Friday, October 12, 2001 1:05 PM
+To:	'frishe@enron.com'
+Subject:	FW: Massachusetts Electric Default Customer List - FTP Site Instr	uctions
+
+
+The Default Customer List has been updated.  To obtain the new password,
+please call Supplier Services at 508-357-4700.
+
+
+> An Internet FTP site has been set up for access to the Massachusetts
+> Electric Default Customer lists.  See the information below on the FTP
+> site details and for setting up your FTP software for file download.   If
+> you would prefer to receive the list on a Zip Disk, please let me know.
+>
+> The package WS_FTP Pro is suggested for downloading the files.  It is
+> available for purchase and download from http://wsftp.com for about $40.
+> Once WS_FTP is obtained and loaded, you will need to set up an entry
+> representing the Masselectric FTP server.
+>
+> 	FTP site name:	ftp.us.ngrid.com
+> 	FTP site IP address:	204.164.80.201
+> 	User ID: 	Obtain from Masselectric Supplier Services  Call
+> (508) 357-4700
+> 	Password:	Obtain from Masselectric Supplier Services
+>
+> *	Open WS_FTP Pro - you will see a screen with two windows side by
+> side, with a 'WS_FTP Sites' dialog box on top.
+> *	In the WS_FTP sites dialog box:
+> *	click 'New' - another dialog box will open
+> *	select 'Create a FTP site', and type 'ftp.us.ngrid.com' on the "With
+> Name" line - click 'Next'
+> *	in the next dialog box, fill in Host Name or IP Address:
+> '204.164.80.201' -- click 'Next'
+> *	in the next (and last) last dialog box, fill in User ID (do not
+> click 'Anonymous'), fill in the Password, and click 'Finish'
+> *	Toggle the tab within WS_FTP Pro for this entry to default to
+> "nonpassive mode" ftp.
+> *	Record the user ID and password for future access - you will be
+> prompted for it whenever you attempt to use the 'ftp.us.ngrid.com' site.
+> *	Now you will see the WS_FTP two-window screen with a new directory
+> entry in the right screen under 'MySites' named 'ftp.us.ngrid.com'.  The
+> left screen is the directory of your PC and network.
+> *	You may obtain the User ID and Password from Mass Electric Supplier
+> Services.  The Password will be changed periodically to control access to
+> the customer lists.
+>
+> If you already have FTP software other than WS_FTP Pro, it may be used for
+> the downloads.  You will need to set up the software using the site and
+> access information above.
+>
+> To transfer files from the FTP site, start Ws_FTP, and select the
+> "destination" directory for the download in the left (local) window.  Open
+> the 'ftp.us.ngrid.com' site in the right window (password required).  In
+> the right screen, select the file(s) to be transferred, and either
+> drag-and-drop or use the "arrow" controls to transfer it to the
+> destination directory.  The file will be transferred into the selected
+> directory in the left window.  It can now be unzipped on the local
+> machine.
+>
+> If you have any questions, please let me know.
+>
+> Thanks
+> Kathy
+> (508) 421-7209
+>
+>
+>
+
+
+________________________________________________________________________
+This e-mail and any files transmitted with it, are confidential to
+National Grid and are intended solely for the use of the individual or
+entity to whom they are addressed.  If you have received this e-mail in
+error, please contact the National Grid USA help desk on 508-389-3375.
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <24387595.1075858653508.JavaMail.evans@thyme>
+Date: Fri, 5 Oct 2001 10:41:59 -0700 (PDT)
+From: lynchr@coned.com
+To: vinio.floris@enron.com
+Subject: RE: Needs information-Customers requesting ConEd bundled services
+Cc: richard.ring@enron.com, l..lynch@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: richard.ring@enron.com, l..lynch@enron.com
+X-From: Lynch, Rebecca L. <LYNCHR@coned.com>
+X-To: Floris, Vinio </O=ENRON/OU=NA/CN=RECIPIENTS/CN=VFLORIS>
+X-cc: Ring, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RRING>, Lynch, Rebecca L. <LYNCHR@coned.com>
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIPhysicalPowerDelivery
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+There are currently no minimum term of service requirements in effect for
+electric customers returning to bundled service.  Customers may switch as
+frequently as they like.  Gas customers, however, must remain with Con
+Edison for 12 months when returning from ESCOs.
+
+Rebecca L. Lynch
+Retail Choice Operations
+phone...........212 780 6701
+fax.................646 654 3062
+
+
+-----Original Message-----
+From: Floris, Vinio [mailto:Vinio_Floris@ENRON.net]
+Sent: Friday, October 05, 2001 11:07 AM
+To: Rebecca Lynch (E-mail)
+Cc: Ring, Richard
+Subject: Needs information-Customers requesting ConEd bundled services
+
+
+Hi Rebecca.
+
+In ConEd's Phase 4 Retail Access Implementation Plan and Operating
+Procedure, under section 5.3.7. Customers Requesting Con Edison Bundled
+Service, it reads (Page 20), "D. Con Edison reserves the right to
+establish a minimum term of service for customers under the Schedule for
+Electricity Service in connection with transfers from retail access
+service to bundled service..." What is ConEd's minimum term of service?
+The NY UBP establishes that it should not exceed 12 months. I thank you
+in advance for your assistance, Vinio
+
+
+**********************************************************************
+This e-mail is the property of Enron Corp. and/or its relevant affiliate and
+may contain confidential and privileged material for the sole use of the
+intended recipient (s). Any review, use, distribution or disclosure by
+others is strictly prohibited. If you are not the intended recipient (or
+authorized to receive for the recipient), please contact the sender or reply
+to Enron Corp. at enron.messaging.administration@enron.com and delete all
+copies of the message. This e-mail (and any attachments hereto) are not
+intended to be an offer (or an acceptance) and do not create or evidence a
+binding and enforceable contract between Enron Corp. (or any of its
+affiliates) and the intended recipient or any other party, and may not be
+relied on by anyone as the basis of a contract by estoppel or otherwise.
+Thank you. 
+**********************************************************************
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <32978092.1075858653554.JavaMail.evans@thyme>
+Date: Fri, 5 Oct 2001 08:07:06 -0700 (PDT)
+From: vinio.floris@enron.com
+To: lynchr@coned.com
+Subject: Needs information-Customers requesting ConEd bundled services
+Cc: richard.ring@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: richard.ring@enron.com
+X-From: Floris, Vinio </O=ENRON/OU=NA/CN=RECIPIENTS/CN=VFLORIS>
+X-To: Rebecca Lynch (E-mail) <LynchR@ConEd.Com>
+X-cc: Ring, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rring>
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIPhysicalPowerDelivery
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+Hi Rebecca.
+
+In ConEd's Phase 4 Retail Access Implementation Plan and Operating Procedure, under section 5.3.7. Customers Requesting Con Edison Bundled Service, it reads (Page 20), "D. Con Edison reserves the right to establish a minimum term of service for customers under the Schedule for Electricity Service in connection with transfers from retail access service to bundled service..." What is ConEd's minimum term of service? The NY UBP establishes that it should not exceed 12 months. I thank you in advance for your assistance, Vinio
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <11579916.1075861006216.JavaMail.evans@thyme>
+Date: Tue, 29 Jan 2002 10:36:24 -0800 (PST)
+From: d..smith@enron.com
+To: richard.ring@enron.com
+Subject: Riverside County Waste Mgt
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Smith, Mike D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSMITH1>
+X-To: Ring, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rring>
+X-cc: 
+X-bcc: 
+X-Folder: \Richard_Ring_Mar2002\Ring, Richard\EESIPhysicalPowerDelivery
+X-Origin: Ring-R
+X-FileName: rring (Non-Privileged).pst
+
+Richard--what do you know about this deal?  Do you have paper on it?  Is this a purchase deal that we want?  Are we buying under it now?
+
+The customer is pushing me to give them some answers.  Thanks.  MDS
+

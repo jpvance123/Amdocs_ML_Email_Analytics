@@ -1,0 +1,554 @@
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <14191856.1075856067883.JavaMail.evans@thyme>
+Date: Fri, 8 Sep 2000 02:47:00 -0700 (PDT)
+From: ted.murphy@enron.com
+To: sally.beck@enron.com
+Subject: Four New Graphs
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Ted Murphy
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Jun2001\Notes Folders\Rac\Murphy, ted
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Sally,
+  While I think it makes sense for this type of information to be available, 
+that it should be done by Operations, and that Eugenio has the skills and 
+knowledge to articulate it well, I have some concerns.   First and foremost, 
+the process of creating a standard risk metric belongs to RAC, I believe.  To 
+me this is no different than VAR, or the Capital Pricing methodololgy, or the 
+RAROC process.   This has been published without even a review from our 
+group, which I think is inappropriate for two reasons: 1) we might disagree 
+and, as stated above, I think we have the final say, and 2) we can't quality 
+control it and all the reciepients think that I have.  Second, this has been 
+developed in isolation when in fact we have been doing similar things for the 
+past 2 years. We report these to the Board and have published to the Desk 
+heads on a monthly basis returns by trader.  Clearly, there could have been 
+some benefit in each direction if we were told that this was a goal of this 
+group, particularly when we fundamentally agree that this group should be 
+doing these things.  Thirdly, it is a little irritating when someone sets up 
+a process in isolation for what may appear to be "show-time" when my group is 
+spending hours and hours analyzing the output of existing process because the 
+data integrity is so bad (double mapping of portfolios, books not 
+officialized......) - we have at least attempted to take both parts of the 
+equation, Eugenio has chosen to focus on the cool part.  Now I would be a 
+little less concerned if on almost every day, Eugenio wasn't in my morning 
+meeting contributing virtually nothing, i.e., this doesn't appear to be 
+oversight on his part.
+
+I would prefer to not make a big deal out of this, but rather take it as an 
+opportunity to clarify and shift some responsibilities.  In the big scheme of 
+things it is a move in the right direction.
+
+Penny for your thoughts
+Ted
+---------------------- Forwarded by Ted Murphy/HOU/ECT on 09/08/2000 09:23 AM 
+---------------------------
+
+
+Eugenio Perez
+09/07/2000 05:17 PM
+To: John J Lavorato/Corp/Enron@Enron, John Sherriff/LON/ECT@ECT, Jeffrey A 
+Shankman/HOU/ECT@ECT, Ted Murphy/HOU/ECT@ECT, Mark Frevert/NA/Enron@Enron, 
+Rick Buy/HOU/ECT@ECT, Sally Beck/HOU/ECT@ECT, Shona Wilson/NA/Enron@Enron
+cc: Michael E Moscoso/HOU/ECT@ECT, Maria Teresa 
+Aguilera-Peon/Corp/Enron@Enron, Jennifer Nguyen/Corp/Enron@ENRO 
+Subject: Four New Graphs
+
+We have created four additional graphs to be published daily along with the 
+DPR: 
+
+Return on VaR (ROVAR)
+Curve Shift P&L (Delta - Gamma) Sharpe Ratio
+Risk - Return (Large)
+Risk - Return (Small)
+
+All of these graphs deal with the concept of risk-adjusted return.  The 
+markets in which we operate have unlike risk characteristics.  Furthermore, 
+Enron's appetite for risk also differs in each market.  As a result, it is 
+difficult to compare returns in absolute terms.  Therefore, the approach of 
+these graphs is to divide return by a measure of risk, in effect restating 
+return numbers into a standard base (how many dollars we earn for every 
+dollar we put at risk).
+
+
+ For each business unit or commodity group, the ROVAR graph shows an average 
+of daily total P&L divided by an average of daily VaR.  Higher ROVARs 
+indicate better performance (relative to other business units).  For each 
+business unit or commodity group there are two bars: the dark blue on the 
+left shows ROVAR on a 4 week (20 business day) rolling basis, and the light 
+blue on the right shows ROVAR on a 1 week (5 business day) rolling basis.  
+Because of the shorter term, the 1 week ROVAR is more sensitive: it can be 
+quite high or low, and it changes frequently.
+
+
+The Sharpe Ratio graph is very similar in concept; it shows an average of 
+daily curve shift P&L (both delta and gamma) divided by its standard 
+deviation. This Sharpe ratio is uncomplicated by non-trading P&L (like new 
+deals, reserves, and so forth).  Furthermore, whereas VaR is a forward 
+looking statistic (the most we are likely to lose in one day with a given 
+probability), standard deviation is backward looking (the actual volatility 
+of our returns over the period). This graph also has two bars for every 
+business unit or commodity group: a dark brown on the left showing the Sharpe 
+ratio on a 4 week rolling basis, and a light brown on the right showing the 
+ratio on a 1 week basis.
+
+The Curve Shift P&L Sharpe Ratio and the ROVAR graphs complement each other 
+well.  They measure different things, but if our P&L is composed mostly of 
+curve shift, and if our VaR closely predicts curve shift volatility, the two 
+statistics should be very close.
+
+
+Sometimes it is interesting to see the actual magnitude of the P&L relative 
+to the risk.  We therefore put together the Risk - Return graphs.  On the 
+vertical axis, they show 4 week rolling average P&L.  On the horizontal, they 
+show 4 week rolling average VaR.  The various business units are plotted as 
+points on the graphs.  These graphs are closely related to the 4-week ROVARs, 
+in that the vertical value of every point divided by its horizontal value is 
+the business unit's ROVAR (average P&L / average VaR).  Another way of 
+looking at these graphs is that the slope of a line connecting the origin 
+(0,0) with the plotted point of a business unit is its ROVAR.  Books with 
+small risks and returns (< $2 million) are plotted on the "Small" graph, and 
+the rest, on the "Large".
+
+These graphs are based on the DPR Database that we built to standardize and 
+capture the information that is reported in the DPR.  Most, but not all of 
+the information in the DPR currently flows from the database.  As a result, 
+we do not have ROVARs or Sharpe Ratios for every business unit.  As we 
+continue to set up exports into the database, we will fill in the missing 
+numbers.
+
+We will e-mail you these graphs every day until we can publish them on the 
+intra-net.  Please remember to launch the file in Excel, instead of using the 
+Lotus Notes viewer.  The VaR Limit Usage graphs that we created last week are 
+already on the web.  We hope that you find all of these useful.
+
+
+
+Regards,
+
+
+
+Eugenio Perez
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <14873747.1075856068000.JavaMail.evans@thyme>
+Date: Tue, 29 Aug 2000 01:22:00 -0700 (PDT)
+From: ted.murphy@enron.com
+To: sally.beck@enron.com
+Subject: Re: ERMS Resources
+Cc: debbie.brackett@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: debbie.brackett@enron.com
+X-From: Ted Murphy
+X-To: Sally Beck
+X-cc: Debbie R Brackett
+X-bcc: 
+X-Folder: \Sally_Beck_Jun2001\Notes Folders\Rac\Murphy, ted
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Sally, 
+As I told you last week, I laid a big egg and "put the cat amongst the 
+pigeons" as Steve Stock put it.  Phillipe called a meeting with Rick (and 
+me), Debbie Brackett and Steve yesterday to "clear the air".  While he 
+pledged to be attentive to the problem (as I articulated), he still focused 
+on fixing process which I fear gets us to where we thought we were as opposed 
+to where we need to be.  I continue to believe that not only are there things 
+just plain broken, but what we have gotten used to as "acceptable" is now 
+inadequate.  This includes the ability for "human" systems and processes to 
+be automated to avoid stupid downstream data problems as well as improve 
+analytics.  You will be cordially invited to be (another) weekly meeting that 
+both Rick and Phillipe plan to attend to monitor and guide progress.
+Ted
+
+
+   
+	Enron North America Corp.
+	
+	From:  Sally Beck                           08/28/2000 06:48 PM
+	
+
+To: Stephen Stock/HOU/ECT@ECT, Beth Perlman/HOU/ECT@ECT
+cc:  (bcc: Ted Murphy/HOU/ECT)
+Subject: ERMS Resources
+
+I heard today that Curtis Smith has resigned.  I am sure that both ot you 
+know that Curtis and Jeremy Wong were viewed by users as critical resources 
+for ERMS support.  Even at a stand still, my team had great concern over the 
+rumored loss of Curtis and/or Jeremy.  And with the assumption that Sitara 
+will not go forward for valuation, then ERMS really has become repositioned 
+as one of our key, strategic systems.  There is much to do to "catch up", if 
+you will, with changes and enhancements that were put on hold for several 
+years during the Sitara development stage.  And our business continues to 
+grow and change rapidly, requiring responsive enhancements on an on-going 
+basis.   
+
+I would like to get together to discuss the staffing plan for support of ERMS 
+as soon as possible.   We need to understand how day-to-day production 
+support will be managed and how development work will be effectively 
+handled.  
+
+I will ask my assistant to set up a meeting as soon as possible.  
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <12903710.1075856067812.JavaMail.evans@thyme>
+Date: Fri, 27 Oct 2000 00:16:00 -0700 (PDT)
+From: ted.murphy@enron.com
+To: andrew.cornfield@enron.com
+Subject: Re: Violation memo for 25th October 2000
+Cc: sally.beck@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sally.beck@enron.com
+X-From: Ted Murphy
+X-To: Andrew Cornfield
+X-cc: Sally Beck
+X-bcc: 
+X-Folder: \Sally_Beck_Jun2001\Notes Folders\Rac\Murphy, ted
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Andy,
+thanks for the update and your help in articulating this issue to the 
+commercial team
+Ted
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <29512453.1075856067860.JavaMail.evans@thyme>
+Date: Fri, 13 Oct 2000 01:54:00 -0700 (PDT)
+From: ted.murphy@enron.com
+To: sally.beck@enron.com, michael.moscoso@enron.com, debbie.brackett@enron.com
+Subject: Limit Violation Notification
+Cc: cassandra.schultz@enron.com, veronica.valdez@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: cassandra.schultz@enron.com, veronica.valdez@enron.com
+X-From: Ted Murphy
+X-To: Sally Beck, Michael E Moscoso, Debbie R Brackett
+X-cc: Cassandra Schultz, Veronica Valdez
+X-bcc: 
+X-Folder: \Sally_Beck_Jun2001\Notes Folders\Rac\Murphy, ted
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+IN THE SPIRIT OF LET US MAKE IT BETTER - NOT IN TED IS CHUCKING BLAME AROUND, 
+PLEASE CONSIDER THE FOLLOWING ISSUE:
+
+At the Audit Comittee Meeting, Jeff made the comment that the number of and 
+timing of the limit notifications caused them to be meaningless.  Now part of 
+that was an attempt by him to diffuse the number of notifications represented 
+graphically, but I think that there is an element of truth, particularly of 
+late.  therefore, I propose that we work toward making that timing faster and 
+the impact more meaningful.  
+
+I think the following might help:
+1) Cassandra will be our point person, therefore it will be faster than 
+waiting for the slower, more distracted and less organized ME
+2) I will propose that we raise the threshholds for notifications, 
+particularly at Jeff's level - I think that the sheer volume makes an 
+impression on Rick. Unfortunately, I think that it will not be in effect 
+until after the Dec bd meeting.  FYI I have proposed this at least twice and 
+have been shot down by Greg and Rick, but now that a smart guy is proposing 
+it, it will probably get more attention.
+3) We should use the executive report viewer as the mechanism for delivery.  
+I do not know who actually supports that thing so please let me know.
+ It has been important to AA for audit purposes to see "evidence" that Rick, 
+Jeff, Ken and Bd received appropriate notification - so that needs to be 
+considered.
+Another possibility would be RisktRAC.  The 3-d solution contracted for 
+contains an "Executive View" of "hot spots" .  Unfortunately, even though 
+Jeff requested it on his desk top 5 months ago, we can't get the IT resources 
+to pay attention to it.  IT however, has been interviewed several times for 
+magazines and have created such incredibly successful and useful products 
+such as EnergyDesk.com, Credit.com, En-lighten, 
+..............................................................................
+..  
+
+Conceptually,
+Notifications should take place before trading begins the next day.  This may 
+be utopian, but it is fundamentally correct (just because Enron doesn't know 
+it is supposed to, doesn't make it right).  I am certain that real risk 
+management organizations have a mechanism in place for this.   It  may be 
+necessary to create a SWAG process that is lightning fast with a more exact 
+process to follow.
+
+Please have fixed by close of business today.
+
+Ted
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <10371347.1075856067837.JavaMail.evans@thyme>
+Date: Tue, 24 Oct 2000 02:39:00 -0700 (PDT)
+From: veronica.valdez@enron.com
+To: mike.jordan@enron.com, james.new@enron.com, andrew.cornfield@enron.com,
+	mike.wellings@enron.com, coralie.evans@enron.com,
+	paul.d'arcy@enron.com, david.wall@enron.com,
+	louis.colarusso@enron.com, heidi.mason@enron.com,
+	jan-erland.bekeng@enron.com, brent.price@enron.com,
+	sheila.glover@enron.com, scott.earnest@enron.com, d.hall@enron.com,
+	kevin.sweeney@enron.com, michelle.bruce@enron.com,
+	bob.hall@enron.com, jeffrey.gossett@enron.com,
+	leslie.reeves@enron.com, stacey.white@enron.com,
+	peggy.hedstrom@enron.com, scott.mills@enron.com,
+	barry.pearce@enron.com, kristin.albrecht@enron.com,
+	neil.tarling@enron.com, wanda.curry@enron.com,
+	meredith.eggleston@enron.com, sally.beck@enron.com,
+	shona.wilson@enron.com, eugenio.perez@enron.com,
+	michael.moscoso@enron.com
+Subject: Risk Management Policy
+Cc: ted.murphy@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: ted.murphy@enron.com
+X-From: Veronica Valdez
+X-To: Mike Jordan, James New, Andrew Cornfield, Mike Wellings, Coralie Evans, Paul D'Arcy, David A Wall, Louis Colarusso, Heidi Mason, Jan-Erland Bekeng, Brent A Price, Sheila Glover, Scott Earnest, D Todd Hall, Kevin Sweeney, Michelle Bruce, Bob M Hall, Jeffrey C Gossett, Leslie Reeves, Stacey W White, Peggy Hedstrom, Scott Mills, Barry Pearce, Kristin Albrecht, Neil Tarling, Wanda Curry, Meredith M Eggleston, Sally Beck, Shona Wilson, Eugenio Perez, Michael E Moscoso
+X-cc: Ted Murphy
+X-bcc: 
+X-Folder: \Sally_Beck_Jun2001\Notes Folders\Rac\Murphy, ted
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Per Ted's request, I am forwarding you a copy of the most recent Board 
+Approved Risk Management Policy.
+
+Thanks,
+
+Veronica
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <17625448.1075856067908.JavaMail.evans@thyme>
+Date: Thu, 7 Sep 2000 10:17:00 -0700 (PDT)
+From: eugenio.perez@enron.com
+To: john.lavorato@enron.com, john.sherriff@enron.com, jeffrey.shankman@enron.com,
+	ted.murphy@enron.com, mark.frevert@enron.com, rick.buy@enron.com,
+	sally.beck@enron.com, shona.wilson@enron.com
+Subject: Four New Graphs
+Cc: michael.moscoso@enron.com, maria.aguilera-peon@enron.com,
+	jennifer.nguyen@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: michael.moscoso@enron.com, maria.aguilera-peon@enron.com,
+	jennifer.nguyen@enron.com
+X-From: Eugenio Perez
+X-To: John J Lavorato, John Sherriff, Jeffrey A Shankman, Ted Murphy, Mark Frevert, Rick Buy, Sally Beck, Shona Wilson
+X-cc: Michael E Moscoso, Maria Teresa Aguilera-Peon, Jennifer Nguyen
+X-bcc: 
+X-Folder: \Sally_Beck_Jun2001\Notes Folders\Rac\Murphy, ted
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+We have created four additional graphs to be published daily along with the 
+DPR: 
+
+Return on VaR (ROVAR)
+Curve Shift P&L (Delta - Gamma) Sharpe Ratio
+Risk - Return (Large)
+Risk - Return (Small)
+
+All of these graphs deal with the concept of risk-adjusted return.  The 
+markets in which we operate have unlike risk characteristics.  Furthermore, 
+Enron's appetite for risk also differs in each market.  As a result, it is 
+difficult to compare returns in absolute terms.  Therefore, the approach of 
+these graphs is to divide return by a measure of risk, in effect restating 
+return numbers into a standard base (how many dollars we earn for every 
+dollar we put at risk).
+
+
+ For each business unit or commodity group, the ROVAR graph shows an average 
+of daily total P&L divided by an average of daily VaR.  Higher ROVARs 
+indicate better performance (relative to other business units).  For each 
+business unit or commodity group there are two bars: the dark blue on the 
+left shows ROVAR on a 4 week (20 business day) rolling basis, and the light 
+blue on the right shows ROVAR on a 1 week (5 business day) rolling basis.  
+Because of the shorter term, the 1 week ROVAR is more sensitive: it can be 
+quite high or low, and it changes frequently.
+
+
+The Sharpe Ratio graph is very similar in concept; it shows an average of 
+daily curve shift P&L (both delta and gamma) divided by its standard 
+deviation. This Sharpe ratio is uncomplicated by non-trading P&L (like new 
+deals, reserves, and so forth).  Furthermore, whereas VaR is a forward 
+looking statistic (the most we are likely to lose in one day with a given 
+probability), standard deviation is backward looking (the actual volatility 
+of our returns over the period). This graph also has two bars for every 
+business unit or commodity group: a dark brown on the left showing the Sharpe 
+ratio on a 4 week rolling basis, and a light brown on the right showing the 
+ratio on a 1 week basis.
+
+The Curve Shift P&L Sharpe Ratio and the ROVAR graphs complement each other 
+well.  They measure different things, but if our P&L is composed mostly of 
+curve shift, and if our VaR closely predicts curve shift volatility, the two 
+statistics should be very close.
+
+
+Sometimes it is interesting to see the actual magnitude of the P&L relative 
+to the risk.  We therefore put together the Risk - Return graphs.  On the 
+vertical axis, they show 4 week rolling average P&L.  On the horizontal, they 
+show 4 week rolling average VaR.  The various business units are plotted as 
+points on the graphs.  These graphs are closely related to the 4-week ROVARs, 
+in that the vertical value of every point divided by its horizontal value is 
+the business unit's ROVAR (average P&L / average VaR).  Another way of 
+looking at these graphs is that the slope of a line connecting the origin 
+(0,0) with the plotted point of a business unit is its ROVAR.  Books with 
+small risks and returns (< $2 million) are plotted on the "Small" graph, and 
+the rest, on the "Large".
+
+These graphs are based on the DPR Database that we built to standardize and 
+capture the information that is reported in the DPR.  Most, but not all of 
+the information in the DPR currently flows from the database.  As a result, 
+we do not have ROVARs or Sharpe Ratios for every business unit.  As we 
+continue to set up exports into the database, we will fill in the missing 
+numbers.
+
+We will e-mail you these graphs every day until we can publish them on the 
+intra-net.  Please remember to launch the file in Excel, instead of using the 
+Lotus Notes viewer.  The VaR Limit Usage graphs that we created last week are 
+already on the web.  We hope that you find all of these useful.
+
+
+
+Regards,
+
+
+
+Eugenio Perez
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <10634008.1075856067973.JavaMail.evans@thyme>
+Date: Wed, 30 Aug 2000 03:59:00 -0700 (PDT)
+From: ted.murphy@enron.com
+To: sally.beck@enron.com, rick.buy@enron.com, john.lavorato@enron.com,
+	stephen.stock@enron.com, john.sherriff@enron.com,
+	jeffrey.shankman@enron.com
+Subject: Market Risk/Operational Risk Report
+Cc: debbie.brackett@enron.com, rudi.zipter@enron.com, david.port@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: debbie.brackett@enron.com, rudi.zipter@enron.com, david.port@enron.com
+X-From: Ted Murphy
+X-To: Sally Beck, Rick Buy, John J Lavorato, Stephen Stock, John Sherriff, Jeffrey A Shankman
+X-cc: Debbie R Brackett, Rudi Zipter, David Port
+X-bcc: 
+X-Folder: \Sally_Beck_Jun2001\Notes Folders\Rac\Murphy, ted
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Attached below is a compilation of operational and information technology 
+issues that effect the timeliness, effectiveness and accuracy of the Market 
+Risk Management daily analysis.
+
+Daily, we aggregate information regarding the origin of these issues to 
+better diagnose where time, money and resources should be allocated to 
+improve information flow.
+
+Please call me if you have any questions regarding this document.
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <2551484.1075856068022.JavaMail.evans@thyme>
+Date: Thu, 22 Jun 2000 08:07:00 -0700 (PDT)
+From: ted.murphy@enron.com
+To: d.hall@enron.com
+Subject: Re: MPR for 6/20/00
+Cc: sally.beck@enron.com, rick.buy@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sally.beck@enron.com, rick.buy@enron.com
+X-From: Ted Murphy
+X-To: D Todd Hall
+X-cc: Sally Beck, Rick Buy
+X-bcc: 
+X-Folder: \Sally_Beck_Jun2001\Notes Folders\Rac\Murphy, ted
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Mr. Hall,
+I have just reviewed the Merchant Portfolio Summary for 6/20 and have the 
+following questions:
+ 1) CALME shows an asset of $291.9MM  and APACHI shows an asset of $113.0MM 
+and they show no p&l for the year
+  Is this possible in a world of changing interest rates and equity premiums 
+and commodity prices?
+ 2) India recently invested in an IPO (rediff.com) for which there was a 
+simultaneous DASH to buy and sell (sounds like a Merchant deal).
+  Where does this show up?
+ 3) There are several bonds (publicly traded, registrered securities, housed 
+in our Prime Broker accounts) owned by various Enron entities
+  that I do not believe are on the DPR.  Shouldn't they be? And if so, who is 
+deciding not to include?
+Pls advise at your earliest convenience as you always do.
+Thanks
+Ted
+
+
+   
+	
+	
+	From:  D Todd Hall                           06/21/2000 01:16 PM
+	
+
+To: Rick Buy/HOU/ECT@ECT, Andrea V Reed/HOU/ECT@ECT, Sally Beck/HOU/ECT@ECT, 
+Ted Murphy/HOU/ECT@ECT, Richard Causey/Corp/Enron@ENRON, Carol Jean 
+Marshall/HOU/ECT@ECT, Raymond Bowen/HOU/ECT@ECT, Jeff 
+Skilling/Corp/Enron@ENRON, Jeff Donahue/HOU/ECT@ECT, L'Sheryl 
+Hudson/HOU/ECT@ECT, Monica Reasoner/HOU/ECT@ECT, Hope Vargas/HOU/ECT@ECT, 
+Adarsh Vakharia/HOU/ECT@ECT, Joseph W Sutton@Enron, Michael S 
+Galvan/HOU/ECT@ECT, Maria LeBeau/HOU/ECT@ECT, Wes Colwell/HOU/ECT@ECT, Mark 
+Frevert/NA/Enron@Enron, Thomas Myers/HOU/ECT@ECT
+cc:  
+Subject: MPR for 6/20/00
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <12392633.1075856067930.JavaMail.evans@thyme>
+Date: Fri, 1 Sep 2000 04:19:00 -0700 (PDT)
+From: ted.murphy@enron.com
+To: mike.jordan@enron.com, sally.beck@enron.com
+Subject: London Risk Reporting
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Ted Murphy
+X-To: Mike Jordan, Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Jun2001\Notes Folders\Rac\Murphy, ted
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Well,
+today (or rather yesterday) it happened.  We have been pushing our limits 
+hard and the makets here have been very volatile.  We had a large increase in 
+North American Natural Gas VAR due to the breaking apart the Rockies/SoCal 
+basis correlation.  This am, we were attempting to get firm numbers on the 
+effect on our corporate limits so that we could provide 
+Jeff/Delainey/Lavorato/Buy/.... the information to make decisions whether or 
+not to reduce positions.  The number was not firm until 11 am houston time.  
+My understanding is that the Houston numbers were all in before 8 am and that 
+we were waiting for London.  While I am sure that there are issues all around 
+and I do not think that anyone Senior in Houston is even aware, let alone 
+prepared to blame, I fear that this will not always be the case.  I think 
+something needs to be changed in our process so that this can be avoided in 
+the future.   
+
+Please do not take this as a nasty-gram.  No one is cc'd or bcc'd.  I just 
+think that it will be deemed unacceptable.
+Any thoughts/comments?
+Ted
+

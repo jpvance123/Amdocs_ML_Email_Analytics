@@ -1,0 +1,253 @@
+From MAILER-DAEMON Mon Apr 18 14:26:54 2022
+Message-ID: <2127974.1075851693874.JavaMail.evans@thyme>
+Date: Mon, 19 Mar 2001 06:05:00 -0800 (PST)
+From: eric.boyt@enron.com
+To: v.weldon@enron.com
+Subject: Neumin Production - REVISED POSITIONS
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Eric Boyt
+X-To: V Charles Weldon
+X-cc: 
+X-bcc: 
+X-Folder: \Charles_Wheldon_Nov2001\Notes Folders\Neumin
+X-Origin: WHELDON-C
+X-FileName: vweldon.nsf
+
+---------------------- Forwarded by Eric Boyt/Corp/Enron on 03/19/2001 02:05 
+PM ---------------------------
+From: Jason R Williams/ENRON@enronXgate on 03/19/2001 12:17 PM
+To: James Ledlow/ENRON@enronXgate, Bradford Larson/ENRON@enronXgate, Lynn 
+Bellinghausen/ENRON@enronXgate, Becky Caudle/ENRON@enronXgate, Tanya 
+Rohauer/ENRON@enronXgate, Eric Boyt/Corp/Enron@Enron
+cc:  
+
+Subject: Neumin Production - REVISED POSITIONS
+
+Neumin Team -
+
+As you know, I have been trying to sort out a problem that we have regarding 
+trade N52632 with Neumin Production.  The issue surrounded the expiration 
+dates of the various legs of this trade, with confusion about whether those 
+legs were to expire in December '01 or December '02.
+
+At the present, it is the general consensus of the Confirms/Origination teams 
+that the legs in question (legs 2 & 4) should expire at the end of December 
+'01.  I say "general consensus" because we have no clear, concrete evidence 
+that this expiration is correct.  Our own internal systems show a lot of 
+conflicting indications, so the long and the short of this "investigation" is 
+that we are relying on the memories of our originators to verify the terms of 
+the deal.
+
+So, attached is the Neumin position spreadsheet, with updated terms for legs 
+2 and 4.  I have also added a sheet that shows Neumin's production profile, 
+based on the reserve report of 1/1/01.  Included on this sheet is a "Net 
+Overhedge" calculation which shows the amount of hedged production above 
+projected production (as of 1/1/01).
+
+
+Please let me know if you have any questions.
+
+
+Jay
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:54 2022
+Message-ID: <32672048.1075851693792.JavaMail.evans@thyme>
+Date: Mon, 9 Apr 2001 08:38:00 -0700 (PDT)
+From: jason.williams@enron.com
+To: eric.boyt@enron.com, tanya.rohauer@enron.com
+Subject: RE: Neumin Update
+Cc: v.weldon@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: v.weldon@enron.com
+X-From: Jason R Williams
+X-To: Eric Boyt, Tanya Rohauer
+X-cc: V Charles Weldon
+X-bcc: 
+X-Folder: \Charles_Wheldon_Nov2001\Notes Folders\Neumin
+X-Origin: WHELDON-C
+X-FileName: vweldon.nsf
+
+Eric -
+
+We don't have any of the details yet, as we are still trying to get the 
+physical contracts (and guaranties) in place with Neumin and Formosa.  Once 
+all the paper is in place, Neumin/Formosa will flip their financial positions 
+into physical positions.  It is my understanding that Neumin/Formosa have not 
+yet made a decision on their unwind volumes.
+
+I'll keep you updated once I get more info.
+
+
+Jay
+
+ -----Original Message-----
+From:  Boyt, Eric  
+Sent: Monday, April 09, 2001 2:42 PM
+To: Williams, Jason R.; Rohauer, Tanya
+Cc: Weldon, V Charles
+Subject: Neumin Update
+
+Jason/Tanya,
+
+Could you please provide a brief update on the Neumin unwind.  We are in the 
+process of updating our "deal sheet" regarding status and timing of next 
+steps.
+
+Thanks in advance,
+
+Eric
+
+From MAILER-DAEMON Mon Apr 18 14:26:54 2022
+Message-ID: <7842204.1075851693838.JavaMail.evans@thyme>
+Date: Fri, 23 Mar 2001 09:29:00 -0800 (PST)
+From: jason.williams@enron.com
+To: eric.boyt@enron.com, v.weldon@enron.com
+Subject: Neumin Unwind
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jason R Williams
+X-To: Eric Boyt, V Charles Weldon
+X-cc: 
+X-bcc: 
+X-Folder: \Charles_Wheldon_Nov2001\Notes Folders\Neumin
+X-Origin: WHELDON-C
+X-FileName: vweldon.nsf
+
+Eric and Charlie -
+
+Attached is the same Neumin spreadsheet that I sent you last week, showing 
+deals/volumes/prices per month.  I have added a new sheet titled 'Unwind' 
+that shows the volumes and prices for the unwind trade(s) that I want to 
+propose to Formosa.  You will see that I have held the unwind volumes 
+constant within each calendar year (e.g., the unwind volumes for Cal '01 are 
+8,000 MMBTU/day, the unwind volumes for Cal '02 are 19,000 MMBTU/day, etc.) 
+but the PRICES change each month, to correspond with the pricing of their 
+current "hedge" positions.
+
+Can you please prepare a proposal for Formosa based on the attached unwind 
+structure?  As you know, this unwind proposal would include an annuity 
+stream, payed out from the present through December 2006, that accounts for 
+the payment required to execute the unwind.  I think we should prepare a 
+quote whereby Formosa pays an equal monthly amount from the present through 
+December 2006 to amortize the unwind payment.
+
+I would like to get a proposal to Formosa ASAP; I told them that I would get 
+them a proposal on Monday.  Maybe that was a little aggressive, huh?  Please 
+let me know what you can do.
+
+
+Thanks,
+
+Jay
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:54 2022
+Message-ID: <844967.1075851693815.JavaMail.evans@thyme>
+Date: Wed, 28 Mar 2001 04:34:00 -0800 (PST)
+From: eric.boyt@enron.com
+To: clara.carrington@enron.com
+Subject: Neumin Production Unwind - w attachment
+Cc: pushkar.shahi@enron.com, v.weldon@enron.com, jason.williams@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: pushkar.shahi@enron.com, v.weldon@enron.com, jason.williams@enron.com
+X-From: Eric Boyt
+X-To: Clara Carrington
+X-cc: Pushkar Shahi, V Charles Weldon, Jason R Williams
+X-bcc: 
+X-Folder: \Charles_Wheldon_Nov2001\Notes Folders\Neumin
+X-Origin: WHELDON-C
+X-FileName: vweldon.nsf
+
+Forgot the attachment....
+
+
+---------------------- Forwarded by Eric Boyt/Corp/Enron on 03/28/2001 12:32 
+PM ---------------------------
+
+
+Eric Boyt
+03/28/2001 12:32 PM
+To: Clara Carrington/HOU/ECT
+cc: Pushkar Shahi/HOU/ECT@ECT, V Charles Weldon/HOU/ECT@ECT, Jason R 
+Williams/NA/Enron 
+
+Subject: Neumin Production Unwind
+
+Clara,
+
+Charlie and I spoke with Pushkar this morning regarding a potential partial 
+unwind of several deals with between Enron and Neumin Production (Formosa 
+sub).
+
+Neumin currently has the following 8 swaps and 1 option,
+
+
+
+Enron's credit group (Jay Williams) is proposing a partial unwind, which 
+would be achieved by 
+Booking a new ticket that is approximately $66 million out of the money to 
+Enron (PV using LIBOR flat), and 
+Booking an annuity (note receivable from Neumin) for this $66 million at 
+8.5%, which results in ~$85 million nominal over the term.
+
+So, Pushkar asked us to send you the change in nominal cash flow from this 
+partial unwind.  Attached is a file, which shows the nominal cash flow 
+increase.
+
+Please let Charlie and I know if you need additional information or have any 
+questions.  Let is know if we need to lock in the LIBOR at your bid (I think 
+that is right?)
+
+Regards,
+
+Eric
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:54 2022
+Message-ID: <29393681.1075851693896.JavaMail.evans@thyme>
+Date: Fri, 16 Mar 2001 04:02:00 -0800 (PST)
+From: eric.boyt@enron.com
+To: v.weldon@enron.com
+Subject: Neumin Production Minibook
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Eric Boyt
+X-To: V Charles Weldon
+X-cc: 
+X-bcc: 
+X-Folder: \Charles_Wheldon_Nov2001\Notes Folders\Neumin
+X-Origin: WHELDON-C
+X-FileName: vweldon.nsf
+
+---------------------- Forwarded by Eric Boyt/Corp/Enron on 03/16/2001 12:02 
+PM ---------------------------
+
+
+Errol McLaughlin
+03/16/2001 12:02 PM
+To: Eric Boyt/Corp/Enron@Enron
+cc:  
+
+Subject: Neumin Production Minibook
+
+
+
+Thanks,
+
+Errol, X5-8274
+

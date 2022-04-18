@@ -1,0 +1,501 @@
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <14840674.1075860237113.JavaMail.evans@thyme>
+Date: Thu, 13 Apr 2000 02:42:00 -0700 (PDT)
+From: cynthia.harkness@enron.com
+To: mark.taylor@enron.com
+Subject: Leona Tan
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Cynthia Harkness
+X-To: Mark Taylor
+X-cc: 
+X-bcc: 
+X-Folder: \Mark_Taylor_Jun2001\Notes Folders\Australia trading
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+Dear Mark,
+
+As per our discussion at the law conference and my voice mail to you earlier 
+this week,  attached is Leona Tan's resume.  Please let me know if I can 
+assist you further in this regard.  All the best!
+
+
+
+Cynthia
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <17148594.1075859980479.JavaMail.evans@thyme>
+Date: Thu, 9 Nov 2000 06:36:00 -0800 (PST)
+From: david.minns@enron.com
+To: justin.timothy@enron.com
+Subject: Re: Hong Kong Weather Online
+Cc: raymond.yeow@enron.com, heidi.mason@enron.com, susan.musch@enron.com,
+	christian.werner@enron.com, paul.quilkey@enron.com,
+	jerven.zhang@enron.com, rudi.zipter@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: raymond.yeow@enron.com, heidi.mason@enron.com, susan.musch@enron.com,
+	christian.werner@enron.com, paul.quilkey@enron.com,
+	jerven.zhang@enron.com, rudi.zipter@enron.com
+X-From: David Minns
+X-To: Mark Taylor@ECT, Jeff Blumenthal@ECT, Justin Timothy, Dale Neuner@ECT, David Forster@ECT
+X-cc: Raymond Yeow, Heidi Mason, Susan Musch, Christian Werner, Paul Quilkey, Jerven Zhang, Rudi Zipter, Tom Moran@ect
+X-bcc: 
+X-Folder: \Mark_Taylor _Dec_2000\Notes Folders\Australia trading
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+Legal Mark following on from Paul Smith's email attached  are the revised 
+GTCs.  I am advised your signoff is required prior to them being loaded into 
+EOL . Essentially they are the previous HDD and CDD "Australian weather swaps 
+GTCs. Each GTC has been amended slightly so it may be used for a product  
+where the weather observations are derived from a source other than the 
+Australian Bureau of Meteorology. I have reviewed the GTCs and confirm they 
+are acceptable.
+
+
+Would you please signify your concurrence by email.     
+
+
+Tax I have seen a response from PWC yesterday that appeared satisfactory. 
+Perhaps Susan or Heidi can confirm this  to Jeff who I understand also needs 
+to give his signoff.
+
+Dale attached are the final product descriptions.  Please call me if you have 
+any questions.
+
+     
+
+
+
+From: Paul Smith on 09/11/2000 02:10 PM
+To: Rudi Zipter/HOU/ECT@ECT, Tom Moran@ect, Mark Taylor@ECT, Jeff 
+Blumenthal@ECT, Justin Timothy/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Dale 
+Neuner@ECT, David Forster@ECT
+cc: Raymond Yeow/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, David 
+Minns/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Heidi 
+Mason/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Susan 
+Musch/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Christian 
+Werner/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Paul 
+Quilkey/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Jerven 
+Zhang/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT 
+
+Subject: Hong Kong Weather Online
+
+All,
+
+Hong Kong Weather products will be launched on EOL Tuesday 14th November in 
+Hong Kong.
+
+Current status is:
+Legal:  GTC's are final and with David Minns / Mark Taylor for sign-off. This 
+sign-off should be completed by 10am Thursday (Houston time)   in order for 
+the GTC's to be loaded by Tuesday (Sydney time);
+  Long Form descriptions are undergoing last adjustments today (DM), and will 
+be forwarded tonight for signoff;
+Tax:  PWC has been asked for more specific advise on some issues. DM / HM 
+following up. These issues will not stop the launch;
+Risk:  HK weather data is with RAC now for calculating sigma's. AF has USD 
+MTM weather book running;
+Marketing: No marketing has been undertaken yet, and will not be prior to the 
+launch - partially pending PWC advice;
+Technical: DN has set the products up in test environment. I will go through 
+these tomorrow with Dale;
+Credit:  We are not soliciting any new counterparties for the launch;
+Data:  CW and JZ have completed data cleaning and analysis. RY is pricing;
+
+We will require signoff from Rudi, Tom, Mark & Jeff to transfer the products 
+to production, and we would like to do this before this weeks out. We want to 
+have products loaded and priced in production Monday afternoon (Sydney time). 
+If there are any other issues that I have missed, or incorrectly stated, 
+please reply by Friday morning (Sydney time) to allow time to address them.
+
+Regards,
+Paul
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <7947375.1075860237228.JavaMail.evans@thyme>
+Date: Mon, 14 Feb 2000 08:36:00 -0800 (PST)
+From: alan.aronowitz@enron.com
+To: mark.taylor@enron.com, shari.stack@enron.com
+Subject: Australia ISDA Schedule
+Cc: david.minns@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: david.minns@enron.com
+X-From: Alan Aronowitz
+X-To: Mark - ECT Legal Taylor, Shari Stack
+X-cc: David Minns
+X-bcc: 
+X-Folder: \Mark_Taylor_Jun2001\Notes Folders\Australia trading
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+David Minns has recently sent to me a proposal to revise the ISDA Schedule 
+being currently used in Australia ("Proposal").
+
+Today, I am going to forward the Proposal (which includes a redline against 
+the current version, a memo from David justifying the changes, and a note 
+from our outside counsel) to the two of you, our in-house experts, under a 
+copy of this e-mail. I believe I'm in agreement with the changes posed by 
+David. Please advise me and David if you have any issues with the 
+modifications he is proposing. Mallesons our law firm in Sydney, has reviewed 
+the changes and approved of them.
+
+If we do not hear back within a week, we will assume that the changes are 
+acceptable from your standpoint and begin using the form in its revised state.
+
+Thanks in advance for your help.
+
+Alan
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <16635017.1075859980523.JavaMail.evans@thyme>
+Date: Thu, 29 Jul 1999 05:53:00 -0700 (PDT)
+From: shari.stack@enron.com
+To: gary.hickerson@enron.com, paul.quilkey@enron.com
+Subject: Legal Aspects- Financial Trading in Australia
+Cc: david.minns@enron.com, alan.aronowitz@enron.com, susan.musch@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: david.minns@enron.com, alan.aronowitz@enron.com, susan.musch@enron.com
+X-From: Shari Stack
+X-To: Gary Hickerson, Paul Quilkey
+X-cc: David Minns, Alan B Aronowitz, Susan Musch
+X-bcc: 
+X-Folder: \Mark_Taylor _Dec_2000\Notes Folders\Australia trading
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+In connection with today's meeting regarding financial trading in Australia, 
+attached please find a short memo from Alan and myself which summarizes the 
+legal aspects.
+
+
+
+We look forward to discussing it with you at 2:30 pm, EB 38C1. 
+
+See you then, 
+
+Shari    
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <17404094.1075859980501.JavaMail.evans@thyme>
+Date: Tue, 2 May 2000 11:57:00 -0700 (PDT)
+From: david.forster@enron.com
+To: tana.jones@enron.com
+Subject: Re: EnronOnline Australian Power GTCs
+Cc: mark.taylor@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: mark.taylor@enron.com
+X-From: David Forster
+X-To: Tana Jones
+X-cc: Mark Taylor
+X-bcc: 
+X-Folder: \Mark_Taylor _Dec_2000\Notes Folders\Australia trading
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+Tana,
+
+Can you coordinate with David on the procedures?
+
+Thanks,
+
+Dave
+---------------------- Forwarded by David Forster/Corp/Enron on 05/02/2000 
+06:56 PM ---------------------------
+
+
+David Forster
+05/02/2000 06:56 PM
+To: David Minns/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT@ECT
+cc:  
+
+Subject: Re: EnronOnline Australian Power GTCs  
+
+David,
+
+Thanks for the new GTC. We'll get things rolling at our end for the upload of 
+new GTC and customer profiles.
+
+I think the ABN number might be better suited to the Registration form . . .
+
+Dave
+
+
+
+David Minns@ENRON_DEVELOPMENT
+04/30/2000 10:32 PM
+To: David Forster@ECT, Paul Smith/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT
+cc: Mark Taylor@ECT, Heidi Mason/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Susan 
+Musch/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT 
+
+Subject: EnronOnline Australian Power GTCs
+
+Attached is the revised GTCs that address taxation issues for non-Australian 
+resident counterparties. These GTCs have received tax clearance and hence all 
+approvals have now been given to allow them to be loaded. Enclosed also are 
+the procedures that need to be followed when new counterparties are being 
+considered. To date we have been vetting potential counteparties in the 
+Sydney office. I suggest that the procedures be made available to anyone else 
+who may be given this responsibility. 
+
+One new matter has come to light. In July 2000 with the introduction of GST 
+in Australia new legislative arrangements will come into place. They will 
+require businesses to have an "ABN". It has been suggested that we amend the 
+password application to request the counterparty's ABN.
+
+  
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <8006670.1075860237091.JavaMail.evans@thyme>
+Date: Thu, 13 Apr 2000 09:26:00 -0700 (PDT)
+From: allison.navin@enron.com
+To: mark.haedicke@enron.com, mark.taylor@enron.com
+Subject: Hedge Fund Disclosure Act
+Cc: cynthia.sandherr@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: cynthia.sandherr@enron.com
+X-From: Allison Navin
+X-To: Mark E Haedicke, Mark Taylor
+X-cc: Cynthia Sandherr
+X-bcc: 
+X-Folder: \Mark_Taylor_Jun2001\Notes Folders\Australia trading
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+Last month, the House Banking and Financial Services Subcommitee on Capital 
+Markets, Securities and 
+Government-Sponsored Enterprises marked-up H.R. 2924, the Hedge Fund 
+Disclosure Act.  This legislation
+would require unregulated hedge funds to submit quarterly reports to the 
+Board of Governors of the Federal
+Reserve System which would then be distributed to other agencies including 
+the SEC and CFTC.
+These reports would be made available to the public to the extent required by 
+regulations prescribed
+by the Board, and for other purposes.
+
+We have attached a copy of the legislation as introduced, as well as the 
+manager's amendment as reported out of
+Subcommittee for your comments.  The bill has been referred to the full 
+Committee with no action scheduled as of yet.
+We will be sure to keep you informed of any developments.
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <17122068.1075860237135.JavaMail.evans@thyme>
+Date: Fri, 31 Mar 2000 00:03:00 -0800 (PST)
+From: tana.jones@enron.com
+To: debbie.brackett@enron.com, tom.moran@enron.com, molly.harris@enron.com,
+	william.bradford@enron.com
+Subject: EnronOnline procedures and GTCs
+Cc: mark.taylor@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: mark.taylor@enron.com
+X-From: Tana Jones
+X-To: Debbie R Brackett, Tom Moran, Molly Harris, William S Bradford
+X-cc: Mark Taylor
+X-bcc: 
+X-Folder: \Mark_Taylor_Jun2001\Notes Folders\Australia trading
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+David has sent us a memo re: Procedures for Approval to trade in Australia 
+that I think you will find helpful.
+---------------------- Forwarded by Tana Jones/HOU/ECT on 03/31/2000 08:02 AM 
+---------------------------
+
+
+David Minns@ENRON_DEVELOPMENT
+03/31/2000 01:58 AM
+To: Heidi Mason/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT
+cc: Paul Smith/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Paul 
+Quilkey/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, David Forster/LON/ECT@ECT, Tana 
+Jones@ECT, Mark Taylor@ECT, Susan Musch/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT 
+Subject: EnronOnline procedures and GTCs
+
+Attached are the GTCs that I have revised to address tax issues that would 
+arise from counterparties with no Australia presence. I am content settlement 
+provisions already covered in the documentation. I have also developed a 
+checklist for new counterparties. Would you pass onto Chris Catt at PW for 
+his signoff. 
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <7798157.1075860237158.JavaMail.evans@thyme>
+Date: Fri, 31 Mar 2000 09:58:00 -0800 (PST)
+From: david.minns@enron.com
+To: heidi.mason@enron.com
+Subject: EnronOnline procedures and GTCs
+Cc: paul.smith@enron.com, paul.quilkey@enron.com, david.forster@enron.com,
+	susan.musch@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: paul.smith@enron.com, paul.quilkey@enron.com, david.forster@enron.com,
+	susan.musch@enron.com
+X-From: David Minns
+X-To: Heidi Mason
+X-cc: Paul Smith, Paul Quilkey, David Forster, Tana Jones@ECT, Mark Taylor@ECT, Susan Musch
+X-bcc: 
+X-Folder: \Mark_Taylor_Jun2001\Notes Folders\Australia trading
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+Attached are the GTCs that I have revised to address tax issues that would 
+arise from counterparties with no Australia presence. I am content settlement 
+provisions already covered in the documentation. I have also developed a 
+checklist for new counterparties. Would you pass onto Chris Catt at PW for 
+his signoff. 
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <900877.1075860237070.JavaMail.evans@thyme>
+Date: Fri, 14 Apr 2000 08:29:00 -0700 (PDT)
+From: david.minns@enron.com
+Subject: EnronOnline Australian legal advice
+Cc: paul.smith@enron.com, paul.quilkey@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: paul.smith@enron.com, paul.quilkey@enron.com
+X-From: David Minns
+X-To: Mark Taylor@ECT
+X-cc: Alan Aronowitz@ECT, Matthias Lee@ECT, Paul Smith, Paul Quilkey
+X-bcc: 
+X-Folder: \Mark_Taylor_Jun2001\Notes Folders\Australia trading
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+Attached is a final version of the Australian legal advice. You mentioned 
+that you may want to pass on the settled advice on to Sullivan and Cromwell. 
+The only on outstanding issues are;
+Final tax signoff on the revised GTCs that would allow trading with a 
+non-resident counterparty.
+We are investigating certain regulatory issues in respect weather derivatives 
+before we can give those the all clear to be added to EnronOnline.
+Registration of "EnronOnline" as a trade mark.
+There is also that issue I raised a couple of days ago in respect of an Enron 
+counterparty that is incorporated after a Password Agreement and ETA is 
+signed. How could such an entity seek damages under a contract that was made 
+before it existed? Although of no immediate relevance to Australia it may 
+have significance for Japan where I understand we are incorporating a new set 
+of companies. Any thoughts?     
+  
+l
+
+ - 0437047.pdf
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <377803.1075860237203.JavaMail.evans@thyme>
+Date: Fri, 18 Feb 2000 01:56:00 -0800 (PST)
+From: david.minns@enron.com
+To: alan.aronowitz@enron.com, mark.taylor@enron.com, shari.stack@enron.com
+Subject: Re: Australia ISDA Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: David Minns
+X-To: Alan Aronowitz, Mark - ECT Legal Taylor, Shari Stack
+X-cc: 
+X-bcc: 
+X-Folder: \Mark_Taylor_Jun2001\Notes Folders\Australia trading
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+Thanks for the feedback on the ISDA I got from Alan and Shari. I perhaps did 
+not put the suggested changes in the ISDA Schedule in their full context. 
+Recently we have received 2 ISDAs which included provisions that incorporate 
+by reference Australian Addendum that relate to FX, currency and interest 
+products and the like. Normally we only reference the Addenda that relate to 
+electricity and commodities. The ralionale for seeking of this alternative 
+ISDA form was to allow us the discretion have these provisions remain whilst 
+following an agreed Enron trading form. Whilst EAPL is not authorised to 
+trade these products we would have the flexibility to do so if the situation 
+were to change in the future.  By way of comparison we include provisions to 
+allow trading in respect of non-electricity commodities but do not do so.
+
+Anyway as Shari and I discussed perhaps it is better that we drop the 
+amendments to produce an alternative Australia ISDA with a broader scope.  l 
+
+       
+
+
+
+
+Alan Aronowitz@ECT
+02/15/2000 08:36 AM
+To: Mark - ECT Legal Taylor/HOU/ECT@ECT, Shari Stack/HOU/ECT@ECT
+cc: David Minns/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT 
+
+Subject: Australia ISDA Schedule
+
+David Minns has recently sent to me a proposal to revise the ISDA Schedule 
+being currently used in Australia ("Proposal").
+
+Today, I am going to forward the Proposal (which includes a redline against 
+the current version, a memo from David justifying the changes, and a note 
+from our outside counsel) to the two of you, our in-house experts, under a 
+copy of this e-mail. I believe I'm in agreement with the changes posed by 
+David. Please advise me and David if you have any issues with the 
+modifications he is proposing. Mallesons our law firm in Sydney, has reviewed 
+the changes and approved of them.
+
+If we do not hear back within a week, we will assume that the changes are 
+acceptable from your standpoint and begin using the form in its revised state.
+
+Thanks in advance for your help.
+
+Alan
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:53 2022
+Message-ID: <15994.1075860237180.JavaMail.evans@thyme>
+Date: Fri, 31 Mar 2000 05:06:00 -0800 (PST)
+From: david.minns@enron.com
+To: scott.farrell@msj.com.au
+Subject: Enrononline - weather
+Cc: martin.james@msj.com.au, paul.quilkey@enron.com, paul.smith@enron.com,
+	raymond.yeow@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: martin.james@msj.com.au, paul.quilkey@enron.com, paul.smith@enron.com,
+	raymond.yeow@enron.com
+X-From: David Minns
+X-To: scott.farrell@msj.com.au
+X-cc: martin.james@msj.com.au, Paul Quilkey, Paul Smith, Raymond Yeow, Mark Taylor@ECT
+X-bcc: 
+X-Folder: \Mark_Taylor_Jun2001\Notes Folders\Australia trading
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+Further to our discussion this morning. There is still one item outstanding 
+(see attached checklist) .It involves is the trading of other products apart 
+from power (ie those not covered by our exempt market declaration). Is there 
+a way forward to overcome the restriction on transacting standard weather 
+products through EnronOnline?  
+
+For those not familiar with the issue it is summarised in my attached 24 
+December 1999  memo under the heading ASIC approvals.
+
+     
+

@@ -1,0 +1,487 @@
+From MAILER-DAEMON Mon Apr 18 14:24:01 2022
+Message-ID: <31101984.1075841074133.JavaMail.evans@thyme>
+Date: Wed, 27 Jun 2001 14:30:31 -0700 (PDT)
+From: karima.husain@enron.com
+To: karima.husain@enron.com, bob.bowen@enron.com, joe.hunter@enron.com,
+	chris.abel@enron.com, thomas.araujo@enron.com,
+	david.baumbach@enron.com, r..brackett@enron.com, a..brown@enron.com,
+	thu.dang@enron.com, c..giron@enron.com, sheila.glover@enron.com,
+	c..gossett@enron.com, j..hanson@enron.com, willie.harrell@enron.com,
+	nancy.hernandez@enron.com, chad.ihrig@enron.com,
+	john.jacobsen@enron.com, kam.keiser@enron.com, jill.lafave@enron.com,
+	s..lim@enron.com, kelly.lombardi@enron.com, m..love@enron.com,
+	shari.mao@enron.com, errol.mclaughlin@enron.com,
+	frank.prejean@enron.com, patrick.scales@enron.com,
+	d..sorenson@enron.com, kevin.sweeney@enron.com,
+	john.swinney@enron.com, sue.vasan@enron.com,
+	steve.venturatos@enron.com, zhiyong.wei@enron.com,
+	jeremy.wong@enron.com
+Subject: Status meeting:  ERMT database migration to Oracle 8i
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Husain, Karima </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHUSAIN>
+X-To: Husain, Karima </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Khusain>, Bowen, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bbowen>, Hunter, Larry Joe </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jhunte2>, Abel, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=47c1b49-a28949d7-8625676f-7566de>, Araujo, Thomas </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Taraujo>, Baumbach, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dbaumba>, Brackett, Debbie R. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dbracke>, Brown, Matt A. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbrown2>, Dang, Thu </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tdang>, Giron, Darron C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dgiron>, Glover, Sheila </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sglover>, Gossett, Jeffrey C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jgosset>, Hanson, Kristen J. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Khanson>, Harrell, Willie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Wharrel>, Hernandez, Nancy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=da146ef4-1a4d43ba-8625699f-6a8bfd>, Ihrig, Chad </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cihrig>, Jacobsen, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jjacobs>, Keiser, Kam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kkeiser>, Lafave, Jill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jlafave>, Lim, Francis S. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Flim>, Lombardi, Kelly </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Klombard>, Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>, Mao, Shari </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=88e7f1eb-491bb312-86256784-588a14>, McLaughlin Jr., Errol </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emclaug>, Prejean, Frank </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Fprejea>, Scales, Patrick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pscales>, Sorenson, Jefferson D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jsorens>, Sweeney, Kevin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ksweene>, Swinney, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jswinne>, Vasan, Sue </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Svasan2>, Venturatos, Steve </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sventur>, Wei, Zhiyong </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Zwei>, Wong, Jeremy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jwong1>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\Calendar
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+All,
+
+Please plan to attend the project status meeting for the ERMT database migration to Oracle 8i, scheduled for July 14.  If you're unable to attend, please send a representative on your behalf.
+
+Thanks & regards,
+
+Karima Husain
+Project Manager, TAGG/ERMS
+(713) 345-7252
+
+From MAILER-DAEMON Mon Apr 18 14:24:01 2022
+Message-ID: <20113877.1075841074157.JavaMail.evans@thyme>
+Date: Mon, 18 Jun 2001 14:38:42 -0700 (PDT)
+From: shirley.mcdowell@enron.com
+To: shirley.mcdowell@enron.com, m..love@enron.com, hal.mckinney@enron.com
+Subject: TRV Freeze column/heading review
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: McDowell, Shirley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SMCDOWEL>
+X-To: McDowell, Shirley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Smcdowel>, Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>, McKinney, Hal </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Hmckinne>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\Calendar
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+We will meet at Phillip's desk to review the TRV freeze request.  Thank you both!  Shirley
+
+From MAILER-DAEMON Mon Apr 18 14:24:01 2022
+Message-ID: <29631096.1075841073982.JavaMail.evans@thyme>
+Date: Tue, 7 Aug 2001 14:23:36 -0700 (PDT)
+From: d..hogan@enron.com
+To: d..hogan@enron.com, elizabeth.soto@enron.com, greg.couch@enron.com,
+	frank.hayden@enron.com, r..gonzales@enron.com,
+	alejandra.chavez@enron.com, kulvinder.fowler@enron.com,
+	maria.garza@enron.com, l..hernandez@enron.com,
+	james.hungerford@enron.com, luchas.johnson@enron.com,
+	kam.keiser@enron.com, r..lilly@enron.com, scott.palmer@enron.com,
+	jeff.royed@enron.com, kimat.singla@enron.com, dan.thibaut@enron.com,
+	yuan.tian@enron.com, melissa.videtto@enron.com, chuck.ames@enron.com,
+	edward.brady@enron.com, jad.doan@enron.com,
+	stephanie.hopkins@enron.com, sladana-anna.kulic@enron.com,
+	m..love@enron.com, bruce.mills@enron.com, patrick.ryder@enron.com,
+	derek.bailey@enron.com, bilal.bajwa@enron.com, amy.cavazos@enron.com,
+	sherry.dawson@enron.com, mog.heu@enron.com, george.huan@enron.com,
+	kori.loibl@enron.com, errol.mclaughlin@enron.com,
+	michelle.nelson@enron.com, matthew.olney@enron.com,
+	sean.riordan@enron.com, joey.taylor@enron.com,
+	laura.vargas@enron.com, david.baumbach@enron.com,
+	michael.green@enron.com, brad.jones@enron.com,
+	jackson.logan@enron.com, stephen.perich@enron.com,
+	binh.pham@enron.com, chance.rabon@enron.com,
+	thomas.underwood@enron.com, d..winfree@enron.com,
+	michelle.akers@enron.com, randy.bhatia@enron.com,
+	anne.bike@enron.com, kristen.clause@enron.com,
+	carole.frank@enron.com, c..giron@enron.com, monte.jones@enron.com,
+	ryan.o'rourke@enron.com, elizabeth.shim@enron.com,
+	a..bowen@enron.com, michael.castillo@enron.com, cathy.de@enron.com,
+	jennifer.lee@enron.com, a..mausser@enron.com,
+	cathy.sprowls@enron.com, theresa.toward@enron.com,
+	john.valdes@enron.com
+Subject: VAR Presentation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Hogan, Irena D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=IHOGAN>
+X-To: Hogan, Irena D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ihogan>, Soto, Elizabeth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Esoto2>, Couch, Greg </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gcouch>, Hayden, Frank </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Fhayden>, Gonzales, Alexander R. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Agonzale>, Chavez, Alejandra </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Achavez2>, Fowler, Kulvinder </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kfowler>, Garza, Maria </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mgarza1>, Hernandez, Elizabeth L. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ehernan>, Hungerford, James </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jhungerf>, Johnson, Luchas </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ljohnso5>, Keiser, Kam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kkeiser>, Lilly, Kyle R. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Klilly>, Palmer, B. Scott </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Spalmer>, Royed, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jroyed>, Singla, Kimat </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ksingla>, Thibaut, Dan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dthibaut>, Tian, Yuan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ytian>, Videtto, Melissa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mvidetto>, Ames, Chuck </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cames>, Brady, Edward </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ebrady>, Doan, Jad </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jdoan>, Hopkins, Stephanie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Shopkin2>, Kulic, Sladana-Anna </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Skulic>, Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>, Mills, Bruce </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bmills>, Ryder, Patrick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pryder>, Bailey, Derek </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dbailey>, Bajwa, Bilal </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bbajwa>, Cavazos, Amy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Acavazos>, Dawson, Sherry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sdawson>, Heu, Mog </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=b5b64a78-ae842218-86256923-734572>, Huan, George </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ghuan>, Loibl, Kori </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kloibl>, McLaughlin Jr., Errol </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emclaug>, Nelson, Michelle </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MNELSON3>, Olney, Matthew </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Molney>, Riordan, Sean </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sriordan>, Taylor, Joey </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jtaylor1>, Vargas, Laura </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lvargas2>, Baumbach, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dbaumba>, Green, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mgreen2>, Jones, Brad </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bjones7>, Logan III, Jackson </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jlogan3>, Perich, Stephen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sperich>, Pham, Binh </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bpham2>, Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Crabon>, Underwood, Thomas </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tunderwo>, Winfree, O'Neal D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Owinfre>, Akers, Michelle </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Makers>, Bhatia, Randy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbhatia>, Bike, Anne </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Abike>, Clause, Kristen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kclause>, Frank, Carole </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cfrank2>, Giron, Darron C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dgiron>, Jones, Monte </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mjones7>, O'Rourke, Ryan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rorourke>, Shim, Elizabeth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Eshim>, Bowen, Melba A. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbowen>, Castillo, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mcastill>, De la torre, Cathy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cdelato>, Lee, Jennifer </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jlee>, Mausser, Gregory A. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gmausse>, Sprowls, Cathy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Csprowl>, Toward, Theresa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ttoward>, Valdes, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jvaldes>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\Calendar
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+Please accept this invitation to the VAR Brown Bag Session, facilitated by Frank Hayden.  Attendance is mandatory and lunch will be provided.
+
+Accepting this invitation, will allow the VAR Brown Bag Session to automatically populate on your individual schedules.
+
+
+Thank you
+
+From MAILER-DAEMON Mon Apr 18 14:24:01 2022
+Message-ID: <14558339.1075841073791.JavaMail.evans@thyme>
+Date: Wed, 30 Jan 2002 12:12:42 -0800 (PST)
+From: keith.considine@enron.com
+To: keith.considine@enron.com, shona.wilson@enron.com, john.arnold@enron.com,
+	c..gossett@enron.com, m..love@enron.com, c..giron@enron.com,
+	kristin.albrecht@enron.com, ed.mcmichael@enron.com
+Subject: Gas Curves - Marks and Updates
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Considine, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KCONSIDI>
+X-To: Considine, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kconsidi>, Wilson, Shona </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Swilson5>, Arnold, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jarnold>, Gossett, Jeffrey C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jgosset>, Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>, Giron, Darron C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dgiron>, Albrecht, Kristin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kalbrec>, McMichael Jr., Ed </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emcmich>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\Calendar
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+Meeting to organize gas curve validations with PwC.
+
+From MAILER-DAEMON Mon Apr 18 14:24:01 2022
+Message-ID: <11012304.1075841074108.JavaMail.evans@thyme>
+Date: Mon, 9 Jul 2001 11:39:12 -0700 (PDT)
+From: m..love@enron.com
+Subject: OA review
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=PLOVE>
+X-To: 
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\Calendar
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+w/ Jillian and Juan
+
+From MAILER-DAEMON Mon Apr 18 14:24:01 2022
+Message-ID: <12656578.1075841073845.JavaMail.evans@thyme>
+Date: Fri, 14 Sep 2001 11:12:35 -0700 (PDT)
+From: deborah.flores@enron.com
+To: deborah.flores@enron.com, s..olinger@enron.com, bryce.baxter@enron.com,
+	scott.dozier@enron.com, megan.parker@enron.com, m..love@enron.com,
+	natalie.baker@enron.com, jim.pond@enron.com, rita.wynne@enron.com,
+	mark.mcclure@enron.com, christopher.spears@enron.com,
+	sherlyn.schumack@enron.com, lisa.kinsey@enron.com,
+	l..schrab@enron.com
+Subject: Consumes Energy
+Cc: m.hall@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: m.hall@enron.com
+X-From: Flores , Deborah </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DFLORES2>
+X-To: Flores , Deborah </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dflores2>, Olinger, Kimberly S. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kolinge>, Baxter, Bryce </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bbaxter>, Dozier, Scott </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sdozier>, Parker, Megan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mparker4>, Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>, Baker, Natalie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Nbaker>, Pond, Jim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jpond>, Wynne, Rita </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rwynne>, Mcclure, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mmcclur>, Spears, Christopher </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cspear2>, Schumack, Sherlyn </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sschuma>, Kinsey, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkinsey>, Schrab, Mark L. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mschrab>
+X-cc: Hall, Bob M </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rhall3>
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\Calendar
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+Please plan to attend the meeting.
+
+Thank You.
+
+Debbie Flores
+Admin. Assistant II
+Rita Wynne/Mark McClure
+ENA/Volume Mgmt.
+WK: 713/345-4197
+Fax: 713/345-7701
+
+From MAILER-DAEMON Mon Apr 18 14:24:01 2022
+Message-ID: <3095259.1075841073819.JavaMail.evans@thyme>
+Date: Thu, 1 Nov 2001 09:45:18 -0800 (PST)
+From: monica.clay@enron.com
+To: monica.clay@enron.com, kam.keiser@enron.com, errol.mclaughlin@enron.com,
+	sanjeev.gupta@enron.com, d..winfree@enron.com, m..love@enron.com,
+	anne.bike@enron.com
+Subject: Updated: Warning Window for the Tagg Deal Entry
+Cc: david.baumbach@enron.com, kristine.best@enron.com, karima.husain@enron.com,
+	s..lim@enron.com, david.gossett@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: david.baumbach@enron.com, kristine.best@enron.com, karima.husain@enron.com,
+	s..lim@enron.com, david.gossett@enron.com
+X-From: Clay, Monica </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MCLAY2>
+X-To: Clay, Monica </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mclay2>, Keiser, Kam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kkeiser>, McLaughlin Jr., Errol </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emclaug>, Gupta, Sanjeev </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sgupta2>, Winfree, O'Neal D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Owinfre>, Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>, Bike, Anne </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Abike>
+X-cc: Baumbach, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dbaumba>, Best, Kristine </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kbest>, Husain, Karima </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Khusain>, Lim, Francis S. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Flim>, Gossett, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dgossett>
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\Calendar
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+The location is EB3269.  Thank you.
+
+This is  a new day and time for this meeting.  Thank you and I apologize for any inconvenience.
+
+Background:  A request was received by the Gas Tactical group that would have implications on the system you use.  The request was to have the existing warning window appear if the trader enters a date that is before the date of the trade.  Knowing that there are times where trades can be back dated we cannot restrict this but to have the trader see a warning window appear to make them double check their dates (if they are for a previous date) would be beneficial to the requestor.  If they know the date is correct they would have the option to continue with the terms.
+
+Often times, due to human error, Book Admins see mistakes made where the trade date is 10/15/01 and the terms are 10/01/01 to 10/31/01.  Because we are in the middle of the month a red flag is being raised with the Book Admins to question this trade.  Often times it is found that it was a mistake.  To date the system will only show a warning window if the trade terms were for 9/01/01 to 9/30/01.
+
+Request Review:  Is it possible to allow the existing warning window to display for a date that is before the trade date (even a day before) and not just for a different month?
+
+Thank you in advance.
+
+Monica Clay
+x 57227
+
+From MAILER-DAEMON Mon Apr 18 14:24:01 2022
+Message-ID: <18722630.1075841073891.JavaMail.evans@thyme>
+Date: Mon, 17 Sep 2001 12:18:16 -0700 (PDT)
+From: rita.wynne@enron.com
+To: rita.wynne@enron.com, s..olinger@enron.com, patti.sullivan@enron.com,
+	sherry.anastas@enron.com, m..love@enron.com,
+	victor.lamadrid@enron.com
+Subject: Updated: Time Change/Imbalance Trade Task Force Mtg.
+Cc: m.hall@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: m.hall@enron.com
+X-From: Wynne, Rita </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RWYNNE>
+X-To: Wynne, Rita </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rwynne>, Olinger, Kimberly S. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kolinge>, Sullivan, Patti </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Psulliv>, Anastas, Sherry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sanasta>, Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>, Lamadrid, Victor </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vlamadr>
+X-cc: Hall, Bob M </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rhall3>
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\Calendar
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+Please plan to attend the meeting.  
+
+Thank You.
+
+Debbie Flores
+Admin. Assistant II
+Rita Wynne/Mark McClure
+ENA/Volume Mgmt.
+WK: 713/345-4197
+Fax: 713/345-7701
+
+From MAILER-DAEMON Mon Apr 18 14:24:01 2022
+Message-ID: <1748661.1075841073954.JavaMail.evans@thyme>
+Date: Thu, 9 Aug 2001 15:47:37 -0700 (PDT)
+From: d..hogan@enron.com
+To: d..hogan@enron.com, kam.keiser@enron.com, m..love@enron.com,
+	anne.bike@enron.com, errol.mclaughlin@enron.com,
+	d..winfree@enron.com, thomas.underwood@enron.com,
+	stephen.perich@enron.com, mog.heu@enron.com, matthew.olney@enron.com,
+	stephanie.hopkins@enron.com, edward.brady@enron.com,
+	michelle.akers@enron.com, melissa.videtto@enron.com
+Subject: Expectations Meeting with Jeffrey Gossett
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Hogan, Irena D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=IHOGAN>
+X-To: Hogan, Irena D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ihogan>, Keiser, Kam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kkeiser>, Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>, Bike, Anne </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Abike>, McLaughlin Jr., Errol </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emclaug>, Winfree, O'Neal D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Owinfre>, Underwood, Thomas </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tunderwo>, Perich, Stephen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sperich>, Heu, Mog </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=b5b64a78-ae842218-86256923-734572>, Olney, Matthew </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Molney>, Hopkins, Stephanie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Shopkin2>, Brady, Edward </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ebrady>, Akers, Michelle </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Makers>, Videtto, Melissa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mvidetto>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\Calendar
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+Jeffrey Gossett would like to meet and welcome all of the new Analyst/Associates, that have recently joined the Risk Management Organization. Jeff will also go over some Expectations for all of you. Please accept this invitation. 
+
+
+Thank you
+
+From MAILER-DAEMON Mon Apr 18 14:24:01 2022
+Message-ID: <28511431.1075841074011.JavaMail.evans@thyme>
+Date: Tue, 7 Aug 2001 12:04:31 -0700 (PDT)
+From: d..hogan@enron.com
+To: d..hogan@enron.com, alejandra.chavez@enron.com, kulvinder.fowler@enron.com,
+	maria.garza@enron.com, l..hernandez@enron.com,
+	james.hungerford@enron.com, luchas.johnson@enron.com,
+	kam.keiser@enron.com, r..lilly@enron.com, scott.palmer@enron.com,
+	jeff.royed@enron.com, kimat.singla@enron.com, dan.thibaut@enron.com,
+	yuan.tian@enron.com, melissa.videtto@enron.com, chuck.ames@enron.com,
+	edward.brady@enron.com, jad.doan@enron.com,
+	stephanie.hopkins@enron.com, sladana-anna.kulic@enron.com,
+	m..love@enron.com, bruce.mills@enron.com, patrick.ryder@enron.com,
+	derek.bailey@enron.com, bilal.bajwa@enron.com, amy.cavazos@enron.com,
+	sherry.dawson@enron.com, mog.heu@enron.com, george.huan@enron.com,
+	kori.loibl@enron.com, errol.mclaughlin@enron.com,
+	michelle.nelson@enron.com, matthew.olney@enron.com,
+	sean.riordan@enron.com, joey.taylor@enron.com,
+	laura.vargas@enron.com, david.baumbach@enron.com,
+	michael.green@enron.com, brad.jones@enron.com,
+	jackson.logan@enron.com, stephen.perich@enron.com,
+	binh.pham@enron.com, chance.rabon@enron.com,
+	thomas.underwood@enron.com, d..winfree@enron.com,
+	michelle.akers@enron.com, randy.bhatia@enron.com,
+	anne.bike@enron.com, kristen.clause@enron.com,
+	carole.frank@enron.com, c..giron@enron.com, monte.jones@enron.com,
+	ryan.o'rourke@enron.com, elizabeth.shim@enron.com
+Subject: Bid Week Procedure Meeting
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Hogan, Irena D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=IHOGAN>
+X-To: Hogan, Irena D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ihogan>, Chavez, Alejandra </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Achavez2>, Fowler, Kulvinder </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kfowler>, Garza, Maria </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mgarza1>, Hernandez, Elizabeth L. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ehernan>, Hungerford, James </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jhungerf>, Johnson, Luchas </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ljohnso5>, Keiser, Kam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kkeiser>, Lilly, Kyle R. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Klilly>, Palmer, B. Scott </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Spalmer>, Royed, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jroyed>, Singla, Kimat </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ksingla>, Thibaut, Dan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dthibaut>, Tian, Yuan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ytian>, Videtto, Melissa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mvidetto>, Ames, Chuck </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cames>, Brady, Edward </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ebrady>, Doan, Jad </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jdoan>, Hopkins, Stephanie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Shopkin2>, Kulic, Sladana-Anna </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Skulic>, Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>, Mills, Bruce </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bmills>, Ryder, Patrick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pryder>, Bailey, Derek </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dbailey>, Bajwa, Bilal </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bbajwa>, Cavazos, Amy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Acavazos>, Dawson, Sherry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sdawson>, Heu, Mog </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=b5b64a78-ae842218-86256923-734572>, Huan, George </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ghuan>, Loibl, Kori </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kloibl>, McLaughlin Jr., Errol </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emclaug>, Nelson, Michelle </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MNELSON3>, Olney, Matthew </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Molney>, Riordan, Sean </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sriordan>, Taylor, Joey </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jtaylor1>, Vargas, Laura </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lvargas2>, Baumbach, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dbaumba>, Green, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mgreen2>, Jones, Brad </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bjones7>, Logan III, Jackson </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jlogan3>, Perich, Stephen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sperich>, Pham, Binh </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bpham2>, Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Crabon>, Underwood, Thomas </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tunderwo>, Winfree, O'Neal D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Owinfre>, Akers, Michelle </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Makers>, Bhatia, Randy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbhatia>, Bike, Anne </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Abike>, Clause, Kristen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kclause>, Frank, Carole </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cfrank2>, Giron, Darron C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dgiron>, Jones, Monte </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mjones7>, O'Rourke, Ryan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rorourke>, Shim, Elizabeth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Eshim>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\Calendar
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+Please accept this invitation to the Bid Week Procedure Meeting, it will automatically populate into your Outlook schedule. This meeting will be facilitated by the management team.  Attendance is mandatory and lunch will be provided.
+
+
+Thank you
+
+From MAILER-DAEMON Mon Apr 18 14:24:01 2022
+Message-ID: <792879.1075841074034.JavaMail.evans@thyme>
+Date: Tue, 7 Aug 2001 08:19:53 -0700 (PDT)
+From: geraldine.irvine@enron.com
+To: geraldine.irvine@enron.com, m..love@enron.com
+Subject: KCS Meeting
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Irvine, Geraldine </O=ENRON/OU=NA/CN=RECIPIENTS/CN=GIRVINE>
+X-To: Irvine, Geraldine </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Girvine>, Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\Calendar
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+Sorry, Phillip - this memo was sent to Phillip Lord in error.
+
+-----Original Appointment-----
+From: 	Irvine, Geraldine  
+Sent:	Tuesday, August 07, 2001 9:10 AM
+To:	Diamond, Russell; Keiser, Kam; Palmer, B. Scott; McLaughlin Jr., Errol; Lord, Phillip D.; Boyt, Eric
+Subject:	KCS Insurance Wrap Meeting
+When:	Tuesday, August 07, 2001 1:00 PM-2:00 PM (GMT-06:00) Central Time (US & Canada).
+Where:	EB-3259
+
+Please plan to attend the following meeting:
+
+	SUBJECT:	KCS Insurance Wrap
+
+	DATE:     	Tue., Aug. 7, 2001
+
+	TIME:       	1:00 - 2:00 p.m.
+
+	LOCATION:	EB-3259
+
+Any questions, contact Eric Boyt at Ext. 5-7754
+
+From MAILER-DAEMON Mon Apr 18 14:24:01 2022
+Message-ID: <31344459.1075841073926.JavaMail.evans@thyme>
+Date: Wed, 12 Sep 2001 06:46:57 -0700 (PDT)
+From: deborah.flores@enron.com
+To: deborah.flores@enron.com, ryan.keith@enron.com, natalie.baker@enron.com,
+	sherlyn.schumack@enron.com, s..olinger@enron.com, jim.pond@enron.com,
+	lisa.kinsey@enron.com, l..schrab@enron.com, rita.wynne@enron.com,
+	mark.mcclure@enron.com, christopher.spears@enron.com,
+	m..love@enron.com
+Subject: Updated: Rescheduled for Thursday/Union Storage
+Cc: m.hall@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: m.hall@enron.com
+X-From: Flores , Deborah </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DFLORES2>
+X-To: Flores , Deborah </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dflores2>, Keith, Ryan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rkeith>, Baker, Natalie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Nbaker>, Schumack, Sherlyn </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sschuma>, Olinger, Kimberly S. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kolinge>, Pond, Jim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jpond>, Kinsey, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkinsey>, Schrab, Mark L. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mschrab>, Wynne, Rita </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rwynne>, Mcclure, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mmcclur>, Spears, Christopher </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cspear2>, Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>
+X-cc: Hall, Bob M </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rhall3>
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\Calendar
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+Please plan to attend the meeting.
+
+Thank You.
+
+Debbie Flores
+Admin. Assistant II
+Rita Wynne/Mark McClure
+ENA/Volume Mgmt.
+WK: 713/345-4197
+Fax: 713/345-7701
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:24:01 2022
+Message-ID: <9156401.1075841074083.JavaMail.evans@thyme>
+Date: Tue, 31 Jul 2001 12:58:01 -0700 (PDT)
+From: jacqueline.richard@enron.com
+To: jacqueline.richard@enron.com, errol.mclaughlin@enron.com, m..love@enron.com,
+	d..winfree@enron.com, kam.keiser@enron.com, david.baumbach@enron.com,
+	anne.bike@enron.com, d..hogan@enron.com
+Subject: In person interview Ken Williams - Req. # 109729 - Risk Management
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Richard, Jacqueline </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JRICHAR4>
+X-To: Richard, Jacqueline </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jrichar4>, McLaughlin Jr., Errol </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emclaug>, Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>, Winfree, O'Neal D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Owinfre>, Keiser, Kam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kkeiser>, Baumbach, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dbaumba>, Bike, Anne </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Abike>, Hogan, Irena D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ihogan>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\Calendar
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+Please disregard previous email with proposed times.  The schedule for this interview will be as follows:
+
+P. Love and O. Winfree	9:00 - 9:30
+K. Keiser and D. Baumbach	9:30 - 10:00
+A. Bike and E. McLaughlin	10:00 - 10:30
+
+Conference Room remains EB3663.  Irena has  reserved these times on your calendars.  Thanks!
+
+ -----Original Appointment-----
+From: 	Richard, Jacqueline  
+Sent:	Tuesday, July 31, 2001 12:15 PM
+To:	Baumbach, David
+Subject:	In person interview (candidate lives out of town) - Req. # 109729 - Risk Management
+When:	Monday, August 06, 2001 10:00 AM-10:30 AM (GMT-06:00) Central Time (US & Canada).
+Where:	EB 3663
+
+Interviewers will include:
+
+
+Erroll McLaughlin 		8:30 - 9:00
+Phillip Love			9:00 - 9:30
+O'Neal Winfree		9:30 - 10:00
+Dave Baumbach		10:00 - 10:30
+Kam Keiser			10:30 - 11:00	
+
+Resume will be included in final interview schedule.  Thanks!
+
+
+ps - this candidate is meeting with a group directly following your meetings.  
+
+From MAILER-DAEMON Mon Apr 18 14:24:01 2022
+Message-ID: <4815996.1075841074059.JavaMail.evans@thyme>
+Date: Mon, 6 Aug 2001 12:12:37 -0700 (PDT)
+From: vanessa.berrios@enron.com
+To: vanessa.berrios@enron.com, matt.pena@enron.com, david.baumbach@enron.com,
+	natasha.davis@enron.com, c..giron@enron.com, kam.keiser@enron.com,
+	lisa.koerselman@enron.com, m..love@enron.com, jim.pond@enron.com,
+	christopher.spears@enron.com, greg.whiting@enron.com,
+	john.valdes@enron.com, connie.lo@enron.com, sherry.anastas@enron.com,
+	karen.lindley@enron.com, stephen.swisher@enron.com,
+	milton.bolanos@enron.com, scott.palmer@enron.com
+Subject: Storage Valuation Meeting
+Cc: grace.taylor@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: grace.taylor@enron.com
+X-From: Berrios, Vanessa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=VBERRIOS>
+X-To: Berrios, Vanessa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vberrios>, Pena, Matt </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mpena2>, Baumbach, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dbaumba>, Davis, Natasha </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ndavis3>, Giron, Darron C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dgiron>, Keiser, Kam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kkeiser>, Koerselman, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkoersel>, Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>, Pond, Jim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jpond>, Spears, Christopher </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cspear2>, Whiting, Greg </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gwhitin>, Valdes, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jvaldes>, Lo, Connie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Clo>, Anastas, Sherry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sanasta>, Lindley, Karen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Klindle>, Swisher, Stephen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sswisher>, Bolanos, Milton </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbolanos>, Palmer, B. Scott </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Spalmer>
+X-cc: Taylor, Grace </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gtaylor5>
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\Calendar
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+Please plan on attending meeting to discuss Storage Valuation, on:
+
+Date:    Wednesday August 15, 2001
+Time:     3:00pm - 4:00pm
+Place:    EB32c2
+
+Thank You,
+Vanessa Berrios
+Administrative Assistant 
+for Rita Wynne & Mark McClure
+(713)345-4197
+

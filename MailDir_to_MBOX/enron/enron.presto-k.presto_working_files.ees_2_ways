@@ -1,0 +1,562 @@
+From MAILER-DAEMON Mon Apr 18 14:26:19 2022
+Message-ID: <9362270.1075849736933.JavaMail.evans@thyme>
+Date: Wed, 17 Jan 2001 01:14:00 -0800 (PST)
+From: peter.makkai@enron.com
+To: kevin.presto@enron.com
+Subject: EES Bid/Offer Spread, updated 01/17/01
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Peter Makkai
+X-To: Kevin M Presto
+X-cc: 
+X-bcc: 
+X-Folder: \Kevin_Presto_Nov2001\Notes Folders\Presto working files\Ees 2-ways
+X-Origin: PRESTO-K
+X-FileName: kpresto.nsf
+
+Kevin,
+
+Attached are the EES Bid/Offer spreads that have been updated to reflect East 
+Power's changes as of 1/17/01.
+
+Peter
+
+
+
+
+
+   
+	
+	
+	From:  Kevin M Presto @ ECT                           01/17/2001 07:17 AM
+	
+
+To: Peter Makkai/NA/Enron@Enron
+cc:  
+
+Subject: Latest Proposal - EES Bid/Offer Spreads
+
+After I get handwritten changes from desk heads, please re-create our version 
+of the EES 2-ways (combine on-peak and off-peak pages) for my review and then 
+we will send to EES via e-mail.
+---------------------- Forwarded by Kevin M Presto/HOU/ECT on 01/17/2001 
+07:16 AM ---------------------------
+From: Paula Warren@EES on 01/16/2001 05:01 PM
+To: Kevin M Presto/HOU/ECT@ECT
+cc: dblack@enron.com 
+Subject: Latest Proposal - EES Bid/Offer Spreads
+
+Kevin:
+
+ As per Don's request, I have attached the spreadsheet with the latest 
+proposal for EES bid/offer spreads.  Thanks--Paula
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:19 2022
+Message-ID: <4278094.1075841437857.JavaMail.evans@thyme>
+Date: Wed, 9 May 2001 20:25:00 -0700 (PDT)
+From: misty.barrett@enron.com
+To: rogers.herndon@enron.com, don.black@enron.com, tim.belden@enron.com,
+	kevin.presto@enron.com, vladimir.gorny@enron.com,
+	wes.colwell@enron.com, berney.aucoin@enron.com
+Subject: Re: Questionnaire
+Cc: wade.stubblefield@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: wade.stubblefield@enron.com
+X-From: Misty Barrett <Misty Barrett/HOU/EES@EES>
+X-To: Rogers Herndon <Rogers Herndon/HOU/ECT@ect>, Don Black <Don Black/HOU/EES@EES>, Tim Belden <Tim Belden/Enron@EnronXGate>, Kevin M Presto <Kevin M Presto/HOU/ECT@ECT>, Vladimir Gorny <Vladimir Gorny/Enron@EnronXGate>, Wes Colwell <Wes Colwell/Enron@EnronXGate>, Berney C Aucoin <Berney C Aucoin/HOU/ECT@ECT>
+X-cc: Wade Stubblefield <Wade Stubblefield/HOU/EES@EES>
+X-bcc: 
+X-Folder: \ExMerge - Presto, Kevin M.\Presto Working Files\EES 2-Ways
+X-Origin: PRESTO-K
+X-FileName: kevin presto 2-7-02.pst
+
+As requested below, attached is the contract review questionnaire:
+
+ 
+
+
+
+
+
+
+Wade Stubblefield
+05/09/2001 04:31 PM
+To:	Misty Barrett/HOU/EES@EES
+cc:	Rogers Herndon/HOU/ECT@ect, Don Black/HOU/EES@EES, Tim Belden/Enron@EnronXGate, Kevin M Presto/HOU/ECT@ECT, Vladimir Gorny/Enron@EnronXGate, Wes Colwell/Enron@EnronXGate, Berney C Aucoin/HOU/ECT@ECT 
+Subject:	Questionnaire
+
+Misty,
+
+Can you please send the cc'd individuals above the complete contract review questionnaire for their review and information.
+
+Also, can you have a brief (15-30 minute) meeting set up with Berney Aucoin and Vladimir Gorny to walk through the database functionality as it exists today.  It will probably be several weeks before that aspect of the project if more fully addressed, but I want them to at least be familiar with where we are today and what additional questions we might have about functionality.  You should probably make sure that the IT programmer is present at the meeting.
+
+Thanks
+
+Wade 
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:19 2022
+Message-ID: <14164010.1075849736790.JavaMail.evans@thyme>
+Date: Thu, 10 May 2001 12:42:00 -0700 (PDT)
+From: vladimir.gorny@enron.com
+To: kevin.presto@enron.com, rogers.herndon@enron.com, tim.belden@enron.com,
+	don.black@enron.com
+Subject: EES Matters
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Vladimir Gorny
+X-To: Kevin M Presto, Rogers Herndon, Tim Belden, Don Black
+X-cc: 
+X-bcc: 
+X-Folder: \Kevin_Presto_Nov2001\Notes Folders\Presto working files\Ees 2-ways
+X-Origin: PRESTO-K
+X-FileName: kpresto.nsf
+
+Since I did not get a chance to meet with you yesterday, I would like to lay 
+out a few thoughts in this email:
+
+1. Additional areas that might require immediate attention:
+
+? Consider existing "Bets" and large positions already in the books and ways 
+of adjusting these bets, if necessary (excluding CA):
+  - NY: large short positions behind Central Hudson and ConEd (IBM deal and 
+others)
+  - Carolinas: Standard Offer timing (Springs, Eli Lily, others)
+  - Illinois: concentration of short regulated positions
+
+? Quick handle on option positions: do we need to switch customers in some 
+areas? what options we ought to exercise tomorrow? next week? etc.
+  - options embedded in the deals
+  - regulatory switch options
+  - retail index options
+  - EAM options
+
+? Managing value from restructuring legacy deals: in the process of reviewing 
+the 13 deals, we discovered some provisions in the contracts that were not 
+captured and managed properly - they might require immediate attention to 
+minimize losses in these deals.
+
+2. Managing Regulatory Exposure
+
+? Approximately 80% of EES regulatory exposure is behind 40 utilities
+? In the process of rate case decomposition, we need to identify the main 
+components of each rate structure - create a rate case formula
+? These components will fall into two categories: hedgeable (gas, coal, 
+heating oil fuel costs, inflation, etc.) and "unhedgeable" (CTC timing, 
+standard offer, etc.)
+
+  Hedgeable Component      Unhedgeable Component
+Strategy: Manage within the respective commodity books   Capitalize on 
+portfolio diversification across the country
+          Look for "macro" hedges and focus activities of EGA
+
+Pricing:  You know best       Risk-based: higher premiums for greater 
+uncertainty
+
+Policy:  Internal authorizations only on who, how and when to hedge Develop a 
+limit framework and propose a limit to the BOD
+
+Exposure: Existing VaR model will suffice     Develop and implement stress 
+scenarios to quantify exposure
+
+3. Other Considerations
+
+? Curve management: clear responsibilities, periodic review and validation
+? Interaction with the EAM world: EAM projects create long positions, pricing 
+bundled deals with an EAM component
+? Flash-to-actual catch up: liquidations validate curve assumptions
+? Attention to EES-Canada: currently executed a power deal and a few gas deals
+? Process for pricing smaller mid-market deals: sacrificing quantity for 
+quality - force originators to develop standard deal structures
+
+I could elaborate further on these points. Vlady.
+
+From MAILER-DAEMON Mon Apr 18 14:26:19 2022
+Message-ID: <31051044.1075841437781.JavaMail.evans@thyme>
+Date: Tue, 22 May 2001 14:48:00 -0700 (PDT)
+From: wade.stubblefield@enron.com
+To: don.black@enron.com, james.lewis@enron.com, rogers.herndon@enron.com,
+	meredith.eggleston@enron.com, scott.mills@enron.com,
+	vladimir.gorny@enron.com, kevin.presto@enron.com,
+	tim.belden@enron.com, berney.aucoin@enron.com
+Subject: Contract Review and Rebooking Teams
+Cc: misty.barrett@enron.com, kim.harris@enron.com, wes.colwell@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: misty.barrett@enron.com, kim.harris@enron.com, wes.colwell@enron.com
+X-From: Wade Stubblefield <Wade Stubblefield/HOU/EES@EES>
+X-To: Don Black <Don Black/HOU/EES@EES>, James W Lewis <James W Lewis/HOU/EES@EES>, Rogers Herndon <Rogers Herndon/HOU/ECT@ect>, Meredith M Eggleston <Meredith M Eggleston/HOU/EES@EES>, Scott Mills <Scott Mills/HOU/EES@EES>, Vladimir Gorny <Vladimir Gorny/Enron@EnronXGate>, Kevin M Presto <Kevin M Presto/HOU/ECT@ECT>, Tim Belden <Tim Belden/Enron@EnronXGate>, Berney C Aucoin <Berney C Aucoin/Enron@EnronXGate>
+X-cc: Misty Barrett <Misty Barrett/HOU/EES@EES>, Kim Harris <Kim Harris/HOU/EES@EES>, Wes Colwell <Wes Colwell/Enron@EnronXGate>
+X-bcc: 
+X-Folder: \ExMerge - Presto, Kevin M.\Presto Working Files\EES 2-Ways
+X-Origin: PRESTO-K
+X-FileName: kevin presto 2-7-02.pst
+
+Recapped below is the latest list of team participants based on the feedback provided.  I highlighted those that attended the kick-off meeting today.  Are the others still to be contacted, or is this the complete team?
+
+There was some discussion at the meeting as to whether we needed to move these people to a separate cost center.  Berney is following up, but in the meantime I will get one set up as part of Don and Rogers' organization moves and we can populate it later if we want to.
+
+Thanks
+
+Wade
+
+From MAILER-DAEMON Mon Apr 18 14:26:19 2022
+Message-ID: <21735970.1075849736910.JavaMail.evans@thyme>
+Date: Wed, 17 Jan 2001 01:51:00 -0800 (PST)
+From: kevin.presto@enron.com
+To: dblack@enron.com
+Subject: EES Bid/Offer Spread, updated 01/17/01
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Kevin M Presto
+X-To: dblack@enron.com
+X-cc: 
+X-bcc: 
+X-Folder: \Kevin_Presto_Nov2001\Notes Folders\Presto working files\Ees 2-ways
+X-Origin: PRESTO-K
+X-FileName: kpresto.nsf
+
+Below are the EPMI proposed bid/offer spreads for EES.   These are very 
+aggressive markets given the liquidity issues and regulatory uncertainty that 
+still exist in the Eastern Interconnect.   There are no other counterparties 
+in the market that will consistently make the proposed 2-ways.
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:19 2022
+Message-ID: <10711239.1075841437832.JavaMail.evans@thyme>
+Date: Thu, 10 May 2001 13:57:00 -0700 (PDT)
+From: wade.stubblefield@enron.com
+To: rogers.herndon@enron.com, meredith.eggleston@enron.com, don.black@enron.com,
+	vladimir.gorny@enron.com, kevin.presto@enron.com,
+	tim.belden@enron.com, berney.aucoin@enron.com, scott.mills@enron.com
+Subject: Project Teams
+Cc: wes.colwell@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: wes.colwell@enron.com
+X-From: Wade Stubblefield <Wade Stubblefield/HOU/EES@EES>
+X-To: Rogers Herndon <Rogers Herndon/HOU/ECT@ect>, Meredith M Eggleston <Meredith M Eggleston/HOU/EES@EES>, Don Black <Don Black/HOU/EES@EES>, Vladimir Gorny <Vladimir Gorny/Enron@EnronXGate>, Kevin M Presto <Kevin M Presto/HOU/ECT@ECT>, Tim Belden <Tim Belden/Enron@EnronXGate>, Berney C Aucoin <Berney C Aucoin/HOU/ECT@ECT>, Scott Mills <Scott Mills/HOU/EES@EES>
+X-cc: Wes Colwell <Wes Colwell/Enron@EnronXGate>
+X-bcc: 
+X-Folder: \ExMerge - Presto, Kevin M.\Presto Working Files\EES 2-Ways
+X-Origin: PRESTO-K
+X-FileName: kevin presto 2-7-02.pst
+
+Detailed below are the project teams identified in yesterday's meeting.  We would like to run these by Greg asap to begin pulling them together and wanted to run this current list by each of you.  We specifically wanted to make sure that you felt we would only be requiring Greg to go get Deirdre, Heather, Jim and Kristen from other business units.
+
+Please let us know by the end of today if you have any additions or deletions to this list.
+
+Thanks
+
+Wade
+
+From MAILER-DAEMON Mon Apr 18 14:26:19 2022
+Message-ID: <2831611.1075841437806.JavaMail.evans@thyme>
+Date: Thu, 10 May 2001 22:42:00 -0700 (PDT)
+From: vladimir.gorny@enron.com
+To: kevin.presto@enron.com, rogers.herndon@enron.com, tim.belden@enron.com,
+	don.black@enron.com
+Subject: EES Matters
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Vladimir Gorny <Vladimir Gorny/ENRON@enronXgate@ENRON>
+X-To: Kevin M Presto <Kevin M Presto/HOU/ECT@ECT>, Rogers Herndon <Rogers Herndon/HOU/ECT@ect>, Tim Belden <Tim Belden/ENRON@enronXgate>, Don Black <Don Black/HOU/EES@EES>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Presto, Kevin M.\Presto Working Files\EES 2-Ways
+X-Origin: PRESTO-K
+X-FileName: kevin presto 2-7-02.pst
+
+Since I did not get a chance to meet with you yesterday, I would like to lay out a few thoughts in this email:
+
+1. Additional areas that might require immediate attention:
+
+?	Consider existing "Bets" and large positions already in the books and ways of adjusting these bets, if necessary (excluding CA):
+		- NY: large short positions behind Central Hudson and ConEd (IBM deal and others)
+		- Carolinas: Standard Offer timing (Springs, Eli Lily, others)
+		- Illinois: concentration of short regulated positions
+
+?	Quick handle on option positions: do we need to switch customers in some areas? what options we ought to exercise tomorrow? next week? etc.
+		- options embedded in the deals
+		- regulatory switch options
+		- retail index options
+		- EAM options
+
+?	Managing value from restructuring legacy deals: in the process of reviewing the 13 deals, we discovered some provisions in the contracts that were not captured and managed properly - they might require immediate attention to minimize losses in these deals.
+
+2. Managing Regulatory Exposure
+
+?	Approximately 80% of EES regulatory exposure is behind 40 utilities
+?	In the process of rate case decomposition, we need to identify the main components of each rate structure - create a rate case formula
+?	These components will fall into two categories: hedgeable (gas, coal, heating oil fuel costs, inflation, etc.) and "unhedgeable" (CTC timing, standard offer, etc.)
+
+		Hedgeable Component						Unhedgeable Component
+Strategy:	Manage within the respective commodity books			Capitalize on portfolio diversification across the country
+										Look for "macro" hedges and focus activities of EGA
+
+Pricing:		You know best							Risk-based: higher premiums for greater uncertainty
+
+Policy:		Internal authorizations only on who, how and when to hedge	Develop a limit framework and propose a limit to the BOD
+
+Exposure:	Existing VaR model will suffice					Develop and implement stress scenarios to quantify exposure
+
+3. Other Considerations
+
+?	Curve management: clear responsibilities, periodic review and validation
+?	Interaction with the EAM world: EAM projects create long positions, pricing bundled deals with an EAM component
+?	Flash-to-actual catch up: liquidations validate curve assumptions
+?	Attention to EES-Canada: currently executed a power deal and a few gas deals
+?	Process for pricing smaller mid-market deals: sacrificing quantity for quality - force originators to develop standard deal structures
+
+I could elaborate further on these points. Vlady.
+
+From MAILER-DAEMON Mon Apr 18 14:26:19 2022
+Message-ID: <28336749.1075841437880.JavaMail.evans@thyme>
+Date: Wed, 2 May 2001 17:11:00 -0700 (PDT)
+From: warren.prihoda@enron.com
+To: kevin.presto@enron.com
+Subject: East Position Report - 4/30/01
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Warren Prihoda <Warren Prihoda/HOU/EES@EES>
+X-To: Kevin M Presto <Kevin M Presto/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Presto, Kevin M.\Presto Working Files\EES 2-Ways
+X-Origin: PRESTO-K
+X-FileName: kevin presto 2-7-02.pst
+
+Per Don Black's request, attached is the East Position Report as of 4/30/01.  We are also delivering hard copies of this report to you.  If you have any questions, please let me know.  Thanks.
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:26:19 2022
+Message-ID: <14131756.1075849736750.JavaMail.evans@thyme>
+Date: Tue, 22 May 2001 04:48:00 -0700 (PDT)
+From: wade.stubblefield@enron.com
+To: don.black@enron.com, james.lewis@enron.com, rogers.herndon@enron.com,
+	meredith.eggleston@enron.com, scott.mills@enron.com,
+	vladimir.gorny@enron.com, kevin.presto@enron.com,
+	tim.belden@enron.com, berney.aucoin@enron.com
+Subject: Contract Review and Rebooking Teams
+Cc: misty.barrett@enron.com, kim.harris@enron.com, wes.colwell@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: misty.barrett@enron.com, kim.harris@enron.com, wes.colwell@enron.com
+X-From: Wade Stubblefield
+X-To: Don Black, James W Lewis, Rogers Herndon, Meredith M Eggleston, Scott Mills, Vladimir Gorny, Kevin M Presto, Tim Belden, Berney C Aucoin
+X-cc: Misty Barrett, Kim Harris, Wes Colwell
+X-bcc: 
+X-Folder: \Kevin_Presto_Nov2001\Notes Folders\Presto working files\Ees 2-ways
+X-Origin: PRESTO-K
+X-FileName: kpresto.nsf
+
+Recapped below is the latest list of team participants based on the feedback 
+provided.  I highlighted those that attended the kick-off meeting today.  Are 
+the others still to be contacted, or is this the complete team?
+
+There was some discussion at the meeting as to whether we needed to move 
+these people to a separate cost center.  Berney is following up, but in the 
+meantime I will get one set up as part of Don and Rogers' organization moves 
+and we can populate it later if we want to.
+
+Thanks
+
+Wade
+
+From MAILER-DAEMON Mon Apr 18 14:26:19 2022
+Message-ID: <19391854.1075849736814.JavaMail.evans@thyme>
+Date: Thu, 10 May 2001 03:57:00 -0700 (PDT)
+From: wade.stubblefield@enron.com
+To: rogers.herndon@enron.com, meredith.eggleston@enron.com, don.black@enron.com,
+	vladimir.gorny@enron.com, kevin.presto@enron.com,
+	tim.belden@enron.com, berney.aucoin@enron.com, scott.mills@enron.com
+Subject: Project Teams
+Cc: wes.colwell@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: wes.colwell@enron.com
+X-From: Wade Stubblefield
+X-To: Rogers Herndon, Meredith M Eggleston, Don Black, Vladimir Gorny, Kevin M Presto, Tim Belden, Berney C Aucoin, Scott Mills
+X-cc: Wes Colwell
+X-bcc: 
+X-Folder: \Kevin_Presto_Nov2001\Notes Folders\Presto working files\Ees 2-ways
+X-Origin: PRESTO-K
+X-FileName: kpresto.nsf
+
+Detailed below are the project teams identified in yesterday's meeting.  We 
+would like to run these by Greg asap to begin pulling them together and 
+wanted to run this current list by each of you.  We specifically wanted to 
+make sure that you felt we would only be requiring Greg to go get Deirdre, 
+Heather, Jim and Kristen from other business units.
+
+Please let us know by the end of today if you have any additions or deletions 
+to this list.
+
+Thanks
+
+Wade
+
+From MAILER-DAEMON Mon Apr 18 14:26:19 2022
+Message-ID: <4702818.1075849736844.JavaMail.evans@thyme>
+Date: Wed, 9 May 2001 10:25:00 -0700 (PDT)
+From: misty.barrett@enron.com
+To: rogers.herndon@enron.com, don.black@enron.com, tim.belden@enron.com,
+	kevin.presto@enron.com, vladimir.gorny@enron.com,
+	wes.colwell@enron.com, berney.aucoin@enron.com
+Subject: Re: Questionnaire
+Cc: wade.stubblefield@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: wade.stubblefield@enron.com
+X-From: Misty Barrett
+X-To: Rogers Herndon, Don Black, Tim Belden, Kevin M Presto, Vladimir Gorny, Wes Colwell, Berney C Aucoin
+X-cc: Wade Stubblefield
+X-bcc: 
+X-Folder: \Kevin_Presto_Nov2001\Notes Folders\Presto working files\Ees 2-ways
+X-Origin: PRESTO-K
+X-FileName: kpresto.nsf
+
+As requested below, attached is the contract review questionnaire:
+
+
+
+
+
+
+
+
+Wade Stubblefield
+05/09/2001 04:31 PM
+To: Misty Barrett/HOU/EES@EES
+cc: Rogers Herndon/HOU/ECT@ect, Don Black/HOU/EES@EES, Tim 
+Belden/Enron@EnronXGate, Kevin M Presto/HOU/ECT@ECT, Vladimir 
+Gorny/Enron@EnronXGate, Wes Colwell/Enron@EnronXGate, Berney C 
+Aucoin/HOU/ECT@ECT 
+Subject: Questionnaire
+
+Misty,
+
+Can you please send the cc'd individuals above the complete contract review 
+questionnaire for their review and information.
+
+Also, can you have a brief (15-30 minute) meeting set up with Berney Aucoin 
+and Vladimir Gorny to walk through the database functionality as it exists 
+today.  It will probably be several weeks before that aspect of the project 
+if more fully addressed, but I want them to at least be familiar with where 
+we are today and what additional questions we might have about 
+functionality.  You should probably make sure that the IT programmer is 
+present at the meeting.
+
+Thanks
+
+Wade 
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:19 2022
+Message-ID: <17690965.1075841437904.JavaMail.evans@thyme>
+Date: Mon, 30 Apr 2001 13:10:00 -0700 (PDT)
+From: tim.belden@enron.com
+To: kevin.presto@enron.com
+Subject: Re:
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Tim Belden <Tim Belden/HOU/ECT@ECT>
+X-To: Kevin M Presto <Kevin M Presto/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Presto, Kevin M.\Presto Working Files\EES 2-Ways
+X-Origin: PRESTO-K
+X-FileName: kevin presto 2-7-02.pst
+
+  
+
+
+   
+
+	Enron Capital & Trade Resources Corp.  From:  Kevin M Presto                           04/30/2001 08:18 AM	
+		
+
+
+To:	Tim Belden/HOU/ECT@ECT
+cc:	 
+Subject:	
+
+Can you send me another copy of the pros/cons matrix and the function descriptions.
+
+Thanks.
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:19 2022
+Message-ID: <32228082.1075849736888.JavaMail.evans@thyme>
+Date: Mon, 30 Apr 2001 01:10:00 -0700 (PDT)
+From: tim.belden@enron.com
+To: kevin.presto@enron.com
+Subject: Re:
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Tim Belden
+X-To: Kevin M Presto
+X-cc: 
+X-bcc: 
+X-Folder: \Kevin_Presto_Nov2001\Notes Folders\Presto working files\Ees 2-ways
+X-Origin: PRESTO-K
+X-FileName: kpresto.nsf
+
+   
+	Enron Capital & Trade Resources Corp.
+	
+	From:  Kevin M Presto                           04/30/2001 08:18 AM
+	
+
+To: Tim Belden/HOU/ECT@ECT
+cc:  
+Subject: 
+
+Can you send me another copy of the pros/cons matrix and the function 
+descriptions.
+
+Thanks.
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:19 2022
+Message-ID: <19577166.1075849736866.JavaMail.evans@thyme>
+Date: Wed, 2 May 2001 07:11:00 -0700 (PDT)
+From: warren.prihoda@enron.com
+To: kevin.presto@enron.com
+Subject: East Position Report - 4/30/01
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Warren Prihoda
+X-To: Kevin M Presto
+X-cc: 
+X-bcc: 
+X-Folder: \Kevin_Presto_Nov2001\Notes Folders\Presto working files\Ees 2-ways
+X-Origin: PRESTO-K
+X-FileName: kpresto.nsf
+
+Per Don Black's request, attached is the East Position Report as of 4/30/01.  
+We are also delivering hard copies of this report to you.  If you have any 
+questions, please let me know.  Thanks.
+

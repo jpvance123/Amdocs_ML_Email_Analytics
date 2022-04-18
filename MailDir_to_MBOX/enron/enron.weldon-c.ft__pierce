@@ -1,0 +1,3492 @@
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <6977581.1075841977480.JavaMail.evans@thyme>
+Date: Tue, 1 May 2001 18:02:00 -0700 (PDT)
+From: v.weldon@enron.com
+To: david.fairley@enron.com, mathew.gimble@enron.com, edith.cross@enron.com,
+	jennifer.bagwell@enron.com, ruth.concannon@enron.com
+Subject: Ft. Pierce Gas Capacity Assumptions
+Cc: eric.boyt@enron.com, ed.mcmichael@enron.com, mark.breese@enron.com,
+	v.weldon@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: eric.boyt@enron.com, ed.mcmichael@enron.com, mark.breese@enron.com,
+	v.weldon@enron.com
+X-From: V Charles Weldon
+X-To: David Fairley <David Fairley/Enron@EnronXGate>, Mathew Gimble <Mathew Gimble/HOU/ECT@ECT>, Edith Cross <Edith Cross/HOU/ECT@ECT>, Jennifer Bagwell <Jennifer Bagwell/Enron@EnronXGate>, Ruth Concannon <Ruth Concannon/HOU/ECT@ECT>
+X-cc: Eric Boyt <Eric Boyt/Corp/Enron@Enron>, Ed McMichael <Ed McMichael/HOU/ECT@ECT>, Mark Breese <Mark Breese/HOU/ECT@ECT>, V Charles Weldon <V Charles Weldon/HOU/ECT@ECT>
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+The following basic assumptions concerning gas capacity requirements for the Fort Pierce project were confirmed today at a meeting attended by Dave Fairley, Ed McMichael, Ruth Concannon, Mark Breese, Eric Boyt, and Charlie Weldon.   (NOTE:  The heat rates and MW are subject to change pending final engineering evaluation.  The intent of this note is to document the overall runtime assumptions.)
+
+1) During the summertime months of May through September, the plant is expected to run 16 hours per day in a mode where  Enron's 200 MW are dispatched as are Ft. Pierce's 82MW.
+
+2)  Enron will purchase summertime capacity only sufficient to allow running 200 MW for 16 hours per day at our "bought-down" heat rate of 6690.  This equals 22,300 MMBTU/day and will allow for taking the full daily capacity in only a 16 hour period (6% per hour)  The table below summarizes the monthly capacity requirements:
+
+
+
+   MONTH	Total Capacity Needed By Enron	Ft. Pierce Capacity (from FGU)	Phase VI Capacity 	Capacity From East Desk	
+May	22,300	0	22,300	0	
+June	22,300	0	22,300	0	
+July	22,300	0	22,300	0	
+August	22,300	0	22,300	0	
+September	22,300	0	22,300	0	
+
+
+  NTOE:  Prior to Phase VI completion, the project will purchase capacity from the East Desk.
+
+3)  Ft. Pierce will use its existing FT via FGU to secure its gas requirements at the 9500 contractual heat rate for the 16 hours it is dispatched in the summer.
+
+4)  For the winter months of October through April, the plant is expected to run 16 hours per day in a mode where Ft. Pierce is not dispatched, thus leaving Enron with 282MW at the overall plant heat rate of 7500.  This equates to 35,251 MMBTU/day and allows for taking the full capacity in only 16 hours (6% per hour)
+
+5)  Because Ft. Pierce will not be dispatched during the winter, their unused capacity via FGU will be available for Enron.  These amounts differ by month as summarized in the table below.
+
+6) Enron will purchase wintertime capacity only sufficient to allow running 282 MW for 16 hours per day at a 7500 heat rate, less the monthly capacities available from Ft. Pierce via FGU.  These non-FGU purchased quantities will come from the Phase VI capacity and the East Desk as shown below:
+
+
+
+
+	
+
+   MONTH	Total Capacity Needed By Enron	Ft. Pierce Capacity (from FGU)	Phase VI Capacity (Nov-Mar = 28% of Summer)	Capacity From East Desk	
+October	35,251	14,665	22,300	0	
+November	35,251	14,595	6,244	14,412	
+December	35,251	14,895	6,244	14,112	
+January	35,251	16,547	6,244	12,460	
+February	35,251	15,317	6,244	13,690	
+March	35,251	15,317	6,244	13,690	
+April	35,251	15,317	22,300	0	
+
+
+NOTE:  Prior to Phase VI completion , the project will purchase capacity from the East Desk.
+
+7)  Backup documentation supporting the hourly gas requirement in each dispatch mode is attached to this memo.
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <7798352.1075851691998.JavaMail.evans@thyme>
+Date: Fri, 23 Mar 2001 02:40:00 -0800 (PST)
+From: eric.boyt@enron.com
+To: v.weldon@enron.com
+Subject: Ft Pierce
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Eric Boyt
+X-To: V Charles Weldon
+X-cc: 
+X-bcc: 
+X-Folder: \Charles_Wheldon_Nov2001\Notes Folders\Ft. pierce
+X-Origin: WHELDON-C
+X-FileName: vweldon.nsf
+
+---------------------- Forwarded by Eric Boyt/Corp/Enron on 03/23/2001 10:46 
+AM ---------------------------
+   
+	
+	
+	From:  Doug Leach @ ECT                           03/23/2001 10:36 AM
+	
+
+To: Bruce Golden/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT
+cc: Eric Boyt/Corp/Enron@Enron, Mathew Gimble/HOU/ECT@ECT, David 
+Fairley/HOU/ECT, Justin Folloder/NA/Enron 
+
+Subject: Ft Pierce
+
+A couple of quick questions about the truck deliveries to the H. D. King 
+Power plant location:
+
+1) Do the delivering trucks need to have their own pumps?
+2) What size lines are the trucks pumping into? 3"?
+3) When connecting to our lines do the trucks need anything other than 
+standard fittings? 
+
+Outstanding issues:
+
+1) Full spec sheet--especially sodium and potassium guarantees
+2) After the initial tank fill delivery availability 24 hours/day and 
+weekends?
+3) Tank fill and beyond--why not the full 1MM gallons?
+4) Dyed/non dyed fuel issue--tax evaluating
+5) Identify previous diesel supplier to the plant
+6) Design a fuel resupply plan including prepurchase of fuel, call on 
+transportation, buy diesel calls for expected outage periods
+7) Buyer of record and credit issues with suppliers
+8) Tank fill price--fixed or floating? (Platt's, NYMEX, OPIS, rack price)
+9) Commercial start date of plan
+10) Any other issue to be discussed
+
+Did I leave anything out?
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <29581557.1075851692111.JavaMail.evans@thyme>
+Date: Wed, 14 Feb 2001 02:57:00 -0800 (PST)
+From: edith.cross@enron.com
+To: eric.boyt@enron.com, v.weldon@enron.com
+Subject: Ft. Pierce
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Edith Cross
+X-To: Eric Boyt, V Charles Weldon
+X-cc: 
+X-bcc: 
+X-Folder: \Charles_Wheldon_Nov2001\Notes Folders\Ft. pierce
+X-Origin: WHELDON-C
+X-FileName: vweldon.nsf
+
+---------------------- Forwarded by Edith Cross/HOU/ECT on 02/14/2001 10:56 
+AM ---------------------------
+
+
+John Griffith@ENRON
+11/09/2000 03:22 PM
+To: Mathew Gimble/HOU/ECT@ECT, David Fairley/HOU/ECT@ECT
+cc: Stephanie Miller/Corp/Enron@ENRON, Edith Cross/HOU/ECT@ECT, Elizabeth 
+Howley/Corp/Enron@ENRON, John Hodge/Corp/Enron@ENRON, Berney C 
+Aucoin/HOU/ECT@ECT 
+Subject: Ft. Pierce
+
+Just a small correction.  The demand number of $.85 is actually $.8215, 
+commodity is $.0307 and fuel is 3%.  The unofficial in service date is 5/03.  
+Please let me know if you have any questions.  Thanks.
+
+John
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <9434296.1075841977200.JavaMail.evans@thyme>
+Date: Fri, 11 May 2001 11:54:00 -0700 (PDT)
+From: jennifer.bagwell@enron.com
+To: v.weldon@enron.com
+Subject: Run Hour Assumptions - Fort Pierce
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jennifer Bagwell <Jennifer Bagwell/ENRON@enronXgate@ENRON>
+X-To: V Charles Weldon <V Charles Weldon/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+  
+
+Jennifer Bagwell
+Enron Americas - Southeast Power Origination
+1400 Smith Street, Houston, TX 77002
+Room 3111A
+Phone: 713-345-4947
+Fax: 713-646-4940
+jennifer.bagwell@enron.com
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <15502276.1075841976841.JavaMail.evans@thyme>
+Date: Wed, 23 May 2001 15:30:11 -0700 (PDT)
+From: mike.coleman@enron.com
+To: charles.weldon@enron.com
+Subject: Fort Pierce Gas Supply Volume Estimate
+Cc: mark.breese@enron.com, ruth.concannon@enron.com, mathew.gimble@enron.com,
+	darrell.stovall@enron.com, jeffrey.keenan@enron.com,
+	douglas.ottens@enron.com, jennifer.bagwell@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: mark.breese@enron.com, ruth.concannon@enron.com, mathew.gimble@enron.com,
+	darrell.stovall@enron.com, jeffrey.keenan@enron.com,
+	douglas.ottens@enron.com, jennifer.bagwell@enron.com
+X-From: Coleman, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MCOLEMA>
+X-To: Weldon, V. Charles </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vweldon>
+X-cc: Breese, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbreese>, Concannon, Ruth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rconcan>, Gimble, Mathew </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mgimble>, Stovall, Darrell </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=5daba3a1-b6c3227d-862568f7-733f1b>, Keenan, Jeffrey </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jkeenan>, Ottens, Douglas </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=86256608-65acba-86256714-1156d>, Bagwell, Jennifer </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jbagwell>
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+Charlie,
+
+My original message was:
+
+The new plant max consumption for planning purposes should be set at 2,490 mmBtu/hr HHV.  In addition to this it is estimated that the existing Frame 5 may require 335 mmBtur/hr HHV, or a total of 2,825 mmBtu/hr HHV.
+
+The plant consumption is based on the maximum combustion turbine requirement, plus a 5% margin, plus duct burning requirement.  This should be adequate as a conservative maximum case.
+
+In answer to your follow up question I'll provide the following detail for clarity:
+
+At the max consumption case:
+
+GT Gas consumption is 1825 mmBtu/hr LHV = 2024 mmBtu/hr HHV producing gross gas turbine power of 200 MW, or a gross GT heat rate of 10,120 Btu/kwh HHV
+
+Additional Duct Firing fuel of 353 mmBtu/hr HHV is used to produce steam for exiting steam turbines, including unit 6.  Gross steam turbine output is 105 MW.
+
+Total Gross Generation is 305 MW with total new plant gas consumption of 2377 mmBtu/hr HHV.  
+
+Net power production from new gas turbine and the exiting steam turbines is 305MW less auxiliary load of 24 MW for a net of 281 MW.  At 2377 MMBtu/hr HHV this gives a net heat rate of 8459 Btu/kwh HHV.
+
+The above numbers are new and clean.
+
+A fuel margin of 113 MMBtu/hr has been added to give margined plant consumption of 2490 mmBtu/hr.  This was based on 5% margin on GT fuel, and rounding up somewhat to a comfortable number.
+
+This would make the margined plant heat rate equal to 2490mmBtu/hr/281MW or 8861 Btu/kwh HHV.
+
+In addition to the fuel for the new facilities, it is estimated that the existing Frame 5 may require up to 335 mmBtu/hr.  If this is included, then the total fuel delivered to site would be 2825 mmBtu/hr HHV.
+
+If you have additional questions please let me know.
+
+Thanks!
+
+Mike
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <30148320.1075841976866.JavaMail.evans@thyme>
+Date: Wed, 23 May 2001 14:09:56 -0700 (PDT)
+From: mike.coleman@enron.com
+To: charles.weldon@enron.com
+Subject: Fort Pierce--Maximum Gas Consumtion for Planning Purposes
+Cc: mark.breese@enron.com, ruth.concannon@enron.com, mathew.gimble@enron.com,
+	darrell.stovall@enron.com, jeffrey.keenan@enron.com,
+	douglas.ottens@enron.com, jennifer.bagwell@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: mark.breese@enron.com, ruth.concannon@enron.com, mathew.gimble@enron.com,
+	darrell.stovall@enron.com, jeffrey.keenan@enron.com,
+	douglas.ottens@enron.com, jennifer.bagwell@enron.com
+X-From: Coleman, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MCOLEMA>
+X-To: Weldon, V. Charles </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vweldon>
+X-cc: Breese, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbreese>, Concannon, Ruth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rconcan>, Gimble, Mathew </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mgimble>, Stovall, Darrell </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=5daba3a1-b6c3227d-862568f7-733f1b>, Keenan, Jeffrey </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jkeenan>, Ottens, Douglas </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=86256608-65acba-86256714-1156d>, Bagwell, Jennifer </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jbagwell>
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+Charlie,
+
+The new plant max consumption for planning purposes should be set at 2,490 mmBtu/hr HHV.  In addition to this it is estimated that the existing Frame 5 may require 335 mmBtur/hr HHV, or a total of 2,825 mmBtu/hr HHV.
+
+The plant consumption is based on the maximum combustion turbine requirement, plus a 5% margin, plus duct burning requirement.  This should be adequate as a conservative maximum case.
+
+Please let me know if you have any questions.
+
+Thanks!
+
+Mike Coleman
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <15162301.1075851691478.JavaMail.evans@thyme>
+Date: Mon, 14 May 2001 13:39:00 -0700 (PDT)
+From: bill.fox@enron.com
+To: v.weldon@enron.com
+Subject: Re: Ash Spec Response from MHI
+Cc: frank.hosak@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: frank.hosak@enron.com
+X-From: Bill Fox
+X-To: V Charles Weldon
+X-cc: Frank Hosak
+X-bcc: 
+X-Folder: \Charles_Wheldon_Nov2001\Notes Folders\Ft. pierce
+X-Origin: WHELDON-C
+X-FileName: vweldon.nsf
+
+Charlie:  We made a request to MHI last week and with this memo, I will 
+follow up with Frank Hosak to make sure that it is on the items to be 
+discussed this coming Wednesday.
+
+Frank:  Would you please make sure that we have this item on the Agenda and 
+tell them we are expecting an answer.
+
+thanks, bill fox 
+
+
+   
+	
+	
+	From:  V Charles Weldon @ ECT                           05/14/2001 02:23 PM
+	
+
+To: Bill Fox/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT
+cc: Mark Breese/HOU/ECT@ECT 
+Subject: Ash Spec Response from MHI
+
+Bill,
+
+I understand that you are the contact person for MHI concerning the ash spec 
+for the 501F turbine being used on the Ft. Pierce project.  I have been 
+working with Matt Tezyk to finalize all issues concerning this fuel oil spec. 
+Please let me know as soon as possible what the MHI response is regarding the 
+inability to get 0% ash fuel oil.   We are trying to get closure on this 
+issue so we can order the fuel oil to replace that which we caused FPUA to 
+burn to begin construction on the site.
+
+Thanks!
+
+Charlie Weldon
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <33032431.1075841977504.JavaMail.evans@thyme>
+Date: Wed, 25 Apr 2001 18:13:00 -0700 (PDT)
+From: mathew.gimble@enron.com
+To: eric.boyt@enron.com, v.weldon@enron.com
+Subject: Ft Pierce Gas Assumptions
+Cc: jennifer.bagwell@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jennifer.bagwell@enron.com
+X-From: Mathew Gimble <Mathew Gimble/HOU/ECT@ECT>
+X-To: Eric Boyt <Eric Boyt/Corp/Enron@Enron>, V Charles Weldon <V Charles Weldon/HOU/ECT@ECT>
+X-cc: Jennifer Bagwell <Jennifer Bagwell/Enron@EnronXGate>
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+Per our discussion today, see attached.  Note the heat rate is moving around a bit.
+
+Mathew
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <4838961.1075841977406.JavaMail.evans@thyme>
+Date: Mon, 7 May 2001 14:36:00 -0700 (PDT)
+From: mark.breese@enron.com
+To: doug.leach@enron.com
+Subject: Responses to your questions on fuel oil for Fort Pierce facility
+Cc: mathew.gimble@enron.com, david.fairley@enron.com, eric.boyt@enron.com,
+	ed.mcmichael@enron.com, v.weldon@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: mathew.gimble@enron.com, david.fairley@enron.com, eric.boyt@enron.com,
+	ed.mcmichael@enron.com, v.weldon@enron.com
+X-From: Mark Breese <Mark Breese/HOU/ECT@ECT>
+X-To: Doug Leach <Doug Leach/HOU/ECT@ECT>
+X-cc: Mathew Gimble <Mathew Gimble/HOU/ECT@ECT>, David Fairley <David Fairley/Enron@EnronXGate>, Eric Boyt <Eric Boyt/Corp/Enron@Enron>, Ed McMichael <Ed McMichael/HOU/ECT@ECT>, V Charles Weldon <V Charles Weldon/HOU/ECT@ECT>
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+
+
+Following are responses to your questions on the truck deliveries to the H.D. King Power plant location (Fort Pierce).  We have answers to all questions except the quality specifications of the fuel oil.  We expect an answer on the quality specs tomorrow from our engineers (they are determining whether the air permit or the turbine requirements will be the primary driver of our quality specs).  We will forward them as soon as we receive these from the engineers.
+
+How long will it take to get a notional price on filling the 200,000 gallon order?
+
+Charlie and I will call later today to confirm your receipt of this email and to review any additional questions.  Please call me at x36751 or Charlie at x57229 with any questions.
+
+Thanks
+
+----------------------------------------------------------------------------------------------------------------------
+
+
+1) Do the delivering trucks need to have their own pumps?   
+
+	The delivering trucks will require pumps.
+
+2) What size lines are the trucks pumping into? 3"?     
+
+	The line is 3"
+
+
+3) When connecting to our lines do the trucks need anything other than standard fittings?    
+
+	Standard fittings may be used or 3 inch quick disconnect fittings.
+
+
+4) Full spec sheet--especially sodium and potassium guarantees    
+
+The environmental specs are known but the specs on the turbine itself from Mitsubishi (MHI) are not known.  We cannot determine the final specs unitl the MHI requirements are known.
+
+5) After the initial tank fill delivery availability 24 hours/day and weekends?  
+
+	Someone is always on duty at plant so deliveries can technically be made on a 24/7 basis.  The plant manager did say he would like to avoid a long line of trucks out the plant in order to maintain good relationships with the neighbors.
+
+
+6) Tank fill and beyond--why not the full 1MM gallons?  
+
+	At this point we are only replacing the 200,000 gallons of oil we had Fort Pierce burn in order to empty their old tank and allow us to clear that location for our plant.  Additional oil may be purchased later (next year) after development plans are further along.
+
+
+7) Dyed/non dyed fuel issue--tax evaluating   
+
+	The plant requires non-Dyed fuel.
+
+
+8) Identify previous diesel supplier to the plant   
+
+	Coastal was the previous supplier to the plant.
+
+
+9) Design a fuel resupply plan including pre-purchase of fuel, call on transportation, buy diesel calls for expected outage periods
+
+		Such a plan appears to be premature at this point but we will review the issues with you at a later date.
+
+10) Buyer of record and credit issues with suppliers   
+
+		Fort Pierce Utilities Authority is the buyer of record.
+
+11) Tank fill price--fixed or floating? (Platt's, NYMEX, OPIS, rack price)  
+
+		We are looking for a firm fixed price bid for filling the tank, unless you would recommend otherwise.
+
+12) Commercial start date of plan     
+
+		The tank will be finished and available for fill on 5/15/2001.
+
+13) Any other issue to be discussed
+
+		None that we are aware of.
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <17743896.1075841976590.JavaMail.evans@thyme>
+Date: Mon, 4 Jun 2001 11:35:05 -0700 (PDT)
+From: jennifer.bagwell@enron.com
+To: jim.meyn@enron.com, nick.hiemstra@enron.com
+Subject: RE: Ft. Pierce Evaluation
+Cc: edith.cross@enron.com, charles.weldon@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: edith.cross@enron.com, charles.weldon@enron.com
+X-From: Bagwell, Jennifer </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JBAGWELL>
+X-To: Meyn, Jim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmeyn>, Hiemstra, Nick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Nhiemst>
+X-cc: Cross, Edith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ecross>, Weldon, V. Charles </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vweldon>
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+Jim & Nick,
+In order to be consistent concerning the use of ICF curves or ENA curves in the Fort Pierce model, do you think that it is necessary to run the spread option model for ICF curves?  I believe that I need to have the capability to input Variable O&M and Per start expenses in the model that I am running with ICF curves.  Please advise.  Thank you.  Jennifer
+
+ 
+
+ -----Original Message-----
+From: 	Meyn, Jim  
+Sent:	Thursday, May 31, 2001 7:31 PM
+To:	Bagwell, Jennifer; Gimble, Mathew
+Cc:	Cross, Edith; Weldon, V. Charles
+Subject:	Ft. Pierce Evaluation
+
+Jennifer, attached is a summary model of the Ft. Pierce evaluation using Enron's curves.  Please note that there are two scenarios provided, based on a best case and worst case pipeline demand charge scenario.  The spread option model was dispatched based on the same assumptions as utilized by the gas group in developing their pipeline cost assumptions.  I've tried to add notes to the models outlining potential areas of additional value as there are some unique characteristics of this deal that should provide additional value to the project.  I'll be over to help review the cash flow model.  
+
+Thanks for everyone's help (Edith/Charlie)
+
+- Jim
+
+ << File: FP Dispatch Summary 5-30-2001.xls >> 
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <13781949.1075841977454.JavaMail.evans@thyme>
+Date: Mon, 7 May 2001 13:46:00 -0700 (PDT)
+From: eric.boyt@enron.com
+To: v.weldon@enron.com
+Subject: Ft Pierce
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Eric Boyt <Eric Boyt/Corp/Enron@ENRON>
+X-To: V Charles Weldon <V Charles Weldon/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+
+---------------------- Forwarded by Eric Boyt/Corp/Enron on 05/07/2001 10:46 AM ---------------------------
+   
+
+	  From:  Doug Leach @ ECT                           04/25/2001 08:09 AM	
+		
+
+
+To:	Eric Boyt/Corp/Enron@Enron
+cc:	 
+
+Subject:	Ft Pierce
+
+It has been a month and I still need these questions answered before we can buy the fuel.
+---------------------- Forwarded by Doug Leach/HOU/ECT on 04/25/2001 08:08 AM ---------------------------
+   
+
+	  From:  Doug Leach                           03/23/2001 10:36 AM	
+		
+
+
+To:	Bruce Golden/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT
+cc:	Eric Boyt/Corp/Enron@Enron, Mathew Gimble/HOU/ECT@ECT, David Fairley/HOU/ECT, Justin Folloder/NA/Enron 
+Subject:	Ft Pierce
+
+A couple of quick questions about the truck deliveries to the H. D. King Power plant location:
+
+1) Do the delivering trucks need to have their own pumps?
+2) What size lines are the trucks pumping into? 3"?
+3) When connecting to our lines do the trucks need anything other than standard fittings? 
+
+Outstanding issues:
+
+1) Full spec sheet--especially sodium and potassium guarantees
+2) After the initial tank fill delivery availability 24 hours/day and weekends?
+3) Tank fill and beyond--why not the full 1MM gallons?
+4) Dyed/non dyed fuel issue--tax evaluating
+5) Identify previous diesel supplier to the plant
+6) Design a fuel resupply plan including prepurchase of fuel, call on transportation, buy diesel calls for expected outage periods
+7) Buyer of record and credit issues with suppliers
+8) Tank fill price--fixed or floating? (Platt's, NYMEX, OPIS, rack price)
+9) Commercial start date of plan
+10) Any other issue to be discussed
+
+Did I leave anything out?
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <18005604.1075841977527.JavaMail.evans@thyme>
+Date: Fri, 20 Apr 2001 12:00:00 -0700 (PDT)
+From: jennifer.bagwell@enron.com
+To: v.weldon@enron.com
+Subject: Fort Pierce Run Hours
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jennifer Bagwell <Jennifer Bagwell/ENRON@enronXgate@ENRON>
+X-To: V Charles Weldon <V Charles Weldon/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+ 
+
+Jennifer Bagwell
+Enron Americas - Southeast Power Origination
+1400 Smith Street, Houston, TX 77002
+Room 3111A
+Phone: 713-345-4947
+Fax: 713-646-4940
+jennifer.bagwell@enron.com
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <33192837.1075851692089.JavaMail.evans@thyme>
+Date: Wed, 14 Feb 2001 02:57:00 -0800 (PST)
+From: edith.cross@enron.com
+To: eric.boyt@enron.com, v.weldon@enron.com
+Subject: Ft. Pierce
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Edith Cross
+X-To: Eric Boyt, V Charles Weldon
+X-cc: 
+X-bcc: 
+X-Folder: \Charles_Wheldon_Nov2001\Notes Folders\Ft. pierce
+X-Origin: WHELDON-C
+X-FileName: vweldon.nsf
+
+---------------------- Forwarded by Edith Cross/HOU/ECT on 02/14/2001 10:57 
+AM ---------------------------
+
+
+John Griffith@ENRON
+11/13/2000 09:14 AM
+To: Mathew Gimble/HOU/ECT@ECT, David Fairley/HOU/ECT@ECT
+cc: Berney C Aucoin/HOU/ECT@ECT, Edith Cross/HOU/ECT@ECT, Elizabeth 
+Howley/Corp/Enron@ENRON, John Hodge/Corp/Enron@ENRON, Stephanie 
+Miller/Corp/Enron@ENRON 
+Subject: Ft. Pierce
+
+I talked to Jared Friday about capacity for the Ft. Pierce plant and Jared 
+said that he thought the gas desk and the power desk (Scott Neal, Rogers 
+Herndon and himself) should discuss  the gas supply for the Ft. Pierce and 
+other Florida projects.  Could you guys set something up?  Please let me 
+know.  Thanks.
+
+John 
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <16024990.1075851691660.JavaMail.evans@thyme>
+Date: Wed, 9 May 2001 09:45:00 -0700 (PDT)
+From: doug.leach@enron.com
+To: v.weldon@enron.com
+Subject: Re: Fuel Specification Requirements
+Cc: mark.breese@enron.com, ed.mcmichael@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: mark.breese@enron.com, ed.mcmichael@enron.com
+X-From: Doug Leach
+X-To: V Charles Weldon
+X-cc: Mark Breese, Ed McMichael
+X-bcc: 
+X-Folder: \Charles_Wheldon_Nov2001\Notes Folders\Ft. pierce
+X-Origin: WHELDON-C
+X-FileName: vweldon.nsf
+
+Yesterday I faxed a copy of Colonial Pipeline's specifications for fungible 
+low sulfur diesel fuel (74 grade) to Mark Breese. That spec sheet is 
+indicative of the specs for low sulfur diesel in Florida. It must be 
+remembered that Florida has no refineries nor product pipelines and receives 
+their fuel via barges and vessels from domestic and international refineries 
+and terminals. Will forward Colonial jet fuel (54 grade) specs. 
+
+
+   
+	Enron North America Corp.
+	
+	From:  V Charles Weldon                           05/09/2001 03:13 PM
+	
+
+To: Doug Leach/HOU/ECT@ECT
+cc: Mark Breese/HOU/ECT@ECT, Ed McMichael/HOU/ECT@ECT 
+Subject: Re: Fuel Specification Requirements
+
+Doug,
+
+Attached is the (long-awaited) spec for the 200K gallons of low-sulphur #2 
+Fuel Oil to partially refill the tank at the Ft. Pierce facility in Florida.
+As the attached note describes, the final spec is a result of the combined 
+spec requirements by the environmental permit, MHI (Mitsubishi), and 
+Engineering.
+
+We currently believe that some of these specs may be more stringent than what 
+is commercially available.  In the event that some of these specs are too 
+stringent, we would like you to: 1) identify which specs are not reasonably 
+attainable, and 2) suggest what value of these specs are attainable.   Your 
+feedback will be shared with the appropriate parties and, assuming there are 
+spec change recommendations, these parties will determine how best to 
+proceed.  
+
+Please note that the first attached note requests than any bids we get 
+contain info on density, heating value, and trace contaminants.  
+Additionally, the second attached note references getting multiple bids for 
+different specs.  I suggest that, for now, we resolve the spec issue 
+internally as described above and then we obtain quotes.   If you have any 
+other suggestions on how best to proceed, your input is welcome.
+
+Your assistance in this matter is, and has been, greatly appreciated.
+
+
+Thanks,
+
+Charlie Weldon
+
+
+---------------------- Forwarded by V Charles Weldon/HOU/ECT on 05/09/2001 
+02:45 PM ---------------------------
+
+
+Matthew Tezyk@ENRON_DEVELOPMENT
+05/09/2001 01:56 PM
+To: V Charles Weldon/HOU/ECT@ECT
+cc: Scott Churbock/NA/Enron@ENRON, Darrell Stovall/NA/Enron@Enron, Jeffrey 
+Keenan/HOU/ECT@ECT, Mathew Gimble/HOU/ECT@ECT, Ray 
+McPhail/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT 
+Subject: Re: Fuel Specification Requirements
+
+Charles,
+
+ Attached below is the fuel oil specification.  Our Engineering group has 
+reviewed all Vendor and Air Permit requirements, and the sheet labeled "Fuel 
+Oil Spec" is the fuel oil specification.  The sheet labeled "Comparison 
+Specs" is the other data you requested for comparison.  When using the fuel 
+oil specification to purchase fuel, please have the vendors provide the 
+following information:
+
+Density at reference temperature
+Heating Values at reference temperature
+Maximum trace contaminant limits:
+ chromium
+ arsenic
+ siloxenes
+ copper corrosivity
+ cetane index
+ cetane number
+
+Thank you,
+
+Matt
+
+---------------------- Forwarded by Matthew Tezyk/ENRON_DEVELOPMENT on 
+05/09/2001 10:10 AM ---------------------------
+
+
+Ray McPhail
+05/09/2001 09:37 AM
+To: Matthew Tezyk/ENRON_DEVELOPMENT@Enron_Development
+cc: James Craig/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Frank 
+Hosak/ENRON_DEVELOPMENT@ENRON_DEVELOPMENt, Bill 
+Fox/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Douglas 
+Ottens/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT 
+Subject: Re: Fuel Specification Requirements  
+
+Matt-
+
+I talked with Bill Fox and Doug Ottens concerning the fuel spec.  In order 
+for MHI to meet the particulate emissions, we must provide a fuel oil with no 
+ash.  Additionally, vanadium is a catalyst poison, so to meet the CMI needs, 
+I reduced the vanadium.
+
+I am attaching a revised fuel oil spec matrix, which has four fuel specs 
+included.  The first column meets the minimum requirements of MHI & CMI.  The 
+second column holds the ash at the low value, but allows the vanadium to 
+increase.  The third column holds the low vanadium value, but allows the ash 
+to increase.  The last column allow both the ash and vanadium to increase.
+
+ENA will need to get bids for column 1 and may want to solicit bids for 
+column 2, 3, & 4 for economic comparison purposes.
+
+Ray
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <29756190.1075841977058.JavaMail.evans@thyme>
+Date: Wed, 16 May 2001 11:27:00 -0700 (PDT)
+From: doug.leach@enron.com
+To: v.weldon@enron.com
+Subject: Re: Fuel Oil Sample
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Doug Leach <Doug Leach/HOU/ECT@ECT>
+X-To: V Charles Weldon <V Charles Weldon/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+This sample tested by Saybolt was from a shore tank of low sulfur diesel (Colonial 74 grade) in a major's tank in the Houston area. This is representative of the low sulfur diesel that would be shipped to Florida. Fax is on it's way. Any questions call me at x35007.
+
+
+   
+
+	Enron North America Corp.  From:  V Charles Weldon                           05/16/2001 08:21 AM	
+		
+
+
+To:	Doug Leach/HOU/ECT@ECT
+cc:	 
+Subject:	Re: Fuel Oil Sample   
+
+Doug,
+
+Fax is 646-3460.  A couple folks wanted to know where this sample was taken from.  I told them that I was not exactly sure but was confident that the sample would be representative of the fuel oil that would be delivered in Florida, per our conversation.
+
+
+Thanks again,
+
+Charlie
+
+
+
+
+<Embedded StdOleLink>
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <32844317.1075841976914.JavaMail.evans@thyme>
+Date: Mon, 21 May 2001 07:36:50 -0700 (PDT)
+From: doug.leach@enron.com
+To: charles.weldon@enron.com
+Subject: diesel specs
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Leach, Doug </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DLEACH>
+X-To: Weldon, V. Charles </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vweldon>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+Typical diesel specs
+
+Gross heat of combustion btus/lbs. ASTM D-240/D-4868  19150 min./19520 max.
+Net heat of combustion btus/lbs. ASTM D-240/D-4868  18030 min./18330 max.
+
+Gross heat of combustion btu/gallon ASTM D-240/D-4868  140,000 min./146,200 max.
+Net heat of combustion btu/gallon  ASTM D-240/D-4868  131,500 min./137,500 max. 
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <32524239.1075851692066.JavaMail.evans@thyme>
+Date: Tue, 27 Feb 2001 01:16:00 -0800 (PST)
+From: eric.boyt@enron.com
+To: v.weldon@enron.com
+Subject: Re: ICAP?
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Eric Boyt
+X-To: V Charles Weldon
+X-cc: 
+X-bcc: 
+X-Folder: \Charles_Wheldon_Nov2001\Notes Folders\Ft. pierce
+X-Origin: WHELDON-C
+X-FileName: vweldon.nsf
+
+FYI.... let's get more clarification when we talk to her about the Ft. Pierce 
+model results.
+
+Eric
+
+---------------------- Forwarded by Eric Boyt/Corp/Enron on 02/27/2001 09:15 
+AM ---------------------------
+   
+	
+	
+	From:  Edith Cross @ ECT                           02/27/2001 08:26 AM
+	
+
+To: Eric Boyt/Corp/Enron@ENRON
+cc:  
+
+Subject: Re: ICAP?  
+
+ICAP is installed capacity.  You sometimes hear it referred to as RegCap 
+(regulatory capacity).  In some of the northern markets you must demonstrate 
+that you have enough capacity (ICAP) to cover your max peak.  This capacity 
+doesn't necessarily have to be used to serve your load  (This is the most 
+confusing part).  If you owned a plant, you could sell the ICAP and energy 
+off that plant to two different counterparties.  What Kevin's is pointing out 
+that the FL RTO will require ICAP, therefore, if we owned steel in the 
+ground, we would receive the benefit of being able to sell the capacity AND 
+the energy.  
+
+Not all of the markets require ICAP, therefore, it is good to clarify what 
+people mean when they use the word capacity.  In some markets, the capacity 
+price is imbedded in the energy price.  Capacity is a very loosely used term 
+in the electricity industry.    I am sure this is clear as mud.  It's kind of 
+hard explain in an e-mail.  Let me know if you have any other questions.
+
+Edith
+
+
+
+
+
+Eric Boyt@ENRON
+02/26/2001 03:52 PM
+To: Edith Cross/HOU/ECT@ECT
+cc:  
+Subject: ICAP?
+
+Can you explain ICAP (and why we would get paid for it) to a dumb gas guy?  I 
+have heard it several times and read it in the Ft. Pierce e-mail.
+
+Eric
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <4170529.1075851691594.JavaMail.evans@thyme>
+Date: Fri, 11 May 2001 01:54:00 -0700 (PDT)
+From: jennifer.bagwell@enron.com
+To: v.weldon@enron.com
+Subject: Run Hour Assumptions - Fort Pierce
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jennifer Bagwell
+X-To: V Charles Weldon
+X-cc: 
+X-bcc: 
+X-Folder: \Charles_Wheldon_Nov2001\Notes Folders\Ft. pierce
+X-Origin: WHELDON-C
+X-FileName: vweldon.nsf
+
+Jennifer Bagwell
+Enron Americas - Southeast Power Origination
+1400 Smith Street, Houston, TX 77002
+Room 3111A
+Phone: 713-345-4947
+Fax: 713-646-4940
+jennifer.bagwell@enron.com
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <20777933.1075851691817.JavaMail.evans@thyme>
+Date: Mon, 7 May 2001 04:36:00 -0700 (PDT)
+From: mark.breese@enron.com
+To: doug.leach@enron.com
+Subject: Responses to your questions on fuel oil for Fort Pierce facility
+Cc: mathew.gimble@enron.com, david.fairley@enron.com, eric.boyt@enron.com,
+	ed.mcmichael@enron.com, v.weldon@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: mathew.gimble@enron.com, david.fairley@enron.com, eric.boyt@enron.com,
+	ed.mcmichael@enron.com, v.weldon@enron.com
+X-From: Mark Breese
+X-To: Doug Leach
+X-cc: Mathew Gimble, David Fairley, Eric Boyt, Ed McMichael, V Charles Weldon
+X-bcc: 
+X-Folder: \Charles_Wheldon_Nov2001\Notes Folders\Ft. pierce
+X-Origin: WHELDON-C
+X-FileName: vweldon.nsf
+
+Following are responses to your questions on the truck deliveries to the H.D. 
+King Power plant location (Fort Pierce).  We have answers to all questions 
+except the quality specifications of the fuel oil.  We expect an answer on 
+the quality specs tomorrow from our engineers (they are determining whether 
+the air permit or the turbine requirements will be the primary driver of our 
+quality specs).  We will forward them as soon as we receive these from the 
+engineers.
+
+How long will it take to get a notional price on filling the 200,000 gallon 
+order?
+
+Charlie and I will call later today to confirm your receipt of this email and 
+to review any additional questions.  Please call me at x36751 or Charlie at 
+x57229 with any questions.
+
+Thanks
+
+------------------------------------------------------------------------------
+----------------------------------------
+
+
+1) Do the delivering trucks need to have their own pumps?   
+
+ The delivering trucks will require pumps.
+
+2) What size lines are the trucks pumping into? 3"?     
+
+ The line is 3"
+
+
+3) When connecting to our lines do the trucks need anything other than 
+standard fittings?    
+
+ Standard fittings may be used or 3 inch quick disconnect fittings.
+
+
+4) Full spec sheet--especially sodium and potassium guarantees    
+
+The environmental specs are known but the specs on the turbine itself from 
+Mitsubishi (MHI) are not known.  We cannot determine the final specs unitl 
+the MHI requirements are known.
+
+5) After the initial tank fill delivery availability 24 hours/day and 
+weekends?  
+
+ Someone is always on duty at plant so deliveries can technically be made on 
+a 24/7 basis.  The plant manager did say he would like to avoid a long line 
+of trucks out the plant in order to maintain good relationships with the 
+neighbors.
+
+
+6) Tank fill and beyond--why not the full 1MM gallons?  
+
+ At this point we are only replacing the 200,000 gallons of oil we had Fort 
+Pierce burn in order to empty their old tank and allow us to clear that 
+location for our plant.  Additional oil may be purchased later (next year) 
+after development plans are further along.
+
+
+7) Dyed/non dyed fuel issue--tax evaluating   
+
+ The plant requires non-Dyed fuel.
+
+
+8) Identify previous diesel supplier to the plant   
+
+ Coastal was the previous supplier to the plant.
+
+
+9) Design a fuel resupply plan including pre-purchase of fuel, call on 
+transportation, buy diesel calls for expected outage periods
+
+  Such a plan appears to be premature at this point but we will review the 
+issues with you at a later date.
+
+10) Buyer of record and credit issues with suppliers   
+
+  Fort Pierce Utilities Authority is the buyer of record.
+
+11) Tank fill price--fixed or floating? (Platt's, NYMEX, OPIS, rack price)  
+
+  We are looking for a firm fixed price bid for filling the tank, unless you 
+would recommend otherwise.
+
+12) Commercial start date of plan     
+
+  The tank will be finished and available for fill on 5/15/2001.
+
+13) Any other issue to be discussed
+
+  None that we are aware of.
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <32441363.1075851691617.JavaMail.evans@thyme>
+Date: Thu, 10 May 2001 00:39:00 -0700 (PDT)
+From: marc.roche@enron.com
+To: doug.leach@enron.com, v.weldon@enron.com
+Subject: Re: Fuel Specification Requirements
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Marc De La Roche
+X-To: Doug Leach, V Charles Weldon
+X-cc: 
+X-bcc: 
+X-Folder: \Charles_Wheldon_Nov2001\Notes Folders\Ft. pierce
+X-Origin: WHELDON-C
+X-FileName: vweldon.nsf
+
+HHV is not the proper terminology, Gross Heat of Combustion is. The following 
+is for Light diesel. First number is min, second is max. Jet fuel should be 
+in the same ballpark as Light Diesel. Gross Heat of Combustion is about 6.4% 
+higher than Net Heat of Combustion (incorrectly referred to as LHV), so 
+divide the Gross numbers by 1.064 to obtain Net numbers. 
+Gross Heat of Combustion, Kcal/Kg	D-240 or D-4868	10,820	10,966
+Gross Heat of Combustion, BTU/Lbs	D-240 or D-4868	19,520	19,780
+Marc
+
+
+   
+	
+	
+	From:  Doug Leach                           05/09/2001 05:23 PM
+	
+
+To: Marc De La Roche/HOU/ECT@ECT
+cc:  
+Subject: Re: Fuel Specification Requirements
+
+Could you forward this info to Charlie? Copy me.
+---------------------- Forwarded by Doug Leach/HOU/ECT on 05/09/2001 05:22 PM 
+---------------------------
+   
+	Enron North America Corp.
+	
+	From:  V Charles Weldon                           05/09/2001 05:09 PM
+	
+
+To: Doug Leach/HOU/ECT@ECT
+cc:  
+Subject: Re: Fuel Specification Requirements  
+
+Doug,
+
+Thanks for the info.  I have passed it along.
+
+I have one more question regarding heating values.  Do you know what the LHV 
+and HHV values are for #2 and jet fuel?  I figure those are parameters that 
+are measured and known but they weren't on the spec sheet.  
+
+
+Thanks,
+
+Charlie
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <23751647.1075841976965.JavaMail.evans@thyme>
+Date: Mon, 21 May 2001 06:52:14 -0700 (PDT)
+From: mike.coleman@enron.com
+To: charles.weldon@enron.com, matthew.tezyk@enron.com
+Subject: RE: Fuel Oil Vanadium Spec
+Cc: mark.breese@enron.com, ed.mcmichael@enron.com, mathew.gimble@enron.com,
+	david.fairley@enron.com, ron.tapscott@enron.com, bill.fox@enron.com,
+	frank.hosak@enron.com, darrell.stovall@enron.com,
+	ray.mcphail@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: mark.breese@enron.com, ed.mcmichael@enron.com, mathew.gimble@enron.com,
+	david.fairley@enron.com, ron.tapscott@enron.com, bill.fox@enron.com,
+	frank.hosak@enron.com, darrell.stovall@enron.com,
+	ray.mcphail@enron.com
+X-From: Coleman, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MCOLEMA>
+X-To: Weldon, V. Charles </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vweldon>, Tezyk, Matthew </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=86256608-65acba-862565a0-604bd8>
+X-cc: Breese, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbreese>, McMichael Jr., Ed </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emcmich>, Gimble, Mathew </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=cf5ac2bb-847af583-862564e6-490e21>, Fairley, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dfairle>, Tapscott, Ron </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=75ef95c1-ae92e54e-862566d3-6205c7>, Fox, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=86256608-65acba-8625671b-780563>, Hosak, Frank </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=86256608-65acba-8625650f-79c895>, Stovall, Darrell </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=5daba3a1-b6c3227d-862568f7-733f1b>, McPhail, Ray </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=25ca6c01-acf0c967-862566cc-7f6ec9>
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+I believe we probably have a miscommunication here.  I think somewhere we've mistaken 0.05% by weight with 0.05 ppm.
+
+Vanadium is a heavy metal that falls out in the residual oil, and is typically not an issue with No. 2 oil.  That's why it's not usually in the spec for No. 2.
+
+Bill Fox:  Please check and see where the 0.05% came from regarding MHI, and confirm that it's not ppm.  In the meantime, everyone should assume that vanadium is not an issue with regard to the gas turbine using No. 2 fuel.
+
+Thanks!
+
+Mike
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <2629246.1075841976689.JavaMail.evans@thyme>
+Date: Thu, 24 May 2001 09:16:04 -0700 (PDT)
+From: mike.coleman@enron.com
+To: charles.weldon@enron.com
+Subject: Steam Turbine Output--Fort Pierce
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Coleman, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MCOLEMA>
+X-To: Weldon, V. Charles </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vweldon>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+Charlie,
+
+It's my understanding that the steam turbine outputs are:
+
+No. 6    14 MW
+No. 7	25 MW
+No. 8    57 MW
+
+These are nominal outputs--they may not add up to the gross 105 used in the gas calculation, so just apportion them as necessary.
+
+Thanks!
+
+Mike
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <13510478.1075841977273.JavaMail.evans@thyme>
+Date: Wed, 9 May 2001 17:59:00 -0700 (PDT)
+From: rusty.stevens@enron.com
+To: ruth.concannon@enron.com
+Subject: Pipeline Contractors
+Cc: david.fairley@enron.com, v.weldon@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: david.fairley@enron.com, v.weldon@enron.com
+X-From: Rusty Stevens <Rusty Stevens/Corp/Enron@ENRON>
+X-To: Ruth Concannon <Ruth Concannon/HOU/ECT@ECT>
+X-cc: David Fairley <David Fairley/Enron@EnronXGate>, V Charles Weldon <V Charles Weldon/HOU/ECT@ECT>
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+I got this message for a contractor that might be interested in working with us on the lateral.  Steve Thome had good luck with them on a water line and wanted to pass the name along.  He also called and mentioned a guy who is with an Enron affiliate - Northern Border - and is interested in a pipeline spur as well.  His phone number is 303-575-6479.  May be helpful to keep it in the Enron family.
+
+
+---------------------- Forwarded by Rusty Stevens/Corp/Enron on 05/09/2001 02:49 PM ---------------------------
+From:	Stephen Thome/ENRON@enronXgate on 05/08/2001 10:10 AM
+To:	Rusty Stevens/Corp/Enron@ENRON
+cc:	 
+
+Subject:	Pipeline Contractors
+
+Rusty,
+
+Here is the contact for our pipeline contractor:
+
+Clark Ashton
+Rooney Engineering
+1418 Millstream Lane
+Salt Lake City, UT 84106
+
+801-463-7981 
+
+Clark is the business development guy.  He is well connected in the power industry (he used to work for NEPCo).  I believe Rooney specializes in pipeline installation - they certainly are extremely knowledgeable.  I suggest you contact Clark to find out more.  
+
+Steve
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <7775112.1075841977302.JavaMail.evans@thyme>
+Date: Wed, 9 May 2001 16:56:00 -0700 (PDT)
+From: matthew.tezyk@enron.com
+To: v.weldon@enron.com
+Subject: Re: Fuel Specification Requirements
+Cc: scott.churbock@enron.com, darrell.stovall@enron.com,
+	jeffrey.keenan@enron.com, mathew.gimble@enron.com,
+	ray.mcphail@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: scott.churbock@enron.com, darrell.stovall@enron.com,
+	jeffrey.keenan@enron.com, mathew.gimble@enron.com,
+	ray.mcphail@enron.com
+X-From: Matthew Tezyk <Matthew Tezyk/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT>
+X-To: V Charles Weldon <V Charles Weldon/HOU/ECT@ECT>
+X-cc: Scott Churbock <Scott Churbock/NA/Enron@ENRON>, Darrell Stovall <Darrell Stovall/NA/Enron@Enron>, Jeffrey Keenan <Jeffrey Keenan/HOU/ECT@ECT>, Mathew Gimble <Mathew Gimble/HOU/ECT@ECT>, Ray McPhail <Ray McPhail/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT>
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+Charles,
+
+	Attached below is the fuel oil specification.  Our Engineering group has reviewed all Vendor and Air Permit requirements, and the sheet labeled "Fuel Oil Spec" is the fuel oil specification.  The sheet labeled "Comparison Specs" is the other data you requested for comparison.  When using the fuel oil specification to purchase fuel, please have the vendors provide the following information:
+
+Density at reference temperature
+Heating Values at reference temperature
+Maximum trace contaminant limits:
+	chromium
+	arsenic
+	siloxenes
+	copper corrosivity
+	cetane index
+	cetane number
+
+Thank you,
+
+Matt
+
+---------------------- Forwarded by Matthew Tezyk/ENRON_DEVELOPMENT on 05/09/2001 10:10 AM ---------------------------
+
+
+Ray McPhail
+05/09/2001 09:37 AM
+To:	Matthew Tezyk/ENRON_DEVELOPMENT@Enron_Development
+cc:	James Craig/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Frank Hosak/ENRON_DEVELOPMENT@ENRON_DEVELOPMENt, Bill Fox/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Douglas Ottens/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT 
+Subject:	Re: Fuel Specification Requirements   
+
+Matt-
+
+I talked with Bill Fox and Doug Ottens concerning the fuel spec.  In order for MHI to meet the particulate emissions, we must provide a fuel oil with no ash.  Additionally, vanadium is a catalyst poison, so to meet the CMI needs, I reduced the vanadium.
+
+I am attaching a revised fuel oil spec matrix, which has four fuel specs included.  The first column meets the minimum requirements of MHI & CMI.  The second column holds the ash at the low value, but allows the vanadium to increase.  The third column holds the low vanadium value, but allows the ash to increase.  The last column allow both the ash and vanadium to increase.
+
+ENA will need to get bids for column 1 and may want to solicit bids for column 2, 3, & 4 for economic comparison purposes.
+
+Ray
+
+
+ 
+
+<Embedded StdOleLink>
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <17780996.1075841977156.JavaMail.evans@thyme>
+Date: Mon, 14 May 2001 12:44:00 -0700 (PDT)
+From: mark.breese@enron.com
+To: david.fairley@enron.com
+Subject: Oil Status UPdate -- response to your questions
+Cc: ed.mcmichael@enron.com, v.weldon@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: ed.mcmichael@enron.com, v.weldon@enron.com
+X-From: Mark Breese <Mark Breese/HOU/ECT@ECT>
+X-To: David Fairley <David Fairley/Enron@EnronXGate>
+X-cc: Ed McMichael <Ed McMichael/HOU/ECT@ECT>, V Charles Weldon <V Charles Weldon/HOU/ECT@ECT>
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+			
+
+I spoke with Doug Leach regarding your questions.  He has already contacted 4-5 suppliers/truckers and is ready to rock and roll when we know what spec. of No. 2 we need.  As such, they are all set to supply our requirement.  Doug reiterated his interest in looking at the long-term relationship we may want to build with a supplier.  He is particularly concerned if the plant switches to oil for a significant amount, supplying large quantities will be a logistical nightmare.  
+
+
+He agrees that we can hedge 80-90 (if not 100%) of the commodity risk by buying the Gulf Coast contract (there is no basis traded for FL).  However, his market view is for prices to come off (they have already dropped a bit) as a result of gasoline prices cooling off.
+
+He has scheduled the test for Vandium today.  We should get results in the next several days.
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <33230551.1075851691746.JavaMail.evans@thyme>
+Date: Tue, 8 May 2001 04:25:00 -0700 (PDT)
+From: mathew.gimble@enron.com
+To: ruth.concannon@enron.com, v.weldon@enron.com, mark.breese@enron.com
+Subject: Information Request
+Cc: ed.mcmichael@enron.com, david.fairley@enron.com, jennifer.bagwell@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: ed.mcmichael@enron.com, david.fairley@enron.com, jennifer.bagwell@enron.com
+X-From: Mathew Gimble
+X-To: Ruth Concannon, V Charles Weldon, Mark Breese
+X-cc: Ed McMichael, David Fairley, Jennifer Bagwell
+X-bcc: 
+X-Folder: \Charles_Wheldon_Nov2001\Notes Folders\Ft. pierce
+X-Origin: WHELDON-C
+X-FileName: vweldon.nsf
+
+Fuel Guys,
+
+The information that y'all had requested in the meeting does not contain any 
+output or heat balancing information that you will need to assist in the 
+sizing of the lateral.  Jennifer and I provided Fred Mitro information that 
+contained capital cost, property taxes and some other modeling assumptions.  
+We did not give him any update or indication on where the output and heat 
+rate numbers would be.
+
+I have asked Jennifer to hold off sending you what was requested after 
+today's meeting, because it is omitting the concrete information that you 
+really need.  As soon as we receive new output and heat rate information, I 
+will forward it directly.  If, for some reason, you need capital costs and 
+property tax information, let me know.
+
+Thanks,
+Mathew
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <18107627.1075841977035.JavaMail.evans@thyme>
+Date: Thu, 17 May 2001 13:52:00 -0700 (PDT)
+From: doug.leach@enron.com
+To: v.weldon@enron.com
+Subject: Inspectors
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Doug Leach <Doug Leach/HOU/ECT@ECT>
+X-To: V Charles Weldon <V Charles Weldon/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+ITS Caleb Brett--Russell Leach (713) 844-3301
+Saybolt--Larry Hodson (713) 477-8171
+
+Saybolt is the one that tested the low sulfur diesel sample. Charges were $134.00. 
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <15365781.1075841977327.JavaMail.evans@thyme>
+Date: Tue, 8 May 2001 14:25:00 -0700 (PDT)
+From: mathew.gimble@enron.com
+To: ruth.concannon@enron.com, v.weldon@enron.com, mark.breese@enron.com
+Subject: Information Request
+Cc: ed.mcmichael@enron.com, david.fairley@enron.com, jennifer.bagwell@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: ed.mcmichael@enron.com, david.fairley@enron.com, jennifer.bagwell@enron.com
+X-From: Mathew Gimble <Mathew Gimble/HOU/ECT@ECT>
+X-To: Ruth Concannon <Ruth Concannon/HOU/ECT@ECT>, V Charles Weldon <V Charles Weldon/HOU/ECT@ECT>, Mark Breese <Mark Breese/HOU/ECT@ECT>
+X-cc: Ed McMichael <Ed McMichael/HOU/ECT@ECT>, David Fairley <David Fairley/Enron@EnronXGate>, Jennifer Bagwell <Jennifer Bagwell/Enron@EnronXGate>
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+Fuel Guys,
+
+The information that y'all had requested in the meeting does not contain any output or heat balancing information that you will need to assist in the sizing of the lateral.  Jennifer and I provided Fred Mitro information that contained capital cost, property taxes and some other modeling assumptions.  We did not give him any update or indication on where the output and heat rate numbers would be.
+
+I have asked Jennifer to hold off sending you what was requested after today's meeting, because it is omitting the concrete information that you really need.  As soon as we receive new output and heat rate information, I will forward it directly.  If, for some reason, you need capital costs and property tax information, let me know.
+
+Thanks,
+Mathew
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <17776654.1075841977351.JavaMail.evans@thyme>
+Date: Mon, 7 May 2001 17:40:00 -0700 (PDT)
+From: matthew.tezyk@enron.com
+To: v.weldon@enron.com
+Subject: Update of Fuel Oil Analysis
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Matthew Tezyk <Matthew Tezyk/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT>
+X-To: V Charles Weldon <V Charles Weldon/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+
+---------------------- Forwarded by Matthew Tezyk/ENRON_DEVELOPMENT on 05/07/2001 02:39 PM ---------------------------
+
+
+Matthew Tezyk
+05/07/2001 09:17 AM
+To:	charlie.weldon@enron.com, Scott Churbock/NA/Enron@ENRON
+cc:	Bill Fox/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Darrell Stovall/NA/Enron@Enron, Mathew Gimble/HOU/ECT@ECT, Douglas Ottens/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT 
+Subject:	Update of Fuel Oil Analysis
+
+Team,
+
+Late last week, we were asked to provide a fuel oil specification sheet so fuel could be scheduled for the Site at Ft. Pierce.  The issue, currently, is we have three different specifications given to us over the past few months and are unsure which is correct.  The resolution:  we are reviewing the specifications from the air permit and specifications given to us from Mitsubishi to determine the minimum requirements, for the fuel, which we must meet for the air permit and gas turbine generator.  We anticipate this review process to be complete by the middle of this week.  If there are any questions, please feel free to contact me at 68258.
+
+Thank you,
+
+Matthew Tezyk
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <26044585.1075841977430.JavaMail.evans@thyme>
+Date: Mon, 7 May 2001 14:30:00 -0700 (PDT)
+From: mathew.gimble@enron.com
+To: v.weldon@enron.com
+Subject: Re: FPRP -- Proforma Performance Input/Review M Today 5/7 2:30 PM
+ 3AC 33C1
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Mathew Gimble <Mathew Gimble/HOU/ECT@ECT>
+X-To: V Charles Weldon <V Charles Weldon/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+
+---------------------- Forwarded by Mathew Gimble/HOU/ECT on 05/07/2001 11:30 AM ---------------------------
+From:	Mathew Gimble on 05/07/2001 09:42 AM
+To:	Darrell Stovall/NA/Enron@ENRON
+cc:	David Fairley/Enron@EnronXGate, Mike Coleman/Enron@EnronXGate, Jennifer Bagwell/Enron@EnronXGate, Jeffrey Keenan/HOU/ECT@ECT, Bruce Golden/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT 
+Subject:	Re: FPRP -- Proforma Performance Input/Review M Today 5/7 2:30 PM 3AC 33C1   
+
+Darrell,
+
+There still appears to be some confusion regarding the inclusion of FPUA's #6 ST into the deal.  The heat rate of the #6 ST should not be included in the overall plant heat rate (neither gross nor net).  The heat rate of the facility should include the GT and FPUA's #7 and #8 STs.  Duct firing #6 needs to be determined and calculated on a stand-alone basis.  Bottom line:  whether FPUA or FPRP uses #6 to generate power, the heat rate associated with #6 is the duct fired heat rate.  I have been anticipating results to look something like the following:
+
+Combined Cycle HHV		7,800 heat rate (based on 183MW + 82MW = 265MW using 2,067MMBtu/hr)
+FPUA 9,500 HHV		9,500 heat rate on 82MW = 779MMBtu/hr
+FPRP Combined Cycle HHV	2,067MMBtu/hr - 779MMBtu/hr = 1,288MMBtu/hr for 183MW = 7,038 heat rate
+
+Duct Firing HHV			10,000 heat rate on 14MW = 140MMBtu/hr (should equal the actual amount of additional gas needed to duct fire)
+
+Let me know if you have any questions.
+
+Thanks,
+Mathew
+
+
+
+
+Darrell Stovall@ENRON
+05/07/2001 08:38 AM
+To:	Mathew Gimble/HOU/ECT@ECT, Ron Tapscott/HOU/ECT@ECT, Jennifer Bagwell/Enron@EnronXGate
+cc:	Jeffrey Keenan/HOU/ECT@ECT, Bruce Golden/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Mike Coleman/Enron@EnronXGate, Sandra EECC Rodriguez/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT 
+Subject:	FPRP -- Proforma Performance Input/Review M Today 5/7 2:30 PM 3AC 33C1
+
+I'd like to set up meeting to review performance inputs to proforma ... today 5/7 at 2:30 PM 3AC 33C1.
+
+Jennifer, please coordinate with ENA participants and with Sandra R @ 5_6426 to ensure we have the essential folks available.
+
+Updated Proforma Input (Still Preliminary)
+We worked with CMI much of last week to revise HRSG configuration to accommodate addition of ST#6. This is turning out to be moderate change to design ... potential cost/schedule impacts still under assessment ... continuing/should finalize this week. Also updated assessment of aux loads -- increased split to GT resulting in reduced net output. 
+
+Output = 185 - 3.5 = 181.5 MW net (due to higher GT aux loads)
+
+HR (Plant-net) = 7980/7196 HHV/LHV (increased due to impact of ST#6)
+
+HR (GT-gross) = 10,326/9311 HHV/LHV 
+
+Degradation -- See attached curves ... this is the best currently available degradation data. It's a Sieman-Westinghouse curve -- still trying to get MHI data. Typically, either apply curves or use ~5% flat degradation as alternative. Needs to be coordinated with Operating/maintenance plan.
+
+ 
+
+I'll be working with engineering personnel to firm up as much as possible and be ready for meeting this afternoon.
+
+thx/dgs
+
+
+
+
+
+
+<Embedded StdOleLink>
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <14746579.1075851691900.JavaMail.evans@thyme>
+Date: Mon, 7 May 2001 03:46:00 -0700 (PDT)
+From: eric.boyt@enron.com
+To: v.weldon@enron.com
+Subject: Ft Pierce
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Eric Boyt
+X-To: V Charles Weldon
+X-cc: 
+X-bcc: 
+X-Folder: \Charles_Wheldon_Nov2001\Notes Folders\Ft. pierce
+X-Origin: WHELDON-C
+X-FileName: vweldon.nsf
+
+---------------------- Forwarded by Eric Boyt/Corp/Enron on 05/07/2001 10:46 
+AM ---------------------------
+   
+	
+	
+	From:  Doug Leach @ ECT                           04/25/2001 08:09 AM
+	
+
+To: Eric Boyt/Corp/Enron@Enron
+cc:  
+
+Subject: Ft Pierce
+
+It has been a month and I still need these questions answered before we can 
+buy the fuel.
+---------------------- Forwarded by Doug Leach/HOU/ECT on 04/25/2001 08:08 AM 
+---------------------------
+   
+	
+	
+	From:  Doug Leach                           03/23/2001 10:36 AM
+	
+
+To: Bruce Golden/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT
+cc: Eric Boyt/Corp/Enron@Enron, Mathew Gimble/HOU/ECT@ECT, David 
+Fairley/HOU/ECT, Justin Folloder/NA/Enron 
+Subject: Ft Pierce
+
+A couple of quick questions about the truck deliveries to the H. D. King 
+Power plant location:
+
+1) Do the delivering trucks need to have their own pumps?
+2) What size lines are the trucks pumping into? 3"?
+3) When connecting to our lines do the trucks need anything other than 
+standard fittings? 
+
+Outstanding issues:
+
+1) Full spec sheet--especially sodium and potassium guarantees
+2) After the initial tank fill delivery availability 24 hours/day and 
+weekends?
+3) Tank fill and beyond--why not the full 1MM gallons?
+4) Dyed/non dyed fuel issue--tax evaluating
+5) Identify previous diesel supplier to the plant
+6) Design a fuel resupply plan including prepurchase of fuel, call on 
+transportation, buy diesel calls for expected outage periods
+7) Buyer of record and credit issues with suppliers
+8) Tank fill price--fixed or floating? (Platt's, NYMEX, OPIS, rack price)
+9) Commercial start date of plan
+10) Any other issue to be discussed
+
+Did I leave anything out?
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <12132463.1075841976515.JavaMail.evans@thyme>
+Date: Fri, 29 Jun 2001 12:39:54 -0700 (PDT)
+From: mathew.gimble@enron.com
+To: charles.weldon@enron.com, mark.breese@enron.com
+Subject: FMPA Oil Invoice
+Cc: david.fairley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: david.fairley@enron.com
+X-From: Gimble, Mathew </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MGIMBLE>
+X-To: Weldon, V. Charles </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vweldon>, Breese, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbreese>
+X-cc: Fairley, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dfairle>
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+Mark and Charlie,
+
+FMPA is ready to bill us for the oil, but they have a couple of questions.  They want to know whom and where do they send the invoice and what should they reference.  Email your response or any questions to Steve McElhaney at FMPA (steve.mcelhaney@fmpa.com).
+
+In case I forgot to tell y'all, I am going on vacation (right now) through 7/16.  I'll have my cell phone and will check voicemails periodically.
+
+Thanks again for your help and if I miss you, have a great Fourth,
+
+Mathew
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <12818168.1075841976816.JavaMail.evans@thyme>
+Date: Thu, 24 May 2001 05:31:18 -0700 (PDT)
+From: doug.leach@enron.com
+To: charles.weldon@enron.com
+Subject: RE: Ft. Pierce HD King Contact
+Cc: mark.breese@enron.com, bruce.golden@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: mark.breese@enron.com, bruce.golden@enron.com
+X-From: Leach, Doug </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DLEACH>
+X-To: Weldon, V. Charles </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vweldon>
+X-cc: Breese, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbreese>, Golden, Bruce </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bgolden>
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+I spoke to Ed and Steve Treece at the plant this morning. Please confirm that Fort Pierce Utilities Authority is the buyer of record and whom do we send the invoices to. Both Ed and Steve were confused regarding this issue. I also need in writing asap (email ok) from someone within the project deal team that Enron will guarantee the fuel payment on behalf of FPUA. You need to be aware that the plant only has one truck unloading bay. That is fine with a 200,000 gallon tank fill with no rush, but will be unacceptable when you need the 800,000 gallons tank fill or are burning diesel as a primary fuel. What plans are in the works to build another truck unloading bay? When will that bay be operational?
+
+ -----Original Message-----
+From: 	Weldon, V. Charles  
+Sent:	Wednesday, May 23, 2001 4:44 PM
+To:	Leach, Doug
+Cc:	Breese, Mark
+Subject:	Ft. Pierce HD King Contact
+
+Doug,
+
+The contact at the HD King plant is Ed Leongomez.  His phone number is 561-464-5792.  Ed is the plant superintendent and can coordinate all issues regarding the fuel oil either directly or indirectly.  (He happened to call today so he should be glad to hear from us)
+
+
+Thanks,
+
+Charlie 
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <8911240.1075841977132.JavaMail.evans@thyme>
+Date: Mon, 14 May 2001 16:59:00 -0700 (PDT)
+From: david.fairley@enron.com
+To: mark.breese@enron.com
+Subject: RE: Oil Status UPdate -- response to your questions
+Cc: ed.mcmichael@enron.com, v.weldon@enron.com, mathew.gimble@enron.com,
+	jennifer.bagwell@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: ed.mcmichael@enron.com, v.weldon@enron.com, mathew.gimble@enron.com,
+	jennifer.bagwell@enron.com
+X-From: David Fairley <David Fairley/ENRON@enronXgate@ENRON>
+X-To: Mark Breese <Mark Breese/HOU/ECT@ECT>
+X-cc: Ed McMichael <Ed McMichael/HOU/ECT@ECT>, V Charles Weldon <V Charles Weldon/HOU/ECT@ECT>, Mathew Gimble <Mathew Gimble/HOU/ECT@ECT>, Jennifer Bagwell <Jennifer Bagwell/ENRON@enronXgate>
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+Mark -- Thanks very much for this information.
+
+ -----Original Message-----
+From: 	Breese, Mark  
+Sent:	Monday, May 14, 2001 9:44 AM
+To:	Fairley, David
+Cc:	McMichael, Ed; Weldon, V Charles
+Subject:	Oil Status UPdate -- response to your questions
+
+			
+
+I spoke with Doug Leach regarding your questions.  He has already contacted 4-5 suppliers/truckers and is ready to rock and roll when we know what spec. of No. 2 we need.  As such, they are all set to supply our requirement.  Doug reiterated his interest in looking at the long-term relationship we may want to build with a supplier.  He is particularly concerned if the plant switches to oil for a significant amount, supplying large quantities will be a logistical nightmare.  
+
+
+He agrees that we can hedge 80-90 (if not 100%) of the commodity risk by buying the Gulf Coast contract (there is no basis traded for FL).  However, his market view is for prices to come off (they have already dropped a bit) as a result of gasoline prices cooling off.
+
+He has scheduled the test for Vandium today.  We should get results in the next several days.
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <17362235.1075841976565.JavaMail.evans@thyme>
+Date: Wed, 13 Jun 2001 06:36:48 -0700 (PDT)
+From: justin.folloder@enron.com
+To: charles.weldon@enron.com
+Subject: Fort Pierce Repowering Project ("FPRP") - Undyed Fuel Purchase
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Folloder, Justin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JFOLLODE>
+X-To: Weldon, V. Charles </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vweldon>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+Charlie:
+
+Per our conversation earlier today, I outline below the steps to proceed in addressing the following four taxes:  Federal Excise Tax, Pollutant Fee, Florida State Tax and Local Option Fee.  
+
+It is my understanding that Central Oil has paid all four taxes and is currently billing Florida Municipal Power Agency ("FMPA") for the same.  Enron has agreed to reimburse FMPA for all such moneys FMPA pays to Central Oil for the Pollutant Fee.  FMPA will be made whole for the moneys paid to Central Oil related to the Federal Excise Tax, Florida State Tax and the Local Option Fee in the form of a refund from either the IRS or the state of Florida.
+
+Federal Excise Tax
+A technical reading related to claims and refunds of Federal Excise Tax on diesel fuel provides that if undyed fuel is sold, tax must be charged.  Only the end user can apply for a credit or refund.  Per a Fort Pierce Utilities Authority ("FPUA") letter I received today which was included in a fax from Karlan White at Central Oil, FMPA would be the party who ultimately will pay the fuel bill for the oil (to expedite payment).  The billing address, however, will be FPUA; such address would show on the invoices.  Ultimately FPUA is the end user of the oil.
+
+Nevertheless, I suggest FMPA actually complete the attached Form 8849 and remit such form to the address noted in the instructions.  FMPA is the party doing the financial transacting with Central Oil (on behalf of FPUA).  At the same time, FMPA should pay the related Federal Excise Taxes to Central Oil since Central Oil has already remitted such moneys to the IRS.
+
+The rationale for FPMA filing Form 8849 and not FPUA is that FMPA is the party making the payment to Central Oil.  Nevertheless, there is a slight chance the IRS will require FPUA to file the Form 8849 itself.  For administrative purposes, though, I suggest FMPA be the party to file.  If the IRS does not accept the filing, we can then resubmit Form 8849 using FPUA as the filing entity.
+
+Pollutant Fee
+FMPA agrees to reimburse the Pollutant Fee to Central Oil.
+
+Florida State Tax and Local Option Fee
+FMPA must reimburse Central Oil for both the Florida State Tax and the Local Option Fee.  At the same time, FMPA should complete and file the attached Form DR-26, Application for Refund, with the Florida Department of Revenue.  
+
+
+   
+
+If you have any additional questions or concerns, please do not hesitate to contact me.
+
+Regards,
+
+Justin
+______________________
+Justin Folloder
+Enron Wholesale Services
+1400 Smith Street
+Houston, Texas  77002-7361
+
+713.853.9260 (Voice)
+713.646.4713 (Fax)
+
+CONFIDENTIALITY NOTE:
+
+This e-mail message is for the sole use of the intended recipient(s) and may contain confidential and privileged information.  Any unauthorized review, use, disclosure or distribution of any kind is strictly prohibited.  If you are not the intended recipient, contact the sender via reply e-mail and destroy all copies of the original message.
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <30417959.1075841976987.JavaMail.evans@thyme>
+Date: Mon, 14 May 2001 12:02:00 -0700 (PDT)
+From: v.weldon@enron.com
+To: doug.leach@enron.com
+Subject: Fuel Oil Sample
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: V Charles Weldon
+X-To: Doug Leach <Doug Leach/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+Doug,
+
+This note is just to confirm my voicemail message this morning  indicating that the charges for the Fuel Oil sample check for vanadium should be charged to Co# 0413, RC # 106230.  According to the spec sheet I have, the ASTM method for vanadium is D3605 and the units of measurement are ppm (wt).
+
+Again, I appreciate your patience in this frustrating issue.
+
+
+Charlie
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <32976.1075841976540.JavaMail.evans@thyme>
+Date: Wed, 13 Jun 2001 11:38:08 -0700 (PDT)
+From: david.fairley@enron.com
+To: charles.weldon@enron.com
+Subject: RE: Fort Pierce Repowering Project ("FPRP") - Undyed Fuel Purchase
+Cc: mathew.gimble@enron.com, mark.breese@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: mathew.gimble@enron.com, mark.breese@enron.com
+X-From: Fairley, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DFAIRLE>
+X-To: Weldon, V. Charles </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vweldon>
+X-cc: Gimble, Mathew </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mgimble>, Breese, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbreese>
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+Charlie, Check with Mark regarding our last discussion.  - David
+
+ -----Original Message-----
+From: 	Weldon, V. Charles  
+Sent:	Wednesday, June 13, 2001 12:15 PM
+To:	Fairley, David
+Cc:	Gimble, Mathew; Breese, Mark
+Subject:	FW: Fort Pierce Repowering Project ("FPRP") - Undyed Fuel Purchase
+
+David,
+
+Per your request yesterday, I am forwarding the advice provided by our Enro) tax contact, Justin Folloder, on how best to proceed with resolution of the fuel oil tax issue.  Also per our converstion, I assume that you will take up the issues below that require FMPA action directly with Steve M.  The forms that Justin is recommending FMPA fill out and submit are attached.  Please let me know if you have any questions.
+
+
+Thanks,
+
+Charlie
+
+
+---Original Message-----
+From: 	Folloder, Justin  
+Sent:	Wednesday, June 13, 2001 8:37 AM
+To:	Weldon, V. Charles
+Subject:	Fort Pierce Repowering Project ("FPRP") - Undyed Fuel Purchase
+
+Charlie:
+
+Per our conversation earlier today, I outline below the steps to proceed in addressing the following four taxes:  Federal Excise Tax, Pollutant Fee, Florida State Tax and Local Option Fee.  
+
+It is my understanding that Central Oil has paid all four taxes and is currently billing Florida Municipal Power Agency ("FMPA") for the same.  Enron has agreed to reimburse FMPA for all such moneys FMPA pays to Central Oil for the Pollutant Fee.  FMPA will be made whole for the moneys paid to Central Oil related to the Federal Excise Tax, Florida State Tax and the Local Option Fee in the form of a refund from either the IRS or the state of Florida.
+
+Federal Excise Tax
+A technical reading related to claims and refunds of Federal Excise Tax on diesel fuel provides that if undyed fuel is sold, tax must be charged.  Only the end user can apply for a credit or refund.  Per a Fort Pierce Utilities Authority ("FPUA") letter I received today which was included in a fax from Karlan White at Central Oil, FMPA would be the party who ultimately will pay the fuel bill for the oil (to expedite payment).  The billing address, however, will be FPUA; such address would show on the invoices.  Ultimately FPUA is the end user of the oil.
+
+Nevertheless, I suggest FMPA actually complete the attached Form 8849 and remit such form to the address noted in the instructions.  FMPA is the party doing the financial transacting with Central Oil (on behalf of FPUA).  At the same time, FMPA should pay the related Federal Excise Taxes to Central Oil since Central Oil has already remitted such moneys to the IRS.
+
+The rationale for FPMA filing Form 8849 and not FPUA is that FMPA is the party making the payment to Central Oil.  Nevertheless, there is a slight chance the IRS will require FPUA to file the Form 8849 itself.  For administrative purposes, though, I suggest FMPA be the party to file.  If the IRS does not accept the filing, we can then resubmit Form 8849 using FPUA as the filing entity.
+
+Pollutant Fee
+FMPA agrees to reimburse the Pollutant Fee to Central Oil.
+
+Florida State Tax and Local Option Fee
+FMPA must reimburse Central Oil for both the Florida State Tax and the Local Option Fee.  At the same time, FMPA should complete and file the attached Form DR-26, Application for Refund, with the Florida Department of Revenue.  
+
+
+ << File: DR-26.pdf >>  << File: Form 8849 - Sched 1.pdf >>  << File: Form 8849.pdf >> 
+
+If you have any additional questions or concerns, please do not hesitate to contact me.
+
+Regards,
+
+Justin
+______________________
+Justin Folloder
+Enron Wholesale Services
+1400 Smith Street
+Houston, Texas  77002-7361
+
+713.853.9260 (Voice)
+713.646.4713 (Fax)
+
+CONFIDENTIALITY NOTE:
+
+This e-mail message is for the sole use of the intended recipient(s) and may contain confidential and privileged information.  Any unauthorized review, use, disclosure or distribution of any kind is strictly prohibited.  If you are not the intended recipient, contact the sender via reply e-mail and destroy all copies of the original message.
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <5407206.1075841977249.JavaMail.evans@thyme>
+Date: Wed, 9 May 2001 19:45:00 -0700 (PDT)
+From: doug.leach@enron.com
+To: v.weldon@enron.com
+Subject: Re: Fuel Specification Requirements
+Cc: mark.breese@enron.com, ed.mcmichael@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: mark.breese@enron.com, ed.mcmichael@enron.com
+X-From: Doug Leach <Doug Leach/HOU/ECT@ECT>
+X-To: V Charles Weldon <V Charles Weldon/HOU/ECT@ECT>
+X-cc: Mark Breese <Mark Breese/HOU/ECT@ECT>, Ed McMichael <Ed McMichael/HOU/ECT@ECT>
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+Yesterday I faxed a copy of Colonial Pipeline's specifications for fungible low sulfur diesel fuel (74 grade) to Mark Breese. That spec sheet is indicative of the specs for low sulfur diesel in Florida. It must be remembered that Florida has no refineries nor product pipelines and receives their fuel via barges and vessels from domestic and international refineries and terminals. Will forward Colonial jet fuel (54 grade) specs. 
+
+
+   
+
+	Enron North America Corp.  From:  V Charles Weldon                           05/09/2001 03:13 PM	
+		
+
+
+To:	Doug Leach/HOU/ECT@ECT
+cc:	Mark Breese/HOU/ECT@ECT, Ed McMichael/HOU/ECT@ECT 
+Subject:	Re: Fuel Specification Requirements
+
+Doug,
+
+Attached is the (long-awaited) spec for the 200K gallons of low-sulphur #2 Fuel Oil to partially refill the tank at the Ft. Pierce facility in Florida.
+As the attached note describes, the final spec is a result of the combined spec requirements by the environmental permit, MHI (Mitsubishi), and Engineering.
+
+We currently believe that some of these specs may be more stringent than what is commercially available.  In the event that some of these specs are too stringent, we would like you to: 1) identify which specs are not reasonably attainable, and 2) suggest what value of these specs are attainable.   Your feedback will be shared with the appropriate parties and, assuming there are spec change recommendations, these parties will determine how best to proceed.  
+
+Please note that the first attached note requests than any bids we get contain info on density, heating value, and trace contaminants.  Additionally, the second attached note references getting multiple bids for different specs.  I suggest that, for now, we resolve the spec issue internally as described above and then we obtain quotes.   If you have any other suggestions on how best to proceed, your input is welcome.
+
+Your assistance in this matter is, and has been, greatly appreciated.
+
+
+Thanks,
+
+Charlie Weldon
+
+
+---------------------- Forwarded by V Charles Weldon/HOU/ECT on 05/09/2001 02:45 PM ---------------------------
+
+
+Matthew Tezyk@ENRON_DEVELOPMENT
+05/09/2001 01:56 PM
+To:	V Charles Weldon/HOU/ECT@ECT
+cc:	Scott Churbock/NA/Enron@ENRON, Darrell Stovall/NA/Enron@Enron, Jeffrey Keenan/HOU/ECT@ECT, Mathew Gimble/HOU/ECT@ECT, Ray McPhail/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT 
+Subject:	Re: Fuel Specification Requirements
+
+Charles,
+
+	Attached below is the fuel oil specification.  Our Engineering group has reviewed all Vendor and Air Permit requirements, and the sheet labeled "Fuel Oil Spec" is the fuel oil specification.  The sheet labeled "Comparison Specs" is the other data you requested for comparison.  When using the fuel oil specification to purchase fuel, please have the vendors provide the following information:
+
+Density at reference temperature
+Heating Values at reference temperature
+Maximum trace contaminant limits:
+	chromium
+	arsenic
+	siloxenes
+	copper corrosivity
+	cetane index
+	cetane number
+
+Thank you,
+
+Matt
+
+---------------------- Forwarded by Matthew Tezyk/ENRON_DEVELOPMENT on 05/09/2001 10:10 AM ---------------------------
+
+
+Ray McPhail
+05/09/2001 09:37 AM
+To:	Matthew Tezyk/ENRON_DEVELOPMENT@Enron_Development
+cc:	James Craig/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Frank Hosak/ENRON_DEVELOPMENT@ENRON_DEVELOPMENt, Bill Fox/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Douglas Ottens/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT 
+Subject:	Re: Fuel Specification Requirements   
+
+Matt-
+
+I talked with Bill Fox and Doug Ottens concerning the fuel spec.  In order for MHI to meet the particulate emissions, we must provide a fuel oil with no ash.  Additionally, vanadium is a catalyst poison, so to meet the CMI needs, I reduced the vanadium.
+
+I am attaching a revised fuel oil spec matrix, which has four fuel specs included.  The first column meets the minimum requirements of MHI & CMI.  The second column holds the ash at the low value, but allows the vanadium to increase.  The third column holds the low vanadium value, but allows the ash to increase.  The last column allow both the ash and vanadium to increase.
+
+ENA will need to get bids for column 1 and may want to solicit bids for column 2, 3, & 4 for economic comparison purposes.
+
+Ray
+
+
+ 
+
+
+
+
+
+
+<Embedded StdOleLink>
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <8742418.1075851692044.JavaMail.evans@thyme>
+Date: Wed, 7 Mar 2001 08:51:00 -0800 (PST)
+From: john.hodge@enron.com
+To: eric.boyt@enron.com, v.weldon@enron.com
+Subject: Florida Rates as of 4/1/01
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: John Hodge
+X-To: Eric Boyt, V Charles Weldon
+X-cc: 
+X-bcc: 
+X-Folder: \Charles_Wheldon_Nov2001\Notes Folders\Ft. pierce
+X-Origin: WHELDON-C
+X-FileName: vweldon.nsf
+
+Florida has filed to revise their fuel rates based on actual usage from 
+4/1/00 - 9/30/00.  The new fuel percentage will be 2.90% instead of 2.25%.  
+The effective fuel unit commodity surcharge for FTS-1 and FTS-2 will also 
+change (a decrease).  The new commodity rate for FTS-1 will be $0.0348/Dth 
+instead of $0.0475.  The new commodity rate for FTS-2 will be $0.0178/Dth 
+instead of $0.0305/Dth.  If you have any questions, please call.
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <24142126.1075851691683.JavaMail.evans@thyme>
+Date: Wed, 9 May 2001 07:59:00 -0700 (PDT)
+From: rusty.stevens@enron.com
+To: ruth.concannon@enron.com
+Subject: Pipeline Contractors
+Cc: david.fairley@enron.com, v.weldon@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: david.fairley@enron.com, v.weldon@enron.com
+X-From: Rusty Stevens
+X-To: Ruth Concannon
+X-cc: David Fairley, V Charles Weldon
+X-bcc: 
+X-Folder: \Charles_Wheldon_Nov2001\Notes Folders\Ft. pierce
+X-Origin: WHELDON-C
+X-FileName: vweldon.nsf
+
+I got this message for a contractor that might be interested in working with 
+us on the lateral.  Steve Thome had good luck with them on a water line and 
+wanted to pass the name along.  He also called and mentioned a guy who is 
+with an Enron affiliate - Northern Border - and is interested in a pipeline 
+spur as well.  His phone number is 303-575-6479.  May be helpful to keep it 
+in the Enron family.
+
+
+---------------------- Forwarded by Rusty Stevens/Corp/Enron on 05/09/2001 
+02:49 PM ---------------------------
+From: Stephen Thome/ENRON@enronXgate on 05/08/2001 10:10 AM
+To: Rusty Stevens/Corp/Enron@ENRON
+cc:  
+
+Subject: Pipeline Contractors
+
+Rusty,
+
+Here is the contact for our pipeline contractor:
+
+Clark Ashton
+Rooney Engineering
+1418 Millstream Lane
+Salt Lake City, UT 84106
+
+801-463-7981 
+
+Clark is the business development guy.  He is well connected in the power 
+industry (he used to work for NEPCo).  I believe Rooney specializes in 
+pipeline installation - they certainly are extremely knowledgeable.  I 
+suggest you contact Clark to find out more.  
+
+Steve
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <30893114.1075841976891.JavaMail.evans@thyme>
+Date: Wed, 23 May 2001 13:22:48 -0700 (PDT)
+From: frank.hosak@enron.com
+To: charles.weldon@enron.com
+Subject: MHI Ref. TGOKN-0523B: Ft. Pierce Project ( Gas Turbine related
+	 data   SUBJ.: Ash Content in Fuel Oil
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Hosak, Frank </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=86256608-65ACBA-8625650F-79C895>
+X-To: Weldon, V. Charles </O=ENRON/OU=NA/CN=RECIPIENTS/CN=VWELDON>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+
+---------------------- Forwarded by Frank Hosak/ENRON_DEVELOPMENT on 05/23/2001 03:21 PM ---------------------------
+   
+
+	Enron Engineering & Construction Company From:  Frank Hosak                           05/23/2001 09:51 AM	
+		
+
+
+To:	V Charles Weldon/HOU/ECT@ECT, Matthew Tezyk/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT
+cc:	Bill Fox/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Ray McPhail/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT (bcc: Frank Hosak/ENRON_DEVELOPMENT)
+
+Subject:	MHI Ref. TGOKN-0523B: Ft. Pierce Project ( Gas Turbine related	 data 
+ SUBJ.: Ash Content in Fuel Oil
+
+Gentlemen, the attached MHI response #2 provides their answer to the Enron question of the maximum allowable ash content in the fuel oil supply.
+
+At this stage we will have to assume that this is definitely their final answer to the ash content issue.
+
+Thanks,
+Frank
+---------------------- Forwarded by Frank Hosak/ENRON_DEVELOPMENT on 05/23/2001 09:41 AM ---------------------------
+
+
+<F880005@e.tmw.mhi.co.jp> on 05/23/2001 08:39:49 AM
+To:	"Coleman, Mike" <Mike.Coleman@ENRON.com>, bwiggs@enron.com
+cc:	F952047@e.tmw.mhi.co.jp, F852031@e.tmw.mhi.co.jp, F752038@e.tmw.mhi.co.jp, katsumi_kojiri@mhiahq.com, Q19952@hq.mhi.co.jp, Q15643@hq.mhi.co.jp, Q19283@hq.mhi.co.jp, Q15458@hq.mhi.co.jp, "Tapscott, Ron" <Ron.Tapscott@ENRON.com>, "Fox, Bill" <Bill.Fox@ENRON.com>, "Stovall, Darrell" <Darrell.Stovall@ENRON.com>, "Gimble, Mathew" <Mathew.Gimble@ENRON.com>, "Hosak, Frank" <Frank.Hosak@ENRON.com>, F922025@e.tmw.mhi.co.jp, F962059@e.tmw.mhi.co.jp, FX90806@e.tmw.mhi.co.jp, akimasa_muyama@mhiahq.com, F882032@e.tmw.mhi.co.jp, F862012@e.tmw.mhi.co.jp, F932078@e.tmw.mhi.co.jp 
+
+Subject:	MHI Ref. TGOKN-0523B: Ft. Pierece Project ( Gas Turbine related	 data )
+
+
+
+
+
+Messrs. Frank Hosak/ Mike Coleman/ Bill Fox, Enron
+
+     From K. Nagamori, MHI Takasago on May 23, 2001
+
+1. Enron FPRP-EEOS-MHI-0009
+   Gas Turbine Process Temp. & Start-up Curves
+  (1) Min./Max. temp. of water for NOx control
+  (MHI Response)
+  As shown in our Utility Consumption List for RioGen project (S4-70027
+  R-1),
+  Min. is 9 deg.C and Max. is 43.9 deg.C at 5.5 barg.
+
+  (2) Min. temp rotor air cooled to
+  (MHI Response)
+  We will submit them at the detailed engineering stage.
+
+  (3) Curve for GT exhaust temp. vs. GT start-up
+  (MHI Response)
+  We will submit it by May 25.
+
+  (4) Curve for Rotor air temp. vs. GT start-up
+  (MHI Response)
+  We could not submit these data because they are proprietary data.
+
+2. Enron FPRP-EEOS-MHI-0016
+   Max. Allowable Limit for Fuel Oil Ash Content
+  (MHI Response)
+  Max. allowable limit for PM-10 front-half guarantee of 10mg/Nm3 at GT
+  100% load on oil firing are as follows:
+  Ash content (10% residuum basis)            0.1%
+  Ramsbottom Carbon Residue (10% residuum basis)   0.15%
+
+3. Revised performance & emission sheet which will be attached in EXHIBIT
+A-2
+  (MHI Response)
+  Please refer to attached data sheet. (File "M501F Permit data r5.xls")
+
+4. Longer term degradation curve for performance (Enron e-mail of 4/26 )
+  (MHI Response)
+  Please refer to attached performance deterioration curves from
+  initial ignition to 48000EOH, through first major overhaul. (File
+  "e00-01172.tif")
+  This is for your reference and not on guarantee basis.
+
+Best Regards
+(See attached file: M501F Permit Data r5.xls)(See attached file:
+e00-01172.tif)
+
+ - M501F Permit Data r5.xls 
+ - e00-01172.tif 
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <25911011.1075851691769.JavaMail.evans@thyme>
+Date: Mon, 7 May 2001 07:40:00 -0700 (PDT)
+From: matthew.tezyk@enron.com
+To: v.weldon@enron.com
+Subject: Update of Fuel Oil Analysis
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Matthew Tezyk
+X-To: V Charles Weldon
+X-cc: 
+X-bcc: 
+X-Folder: \Charles_Wheldon_Nov2001\Notes Folders\Ft. pierce
+X-Origin: WHELDON-C
+X-FileName: vweldon.nsf
+
+---------------------- Forwarded by Matthew Tezyk/ENRON_DEVELOPMENT on 
+05/07/2001 02:39 PM ---------------------------
+
+
+Matthew Tezyk
+05/07/2001 09:17 AM
+To: charlie.weldon@enron.com, Scott Churbock/NA/Enron@ENRON
+cc: Bill Fox/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Darrell 
+Stovall/NA/Enron@Enron, Mathew Gimble/HOU/ECT@ECT, Douglas 
+Ottens/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT 
+Subject: Update of Fuel Oil Analysis
+
+Team,
+
+Late last week, we were asked to provide a fuel oil specification sheet so 
+fuel could be scheduled for the Site at Ft. Pierce.  The issue, currently, is 
+we have three different specifications given to us over the past few months 
+and are unsure which is correct.  The resolution:  we are reviewing the 
+specifications from the air permit and specifications given to us from 
+Mitsubishi to determine the minimum requirements, for the fuel, which we must 
+meet for the air permit and gas turbine generator.  We anticipate this review 
+process to be complete by the middle of this week.  If there are any 
+questions, please feel free to contact me at 68258.
+
+Thank you,
+
+Matthew Tezyk
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <3567954.1075841977380.JavaMail.evans@thyme>
+Date: Mon, 7 May 2001 15:56:00 -0700 (PDT)
+From: mark.breese@enron.com
+To: ed.mcmichael@enron.com, v.weldon@enron.com
+Subject: RE: Responses to your questions on fuel oil for Fort Pierce
+ facility
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Mark Breese <Mark Breese/HOU/ECT@ECT>
+X-To: Ed McMichael <Ed McMichael/HOU/ECT@ECT>, V Charles Weldon <V Charles Weldon/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+
+---------------------- Forwarded by Mark Breese/HOU/ECT on 05/07/2001 12:55 PM ---------------------------
+From:	David Fairley/ENRON@enronXgate on 05/07/2001 12:28 PM
+To:	Mark Breese/HOU/ECT@ECT
+cc:	Mathew Gimble/HOU/ECT@ECT 
+Subject:	RE: Responses to your questions on fuel oil for Fort Pierce facility
+
+Mark -- 
+
+(1)  We can use the MHI turbine specs that we have now.  The turbine team will be telling everyone that final specs (on everything in the turbine contract) will not be final for a while, so you have to use what is available now.  In reality, not much will actually change.  Just use their current oil spec sheet.
+
+(2)  We have the opportunity to sell more than 200,00 gallons now, but we need a price to work the extra deal.  
+
+(3)  If extra time for filling is desired (as in a put), then let me know the parameters, and I will try to get it agreed to.  Starting to fill on time is important, but if we take some extra time to finish, that might be okay.
+
+(4)  Regarding the comment about not wanting too many trucks lined up and causing traffic congestion, there is room in two spots near the plant to "stage" a series of trucks.  If this info would be useful, let me know.
+
+ -----Original Message-----
+From: 	Breese, Mark  
+Sent:	Monday, May 07, 2001 11:37 AM
+To:	Leach, Doug
+Cc:	Gimble, Mathew; Fairley, David; Boyt, Eric; McMichael, Ed; Weldon, V Charles
+Subject:	Responses to your questions on fuel oil for Fort Pierce facility
+
+
+
+Following are responses to your questions on the truck deliveries to the H.D. King Power plant location (Fort Pierce).  We have answers to all questions except the quality specifications of the fuel oil.  We expect an answer on the quality specs tomorrow from our engineers (they are determining whether the air permit or the turbine requirements will be the primary driver of our quality specs).  We will forward them as soon as we receive these from the engineers.
+
+How long will it take to get a notional price on filling the 200,000 gallon order?
+
+Charlie and I will call later today to confirm your receipt of this email and to review any additional questions.  Please call me at x36751 or Charlie at x57229 with any questions.
+
+Thanks
+
+----------------------------------------------------------------------------------------------------------------------
+
+
+1) Do the delivering trucks need to have their own pumps?   
+
+	The delivering trucks will require pumps.
+
+2) What size lines are the trucks pumping into? 3"?     
+
+	The line is 3"
+
+
+3) When connecting to our lines do the trucks need anything other than standard fittings?    
+
+	Standard fittings may be used or 3 inch quick disconnect fittings.
+
+
+4) Full spec sheet--especially sodium and potassium guarantees    
+
+The environmental specs are known but the specs on the turbine itself from Mitsubishi (MHI) are not known.  We cannot determine the final specs unitl the MHI requirements are known.
+
+5) After the initial tank fill delivery availability 24 hours/day and weekends?  
+
+	Someone is always on duty at plant so deliveries can technically be made on a 24/7 basis.  The plant manager did say he would like to avoid a long line of trucks out the plant in order to maintain good relationships with the neighbors.
+
+
+6) Tank fill and beyond--why not the full 1MM gallons?  
+
+	At this point we are only replacing the 200,000 gallons of oil we had Fort Pierce burn in order to empty their old tank and allow us to clear that location for our plant.  Additional oil may be purchased later (next year) after development plans are further along.
+
+
+7) Dyed/non dyed fuel issue--tax evaluating   
+
+	The plant requires non-Dyed fuel.
+
+
+8) Identify previous diesel supplier to the plant   
+
+	Coastal was the previous supplier to the plant.
+
+
+9) Design a fuel resupply plan including pre-purchase of fuel, call on transportation, buy diesel calls for expected outage periods
+
+		Such a plan appears to be premature at this point but we will review the issues with you at a later date.
+
+10) Buyer of record and credit issues with suppliers   
+
+		Fort Pierce Utilities Authority is the buyer of record.
+
+11) Tank fill price--fixed or floating? (Platt's, NYMEX, OPIS, rack price)  
+
+		We are looking for a firm fixed price bid for filling the tank, unless you would recommend otherwise.
+
+12) Commercial start date of plan     
+
+		The tank will be finished and available for fill on 5/15/2001.
+
+13) Any other issue to be discussed
+
+		None that we are aware of.
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <13760450.1075851691840.JavaMail.evans@thyme>
+Date: Mon, 7 May 2001 04:30:00 -0700 (PDT)
+From: mathew.gimble@enron.com
+To: v.weldon@enron.com
+Subject: Re: FPRP -- Proforma Performance Input/Review M Today 5/7 2:30 PM
+ 3AC 33C1
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+X-From: Mathew Gimble
+X-To: V Charles Weldon
+X-cc: 
+X-bcc: 
+X-Folder: \Charles_Wheldon_Nov2001\Notes Folders\Ft. pierce
+X-Origin: WHELDON-C
+X-FileName: vweldon.nsf
+
+---------------------- Forwarded by Mathew Gimble/HOU/ECT on 05/07/2001 11:=
+30=20
+AM ---------------------------
+From: Mathew Gimble on 05/07/2001 09:42 AM
+To: Darrell Stovall/NA/Enron@ENRON
+cc: David Fairley/Enron@EnronXGate, Mike Coleman/Enron@EnronXGate, Jennifer=
+=20
+Bagwell/Enron@EnronXGate, Jeffrey Keenan/HOU/ECT@ECT, Bruce=20
+Golden/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT=20
+Subject: Re: FPRP -- Proforma Performance Input/Review M Today 5/7 2:30 PM=
+=20
+3AC 33C1 =20
+
+Darrell,
+
+There still appears to be some confusion regarding the inclusion of FPUA's =
+#6=20
+ST into the deal.  The heat rate of the #6 ST should not be included in the=
+=20
+overall plant heat rate (neither gross nor net).  The heat rate of the=20
+facility should include the GT and FPUA's #7 and #8 STs.  Duct firing #6=20
+needs to be determined and calculated on a stand-alone basis.  Bottom line:=
+ =20
+whether FPUA or FPRP uses #6 to generate power, the heat rate associated wi=
+th=20
+#6 is the duct fired heat rate.  I have been anticipating results to look=
+=20
+something like the following:
+
+Combined Cycle HHV  7,800 heat rate (based on 183MW + 82MW =3D 265MW using=
+=20
+2,067MMBtu/hr)
+FPUA 9,500 HHV  9,500 heat rate on 82MW =3D 779MMBtu/hr
+FPRP Combined Cycle HHV 2,067MMBtu/hr - 779MMBtu/hr =3D 1,288MMBtu/hr for 1=
+83MW=20
+=3D 7,038 heat rate
+
+Duct Firing HHV   10,000 heat rate on 14MW =3D 140MMBtu/hr (should equal th=
+e=20
+actual amount of additional gas needed to duct fire)
+
+Let me know if you have any questions.
+
+Thanks,
+Mathew
+
+
+
+
+Darrell Stovall@ENRON
+05/07/2001 08:38 AM
+To: Mathew Gimble/HOU/ECT@ECT, Ron Tapscott/HOU/ECT@ECT, Jennifer=20
+Bagwell/Enron@EnronXGate
+cc: Jeffrey Keenan/HOU/ECT@ECT, Bruce=20
+Golden/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Mike Coleman/Enron@EnronXGate,=
+=20
+Sandra EECC Rodriguez/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT=20
+Subject: FPRP -- Proforma Performance Input/Review M Today 5/7 2:30 PM 3AC=
+=20
+33C1
+
+I=01,d like to set up meeting to review performance inputs to proforma ... =
+today=20
+5/7 at 2:30 PM 3AC 33C1.
+
+Jennifer, please coordinate with ENA participants and with Sandra R @ 5_642=
+6=20
+to ensure we have the essential folks available.
+
+Updated Proforma Input (Still Preliminary)
+We worked with CMI much of last week to revise HRSG configuration to=20
+accommodate addition of ST#6. This is turning out to be moderate change to=
+=20
+design ... potential cost/schedule impacts still under assessment ...=20
+continuing/should finalize this week. Also updated assessment of aux loads =
+--=20
+increased split to GT resulting in reduced net output.=20
+
+Output =3D 185 - 3.5 =3D 181.5 MW net (due to higher GT aux loads)
+
+HR (Plant-net) =3D 7980/7196 HHV/LHV (increased due to impact of ST#6)
+
+HR (GT-gross) =3D 10,326/9311 HHV/LHV=20
+
+Degradation -- See attached curves ... this is the best currently available=
+=20
+degradation data. It's a Sieman-Westinghouse curve -- still trying to get M=
+HI=20
+data. Typically, either apply curves or use ~5% flat degradation as=20
+alternative. Needs to be coordinated with Operating/maintenance plan.
+
+
+
+I'll be working with engineering personnel to firm up as much as possible a=
+nd=20
+be ready for meeting this afternoon.
+
+thx/dgs
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <32872721.1075841977012.JavaMail.evans@thyme>
+Date: Thu, 17 May 2001 14:29:00 -0700 (PDT)
+From: v.weldon@enron.com
+To: v.weldon@enron.com
+Subject: Re: Fuel Oil Sample
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: V Charles Weldon
+X-To: V Charles Weldon <V Charles Weldon/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+Thanks Doug,  Can you confirm (or tell me how I can)  that these sample charge are being routed to Co#0413, RC#106230 per my previous note.
+
+
+   
+
+	Enron North America Corp.  From:  V Charles Weldon                           05/14/2001 09:02 AM	
+		
+
+
+To:	Doug Leach/HOU/ECT@ECT
+cc:	 
+Subject:	Fuel Oil Sample
+
+Doug,
+
+This note is just to confirm my voicemail message this morning  indicating that the charges for the Fuel Oil sample check for vanadium should be charged to Co# 0413, RC # 106230.  According to the spec sheet I have, the ASTM method for vanadium is D3605 and the units of measurement are ppm (wt).
+
+Again, I appreciate your patience in this frustrating issue.
+
+
+Charlie
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <12418485.1075841977106.JavaMail.evans@thyme>
+Date: Mon, 14 May 2001 23:39:00 -0700 (PDT)
+From: bill.fox@enron.com
+To: v.weldon@enron.com
+Subject: Re: Ash Spec Response from MHI
+Cc: frank.hosak@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: frank.hosak@enron.com
+X-From: Bill Fox <Bill Fox/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT>
+X-To: V Charles Weldon <V Charles Weldon/HOU/ECT@ECT>
+X-cc: Frank Hosak <Frank Hosak/ENRON_DEVELOPMENT@ENRON_DEVELOPMENt>
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+Charlie:  We made a request to MHI last week and with this memo, I will follow up with Frank Hosak to make sure that it is on the items to be discussed this coming Wednesday.
+
+Frank:  Would you please make sure that we have this item on the Agenda and tell them we are expecting an answer.
+
+thanks, bill fox 
+
+
+   
+	  From:  V Charles Weldon @ ECT                           05/14/2001 02:23 PM	
+		
+
+
+To:	Bill Fox/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT
+cc:	Mark Breese/HOU/ECT@ECT 
+Subject:	Ash Spec Response from MHI
+
+Bill,
+
+I understand that you are the contact person for MHI concerning the ash spec for the 501F turbine being used on the Ft. Pierce project.  I have been working with Matt Tezyk to finalize all issues concerning this fuel oil spec. Please let me know as soon as possible what the MHI response is regarding the inability to get 0% ash fuel oil.   We are trying to get closure on this issue so we can order the fuel oil to replace that which we caused FPUA to burn to begin construction on the site.
+
+Thanks!
+
+Charlie Weldon
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <9842775.1075851691572.JavaMail.evans@thyme>
+Date: Mon, 14 May 2001 02:02:00 -0700 (PDT)
+From: v.weldon@enron.com
+To: doug.leach@enron.com
+Subject: Fuel Oil Sample
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: V Charles Weldon
+X-To: Doug Leach
+X-cc: 
+X-bcc: 
+X-Folder: \Charles_Wheldon_Nov2001\Notes Folders\Ft. pierce
+X-Origin: WHELDON-C
+X-FileName: vweldon.nsf
+
+Doug,
+
+This note is just to confirm my voicemail message this morning  indicating 
+that the charges for the Fuel Oil sample check for vanadium should be charged 
+to Co# 0413, RC # 106230.  According to the spec sheet I have, the ASTM 
+method for vanadium is D3605 and the units of measurement are ppm (wt).
+
+Again, I appreciate your patience in this frustrating issue.
+
+
+Charlie
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <16520652.1075851691707.JavaMail.evans@thyme>
+Date: Wed, 9 May 2001 06:56:00 -0700 (PDT)
+From: matthew.tezyk@enron.com
+To: v.weldon@enron.com
+Subject: Re: Fuel Specification Requirements
+Cc: scott.churbock@enron.com, darrell.stovall@enron.com,
+	jeffrey.keenan@enron.com, mathew.gimble@enron.com,
+	ray.mcphail@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: scott.churbock@enron.com, darrell.stovall@enron.com,
+	jeffrey.keenan@enron.com, mathew.gimble@enron.com,
+	ray.mcphail@enron.com
+X-From: Matthew Tezyk
+X-To: V Charles Weldon
+X-cc: Scott Churbock, Darrell Stovall, Jeffrey Keenan, Mathew Gimble, Ray McPhail
+X-bcc: 
+X-Folder: \Charles_Wheldon_Nov2001\Notes Folders\Ft. pierce
+X-Origin: WHELDON-C
+X-FileName: vweldon.nsf
+
+Charles,
+
+ Attached below is the fuel oil specification.  Our Engineering group has 
+reviewed all Vendor and Air Permit requirements, and the sheet labeled "Fuel 
+Oil Spec" is the fuel oil specification.  The sheet labeled "Comparison 
+Specs" is the other data you requested for comparison.  When using the fuel 
+oil specification to purchase fuel, please have the vendors provide the 
+following information:
+
+Density at reference temperature
+Heating Values at reference temperature
+Maximum trace contaminant limits:
+ chromium
+ arsenic
+ siloxenes
+ copper corrosivity
+ cetane index
+ cetane number
+
+Thank you,
+
+Matt
+
+---------------------- Forwarded by Matthew Tezyk/ENRON_DEVELOPMENT on 
+05/09/2001 10:10 AM ---------------------------
+
+
+Ray McPhail
+05/09/2001 09:37 AM
+To: Matthew Tezyk/ENRON_DEVELOPMENT@Enron_Development
+cc: James Craig/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Frank 
+Hosak/ENRON_DEVELOPMENT@ENRON_DEVELOPMENt, Bill 
+Fox/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Douglas 
+Ottens/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT 
+Subject: Re: Fuel Specification Requirements  
+
+Matt-
+
+I talked with Bill Fox and Doug Ottens concerning the fuel spec.  In order 
+for MHI to meet the particulate emissions, we must provide a fuel oil with no 
+ash.  Additionally, vanadium is a catalyst poison, so to meet the CMI needs, 
+I reduced the vanadium.
+
+I am attaching a revised fuel oil spec matrix, which has four fuel specs 
+included.  The first column meets the minimum requirements of MHI & CMI.  The 
+second column holds the ash at the low value, but allows the vanadium to 
+increase.  The third column holds the low vanadium value, but allows the ash 
+to increase.  The last column allow both the ash and vanadium to increase.
+
+ENA will need to get bids for column 1 and may want to solicit bids for 
+column 2, 3, & 4 for economic comparison purposes.
+
+Ray
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <23434844.1075841976614.JavaMail.evans@thyme>
+Date: Thu, 31 May 2001 17:30:47 -0700 (PDT)
+From: jim.meyn@enron.com
+To: jennifer.bagwell@enron.com, mathew.gimble@enron.com
+Subject: Ft. Pierce Evaluation
+Cc: edith.cross@enron.com, charles.weldon@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: edith.cross@enron.com, charles.weldon@enron.com
+X-From: Meyn, Jim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMEYN>
+X-To: Bagwell, Jennifer </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jbagwell>, Gimble, Mathew </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mgimble>
+X-cc: Cross, Edith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ecross>, Weldon, V. Charles </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vweldon>
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+Jennifer, attached is a summary model of the Ft. Pierce evaluation using Enron's curves.  Please note that there are two scenarios provided, based on a best case and worst case pipeline demand charge scenario.  The spread option model was dispatched based on the same assumptions as utilized by the gas group in developing their pipeline cost assumptions.  I've tried to add notes to the models outlining potential areas of additional value as there are some unique characteristics of this deal that should provide additional value to the project.  I'll be over to help review the cash flow model.  
+
+Thanks for everyone's help (Edith/Charlie)
+
+- Jim
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <10270639.1075851691951.JavaMail.evans@thyme>
+Date: Wed, 25 Apr 2001 08:13:00 -0700 (PDT)
+From: mathew.gimble@enron.com
+To: eric.boyt@enron.com, v.weldon@enron.com
+Subject: Ft Pierce Gas Assumptions
+Cc: jennifer.bagwell@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jennifer.bagwell@enron.com
+X-From: Mathew Gimble
+X-To: Eric Boyt, V Charles Weldon
+X-cc: Jennifer Bagwell
+X-bcc: 
+X-Folder: \Charles_Wheldon_Nov2001\Notes Folders\Ft. pierce
+X-Origin: WHELDON-C
+X-FileName: vweldon.nsf
+
+Per our discussion today, see attached.  Note the heat rate is moving around 
+a bit.
+
+Mathew
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <17531199.1075841977223.JavaMail.evans@thyme>
+Date: Thu, 10 May 2001 10:39:00 -0700 (PDT)
+From: marc.roche@enron.com
+To: doug.leach@enron.com, v.weldon@enron.com
+Subject: Re: Fuel Specification Requirements
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Marc De La Roche <Marc De La Roche/HOU/ECT@ECT>
+X-To: Doug Leach <Doug Leach/HOU/ECT@ECT>, V Charles Weldon <V Charles Weldon/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+HHV is not the proper terminology, Gross Heat of Combustion is. The following is for Light diesel. First number is min, second is max. Jet fuel should be in the same ballpark as Light Diesel. Gross Heat of Combustion is about 6.4% higher than Net Heat of Combustion (incorrectly referred to as LHV), so divide the Gross numbers by 1.064 to obtain Net numbers. 
+
+Gross Heat of Combustion, Kcal/Kg	D-240 or D-4868	10,820	10,966	
+Gross Heat of Combustion, BTU/Lbs	D-240 or D-4868	19,520	19,780	
+
+Marc
+
+
+   
+
+	  From:  Doug Leach                           05/09/2001 05:23 PM	
+		
+
+
+To:	Marc De La Roche/HOU/ECT@ECT
+cc:	 
+Subject:	Re: Fuel Specification Requirements
+
+Could you forward this info to Charlie? Copy me.
+---------------------- Forwarded by Doug Leach/HOU/ECT on 05/09/2001 05:22 PM ---------------------------
+   
+
+	Enron North America Corp.  From:  V Charles Weldon                           05/09/2001 05:09 PM	
+		
+
+
+To:	Doug Leach/HOU/ECT@ECT
+cc:	 
+Subject:	Re: Fuel Specification Requirements   
+
+Doug,
+
+Thanks for the info.  I have passed it along.
+
+I have one more question regarding heating values.  Do you know what the LHV and HHV values are for #2 and jet fuel?  I figure those are parameters that are measured and known but they weren't on the spec sheet.  
+
+
+Thanks,
+
+Charlie
+
+
+
+
+
+
+<Embedded StdOleLink>
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <10486798.1075841976939.JavaMail.evans@thyme>
+Date: Mon, 21 May 2001 07:27:03 -0700 (PDT)
+From: mike.coleman@enron.com
+To: charles.weldon@enron.com, matthew.tezyk@enron.com
+Subject: Fuel Oil Ash Spec
+Cc: mark.breese@enron.com, ed.mcmichael@enron.com, mathew.gimble@enron.com,
+	david.fairley@enron.com, bill.fox@enron.com, ron.tapscott@enron.com,
+	darrell.stovall@enron.com, ray.mcphail@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: mark.breese@enron.com, ed.mcmichael@enron.com, mathew.gimble@enron.com,
+	david.fairley@enron.com, bill.fox@enron.com, ron.tapscott@enron.com,
+	darrell.stovall@enron.com, ray.mcphail@enron.com
+X-From: Coleman, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MCOLEMA>
+X-To: Weldon, V. Charles </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vweldon>, Tezyk, Matthew </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=86256608-65acba-862565a0-604bd8>
+X-cc: Breese, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbreese>, McMichael Jr., Ed </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emcmich>, Gimble, Mathew </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=cf5ac2bb-847af583-862564e6-490e21>, Fairley, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dfairle>, Fox, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=86256608-65acba-8625671b-780563>, Tapscott, Ron </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=75ef95c1-ae92e54e-862566d3-6205c7>, Stovall, Darrell </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=5daba3a1-b6c3227d-862568f7-733f1b>, McPhail, Ray </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=25ca6c01-acf0c967-862566cc-7f6ec9>
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+Can you tell me what the lowest reasonable ash content readily available is?  We will submit the lowest reasonably attainable spec to MHI and ask them to assure that they will meet the PM10 requirements.
+
+Thanks!
+
+Mike
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <26649277.1075851691550.JavaMail.evans@thyme>
+Date: Mon, 14 May 2001 02:44:00 -0700 (PDT)
+From: mark.breese@enron.com
+To: david.fairley@enron.com
+Subject: Oil Status UPdate -- response to your questions
+Cc: ed.mcmichael@enron.com, v.weldon@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: ed.mcmichael@enron.com, v.weldon@enron.com
+X-From: Mark Breese
+X-To: David Fairley
+X-cc: Ed McMichael, V Charles Weldon
+X-bcc: 
+X-Folder: \Charles_Wheldon_Nov2001\Notes Folders\Ft. pierce
+X-Origin: WHELDON-C
+X-FileName: vweldon.nsf
+
+   
+
+I spoke with Doug Leach regarding your questions.  He has already contacted 
+4-5 suppliers/truckers and is ready to rock and roll when we know what spec. 
+of No. 2 we need.  As such, they are all set to supply our requirement.  Doug 
+reiterated his interest in looking at the long-term relationship we may want 
+to build with a supplier.  He is particularly concerned if the plant switches 
+to oil for a significant amount, supplying large quantities will be a 
+logistical nightmare.  
+
+
+He agrees that we can hedge 80-90 (if not 100%) of the commodity risk by 
+buying the Gulf Coast contract (there is no basis traded for FL).  However, 
+his market view is for prices to come off (they have already dropped a bit) 
+as a result of gasoline prices cooling off.
+
+He has scheduled the test for Vandium today.  We should get results in the 
+next several days.
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <12732009.1075851691929.JavaMail.evans@thyme>
+Date: Tue, 1 May 2001 08:02:00 -0700 (PDT)
+From: v.weldon@enron.com
+To: david.fairley@enron.com, mathew.gimble@enron.com, edith.cross@enron.com,
+	jennifer.bagwell@enron.com, ruth.concannon@enron.com
+Subject: Ft. Pierce Gas Capacity Assumptions
+Cc: eric.boyt@enron.com, ed.mcmichael@enron.com, mark.breese@enron.com,
+	v.weldon@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: eric.boyt@enron.com, ed.mcmichael@enron.com, mark.breese@enron.com,
+	v.weldon@enron.com
+X-From: V Charles Weldon
+X-To: David Fairley, Mathew Gimble, Edith Cross, Jennifer Bagwell, Ruth Concannon
+X-cc: Eric Boyt, Ed McMichael, Mark Breese, V Charles Weldon
+X-bcc: 
+X-Folder: \Charles_Wheldon_Nov2001\Notes Folders\Ft. pierce
+X-Origin: WHELDON-C
+X-FileName: vweldon.nsf
+
+The following basic assumptions concerning gas capacity requirements for the 
+Fort Pierce project were confirmed today at a meeting attended by Dave 
+Fairley, Ed McMichael, Ruth Concannon, Mark Breese, Eric Boyt, and Charlie 
+Weldon.   (NOTE:  The heat rates and MW are subject to change pending final 
+engineering evaluation.  The intent of this note is to document the overall 
+runtime assumptions.)
+
+1) During the summertime months of May through September, the plant is 
+expected to run 16 hours per day in a mode where  Enron's 200 MW are 
+dispatched as are Ft. Pierce's 82MW.
+
+2)  Enron will purchase summertime capacity only sufficient to allow running 
+200 MW for 16 hours per day at our "bought-down" heat rate of 6690.  This 
+equals 22,300 MMBTU/day and will allow for taking the full daily capacity in 
+only a 16 hour period (6% per hour)  The table below summarizes the monthly 
+capacity requirements:
+
+
+   MONTH	Total Capacity Needed By Enron	Ft. Pierce Capacity (from FGU)	Phase VI Capacity 	
+Capacity From East Desk
+May	22,300	0	22,300	0
+June	22,300	0	22,300	0
+July	22,300	0	22,300	0
+August	22,300	0	22,300	0
+September	22,300	0	22,300	0
+
+  NTOE:  Prior to Phase VI completion, the project will purchase capacity 
+from the East Desk.
+
+3)  Ft. Pierce will use its existing FT via FGU to secure its gas 
+requirements at the 9500 contractual heat rate for the 16 hours it is 
+dispatched in the summer.
+
+4)  For the winter months of October through April, the plant is expected to 
+run 16 hours per day in a mode where Ft. Pierce is not dispatched, thus 
+leaving Enron with 282MW at the overall plant heat rate of 7500.  This 
+equates to 35,251 MMBTU/day and allows for taking the full capacity in only 
+16 hours (6% per hour)
+
+5)  Because Ft. Pierce will not be dispatched during the winter, their unused 
+capacity via FGU will be available for Enron.  These amounts differ by month 
+as summarized in the table below.
+
+6) Enron will purchase wintertime capacity only sufficient to allow running 
+282 MW for 16 hours per day at a 7500 heat rate, less the monthly capacities 
+available from Ft. Pierce via FGU.  These non-FGU purchased quantities will 
+come from the Phase VI capacity and the East Desk as shown below:
+
+
+
+
+ 
+   MONTH	Total Capacity Needed By Enron	Ft. Pierce Capacity (from FGU)	Phase VI Capacity 
+(Nov-Mar = 28% of Summer)	Capacity From East Desk
+October	35,251	14,665	22,300	0
+November	35,251	14,595	6,244	14,412
+December	35,251	14,895	6,244	14,112
+January	35,251	16,547	6,244	12,460
+February	35,251	15,317	6,244	13,690
+March	35,251	15,317	6,244	13,690
+April	35,251	15,317	22,300	0
+
+NOTE:  Prior to Phase VI completion , the project will purchase capacity from 
+the East Desk.
+
+7)  Backup documentation supporting the hourly gas requirement in each 
+dispatch mode is attached to this memo.
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <8826487.1075841976665.JavaMail.evans@thyme>
+Date: Thu, 24 May 2001 17:14:44 -0700 (PDT)
+From: david.fairley@enron.com
+To: charles.weldon@enron.com, mark.breese@enron.com, doug.leach@enron.com
+Subject: RE: Ft. Pierce HD King Contact
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Fairley, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DFAIRLE>
+X-To: Weldon, V. Charles </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vweldon>, Breese, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbreese>, Leach, Doug </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dleach>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+yes, thanks
+
+ -----Original Message-----
+From: 	Weldon, V. Charles  
+Sent:	Thursday, May 24, 2001 8:34 AM
+To:	Breese, Mark; Leach, Doug
+Cc:	Fairley, David
+Subject:	RE: Ft. Pierce HD King Contact
+
+Just want to remind everyone that the exact quantity is 202,000 gallons, isn't that right David?
+
+ -----Original Message-----
+From: 	Breese, Mark  
+Sent:	Thursday, May 24, 2001 8:17 AM
+To:	Leach, Doug
+Cc:	Weldon, V. Charles
+Subject:	RE: Ft. Pierce HD King Contact
+
+
+I spoke with David regarding this email.  He will call Ed and clarify how we are doing this deal.  Thanks for your assistance -- do you need anything else?
+
+ -----Original Message-----
+From: 	Leach, Doug  
+Sent:	Thursday, May 24, 2001 7:31 AM
+To:	Weldon, V. Charles
+Cc:	Breese, Mark; Golden, Bruce
+Subject:	RE: Ft. Pierce HD King Contact
+
+I spoke to Ed and Steve Treece at the plant this morning. Please confirm that Fort Pierce Utilities Authority is the buyer of record and whom do we send the invoices to. Both Ed and Steve were confused regarding this issue. I also need in writing asap (email ok) from someone within the project deal team that Enron will guarantee the fuel payment on behalf of FPUA. You need to be aware that the plant only has one truck unloading bay. That is fine with a 200,000 gallon tank fill with no rush, but will be unacceptable when you need the 800,000 gallons tank fill or are burning diesel as a primary fuel. What plans are in the works to build another truck unloading bay? When will that bay be operational?
+
+ -----Original Message-----
+From: 	Weldon, V. Charles  
+Sent:	Wednesday, May 23, 2001 4:44 PM
+To:	Leach, Doug
+Cc:	Breese, Mark
+Subject:	Ft. Pierce HD King Contact
+
+Doug,
+
+The contact at the HD King plant is Ed Leongomez.  His phone number is 561-464-5792.  Ed is the plant superintendent and can coordinate all issues regarding the fuel oil either directly or indirectly.  (He happened to call today so he should be glad to hear from us)
+
+
+Thanks,
+
+Charlie 
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <32106606.1075841976718.JavaMail.evans@thyme>
+Date: Thu, 24 May 2001 08:58:30 -0700 (PDT)
+From: doug.leach@enron.com
+To: charles.weldon@enron.com, mark.breese@enron.com, david.fairley@enron.com,
+	mathew.gimble@enron.com, bruce.golden@enron.com
+Subject: Ft. Pierce
+Cc: justin.folloder@enron.com, f..gockerman@enron.com, tom.moran@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: justin.folloder@enron.com, f..gockerman@enron.com, tom.moran@enron.com
+X-From: Leach, Doug </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DLEACH>
+X-To: Weldon, V. Charles </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vweldon>, Breese, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbreese>, Fairley, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dfairle>, Gimble, Mathew </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mgimble>, Golden, Bruce </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bgolden>
+X-cc: Folloder, Justin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jfollode>, Gockerman, Matthew F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mgocker>, Moran, Tom </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tmoran>
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+I purchased 202,000 gallons of low sulfur diesel fuel from Central Oil Company (sub of Martin Gas) to be delivered to the Fort Pierce power plant starting on May 29 through June 5. A typical truck delivery is 7500 gallons so there will be about 27 truck deliveries. Deliveries will be made between 7:00am and 5:00pm during week days only. The fuel is priced at $0.9800/gallon delivered to the plant plus any applicable local, state and federal taxes. The fuel will be undyed. The current buyer of record to be shown on the bill of lading truck ticket will be Ft. Pierce Utilities Authority unless told otherwise prior to the first delivery. The truck scheduler at Central Oil is Tim Dick (813/448-2105) and he will coordinate with Steve Treece at Ft. Pierce. I have communicated all of the information above to Steve. Upon completion of the tank fill I recommend FPUA take a fuel sample and test for all appropriate diesel fuel quality specifications. 
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <26909977.1075841976743.JavaMail.evans@thyme>
+Date: Thu, 24 May 2001 07:37:13 -0700 (PDT)
+From: mike.coleman@enron.com
+To: charles.weldon@enron.com, matthew.tezyk@enron.com
+Subject: RE: Fuel Oil Ash Spec
+Cc: mark.breese@enron.com, ed.mcmichael@enron.com, mathew.gimble@enron.com,
+	david.fairley@enron.com, bill.fox@enron.com, ron.tapscott@enron.com,
+	darrell.stovall@enron.com, ray.mcphail@enron.com,
+	frank.hosak@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: mark.breese@enron.com, ed.mcmichael@enron.com, mathew.gimble@enron.com,
+	david.fairley@enron.com, bill.fox@enron.com, ron.tapscott@enron.com,
+	darrell.stovall@enron.com, ray.mcphail@enron.com,
+	frank.hosak@enron.com
+X-From: Coleman, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MCOLEMA>
+X-To: Weldon, V. Charles </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vweldon>, Tezyk, Matthew </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=86256608-65acba-862565a0-604bd8>
+X-cc: Breese, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbreese>, McMichael Jr., Ed </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emcmich>, Gimble, Mathew </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mgimble>, Fairley, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dfairle>, Fox, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=86256608-65acba-8625671b-780563>, Tapscott, Ron </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rtapsco>, Stovall, Darrell </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=5daba3a1-b6c3227d-862568f7-733f1b>, McPhail, Ray </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=25ca6c01-acf0c967-862566cc-7f6ec9>, Hosak, Frank </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=86256608-65acba-8625650f-79c895>
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+Charlie,
+
+Based on your response, copied below, on the ash content of the fuel required, and MHI's response, also copied below, identifying the ash limits to meet PM10 specifications, it appears there is not a problem.
+
+Thanks,
+
+Mike Coleman
+
+Ash Content of the Fuel Available:
+
+Mike,
+
+The maximum ash content is 0.01 wt% on the official spec for low-sulfur #2 fuel oil that we would be ordering.  We should plan on receiving fuel oil with up to this amount as you mention.
+
+
+Thanks,
+
+Charlie
+
+
+
+
+MHI requirements for Ash:
+
+2. Enron FPRP-EEOS-MHI-0016
+   Max. Allowable Limit for Fuel Oil Ash Content
+  (MHI Response)
+  Max. allowable limit for PM-10 front-half guarantee of 10mg/Nm3 at GT
+  100% load on oil firing are as follows:
+  Ash content (10% residuum basis)            0.1%
+  Ramsbottom Carbon Residue (10% residuum basis)   0.15%
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <7505202.1075841976640.JavaMail.evans@thyme>
+Date: Fri, 25 May 2001 08:19:11 -0700 (PDT)
+From: frank.hosak@enron.com
+To: mike.coleman@enron.com
+Subject: RE: Fuel Oil Ash Spec  Revision of Contract Exhibit A
+Cc: bill.fox@enron.com, ray.mcphail@enron.com, douglas.ottens@enron.com,
+	charles.weldon@enron.com, matthew.tezyk@enron.com,
+	ron.tapscott@enron.com, darrell.stovall@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: bill.fox@enron.com, ray.mcphail@enron.com, douglas.ottens@enron.com,
+	charles.weldon@enron.com, matthew.tezyk@enron.com,
+	ron.tapscott@enron.com, darrell.stovall@enron.com
+X-From: Hosak, Frank </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=86256608-65ACBA-8625650F-79C895>
+X-To: Coleman, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MCOLEMA>
+X-cc: Fox, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=86256608-65ACBA-8625671B-780563>, McPhail, Ray </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=25CA6C01-ACF0C967-862566CC-7F6EC9>, Ottens, Douglas </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=86256608-65ACBA-86256714-1156D>, Weldon, V. Charles </O=ENRON/OU=NA/CN=RECIPIENTS/CN=VWELDON>, Tezyk, Matthew </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=86256608-65ACBA-862565A0-604BD8>, Tapscott, Ron </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RTAPSCO>, Stovall, Darrell </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=5DABA3A1-B6C3227D-862568F7-733F1B>, mthurber@skadden.com
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+Mike, in going over Contract Exhibit A to revise the Ash Content in Section 4, Fuel Oil Specification,  I ran across a note in my work file from an April 18 e-mail response from MHI where they transmitted two comments back to us  on their review of Exhibit A.
+
+The first comment is on the viscosity value that Enron listed in Section 4.  Our value listed is 6.8 Cst (max.).  MHI comment is "Please supply fuel oil with maximum viscosity 5.8 Cst at any temperature".
+
+The second MHI comment just re-emphasizes our listed value for Barium, Manganese and Phosphorus which is shown as 2 ppm (wt) (Max.).  MHI comment is "Please limit Ba, Mg, Phosphorous within max. 2 ppm." 
+
+Please let me know if we can accomodated the MHI comment on the viscosity and revise the value from our original 6.8 Cst down to the 5.8 Cst value that MHI is requesting.  Doug Ottens does not think that using the MHI value will be a problem.
+
+The second MHI comment has no impact on the Exhibit as the 2 ppm (Max.) is what we have listed for the value.
+
+Let me know so that I can revise this Exhibit A and send it on to Mark Thurber for inclusion in the revised MHI P.O. Contract.
+
+Thanks,
+Frank
+
+
+
+
+From:	Mike Coleman/ENRON@enronXgate on 05/24/2001 09:37 AM
+To:	V Charles Weldon/ENRON@enronXgate, Matthew Tezyk/ENRON_DEVELOPMENT@Enron_Development
+cc:	Mark Breese/ENRON@enronXgate, Ed McMichael/ENRON@enronXgate, Mathew Gimble/ENRON@enronXgate, David Fairley/ENRON@enronXgate, Bill Fox/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Ron Tapscott/ENRON@enronXgate, Darrell Stovall/NA/Enron@Enron, Ray McPhail/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Frank Hosak/ENRON_DEVELOPMENT@ENRON_DEVELOPMENt 
+
+Subject:	RE: Fuel Oil Ash Spec
+
+Charlie,
+
+Based on your response, copied below, on the ash content of the fuel required, and MHI's response, also copied below, identifying the ash limits to meet PM10 specifications, it appears there is not a problem.
+
+Thanks,
+
+Mike Coleman
+
+Ash Content of the Fuel Available:
+
+Mike,
+
+The maximum ash content is 0.01 wt% on the official spec for low-sulfur #2 fuel oil that we would be ordering.  We should plan on receiving fuel oil with up to this amount as you mention.
+
+
+Thanks,
+
+Charlie
+
+
+
+
+MHI requirements for Ash:
+
+2. Enron FPRP-EEOS-MHI-0016
+   Max. Allowable Limit for Fuel Oil Ash Content
+  (MHI Response)
+  Max. allowable limit for PM-10 front-half guarantee of 10mg/Nm3 at GT
+  100% load on oil firing are as follows:
+  Ash content (10% residuum basis)            0.1%
+  Ramsbottom Carbon Residue (10% residuum basis)   0.15%
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <3294672.1075851692021.JavaMail.evans@thyme>
+Date: Wed, 14 Mar 2001 07:10:00 -0800 (PST)
+From: ed.mcmichael@enron.com
+To: jared.kaiser@enron.com, frank.vickers@enron.com, eric.boyt@enron.com
+Subject: Ft. Pierce deal gas offer
+Cc: david.fairley@enron.com, v.weldon@enron.com, ozzie.pagan@enron.com,
+	w.duran@enron.com, kevin.presto@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: david.fairley@enron.com, v.weldon@enron.com, ozzie.pagan@enron.com,
+	w.duran@enron.com, kevin.presto@enron.com
+X-From: Ed McMichael
+X-To: Jared Kaiser, Frank W Vickers, Eric Boyt
+X-cc: David Fairley, V Charles Weldon, Ozzie Pagan, W David Duran, Kevin M Presto
+X-bcc: 
+X-Folder: \Charles_Wheldon_Nov2001\Notes Folders\Ft. pierce
+X-Origin: WHELDON-C
+X-FileName: vweldon.nsf
+
+Following our Ft. Pierce meeting this morning, Ozzie Pagan's called me and 
+requested a "physical basis" offer for the following deal.  This request is 
+the answer to the question David Fairley was going to ask the power guys.  
+Neither the FGU RFP  nor the current Ft. Pierce supply option will impact the 
+deal's need for this offer.   
+
+Term:  (1) 6/02 - 5/03 (the proposed phase 6 in-service date)
+  (2) 6/02 - 12/03 (phase 6 delay insurance)
+
+Quantity: 37,000 MMBtu/d (est. based on 200 MW @ 7,700 HR)  
+
+Location: at the plant
+
+If you have any questions, please ask.  
+
+Regards,
+Ed
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <17040488.1075841977081.JavaMail.evans@thyme>
+Date: Wed, 16 May 2001 10:39:00 -0700 (PDT)
+From: doug.leach@enron.com
+To: v.weldon@enron.com
+Subject: Re: Fuel Oil Sample
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Doug Leach <Doug Leach/HOU/ECT@ECT>
+X-To: V Charles Weldon <V Charles Weldon/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+Saybolt test result for low sulfur #2 vanadium is less than 0.1ppm using ASTM D-3605. Give me your fax number and I can send you a copy. 
+
+
+   
+
+	Enron North America Corp.  From:  V Charles Weldon                           05/14/2001 09:02 AM	
+		
+
+
+To:	Doug Leach/HOU/ECT@ECT
+cc:	 
+Subject:	Fuel Oil Sample
+
+Doug,
+
+This note is just to confirm my voicemail message this morning  indicating that the charges for the Fuel Oil sample check for vanadium should be charged to Co# 0413, RC # 106230.  According to the spec sheet I have, the ASTM method for vanadium is D3605 and the units of measurement are ppm (wt).
+
+Again, I appreciate your patience in this frustrating issue.
+
+
+Charlie
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <20449285.1075851691527.JavaMail.evans@thyme>
+Date: Mon, 14 May 2001 06:59:00 -0700 (PDT)
+From: david.fairley@enron.com
+To: mark.breese@enron.com
+Subject: RE: Oil Status UPdate -- response to your questions
+Cc: ed.mcmichael@enron.com, v.weldon@enron.com, mathew.gimble@enron.com,
+	jennifer.bagwell@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: ed.mcmichael@enron.com, v.weldon@enron.com, mathew.gimble@enron.com,
+	jennifer.bagwell@enron.com
+X-From: David Fairley
+X-To: Mark Breese
+X-cc: Ed McMichael, V Charles Weldon, Mathew Gimble, Jennifer Bagwell
+X-bcc: 
+X-Folder: \Charles_Wheldon_Nov2001\Notes Folders\Ft. pierce
+X-Origin: WHELDON-C
+X-FileName: vweldon.nsf
+
+Mark -- Thanks very much for this information.
+
+ -----Original Message-----
+From:  Breese, Mark  
+Sent: Monday, May 14, 2001 9:44 AM
+To: Fairley, David
+Cc: McMichael, Ed; Weldon, V Charles
+Subject: Oil Status UPdate -- response to your questions
+
+   
+
+I spoke with Doug Leach regarding your questions.  He has already contacted 
+4-5 suppliers/truckers and is ready to rock and roll when we know what spec. 
+of No. 2 we need.  As such, they are all set to supply our requirement.  Doug 
+reiterated his interest in looking at the long-term relationship we may want 
+to build with a supplier.  He is particularly concerned if the plant switches 
+to oil for a significant amount, supplying large quantities will be a 
+logistical nightmare.  
+
+
+He agrees that we can hedge 80-90 (if not 100%) of the commodity risk by 
+buying the Gulf Coast contract (there is no basis traded for FL).  However, 
+his market view is for prices to come off (they have already dropped a bit) 
+as a result of gasoline prices cooling off.
+
+He has scheduled the test for Vandium today.  We should get results in the 
+next several days.
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <11290720.1075841976791.JavaMail.evans@thyme>
+Date: Thu, 24 May 2001 06:16:44 -0700 (PDT)
+From: mark.breese@enron.com
+To: doug.leach@enron.com
+Subject: RE: Ft. Pierce HD King Contact
+Cc: charles.weldon@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: charles.weldon@enron.com
+X-From: Breese, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MBREESE>
+X-To: Leach, Doug </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dleach>
+X-cc: Weldon, V. Charles </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vweldon>
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+
+I spoke with David regarding this email.  He will call Ed and clarify how we are doing this deal.  Thanks for your assistance -- do you need anything else?
+
+ -----Original Message-----
+From: 	Leach, Doug  
+Sent:	Thursday, May 24, 2001 7:31 AM
+To:	Weldon, V. Charles
+Cc:	Breese, Mark; Golden, Bruce
+Subject:	RE: Ft. Pierce HD King Contact
+
+I spoke to Ed and Steve Treece at the plant this morning. Please confirm that Fort Pierce Utilities Authority is the buyer of record and whom do we send the invoices to. Both Ed and Steve were confused regarding this issue. I also need in writing asap (email ok) from someone within the project deal team that Enron will guarantee the fuel payment on behalf of FPUA. You need to be aware that the plant only has one truck unloading bay. That is fine with a 200,000 gallon tank fill with no rush, but will be unacceptable when you need the 800,000 gallons tank fill or are burning diesel as a primary fuel. What plans are in the works to build another truck unloading bay? When will that bay be operational?
+
+ -----Original Message-----
+From: 	Weldon, V. Charles  
+Sent:	Wednesday, May 23, 2001 4:44 PM
+To:	Leach, Doug
+Cc:	Breese, Mark
+Subject:	Ft. Pierce HD King Contact
+
+Doug,
+
+The contact at the HD King plant is Ed Leongomez.  His phone number is 561-464-5792.  Ed is the plant superintendent and can coordinate all issues regarding the fuel oil either directly or indirectly.  (He happened to call today so he should be glad to hear from us)
+
+
+Thanks,
+
+Charlie 
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <29362546.1075841976767.JavaMail.evans@thyme>
+Date: Thu, 24 May 2001 06:35:31 -0700 (PDT)
+From: doug.leach@enron.com
+To: charles.weldon@enron.com
+Subject: RE: Ft. Pierce HD King Contact
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Leach, Doug </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DLEACH>
+X-To: Weldon, V. Charles </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vweldon>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Ft. Pierce
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+Will do.
+
+ -----Original Message-----
+From: 	Weldon, V. Charles  
+Sent:	Thursday, May 24, 2001 8:34 AM
+To:	Breese, Mark; Leach, Doug
+Cc:	Fairley, David
+Subject:	RE: Ft. Pierce HD King Contact
+
+Just want to remind everyone that the exact quantity is 202,000 gallons, isn't that right David?
+
+ -----Original Message-----
+From: 	Breese, Mark  
+Sent:	Thursday, May 24, 2001 8:17 AM
+To:	Leach, Doug
+Cc:	Weldon, V. Charles
+Subject:	RE: Ft. Pierce HD King Contact
+
+
+I spoke with David regarding this email.  He will call Ed and clarify how we are doing this deal.  Thanks for your assistance -- do you need anything else?
+
+ -----Original Message-----
+From: 	Leach, Doug  
+Sent:	Thursday, May 24, 2001 7:31 AM
+To:	Weldon, V. Charles
+Cc:	Breese, Mark; Golden, Bruce
+Subject:	RE: Ft. Pierce HD King Contact
+
+I spoke to Ed and Steve Treece at the plant this morning. Please confirm that Fort Pierce Utilities Authority is the buyer of record and whom do we send the invoices to. Both Ed and Steve were confused regarding this issue. I also need in writing asap (email ok) from someone within the project deal team that Enron will guarantee the fuel payment on behalf of FPUA. You need to be aware that the plant only has one truck unloading bay. That is fine with a 200,000 gallon tank fill with no rush, but will be unacceptable when you need the 800,000 gallons tank fill or are burning diesel as a primary fuel. What plans are in the works to build another truck unloading bay? When will that bay be operational?
+
+ -----Original Message-----
+From: 	Weldon, V. Charles  
+Sent:	Wednesday, May 23, 2001 4:44 PM
+To:	Leach, Doug
+Cc:	Breese, Mark
+Subject:	Ft. Pierce HD King Contact
+
+Doug,
+
+The contact at the HD King plant is Ed Leongomez.  His phone number is 561-464-5792.  Ed is the plant superintendent and can coordinate all issues regarding the fuel oil either directly or indirectly.  (He happened to call today so he should be glad to hear from us)
+
+
+Thanks,
+
+Charlie 
+
+From MAILER-DAEMON Mon Apr 18 14:26:53 2022
+Message-ID: <16955138.1075851691792.JavaMail.evans@thyme>
+Date: Mon, 7 May 2001 05:56:00 -0700 (PDT)
+From: mark.breese@enron.com
+To: ed.mcmichael@enron.com, v.weldon@enron.com
+Subject: RE: Responses to your questions on fuel oil for Fort Pierce
+ facility
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Mark Breese
+X-To: Ed McMichael, V Charles Weldon
+X-cc: 
+X-bcc: 
+X-Folder: \Charles_Wheldon_Nov2001\Notes Folders\Ft. pierce
+X-Origin: WHELDON-C
+X-FileName: vweldon.nsf
+
+---------------------- Forwarded by Mark Breese/HOU/ECT on 05/07/2001 12:55 
+PM ---------------------------
+From: David Fairley/ENRON@enronXgate on 05/07/2001 12:28 PM
+To: Mark Breese/HOU/ECT@ECT
+cc: Mathew Gimble/HOU/ECT@ECT 
+Subject: RE: Responses to your questions on fuel oil for Fort Pierce facility
+
+Mark -- 
+
+(1)  We can use the MHI turbine specs that we have now.  The turbine team 
+will be telling everyone that final specs (on everything in the turbine 
+contract) will not be final for a while, so you have to use what is available 
+now.  In reality, not much will actually change.  Just use their current oil 
+spec sheet.
+
+(2)  We have the opportunity to sell more than 200,00 gallons now, but we 
+need a price to work the extra deal.  
+
+(3)  If extra time for filling is desired (as in a put), then let me know the 
+parameters, and I will try to get it agreed to.  Starting to fill on time is 
+important, but if we take some extra time to finish, that might be okay.
+
+(4)  Regarding the comment about not wanting too many trucks lined up and 
+causing traffic congestion, there is room in two spots near the plant to 
+"stage" a series of trucks.  If this info would be useful, let me know.
+
+ -----Original Message-----
+From:  Breese, Mark  
+Sent: Monday, May 07, 2001 11:37 AM
+To: Leach, Doug
+Cc: Gimble, Mathew; Fairley, David; Boyt, Eric; McMichael, Ed; Weldon, V 
+Charles
+Subject: Responses to your questions on fuel oil for Fort Pierce facility
+
+
+
+Following are responses to your questions on the truck deliveries to the H.D. 
+King Power plant location (Fort Pierce).  We have answers to all questions 
+except the quality specifications of the fuel oil.  We expect an answer on 
+the quality specs tomorrow from our engineers (they are determining whether 
+the air permit or the turbine requirements will be the primary driver of our 
+quality specs).  We will forward them as soon as we receive these from the 
+engineers.
+
+How long will it take to get a notional price on filling the 200,000 gallon 
+order?
+
+Charlie and I will call later today to confirm your receipt of this email and 
+to review any additional questions.  Please call me at x36751 or Charlie at 
+x57229 with any questions.
+
+Thanks
+
+------------------------------------------------------------------------------
+----------------------------------------
+
+
+1) Do the delivering trucks need to have their own pumps?   
+
+ The delivering trucks will require pumps.
+
+2) What size lines are the trucks pumping into? 3"?     
+
+ The line is 3"
+
+
+3) When connecting to our lines do the trucks need anything other than 
+standard fittings?    
+
+ Standard fittings may be used or 3 inch quick disconnect fittings.
+
+
+4) Full spec sheet--especially sodium and potassium guarantees    
+
+The environmental specs are known but the specs on the turbine itself from 
+Mitsubishi (MHI) are not known.  We cannot determine the final specs unitl 
+the MHI requirements are known.
+
+5) After the initial tank fill delivery availability 24 hours/day and 
+weekends?  
+
+ Someone is always on duty at plant so deliveries can technically be made on 
+a 24/7 basis.  The plant manager did say he would like to avoid a long line 
+of trucks out the plant in order to maintain good relationships with the 
+neighbors.
+
+
+6) Tank fill and beyond--why not the full 1MM gallons?  
+
+ At this point we are only replacing the 200,000 gallons of oil we had Fort 
+Pierce burn in order to empty their old tank and allow us to clear that 
+location for our plant.  Additional oil may be purchased later (next year) 
+after development plans are further along.
+
+
+7) Dyed/non dyed fuel issue--tax evaluating   
+
+ The plant requires non-Dyed fuel.
+
+
+8) Identify previous diesel supplier to the plant   
+
+ Coastal was the previous supplier to the plant.
+
+
+9) Design a fuel resupply plan including pre-purchase of fuel, call on 
+transportation, buy diesel calls for expected outage periods
+
+  Such a plan appears to be premature at this point but we will review the 
+issues with you at a later date.
+
+10) Buyer of record and credit issues with suppliers   
+
+  Fort Pierce Utilities Authority is the buyer of record.
+
+11) Tank fill price--fixed or floating? (Platt's, NYMEX, OPIS, rack price)  
+
+  We are looking for a firm fixed price bid for filling the tank, unless you 
+would recommend otherwise.
+
+12) Commercial start date of plan     
+
+  The tank will be finished and available for fill on 5/15/2001.
+
+13) Any other issue to be discussed
+
+  None that we are aware of.
+

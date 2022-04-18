@@ -1,0 +1,468 @@
+From MAILER-DAEMON Mon Apr 18 14:23:31 2022
+Message-ID: <20633316.1075852053980.JavaMail.evans@thyme>
+Date: Thu, 8 Mar 2001 11:10:00 -0800 (PST)
+From: valarie.sabo@enron.com
+To: stacey.white@enron.com, tim.belden@enron.com
+Subject: reminder re: mapping COB S/N and NOB S/N
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Valarie Sabo
+X-To: Stacey W White, Tim Belden
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_White_Nov2001\Notes Folders\Val
+X-Origin: WHITE-S
+X-FileName: swhite.nsf
+
+I think we all decided that COB S/N and NOB S/N should become a basis point 
+unto themselves.  Remapping the S/N  has not been thoroughly explored 
+regarding implications to existing deals and has not been re-mapped in table 
+edit nor has a basis point been created.  Currently COB S/N and COB N/S = R8; 
+and NOB S/N = Basis Pt #22 which is also what NOB N/S is mapped as.  We'll 
+probably only appreciate the revaluation on a shoulder month basis, but I 
+believe it is material.
+
+From MAILER-DAEMON Mon Apr 18 14:23:31 2022
+Message-ID: <2857763.1075852054074.JavaMail.evans@thyme>
+Date: Thu, 8 Mar 2001 03:13:00 -0800 (PST)
+From: valarie.sabo@enron.com
+To: stacey.white@enron.com
+Subject: Re: adding new books/desks/counterparties in West Portfolio
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Valarie Sabo
+X-To: Stacey W White
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_White_Nov2001\Notes Folders\Val
+X-Origin: WHITE-S
+X-FileName: swhite.nsf
+
+---------------------- Forwarded by Valarie Sabo/PDX/ECT on 03/08/2001 01:21 
+PM ---------------------------
+   
+	Enron Capital & Trade Resources Corp.
+	
+	From:  Nancy Hernandez @ ENRON                           03/01/2001 12:21 PM
+	
+
+To: Valarie Sabo/PDX/ECT@ECT
+cc:  
+Subject: Re: adding new books/desks/counterparties in West Portfolio
+
+Sorry:  LN skipped over your name in the send process.
+---------------------- Forwarded by Nancy Hernandez/NA/Enron on 03/01/2001 
+02:20 PM ---------------------------
+   
+	
+	
+	From:  Nancy Hernandez                           03/01/2001 02:20 PM
+	
+
+To: Fran Chang/PDX/ECT@ECT
+cc: Chris Abel/HOU/ECT@ECT, Burton McIntyre/HOU/ECT@ECT, Susan D 
+Trevino/HOU/ECT@ECT 
+
+Subject: Re: adding new books/desks/counterparties in West Portfolio
+
+Valarie:
+
+Can you please complete the attached book request for the EPMI-ST-WR-EXT 
+book?  If you have any questions please call me at 713-345-4751.
+
+
+
+Nancy
+---------------------- Forwarded by Nancy Hernandez/NA/Enron on 03/01/2001 
+02:16 PM ---------------------------
+
+
+Fran Chang@ECT
+03/01/2001 01:14 PM
+To: Min Zheng/NA/Enron@Enron, Norman Lee/Corp/Enron
+cc: Sanjay Gupta/HOU/ECT, nancy.hernandez@enron.com, Valarie Sabo/PDX/ECT@ECT 
+
+Subject: Re: adding new books/desks/counterparties in West Portfolio
+
+Hi Min Zheng and Norman:
+
+In the past couple of weeks you have been working on adding three new books 
+(Short-term west rockies, Short-term west services, and Long-term west 
+options) for the west.  Yesterday we entered/moved our exotic deal (deal # 
+13982.3, which was originally in Short-term Southwest book) into the new 
+Short-term west rockies book and we are seeing a couple of problems:
+
+(1) It seems that in DprAutomation the Short-term west rockies book was named 
+as "ST-WROCK", rather than "ST-WR" (i.e. the book's/roll's name in 
+M:\common\power\Postion\Dpr\2001\0102).  Therefore, last night and this 
+morning we had to temparily changed the roll's name to ST-WROCK in order to 
+allow DprAutomation to run through the roll to bring in P&L/PCS/PID data.  
+(After DprAutomation was done running, we then changed it back to ST-WR so we 
+can link the roll to the "pwrdpr" file).  
+
+=> We need DprAutomation to use "ST-WR" for Short-term west rockies book so 
+we won't have to change the file name everytime we run DprAutomation.
+
+(2) As mentioned earlier, yeterday deal #13982.3 's desk was changed from 
+ST-SW to Short-term west rockies in the Exotic book.  Although we officialize 
+the Exotic book (post id 14061), Nancy Hernandez in Risk Management (Houston) 
+found that they could not see the Short-term west rockies book officialized 
+in Exotic.  
+
+=> I am not sure if this is due to the same problem as in (1) or something 
+else.  We need the new Short-term west rockies book set up right so it can be 
+officialized in the Exotic book in order for the Risk Control Group in 
+Houston to see/monitor it.
+
+Please help us look at the above issues.  Let me know if I can provide more 
+useful information.
+
+(For Nancy:  I spoke with Valarie and there is nothing we know of other than 
+deal #13982.3 that was in the ST-SW book in Exotic book.  Since we moved the 
+deal to Short-term west rockies book last night, it should be normal to see 
+nothing remaining in the ST-SW book.)
+
+Thanks,
+Fran
+x7973
+---------------------- Forwarded by Fran Chang/PDX/ECT on 03/01/2001 11:03 AM 
+---------------------------
+
+
+Fran Chang
+02/09/2001 11:47 AM
+To: Norman Lee/Corp/Enron, Min Zheng/NA/Enron@Enron
+cc: Monica Lande/PDX/ECT@ECT, Valarie Sabo/PDX/ECT@ECT 
+
+Subject: adding new books/desks/counterparties in West Portfolio
+
+Hi guys:  
+
+I just wanted to touch base with you on how we are doing on the IT side 
+regarding the 3 new books that West Power is establishing (* please refer to 
+the email attached from Val sent on 2/5/2001).  
+
+Today, we will be creating the three new desks/books (ST West Services, ST 
+West Rockies, and LT West Options).  Would you please help us set up these 
+three new desks/books in "West tot belden2".  The path to the file is 
+M:\power2\Curve\New_sys\Data.  Specifically, when you open the file and go to 
+"Peak", "Off-Peak", "Peak-By Region", and "Off-Peak-By Region" tabs, you will 
+see pivot tables/columns which can be manupulated to get positions in our 
+existing desks/books (eg. LT-NW, LT-SW, etc).  We need ST West Services, ST 
+West Rockies, and LT West Options to be included in these tabs under seperate 
+columns, too.
+
+Please let me know if you have any questions.
+
+Thanks,
+Fran
+x7973
+
+
+---------------------- Forwarded by Fran Chang/PDX/ECT on 02/09/2001 11:50 AM 
+---------------------------
+   
+	
+	
+	From:  Valarie Sabo                           02/05/2001 11:57 AM
+	
+
+To: Samuel Schott/HOU/ECT@ECT
+cc: Chris Abel/HOU/ECT@ECT, Burton McIntyre/HOU/ECT@ECT, Susan D 
+Trevino/HOU/ECT@ECT, Thresa A Allen/HOU/ECT@ECT, Duong Luu/HOU/ECT, Sanjay 
+Gupta/HOU/ECT, LaCrecia Davenport/Corp/Enron@Enron, Misti Day/HOU/ECT@ECT, 
+Michael Benien/Corp/Enron@ENRON, Will Smith/HOU/ECT, Norman Lee/Corp/Enron, 
+Stacey W White/HOU/ECT@ECT, Melissa Ann Murphy/HOU/ECT@ECT (bcc: Fran 
+Chang/PDX/ECT)
+
+Subject: adding new books/desks/counterparties in West Portfolio
+
+Hello all.   I'm not sure if I've included too few people or too many, but 
+you can let me know if I've left someone off the list or have included 
+someone unnecessarily.  
+
+We're busy up here in Portland adding new desks...these new desks  will need 
+to mapped through all of the Enpower reports/calcs, DPR, adhoc, MTM97, etc.
+
+There are several of you that I will need to work with after the books are 
+set up, but I think this gets us through the initial push.  Attached is the 
+primary information on the new books.  Please email me or call if there are 
+any questions.
+
+I'd like to have the setup completed by Wednesday, Feb. 07, if possible.
+
+Thanks!  
+
+Val at x7756
+
+
+
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:31 2022
+Message-ID: <29534117.1075852053898.JavaMail.evans@thyme>
+Date: Fri, 9 Mar 2001 02:23:00 -0800 (PST)
+From: valarie.sabo@enron.com
+To: kroum.kroumov@enron.com
+Subject: release to production of scheduling forward obs. report
+Cc: diana.scholtes@enron.com, cara.semperger@enron.com, will.smith@enron.com,
+	stacey.white@enron.com, tim.belden@enron.com, fran.chang@enron.com,
+	samantha.law@enron.com, heather.dunton@enron.com,
+	duong.luu@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: diana.scholtes@enron.com, cara.semperger@enron.com, will.smith@enron.com,
+	stacey.white@enron.com, tim.belden@enron.com, fran.chang@enron.com,
+	samantha.law@enron.com, heather.dunton@enron.com,
+	duong.luu@enron.com
+X-From: Valarie Sabo
+X-To: Kroum Kroumov
+X-cc: Diana Scholtes, Cara Semperger, Will Smith, Stacey W White, Tim Belden, Fran Chang, Samantha Law, Heather Dunton, Duong Luu
+X-bcc: 
+X-Folder: \Sally_White_Nov2001\Notes Folders\Val
+X-Origin: WHITE-S
+X-FileName: swhite.nsf
+
+I've tested the "schedule" version of forward obs.  It seems to be working 
+well.  
+
+The wish list might include a summary page to show the desks net 0. And it 
+could use a default that pulls all the west desks when the West portfolio is 
+clicked, while retaining the flexibility of overriding the west default to 
+choose individual desks - HOWEVER - it does work fine the way it is.
+
+Please release this to production and let Fran Chang, Heather Dunton, 
+Samantha Law and Diana Scholtes know when it is released.  Thanks!
+
+From MAILER-DAEMON Mon Apr 18 14:23:31 2022
+Message-ID: <29504850.1075852053958.JavaMail.evans@thyme>
+Date: Thu, 8 Mar 2001 11:13:00 -0800 (PST)
+From: valarie.sabo@enron.com
+To: tim.belden@enron.com, stacey.white@enron.com
+Subject: reminder re: mapping COB S/N and NOB S/N
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Valarie Sabo
+X-To: Tim Belden, Stacey W White
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_White_Nov2001\Notes Folders\Val
+X-Origin: WHITE-S
+X-FileName: swhite.nsf
+
+I should mention that Basis  pt. 22 is off of R8
+
+
+---------------------- Forwarded by Valarie Sabo/PDX/ECT on 03/08/2001 09:20 
+PM ---------------------------
+From: Valarie Sabo on 03/08/2001 07:10 PM
+To: Stacey W White/HOU/ECT@ECT, Tim Belden/HOU/ECT@ECT
+cc:  
+Subject: reminder re: mapping COB S/N and NOB S/N
+
+I think we all decided that COB S/N and NOB S/N should become a basis point 
+unto themselves.  Remapping the S/N  has not been thoroughly explored 
+regarding implications to existing deals and has not been re-mapped in table 
+edit nor has a basis point been created.  Currently COB S/N and COB N/S = R8; 
+and NOB S/N = Basis Pt #22 which is also what NOB N/S is mapped as.  We'll 
+probably only appreciate the revaluation on a shoulder month basis, but I 
+believe it is material.
+
+From MAILER-DAEMON Mon Apr 18 14:23:31 2022
+Message-ID: <9199427.1075852053936.JavaMail.evans@thyme>
+Date: Thu, 8 Mar 2001 11:26:00 -0800 (PST)
+From: valarie.sabo@enron.com
+To: fran.chang@enron.com, stacey.white@enron.com
+Subject: willamette deal 515110
+Cc: greg.wolfe@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: greg.wolfe@enron.com
+X-From: Valarie Sabo
+X-To: Fran Chang, Stacey W White
+X-cc: Greg Wolfe
+X-bcc: 
+X-Folder: \Sally_White_Nov2001\Notes Folders\Val
+X-Origin: WHITE-S
+X-FileName: swhite.nsf
+
+I removed the mtm on this deal as was discussed today in our 8:30 meeting 
+because the deal is Unit Contigent.  Willamette is currently included on our 
+Global Standards West tab "Comments on Services Deals".
+
+From MAILER-DAEMON Mon Apr 18 14:23:31 2022
+Message-ID: <32646087.1075852054004.JavaMail.evans@thyme>
+Date: Thu, 8 Mar 2001 10:53:00 -0800 (PST)
+From: valarie.sabo@enron.com
+To: stacey.white@enron.com
+Subject: transmission valuation in portcalc
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Valarie Sabo
+X-To: Stacey W White
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_White_Nov2001\Notes Folders\Val
+X-Origin: WHITE-S
+X-FileName: swhite.nsf
+
+---------------------- Forwarded by Valarie Sabo/PDX/ECT on 03/08/2001 09:01 
+PM ---------------------------
+From: Valarie Sabo on 02/07/2001 01:01 PM
+To: Matt Motley/PDX/ECT@ECT, Mike Swerzbin/HOU/ECT@ECT, Tim 
+Belden/HOU/ECT@ECT, Mark Fischer/PDX/ECT@ECT, Tom Alonso/PDX/ECT@ECT, Sean 
+Crandall/PDX/ECT@ECT, Diana Scholtes/HOU/ECT@ECT
+cc:  
+Subject: transmission valuation in portcalc
+
+We have deals 470788, STSW
+146517, LTNW
+205218, LTWTRANS
+426855 LTSW
+
+which are transmission deals.  The correlation for these are contained in the 
+West Correlation file in M/power2/region.  The correlation for these delivery 
+points and basis points don't match what Houston's RAROC  office has. 
+
+Please review the attached spread sheet and email me the correlation you want 
+to use for valuing the tranny deals.  As soon as we agree on the correlation 
+and change them in West Correlation and/or RAROC, I'll re-run the mini-books, 
+and we can release the deals into mark to market as we want.
+
+(Matt's correlation have already been reviewed but not yet changed, you're 
+done Matt.)
+
+Please let me know if you have any questions or points of discussion.  If you 
+could respond by Monday, Feb 12, that'd be good.  Thanks!  
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:31 2022
+Message-ID: <22620013.1075852054050.JavaMail.evans@thyme>
+Date: Thu, 8 Mar 2001 09:27:00 -0800 (PST)
+From: valarie.sabo@enron.com
+To: kate.symes@enron.com, fran.chang@enron.com, samantha.law@enron.com,
+	heather.dunton@enron.com
+Subject: px deals I know about that did not have the index changed for Feb
+ 01
+Cc: stacey.white@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stacey.white@enron.com
+X-From: Valarie Sabo
+X-To: Kate Symes, Fran Chang, Samantha Law, Heather Dunton
+X-cc: Stacey W White
+X-bcc: 
+X-Folder: \Sally_White_Nov2001\Notes Folders\Val
+X-Origin: WHITE-S
+X-FileName: swhite.nsf
+
+bookouts - 371307 to 486875
+bookouts - 492135 to 509018
+bookouts - 492008 to 508957
+bookouts - 463074 to 509086
+
+From MAILER-DAEMON Mon Apr 18 14:23:31 2022
+Message-ID: <14042651.1075852054096.JavaMail.evans@thyme>
+Date: Thu, 8 Mar 2001 03:12:00 -0800 (PST)
+From: valarie.sabo@enron.com
+To: stacey.white@enron.com
+Subject: FW: Desk that has forward position as on 3/2/2001
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Valarie Sabo
+X-To: Stacey W White
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_White_Nov2001\Notes Folders\Val
+X-Origin: WHITE-S
+X-FileName: swhite.nsf
+
+---------------------- Forwarded by Valarie Sabo/PDX/ECT on 03/08/2001 01:21 
+PM ---------------------------
+From: Zhiyun Yang/ENRON@enronXgate on 03/05/2001 10:09 AM CST
+To: Valarie Sabo/PDX/ECT@ECT, Fran Chang/PDX/ECT@ECT
+cc: Min Zheng/NA/Enron@Enron, Jennifer Song/ENRON@enronXgate 
+Subject: FW: Desk that has forward position as on 3/2/2001
+
+Dear Valarie and Fran:
+
+  I followed up with Nancy regarding  EPMI-ST-WROCK.  Based on her response, 
+the name won't be changed to EPMI-ST-WR but a new book called EPMI-ST-SW-EXT 
+will be added.  Do you plan to use that one in the future?  Please let us 
+know so that we can adjust other things accordingly.  Thanks.
+
+- Zhiyun
+
+ -----Original Message-----
+From:  Hernandez, Nancy  
+Sent: Monday, March 05, 2001 8:02 AM
+To: Yang, Zhiyun
+Subject: Re: Desk that has forward position as on 3/2/2001
+
+Zhiyun:
+
+We actually can't change the name of books, so we had to create a new book on 
+the RisktRAC side called EPMI-ST-WR-EXT.  However to my knowledge I think 
+they are still officializing the EPMI-ST-SW-EXT book.
+
+Regarding the list below, I will let you now later today if this will work 
+for us.
+
+Thanks for your help.
+
+
+Nancy
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:31 2022
+Message-ID: <716077.1075852054027.JavaMail.evans@thyme>
+Date: Thu, 8 Mar 2001 10:23:00 -0800 (PST)
+From: valarie.sabo@enron.com
+To: fran.chang@enron.com, heather.dunton@enron.com, samantha.law@enron.com
+Subject: pending/killed deal w/PPLMON
+Cc: john.malowney@enron.com, chris.foster@enron.com, stacey.white@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: john.malowney@enron.com, chris.foster@enron.com, stacey.white@enron.com
+X-From: Valarie Sabo
+X-To: Fran Chang, Heather Dunton, Samantha Law
+X-cc: John Malowney, Chris H Foster, Stacey W White
+X-bcc: 
+X-Folder: \Sally_White_Nov2001\Notes Folders\Val
+X-Origin: WHITE-S
+X-FileName: swhite.nsf
+
+Deal # 539968 legs one and two is presently in the "killed" status.  John 
+will let one or all of you know, preferably by email, when you should 
+reactivate the deal.  You may have to modify the start date and the deal 
+date.  The deal date should match the date the EEI was signed.  And March 8th 
+(the start date) will have come and gone by the time (if ) the contract is 
+finalized.  
+
+John (mid market) will take origination on this deal.  I believe his orig. 
+that will come out of the LTNW book is going to be .75 per mwh.  Please 
+confirm the amount with John.  
+
+Also, please connect with Chris Foster, as I believe the orig. will be held 
+until the end of March, and then Chris will provide Risk with a comprehensive 
+list of all the mid-market origination that needs to be granted from the 
+power books, as he did in Feb.  
+
+

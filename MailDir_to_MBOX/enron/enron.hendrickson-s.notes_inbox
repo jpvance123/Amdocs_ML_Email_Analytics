@@ -1,0 +1,4970 @@
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <194124.1075856140530.JavaMail.evans@thyme>
+Date: Fri, 11 May 2001 08:57:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: houston.report@enron.com
+Subject: SUPPLEMENTAL Weekend Outage Report for 5-11-01 through 5-14-01
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: Houston Outage Report
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+------------------------------------------------------------------------------
+------------------------
+W E E K E N D   S Y S T E M S   A V A I L A B I L I T Y
+
+F O R
+
+May 11, 2001 5:00pm through May 14, 2001 12:00am
+------------------------------------------------------------------------------
+------------------------
+
+SCHEDULED SYSTEM OUTAGES: 
+
+ARDMORE DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+
+AZURIX: No Scheduled Outages.
+
+EB34 DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+
+EDI SERVER: No Scheduled Outages.
+
+ENRON CENTER SOUTH DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages
+
+ENRON NORTH AMERICAN LANS:      AlSO SEE ORIGINAL REPORT 
+Impact:  CORP
+Time:  Fri 5/11/2001 at  6:15:00 PM CT thru Fri 5/11/2001 at  7:00:00 PM CT
+ Fri 5/11/2001 at  4:15:00 PM PT thru Fri 5/11/2001 at  5:00:00 PM PT
+ Sat 5/12/2001 at  12:15:00 AM London thru Sat 5/12/2001 at 1:00:00 AM London
+Outage:  Trader DFS Re-Configuration
+Environments Impacted:  Corp
+Purpose: Data access
+Backout: Continue to use ENEHOU
+Contact(s):  Frank Coles    (713)406-0470
+  John Cheng     (713)853-1672 
+  
+FIELD SERVICES:  No Scheduled Outages.
+
+INTERNET: No Scheduled Outages.
+
+MESSAGING: No Scheduled Outages.
+
+MARKET DATA: No Scheduled Outages.
+
+NT: No Scheduled Outages.
+
+OS/2:  No Scheduled Outages.
+
+OTHER SYSTEMS:         ALSO SEE ORIGINAL REPORT 
+Impact:  CORP
+Time:  Sat 5/12/2001 at  10:00:00 AM CT thru Sat 5/12/2001 at  5:00:00 PM CT
+ Sat 5/12/2001 at    8:00:00 AM PT thru Sat 5/12/2001 at  3:00:00 PM PT
+ Sat 5/12/2001 at  4:00:00 PM London thru Sat 5/12/2001 at  11:00:00 PM London
+Outage:  Disk upgrade for dual boot on server gfp1.
+Environments Impacted:  Infinity development
+Purpose: Disk upgrade needed to establish dual boot redundancy.
+Backout: reinstall old configuration
+Contact(s):  Malcolm Wells    713-345-3716
+                    
+Impact:  CORP NFS
+Time:  Fri 5/11/2001 at  8:00:00 PM CT  thru Fri 5/11/2001 at  10:00:00 PM CT
+ Fri 5/11/2001 at  6:00:00 PM PT thru Fri 5/11/2001 at   8:00:00 PM PT
+ Sat 5/12/2001 at  2:00:00 AM London thru Sat 5/12/2001 at  4:00:00 AM London
+Outage:  OS upgrade on NFS servers calvin and hobbes.
+Environments Impacted:  Sitara, Weather App. Infifity NFS
+Purpose: The upgrade is needed for added SIFS functionality and support.  
+SIFs is the component that allows NT/UNIX access.
+Backout: We can revert to one of several previous OS version stored on disks.
+Contact(s):  Malcolm Wells    713-345-3716
+
+Impact:  Unix
+Time:  Sat 5/12/2001 at  2:00:00 PM CT thru Sat 5/12/2001 at  4:00:00 PM CT
+ Sat 5/12/2001 at  12:00:00 PM PT thru Sat 5/12/2001 at  2:00:00 PM PT
+ Sat 5/12/2001 at  8:00:00 PM London thru Sat 5/12/2001 at  10:00:00 PM London
+Outage:  Neutron - Add a CPU boardd
+Environments Impacted:  UniX Users
+Purpose: increase cpus
+Backout: Remove / replace board.
+Contact(s):  Adam DeRidder    713-853-1428
+  Michael Barber      713-853-5530
+  Wilford Stevens     713-853-7564
+  
+SITARA:    See above    
+ 
+SUN/OSS SYSTEM: No Scheduled Outages.
+
+TELEPHONY:       SEE ORIGINAL REPORT  
+ 
+TERMINAL SERVER:  No Scheduled Outages.
+
+UNIFY:   ALSO SEE ORIGINAL REPORT  
+Impact:  CORP
+Time:  Fri 5/11/2001 at  4:00:00 PM CT thru Sat 5/12/2001 at  3:30:00 PM CT
+ Fri 5/11/2001 at  2:00:00 PM PT thru Sat 5/12/2001 at  1:30:00 PM PT
+ Fri 5/11/2001 at 10:00:00 PM London thru Sat 5/12/2001 at 9:30:00 PM London
+Outage:  Configure new hard disk and install all necessary OS and software.
+Environments Impacted:  Power Settlements users
+Purpose: Upgrade server
+Backout: Re-install old hard disk, fall back to stand-by server as last 
+resort.
+Contact(s):  Michael Cuccia    713-853-6629   
+------------------------------------------------------------------------------
+-----------------------------------------------
+        FOR ASSISTANCE
+
+(713) 853-1411   Enron Resolution Center
+
+
+Specific Help:
+Information Risk Management   (713) 853-5536
+SAP/ISC                                                                       
+        (713) 345-4727
+Unify On-Call      (713) 284-3757  [Pager]
+Sitara On-Call     (713) 288-0101  [Pager]
+RUS/GOPS/GeoTools/APRS   (713) 639-9726  [Pager]
+OSS/UA4/TARP    (713) 285-3165  [Pager]
+CPR      (713) 284-4175  [Pager]
+EDI Support      (713) 327-3893  [Pager]
+EES Help Desk     (713)853-9797 OR (888)853-9797
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <489727.1075856140709.JavaMail.evans@thyme>
+Date: Tue, 8 May 2001 17:53:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.worldwide@enron.com
+Subject: Organization Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: All Enron Worldwide
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+ Organization Announcement 
+
+ It is my pleasure to announce that Kenneth Lovejoy has joined Enron Corp. 
+EH&S Asset Operations.  He will be reporting directly to Donnie Willmann and  
+will support Central America, Caribbean and EES.  Ken has over 25 year 
+experience in environmental, health and safety for the oil and gas 
+industry.   He has been working for Enron since 1996 and has extensive 
+international experience.    We are excited to have Ken in our team so, 
+please welcome Ken in his new role.
+
+Henry  Van
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <25672706.1075856140597.JavaMail.evans@thyme>
+Date: Thu, 10 May 2001 17:50:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.houston@enron.com
+Subject: eSource Presents Lexis-Nexis Training
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: All Enron Houston
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+eSource presents Lexis-Nexis training
+
+ADVANCED
+
+This session will cover advanced searching tips.  It will also cover using 
+Smart Indexing to narrow your search results.  Find out how to customize your 
+desktop for easier searching.
+
+Attend our Lexis-Nexis Advanced Clinic: 
+    
+May. 18     8:30 - 10:00 AM    EB572 
+
+
+PUBLIC RECORDS
+
+Lexis-Nexis is the premier provider of public record information.  We will 
+learn about materials available to you including Secretary of State Filings 
+and DBA's, UCC filings, Bankruptcies, and Property Records.  If you are doing 
+due diligence on companies, especially smaller ones, this is a session you 
+will want 
+to attend.
+
+Attend our Lexis-Nexis Public Records Clinic: 
+
+May. 18    10:30 AM -12:00 NOON      EB572 
+   
+
+Seats fill up fast! To reserve a seat, please call Stephanie E. Taylor at 
+5-7928
+Cost $25.00 Per Person
+No Shows will be charged $50.00
+* Please bring your Lexis-Nexis login ID and password. If you don't have one, 
+a guest ID will be provided.
+
+Check the eSource training page at http://esource.enron.com/training.doc for 
+additional training sessions and vendor presentations.
+
+http://esource.enron.com
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <5692121.1075856140774.JavaMail.evans@thyme>
+Date: Sun, 6 May 2001 12:16:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.houston@enron.com
+Subject: Enron to Kick Off National Employee Health and Fitness Week with
+ Clyde Drexler
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: All Enron Houston
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+Get ready to help the Body Shop celebrate it's 15th anniversary and kick off 
+National Health and Fitness Week. 
+
+Beginning Monday, May 14 and ending Friday, May 18, 2001 all Enron Employees 
+are invited to work-out at the Body Shop as a complimentary guest.  Just 
+visit http://hrweb.enron.com/wellness, print and fill-out the body shop 15th 
+anniversary guest form, and return it to the Body Shop prior to your first 
+workout.
+
+The week long celebration includes a speech and autograph session with Clyde 
+Drexler, Monday, May 14, 2001, 11:30 AM-12:00 noon (spaces will be limited 
+and you must RSVP to Body.Shop@enron.com  by Friday, May 11, 2001, 3:00 PM); 
+an early morning workout with the Houston Rocket's Power Girls on, Thursday, 
+May 17, 2001 starting at 6:30 AM followed by breakfast and autograph session 
+in the Body Shop Fuel Station at 7:30am - 8:30am; a boot camp style class led 
+by the German/American Foreign Legion and much, much more.  
+
+Visit the Body Shop website for a detailed calendar of events, or for 
+additional information, please e-mail the Body Shop at Body.Shop@enron.com.
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <2970361.1075856140172.JavaMail.evans@thyme>
+Date: Fri, 18 May 2001 09:57:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.worldwide@enron.com
+Subject: Internet E-mail
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: All Enron Worldwide
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+In an effort to protect Enron's e-mail system from harmful viruses, the 
+Global Messaging Team has implemented an inbound and outbound cluster of 
+MAILSweeper servers. What does that mean to you, the user? All inbound and 
+outbound Internet mail is passed through a set of servers that will scan each 
+message for viruses, malicious code, business related-content and 
+inappropriate content. Inbound Internet mail that contains the following 
+attachment types will be quarantined (held for delivery): *.vbs, *.exe, 
+*.com, *.bat, *.cmd. If you are the intended recipient of one of these 
+e-mails, you will receive an automatic notification with instructions on how 
+to get your legitimate e-mail released from quarantine.
+
+We have taken these measures to protect our e-mail environment from harmful 
+e-mail viruses. We believe that these protections will result in less down 
+time for your e-mail, in the event that Enron gets hit with a virus or 
+malicious code.
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <656605.1075856139670.JavaMail.evans@thyme>
+Date: Tue, 29 May 2001 08:00:00 -0700 (PDT)
+From: public.relations@enron.com
+To: all.downtown@enron.com
+Subject: Amy Oberg brown bag- CANCELLED
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Public Relations
+X-To: All Enron Downtown
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+Amy Oberg's brown bag, Coming Full Circle: A Plausible Future for Power 
+Generation has been cancelled.  
+We apologize for any inconvenience this may cause.  Please keep watching for 
+future brown bags.  
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <29713897.1075856139691.JavaMail.evans@thyme>
+Date: Mon, 28 May 2001 13:53:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.houston@enron.com
+Subject: eSource Presents Dow Jones Interactive Training
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: All Enron Houston
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+eSource presents Dow Jones Interactive training
+
+Attend one of our Topical Dow Jones Interactive Clinics: 
+
+Advanced
+Learn how to be more efficient on Dow Jones Interactive.  Put some power 
+tools to work for you.  Learn how to employ codes, use search history, and 
+customize.  Hands on time is provided.
+    
+May. 31   9:00 - 10:30 AM   EB564
+May. 31 10:30 - 12:00 NOON  EB564
+     
+
+Seats fill up fast! To reserve a seat, please call Stephanie E. Taylor at 
+5-7928
+The cost is $25.00 Per Person
+No Shows will be charged $50.00
+* Please bring your Dow Jones Interactive login ID and password. If you don't 
+have one, a guest ID will be provided.
+
+Check the eSource training page at http://esource.enron.com/training.doc for 
+additional training sessions and vendor presentations
+
+
+
+http://esource.enron.com
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <7866892.1075856140553.JavaMail.evans@thyme>
+Date: Thu, 10 May 2001 17:53:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.houston@enron.com
+Subject: Houston Ballet's Miller Theater Performance of Coppelia
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: All Enron Houston
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+Houston Ballet gives free performances of Copp,lia
+at Miller Outdoor Theatre in Hermann Park
+8:00 p.m. Friday May 11, Saturday May 12, & Sunday May 13, 2001 
+sponsored by AZURIX and ENRON
+
+Considered the great comedy of classical ballet, Copp,lia  tells the story of 
+a doll so enchantingly lifelike that she mesmerizes an entire village, 
+captures the heart of a young swain named Franz and inspires the eccentric 
+toymaker Dr. Copp,lius to attempt to transform her into a living, breathing 
+human being. 
+
+AZURIX and ENRON are Corporate Sponsors for Houston Ballet's Miller Theatre 
+performances, helping to present these free performances of Copp,lia to the 
+people of Houston.  Houston Ballet has a limited number of tickets for the 
+seated area each night for employees of AZURIX and ENRON.  These tickets are 
+available on a first-come, first-served basis by calling William at 
+713-535-3235 no later than 5 PM today .  (Please be aware that all unoccupied 
+seats are released at 10 minutes before curtain.)
+
+Other, free, general public tickets for the seated area (max 4 per person) 
+are available at the Miller Theatre 11:30 a.m. - 1:00 p.m. on the day of 
+performance; for more information call 713-284-8351 for the Miller Theatre 
+ticket information line.  Tickets are not required for the lawn area.  
+
+About Coppelia
+Copp,lia was first performed on May 25, 1870 at the Th,atre Imp,rial de 
+L'Op,ra, featuring choreography by Arthur Saint-L,on and music by L,o 
+Delibes. The work maintains a special place in the history of dance, serving 
+as a kind of bridge from the glory of the French Romantic ballet in the early 
+nineteenth century to the masterpieces of the Russian Imperial Theater at the 
+turn of the century. Writing in The International Dictionary of Ballet, 
+critic Karen Dacko analyzes the unique characteristics of the piece as 
+follows: "Copp,lia owes its longevity to its inspired, very danceable score. 
+But the ballet is also remarkable for its perennial appeal and for its 
+historical significance as Romanticism's grand finale and classical ballet's 
+prologue."
+Copp,lia first entered Houston Ballet' repertoire in October 1974, in a 
+staging by Frederic Franklin (who also performed the role of Dr. Copp,lius), 
+and featuring scenery by Peter Farmer. In November 1979, former Royal Ballet 
+ballerina Anne Heaton re-staged the work for the company. When Houston Ballet 
+premiered its new production of the work in March 1992 featuring breathtaking 
+d,cor by Desmond Heeley, Carl Cunningham of The Houston Post wrote, "It would 
+be hard to imagine anything to cap the joyous, gentle, and glorious looking 
+new production of Copp,lia the splendidly prepared company of dancers and 
+musicians put forth Thursday evening on Wortham Center's Brown Theater 
+stage."    (The Houston Post, March 21, 1992)
+Heeley's designs for Copp,lia never fail to enchant, most notably in the 
+second-act depiction of Dr. Copp,lius's workshop. The sampling of dolls on 
+display pay homage to the era when automatons, or mechanical toys, were the 
+rage in Europe -- and to Heeley's inexhaustible creativity. Among the 
+eye-popping toys featured in  the workshop are a huge astrologer with a 
+pointed hat and a robe covered in shooting stars and moons; a strongman with 
+a handlebar mustache and barbells; Puss n Boots; an acrobat hanging from a 
+trapeze holding the man in the moon; and a small ballerina dancing on the 
+back of a goat. In the first act, the vibrant reds, golds, and oranges of the 
+costumes worn by the peasants in the village conjure up a wonderfully 
+picturesque vision of nineteenth century Bavaria.
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <20964863.1075856140348.JavaMail.evans@thyme>
+Date: Sun, 13 May 2001 12:36:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.worldwide@enron.com
+Subject: eThink About It: 5/14/01
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: All Enron Worldwide
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+Participate in National Fitness Week on eSpeak!  Tuesday, May 15 at 10 a.m. 
+Houston time, join Dr. Joel Bloom, Associate Professor of Health and Human 
+Performance at the University of Houston.  Ask Dr. Bloom about  topics such 
+as the difference between sports drinks and water, myths about abdominal 
+exercise, to breakfast or not to breakfast and much more!
+Remember:  You don't have to participate in the live event to get your 
+questions answered.  Go to eSpeak now and post your questions for Dr. Bloom.  
+You can go to the eSpeak archive later and read the transcript to find your 
+answer.
+
+
+Check out the new postings in the Office of the Chairman category in eMeet.  
+While you're there, add some thoughts of your own to any of the ongoing 
+discussions.  Visit eMeet today!
+
+
+Do you know what hollow core fiber is?  Would you like to know?  Stop by the 
+Idea Vault at the ThinkBank and find out!  Haven't been there in a while?  
+You have some catching up to do, then!
+
+ethink.enron.com
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <3646731.1075856139314.JavaMail.evans@thyme>
+Date: Tue, 5 Jun 2001 11:43:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: nymex.list@enron.com
+Subject: PLEASE READ
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+X-From: Enron Announcements
+X-To: NYMEX Hedge Exemption List
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+To:        Department:   ENA Legal=20
+
+From:  Mark Taylor     Date: May 11, 2001
+  Vice President and General Counsel
+
+Subject: Enron North America Corp. NYMEX Hedge Exemption Applications
+            =20
+
+We are in the process of preparing applications for position limit exemptio=
+ns=20
+for ENA=01,s NYMEX energy commodities futures trading.  These applications=
+=20
+require that ENA represent whether its officers, employees, owners, or agen=
+ts=20
+have a power of attorney, control or have a financial interest in any relat=
+ed=20
+commodity future(s) account either individually or acting with another pers=
+on=20
+pursuant to express or implied agreement.
+
+Please direct any responses to my paralegal, Tana Jones, via intercompany=
+=20
+email or call her at (713) 853-3399 by the end of business on June 15, 2001=
+=20
+if you have any power of attorney, control or have a financial interest in=
+=20
+any commodity futures account (other than an ENA or other trading affiliate=
+=20
+account).
+
+IF YOU DO NOT HAVE A COMMODITY FUTURES ACCOUNT, YOU DO NOT NEED TO RESPOND =
+TO=20
+THIS REQUEST.
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <11675284.1075856140395.JavaMail.evans@thyme>
+Date: Fri, 11 May 2001 10:27:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.houston@enron.com
+Subject: Enron In Action 05.14.01
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+X-From: Enron Announcements
+X-To: All Enron Houston
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+Step outside for some fresh air, lunch & entertainment!!
+
+Visit the Big E Cafe this Friday and celebrate the 2001 Summer Splash !!  =
+=20
+Pappas will serve burgers and trimmings to the Latin beat of The Norma=20
+Zenteno Band.  A  Customized  2001 PT Cruiser will be raffled by the Sunshi=
+ne=20
+Kids.  Test your strength on the Sun & Ski Sports Rock Climbing Wall.
+
+In conjunction with National Employee Health & Fitness Week and the Body=20
+Shop's 15th Year Anniversary, the Body Shop will sponsor various activities=
+=20
+at the Big E Cafe Summer Splash.  These activities include:
+
+ ?    Complimentary Body and Soul Chair Massages=20
+? Koala Health Care Muscle Analysis=20
+? Blood Pressure Assessments=20
+? Information about Enron's Travel Club and activities
+
+The Big E Cafe is from 11:30am-1:00pm in Antioch Park and Lunch will cost $=
+5=20
+so SPLASH on by and have some fun!!=20
+
+Houston Astros Half-Price Ticket Offer Exclusively to Enron Employees!
+
+The Houston Astros are excited to bring Enron employees an exclusive offer =
+to=20
+watch the Astros take on the San Diego Padres at Enron Field May 21 - 23,=
+=20
+2001.  Employees can purchase Upper Deck tickets for only $5 and Mezzanine=
+=20
+tickets for only $6!  This half price offer is available at=20
+ticketmaster.com/jackpot/enron (http://www.ticketmaster.com/jackpot/enron/)=
+=20
+beginning on Monday, May 14th at 9 AM and ending on Monday, May 21st at 3 P=
+M.
+
+To take advantage of this discount offer follow these instructions
+ 1. Click on the link above (Please Note: The above hyperlink may not=20
+retrieve the web page if the address extends to more than one line. If this=
+=20
+should occur, please copy the full text of the address and paste it into th=
+e=20
+address box in your web browser.)
+2. Scroll down to promotions & special offers
+3. Enter password baseball1 in B2B password box
+4. Enter the number of tickets in B2B ticket box
+5. Select either Upper Deck or Mezzanine in pricing & ticket locations drop=
+=20
+down menu
+6. Select delivery method
+7. Scroll down and click on =01&Look for Tickets=018 key
+
+Should you have any questions, please contact Astros Ticket Services at (71=
+3)=20
+259-8500.
+
+Star Wars: Films (May 4-25)
+See all four completed films of the legendary Star Wars saga on the big=20
+screen! The MFAH presents special editions of Episodes IV-VI and Episode I =
+in=20
+the newly renovated Brown Auditorium with Dolby Digital dts sound and stadi=
+um=20
+seating.
+
+Star Wars: Episode IV-A New Hope
+Directed by George Lucas
+(USA, 1977, 125 min.)
+Friday, May 4, 7:30 p.m.
+Saturday, May 5, 11:00 a.m.
+
+Star Wars: Episode V-The Empire Strikes Back
+Directed by Irvin Kershner
+(USA, 1980, 120 min.)
+Friday, May 11, 7:30 p.m.
+Saturday, May 12, 11:00 a.m.
+
+Star Wars: Episode VI-Return of the Jedi
+Directed by Richard Marquand
+(USA, 1983, 132 min.)
+Friday, May 18, 7:30 p.m.
+Saturday, May 19, 11:00 a.m.
+
+Star Wars: Episode I-The Phantom Menace
+Directed by George Lucas
+(USA, 1999, 133 min.)
+Friday, May 25, 7:30 p.m.
+Saturday, May 26, 11:00 a.m.
+
+Tickets go on sale at the Brown Auditorium ticket booth 30 minutes before
+show time. The ticket booth is located on the lower level of the Caroline
+Wiess Law building.
+
+General admission is $5. Matinee admission (show times before 5:00 p.m.) is=
+=20
+$4. Enron employees with ID receive a $1 discount. Discount passes (10=20
+admissions) are $40 for nonmembers and $35 for members. Children 5 and unde=
+r=20
+are free. Films are screened in Brown Auditorium in the museum's Caroline=
+=20
+Wiess Law building, 1001 Bissonnet.  Free parking is available.  For more=
+=20
+information, please call 713-639-7515 or visit our website at www.mfah.org.
+
+
+Help Cure Cystic Fibrosis
+
+The Cystic Fibrosis Foundation is hosting its annual Great Strides Walk on=
+=20
+Saturday, May 19 at Hermann Park.  The event is the foundation=01,s major,=
+=20
+grassroots fundraising event, and $0.92 of every dollar raised in the walk=
+=20
+goes directly to furthering research into more effective treatments for the=
+=20
+disease.
+
+Cystic Fibrosis is the most common fatal genetic disease in the Caucasian=
+=20
+population today, affecting over 30,000 children and young adults in the=20
+United States.  The current median survival age for CF patients is 31 years=
+.
+
+If you would like more information on participating in the walk or sponsori=
+ng=20
+a walker, please contact Jeff Poche at X 6-9530.
+
+Help people affected by arthritis. Join A Joint Walk on May 20.  =20
+Thousands of greater Houstonians will join the walk to cure arthritis.  The=
+=20
+5-mile walk begins at the Kelsey-Seybold Clinic and travels along Braes=20
+Bayou. Call 713-529-0800 and "get in step".
+
+
+Increase Your Leadership Skills with Project Blueprint!
+Project Blueprint, a program of the United Way of the Texas Gulf Coast, is =
+a=20
+9-week course designed to increase ethnically diverse leadership in the=20
+nonprofit sector.  Participants in the training enhance their leadership an=
+d=20
+management skills, which in turn allows them to give back to their communit=
+y=20
+in a meaningful way.  For more information or an application for Class XXI,=
+=20
+please contact Ana Eigler, Project Blueprint Coordinator, at 713-685-2711. =
+=20
+The application deadline is July 10, 2001.
+
+
+
+What:   Impromptu, Young Professionals Symphony Network
+  This is an opportunity for young professionals  to socialize at Sambuca=
+=20
+Jazz cafe, one of Downtown Houston's most popular restaurants and    networ=
+k=20
+with other professionals in a casual setting followed by  a Houston Symphon=
+y=20
+concert.
+
+Concert:   Celebrate  the Houston Symphony's final performance of the seaso=
+n
+  with Music Director Designate Hans Graf.
+=20
+        Hans Graf, conductor
+            Leon Fleisher, piano
+
+            Barber    Medea's Dance of Vengeance
+            Mozart    Piano Concerto No. 12
+            Strauss   A Hero's Life
+
+When:      Monday, May 21
+
+Where:     Pre-concert party at Sambuca Jazz Cafe, 909 Texas
+  concert at Jones Hall, 615 Louisiana
+
+Time:       Party, 6:00 PM - 7:30 PM
+  Concert, 8PM
+
+Cost:        $35 includes your ticket to the concert and pre-concert
+  party.  There will be complimentary hors'doeuvres, live jazz
+  by the Blue Monks, door prizes and a cash bar.
+
+
+R.S.V.P.    Please visit us on-line at www.houstonsymphony.org or call     =
+=20
+713.238.1428 to make your reservations today.
+
+
+
+
+The Contemporary Arts Museum needs volunteers to help with CAM*boree, a=20
+special event for kids Sunday May 20, 5:00pm to 8:00pm.  There will be a=20
+picnic dinner, music and artist-led activities.  Volunteers will help play=
+=20
+with the kids, ages 2-12.  It is so much fun and a short time commitment. =
+=20
+Volunteers get a FREE Museum membership as a thank you.  Please respond by=
+=20
+May 16 to Jennifer Milligan X35272.
+
+
+Support KidSave and Help Miracles Happen. Every Summer.
+=20
+Kidsave=01,s  Summer Miracles Program enables orphaned children ages 5 to 1=
+1 to=20
+travel to the  US and Canada, live with families and attend day camp. The=
+=20
+program gives  families who may be concerned about the problems of adopting=
+=20
+an older child a  chance to meet, get to know and in the best-case scenario=
+,=20
+fall in love with a  child. The program gives prospective parents an=20
+opportunity to see and evaluate  first-hand the challenges and rewards of=
+=20
+adopting an older  child.
+=20
+In 1999 and  2000 Kidsave and adoption agency partners placed 432 children =
+-=20
+96 percent of  children who participated in the program. Generally, 85 to 9=
+0=20
+percent of  children who participate in the program find homes easily throu=
+gh=20
+the program.  The remaining 10 to 15 percent require more work.
+=20
+Kidsave  believes every child deserves a family. We are committed to placin=
+g=20
+all children  who participate in the Summer Miracles Program in permanent=
+=20
+families or  family-like environments.
+=20
+We are looking  for families to host children, and for others who want to=
+=20
+help us make the camp  program happen for these 250 children.   As a=20
+non-profit organization, Kidsave depends on donations to raise the  money t=
+o=20
+bring these children here and find them families.  Please call Tonya Hoppe =
+at=20
+281.286.8948  or tonya@tonya.cc to get involved in Houston=01,s  Kidsave=20
+program.  =20
+
+
+Enron and Kidventure Camps are proud to bring you Camp Enron Summer 2001. =
+=20
+Celebrating our third year, Camp Enron  will once again be providing summer=
+=20
+camp for children, ages 5-13, of Enron employees and contractors.=20
+
+This year, camp will be May 29-August 10.  Ten, one-week sessions will be =
+=20
+available and families may choose to attend any or all sessions.  Each camp=
+=20
+week is Monday through Friday.=20
+
+The cost is $150 per week and includes all transportation, field trips and=
+=20
+activities.  A deposit of $50 per week is all that is needed to reserve you=
+r=20
+sessions.   The deadline to register is Monday, May 21. =20
+
+To register, log on to: http://www.kidventurecamp.com/camp_enron.htm.  =20
+Spaces are limited.
+
+Enron parents simply ride to work with  their children and check them in to=
+=20
+the Energizer room in the morning with the Camp Enron Team.  Enron Campers=
+=20
+are loaded on Coach USA Buses and transported to our nearby camp. At the en=
+d=20
+of the day campers are brought back to the Energizer for parents to check=
+=20
+out. =20
+
+It's that easy!
+
+For more information please contact:
+
+web site: www.kidventurecamp.com
+call Kidventure: 713.960.8989
+e-mail: camps@kidventurecamp.com
+
+Have News to Share?
+To post news or events in Enron In Action, please e-mail your information t=
+o=20
+EIA@enron.com=20
+no later than 12:00 noon the Thursday prior to the next Monday=01,s mailing=
+.
+
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <14399966.1075856140575.JavaMail.evans@thyme>
+Date: Thu, 10 May 2001 17:51:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.worldwide@enron.com
+Subject: Change of address - Venezuela Office
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: All Enron Worldwide
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+Please be advised that effective Monday May 13, the Enron Venezuela office 
+will be moved to the following address:
+
+Enron Venezuela, Ltd.
+Avenida La Estancia
+Centro Banaven
+Torre B, Piso 8
+Chuao
+Caracas, 1060, Venezuela
+
+Phone Number: (58212) 902.7811
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <22809554.1075856139974.JavaMail.evans@thyme>
+Date: Sun, 20 May 2001 12:38:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.worldwide@enron.com
+Subject: eThink About It: 5/21/01
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: All Enron Worldwide
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+Got a question about the Building Guy?  Ask Beth Stier!  Join Beth, owner of 
+Innovision Communications and the brains behind the Building Guy, on eSpeak 
+this Wednesday, May 23 at 10 a.m. Houston time.  Beth's company manages most 
+of the video production for Enron; find out how!
+Can't make the live event?  No worries.  Go to eSpeak (
+http://ethink.enron.com/eSpeak/exec/default.asp) now and submit your 
+question.  Beth will answer it during her event and you can read the 
+transcript later.
+
+
+What's new in the Thinkbank (
+http://nahou-lnapp01.corp.enron.com/eThink/Thinkbank.nsf/HomePage?OpenPage) 
+this week?  Check out the Idea Vault and the latest ideas:  lift peakers, 
+password thumbprints, an anti-money laundering game, administrative assistant 
+computer-based training and even coffee trading!
+
+
+What will it take to make Enron the World's Leading Company?  Share your 
+thoughts today in eMeet http://nahou-lnapp01.corp.enron.com/eThink/eMeet.nsf.
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <1411322.1075856139842.JavaMail.evans@thyme>
+Date: Fri, 25 May 2001 07:17:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: houston.report@enron.com
+Subject: SUPPLEMENTAL Weekend Outage Report for 5-25-01 through 5-29-01
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: Houston Outage Report
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+------------------------------------------------------------------------------
+------------------------
+W E E K E N D   S Y S T E M S   A V A I L A B I L I T Y
+
+F O R
+
+May 25, 2001 5:00pm through May 29, 2001 12:00am
+------------------------------------------------------------------------------
+------------------------
+
+ECS to ECN Network Interconnection, June 9th 2001
+
+This is a notification that the Enron Corp. I/T Networks team will be 
+connecting the new building network infrastructure located in Enron Center 
+South (ECS) to the existing Enron Center North (ECN) backbone network.  While 
+this activity is not expected to produce a disruption to network services, 
+this notice is designed to alert the organization to our activities.  No 
+network hardware or systems are anticipated to be shutdown.  The actual 
+physical interconnection of the networks will be performed in the EB 34th 
+floor Data Center.
+
+Interconnection activities are scheduled to occur the evening of June 9th 
+2001 starting from 7:00 p.m.(CT) and completing around 11:00 p.m. (CT). 
+Application testing activities will begin at 11:00 p.m. (CT) once all network 
+testing has completed.
+
+If you have any further questions, please contact Pete Castrejana at 
+713-410-0642 for more information.
+
+
+
+SCHEDULED SYSTEM OUTAGES: 
+
+ARDMORE DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+
+AZURIX: No Scheduled Outages.
+
+EB34 DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+
+EDI SERVER: No Scheduled Outages.
+
+ENRON CENTER SOUTH DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages
+
+ENRON NORTH AMERICAN LANS:  SEE ORIGINAL REPORT
+ 
+FIELD SERVICES:  No Scheduled Outages.
+
+INTERNET: No Scheduled Outages.
+
+MESSAGING:    SEE ORIGINAL REPORT
+ 
+MARKET DATA: No Scheduled Outages.
+
+NT: No Scheduled Outages.
+
+OS/2:  No Scheduled Outages.
+
+OTHER SYSTEMS:   SEE ORIGINAL REPORT
+ 
+SITARA:  No Scheduled Outages.
+
+SUN/OSS SYSTEM:
+
+Impact:  CORP
+Time:  Fri 5/25/2001 at  5:00:00 PM thru Fri 5/25/2001 at  7:00:00 PM
+Outage:  Memory replacement for server refraction.
+Disruption:  Total Disruption of Service
+Environments Impacted:  DPR and EnTelligence
+Purpose: To replace a memory module that has repeated error.
+Backout: Leave server in current configuration.
+Contact(s):  Malcolm Wells    
+      
+
+TELEPHONY: No Scheduled Outages
+
+TERMINAL SERVER:  No Scheduled Outages.
+
+UNIFY:  No Scheduled Outages.
+
+------------------------------------------------------------------------------
+-------------------------------------------------------
+        FOR ASSISTANCE
+
+(713) 853-1411   Enron Resolution Center
+
+
+Specific Help:
+Information Risk Management   (713) 853-5536
+SAP/ISC                                                                       
+        (713) 345-4727
+Unify On-Call      (713) 284-3757  [Pager]
+Sitara On-Call     (713) 288-0101  [Pager]
+RUS/GOPS/GeoTools/APRS   (713) 639-9726  [Pager]
+OSS/UA4/TARP    (713) 285-3165  [Pager]
+CPR      (713) 284-4175  [Pager]
+EDI Support      (713) 327-3893  [Pager]
+EES Help Desk     (713)853-9797 OR (888)853-9797
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <12093948.1075856139885.JavaMail.evans@thyme>
+Date: Thu, 24 May 2001 19:14:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.worldwide@enron.com
+Subject: EnronOnline Passes One Million Transactions
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: All Enron Worldwide
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+EnronOnline passes one million transactions.  Woohoo!
+
+Also in this issue:
+Enron.com -- it's fabulously new and improved!
+How Enron likes Bush's new energy policy
+California update
+What's going on in the French wholesale market?
+Learn about caps -- not the ones you wear, of course.
+What do Frank Gehry and Enron have in common?
+Jeff leads in a dangerous time
+
+It's all in the latest eBiz.  Go to home.enron.com, click Publications, then 
+click eBiz, and "eBiz May 25, 2001."
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <8552045.1075856139529.JavaMail.evans@thyme>
+Date: Thu, 31 May 2001 17:29:00 -0700 (PDT)
+From: public.relations@enron.com
+To: all.downtown@enron.com
+Subject: The Enron Oral History Project Continues
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Public Relations
+X-To: All Enron Downtown
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+The Enron Oral History Project Continues...
+
+"Using History to Help Enron Become the World's Leading Company"
+
+How can an understanding of strategic choices, regulatory change and 
+corporate culture help Enron achieve its vision?
+
+Speaker:
+Joseph Pratt, Cullen Professor of History and Business, University of Houston
+and
+ Co-Director, Enron Oral History Project
+
+Thursday, June 7
+11:30 a.m. to 12:30 p.m.
+EB 5C2
+
+To Make a Reservation, Call 3-1941 and Select Option 1
+
+Lunch will not be provided, but you are welcome to bring your own.
+
+Please inform us ahead of time if you need special accommodations to 
+participate in this meeting.  Call 3-9390.
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <14677821.1075856140240.JavaMail.evans@thyme>
+Date: Wed, 16 May 2001 23:35:00 -0700 (PDT)
+From: isc.hotline@enron.com
+To: isc.groups@enron.com, enron.users@enron.com, enron.list@enron.com
+Subject: SAP SYSTEM OUTAGE NOTIFICATIONS
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: ISC Hotline
+X-To: ISC ORG ALL GROUPS, ENRON COE PRODUCTION SAP USERS, Enron COE SAP London Production Users List
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+The following servers will be coming down, please click on the icon for more 
+details and scheduled times :
+
+
+-------------------------------------------------------------
+
+          SYSTEM OUTAGE NOTIFICATION      
+
+-------------------------------------------------------------
+
+FOR:  PR2 - HR Production
+
+
+Outage Start: (CST) 5/20/2001 at 07:00:00 AM
+
+Outage End: (CST) 5/20/2001 at 10:00:00 AM
+
+Outage Abstract:  PR2 will be shutdown for new parameters to take effect.
+
+Outage Description: PR2 will be shutdown for new parameters to take effect.
+
+Outage Implication: Production SAP and eHRonline will not be available during 
+the outage.  
+
+Contact Name:Paul Calvino   #:  800-383-3929
+
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <31514595.1075856140261.JavaMail.evans@thyme>
+Date: Wed, 16 May 2001 09:07:00 -0700 (PDT)
+From: rene.garza@enron.com
+To: isc.groups@enron.com, enron.users@enron.com, enron.list@enron.com
+Subject: SAP SYSTEM OUTAGE NOTIFICATIONS
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Rene A Garza
+X-To: ISC ORG ALL GROUPS, ENRON COE PRODUCTION SAP USERS, Enron COE SAP London Production Users List
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+The following servers will be coming down, please click on the icon for more 
+details and scheduled times :
+
+
+-------------------------------------------------------------
+
+          SYSTEM OUTAGE NOTIFICATION      
+
+-------------------------------------------------------------
+
+FOR:  PR1 - Apollo Production
+
+
+Outage Start: (CST) 5/20/2001 at 07:00:00 PM
+
+Outage End: (CST) 5/20/2001 at 10:00:00 PM
+
+Outage Abstract:  The outage will facilitate the upgrade of backup/restore 
+software.
+
+Outage Description: The outage will facilitate the upgrade of backup/restore 
+software.
+
+Outage Implication: Production SAP and eHRonline will not be available during 
+the outage.  
+
+Contact Name:Paul Calvino   #:  800-383-3929
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <11288137.1075856140150.JavaMail.evans@thyme>
+Date: Fri, 18 May 2001 10:09:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: houston.report@enron.com
+Subject: SUPPLEMENTAL Weekend Outage Report for 5-18-01 through 5-21-01
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: Houston Outage Report
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+------------------------------------------------------------------------------
+------------------------
+W E E K E N D   S Y S T E M S   A V A I L A B I L I T Y
+
+F O R
+
+May 18, 2001 5:00pm through May 21, 2001 12:00am
+------------------------------------------------------------------------------
+------------------------
+                
+SCHEDULED SYSTEM OUTAGES: 
+
+ARDMORE DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+
+AZURIX: No Scheduled Outages.
+
+EB34 DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+
+EDI SERVER: No Scheduled Outages.
+
+ENRON CENTER SOUTH DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages
+
+ENRON NORTH AMERICAN LANS:  No Scheduled Outages.
+
+FIELD SERVICES:  No Scheduled Outages.
+
+INTERNET:     SEE ORIGINAL REPORT
+ 
+MESSAGING:  SEE ORIGINAL REPORT
+ 
+MARKET DATA:   SEE ORIGINAL REPORT
+  
+NT: No Scheduled Outages.
+
+OS/2:  No Scheduled Outages.
+
+OTHER SYSTEMS: ALSO SEE ORIGINAL REPORT
+Impact:  CORP
+Time:  Sat 5/19/2001 at  5:00:00 PM CT thru Sun 5/20/2001 at  12:00:00 AM CT
+ Sat 5/19/2001 at  3:00:00 PM PT thru Sat  5/19/2001 at  10:00:00 AM PT
+ Sat 5/19/2001 at  11:00:00 PM London thru Sun 5/20/2001 at  6:00:00 AM London
+Outage:  Board replacement for E10K deathstar (chewbacca/skywalker).
+Environments Impacted:  ErMS/Tagg
+Purpose: Replace center plane support board that has bad part due to the 
+power outage last week.  
+Backout: Leave the old board in with the defective sensor(doesn't stop 
+systems from working)
+Restart in old condition
+Contact(s):  Malcolm Wells    713-345-3716
+
+Impact:  CORP
+Time:  Sun 5/20/2001 at  4:30:00 PM CT thru Sun 5/20/2001 at  6:30:00 PM CT
+ Sun 5/20/2001 at  2:30:00 PM PT thru Sun 5/20/2001 at  4:30:00 PM PT
+ Sun 5/20/2001 at  10:30:00 PM London thru Mon 5/21/2001 at  12:30:00 AM 
+London
+Outage:  Moneypenny Update Production
+Environments Impacted:  Corp
+Purpose: Releasing new code to production.
+Backout: Roll code back
+Contact(s):  Brent Tiner    713-853-7495
+ 
+SITARA:   SEE ORIGINAL REPORT
+  
+SUN/OSS SYSTEM: No Scheduled Outages.
+
+TELEPHONY: No Scheduled Outages
+
+TERMINAL SERVER:  No Scheduled Outages.
+
+UNIFY:  SEE ORIGINAL REPORT
+ 
+ 
+SCHEDULED SYSTEM OUTAGES: Australia
+Impact:  CORP
+Time:  Sat 19-May-2001 at  10:00:00 AM Sydney thru Sat 19-May-2001 at 3:00:00 
+PM Sydney
+ Sat 19-May-2001 at  1:00:00 AM GMT (London) thru Sat 19-May-2001 at  6:00:00 
+AM GMT (London)
+ Fri 5/19/2001 at  7:00:00 PM CT (Houston) thru Sun 5/20/2001 at  12:00:00 AM 
+CT (Houston)
+ Fri 5/19/2001 at 5:00:00 PM PT (Portland)  thru Sat 5/19/2001 at  10:00:00 
+PM PT (Portland) 
+Outage: Sydney UPS Test & Service
+Environments Impacted:  Corp Sydney - all systems
+Purpose: Original UPS needs testing & service. Will require Server Room to be 
+de-powered to allow maintenance.
+Backout: Plug equipment into unconditioned power.
+Contact(s):  Colin Wood    +61-416-248-363
+  Elliott Katz +61-292-292-309
+
+
+------------------------------------------------------------------------------
+-----------------------------------------------
+        FOR ASSISTANCE
+
+(713) 853-1411   Enron Resolution Center
+
+
+Specific Help:
+Information Risk Management   (713) 853-5536
+SAP/ISC                                                                       
+        (713) 345-4727
+Unify On-Call      (713) 284-3757  [Pager]
+Sitara On-Call     (713) 288-0101  [Pager]
+RUS/GOPS/GeoTools/APRS   (713) 639-9726  [Pager]
+OSS/UA4/TARP    (713) 285-3165  [Pager]
+CPR      (713) 284-4175  [Pager]
+EDI Support      (713) 327-3893  [Pager]
+EES Help Desk     (713)853-9797 OR (888)853-9797
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <30972375.1075856139952.JavaMail.evans@thyme>
+Date: Tue, 22 May 2001 17:47:00 -0700 (PDT)
+From: public.relations@enron.com
+To: all.downtown@enron.com
+Subject: A Plausible Future for Power Generation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Public Relations
+X-To: All Enron Downtown
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+Coming Full Circle: A Plausible Future for Power Generation
+
+Speaker:
+Amy Oberg
+Manager, Competitive Intelligence and Future Foresight
+Enron Energy Services
+
+Wednesday, May 30
+11:30 a.m. to 12:30 p.m.
+EB 5C2
+
+
+To Make a Reservation, Call 3-1941 and Select Option 1.
+
+Lunch will not be provided, but you are welcome to bring your own.
+
+Please inform us ahead of time if you need special accommodations to 
+participate in this meeting.  Call 3-9390.
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <9090867.1075856140283.JavaMail.evans@thyme>
+Date: Tue, 15 May 2001 15:51:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.worldwide@enron.com
+Subject: Corrected Organization Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: All Enron Worldwide
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+ Organization Announcement (Correction) 
+
+I apologize for the confusion and inconvenience my mistake caused.  I had 
+indicated that Kenneth Lovejoy would be supporting EES, but this is not 
+correct.  Ken will be supporting  OEC.  Corrected announcement is provided 
+below. 
+
+ It is my pleasure to announce that Kenneth Lovejoy has joined Enron Corp. 
+EH&S Asset Operations.  He will be reporting directly to Donnie Willmann and  
+will support Central America, Caribbean and OEC.  Ken has over 25 year 
+experience in environmental, health and safety for the oil and gas 
+industry.   He has been working for Enron since 1996 and has extensive 
+international experience.    We are excited to have Ken in our team so, 
+please welcome Ken in his new role.
+
+Henry  Van
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <16877833.1075856140304.JavaMail.evans@thyme>
+Date: Mon, 14 May 2001 15:16:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.worldwide@enron.com
+Subject: Enron Recognized for Policy of Inclusion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: All Enron Worldwide
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+Read about Enron's inclusion on the Gay Financial Network's "gfn.com 50" in 
+eBiz.
+
+Also in this issue:
+FGT's Phase IV expansion
+Clickpaper.com is added to two industry web sites
+EES uses the 'Net to catch new customers
+Learn what a swap is
+
+It's all in the latest eBiz.  Go to home.enron.com, click Publications, then 
+click eBiz, and "eBiz May 11, 2001."
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <1364273.1075856140370.JavaMail.evans@thyme>
+Date: Sun, 13 May 2001 12:33:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.houston@enron.com
+Subject: Remote control your air-conditioner and heater
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: All Enron Houston
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+NewPower to offer another pilot program to Houston employees
+
+
+Free remote energy management solution helps you to manage rising energy 
+bills.
+NewPower is launching a revolutionary technology pilot to the first 500 
+people to sign up in the Houston area.  The NewPower Connections Remote 
+Energy Management Solution is a pilot program designed to give consumers 
+control of their thermostat via the Internet.  The program will allow 
+thermostats to be adjusted from anywhere, with any Internet-enabled device, 
+including computers, web-enabled cell phones, palm OS devices, or pocket 
+PCs.  Sears Home Central will install and service the Remote Energy 
+Management Solution at no charge throughout the duration of the pilot 
+program.  For a typical household, the three-month pilot could result in up 
+to 10 percent to 15 percent utility bill savings, based on personal usage and 
+the size of your home.  
+
+
+Be among the first to participate absolutely free.
+Enrollment with the NewPower Connections Remote Energy Management Solution 
+pilot program starts May 14 and continues through the end of the month.  For 
+more information about this offer, visit NewPower's table located in the 
+Plaza of the Enron Building near the down escalator from 11:00 a.m. to 2 p.m. 
+during the week of May 14.  To become a pilot participant you need only to be 
+a homeowner in the Houston area and have Internet access.  You do not even 
+have to be a NewPower electricity customer to participate.  For more 
+information about NewPower Connections, send an e-mail to 
+connections@newpower.com.
+
+
+Disclaimers:
+Any contract for goods or services that is entered into by an Enron employee 
+with respect to the NewPower program shall be solely between NewPower and 
+such employee.  Enron assumes no obligation on behalf of NewPower and makes 
+no representations, warranties, or guaranties with respect to NewPower, any 
+goods or services offered or provided by NewPower.  Home.Enron.com
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <4734894.1075856140620.JavaMail.evans@thyme>
+Date: Thu, 10 May 2001 09:02:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: houston.report@enron.com
+Subject: Weekend Outage Report for 5-11-01 through 5-14-01
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: Houston Outage Report
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+------------------------------------------------------------------------------
+------------------------
+W E E K E N D   S Y S T E M S   A V A I L A B I L I T Y
+
+F O R
+
+May 11, 2001 5:00pm through May 14, 2001 12:00am
+------------------------------------------------------------------------------
+------------------------
+
+SCHEDULED SYSTEM OUTAGES: 
+
+ARDMORE DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+
+AZURIX: No Scheduled Outages.
+
+EB34 DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+
+EDI SERVER: No Scheduled Outages.
+
+ENRON CENTER SOUTH DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages
+
+ENRON NORTH AMERICAN LANS: 
+Impact:  EES
+Time:  Sat 5/12/2001 at   1:00:00 PM CT thru Sat 5/12/2001 at  5:00:00 PM CT
+ Sat 5/12/2001 at 11:00:00 AM PT thru Sat 5/12/2001 at  3:00:00 PM PT
+ Sat 5/12/2001 at  7:00:00 PM London thru Sat 5/12/2001 at  11:00:00 PM London
+Outage:  Move vlans for EES in Enron Building 
+Environments Impacted:  EES in Enron Building
+Purpose: Provide more capacity to the network
+Backout: paste in old configs
+Contact(s):  Gail Kettenbrink    713-853-4524
+  Michael Huang      713-345-3201
+ 
+FIELD SERVICES:  No Scheduled Outages.
+
+INTERNET: No Scheduled Outages.
+
+MESSAGING: No Scheduled Outages.
+
+MARKET DATA: No Scheduled Outages.
+
+NT: No Scheduled Outages.
+
+OS/2:  No Scheduled Outages.
+
+OTHER SYSTEMS:
+Impact:  Corp, OTS, ETS    
+DATE:  MAY 15, 2001/2/2001 at  5:30:00 PM
+Outage:  Migrate DSS Server to GTHOU-APPSQ03P
+Environments Impacted:  DSS users will not be able to access the old server 
+(ENEDS01_ADAPT)after this date
+Purpose: The existing server is outdated, migrating to SQL 2000 provides 
+increased 
+functionality and conforms to database platform requirements.   
+Backout: 
+Contact(s):  Mary Vollmer          713-853-3381
+  Joe Hellsten           713-853-7346      713-545-4164
+  
+Impact:  CORP
+Time:  Fri 5/11/2001 at  8:00:00 PM CT thru Sat 5/12/2001 at  10:00:00 PM CT
+ Fri 5/11/2001 at  6:00:00 PM PT thru Sat 5/12/2001 at    8:00:00 PM PT
+ Sat 5/12/2001 at  2:00:00 AM London thru Sun 5/13/2001 at  4:00:00 AM London
+Outage:  CPU replacement on server sennacca.
+Environments Impacted:  RMS
+Purpose: Replace faulty CPU that is offline.
+Backout: Restore server to old configuration.
+Contact(s):  Malcolm Wells    713-345-3716
+                                        
+Impact:  CORP
+Time:  Fri 5/11/2001 at  5:00:00 PM CT thru Fri 5/11/2001 at  5:15:00 PM CT
+ Fri 5/11/2001 at  3:00:00 PM PT thru Fri 5/11/2001 at  3:15:00 PM PT
+ Fri 5/11/2001 at  11:00:00 PM London thru Fri 5/11/2001 at  11:15:00 PM 
+London
+Outage:  Decommission of the following servers:  intra, intra-dev, conman1, 
+aserv1, ardent, dbadmin
+Environments Impacted:  Corp
+Purpose: Server no longer used.  The servers will be decommissioned or 
+redeployed where necessary.
+Backout: 
+Contact(s):  Malcolm Wells    713-345-3716
+
+Impact:  CORP
+Time:  Sat 5/12/2001 at   2:00:00 AM CT thru Sun 5/13/2001 at  5:00:00 PM CT
+ Sat 5/12/2001 at 12:00:00 AM PT thru Sun 5/13/2001 at  3:00:00 PM PT
+ Sat 5/12/2001 at  8:00:00 AM London thru Sun 5/13/2001 at 11:00:00 PM London
+Outage:  Resource and OS upgrade to server fracture.
+Environments Impacted:  Global company RMS  ECM
+Purpose: An OS upgrade is needed to provide the disk upgrade solution.  
+Additionanl memory is needed as well.
+Backout: Attach the old disk solution and reboot to old configuration.
+Contact(s):  Malcolm Wells    713-345-3716
+
+Impact:  ENA
+Time:  Sat 5/12/2001 at  10:00:00 PM CT thru Sat 5/12/2001 at  10:15:00 PM CT
+ Sat 5/12/2001 at    8:00:00 PM PT thru Sat 5/12/2001 at     8:15:00 PM PT
+ Sun 5/13/2001 at  4:00:00 AM London thru Sun 5/13/2001 at  4:15:00 AM London
+Outage:  Bounce PWRPROD1 database
+Environments Impacted:  Enpower User
+Purpose: Change some configuration to improve database performance
+Backout: Use the old parameter file.
+Contact(s):  Tantra Invedy  713 853 4304  
+ 
+SITARA:  No Scheduled Outages.
+
+SUN/OSS SYSTEM: No Scheduled Outages.
+
+TELEPHONY: 
+Impact:  
+Time:  Sat 5/12/2001 at  10:00:00 PM CT thru Sun 5/13/2001 at  1:00:00 AM CT
+ Sat 5/12/2001 at    8:00:00 PM PT thru Sat 5/12/2001 at 11:00:00 PM PT
+ Sun 5/13/2001 at  4:00:00 AM London thru Sun 5/13/2001 at  7:00:00 AM London
+Outage:  Quarterly Maintenance - Telephone System
+Environments Impacted:  All
+Purpose: Quarterly maintenance. While voicemail nodes are being serviced (one 
+box at a time), a slight disruption will be experienced.  
+Messages will continue to be stored but will not be delivered until each node 
+of voicemail is back up and operational.    
+CMS call center management reporting will not be availalble during this 
+time.  
+Backout: 
+Contact(s):  Cynthia Siniard    713-853-0558
+ 
+TERMINAL SERVER:  No Scheduled Outages.
+
+UNIFY:  
+Impact:  CORP
+Time:  Fri 5/11/2001 at  6:00:00 PM CT thru Fri 5/11/2001 at  7:00:00 PM CT
+ Fri 5/11/2001 at  4:00:00 PM PT thru Fri 5/11/2001 at  5:00:00 PM PT
+ Sat 5/12/2001 at 12:00:00 AM London thru Sat 5/12/2001 at  1:00:00 AM London
+Outage:  Memory replacement for server electron.
+Environments Impacted:  Unify Users
+Purpose: Replace faulty memory module.
+Backout: Get new memory if necessary
+Restart server with out memory as last resort
+Contact(s):  Malcolm Wells    713-345-3716
+ 
+------------------------------------------------------------------------------
+-----------------------------------------------
+        FOR ASSISTANCE
+
+(713) 853-1411   Enron Resolution Center
+
+
+Specific Help:
+Information Risk Management   (713) 853-5536
+SAP/ISC                                                                       
+        (713) 345-4727
+Unify On-Call      (713) 284-3757  [Pager]
+Sitara On-Call     (713) 288-0101  [Pager]
+RUS/GOPS/GeoTools/APRS   (713) 639-9726  [Pager]
+OSS/UA4/TARP    (713) 285-3165  [Pager]
+CPR      (713) 284-4175  [Pager]
+EDI Support      (713) 327-3893  [Pager]
+EES Help Desk     (713)853-9797 OR (888)853-9797
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <14129402.1075856139218.JavaMail.evans@thyme>
+Date: Thu, 7 Jun 2001 09:54:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: houston.report@enron.com
+Subject: Weekend Outage Report for 6-8-01 through 6-11-01
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: Houston Outage Report
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+------------------------------------------------------------------------------
+------------------------
+W E E K E N D   S Y S T E M S   A V A I L A B I L I T Y
+
+F O R
+
+June 8, 2001 5:00pm through June 11, 2001 12:00am
+------------------------------------------------------------------------------
+------------------------
+
+
+ECS to ECN Network Interconnection, June 9th 2001         POSTPONED
+This is a notification that the Enron Corp. I/T Networks team will be 
+connecting the new building network infrastructure located in Enron Center 
+South (ECS) to the existing Enron Center North (ECN) backbone network.  While 
+this activity is not expected to produce a disruption to network services, 
+this notice is designed to alert the organization to our activities.  No 
+network hardware or systems are anticipated to be shutdown.  The actual 
+physical interconnection of the networks will be performed in the EB 34th 
+floor Data Center.
+
+Interconnection activities are scheduled to occur the evening of June 9th 
+2001 starting from 7:00 p.m.(CT) and completing around 11:00 p.m. (CT). 
+Application testing activities will begin at 11:00 p.m. (CT) once all network 
+testing has completed.
+
+If you have any further questions, please contact Pete Castrejana at 
+713-410-0642 for more information.
+      
+
+SCHEDULED SYSTEM OUTAGES: 
+
+ARDMORE DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+
+AZURIX: No Scheduled Outages.
+
+EB34 DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+
+EDI SERVER: No Scheduled Outages.
+
+ENRON CENTER SOUTH DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages
+
+ENRON NORTH AMERICAN LANS:  No Scheduled Outages.
+
+FIELD SERVICES:  No Scheduled Outages.
+
+INTERNET: No Scheduled Outages.
+
+MESSAGING: No Scheduled Outages.
+
+MARKET DATA: No Scheduled Outages.
+
+NT: No Scheduled Outages.
+
+OS/2:  No Scheduled Outages.
+
+OTHER SYSTEMS: 
+Impact:  pdx-ad-03.ebs.enron.net [DS] Site: Portland
+Time:  Sat 6/9/2001 at  9:00:00 PM CT thru Sat 6/9/2001 at  9:15:00 PM CT
+ Sat 6/9/2001 at  7:00:00 PM PT thru Sat 6/9/2001 at  7:15:00 PM PT
+ Sun 6/10/2001 at  3:00:00 AM London thru Sun 6/10/2001 at  3:15:00 PM London
+Outage:  Increase EBS domain account password complexity
+Environments Impacted:  EBS (enron_comm) users
+Purpose: Increasing password complexity reduces the security risk for the 
+CORP domain and corp security based applications.
+Backout: Deinstall the password filter.
+Contact(s):  Marlin Gubser    713-853-4281
+      
+Impact:  CORP
+Time:  Sat 6/9/2001 at  10:00:00 PM CT thru Sun 6/10/2001 at    1:00:00 AM CT
+ Sat 6/9/2001 at    8:00:00 PM PT  thru Sat 6/9/2001 at  11:00:00 PM PT
+ Sun 6/10/2001 at  4:00:00 AM London thru Sun 6/10/2001 at  7:00:00 AM London
+Outage:  Memory upgrade and storage relocation for server fracture.
+Environments Impacted:  RMS global company OFS
+Purpose: Add memory for performance improvement.  Permanently rack D1000 disk 
+array.
+Backout: Restore to original configuration without memory.
+Contact(s):  Malcolm Wells    713-345-3716
+ 
+SITARA:  No Scheduled Outages.
+
+SUN/OSS SYSTEM: No Scheduled Outages.
+
+TELEPHONY: 
+Impact:  CORP
+Time:  Fri 6/8/2001 at  5:00:00 PM Calgary thru Sun 6/10/2001 at  12:00:00 PM 
+Calgary
+ Fri 6/8/2001 at  6:00:00 PM CT thru Sun 6/10/2001 at    1:00:00 PM CT
+ Fri 6/8/2001 at  4:00:00 PM PT thru Sun 6/10/2001 at  11:00:00 AM PT
+ Sat 6/9/2001 at  12:00:00 AM London thru Sun 6/10/2001 at  7:00:00 PM London
+Outage:  Enron Canada-Calgary PBX Upgrade
+Environments Impacted:  Corp Calgary
+Purpose: To bring Enron Calgary up to Enron standards.  Allow 4 digit dialing 
+between Enron Canada Corp. and Enron Direct Limited Partnership, and network 
+the voicemail. Enron Calgary will be without phone service for the duration 
+of the upgrade.
+Backout: As a complete new cabinet "A" will be installed we will have the old 
+cabinet with processor on site that can be reinstalled in the event that 
+problems arise. 
+Contact(s):  Brad K Martin  (403) 974-6922  (403) 212-9280
+ 
+TERMINAL SERVER:  No Scheduled Outages.
+
+UNIFY:  
+Impact:  CORP
+Time:  Fri 6/8/2001 at    2:00:00 PM CT thru Mon 6/11/2001 at    2:00:00 AM CT
+ Fri 6/8/2001 at  12:00:00 PM PT thru Mon 6/11/2001 at  12:00:00 AM PT
+ Fri 6/8/2001 at 8:00:00 PM London thru Mon 6/11/2001 at  8:00:00 AM London
+Outage:  Unify Gas Migration from Sybase to SQL Server
+Environments Impacted:  Unify Users
+Purpose: Increase reliability and scalability of Unify system
+Backout: Reinstate Sybase version if insurmountable problems occur during the 
+conversion weekend.
+Contact(s):  Brian Ripley    713-345-4709
+  Matt Pena        713-345-4209
+  Ramesh Rao   713-349-4207 
+  Bob Ward        713-345-4409
+ 
+------------------------------------------------------------------------------
+-------------------------------------------------------
+        FOR ASSISTANCE
+
+(713) 853-1411   Enron Resolution Center
+
+
+Specific Help:
+Information Risk Management   (713) 853-5536
+SAP/ISC                                                                       
+        (713) 345-4727
+Unify On-Call      (713) 284-3757  [Pager]
+Sitara On-Call     (713) 288-0101  [Pager]
+RUS/GOPS/GeoTools/APRS   (713) 639-9726  [Pager]
+OSS/UA4/TARP    (713) 285-3165  [Pager]
+CPR      (713) 284-4175  [Pager]
+EDI Support      (713) 327-3893  [Pager]
+EES Help Desk     (713)853-9797 OR (888)853-9797
+TDS -Trader Decision Support On-Call                    (713) 327-6032 [Pager]
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <30016384.1075856140943.JavaMail.evans@thyme>
+Date: Fri, 4 May 2001 01:33:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: houston.report@enron.com
+Subject: Weekend Outage Report for 5-4-01 through 5-7-01
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: Houston Outage Report
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+------------------------------------------------------------------------------
+------------------------
+W E E K E N D   S Y S T E M S   A V A I L A B I L I T Y
+
+F O R
+
+May 4, 2001 5:00pm through May 7, 2001 12:00am
+------------------------------------------------------------------------------
+------------------------
+
+SCHEDULED SYSTEM OUTAGES: 
+
+ARDMORE DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+
+AZURIX: No Scheduled Outages.
+
+EB34 DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+
+EDI SERVER: No Scheduled Outages.
+
+ENRON CENTER SOUTH DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages
+
+ENRON NORTH AMERICAN LANS: 
+Impact:  ENS
+Time:  Fri 5/4/2001 at  9:00:00 PM CT thru Fri 5/4/2001 at  10:00:00 PM CT
+ Fri 5/4/2001 at  7:00:00 PM PT thru Fri 5/4/2001 at    8:00:00 PM PT
+ Sat 5/5/2001 at 3:00:00 AM London thru Sat 5/5/2001 at  4:00:00 AM London
+Outage:  Consolidation Of Networks
+Environments Impacted:  ENA
+Purpose: Consolidating Network Equipment. Moving networks 172.16.48.20, 
+172.16.136.20, 172.16.51.20, and 172.16.194.20 
+                           from 3460 to 3405.
+Backout: 
+Contact(s):  George Nguyen    713-853-0691
+  
+Impact:  CORP
+Time:  Sat 5/5/2001 at  1:00:00 PM CT thru Sat 5/5/2001 at  7:15:00 PM CT
+ Sat 5/5/2001 at  11:00:00 AM PT thru Sat 5/5/2001 at  5:15:00 PM PT
+ Sat 5/5/2001 at  7:00:00 PM London thru Sun 5/6/2001 at  1:15:00 AM London
+Outage:  Migrating EES VLANs from EB3405-cx11 and EB3405-cx12 to EB3405-cx13 
+and EB3405-cx14
+Environments Impacted:  EES
+Purpose: Off-load CPU usage onto current EB3405-CX13 and EB3405-CX14; 
+increase throughput and redundancy.
+Backout: Remove EB3405-CX13 and EB3405-CX14.
+Replace original access-links connecting HOUCX1 and HOUCX2 back to 
+EB3405-CX11 and EB3405-CX12.
+Contact(s):  Michael Huang  713-875-2478  877-692-2751
+
+Impact:  ENS
+Time:  Fri 5/4/2001 at  10:30:00 PM CT thru Sat 5/5/2001 at  12:00:00 AM CT
+ Fri 5/4/2001 at    8:30:00 PM PT thru Fri   5/4/2001 at  10:00:00 PM PT
+ Sat 5/5/2001 at 4:30:00 AM London thru Sat 5/5/2001 at  6:00:00 AM London
+Outage:  Migrating Networks Off Cisco 3 and Cisco 4
+Environments Impacted:  ENA
+Purpose: Migration of Networks Off Legacy Cisco Boxes
+Backout: 
+Contact(s):  George Nguyen    713-853-0691
+
+FIELD SERVICES:  No Scheduled Outages.
+
+INTERNET: No Scheduled Outages.
+
+MESSAGING: 
+Impact:  Corp Notes
+Time:  Fri 5/4/2001 at  9:00:00 PM CT thru Sat 5/5/2001 at   1:00:00 AM CT
+ Fri 5/4/2001 at  7:00:00 PM PT thru Fri 5/4/2001 at   11:00:00 PM PT
+ Sat 5/5/2001 at  3:00:00 AM London thru Sat 5/5/2001 at  7:00:00 AM London
+Outage:  cNotes Server Reboots
+Environments Impacted:  All users on any of the mailservers listed below
+Purpose: Scheduled @ 2 week interval
+Backout: Make sure server comes up.
+Contact(s):  Trey Rhodes  (713) 345-7792  
+                    
+Impact:  EI
+Time:  Fri 5/4/2001 at  9:00:00 PM CT thru Sat 5/5/2001 at  1:00:00 AM CT
+ Fri 5/4/2001 at  7:00:00 PM PT thru Fri 5/4/2001 at   11:00:00 PM PT
+ Sat 5/5/2001 at  3:00:00 AM London thru Sat 5/5/2001 at  7:00:00 AM London
+Outage:  EI Notes Server Maintenance
+Environments Impacted:  EI Local/Domestic/Foreign Sites
+Purpose: Scheduled @ 2 week interval
+Backout: N/A
+Contact(s):  David Ricafrente    713-646-7741
+ 
+MARKET DATA: No Scheduled Outages.
+
+NT: No Scheduled Outages.
+
+OS/2:  No Scheduled Outages.
+
+OTHER SYSTEMS:
+Impact:  Corp, OTS, ETS    
+DATE:  MAY 15, 2001/2/2001 at  5:30:00 PM
+Outage:  Migrate DSS Server to GTHOU-APPSQ03P
+Environments Impacted:  DSS users will not be able to access the old server 
+(ENEDS01_ADAPT)after this date
+Purpose: The existing server is outdated, migrating to SQL 2000 provides 
+increased 
+functionality and conforms to database platform requirements.   
+Backout: 
+Contact(s):  Mary Vollmer          713-853-3381
+  Joe Hellsten           713-853-7346      713-545-4164
+                                  
+Impact:  EBS
+Time:  Fri 5/4/2001 at  8:00:00 PM CT thru Fri 5/4/2001 at  10:00:00 PM CT
+ Fri 5/4/2001 at  6:00:00 PM PT thru Fri 5/4/2001 at    8:00:00 PM PT
+ Sat 5/5/2001 at  2:00:00 AM London thru Sat 5/5/2001 at  4:00:00 AM London
+Outage:  EIGRP Integration - EBS and ENW
+Environments Impacted:  All
+Purpose: The EBS network is being integrated into the ENW network. As part of 
+the integration, we will need to bring up EIGRP process 5 on the EBS 
+networking devices. This is the first step in the routing integration. Since 
+ENW is already static routing 10.0.0.0/8 to EBS and EBS is static routing 
+172.16.0.0/12 and 192.168.0.0/16 to ENW, the impact should be nil.
+Backout: Remove eigrp process 5 from iah-ecn44-rtr3.enron.net
+Contact(s):  Dennis McGough    713-345-3143
+  Scott Shishido        
+713-853-9780                                                   
+Impact:  CORP
+Time:  Sat 5/5/2001 at  12:00:00 AM CT thru Sat 5/5/2001 at  1:00:00 AM CT
+ Fri  5/4/2001 at  10:00:00 PM PT thru Fri 5/5/2001 at  11:00:00 PM PT
+ Sat 5/5/2001 at  6:00:00 AM London thru Sat 5/5/2001 at  7:00:00 AM London
+Outage:  Elvis webserver maintenance.
+Environments Impacted:  Internet Web pages.
+Purpose: Physically stabilize the server in the rack.
+Backout: Leave server on shelf unracked
+reboot the server
+Contact(s):  Malcolm Wells    713-345-3716
+
+Impact:  CORP
+Time:  Fri 5/4/2001 at  6:00:00 PM CT thru Fri 5/4/2001 at  8:00:00 PM CT
+ Fri 5/4/2001 at  4:00:00 PM PT thru Fri 5/4/2001 at  6:00:00 PM PT
+ Sat 5/5/2001 at  12:00:00 AM London thru Sat 5/5/2001 at  2:00:00 AM London
+Outage:  ClearCase Patch
+Environments Impacted:  Corp
+Purpose: This patch will resolve several issues involving the MVFS (ClearCase 
+file system.)
+Backout: Remove the patch
+Contact(s):  Troy Beyer  713.345.8316  713.406.1782
+
+SITARA:  No Scheduled Outages.
+
+SUN/OSS SYSTEM: No Scheduled Outages.
+
+TELEPHONY: No Scheduled Outages
+
+TERMINAL SERVER:  No Scheduled Outages.
+
+UNIFY:  No Scheduled Outages.
+
+------------------------------------------------------------------------------
+-----------------------------------------------
+        FOR ASSISTANCE
+
+(713) 853-1411   Enron Resolution Center
+
+
+Specific Help:
+Information Risk Management   (713) 853-5536
+SAP/ISC                                                                       
+        (713) 345-4727
+Unify On-Call      (713) 284-3757  [Pager]
+Sitara On-Call     (713) 288-0101  [Pager]
+RUS/GOPS/GeoTools/APRS   (713) 639-9726  [Pager]
+OSS/UA4/TARP    (713) 285-3165  [Pager]
+CPR      (713) 284-4175  [Pager]
+EDI Support      (713) 327-3893  [Pager]
+EES Help Desk     (713)853-9797 OR (888)853-9797
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <2268012.1075856139641.JavaMail.evans@thyme>
+Date: Tue, 29 May 2001 17:24:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.worldwide@enron.com
+Subject: eThink About It: 5/30/01
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: All Enron Worldwide
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+Got a question about Enron or what our businesses are doing?  Ask Jeff 
+Skilling!  Join him for an Office of the Chairman "open mike" session today 
+(May 30) on eSpeak at 10 a.m. Houston time.
+Can't make the live event?  No worries.  Go to eSpeak (
+http://ethink.enron.com/eSpeak/exec/default.asp) now and submit your 
+question.  Jeff will try to answer it during his event and you can read the 
+transcript later.
+
+
+Cost cutting ideas are still coming into the Thinkbank (
+http://nahou-lnapp01.corp.enron.com/eThink/Thinkbank.nsf/HomePage?OpenPage).  
+We know you've got some great ideas tucked away in that brainy head of yours 
+-- deposit them into the ThinkBank!
+
+
+There's some fiesty conversations going on in eMeet 
+http://nahou-lnapp01.corp.enron.com/eThink/eMeet.nsf.  Start your own today!
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <10418177.1075856140109.JavaMail.evans@thyme>
+Date: Sun, 20 May 2001 12:36:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.states@enron.com
+Subject: Frank Gehry Architect Exhibition
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+X-From: Enron Announcements
+X-To: All Enron Employees United States
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+After much success last year with our AskWhy advertising campaign and Publi=
+c=20
+Relations efforts, Enron continues to explore new ways to exponentially=20
+increase its' brand awareness not only through television, but also by=20
+exploring new mediums. One approach is through customer relationship=20
+marketing (CRM), where we will seek opportunities that allow our commercial=
+=20
+teams to directly interact with important CXOs and existing customers.=20
+
+To this end, we are proud to announce our participation in the Frank Gehry=
+=20
+Architect Exhibition at the Guggenheim Museum in New York City, which will =
+be=20
+open to the public from May 18 through August 31.  Frank Gehry is a=20
+world-renowned architect who has designed the unique building at the end of=
+=20
+our =01&Ode to Why=018 commercial and his art dominates skylines around the=
+ world.=20
+With this exhibition, Gehry=01,s evolving genius comes to life.  For years,=
+ his=20
+inspiration has long been hidden in sketches and models unseen by anyone bu=
+t=20
+his closest collaborators. By challenging the conventional, he has redefine=
+d=20
+his industry just as Enron has in business. Through Enron's association wit=
+h=20
+this world-class exhibit, we will subtly push our brand attributes forward,=
+=20
+as we strive to be the "Leading Company in the World."
+
+All employees are invited to visit this exhibition FREE OF CHARGE with an=
+=20
+Enron ID Badge beginning May 18. For more details, please visit=20
+home.enron.com.
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <10252017.1075856139262.JavaMail.evans@thyme>
+Date: Tue, 5 Jun 2001 11:46:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.houston@enron.com
+Subject: Managers Training
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+X-From: Enron Announcements
+X-To: All Enron Houston
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+Attention supervisors and managers! =01;
+=01;
+Would you like to improve your ability to lead and manage your team?=01; Th=
+e EWS=20
+Development Center would like to invite you to The Managers Level Impact an=
+d=20
+Influence Program.
+=01;
+Date: =01;=01; =01;=01;=01;=01;=01;=01;=01;=01;=01;=01;=01;=01;=01;=01;=01;=
+=01;=01;=01;=01;=01;=01;=01;=01; =01;June 14th and 15th
+Time: =01;=01;=01;=01;=01;=01;=01;=01;=01;=01;=01;=01;=01;=01; =01;=01;=01;=
+=01;=01;=01;=01;=01;=01;=01;=01; =01;8:00 a.m. to 5:00 p.m. (both days)
+Place =01;=01; =01;=01;=01;=01;=01;=01;=01;=01;=01;=01;=01;=01;=01;=01;=01;=
+=01;=01;=01;=01;=01;=01;=01;=01; =01;Travis Room 1 at the Double Tree Hotel=
+ Down=20
+Town
+Cost:=01;=01;=01; =01;=01;=01;=01;=01;=01;=01;=01;=01;=01;=01;=01;=01;=01;=
+=01;=01;=01;=01;=01;=01;=01;=01;=01; $1,500
+Target Audience:=01;=01;=01;=01;=01;=01;=01;=01;=01; Sr. Specialist and Man=
+agers in a supervisory role
+CPE credits available
+=01;
+=01;
+Innovative Leadership is the cornerstone of Enron's ability to motivate and=
+=20
+retain the industry's top talent.=01; The Organizational Development and=20
+Learning group would like to invite all Enron managers to participate in a=
+=20
+new leadership overview course.
+=01;
+This workshop will offer the tools you'll need to lead and manage others mo=
+re=20
+effectively.=01; In this course you'll gain knowledge and insight on leader=
+ship=20
+capabilities and receive resources you can readily apply at work.=01; This=
+=20
+two-day program, involving a maximum of 16 participants, has been=20
+specifically built to give Enron managers the information they need to=20
+succeed in our work environment.=01;=01; It is an interactive workshop incl=
+uding=20
+individual and group exercises designed to drive home insights and build=20
+skills that are relevant to your job.=01;=01;=20
+=01;
+Topic areas include:=20
+?=01;=01;=01;=01;=01;=01;=01; What is Leadership?
+?=01;=01;=01;=01;=01;=01;=01; Leadership Credibility
+?=01;=01;=01;=01;=01;=01;=01; Thinking Strategically
+?=01;=01;=01;=01;=01;=01;=01; Managing Change
+?=01;=01;=01;=01;=01;=01;=01; Directing Others
+?=01;=01;=01;=01;=01;=01;=01; Leading Teams
+?=01;=01;=01;=01;=01;=01;=01; Influencing Others=01;=01;=20
+=01;
+Participants will be asked to complete a short self-assessment before comin=
+g=20
+to the program.=01; Additionally, each participant will leave with a detail=
+ed=20
+action plan and other resources to help manage their group and prepare for=
+=20
+the next level of leadership.
+=01;
+To register for this class, log on to InvestInMe at=20
+http://www.corptraining.com/index.cfm?company=3Denron.
+If you have any questions, please call 713 853-1816.
+=01;
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <23801849.1075856139909.JavaMail.evans@thyme>
+Date: Thu, 24 May 2001 09:30:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: houston.report@enron.com
+Subject: Weekend Outage Report for 5-25-01 through 5-29-01
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: Houston Outage Report
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+------------------------------------------------------------------------------
+------------------------
+W E E K E N D   S Y S T E M S   A V A I L A B I L I T Y
+
+F O R
+
+May 25, 2001 5:00pm through May 29, 2001 12:00am
+------------------------------------------------------------------------------
+------------------------
+
+ECS to ECN Network Interconnection, June 9th 2001
+
+This is a notification that the Enron Corp. I/T Networks team will be 
+connecting the new building network infrastructure located in Enron Center 
+South (ECS) to the existing Enron Center North (ECN) backbone network.  While 
+this activity is not expected to produce a disruption to network services, 
+this notice is designed to alert the organization to our activities.  No 
+network hardware or systems are anticipated to be shutdown.  The actual 
+physical interconnection of the networks will be performed in the EB 34th 
+floor Data Center.
+
+Interconnection activities are scheduled to occur the evening of June 9th 
+2001 starting from 7:00 p.m.(CT) and completing around 11:00 p.m. (CT). 
+Application testing activities will begin at 11:00 p.m. (CT) once all network 
+testing has completed.
+
+If you have any further questions, please contact Pete Castrejana at 
+713-410-0642 for more information.
+
+
+
+SCHEDULED SYSTEM OUTAGES: 
+
+ARDMORE DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+
+AZURIX: No Scheduled Outages.
+
+EB34 DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+
+EDI SERVER: No Scheduled Outages.
+
+ENRON CENTER SOUTH DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages
+
+ENRON NORTH AMERICAN LANS:  
+Impact:  EB28
+Time:  Sat 5/26/2001 at  10:00:00 AM CT thru Sat 5/26/2001 at  11:15:00 AM CT
+ Sat 5/26/2001 at    8:00:00 AM PT thru Sat 5/26/2001 at   9:15:00 AM PT
+ Sat 5/26/2001 at  4:00:00 PM London thru Sat 5/26/2001 at  5:15:00 PM London
+Outage:  EB28 Intermitted Network Outage
+Environments Impacted:  EB28
+Purpose: New construction in the tele-communication closet
+Backout: 
+Contact(s):  Mark Trevino    713-345-9954
+ 
+FIELD SERVICES:  No Scheduled Outages.
+
+INTERNET: No Scheduled Outages.
+
+MESSAGING: 
+Impact:  CORP
+Time:  Sat 5/26/2001 at  6:30:00 PM CT thru Sat 5/26/2001 at  11:00:00 PM CT
+ Sat 5/26/2001 at 4:30:00 PM PT thru Sat 5/26/2001 at    9:00:00 PM PT
+ Sun 5/27/2001 at  12:30:00 AM London thru Sun 5/27/2001 at  5:00:00 AM London
+Outage:  Norton Anti-virus Installation-Phase 2
+Environments Impacted:  Corp Exchange users
+Purpose: To protect the Exchange users and environment from email-based 
+viruses.
+Backout: Un-install Norton Anti-virus.
+Contact(s):  Tim Hudson  713.853.9289  
+ 
+MARKET DATA: No Scheduled Outages.
+
+NT: No Scheduled Outages.
+
+OS/2:  No Scheduled Outages.
+
+OTHER SYSTEMS: 
+Impact:  Corp, OTS, ETS    
+DATE:  MAY 29, 2001/2/2001 at  5:30:00 PM
+Outage:  Migrate DSS Server to GTHOU-APPSQ03P
+Environments Impacted:  DSS users will not be able to access the old server 
+(ENEDS01_ADAPT)after this date
+Purpose: The existing server is outdated, migrating to SQL 2000 provides 
+increased 
+functionality and conforms to database platform requirements.   
+Backout: 
+Contact(s):  Mary Vollmer          713-853-3381
+  Joe Hellsten           713-853-7346      713-545-4164
+    
+Impact:  Portland EBS
+Time:  Fri 5/25/2001 at  8:00:00 PM CT thru Fri 5/25/2001 at  8:30:00 PM CT
+ Fri 5/25/2001 at  6:00:00 PM PT thru Fri 5/25/2001 at  6:30:00 PM PT
+ Sat 5/26/2001 at  2:00:00 AM London thru Sat 5/26/2001 at  2:30:00 AM London
+Outage:  Decommission Transport Logic FW (Portland EBS)
+Environments Impacted:  Portland EBA
+Purpose: No longer used - 
+Backout: Power equipment back on
+Contact(s):  Jon Werner    713-853-6742
+ 
+SITARA:  No Scheduled Outages.
+
+SUN/OSS SYSTEM: No Scheduled Outages.
+
+TELEPHONY: No Scheduled Outages
+
+TERMINAL SERVER:  No Scheduled Outages.
+
+UNIFY:  No Scheduled Outages.
+
+------------------------------------------------------------------------------
+-----------------------------------------------
+        FOR ASSISTANCE
+
+(713) 853-1411   Enron Resolution Center
+
+
+Specific Help:
+Information Risk Management   (713) 853-5536
+SAP/ISC                                                                       
+        (713) 345-4727
+Unify On-Call      (713) 284-3757  [Pager]
+Sitara On-Call     (713) 288-0101  [Pager]
+RUS/GOPS/GeoTools/APRS   (713) 639-9726  [Pager]
+OSS/UA4/TARP    (713) 285-3165  [Pager]
+CPR      (713) 284-4175  [Pager]
+EDI Support      (713) 327-3893  [Pager]
+EES Help Desk     (713)853-9797 OR (888)853-9797
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <29668415.1075856141056.JavaMail.evans@thyme>
+Date: Fri, 27 Apr 2001 09:50:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.houston@enron.com
+Subject: Enron In Action 04.30.01
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+X-From: Enron Announcements
+X-To: All Enron Houston
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+US Men's Clay Court Championships Downtown Exhibition Event - Today at 12=
+=20
+PM!!!
+
+Today at 12 PM, downtown Houston is hosting a exhibition tennis event on=20
+Texas Avenue in front of Bayou Place featuring Jan-Michael Gambill in honor=
+=20
+of the=20
+US Men's Clay Court Championships being held at Westside Tennis Club this=
+=20
+week.  The event is free and will last approximately 45 minutes. =20
+
+Please join us for a brownbag concert on Friday, May 4 from 12:00 =01) 1:00=
+ p.m.=20
+at Two Allen Center in the Forum (7th floor).  Da Camera presents, =01&The =
+Ying=20
+Quartet=018 performing selected 20th Century chamber pieces.
+
+Also, De Camera is offering a 20% discount to Enron employees to Da Camera=
+=01,s=20
+200/01 season finale concert, =01&Celebrating Patronage=018 on Saturday, Ma=
+y 6 at=20
+The Wortham Center.
+
+If you are interested, please RSVP to Jessica Nunez at X31918
+
+Do you hate to garden in the summer because everything you plant dies?  Lin=
+da=20
+Gay, Director of the Mercer Arboretum and Botanic Gardens in Humble, will=
+=20
+teach us about plants that not only survive, but thrive during the dog days=
+=20
+of Houston summers. Topics will include tropical-looking plants for sun and=
+=20
+shade, gingers, fragrant plants, and drought-tolerant plants.
+
+WHEN:  Tuesday, May 8th, 11:30 a.m. - 12:30 p.m.
+WHERE: The Forum, 12th floor of 2 Allen Center
+
+Houston area singles interested in jazz, dessert and classical music can me=
+et=20
+and mingle on Friday, May 4, 2001.
+
+The evening of entertainment begins at 5:30 p.m., with live jazz by the Blu=
+e =20
+Monks at Sambuca Jazz Cafes at 909 Texas Avenue.  Complimentary hors=20
+d'oeuvres and a cash bar are available at the pre-concert party.
+
+At 7p.m., you're off to Jones Hall across the street for dessert at the Rou=
+nd=20
+Bar before the Houston Symphony performance at 8 p.m.
+
+David Robertson, Musical America's Conductor of the Year 2000, will lead=20
+Beethoven's idyllic romp through the countryside, Symphony No. 6, Pastoral.=
+ =20
+The  program concludes with Prokofiev's patriotic Alexander Nevsky,=20
+originally written for the Eisenstein film of the same name, and the=20
+legendary Battle on the Ice, featuring the Houston Symphony Chorus.
+
+Tickets are $35 and include the pre-concert party at Sambuca, dessert at th=
+e=20
+Round Bar in Jones Hall and reserved concert seating.  Pre-paid reservation=
+s=20
+are required and space is limited.  Singles only please.  Make your=20
+reservations on-line at www.houstonsymphony.org or call 713 238-1477.
+
+
+Project Mom @ Friendly Haven on Saturday, May 11th.... in Honor of Mother's=
+ =20
+Day!
+Join Enron employees at Friendly Haven, a housing assistance program=20
+supported by AFH (AIDS Foundation Houston), for a volunteer project designe=
+d=20
+to celebrate Mother's Day.  Approximately 40 single mothers comprise Friend=
+ly=20
+Haven's residents and we would like to make the day special for both them a=
+nd=20
+their children. =20
+
+Enron volunteers are needed to facilitate a children's craft activity for=
+=20
+Mother's Day presents and also serve a special brunch to all of the mothers=
+=20
+in the program.  This project can be utilized as a team building opportunit=
+y=20
+for a department with 15 - 25 employees or individual volunteers may sign u=
+p=20
+by contacting Janice Riedel at x37507  - for more information on AFH, visit=
+=20
+http://www.aidshelp.org/programs/housing.htm.
+
+ChildBuilders, Houston's Advocates for Mental Health in Children,  is hosti=
+ng=20
+a special lunch time event on Tuesday, May 8th from 11 AM - 2 PM, in honor =
+of=20
+Children's Mental Health Awareness Week at Hermann Square, featuring actors=
+=20
+performing vignettes on issues and parenting.  Zydeco music, free soft drin=
+ks=20
+and deserts will also be available. =20
+
+Volunteers will receive a free t-shirt and are needed to publicize the even=
+t,=20
+fill balloons, set-up tables and chairs, serve drinks and deserts, and to=
+=20
+assist with clean-up.  To sign up for these jobs, please open and read the=
+=20
+attachment for more specific job descriptions and email the sign-up sheet=
+=20
+with your name, phone number, and email address to Dottie Bates at=20
+dsquareb@msn.com or call (713) 932-8440.
+
+http://home.enron.com:84/messaging/signup.doc
+
+
+VOLUNTEERS NEEDED FOR 15TH  ANNUAL HOUSTON HOOP-IT-UP MAY 5-6!
+
+The best way to get yourself jump-started for a full year of Hoops.  Become=
+ a=20
+part of this jammin=01,hoops scene with over 1,200 teams & 4,800 players.  =
+Join=20
+us at Greenspoint Mall for a basketball-crazed atmosphere.  Games and speci=
+al=20
+events being played simultaneously on 110 courts so the basketballs will be=
+=20
+flying HOOP-IT-UP is where you play for FUN.  EVENT BENEFITS THE =01&ESCAPE=
+=20
+FAMILY RESOURCE CENTER=018
+
+SATURDAY =01)  MAY 5TH 8:00 =01) 6:00 PM
+SUNDAY =01)  MAY 6TH 8:00 =01) 5:00 PM
+
+For more information please call =01&Hoop-It-Up Hotline=018: 713-521-4535 o=
+r
+E-Mail: Hoopitup@Texas.Net=20
+
+
+
+Have News to Share?
+To post news or events in Enron In Action, please e-mail your information t=
+o=20
+EIA@enron.com=20
+no later than 12:00 noon the Thursday prior to the next Monday=01,s mailing=
+.
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <8152138.1075856139239.JavaMail.evans@thyme>
+Date: Tue, 5 Jun 2001 11:47:00 -0700 (PDT)
+From: public.relations@enron.com
+To: all.houston@enron.com
+Subject: Reminder
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Public Relations
+X-To: All Enron Houston
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+Reminder
+The Enron Oral History Project Continues...
+
+"Using History to Help Enron Become the World's Leading Company"
+
+How can an understanding of strategic choices, regulatory change and 
+corporate culture help Enron achieve its vision?
+
+Speaker:
+Joseph Pratt, Cullen Professor of History and Business, University of Houston
+and
+ Co-Director, Enron Oral History Project
+
+Thursday, June 7
+11:30 a.m. to 12:30 p.m.
+EB 5C2
+
+To Make a Reservation, Call 3-1941 and Select Option 1
+
+Lunch will not be provided, but you are welcome to bring your own.
+
+Please inform us ahead of time if you need special accommodations to 
+participate in this meeting.  Call 3-9390.
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <21820979.1075856140643.JavaMail.evans@thyme>
+Date: Wed, 9 May 2001 16:52:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.houston@enron.com
+Subject: eSource Presents Free Global Access Training
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: All Enron Houston
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+eSource presents Global Access training
+
+Global Access offers an online connection to complete company information and 
+filings via content that includes Disclosure, Worldscope, Datastream and 
+I/B/E/S.  The product is designed to allow users to get complete company 
+information such as financials, filings, databases and news for thousands of 
+US and International companies from a single source.
+
+Training Agenda Includes:
+? General Introduction.
+? Basic Reference View Query (Which provides an itemized list of all 
+available source data.)
+? Basic Business View Query (Which pulls source data from various Global 
+Access content, and displays it in a presentation summary).
+
+
+Attend our Global Access Clinic: 
+    
+May. 16 - 9:00 -10:00 AM  EB572
+
+
+
+Seats fill up fast! To reserve a seat, please call Stephanie E. Taylor at 
+5-7928
+Check the eSource training page at http://esource.enron.com/training.doc for 
+additional training sessions and vendor presentations
+
+
+http://esource.enron.com
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <24832790.1075856140217.JavaMail.evans@thyme>
+Date: Thu, 17 May 2001 09:50:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: houston.report@enron.com
+Subject: Weekend Outage Report for 5-18-01 through 5-21-01
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: Houston Outage Report
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+------------------------------------------------------------------------------
+------------------------
+W E E K E N D   S Y S T E M S   A V A I L A B I L I T Y
+
+F O R
+
+May 18, 2001 5:00pm through May 21, 2001 12:00am
+------------------------------------------------------------------------------
+------------------------
+                
+SCHEDULED SYSTEM OUTAGES: 
+
+ARDMORE DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+
+AZURIX: No Scheduled Outages.
+
+EB34 DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+
+EDI SERVER: No Scheduled Outages.
+
+ENRON CENTER SOUTH DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages
+
+ENRON NORTH AMERICAN LANS:  No Scheduled Outages.
+
+FIELD SERVICES:  No Scheduled Outages.
+
+INTERNET: 
+Impact:  Internet
+Time:  Fri 5/18/2001 at  10:30:00 PM CT thru Fri 5/18/2001 at  11:30:00 PM CT
+ Fri 5/18/2001 at    8:30:00 PM PT thru Fri 5/18/2001 at    9:30:00 PM PT
+ Sat 5/19/2001 at  4:30:00 AM London thru Sat 5/19/2001 at  5:30:00 AM London
+Outage:  Upgrade IOS on ENEFW4
+Environments Impacted:  Internet
+Purpose: The new code has bug fixes and stateful failover feature.
+Backout: Revert back to old IOS.
+Contact(s):  John Shupak          713-853-7943
+  Bryan Aubuchon    713-345-8446
+ 
+MESSAGING: 
+Impact:  Corp Notes
+Time:  Fri 5/18/2001 at  9:00:00 PM CT thru Sat 5/19/2001 at  1:00:00 AM CT
+ Fri 5/18/2001 at  7:00:00 PM PT thru Fri 5/18/2001 at  11:00:00 PM PT
+ Sat 5/19/2001 at  3:00:00 AM London thru Sat 5/19/2001 at  7:00:00 AM London
+Outage:  cNotes Server Reboots
+Environments Impacted:  All users on any of the mailservers listed below
+Purpose: Scheduled @ 2 week interval
+Backout: Make sure server comes up.
+Contact(s):  Trey Rhodes  (713) 345-7792  
+        
+Impact:  EI
+Time:  Fri 5/18/2001 at  9:00:00 PM CT thru Sat 5/19/2001 at  1:00:00 AM CT
+ Fri 5/18/2001 at  7:00:00 PM PT thru Fri 5/18/2001 at  11:00:00 PM PT
+ Sat 5/19/2001 at  3:00:00 AM London thru Sat 5/19/2001 at  7:00:00 AM London
+Outage:  EI Notes Server Maintenance
+Environments Impacted:  EI Local/Domestic/Foreign Sites
+Purpose: Scheduled @ 2 week interval
+Backout: N/A
+Contact(s):  David Ricafrente    713-646-7741
+ 
+MARKET DATA: 
+Impact:  CORP
+Time:  Wed 5/16/2001 at  4:45:00 PM CT thru Wed 5/23/2001 at  4:45:00 PM CT
+ Wed 5/16/2001 at  2:45:00 PM PT thru Wed 5/23/2001 at  2:45:00 PM PT
+ Wed 5/16/2001 at  10:45:00 PM London thru Wed 5/23/2001 at  10:45:00 PM 
+London
+Outage:  Market Data Cable Management EB3460
+Environments Impacted:  All Trading Groups
+Purpose: Improve computer room environment.  Perform cable management in 
+order to comply with computer room standards.
+Backout: N/A
+Contact(s):  John Sieckman    713-345-7862
+ 
+NT: No Scheduled Outages.
+
+OS/2:  No Scheduled Outages.
+
+OTHER SYSTEMS: 
+Impact:  Corp, OTS, ETS    
+DATE:  MAY 29, 2001/2/2001 at  5:30:00 PM
+Outage:  Migrate DSS Server to GTHOU-APPSQ03P
+Environments Impacted:  DSS users will not be able to access the old server 
+(ENEDS01_ADAPT)after this date
+Purpose: The existing server is outdated, migrating to SQL 2000 provides 
+increased 
+functionality and conforms to database platform requirements.   
+Backout: 
+Contact(s):  Mary Vollmer          713-853-3381
+  Joe Hellsten           713-853-7346      713-545-4164
+
+Impact:  CORP
+Time:  Sat 5/19/2001 at  10:00:00 AM CT thru Sat 5/19/2001 at  4:00:00 PM CT
+ Sat 5/19/2001 at    8:00:00 AM PT thru Sat 5/19/2001 at  2:00:00 PM PT
+ Sat 5/19/2001 at  4:00:00 PM London thru Sat 5/19/2001 at  10:00:00 PM London
+Outage:  Moving Production Database TDSPROD
+Environments Impacted:  ENA
+Purpose: This database is being moved to give the space it is currently using 
+to the Enpower database on that server.  The new server Refraction will also 
+allow TDSPROD to expand as well.
+Backout: The old instance will be restarted and the TNSNAMES.ORA entry will 
+be changed to point at the old instance.
+Contact(s):  John Jahnke    713-345-4398
+                      
+Impact:  CORP
+Time:  Sat 5/19/2001 at  9:00:00 PM CT thru Sun 5/20/2001 at  12:00:00 AM CT
+ Sat 5/19/2001 at  7:00:00 PM PT thru Sat 5/19/2001 at   10:00:00 PM PT
+ Sun 5/20/2001 at  3:00:00 AM London thru Sun 5/20/2001 at  6:00:00 AM London
+Outage:  Resource addition for server moe.
+Environments Impacted:  Sitara, PEP, Global
+Purpose: Server is memory and cpu constrained.
+Backout: Shutdown the server and revert to old configuration.
+Contact(s):  Malcolm Wells    713-345-3716
+ 
+SITARA:   Also see above 
+Impact:  CORP
+Time:  Sat 5/19/2001 at   2:00:00 PM CT thru Sun 5/20/2001 at  12:00:00 AM CT
+ Sat 5/19/2001 at 12:00:00 PM PT thru Sat 5/19/2001 at   10:00:00 PM PT
+ Sat 5/19/2001 at  8:00:00 PM London thru Sun 5/20/2001 at  6:00:00 AM London
+Outage:  Resource additionto Sitara server aurora.
+Environments Impacted:  Sitara production
+Purpose: Add needed cpu and memory.
+Backout: Remove the newly added resources and restart under the old config.
+Contact(s):  Malcolm Wells    713-345-3716
+ 
+SUN/OSS SYSTEM: No Scheduled Outages.
+
+TELEPHONY: No Scheduled Outages
+
+TERMINAL SERVER:  No Scheduled Outages.
+
+UNIFY:  
+Impact:  CORP
+Time:  Fri 5/18/2001 at  3:00:00 PM thru Sun 5/20/2001 at  11:45:00 PM
+Outage:  Unify Power Production Server Maintenance
+Environments Impacted:  Unify Users
+Purpose: Infrastructure required maintenance
+Backout: 
+Contact(s):  Brian Ripley          713-345-4709
+  Charles Ballmer    713-853-0684
+  Bob Ward              713-345-4409 
+
+ 
+SCHEDULED SYSTEM OUTAGES: Australia
+Impact:  CORP
+Time:  Sat 19-May-2001 at  10:00:00 AM Sydney thru Sat 19-May-2001 at 3:00:00 
+PM Sydney
+ Sat 19-May-2001 at  1:00:00 AM GMT (London) thru Sat 19-May-2001 at  6:00:00 
+AM GMT (London)
+ Fri 5/19/2001 at  7:00:00 PM CT (Houston) thru Sun 5/20/2001 at  12:00:00 AM 
+CT (Houston)
+ Fri 5/19/2001 at 5:00:00 PM PT (Portland)  thru Sat 5/19/2001 at  10:00:00 
+PM PT (Portland) 
+Outage: Sydney UPS Test & Service
+Environments Impacted:  Corp Sydney - all systems
+Purpose: Original UPS needs testing & service. Will require Server Room to be 
+de-powered to allow maintenance.
+Backout: Plug equipment into unconditioned power.
+Contact(s):  Colin Wood    +61-416-248-353
+  Elliott Katz +61-292-292-309
+
+
+------------------------------------------------------------------------------
+-------------------------------------------------------
+        FOR ASSISTANCE
+
+(713) 853-1411   Enron Resolution Center
+
+
+Specific Help:
+Information Risk Management   (713) 853-5536
+SAP/ISC                                                                       
+        (713) 345-4727
+Unify On-Call      (713) 284-3757  [Pager]
+Sitara On-Call     (713) 288-0101  [Pager]
+RUS/GOPS/GeoTools/APRS   (713) 639-9726  [Pager]
+OSS/UA4/TARP    (713) 285-3165  [Pager]
+CPR      (713) 284-4175  [Pager]
+EDI Support      (713) 327-3893  [Pager]
+EES Help Desk     (713)853-9797 OR (888)853-9797
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <7908581.1075856140819.JavaMail.evans@thyme>
+Date: Fri, 4 May 2001 10:01:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.houston@enron.com
+Subject: Enron In Action 05.07.01
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+X-From: Enron Announcements
+X-To: All Enron Houston
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+Enron Family Day at the Museum of Fine Arts, Houston
+Enron Family Day at the Museum of Fine Arts, Houston is this Saturday, May=
+=20
+12th from 10 AM - 7 PM.  Enjoy the many exciting exhibits at the museum=20
+including=20
+Star Wars: Magic of Myth.  Enron employees and their families can enter the=
+=20
+museum free by presenting their Enron ID Badge. =20
+
+To visit the Star Wars: Magic of Myth exhibit, you can purchase vouchers fo=
+r=20
+$10 each by calling (713) 639-7771 or you may use the vouchers previously
+distributed to employees by Enron.
+
+Do you hate to garden in the summer because everything you plant dies?  Lin=
+da=20
+Gay, Director of the Mercer Arboretum and Botanic Gardens in Humble, will=
+=20
+teach us about plants that not only survive, but thrive during the dog days=
+=20
+of Houston summers. Topics will include tropical-looking plants for sun and=
+=20
+shade, gingers, fragrant plants, and drought-tolerant plants.
+
+WHEN:  Tuesday, May 8th, 11:30 a.m. - 12:30 p.m.
+WHERE: The Forum, 12th floor of 2 Allen Center
+
+Get ready to help the Body Shop celebrate it's 15th anniversary and kick-of=
+f=20
+National Health and Fitness Week.=20
+
+Beginning Monday, May 14 and ending Friday, May 18, 2001 all Enron Employee=
+s=20
+are invited to work-out at the Body Shop as a complimentary guest.  Just=20
+visit http://hrweb.enron.com/wellness, print and fill-out the body shop 15t=
+h=20
+anniversary guest form, and return it to the Body Shop prior to your first=
+=20
+workout.
+
+The week long celebration includes a speech and autograph session with Clyd=
+e=20
+Drexler, Monday, May 14, 2001, 11:30 AM-12:00 noon (spaces will be limited=
+=20
+and you must RSVP to Body.Shop@enron.com  by Friday, May 11, 2001, 3:00 PM)=
+;=20
+an early morning workout with the Houston Rockets Power Dancers on, Thursda=
+y,=20
+May 17, 2001 starting at 6:30 AM followed by breakfast and autograph sessio=
+n=20
+in the Body Shop Fuel Station at 7:30am - 8:30am; a boot camp style class l=
+ed=20
+by the German/American Foreign Legion and much, much more.  Visit the Body=
+=20
+Shop website for a detailed calendar of events, or for additional=20
+information, please e-mail the Body Shop at Body.Shop@enron.com.
+
+The Enron Travel Club will hold it's monthly meeting on Tuesday, May 8th in=
+=20
+room EB5C2 from 12:00pm - 1:00pm.
+
+
+Help people affected by arthritis. Join A Joint Walk on May 20.  =20
+Thousands of greater Houstonians will join the walk to cure arthritis.  The=
+=20
+5-mile walk begins at the Kelsey-Seybold Clinic and travels along Braes=20
+Bayou. Call 713-529-0800 and "get in step".
+
+
+
+Project Mom @ Friendly Haven on Saturday, May 11th.... in Honor of Mother's=
+ =20
+Day!
+Join Enron employees at Friendly Haven, a housing assistance program=20
+supported by AFH (AIDS Foundation Houston), for a volunteer project designe=
+d=20
+to celebrate Mother's Day.  Approximately 40 single mothers comprise Friend=
+ly=20
+Haven's residents and we would like to make the day special for both them a=
+nd=20
+their children. =20
+
+Enron volunteers are needed to facilitate a children's craft activity for=
+=20
+Mother's Day presents and also serve a special brunch to all of the mothers=
+=20
+in the program.  This project can be utilized as a team building opportunit=
+y=20
+for a department with 15 - 25 employees or individual volunteers may sign u=
+p=20
+by contacting Janice Riedel at x37507  - for more information on AFH, visit=
+=20
+http://www.aidshelp.org/programs/housing.htm.
+
+The Contemporary Arts Museum needs volunteers to help with CAM*boree, a=20
+special event for kids Sunday May 20, 5:00pm to 8:00pm.  There will be a=20
+picnic dinner, music and artist-led activities.  Volunteers will help play=
+=20
+with the kids, ages 2-12.  It is so much fun and a short time commitment. =
+=20
+Volunteers get a FREE Museum membership as a thank you.  Please respond by=
+=20
+May 16 to Jennifer Milligan X35272.
+
+
+Support KidSave and Help Miracles Happen. Every Summer.
+=20
+Kidsave=01,s  Summer Miracles Program enables orphanage children ages 5 to =
+11 to=20
+travel to the  US and Canada, live with families and attend day camp. The=
+=20
+program gives  families who may be concerned about the problems of adopting=
+=20
+an older child a  chance to meet, get to know and in the best-case scenario=
+,=20
+fall in love with a  child. The program gives prospective parents an=20
+opportunity to see and evaluate  first-hand the challenges and rewards of=
+=20
+adopting an older  child.
+=20
+In 1999 and  2000 Kidsave and adoption agency partners placed 432 children =
+-=20
+96 percent of  children who participated in the program. Generally, 85 to 9=
+0=20
+percent of  children who participate in the program find homes easily throu=
+gh=20
+the program.  The remaining 10 to 15 percent require more work.
+=20
+Kidsave  believes every child deserves a family. We are committed to placin=
+g=20
+all children  who participate in the Summer Miracles Program in permanent=
+=20
+families or  family-like environments.
+=20
+We are looking  for families to host children, and for others who want to=
+=20
+help us make the camp  program happen for these 250 children.   As a=20
+non-profit organization, Kidsave depends on donations to raise the  money t=
+o=20
+bring these children here and find them families.  Please call Tonya Hoppe =
+at=20
+281.286.8948  or tonya@tonya.cc to get involved in Houston=01,s  Kidsave=20
+program.  =20
+
+
+Enron and Kidventure Camps are proud to bring you Camp Enron Summer 2001. =
+=20
+Celebrating our third year, Camp Enron  will once again be providing summer=
+=20
+camp for children, ages 5-13, of Enron employees and contractors.=20
+
+This year, camp will be May 29-August 10.  Ten, one-week sessions will be =
+=20
+available and families may choose to attend any or all sessions.  Each camp=
+=20
+week is Monday through Friday.=20
+
+The cost is $150 per week and includes all transportation, field trips and=
+=20
+activities.  A deposit of $50 per week is all that is needed to reserve you=
+r=20
+sessions. =20
+
+To register, log on to: http://www.kidventurecamp.com/camp_enron.htm.  =20
+Spaces are limited.
+
+Enron parents simply ride to work with  their children and check them in to=
+=20
+the Energizer room in the morning with the Camp Enron Team.  Enron Campers=
+=20
+are loaded on Coach USA Buses and transported to our nearby camp. At the en=
+d=20
+of the day campers are brought back to the Energizer for parents to check=
+=20
+out. =20
+
+It's that easy!
+
+For more information please contact:
+
+web site: www.kidventurecamp.com
+call Kidventure: 713.960.8989
+e-mail: camps@kidventurecamp.com
+
+Have News to Share?
+To post news or events in Enron In Action, please e-mail your information t=
+o=20
+EIA@enron.com=20
+no later than 12:00 noon the Thursday prior to the next Monday=01,s mailing=
+.
+
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <19690480.1075856141173.JavaMail.evans@thyme>
+Date: Tue, 24 Apr 2001 10:46:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.downtown@enron.com
+Subject: DRAFT- TAP Power Outage
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: All Enron Downtown
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+One of Travel Agency in the Park's major phone lines has been damaged due to 
+downtown construction.  The line is currently being repaired with an 
+estimated down time of approximately 4-6 more hours.  Calls are currently 
+being routed to 713-853-4801 and 713-345-5164.  We will send additional 
+notification if this problem persists.  We apologize for any inconvenience.   
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <13685473.1075856141032.JavaMail.evans@thyme>
+Date: Sun, 29 Apr 2001 10:01:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.worldwide@enron.com
+Subject: "Take This Job and Shovel It"
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: All Enron Worldwide
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+Read about how PGE is making methane out of manure in this issue of eBiz.
+
+Also in this issue:
+Enron's first quarter earnings overview
+Online energy trading will reach $3.6 trillion by 2005
+Tom White becomes U.S. Secretary of the Army
+A U.K. offshore wind farm
+The PGE sale terminates
+How a fuel cell works
+A little bit of poetry
+
+It's all in the latest eBiz.  Go to home.enron.com, click Publications, then 
+click eBiz, and "eBiz April 27, 2001."
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <10858806.1075856139716.JavaMail.evans@thyme>
+Date: Mon, 28 May 2001 13:52:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.houston@enron.com
+Subject: Enron In Action 05.29.01
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+X-From: Enron Announcements
+X-To: All Enron Houston
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+USCAA Track & Field Championships, June 9, 2001
+The Enron Running Club is seeking runners, sprinters, discus & shot put=20
+throwers, and high jumpers & long jumpers to compete in the annual USCAA=20
+Track & Field Championships on Saturday, June 9th at Rice University. =20
+Participate in co-ed track relays & field events of all ages and abilities;=
+=20
+showcase your energy and talents in a challenging, competitive, and fun=20
+environment; participate in an Enron tradition since 1994; experience=20
+teambuilding and camaraderie like never before!  For more information or to=
+=20
+sign up, contact Cindy Richardson at x3-4770 or sprint to: =20
+http://home.enron.com:84/erc/index.html
+
+Heights Fun Run 5K
+Join the Enron Running Club at the Heights Fun Run 5K benefiting The Housto=
+n=20
+Heights Association=01,s Community Projects scheduled for Saturday, June 2n=
+d. =20
+If you=01,re interested in running or volunteering your time, please contac=
+t=20
+Cindy Richardson at 713-853-4770 or Kelly Lombardi at 713-345-5841.  For mo=
+re=20
+information, run to: http://home.enron.com:84/erc/index.html.=20
+
+Dad=01,s Day 5K
+Join the Enron Running Club at the Dad=01,s Day 5K and 1 Mile Family Walk=
+=20
+benefiting The Prostate Cancer Research and Awareness scheduled for Saturda=
+y,=20
+June 2nd.  If you=01,re interested in running or volunteering your time, pl=
+ease=20
+contact Cindy Richardson at 713-853-4770 or Kelly Lombardi at 713-345-5841.=
+ =20
+For more information, run to: http://home.enron.com:84/erc/index.html.=20
+
+Stop by for some Texan BBQ, fresh air and Entertainment at Antioch Park
+
+The Assist The Officer Foundation (ATO), a non-profit organization working=
+=20
+independently,  is inviting all Enron employees to come by Antioch Park  on=
+=20
+Friday, June 1st from 11am - 1pm and enjoy a delicious plate of BBQ for onl=
+y=20
+$5.  Come and listen to the tunes of KRBE with Gabe, their mobile DJ, and=
+=20
+raffles with many prizes will be given away.  Raffle tickets will be $2 eac=
+h=20
+or 3 for $5.  ATO is dedicated to assisting Houston peace officers injured =
+or=20
+disabled in the line of duty.  Please come out and support your local law=
+=20
+enforcement professionals. =20
+
+The Caladium plants that are in the huge plant pots throughout the Plaza ar=
+e=20
+going to be replaced and will be available for purchasing on Monday, June 4=
+th=20
+for $4.00 in the Plaza by the up escalator from 11 a.m. to 12 p.m..=20
+
+Join us in Dublin or Honolulu ----Joints in Motion is a marathon training=
+=20
+program for walkers and runners that is aligned with a fundraising effort f=
+or=20
+the Arthritis Foundation.  The Dublin Marathon will be held Oct. 29 and the=
+=20
+Honolulu marathon will be December 9.  Please call for more information at=
+=20
+713-529-0800.
+
+
+
+Volunteer for the Boys & Girls Club Summer Camp Weekends!!!
+Kevin Hannon, Boys & Girls Club board member, invites you to join Enron=20
+employee John Cote at a Boys & Girls Club summer camp who is looking for=20
+commitment from a FEW GOOD ENRON MEN AND WOMEN:
+
+WHAT:   2nd Annual Houston Boys and Girls Club / Enron Summer Camp Weekend =
+(2=20
+camps)
+
+WHEN:   Boys Camp
+  Friday afternoon (3:00 - 6:00pm), June 22 through Sunday afternoon, June =
+24=20
+  --OR--
+  Friday afternoon (3:00 - 6:00pm), July 20 through Sunday afternoon, July =
+22=20
+ =20
+  Girls Camp
+  Friday afternoon (3:00 - 6:00pm), July 6 through Sunday afternoon, July 8
+  --OR--
+  Friday afternoon (3:00 - 6:00pm), July 13 through Sunday afternoon, July =
+15
+
+WHERE: Willis, TX (75 minutes from downtown Houston -- just north of Conroe=
+)
+
+WHO:   6-8 counselors per camp to chaperone 75 boys (ages 7-16)
+
+HOW:   Share all sports activities, including canoeing, hiking, fishing,=20
+organizing a talent    show/bonfire/ghost stories, obstacle course, water=
+=20
+balloon fights, softball, basketball,   archery, football, etc.  (Cooking a=
+nd=20
+clean-up covered by the Houston Boys Club staff.)
+
+CONTACT: John A. Cote at ext. 33830
+
+SPREAD THE WORD.  SPOUSES & OFFICE COLLEAGUES WELCOME.
+LAST YEAR'S CAMP WAS A HUGE SUCCESS!
+
+
+Volunteers Needed for Bring Your Child to Work Day!
+
+Bring Your Child to Work Day is Friday, June 29
+
+Please email Jennifer Milligan if you are interested in volunteering and=20
+indicate your preference in the below activities:
+
+Registration Table
+Houston Police Dept / Stranger Danger / Fingerprinting
+Outdoor Activities (SPCA pets, Balloon King, kids crafts, etc.)
+Business Etiquette class
+Business Art (kids' resumes, etc)
+Lunch ticket sales/coordination (in Antioch Park)
+
+
+The Enron Running Club and the Houston Corporate Athletic Association are=
+=20
+seeking volunteers to assist at the annual USCAA Track & Field Championship=
+s=20
+on Saturday, June 9th at Rice University.  There are many volunteer=20
+opportunities requiring little or no experience including timers, scoring,=
+=20
+lane judges, cheering on athletes and more!  We are looking for employees,=
+=20
+families and friends that can contribute a few hours or who are willing to=
+=20
+spend the day benefiting a great cause.  If you are interested or would lik=
+e=20
+more information, please contact Kelly Lombardi at x3-8491.
+
+
+Many volunteers are needed to help with the planned activities for the Enro=
+n=20
+Children on June 29th.  If you're interested, send your name and phone=20
+extension to workperks.enron.com.
+
+
+Support KidSave and Help Miracles Happen. Every Summer.
+=20
+Kidsave=01,s  Summer Miracles Program enables orphaned children ages 5 to 1=
+1 to=20
+travel to the  US and Canada, live with families and attend day camp. The=
+=20
+program gives  families who may be concerned about the problems of adopting=
+=20
+an older child a chance to meet, get to know and in the best-case scenario,=
+=20
+fall in love with a  child. The program gives prospective parents an=20
+opportunity to see and evaluate  first-hand the challenges and rewards of=
+=20
+adopting an older  child.
+=20
+In 1999 and  2000 Kidsave and adoption agency partners placed 432 children =
+-=20
+96 percent of  children who participated in the program. Generally, 85 to 9=
+0=20
+percent of  children who participate in the program find homes easily throu=
+gh=20
+the program.  The remaining 10 to 15 percent require more work.
+=20
+Kidsave  believes every child deserves a family. We are committed to placin=
+g=20
+all children  who participate in the Summer Miracles Program in permanent=
+=20
+families or  family-like environments.
+=20
+We are looking  for families to host children, and for others who want to=
+=20
+help us make the camp  program happen for these 250 children.   As a=20
+non-profit organization, Kidsave depends on donations to raise the  money t=
+o=20
+bring these children here and find them families.  Please call Tonya Hoppe =
+at=20
+281.286.8948  or tonya@tonya.cc to get involved in Houston=01,s  Kidsave=20
+program.  =20
+
+
+Find Out how to Join The Downtown Club May 29 & 30!
+The Downtown Club (formerly The Met-Business & Sports Club)Membership=20
+representatives from The Downtown Club will be in the Enron Plaza=20
+Tuesday-Wednesday, May 29-30, from 11 am - 1 pm to discuss membership, the=
+=20
+new "Signature Gold" program (see attached file for more information), and =
+a=20
+new membership referral program.  Don't miss out on this opportunity to joi=
+n=20
+the Downtown Club or to upgrade your current membership.  As a reminder, a=
+=20
+$200 initiation fee is required for new memberships.   For more information=
+,=20
+contact The Downtown Club Membership Services department at 713-652-0700 or=
+=20
+Georgia Fogo, ext. 3-5609. =20
+
+http://home.enron.com:84/messaging/siggoldcourses.pdf
+
+
+Enron and Kidventure Camps are proud to bring you Camp Enron Summer 2001. =
+=20
+Celebrating our third year, Camp Enron  will once again be providing summer=
+=20
+camp for children, ages 5-13, of Enron employees and contractors.=20
+
+This year, camp will be May 29-August 10.  Ten, one-week sessions will be =
+=20
+available and families may choose to attend any or all sessions.  Each camp=
+=20
+week is Monday through Friday.=20
+
+The cost is $150 per week and includes all transportation, field trips and=
+=20
+activities.  A deposit of $50 per week is all that is needed to reserve you=
+r=20
+sessions.   The deadline to register is Monday, May 21. =20
+
+To register, log on to: http://www.kidventurecamp.com/camp_enron.htm.  =20
+Spaces are limited.
+
+Enron parents simply ride to work with  their children and check them in to=
+=20
+the Energizer in the morning with the Camp Enron Team.  Enron Campers are=
+=20
+loaded on Coach USA Buses and transported to our nearby camp. At the end of=
+=20
+the day campers are brought back to the Energizer for parents to check out.=
+ =20
+
+It's that easy!
+
+For more information please contact:
+
+web site: www.kidventurecamp.com
+call Kidventure: 713.960.8989
+e-mail: camps@kidventurecamp.com
+
+Have News to Share?
+To post news or events in Enron In Action, please e-mail your information t=
+o=20
+EIA@enron.com=20
+no later than 12:00 noon the Thursday prior to the next Monday=01,s mailing=
+.
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <7060513.1075856141217.JavaMail.evans@thyme>
+Date: Thu, 19 Apr 2001 16:57:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.houston@enron.com
+Subject: =?ANSI_X3.4-1968?Q?Mind=01,s_Eye_Madness_-_April_24th_-_27th?=
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+X-From: Enron Announcements
+X-To: All Enron Houston
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+Introducing Mind=01,s Eye Madness... a "Celebration of Innovation"! =20
+=20
+Enron. A name synonymous with innovation.  A company named "Most Innovative=
+=20
+Company in America"=20
+for the 6th consecutive year by Fortune magazine.  What inspires this=20
+innovation?  Find out at Mind's Eye Madness!
+=20
+With a view to highlight advancements in technology, new businesses at Enro=
+n=20
+and the importance of being yourself,=20
+this week-long celebration will take place in the Enron Building lobby duri=
+ng=20
+lunchtime from Tuesday, April 24th=20
+through Friday, April 27th.  More details to follow via e-mail and ETV!
+
+There are several related afternoon workshops and activities planned that=
+=20
+require reservations as listed below:
+
+=01&Images of Enron in 2020" with Dr. Peter Bishop and Amy Oberg=20
+Tuesday, April 24th - 1:30pm to 3:30pm =20
+Join Amy Oberg with EES and Dr. Peter Bishop, Chair & Professor of the=20
+University of Houston's Future Program,=20
+to imagine Enron in the year 2020. "Futures tools" will be utilized to=20
+consider Enron's=20
+characteristics, culture, businesses and the world environment.  You will=
+=20
+also explore how the future might play out for Enron. =20
+
+"The Painting Experience" with Mr. Stewart Cubley=20
+Thursday, April 26th - 3:30pm to 5:30pm
+You do not have to be an artist... no training or knowledge of art is=20
+required....  simply participate in a unique,=20
+supportive environment where you can explore the =01&process=018 of creativ=
+ity and=20
+risk-taking completely free from the=20
+barriers of comparison, evaluation, judgment, success, failure or awards. =
+=20
+The only prerequisite is a spirit of inquiry. =20
+
+The Enron Mind=01,s Eye Motorcade
+Friday, April 27th - 9:00am to 1:00pm and 1:00pm to 4:00pm=20
+The Enron Mind's Eye Motorcade is an art car convoy sponsored by Enron.  It=
+=20
+will visit Enron-designated stops=20
+in the community including our adopted schools, non-profit organizations an=
+d=20
+medical center=20
+facilities dedicated to treating children.   Enron employees are needed to=
+=20
+accompany the convoy and interact with=20
+the community by communicating the importance of innovation.   When=20
+registering, please designate your time preference.
+
+There are no registration fees for any of these activities and space is=20
+limited. =20
+To RSVP or for more information, please contact Jessica Nunez at x31918.
+
+Remember to visit the lobby during lunch for an exciting exchange of relate=
+d=20
+information!
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <30137747.1075856140326.JavaMail.evans@thyme>
+Date: Sun, 13 May 2001 12:37:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.worldwide@enron.com
+Subject: Espeak with Fitness Expert, Dr. Joel Bloom
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: All Enron Worldwide
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+Ever wonder . . . .
+
+? Do those sports drink like Gatorade work?
+? How much exercise is too much?
+? If I want to bulk-up those muscles, is Creatine safe?
+? Do weight gaining powders work?
+? What about diet pills?
+
+Then join Dr. Joel Bloom for an Enron eSpeak on Tuesday, March 15, 2001 at 
+10:00 AM when he will answer these questions and many more.  Just go to 
+http://ethink.enron.com/.
+
+Dr. Bloom is an Associate Professor in the Department of Health and Human 
+Performance at the University of Houston. Joel specializes in Biomechanics, 
+Sports Medicine, and Aquatic Therapy.  He is a strong advocate for bringing 
+back physical activity into public schools and is on the Texas Commission for 
+Bicycle Safety.  He has also published several books and numerous articles on 
+sports performance, exercise, biomechanics, injury prevention, and  training 
+programs.
+
+Dr. Bloom will talk about:
+
+? Sports Drinks vs. Water/ Truths and Myths
+? Stretching/Truths and Myths
+? Myths about Abdominal Exercises
+? Supplements/ Risks and Benefits
+? Food Label Reading/Fact or Fiction?
+? To breakfast or not to Breakfast?
+
+So join us on Tuesday, March 15 on eSpeak.
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <28817137.1075856140665.JavaMail.evans@thyme>
+Date: Tue, 8 May 2001 17:55:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.houston@enron.com
+Subject: eSource Presents Free Investext Training
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: All Enron Houston
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+eSource presents Investext training
+
+Investext offers immediate online delivery of original-image and full-text 
+research reports from more than 800 of the world's top investment banks, 
+market research firms, and trade associations.  This product is designed to 
+provide all the information you need to know about a particular company, 
+industry, or market.
+
+Training Agenda Includes:
+? General Introduction.
+? Querying by company ticker in order to retrieve analyst reports.
+? Querying via Investexts free text module to retrieve industry-specific 
+information: including statistics, economic indicators, analysis, trends, 
+forecasts and surveys.
+
+Attend one of our Investext Clinics: 
+    
+May. 11 - 10:30 -11:30 AM  EB572
+
+And
+
+May. 16 - 10:30 -11:30 AM  EB572
+
+
+
+Seats fill up fast! To reserve a seat, please call Stephanie E. Taylor at 
+5-7928
+Check the eSource training page at http://esource.enron.com/training.doc for 
+additional training sessions and vendor presentations
+
+
+
+http://esource.enron.com
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <3805715.1075856140795.JavaMail.evans@thyme>
+Date: Sun, 6 May 2001 11:22:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.worldwide@enron.com
+Subject: eThink About It: 5/7/01
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: All Enron Worldwide
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+Thursday, May 10 at 10 a.m. Houston time, join Billy Lemmons on eSpeak.  
+Billy, vice president of the Associate/Analyst Program will answer your 
+questions in an "open mike" event.
+Have a question, but you can't make the live event?  Pre-submit your 
+questions now on eSpeak, and come back to read the transcript later.
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <28044363.1075856140965.JavaMail.evans@thyme>
+Date: Fri, 4 May 2001 01:17:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.worldwide@enron.com
+Subject: Organization Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: All Enron Worldwide
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+Given the growth in EES it has become apparent that it is time to consolidate 
+the risk functions between EES and EWS.  This will provide EES with the 
+systems, resources and risk expertise of the wholesale energy groups 
+necessary for it to continue to grow and take advantage of current market 
+opportunities.
+
+With this in mind and in agreement with the management of EES, two new risk 
+groups inside Enron Americas will be formed to provide EES with pricing, 
+structuring, retail and wholesale commodity risk management, logistics and 
+back-office services.  These groups main function is to provide these 
+services to EES.  We have asked Rogers Herndon, currently Vice 
+President-Trading in the Eastern Power Group to manage this function in the 
+Eastern Interconnect (this includes both gas and power).  Rogers will 
+continue to report to Kevin Presto.  We have asked Don Black, formerly Vice 
+President-EES Risk Management and Sourcing, to manage this function in the 
+Western U.S.  Don will manage this group from Houston and will report to Tim 
+Belden.
+
+These groups will work very closely with EES to pursue shared goals while 
+ensuring close coordination with the wholesale gas and power trading 
+organizations.
+
+These changes are effective immediately.  Please congratulate Rogers and Don 
+on their new roles.
+
+
+John Lavorato & Louise Kitchen
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <1742752.1075856139931.JavaMail.evans@thyme>
+Date: Wed, 23 May 2001 13:01:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.houston@enron.com
+Subject: eSource Presents Free SDC Platinum Training
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: All Enron Houston
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+eSource presents SDC Platinum training
+
+SDC Platinum offers detailed transactional information on New Issues, Mergers 
+& Acquisitions, Syndicated Loans, Private Equity, Strategic Alliances, 
+Project Finance and others.  The product is designed to allow users to 
+compare transactions, evaluate advisors, and analyze market and industry 
+trends.
+
+Training Agenda Includes:
+? General Introduction.
+? Basic query techniques for new issues and M&A databases.
+? Basic query techniques for trend analysis.
+
+Attend our SDC Platinum Clinic: 
+    
+May 30     9:00 -11:30 AM   EB552
+
+
+Seats fill up fast! To reserve a seat, please call Stephanie E. Taylor at 
+5-7928
+Check the eSource training page at http://esource.enron.com/training.doc for 
+additional training sessions and vendor presentations.
+
+http://esource.enron.com
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <5363100.1075856140087.JavaMail.evans@thyme>
+Date: Sun, 20 May 2001 12:37:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.america@enron.com
+Subject: Investinme - Course Offering
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: All Enron Employees North America
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+Fundamentals of Corporate Finance - May 24 & 25, 2001
+in EB552   Cost:  $700.00
+
+
+Do need to improve your understanding of Financial Statements?
+
+Do you want to learn how Financial Statements disclosure is linked to Enron 
+activities?
+
+Are you interested in learning about analysis of projections or
+Improving your understanding of ratio analysis?
+
+
+If your answer is yes, then this class is for you.
+
+
+For registration, please login and enroll through the InvestInMe website, 
+http://www.corptraining.com/index.cfm?company=enron.  If you have any 
+questions, please contact us at 713 853-3057.
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <10431270.1075856140919.JavaMail.evans@thyme>
+Date: Fri, 4 May 2001 09:49:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: houston.report@enron.com
+Subject: SUPPLEMENTAL Weekend Outage Report for 5-4-01 through 5-7-01
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: Houston Outage Report
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+------------------------------------------------------------------------------
+------------------------
+W E E K E N D   S Y S T E M S   A V A I L A B I L I T Y
+
+F O R
+
+May 4, 2001 5:00pm through May 7, 2001 12:00am
+------------------------------------------------------------------------------
+------------------------
+
+SCHEDULED SYSTEM OUTAGES: 
+
+ARDMORE DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+
+AZURIX: No Scheduled Outages.
+
+EB34 DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+
+EDI SERVER: No Scheduled Outages.
+
+ENRON CENTER SOUTH DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages
+
+ENRON NORTH AMERICAN LANS:     SEE ORIGINAL REPORT 
+
+FIELD SERVICES:  No Scheduled Outages.
+
+INTERNET: No Scheduled Outages.
+
+MESSAGING:     SEE ORIGINAL REPORT 
+  
+MARKET DATA: No Scheduled Outages.
+
+NT: No Scheduled Outages.
+
+OS/2:  No Scheduled Outages.
+
+OTHER SYSTEMS:       ALSO SEE ORIGINAL REPORT                                 
+ 
+Impact:  EBS
+Time:  Fri 5/4/2001 at  6:00:00 PM CT thru Fri 5/4/2001 at  10:00:00 PM CT
+ Fri 5/4/2001 at  4:00:00 PM PT thru Fri 5/4/2001 at    8:00:00 PM PT
+ Sat 5/5/2001 at 12:00:00 AM London thru Sat 5/5/2001 at  4:00:00 AM London
+Outage:  CGMP removal on MSFCs (EBS)
+Environments Impacted:  EBS
+Purpose: Possible fix for multicast problems. Neal Symms is still reporting 
+difficulties with multicast and Tibco.
+Backout: Place 'ip cgmp' back on the interfaces
+Contact(s):  Dennis McGough    713-345-3143
+  
+SITARA:  No Scheduled Outages.
+
+SUN/OSS SYSTEM: No Scheduled Outages.
+
+TELEPHONY: No Scheduled Outages
+
+TERMINAL SERVER:  No Scheduled Outages.
+
+UNIFY:  No Scheduled Outages.
+
+------------------------------------------------------------------------------
+-----------------------------------------------
+        FOR ASSISTANCE
+
+(713) 853-1411   Enron Resolution Center
+
+
+Specific Help:
+Information Risk Management   (713) 853-5536
+SAP/ISC                                                                       
+        (713) 345-4727
+Unify On-Call      (713) 284-3757  [Pager]
+Sitara On-Call     (713) 288-0101  [Pager]
+RUS/GOPS/GeoTools/APRS   (713) 639-9726  [Pager]
+OSS/UA4/TARP    (713) 285-3165  [Pager]
+CPR      (713) 284-4175  [Pager]
+EDI Support      (713) 327-3893  [Pager]
+EES Help Desk     (713)853-9797 OR (888)853-9797
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <20222203.1075856139348.JavaMail.evans@thyme>
+Date: Mon, 4 Jun 2001 10:10:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.worldwide@enron.com
+Subject: eThink About It: 6/5/01
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: All Enron Worldwide
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+  The eThink Team
+
+
+Do you know what's included in Enron's Code of Ethics?  Do you know what 
+policies affect corporate conduct?  Ask Sharon Butcher, Assistant General 
+Counsel of Corporate Legal, all your questions about our corporate policies 
+today (June 5) on eSpeak at 10 a.m. Houston time.
+Can't make the live event?  No worries.  Go to eSpeak (
+http://ethink.enron.com/eSpeak/exec/default.asp) now and submit your 
+question.  Sharon will try to answer it during her event and you can read the 
+transcript later.
+
+
+Stop what you're doing!  Go to the Thinkbank (
+http://nahou-lnapp01.corp.enron.com/eThink/Thinkbank.nsf/HomePage?OpenPage) 
+now!  Notice anything different?
+
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <18229976.1075856140752.JavaMail.evans@thyme>
+Date: Mon, 7 May 2001 15:20:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.states@enron.com
+Subject: ClickAtHome Portal is HERE!
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: All Enron Employees United States
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+Version 2.0 of the ClickAtHome Portal is now available!  
+ Log into www.clickathome.net now, from work or home!
+
+Access the PEP System through the portal!  
+ Choose your reviewers and fill out your evaluations in the comfort and 
+privacy of your home!
+
+Outlook Web Access and eHRonline will be available SOON!  
+
+The ClickAtHome portal is fully customizable for you!  
+ YOU choose the content on each page, as well as the look and feel! 
+
+Note: the ClickAtHome portal must be launched through an Internet Explorer 
+browser, 5.0 or higher.
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <30580527.1075856141011.JavaMail.evans@thyme>
+Date: Mon, 30 Apr 2001 17:41:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.houston@enron.com
+Subject: Investinme - Course Offering
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: All Enron Houston
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+Electric Business Understanding - May 2, 2001
+
+EB552 - 8:00 am - 5:00 pm          Cost:  $600.00
+
+The Electric Business Understanding Seminar will give a basic overview of the 
+electric business for those with limited knowledge of this industry. This 
+seminar is recommended for entry level to mid-level employees in either the 
+gas or electric business or in businesses providing services to these 
+industries. This course will provide you with a general understanding of how 
+the electric business operates, who the key industry participants are, the 
+strategies they employ to be successful, and how the business is likely to 
+evolve. 
+Please click here for registration  
+http://www.corptraining.com/index.cfm?company=enron.  If you have any 
+questions, please call 713 853-0357.
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <27418804.1075856140193.JavaMail.evans@thyme>
+Date: Thu, 17 May 2001 16:01:00 -0700 (PDT)
+From: public.relations@enron.com
+To: all.worldwide@enron.com
+Subject: Jeff Skilling on CNN this weekend
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Public Relations
+X-To: All Enron Worldwide
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+You will have several opportunities in the next few days to see a taped 
+interview with Jeff Skilling on The Players segment of "Business Unusual," a 
+program that captures the insights of the world's prominent corporate 
+leaders.  "Business Unusual" will appear on CNN networks in select regions 
+around the globe.  Jeff will discuss why Enron is destined to be the world's 
+leading company, developing a culture that rewards change, the principles of 
+a "loose/tight" organization and more.
+
+Broadcast Schedule:
+
+CNN
+Saturday, May 19
+11:30 a.m. Pacific Standard Time
+
+Sunday, May 20
+5:30 Central Standard Time (a.m. and p.m.)
+
+CNNfn
+Monday through Friday, May 21-25
+7 p.m. and 10:30 p.m. Central Standard Time
+
+CNN International
+Europe:
+Saturday, May 19,  1130 CET
+Sunday, May 20,  1930 CET
+
+Asia:
+Saturday, May 19,  1030 HK
+
+Latin America:
+Saturday, May 19,  930 BA
+Sunday, May 20,  1030 BA
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <30668276.1075856139864.JavaMail.evans@thyme>
+Date: Thu, 24 May 2001 19:16:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.houston@enron.com
+Subject: Investinme Course Offering
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: All Enron Houston
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+Applied Finance - May 31-June 1, 2001 
+in EB552   Cost:  $700.00
+
+The objective of this program is not to teach you how to do a deal, but 
+rather, to give you a better understanding of how basic financial principals 
+contribute to the structure of a deal.    It will also provide you with 
+insight to Enron deals in order that you can make a contribution to the work 
+that goes into putting one together.
+
+When you leave the program, you will have:
+
+R An understanding of basic financial and accounting issues relevant to 
+Enron's transactions.
+R A basic understanding of how Enron structures deals - the "deal space" and 
+how the financial principals discussed  relate to  Enron deals.
+R The ability to take the financial principals and apply them to an Enron 
+deal.
+
+
+Please login and enroll through the InvestInMe website, 
+http://www.corptraining.com/index.cfm?company=enron.  If you have any 
+questions, please call 713 853-0357.
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <18196869.1075856141137.JavaMail.evans@thyme>
+Date: Thu, 26 Apr 2001 16:41:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.houston@enron.com
+Subject: "Freaky Friday" with Mind's Eye Madness
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+X-From: Enron Announcements
+X-To: All Enron Houston
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+"If everybody is thinking alike, then somebody isn=01,t thinking.=018  - Ge=
+orge S.=20
+Patton, Jr.
+=20
+Keeping with our Mind=01,s Eye Madness week, be sure to check out the Enron=
+ Mind=01,
+s Eye Motorcade=20
+on Friday, April 27th from 11:30am to 1:00pm at the Big E Cafe.  This art c=
+ar=20
+convoy will spend the day visiting=20
+Enron-designated stops in the community to promote innovation and=20
+creativity.  Mirroring Enron=01,s innovation,=20
+these artists think about the way things could be and are not limited by th=
+e=20
+way things are.
+
+Featuring:
+Lunch by Escalantes Mexican Grille - choice of beef, chicken or veggie=20
+fajitas with trimmings, dessert and a drink for $5. =20
+Live salsa music will be provided by Tropicrew, featuring Enron=01,s own Ms=
+.=20
+Alex Villarreal as the lead singer. =20
+Non-profit organizations represented will include the March of Dimes, SEARC=
+H=20
+and the Lupus Foundation of America. =20
+Get lunch free if you're dressed "freaky"!
+ =20
+Word of the Day
+Zeitgeist \TSYT-guyst; ZYT-guyst\, noun:  The spirit of the time; the gener=
+al=20
+intellectual & moral state or temper characteristic of any period of time.
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <4959225.1075856140687.JavaMail.evans@thyme>
+Date: Tue, 8 May 2001 17:55:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.houston@enron.com
+Subject: eSource Presents Free Piranha Web Training
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: All Enron Houston
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+eSource presents Piranha Web training
+
+Piranha Web offers an online connection to complete company analysis via 
+content that includes Disclosure, Worldscope, Datastream and I/B/E/S.  The 
+product is designed to allow users to get complete company fundamental 
+financials, earnings estimates, and market data.
+
+Training Agenda Includes:
+? General Introduction.
+? Basic ticker query building
+
+  
+Attend our Piranha Clinic: 
+    
+May 11 -    9:00 -10:00 AM  EB572
+
+
+Seats fill up fast! To reserve a seat, please call Stephanie E. Taylor at 
+5-7928
+Check the eSource training page at http://esource.enron.com/training.doc for 
+additional training sessions and vendor presentations
+
+
+
+http://esource.enron.com
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <31642336.1075856139508.JavaMail.evans@thyme>
+Date: Fri, 1 Jun 2001 08:37:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: houston.report@enron.com
+Subject: SUPPLEMENTAL Weekend Outage Report for 6-1-01 through 6-4-01
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: Houston Outage Report
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+------------------------------------------------------------------------------
+------------------------
+W E E K E N D   S Y S T E M S   A V A I L A B I L I T Y
+
+F O R
+
+June 1, 2001 5:00pm through June 4, 2001 12:00am
+------------------------------------------------------------------------------
+------------------------
+
+
+ECS to ECN Network Interconnection, June 9th 2001
+
+This is a notification that the Enron Corp. I/T Networks team will be 
+connecting the new building network infrastructure located in Enron Center 
+South (ECS) to the existing Enron Center North (ECN) backbone network.  While 
+this activity is not expected to produce a disruption to network services, 
+this notice is designed to alert the organization to our activities.  No 
+network hardware or systems are anticipated to be shutdown.  The actual 
+physical interconnection of the networks will be performed in the EB 34th 
+floor Data Center.
+
+Interconnection activities are scheduled to occur the evening of June 9th 
+2001 starting from 7:00 p.m.(CT) and completing around 11:00 p.m. (CT). 
+Application testing activities will begin at 11:00 p.m. (CT) once all network 
+testing has completed.
+
+If you have any further questions, please contact Pete Castrejana at 
+713-410-0642 for more information.
+      
+
+SCHEDULED SYSTEM OUTAGES: 
+
+ARDMORE DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+
+AZURIX: No Scheduled Outages.
+
+EB34 DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+
+EDI SERVER: No Scheduled Outages.
+
+ENRON CENTER SOUTH DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages
+
+ENRON NORTH AMERICAN LANS:  SEE ORIGINAL REPORT
+                    
+FIELD SERVICES:  No Scheduled Outages.
+
+INTERNET:     SEE ORIGINAL REPORT
+
+MESSAGING:      SEE ORIGINAL REPORT
+ 
+Impact:  Exchange
+Time:  Fri 6/1/2001 at  7:00:00 PM thru Fri 6/1/2001 at  7:30:00 PM
+Outage:  Initiate Failover of Nahou-msmbx01v to unlock backup api
+Disruption:  
+Environments Impacted:  Users on with mailboxes on nahou-msmx01v
+Purpose: Ensure backups run successfully
+Backout: N/A
+Contact(s):  Scott Albright  713-345-9381  
+      
+
+Impact:  CORP
+Time:  Sat 6/2/2001 at  10:00:00 PM thru Sat 6/2/2001 at  10:15:00 PM
+Outage:  Exchange server message change
+Disruption:  Intermittent Disruption of Service
+Environments Impacted:  Corp Exchange users on nahou-msmbx05v
+Purpose: To enable the new mailbox over the limit message
+Backout: 
+Contact(s):  Tim Hudson  713-853-9289  
+      
+
+MARKET DATA: No Scheduled Outages.
+
+NT: No Scheduled Outages.
+
+OS/2:  No Scheduled Outages.
+
+OTHER SYSTEMS: No Scheduled Outages.
+
+SITARA:  No Scheduled Outages.
+
+SUN/OSS SYSTEM: No Scheduled Outages.
+
+TELEPHONY: No Scheduled Outages
+
+TERMINAL SERVER:  No Scheduled Outages.
+
+UNIFY:  No Scheduled Outages.
+
+------------------------------------------------------------------------------
+-------------------------------------------------------
+        FOR ASSISTANCE
+
+(713) 853-1411   Enron Resolution Center
+
+
+Specific Help:
+Information Risk Management   (713) 853-5536
+SAP/ISC                                                                       
+        (713) 345-4727
+Unify On-Call      (713) 284-3757  [Pager]
+Sitara On-Call     (713) 288-0101  [Pager]
+RUS/GOPS/GeoTools/APRS   (713) 639-9726  [Pager]
+OSS/UA4/TARP    (713) 285-3165  [Pager]
+CPR      (713) 284-4175  [Pager]
+EDI Support      (713) 327-3893  [Pager]
+EES Help Desk     (713)853-9797 OR (888)853-9797
+TDS -Trader Decision Support On-Call                    (713) 327-6032 [Pager]
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <24089655.1075856141194.JavaMail.evans@thyme>
+Date: Sun, 22 Apr 2001 13:10:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.worldwide@enron.com
+Subject: eThink About It: 4/23/01
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: All Enron Worldwide
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+Wednesday, April 25 at 10 a.m. Houston time, join Sherri Sera, executive 
+assistant to Jeff Skilling, on eSpeak.  Sherri will answer questions about 
+how her job has changed since Jeff became CEO.  
+
+If you can't make the live event, post your questions on eSpeak now.  Sherri 
+will answer them during her eSpeak, and you can find the answers in the 
+transcript later.
+
+
+Have you been wondering what happened to the information about Enron's 
+severance pay policy?   Would you like to see an innovation suggestion for 
+the Saturn's ring that will connect the two Enron buildings?  Read the new 
+postings in the "Office of the Chairman" category in eMeet.
+
+
+Thanks for the great response to the new "Cost Reduction" category in the 
+Idea Vault!  Visit the ThinkBank today and read the suggestions for cutting 
+costs; and, while you're there, add your own.
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <20597579.1075856139551.JavaMail.evans@thyme>
+Date: Thu, 31 May 2001 17:28:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.houston@enron.com
+Subject: eSource Presents Free Dow Jones Interactive Training
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: All Enron Houston
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+eSource presents free Dow Jones Interactive training
+
+Introduction to Dow Jones Interactive
+Learn about the content available through Dow Jones Interactive, and how to 
+quickly put it to work for you. Including setting up your own custom clips 
+and monitoring topics of interest to you.
+
+June. 8   9:00 - 10:00 AM  EB560
+
+Advanced
+Learn how to be more efficient on Dow Jones Interactive.  Put some power 
+tools to work for you.  Learn how to employ codes, use search history, and 
+customize.  Hands on time is provided.
+
+   June. 8   10:00 - 11:00 AM  EB560     
+  June. 8     11:00 - 12:00 AM  EB560 
+
+Seats fill up fast! To reserve a seat, please call Stephanie E. Taylor at 
+5-7928
+
+? No Shows will be charged $50.00
+
+Check the eSource training page at http://esource.enron.com/training.doc for 
+additional training sessions and vendor presentations
+
+http://esource.enron.com
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <2449913.1075856139573.JavaMail.evans@thyme>
+Date: Thu, 31 May 2001 17:27:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.houston@enron.com
+Subject: Investinme Course Offering
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: All Enron Houston
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+Do you do expense reports and have not taken the training?
+
+Expense Management System (XMS) - Cost: $135
+         June 4th  8:30am-11:30am EB564 
+June 19th 1:00pm-4:00pm    EB564
+
+The Expense Management System (XMS) is a tool used to electronically submit 
+your expense report for approval and payment through the Enron Intranet. It 
+is user friendly, accurate and less labor intensive for you and the 
+accounting staff.  This system will help you report your travel and 
+entertainment expenses.
+
+You will learn how to:
+E Create New Expense Reports
+E Enter Cash Expense Receipts
+E Adding Company Card Entries
+E Enter Personal Car Mileage
+E Foreign Currency Translation
+E Reimbursement Method
+E Designating your Approving Manager
+E Designating your Administrative Assistant
+E Submitting Your Expense Report
+E Reviewing your Expense Report
+E And Much More...
+
+Please login and enroll through the InvestInMe website, 
+http://www.corptraining.com/index.cfm?company=enron.  If you have any 
+questions, please call 713 853-1816.
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <2513360.1075856140987.JavaMail.evans@thyme>
+Date: Mon, 30 Apr 2001 17:44:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.states@enron.com
+Subject: iBuyit Payables Is Now Available
+Cc: fernley.dyson@enron.com, sam.kemp@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: fernley.dyson@enron.com, sam.kemp@enron.com
+X-From: Enron Announcements
+X-To: All Enron Employees United States
+X-cc: Fernley Dyson, Sam Kemp
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+I am pleased to announce that iBuyit Payables has been activated for all 
+organizations supported by Houston Accounts Payable.  iBuyit Payables is an 
+innovative tool that will enable us to code and approve invoices for goods 
+and services online.
+
+Who is impacted?
+Beginning today, all coders and approvers of invoices that were previously 
+submitted to Houston Accounts Payable for processing and payment, will code 
+and approve invoices through iBuyit Payables.  Invoices entered directly into 
+SAP, will not be impacted by this process.
+
+Note:  Beginning May 8th, any invoices with coding sheets received by 
+Accounts Payable will be entered into iBuyit Payables and electronically 
+routed back to the coder. The invoice will then need to be coded and approved 
+(again) in iBuyit Payables to generate a payment. 
+
+How do I receive training?
+Online system demonstrations and quick reference cards are available on the 
+Enron intranet in the Integrated Solutions Center Document Library at <
+http://sap.enron.com/sap_doclib/user/file_list.asp?cabinet_id=265>.  
+Note:  You must use the Enron standard Microsoft Internet Explorer to view 
+these materials.
+
+Who do I call for help?
+*  For help using the iBuyit Payables system, contact the ISC Call Center at 
+(713) 345-4727.
+*  For invoice payment status, contact the Accounts Payable Call Center at 
+(713) 853-7127
+ or toll free at (866) AP ENRON, or send an e-mail to 
+iBuyit.payables@enron.com <mailto:iBuyit.payables@enron.com>.
+
+Questions?
+For general information about iBuyit, send an e-mail to <
+mailto:ibuyit@enron.com>.
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <1740795.1075856139372.JavaMail.evans@thyme>
+Date: Fri, 1 Jun 2001 10:00:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.houston@enron.com
+Subject: Enron In Action 06.04.01
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+X-From: Enron Announcements
+X-To: All Enron Houston
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+United Way Scholars Press Conference, Today at 10:30 AM!!!!
+Come see your United Way dollars at work building the workforce of the futu=
+re!
+
+Please join Jeff Skilling at a press conference today at 10:30 a.m. in=20
+Antioch Park to announce The United Way Scholars Program!  Your contributio=
+n=20
+is helping to provide 50 local high school students with college scholarshi=
+ps=20
+and funding for middle and high school technology programs designed to reac=
+h=20
+thousands of students each year!
+
+USCAA Track & Field Championships, June 9, 2001
+The Enron Running Club is seeking runners, sprinters, discus & shot put=20
+throwers, high jumpers and long jumpers to compete in the annual USCAA Trac=
+k=20
+& Field Championships on Saturday, June 9th at Rice University.  Participat=
+e=20
+in co-ed track relays & field events for all ages and abilities; showcase=
+=20
+your energy and talents in a challenging, competitive, and fun environment;=
+=20
+participate in an Enron tradition since 1994; experience teambuilding and=
+=20
+camaraderie like never before!  For more information or to sign up, contact=
+=20
+Cindy Richardson at x3-4770 or sprint to: =20
+http://home.enron.com:84/erc/index.html
+
+Dad=01,s Day 5K
+Join the Enron Running Club at the Dad=01,s Day 5K and 1 Mile Family Walk=
+=20
+benefiting The Prostate Cancer Research and Awareness scheduled for Saturda=
+y,=20
+June 2nd.  If you=01,re interested in running or volunteering your time, pl=
+ease=20
+contact Cindy Richardson at 713-853-4770 or Kelly Lombardi at 713-345-5841.=
+ =20
+For more information, run to: http://home.enron.com:84/erc/index.html.=20
+
+
+
+The Caladium plants that are in the huge plant pots throughout the Plaza ar=
+e=20
+going to be replaced and will be available for purchasing TODAY for $4.00 i=
+n=20
+the Plaza by the up escalator from 11 a.m. to 12 p.m..=20
+
+Wild@Work Brown Bag: Digging Up the Past:  Archaeology at Armand Bayou
+Join Armand Bayou Nature Center Executive Director, Ephriam Dickson, as he=
+=20
+explores the prehistoric sites of the Clear Lake area. Discover how=20
+archeologists reconstruct past cultures from the artifacts left behind and=
+=20
+learn how the first residents of Houston made their living.  [No shovels=20
+required.]
+
+When:  Friday, June 8th, 11:30 AM to 12:30 PM
+Where:  EB 5C2
+
+Free Opera in the Park featuring Houston Grand Opera's Carmen, June 8-10!
+Houston Grand Opera's sensational Multimedia Modular Stage production retur=
+ns=20
+for three FREE performances at Houston's Miller Outdoor Theatre on June 8-1=
+0=20
+at 8:30 p.m. Bizet's fiery gypsy Carmen, everybody's favorite femme fatale,=
+=20
+ignites the summer in a powerhouse production that had audiences and critic=
+s=20
+cheering when it was first unveiled in 1998.
+
+Houston Grand Opera's revolutionary Multimedia Modular Stage (MMS), with it=
+s=20
+giant "live" video screens, hydraulic platforms, and hundreds of rotating,=
+=20
+colored lights takes the incredible energy onstage and transports it to the=
+=20
+farthest reaches of the outdoor venue with a visceral impact equal to that =
+of=20
+a rock concert!
+
+Tickets for the reserved seating will be issued between the hours of 11:30a=
+m=20
+and 1:00pm through the Miller Theatre box office on the day of the=20
+performance.  Any remaining tickets will be issued one hour before the=20
+performance.
+
+For additional information, visit HGO's web site at=20
+www.houstongrandopera.org. Also see volunteer opportunities below.
+
+JOIN THE VOICES OF ENRON TO EXPAND YOUR COMMUNICATION SKILLS!
+MAKE NEW FRIENDS!  EXPAND YOUR HORIZONS! ENHANCE YOUR COMMUNICATION SKILLS!=
+ =20
+LOSE THE FEAR OF PUBLIC SPEAKING!  HAVE A GREAT TIME!
+Day: Thursdays
+Time: 11:30 a.m. - 12:30 p.m.
+Location: Enron Building
+For more information about The Voices of Enron, contact Melinda Pharms, Vic=
+e=20
+President, of Education via e-mail at <mpharms@ect.enron.com> or by phone a=
+t=20
+713/853-3866 - Internal Extension 33866 or Kathy Willard, Vice President,=
+=20
+Membership at kwillar@enron.com <mailto:kwillar@enron.com>, phone No.=20
+713/646-7341 - Internal Extension 67341
+
+Dance for All Ball
+No Dance Partner Required!=20
+
+Saturday, June 9
+First United Methodist Church
+1320 Main St. at Clay
+
+7-9pm:     Dance Lessons by DanceArts        http://www.danceartsballroom.c=
+om
+9pm-12:   Dancing! with Live Swing Band. . .Chuck's Trio!
+
+Cover Charge: Minimum $5 Donation
+(All Proceeds go towards Building Materials for Red Bird Project which aids=
+=20
+the economically disadvantaged & elderly)
+
+FREE CHILDCARE AVAILABLE - Fun kid activities!
+
+For More Info: call 5-6528
+
+
+
+
+Kevin Hannon, Boys & Girls Club board member, invites you to join Enron=20
+employee John Cote at a Boys & Girls Club summer camp. John and Kevin are=
+=20
+looking for commitments from some dedicated ENRON men & women. SPREAD THE=
+=20
+WORD - SPOUSES, FRIENDS & OFFICE COLLEAGUES WELCOME - LAST YEAR'S CAMP WAS =
+A=20
+HUGE SUCCESS! Details below:
+
+WHAT:  2nd Annual Houston Boys and Girls Club Summer Camp Weekend with=20
+Enron's incredible volunteers!
+
+WHEN:   Boys Camp
+  Friday afternoon (3:00 - 6:00pm), June 22 through Sunday afternoon, June =
+24=20
+  --OR--
+  Friday afternoon (3:00 - 6:00pm), July 20 through Sunday afternoon, July =
+22=20
+ =20
+  Girls Camp
+  Friday afternoon (3:00 - 6:00pm), July 6 through Sunday afternoon, July 8
+  --OR--
+  Friday afternoon (3:00 - 6:00pm), July 13 through Sunday afternoon, July =
+15
+
+WHERE: Willis, TX (75 minutes from downtown Houston -- just north of Conroe=
+)
+
+WHO:  6-8 counselors per camp to chaperone 75 kids (ages 7-16)
+
+HOW:  Share all sports activities, including canoeing, hiking, fishing,=20
+organizing a talent    show/bonfire/ghost stories, obstacle course, water=
+=20
+balloon fights, softball,     basketball, archery, football, etc.  (Cooking=
+=20
+and clean-up covered by the Houston Boys &   Girls Club staff.)
+
+CONTACT: John A. Cote at ext. 33830
+
+
+
+Volunteers Needed for Bring Your Child to Work Day!
+
+Bring Your Child to Work Day is Friday, June 29
+
+Please email Jennifer Milligan if you are interested in volunteering and=20
+indicate your preference in the below activities:
+
+Registration Table
+Houston Police Dept / Stranger Danger / Fingerprinting
+Outdoor Activities (SPCA pets, Balloon King, kids crafts, etc.)
+Business Etiquette class
+Business Art (kids' resumes, etc)
+Lunch ticket sales/coordination (in Antioch Park)
+
+
+WANTED! VOLUNTEERS FOR OPERA IN THE PARK=20
+
+Carmen, June 8-10, 2001 @ 8:30pm nightly =20
+Hermann Park=01,s Miller Outdoor Theatre
+
+
+Following is a list of volunteer duties to be assigned daily.
+=20
+- Distribution of Stagebill programs with inserts of subscription forms and=
+=20
+surveys one hour before the show begins.
+- Distribution of giveaways items such as fans and plastic cups prior to th=
+e=20
+performance.
+- Collection of surveys during intermission.
+
+If interested please contact LaShabriel Keys at 713.546.0283 or=20
+lkeys@houstongrandopera.org.  Check-in for volunteers will be at 6:30pm=20
+nightly at the Volunteer Information Tent near the Miller Outdoor Theatre=
+=20
+stage.
+
+(Volunteers will receive tickets in the reserved seating section for the=20
+Carmen performance, free food, a t-shirt and a voucher for any matinee duri=
+ng=20
+the upcoming Opera season.)
+
+The Enron Running Club and the Houston Corporate Athletic Association are=
+=20
+seeking volunteers to assist at the annual USCAA Track & Field Championship=
+s=20
+on Saturday, June 9th at Rice University.  There are many volunteer=20
+opportunities requiring little or no experience including timers, scoring,=
+=20
+lane judges, cheering on athletes and more!  We are looking for employees,=
+=20
+families and friends that can contribute a few hours or who are willing to=
+=20
+spend the day benefiting a great cause.  If you are interested or would lik=
+e=20
+more information, please contact Kelly Lombardi at x3-8491.
+
+
+
+
+Have News to Share?
+To post news or events in Enron In Action, please e-mail your information t=
+o=20
+EIA@enron.com=20
+no later than 12:00 noon the Thursday prior to the next Monday=01,s mailing=
+.
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <788919.1075856139999.JavaMail.evans@thyme>
+Date: Sun, 20 May 2001 12:37:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.houston@enron.com
+Subject: Enron In Action 05.21.01
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+X-From: Enron Announcements
+X-To: All Enron Houston
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+"It's a Girl" performed by Weave Dance Company=20
+Weave Dance Co. will perform May 24-26 at 8:00 p.m. at Stages Repertory=20
+Theater, 3201 Allen Parkway at Waugh, Call 713-52STAGE for tickets.  This=
+=20
+performance, called "It's a Girl!" celebrates pregnancy and motherhood.=20
+
+Donations to the Houston Area Women's Center will be collected at the=20
+performance.  Any of the following items are welcome:  non-perishable,=20
+pre-packaged healthy food snacks such as granola bars and boxed juices, bab=
+y=20
+supplies such as formula, diapers, wet wipes, baby lotion, baby shampoo,=20
+pacifiers, socks, plastic bottles, diaper bags, crib sheets for portable=20
+cribs and swim suits and flip flops for children age 4 and older.
+
+
+Star Wars: Films (May 4-25)
+See all four completed films of the legendary Star Wars saga on the big=20
+screen! The MFAH presents special editions of Episodes IV-VI and Episode I =
+in=20
+the newly renovated Brown Auditorium with Dolby Digital dts sound and stadi=
+um=20
+seating.
+
+Star Wars: Episode IV-A New Hope
+Directed by George Lucas
+(USA, 1977, 125 min.)
+Friday, May 4, 7:30 p.m.
+Saturday, May 5, 11:00 a.m.
+
+Star Wars: Episode V-The Empire Strikes Back
+Directed by Irvin Kershner
+(USA, 1980, 120 min.)
+Friday, May 11, 7:30 p.m.
+Saturday, May 12, 11:00 a.m.
+
+Star Wars: Episode VI-Return of the Jedi
+Directed by Richard Marquand
+(USA, 1983, 132 min.)
+Friday, May 18, 7:30 p.m.
+Saturday, May 19, 11:00 a.m.
+
+Star Wars: Episode I-The Phantom Menace
+Directed by George Lucas
+(USA, 1999, 133 min.)
+Friday, May 25, 7:30 p.m.
+Saturday, May 26, 11:00 a.m.
+
+Tickets go on sale at the Brown Auditorium ticket booth 30 minutes before
+show time. The ticket booth is located on the lower level of the Caroline
+Wiess Law building.
+
+General admission is $5. Matinee admission (show times before 5:00 p.m.) is=
+=20
+$4. Enron employees with ID receive a $1 discount. Discount passes (10=20
+admissions) are $40 for nonmembers and $35 for members. Children 5 and unde=
+r=20
+are free. Films are screened in Brown Auditorium in the museum's Caroline=
+=20
+Wiess Law building, 1001 Bissonnet.  Free parking is available.  For more=
+=20
+information, please call 713-639-7515 or visit our website at www.mfah.org.
+
+
+Mark Your Calendars!...Bring Your Child To Work Day will be Friday, June=20
+29th.  More details to come...See Volunteer section below to for volunteer=
+=20
+opportunities!
+
+Join us in Dublin or Honolulu ----Joints in Motion is a marathon training=
+=20
+program for walkers and runners that is aligned with a fundraising effort f=
+or=20
+the Arthritis Foundation - Please call for more information at
+713-529-0800.
+
+
+
+Many volunteers are needed to help with the planned activities for the Enro=
+n=20
+Children on June 29th.  If you're interested, send your name and phone=20
+extension to workperks.enron.com.
+
+
+Support KidSave and Help Miracles Happen. Every Summer.
+=20
+Kidsave=01,s  Summer Miracles Program enables orphaned children ages 5 to 1=
+1 to=20
+travel to the  US and Canada, live with families and attend day camp. The=
+=20
+program gives  families who may be concerned about the problems of adopting=
+=20
+an older child a chance to meet, get to know and in the best-case scenario,=
+=20
+fall in love with a  child. The program gives prospective parents an=20
+opportunity to see and evaluate  first-hand the challenges and rewards of=
+=20
+adopting an older  child.
+=20
+In 1999 and  2000 Kidsave and adoption agency partners placed 432 children =
+-=20
+96 percent of  children who participated in the program. Generally, 85 to 9=
+0=20
+percent of  children who participate in the program find homes easily throu=
+gh=20
+the program.  The remaining 10 to 15 percent require more work.
+=20
+Kidsave  believes every child deserves a family. We are committed to placin=
+g=20
+all children  who participate in the Summer Miracles Program in permanent=
+=20
+families or  family-like environments.
+=20
+We are looking  for families to host children, and for others who want to=
+=20
+help us make the camp  program happen for these 250 children.   As a=20
+non-profit organization, Kidsave depends on donations to raise the  money t=
+o=20
+bring these children here and find them families.  Please call Tonya Hoppe =
+at=20
+281.286.8948  or tonya@tonya.cc to get involved in Houston=01,s  Kidsave=20
+program.  =20
+
+
+Enron and Kidventure Camps are proud to bring you Camp Enron Summer 2001. =
+=20
+Celebrating our third year, Camp Enron  will once again be providing summer=
+=20
+camp for children, ages 5-13, of Enron employees and contractors.=20
+
+This year, camp will be May 29-August 10.  Ten, one-week sessions will be =
+=20
+available and families may choose to attend any or all sessions.  Each camp=
+=20
+week is Monday through Friday.=20
+
+The cost is $150 per week and includes all transportation, field trips and=
+=20
+activities.  A deposit of $50 per week is all that is needed to reserve you=
+r=20
+sessions.   The deadline to register is Monday, May 21. =20
+
+To register, log on to: http://www.kidventurecamp.com/camp_enron.htm.  =20
+Spaces are limited.
+
+Enron parents simply ride to work with  their children and check them in to=
+=20
+the Energizer in the morning with the Camp Enron Team.  Enron Campers are=
+=20
+loaded on Coach USA Buses and transported to our nearby camp. At the end of=
+=20
+the day campers are brought back to the Energizer for parents to check out.=
+ =20
+
+It's that easy!
+
+For more information please contact:
+
+web site: www.kidventurecamp.com
+call Kidventure: 713.960.8989
+e-mail: camps@kidventurecamp.com
+
+Have News to Share?
+To post news or events in Enron In Action, please e-mail your information t=
+o=20
+EIA@enron.com=20
+no later than 12:00 noon the Thursday prior to the next Monday=01,s mailing=
+.
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <27822742.1075856139619.JavaMail.evans@thyme>
+Date: Wed, 30 May 2001 14:15:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.worldwide@enron.com
+Subject: eSource Presents Free Global Energy Markets Presentation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: All Enron Worldwide
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+eSource presents Free Global Energy Markets Presentation:
+
+June. 5   9:00 -  9:30 AM EB 5C2
+June. 5   10:00 -  10:30 AM  EB 5C2
+
+Global Energy Markets 
+Global Energy Markets is an information service that gives you access to 
+updated information and analysis whenever you need it.
+
+Global Energy Markets provides many different news feeds and data sources in 
+one service.  In addition, Global Energy Markets provides useful online 
+databases for finding articles, projects and companies.
+
+Each service is available by global region.  Services include the Americas, 
+Asia-Pacific, Europe/CIS and the Middle East.  Each service includes four key 
+modules.
+
+The first core module is the energy news.  The news comes from Reuters, Dow 
+Jones, Energy24x, BBC, AP, AFP, and others.  This is an all-in-one regional 
+news service.  The other three modules are useful databases for finding news 
+articles, project information and companies.  The second module is the Global 
+Energy Projects Database.  The third module is the Global Energy News 
+Archive.  The fourth is the Energy Companies Directory.
+
+http://home.enron.com:84/messaging/globalenergymarkets.pdf
+  
+
+Seats fill up fast! To reserve a seat, please call Stephanie E. Taylor at 
+5-7928
+No Shows will be charged $50.00
+Check the eSource training page at http://esource.enron.com/training.doc for 
+additional training sessions and vendor presentations.     
+
+http://esource.enron.com
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <4411826.1075856139597.JavaMail.evans@thyme>
+Date: Thu, 31 May 2001 10:01:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: houston.report@enron.com
+Subject: Weekend Outage Report for 6-1-01 through 6-4-01
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: Houston Outage Report
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+------------------------------------------------------------------------------
+------------------------
+W E E K E N D   S Y S T E M S   A V A I L A B I L I T Y
+
+F O R
+
+June 1, 2001 5:00pm through June 4, 2001 12:00am
+------------------------------------------------------------------------------
+------------------------
+
+
+ECS to ECN Network Interconnection, June 9th 2001
+
+This is a notification that the Enron Corp. I/T Networks team will be 
+connecting the new building network infrastructure located in Enron Center 
+South (ECS) to the existing Enron Center North (ECN) backbone network.  While 
+this activity is not expected to produce a disruption to network services, 
+this notice is designed to alert the organization to our activities.  No 
+network hardware or systems are anticipated to be shutdown.  The actual 
+physical interconnection of the networks will be performed in the EB 34th 
+floor Data Center.
+
+Interconnection activities are scheduled to occur the evening of June 9th 
+2001 starting from 7:00 p.m.(CT) and completing around 11:00 p.m. (CT). 
+Application testing activities will begin at 11:00 p.m. (CT) once all network 
+testing has completed.
+
+If you have any further questions, please contact Pete Castrejana at 
+713-410-0642 for more information.
+      
+
+SCHEDULED SYSTEM OUTAGES: 
+
+ARDMORE DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+
+AZURIX: No Scheduled Outages.
+
+EB34 DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages.
+
+EDI SERVER: No Scheduled Outages.
+
+ENRON CENTER SOUTH DATA CENTER - FACILITY OPERATIONS: No Scheduled Outages
+
+ENRON NORTH AMERICAN LANS:  
+Impact:  ENS
+Time:  Fri 6/1/2001 at  11:00:00 PM CT thru Fri 6/1/2001 at  11:45:00 PM CT
+ Fri 6/1/2001 at    9:00:00 PM PT thru Fri 6/1/2001 at     9:45:00 PM PT
+ Sat 6/2/2001 at  5:00:00 AM London thru Sat 6/2/2001 at  5:45:00 AM London
+Outage:  Enable routing on new router ecn-34-cor-ccr1
+Environments Impacted:  ENS
+Purpose: This router will be used to connect to the new building
+Backout: remove routing on the router.
+Contact(s):  Scott Shishido    713-853-9780
+
+Impact:  AEP
+Time:  Fri 6/1/2001 at  8:00:00 PM CT thru Fri 6/1/2001 at  8:30:00 PM CT
+ Fri 6/1/2001 at  6:00:00 PM PT thru Fri 6/1/2001 at  6:30:00 PM PT
+ Sat 6/2/2001 at  2:00:00 AM London thru Sat 6/2/2001 at  2:30:00 AM London
+Outage:  Shutting off the internal link to 1201 Louisiana
+Environments Impacted:  AEP
+Purpose: Company occupying that space has been sold.
+Backout: None
+Contact(s):  Garhett Clark         713-345-9953
+                        Robert Humlicek   713-853-6366   713-406-8293
+                    
+Impact:  ENS/GCO
+Time:  Fri 6/1/2001    thru Wed 7/4/2001   
+Outage:  HPL migration to AEP
+Environments Impacted:  GCO
+Purpose: Sites sold
+Backout: None
+Contact(s):  Garhett Clark         713-345-9953
+  Robert Humlicek   713-853-6366   713-406-8293
+
+FIELD SERVICES:  No Scheduled Outages.
+
+INTERNET: 
+Impact:  Internet
+Time:  Fri 6/1/2001 at  10:30:00 PM CT thru Fri 6/1/2001 at  10:45:00 PM CT
+ Fri 6/1/2001 at    8:30:00 PM PT thru Fri 6/1/2001 at     8:45:00 PM PT
+ Sat 6/2/2001 at  4:30:00 AM London thru Sat 6/2/2001 at  4:45:00 AM London
+Outage:  Reboot Enron.com edge routers
+Environments Impacted:  Internet
+Purpose: Regular reboot to prevent such problems as memory corruption. 
+Intermettent disruption to last about five minutes.
+Backout: 
+Contact(s):  John Shupak          713-853-7943
+  Bryan Aubuchon    713-345-8446 
+ 
+MESSAGING: 
+Impact:  Corp Notes
+Time:  Fri 6/1/2001 at  9:00:00 PM CT thru Sat 6/2/2001 at  1:00:00 AM CT
+ Fri 6/1/2001 at  7:00:00 PM PT thru Fri 6/1/2001 at 11:00:00 PM PT
+ Sat 6/2/2001 at  3:00:00 AM London thru Sat 6/2/2001 at  7:00:00 AM London
+Outage:  cNotes Server Reboots
+Environments Impacted:  All users on any of the mailservers listed below
+Purpose: Scheduled @ 2 week interval
+Backout: Make sure server comes up.
+Contact(s):  Trey Rhodes  (713) 345-7792  
+                    
+Impact:  EI
+Time:  Fri 6/1/2001 at  9:00:00 PM CT thru Sat 6/2/2001 at  1:00:00 AM CT
+ Fri 6/1/2001 at  7:00:00 PM PT thru Fri 6/1/2001 at 11:00:00 PM PT
+ Sat 6/2/2001 at  3:00:00 AM London thru Sat 6/2/2001 at  7:00:00 AM London
+Outage:  EI Notes Server Maintenance
+Environments Impacted:  EI Local/Domestic/Foreign Sites
+Purpose: Scheduled @ 2 week interval
+Backout: N/A
+Contact(s):  David Ricafrente    713-646-7741
+ 
+MARKET DATA: No Scheduled Outages.
+
+NT: No Scheduled Outages.
+
+OS/2:  No Scheduled Outages.
+
+OTHER SYSTEMS: No Scheduled Outages.
+
+SITARA:  No Scheduled Outages.
+
+SUN/OSS SYSTEM: No Scheduled Outages.
+
+TELEPHONY: No Scheduled Outages
+
+TERMINAL SERVER:  No Scheduled Outages.
+
+UNIFY:  No Scheduled Outages.
+
+------------------------------------------------------------------------------
+-------------------------------------------------------
+        FOR ASSISTANCE
+
+(713) 853-1411   Enron Resolution Center
+
+
+Specific Help:
+Information Risk Management   (713) 853-5536
+SAP/ISC                                                                       
+        (713) 345-4727
+Unify On-Call      (713) 284-3757  [Pager]
+Sitara On-Call     (713) 288-0101  [Pager]
+RUS/GOPS/GeoTools/APRS   (713) 639-9726  [Pager]
+OSS/UA4/TARP    (713) 285-3165  [Pager]
+CPR      (713) 284-4175  [Pager]
+EDI Support      (713) 327-3893  [Pager]
+EES Help Desk     (713)853-9797 OR (888)853-9797
+TDS -Trader Decision Support On-Call                    (713) 327-6032 [Pager]
+
+From MAILER-DAEMON Mon Apr 18 14:24:21 2022
+Message-ID: <10015306.1075856140730.JavaMail.evans@thyme>
+Date: Tue, 8 May 2001 06:41:00 -0700 (PDT)
+From: isc.hotline@enron.com
+To: isc.groups@enron.com, enron.users@enron.com, enron.list@enron.com
+Subject: The ISC is changing for you!
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: ISC Hotline
+X-To: ISC ORG ALL GROUPS, ENRON COE PRODUCTION SAP USERS, Enron COE SAP London Production Users List
+X-cc: 
+X-bcc: 
+X-Folder: \Scott_Hendrickson_Jun2001\Notes Folders\Notes inbox
+X-Origin: Hendrickson-S
+X-FileName: shendric.nsf
+
+The Integrated Solutions Center (ISC) is redefining its organization to 
+provide world-class, enterprise-wide solutions through innovation, the 
+building of new relationships, and by providing superior customer support.  
+
+One of the most exciting changes that the ISC has made is that we will be 
+providing our customers with a single contact number for all support needs.  
+Customers needing assistance on any ISC supported application will simply 
+call 713-345-4727 and a Customer Care Agent will assist you.  
+
+Take a look at our website to see how these changes affect you:  
+http://isc.enron.com/site
+

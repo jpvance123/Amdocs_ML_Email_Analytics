@@ -1,0 +1,1598 @@
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <6868163.1075858653216.JavaMail.evans@thyme>
+Date: Tue, 4 Sep 2001 12:01:54 -0700 (PDT)
+From: cam@pjm.com
+To: nmisra@enron.com, rring@enron.com
+Subject: An MUI account has been created for Narsimha Misra
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: CAM@pjm.com
+X-To: nmisra@enron.com, rring@enron.com
+X-cc: 
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+Narsimha Misra at Enron Energy Services, Inc. has been given access to the following MUI applications:
+
+eData General
+OASIS Message
+OASIS Read Only
+OASIS Transaction
+
+If you have any questions please contact your account manager(s):
+Richard  Ring     (eesi)
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <32684909.1075858652875.JavaMail.evans@thyme>
+Date: Mon, 8 Oct 2001 09:59:26 -0700 (PDT)
+From: michele.raque@enron.com
+To: gillian.johnson@enron.com
+Subject: RE: Most recent version of TC
+Cc: richard.ring@enron.com, mike.smith@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: richard.ring@enron.com, mike.smith@enron.com
+X-From: Raque, Michele </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MRAQUE>
+X-To: Johnson, Gillian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=3e222190-9c017a5e-86256a25-5553fd>
+X-cc: Ring, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rring>, Smith, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=2ee97f18-211e482a-862564ff-5a6314>
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+Hi Gillian-
+I was about to hit "send" on this email to you when your arrived. Pardon me for not reviewing the latest draft, but rather I'm sending you my comments as written.
+Thanks-
+Michele
+
+
+Regarding Mike Smith's questions:
+
+1. In that congestion is the differential between the PJM price and the zonal price, congestion is a non-issue for the index product.  We will not bear any congestion costs, and referencing it in the agreement may cause confusion.
+
+2. Regarding the contingency that BGE cease to exist or be renamed I suggest something along the lines of--  "we shall substitute a comparable zonal price."
+
+After our previous conversation I discussed this with Richard Ring, and we agree it may be disadvantageous to refer to the "closest", or specifically mention the zone where we physically schedule, because it's impossible to foresee what shape these changes may take. And it's certainly better if we can make a reasonable decision as to a substitute zonal price.
+
+Mike may want additional language--that you will notify them of the new zone and give them an opportunity to disagree--but all those details are beyond my expertise. 
+
+Please note that this is the one situation where congestion may--but is unlikely to--apply, if the new zone is farther away from the load then before. Let's assume for a moment that it is far more likely that the zone would be broken in to two zones than for it to be eliminated.  Furthermore, specific mention of congestion implies that we will also credit the customer for any negative congestion that may apply, which opens an entirely new matter. Let me know if you want more clarification of this point.
+
+3. The Deficiency Rate is defined in the PJM Reliability Assurance Agreement.
+
+4. The Ancillary Services are defined in the Operating Agreement and the OATT, the calculations are defined in the Operating Agreement Accounting and OATT Accounting Manuals (M-28 and M-27), and the rates are posted on the PJM website or otherwise published annually as may apply.
+
+
+ -----Original Message-----
+From: 	Johnson, Gillian  
+Sent:	Monday, October 08, 2001 11:57 AM
+To:	Raque, Michele
+Cc:	Ring, Richard; Smith, Mike
+Subject:	Most recent version of TC
+
+
+
+
+
+Michele,
+
+As we discussed, please address the two issues that Mike discussed in the TC regarding ICAP and ancillaries.
+
+Please also confirm the following.  You have deleted congestion as one of the pass-through components because it is inherently included in the LMP.  Does it do any harm leaving it in the contract?
+
+In his last email Mike asked whether or not there was any chance that there could be a difference between the EESI Energy Price as we have defined it and the Spot Energy price.  This would be a critical issue for the site profile desk.  Please confirm that we are taking great pains to describe this in such a way that there would be no delta between the two.
+
+I have included language from Mike regarding the customer's ability to lock in to a fixed price at any point.
+
+Lastly, Mike, I agree with your changes related to the transmission issue.  It does appear to be included in the paragraph above.
+
+Related to Anticipated Usage, Bob and I thought that listing it twice (e.g., we will pay you an amount each month equal to the product of the Anticipated Usage for such month and $0.[    ] per kWh of Anticipated Usage) was redundant but frankly it does no harm to leave it as is.
+
+ << File: MD Master confirm DISC-INDEX 10-8 DRAFT DO NOT USE gj.doc >> 
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <15673727.1075858652899.JavaMail.evans@thyme>
+Date: Mon, 8 Oct 2001 09:56:50 -0700 (PDT)
+From: gillian.johnson@enron.com
+To: michele.raque@enron.com
+Subject: Most recent version of TC
+Cc: richard.ring@enron.com, mike.smith@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: richard.ring@enron.com, mike.smith@enron.com
+X-From: Johnson, Gillian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=3E222190-9C017A5E-86256A25-5553FD>
+X-To: Raque, Michele </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MRAQUE>
+X-cc: Ring, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RRING>, Smith, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=2EE97F18-211E482A-862564FF-5A6314>
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+Michele,
+
+As we discussed, please address the two issues that Mike discussed in the TC regarding ICAP and ancillaries.
+
+Please also confirm the following.  You have deleted congestion as one of the pass-through components because it is inherently included in the LMP.  Does it do any harm leaving it in the contract?
+
+In his last email Mike asked whether or not there was any chance that there could be a difference between the EESI Energy Price as we have defined it and the Spot Energy price.  This would be a critical issue for the site profile desk.  Please confirm that we are taking great pains to describe this in such a way that there would be no delta between the two.
+
+I have included language from Mike regarding the customer's ability to lock in to a fixed price at any point.
+
+Lastly, Mike, I agree with your changes related to the transmission issue.  It does appear to be included in the paragraph above.
+
+Related to Anticipated Usage, Bob and I thought that listing it twice (e.g., we will pay you an amount each month equal to the product of the Anticipated Usage for such month and $0.[    ] per kWh of Anticipated Usage) was redundant but frankly it does no harm to leave it as is.
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <21135712.1075861006289.JavaMail.evans@thyme>
+Date: Thu, 8 Nov 2001 08:18:19 -0800 (PST)
+From: ahafner2@csc.com
+To: rring@enron.com
+Subject: Updated PECO Spreadsheet
+Cc: mritzman@csc.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: mritzman@csc.com
+X-From: ahafner2@csc.com
+X-To: rring@enron.com
+X-cc: mritzman@csc.com
+X-bcc: 
+X-Folder: \Richard_Ring_Mar2002\Ring, Richard\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: rring (Non-Privileged).pst
+
+The following account was confirmed closed:  Eagel Fuel Co   211661100811
+
+The spreadsheet has been updated to reflect!
+
+Regards,
+Allyson
+
+
+(See attached file: newEnronEgyPECOChoice.xls)
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <18031425.1075858652641.JavaMail.evans@thyme>
+Date: Wed, 17 Oct 2001 12:33:32 -0700 (PDT)
+From: narsimha.misra@enron.com
+To: michele.raque@enron.com, richard.ring@enron.com
+Subject: Allen Meyer Willamette Bids for PJM ICAP.xls
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Misra, Narsimha </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NMISRA>
+X-To: Raque, Michele </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mraque>, Ring, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rring>
+X-cc: 
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+  
+ 
+ Allen Meyer Willamette Bids for PJM ICAP.xls
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <2948930.1075861006334.JavaMail.evans@thyme>
+Date: Thu, 13 Dec 2001 07:06:24 -0800 (PST)
+From: kirbyjw@pjm.com
+To: pjm-raarc@risc1.pjm.com, pjm-west-rc@pjm.com
+Subject: pjm-west-rc RAA-RC - Additional Agenda Item for December 19, 2001
+ meeting
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: KIRBYJW@pjm.com
+X-To: pjm-raarc@risc1.pjm.com, PJM-WEST-RC@pjm.com
+X-cc: 
+X-bcc: 
+X-Folder: \Richard_Ring_Mar2002\Ring, Richard\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: rring (Non-Privileged).pst
+
+The following message has been posted to the PJM West Reliability Committee
+Mailing List (pjm-west-rc):
+
+ <<Peco Forecast Load Implementation Procedure - Agenda Item 7_v1.DOC>>  
+
+Attached please find the second additional agenda item for the December 19,
+2001, RAA-RC meeting.  You may also access this document through the PJM
+RAA-Reliability Committee webpage or through the attached link:
+http://www.pjm.com/committees/documents/RAA/raa.html
+
+You are reminded that you must respond with your reservation to attend,
+indication of being represented by another or request to exclude, if you have
+not already done so.
+
+Diane M. Lake
+PJM Interconnection L.L.C.
+Executive Secretary
+610-666-4725
+Laked@pjm.com
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <1509853.1075858653097.JavaMail.evans@thyme>
+Date: Thu, 4 Oct 2001 11:28:51 -0700 (PDT)
+From: narsimha.misra@enron.com
+To: richard.ring@enron.com
+Subject: RE: Maryland Index Product - Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Misra, Narsimha </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NMISRA>
+X-To: Ring, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rring>
+X-cc: 
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+the game plan was to look at the way in which PJM calculates the costs and then utilize tarriffs and market clearing prices to establish the ancillary services.. atleast that was my game plan.. that doesnot mean that it is easy to implement. My impression is that it is the obligation of the product development people to make sure that the products that they are selling are billable and i will help them identify where the prices are coming from.. how they do it is something that is beyond all the mess that i am willing to tackle at this time. If they are wanting a signoff from us on the product that is launched then they better show us that they have viable billing capabilities.
+hope this helps.
+-narsimha
+
+ -----Original Message-----
+From: 	Ring, Richard  
+Sent:	Thursday, October 04, 2001 10:46 AM
+To:	Misra, Narsimha
+Subject:	FW: Maryland Index Product - Update
+
+
+Narsimha,
+
+What was the "game plan" for accurately passing through (i) ancillaries (ii) losses and (iii) other uplifts, without opening up our books to audit by customer(s) to verify accurate passthru of costs, other than energy costs?
+
+
+
+
+ -----Original Message-----
+From: 	Hansen, Bob  
+Sent:	Wednesday, October 03, 2001 5:03 PM
+To:	Misra, Narsimha; Ring, Richard; Pan, Liqun; Riley, Christopher
+Cc:	Johnson, Gillian; O'Neil, Murray P.; Gonzalez, Victor; Blanks, Tom; Woodward, Jason; Stus, Erin
+Subject:	Maryland Index Product - Update
+
+
+Today, Gillian and I met with Murray O'Neil, Victor Gonzalez, Tom Blanks, Jason Woodward and Erin Stus about billing/systems issues with the MD Index product.  They are willing to support the MD index product in its current hourly-pricing design.  So, we can continue to assume a pass-through of hourly PJM BGE prices and all associated ancillaries, losses, and other uplifts (with physical delivery 7/1/02), with the only fixed component being deal costs (including a scheduling fee) and margin.
+
+One issue that came up is how much of the hourly PJM data is already being tracked...so duplication of systems can be prevented.  Do you know of any particular PJM databases that already exist, that would be used to develop the PJM BGE index?
+
+The draft Product Approval Template (copy attached) is still on target, so please let me know if you have any changes.  If not, we will soon broaden the reviewers and see if we can get approval signatures.   
+
+Thanks!
+Bob
+
+ << File: BGE Sch P Index Product Approval Template (9-26-01).doc >> 
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <11332983.1075858652948.JavaMail.evans@thyme>
+Date: Mon, 8 Oct 2001 05:49:35 -0700 (PDT)
+From: mike.smith@enron.com
+To: bob.hansen@enron.com
+Subject: Re: BGE Index Product - Draft Confirm
+Cc: richard.ring@enron.com, liqun.pan@enron.com, michele.raque@enron.com,
+	christopher.riley@enron.com, victor.gonzalez@enron.com,
+	gillian.johnson@enron.com, james.keller@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: richard.ring@enron.com, liqun.pan@enron.com, michele.raque@enron.com,
+	christopher.riley@enron.com, victor.gonzalez@enron.com,
+	gillian.johnson@enron.com, james.keller@enron.com
+X-From: Smith, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=2EE97F18-211E482A-862564FF-5A6314>
+X-To: Hansen, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=CA60FA71-94865C7E-8625690C-5A1128>
+X-cc: Ring, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RRING>, Pan, Liqun </O=ENRON/OU=NA/CN=RECIPIENTS/CN=LPAN>, Raque, Michele </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MRAQUE>, Riley, Christopher </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=5E9C26AD-B1BB934D-862567C4-6BC3AD>, Gonzalez, Victor </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=E463DBAA-8584497A-86256855-4EC6BF>, Johnson, Gillian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=3E222190-9C017A5E-86256A25-5553FD>, Keller, James </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=E323B9CF-F1EDA68D-8625650E-5329B7>
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+While I make these changes, please note:
+
+--why isn't the discount capped at Anticipated Usage any more?  I thought the product capped it.  Now, do we need a consumption band around the discount, so that they only get it, say, up to the Maximum Usage (110%)?
+--network transmission charges is included in T&D Charges in the master.  I assume that covers it.
+--now that we are changing the EESI Energy Price, can there be a delta between the EESI Energy Price and the "Spot Price" as defined for this market ("the weighted average (weighted in accordance with the Account's hourly usage or the Utility rate class usage profile) of hourly Real Time Locational Marginal Price for the applicable Utility load zone as posted by the ISO plus all non-Utility charges arising from uplifts, installed capacity, ancillary services, congestion, losses and other ISO charges or administrative fees incurred in connection with delivery of energy to the Delivery Point") such that we need charges for excess and deficiency usage?
+
+Please let me know.  MDS
+
+
+
+
+
+
+Bob Hansen
+10/05/2001 05:21 PM
+To:	Mike D Smith/HOU/EES@EES, Richard Ring/Enron@EnronXGate, Liqun Pan/Enron@EnronXGate, Michele Raque/ENRON@enronXgate, Christopher Riley/HOU/EES@EES, Victor Gonzalez/HOU/EES@EES
+cc:	Gillian Johnson/HOU/EES@EES 
+Subject:	BGE Index Product - Draft Confirm
+
+Here's a marked-up draft of the MD Index Product confirm reflecting our recent discussions, and incorporating Richard Ring's comments.  This version continues to assume a real-time pricing approach, it includes language for a quarterly true-up of ancillary service costs, and has more details on the ancillary service cost sources.  This also includes some minor revisions to the billing section.
+
+Let me know if you have any questions.  
+
+Thanks!
+Bob
+
+ 
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <28229752.1075858653001.JavaMail.evans@thyme>
+Date: Fri, 5 Oct 2001 15:21:15 -0700 (PDT)
+From: bob.hansen@enron.com
+To: mike.smith@enron.com, richard.ring@enron.com, liqun.pan@enron.com,
+	michele.raque@enron.com, christopher.riley@enron.com,
+	victor.gonzalez@enron.com
+Subject: BGE Index Product - Draft Confirm
+Cc: gillian.johnson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: gillian.johnson@enron.com
+X-From: Hansen, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=CA60FA71-94865C7E-8625690C-5A1128>
+X-To: Smith, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=2EE97F18-211E482A-862564FF-5A6314>, Ring, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RRING>, Pan, Liqun </O=ENRON/OU=NA/CN=RECIPIENTS/CN=LPAN>, Raque, Michele </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MRAQUE>, Riley, Christopher </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=5E9C26AD-B1BB934D-862567C4-6BC3AD>, Gonzalez, Victor </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=E463DBAA-8584497A-86256855-4EC6BF>
+X-cc: Johnson, Gillian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=3E222190-9C017A5E-86256A25-5553FD>
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+Here's a marked-up draft of the MD Index Product confirm reflecting our recent discussions, and incorporating Richard Ring's comments.  This version continues to assume a real-time pricing approach, it includes language for a quarterly true-up of ancillary service costs, and has more details on the ancillary service cost sources.  This also includes some minor revisions to the billing section.
+
+Let me know if you have any questions.  
+
+Thanks!
+Bob
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <22484524.1075858652735.JavaMail.evans@thyme>
+Date: Mon, 15 Oct 2001 10:45:10 -0700 (PDT)
+From: bob.hansen@enron.com
+To: michele.raque@enron.com
+Subject: RE: MD Index Product - Draft Invoice and Calculations
+Cc: gillian.johnson@enron.com, richard.ring@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: gillian.johnson@enron.com, richard.ring@enron.com
+X-From: Hansen, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=CA60FA71-94865C7E-8625690C-5A1128>
+X-To: Raque, Michele </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MRAQUE>
+X-cc: Johnson, Gillian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=3E222190-9C017A5E-86256A25-5553FD>, Ring, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RRING>
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+
+Hi Michele,
+
+Thanks for reviewing this.  Yes, we will get the Reg. Affairs and billing people to make sure the bill format and other notice requirements are satisfied.
+
+For purposes of calculating the total EESI Energy Price each component will need to be represented as an hourly price/kWh.  
+
+Based on the data that Enron starts with, can you help fill-in which data is initially hourly, daily, monthly, fixed, etc?  Then I would know how to show the illustrative calculation method to get the hourly price for each. 
+
+Here are the pieces...
+						Data Format
+PJM BGE zone LMP			$/MWH - Changes Hourly 
+Installed Capacity
+Other ISO Charges	 
+Regulation
+Operating Reserves
+PJM Dispatch & Scheduling
+RTO Scheduling & Dispatch
+Reactive Supply and Voltage Control
+Regulation and Frequency Response
+Network Transmission			$/Customer - Changes Annually
+Management Fee				$/MWH - Fixed for duration of contract							
+
+Regarding transmission...in the master agreement T&D charges is defined as including all transmission charges, including network transmission charges.  So I think we would calculate the "Network Transmission" piece and then include it in the Utility Related T&D charges on the invoice.
+
+Here's a revised version...
+
+ 
+
+Thanks!
+Bob
+
+
+
+
+From:	Michele Raque/ENRON@enronXgate on 10/15/2001 09:13 AM
+To:	Bob Hansen/HOU/EES@EES
+cc:	Gillian Johnson/HOU/EES@EES, Richard Ring/ENRON@enronXgate 
+Subject:	RE: MD Index Product - Draft Invoice and Calculations
+
+Good morning-
+I just ran the invoice issue by Richard, and he suggests that you run this by legal to determine if there are any state-specific regulatory requirements (e.g. formats, required data fields, etc.)  Other than that, the invoice format looks clear to me.  I suppose you'll want to break out transmission, but lump all ancillaries and other ISO administered charges together.
+
+And in comparing the invoice to the draft agreement, did we forget to specifically mention the word "transmission" or was that intentional?
+
+Thanks-
+Michele
+
+
+ -----Original Message-----
+From: 	Hansen, Bob  
+Sent:	Friday, October 12, 2001 2:25 PM
+To:	Raque, Michele
+Cc:	Johnson, Gillian
+Subject:	MD Index Product - Draft Invoice and Calculations
+
+Michele,
+
+To clarify the process of how we bill this product, and to clarify the data requirements, I've drafted a sample customer invoice.  You will see the assumptions and calculations that roll into the summary page.  
+
+I'm not sure how much calculation detail we would want to show, but it may depend on the type and format of the data that would be used.  For example, I haven't yet included calculations for any of the ancillary services.
+
+When you have a chance, lets go through this to see if it makes sense.
+
+Thanks!
+Bob
+
+ << File: Sample Invoice (10-11-01).xls >> 
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <1885503.1075858653282.JavaMail.evans@thyme>
+Date: Mon, 3 Sep 2001 07:49:38 -0700 (PDT)
+From: cam@pjm.com
+To: rring@enron.com, ssharma@enron.com
+Subject: MUI Access Refused
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: CAM@pjm.com
+X-To: rring@enron.com, ssharma@enron.com
+X-cc: 
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+Suneet (T) Sharma     (enron)<ssharma@enron.com>,
+
+Your request for the following application access has been refused:
+
+eData Energy Contracts
+
+If you have any questions please contact your account manager(s):
+
+Richard  Ring     (eesi)
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <14273793.1075858653304.JavaMail.evans@thyme>
+Date: Mon, 3 Sep 2001 07:49:38 -0700 (PDT)
+From: cam@pjm.com
+To: rring@enron.com, ssharma@enron.com
+Subject: MUI access terminated
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: CAM@pjm.com
+X-To: rring@enron.com, ssharma@enron.com
+X-cc: 
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+Suneet (T) Sharma     (enron)<ssharma@enron.com>,
+
+The following qualifications on your user account have been terminated:
+
+eData General
+
+If you have any questions please contact your account manager(s):
+
+Richard  Ring     (eesi)
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <31596317.1075858653193.JavaMail.evans@thyme>
+Date: Fri, 14 Sep 2001 07:47:06 -0700 (PDT)
+From: egc@exeloncorp.com
+Subject: January-April 2001 Energy Reconciliation Calculation Error and
+ Necessary Credit/Charge adjustment.
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: EGC <egc@exeloncorp.com>
+X-To: 
+X-cc: 
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+Electric and Gas Choice 
+Communication Bulletin # 65
+
+                                             _________________________September 14, 2001
+
+
+
+STAKEHOLDER:  Suppliers Receiving this bulletin.  
+
+SUBJECT:  January-April 2001 Energy Reconciliation Calculation Error and Necessary Credit/Charge adjustment. 
+
+PURPOSE of COMMUNICATION: 
+To inform Electric Generation Suppliers (EGS) of an error in the calculation of Unaccounted-For-Energy (UFE) for the months January 2001 through April 2001 and necessary additional cash settlement between the EGS and PECO. 
+
+KEY FACTS:
+Electric & Gas Choice Group (E&GC) has recently completed an extensive analysis of PJM Energy Reconciliation amounts for the periods of January 2001-April 2001.
+As a result of that analysis E&GC has determined some modifications to monthly energy reconciliation amounts are required for those periods. 
+
+ 				 
+ACTION NEEDED:
+?	If you are the recipient of this email, our records show that you are impacted by these required modifications.
+?	       No EGS action is needed at this time. 
+?	You will be contacted shortly by an E&GC representative to discuss these required changes to the monthly energy reconciliation amounts for the aforementioned period and any necessary credit/charge adjustments. 
+
+
+ANY QUESTIONS PLEASE CONTACT: The Supplier Hotline -(215) 841-3700
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <9543148.1075858653074.JavaMail.evans@thyme>
+Date: Thu, 4 Oct 2001 11:34:39 -0700 (PDT)
+From: mike.smith@enron.com
+To: bob.hansen@enron.com
+Subject: Re: MD Index Product - Draft TC
+Cc: christopher.riley@enron.com, richard.ring@enron.com,
+	gillian.johnson@enron.com, james.keller@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: christopher.riley@enron.com, richard.ring@enron.com,
+	gillian.johnson@enron.com, james.keller@enron.com
+X-From: Smith, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=2EE97F18-211E482A-862564FF-5A6314>
+X-To: Hansen, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=CA60FA71-94865C7E-8625690C-5A1128>
+X-cc: Riley, Christopher </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=5E9C26AD-B1BB934D-862567C4-6BC3AD>, Ring, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RRING>, Johnson, Gillian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=3E222190-9C017A5E-86256A25-5553FD>, Keller, James </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=E323B9CF-F1EDA68D-8625650E-5329B7>
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+I think it is important for this TC to be more, rather than less, specific around the ancillaries, etc in the EESI Energy Price definition.  I welcome any suggestions you might have to make the language more specific.  I see this as being a different case that where we are simply reciting what is include in our fixed retail gen price; here we are passing through specific items--essentially a fully indexed rate-and I don't want us to get stuck with something on an interpretation dispute.
+
+As to the fixed price TC, I was waiting to be sure that the way I have written the first part of the price-the discount--is right.  If it is, I can replicate for the fixed price one.  Please let me know.  MDS
+
+
+
+
+Bob Hansen
+10/04/2001 11:44 AM
+To:	Mike D Smith/HOU/EES@EES
+cc:	Christopher Riley/HOU/EES@EES, Richard Ring/Enron@EnronXGate, Gillian Johnson/HOU/EES@EES 
+Subject:	MD Index Product - Draft TC
+
+Mike,
+
+We have been reviewing the TC with other groups and a question came up from Chris Riley and Richard Ring.  We want to make sure that you are okay with the TC not being specific on the source of costs for the ancillaries, ICAP, Congestion, and other uplifts to the index price. 
+
+The description of the "EESI Energy Price" is currently generic enough so that Enron can be certain that all applicable costs can be included, but Chris and Richard have a concern that the lack of references could lead to interpretation differences and billing disputes.  Unlike with the LMP component, we don't refer to the information posted by the ISO, for example.
+
+We met with the Service Management group and they seemed to be okay with the index product from a billing perspective.  They will need specific data sources for the uplift components but they didn't seem concerned that the component sources are not specified on the TC. 
+
+Are you okay with this current interpretation latitude in the TC?  
+
+An alternative might be to add more specific references, possibly like those in BGE's "Schedule DS" (also attached).  Or, we could try to sell the TC the way it is.  And if customers won't sign because they want more specifics regarding billing calculations, then we consider the needed additions at that time.
+
+Also,  Mike...any TC update available yet for our current MD fixed price product?
+
+Thanks!
+
+Bob
+
+ 
+
+ 
+
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <19019138.1075858653327.JavaMail.evans@thyme>
+Date: Mon, 3 Sep 2001 07:45:09 -0700 (PDT)
+From: cam@pjm.com
+To: rring@enron.com, ssharma@enron.com
+Subject: MUI access terminated
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: CAM@pjm.com
+X-To: rring@enron.com, ssharma@enron.com
+X-cc: 
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+Suneet Sharma<ssharma@enron.com>,
+
+The following qualifications on your user account have been terminated:
+
+eData General
+OASIS Message
+OASIS Read Only
+OASIS Transaction
+
+If you have any questions please contact your account manager(s):
+
+Richard  Ring     (eesi)
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <15136959.1075858653349.JavaMail.evans@thyme>
+Date: Wed, 29 Aug 2001 11:54:58 -0700 (PDT)
+From: cam@pjm.com
+To: rring@enron.com, cdecker@enron.com
+Subject: MUI access terminated
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: CAM@pjm.com
+X-To: rring@enron.com, cdecker@enron.com
+X-cc: 
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+Chuck Decker<cdecker@enron.com>,
+
+The following qualifications on your user account have been terminated:
+
+EES Read/Write
+
+If you have any questions please contact your account manager(s):
+
+Richard  Ring     (eesi)
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <20701425.1075861006312.JavaMail.evans@thyme>
+Date: Thu, 8 Nov 2001 05:40:01 -0800 (PST)
+From: ahafner2@csc.com
+To: rring@enron.com
+Subject: PECO Account Listing
+Cc: mritzman@csc.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: mritzman@csc.com
+X-From: ahafner2@csc.com
+X-To: rring@enron.com
+X-cc: mritzman@csc.com
+X-bcc: 
+X-Folder: \Richard_Ring_Mar2002\Ring, Richard\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: rring (Non-Privileged).pst
+
+Richard,
+
+I wanted to get this out to you so that you can get started with your
+analysis.  However, there is one account that we're looking into in more
+detail - it's highlighted in yellow.  The spreadsheet is split into two
+tabs - one for open, the other for closed accounts.  I'll send you an
+update when I get an answer on the account in question as to whether it
+should be in the open or closed category.
+
+(See attached file: newEnronEgyPECOChoice.xls)
+
+If you have any questions, please give me a yell,
+Allyson
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <2704463.1075858652572.JavaMail.evans@thyme>
+Date: Thu, 18 Oct 2001 12:34:27 -0700 (PDT)
+From: bob.hansen@enron.com
+To: richard.ring@enron.com
+Subject: MD Index Product - Revised Product Approval Template and
+ Confirmation
+Cc: liqun.pan@enron.com, gillian.johnson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: liqun.pan@enron.com, gillian.johnson@enron.com
+X-From: Hansen, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=CA60FA71-94865C7E-8625690C-5A1128>
+X-To: Ring, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RRING>
+X-cc: Pan, Liqun </O=ENRON/OU=NA/CN=RECIPIENTS/CN=LPAN>, Johnson, Gillian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=3E222190-9C017A5E-86256A25-5553FD>
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+Richard,
+
+Here's a version that reflects changes we discussed this afternoon. I've deleted the Energy Supply Option section from the Product Approval Template since the provision does not exist in the TC or Master Agreement.  A metering Special Term and Condition has been added to this draft.  The EESI section is now more broad regarding the quarterly billing adjustment.
+
+I didn't add language to the "Conversion to Fixed" section yet.  I'm not sure how to word what you wanted...any suggestions? 
+
+This revised TC hasn't been reviewed by Mike Smith yet, so if you have any specific changes please let me know.
+
+
+ 
+ 
+
+Thanks!
+Bob
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <2651241.1075858652851.JavaMail.evans@thyme>
+Date: Wed, 10 Oct 2001 07:10:04 -0700 (PDT)
+From: bob.hansen@enron.com
+To: liqun.pan@enron.com, richard.ring@enron.com, michele.raque@enron.com
+Subject: MD Index Product - Scheduling Fee
+Cc: gillian.johnson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: gillian.johnson@enron.com
+X-From: Hansen, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=CA60FA71-94865C7E-8625690C-5A1128>
+X-To: Pan, Liqun </O=ENRON/OU=NA/CN=RECIPIENTS/CN=LPAN>, Ring, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RRING>, Raque, Michele </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MRAQUE>
+X-cc: Johnson, Gillian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=3E222190-9C017A5E-86256A25-5553FD>
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+
+Good Morning....
+
+As a placeholder, Narsimha previously suggested $0.25/MWH for the scheduling fee component of the fixed "Management Fee".  Do you think this is still a reasonable number to use?  If so, we would use it in our notional estimates, and Deal Management would use the same value for executable pricing.   
+
+Thanks!
+Bob
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <23963342.1075858653169.JavaMail.evans@thyme>
+Date: Wed, 3 Oct 2001 15:03:09 -0700 (PDT)
+From: bob.hansen@enron.com
+To: narsimha.misra@enron.com, richard.ring@enron.com, liqun.pan@enron.com,
+	christopher.riley@enron.com
+Subject: Maryland Index Product - Update
+Cc: gillian.johnson@enron.com, p..o'neil@enron.com, victor.gonzalez@enron.com,
+	tom.blanks@enron.com, jason.woodward@enron.com, erin.stus@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: gillian.johnson@enron.com, p..o'neil@enron.com, victor.gonzalez@enron.com,
+	tom.blanks@enron.com, jason.woodward@enron.com, erin.stus@enron.com
+X-From: Hansen, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=CA60FA71-94865C7E-8625690C-5A1128>
+X-To: Misra, Narsimha </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NMISRA>, Ring, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RRING>, Pan, Liqun </O=ENRON/OU=NA/CN=RECIPIENTS/CN=LPAN>, Riley, Christopher </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=5E9C26AD-B1BB934D-862567C4-6BC3AD>
+X-cc: Johnson, Gillian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=3E222190-9C017A5E-86256A25-5553FD>, O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>, Gonzalez, Victor </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=E463DBAA-8584497A-86256855-4EC6BF>, Blanks, Tom </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DABA93E1-FA670F2B-862569DB-60F748>, Woodward, Jason </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=1B1056C3-45B6B374-862568B9-6F2A1A>, Stus, Erin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=E8B03C2F-368DD4F-862569E0-7187D2>
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+
+Today, Gillian and I met with Murray O'Neil, Victor Gonzalez, Tom Blanks, Jason Woodward and Erin Stus about billing/systems issues with the MD Index product.  They are willing to support the MD index product in its current hourly-pricing design.  So, we can continue to assume a pass-through of hourly PJM BGE prices and all associated ancillaries, losses, and other uplifts (with physical delivery 7/1/02), with the only fixed component being deal costs (including a scheduling fee) and margin.
+
+One issue that came up is how much of the hourly PJM data is already being tracked...so duplication of systems can be prevented.  Do you know of any particular PJM databases that already exist, that would be used to develop the PJM BGE index?
+
+The draft Product Approval Template (copy attached) is still on target, so please let me know if you have any changes.  If not, we will soon broaden the reviewers and see if we can get approval signatures.   
+
+Thanks!
+Bob
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <9921461.1075858652618.JavaMail.evans@thyme>
+Date: Wed, 17 Oct 2001 14:14:19 -0700 (PDT)
+From: bob.hansen@enron.com
+To: richard.ring@enron.com, michele.raque@enron.com
+Subject: MD Index Product Approval Template Revisions
+Cc: gillian.johnson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: gillian.johnson@enron.com
+X-From: Hansen, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=CA60FA71-94865C7E-8625690C-5A1128>
+X-To: Ring, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RRING>, Raque, Michele </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MRAQUE>
+X-cc: Johnson, Gillian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=3E222190-9C017A5E-86256A25-5553FD>
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+Richard/Michele,
+
+Here's a slightly revised version that should reflect your changes.  This version should be consistent with the latest  index TC language too.
+
+Richard...I'll ask Mike Smith about your proposal to change the TC language (to eliminate what the EESI Energy Price "does not include").  This change is not reflected here yet.
+
+I'll attached this PAT version to the latest TC and continue routing for final approvals.  Let me know if you see any further problems.
+
+ 
+
+Thanks for reviewing!
+Bob
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <31341430.1075858653025.JavaMail.evans@thyme>
+Date: Fri, 5 Oct 2001 09:32:38 -0700 (PDT)
+From: gillian.johnson@enron.com
+To: richard.ring@enron.com, liqun.pan@enron.com, michele.raque@enron.com
+Subject: Re: TC
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Johnson, Gillian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=3E222190-9C017A5E-86256A25-5553FD>
+X-To: Ring, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RRING>, Pan, Liqun </O=ENRON/OU=NA/CN=RECIPIENTS/CN=LPAN>, Raque, Michele </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MRAQUE>
+X-cc: 
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+Please review our edits to the MD TC and edit liberally.
+
+Thank you
+
+Gillian
+---------------------- Forwarded by Gillian Johnson/HOU/EES on 10/05/2001 11:30 AM ---------------------------
+
+
+Bob Hansen
+10/05/2001 11:06 AM
+To:	Gillian Johnson/HOU/EES@EES
+cc:	 
+Subject:	Re: TC   
+
+
+Here's a version with some possible edits.
+ 
+
+
+
+
+
+<Embedded StdOleLink>
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <21222915.1075858652595.JavaMail.evans@thyme>
+Date: Thu, 18 Oct 2001 08:07:04 -0700 (PDT)
+From: michele.raque@enron.com
+To: michael.frazier@enron.com
+Subject: FW: Energy Reconciliation Letter Sent 10/12/01
+Cc: richard.ring@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: richard.ring@enron.com
+X-From: Raque, Michele </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MRAQUE>
+X-To: Frazier, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mfrazier>
+X-cc: Ring, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rring>
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+Per our conversation.  Any help you can offer in determing that this adjustment is/is not legitimate will be appreciated.  The PJM bills only reflect bulk adjustments from the scheduled to the actual load--no detail of this level is provided. Thanks.
+
+Michele
+
+ -----Original Message-----
+From: 	Ring, Richard  
+Sent:	Wednesday, October 17, 2001 3:33 PM
+To:	Raque, Michele
+Subject:	FW: Energy Reconciliation Letter Sent 10/12/01
+
+Michelle,
+
+PECO Energy Company has advised us that due to an error in calculation there will be an additional charge made to EESI's PJM bill, if we agree and sign the attached letter.  Can you take a look at and see if you agree or even if there is a way that you can ascertain if the correction made by PECO Energy Company is valid?
+
+Thanks,
+
+Richard
+
+ -----Original Message-----
+From: 	EGC [mailto:egc@exeloncorp.com] 
+Sent:	Wednesday, October 17, 2001 2:12 PM
+To:	Enron Power Marketing (E-mail)
+Subject:	Energy Reconciliation Letter Sent 10/12/01
+
+Good afternoon. 
+
+We are sending this email as a notification to you that we sent the attached letter via certified mail. Please review the name and address for any errors and notify us of any necessry corrections. 
+
+If you have any questions, please call the supplier hotline @ 215-841-3700. 
+
+Thank you, 
+PECO Energy
+Electric & Gas Choice
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <1882769.1075858653260.JavaMail.evans@thyme>
+Date: Mon, 3 Sep 2001 07:57:06 -0700 (PDT)
+From: cam@pjm.com
+To: rring@enron.com, jzurita@enron.com
+Subject: MUI Access Notification
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: CAM@pjm.com
+X-To: rring@enron.com, jzurita@enron.com
+X-cc: 
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+John Zurita     (eesi)<jzurita@enron.com> at Enron Energy Services, Inc. has been given access to the following MUI applications:
+
+eData Energy Contracts
+
+If you have any questions please contact your account manager(s):
+
+Richard  Ring     (eesi)
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <26050429.1075858652923.JavaMail.evans@thyme>
+Date: Mon, 8 Oct 2001 06:03:16 -0700 (PDT)
+From: mike.smith@enron.com
+To: bob.hansen@enron.com
+Subject: Re: BGE Index Product - Draft Confirm
+Cc: richard.ring@enron.com, liqun.pan@enron.com, michele.raque@enron.com,
+	christopher.riley@enron.com, victor.gonzalez@enron.com,
+	gillian.johnson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: richard.ring@enron.com, liqun.pan@enron.com, michele.raque@enron.com,
+	christopher.riley@enron.com, victor.gonzalez@enron.com,
+	gillian.johnson@enron.com
+X-From: Smith, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=2EE97F18-211E482A-862564FF-5A6314>
+X-To: Hansen, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=CA60FA71-94865C7E-8625690C-5A1128>
+X-cc: Ring, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RRING>, Pan, Liqun </O=ENRON/OU=NA/CN=RECIPIENTS/CN=LPAN>, Raque, Michele </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MRAQUE>, Riley, Christopher </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=5E9C26AD-B1BB934D-862567C4-6BC3AD>, Gonzalez, Victor </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=E463DBAA-8584497A-86256855-4EC6BF>, Johnson, Gillian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=3E222190-9C017A5E-86256A25-5553FD>
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+Please see attached
+
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <30727342.1075858653371.JavaMail.evans@thyme>
+Date: Wed, 29 Aug 2001 11:53:53 -0700 (PDT)
+From: cam@pjm.com
+To: rring@enron.com, ssharma@enron.com
+Subject: MUI access terminated
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: CAM@pjm.com
+X-To: rring@enron.com, ssharma@enron.com
+X-cc: 
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+Suneet (T) Sharma     (enron)<ssharma@enron.com>,
+
+The following qualifications on your user account have been terminated:
+
+EES Read/Write
+
+If you have any questions please contact your account manager(s):
+
+Richard  Ring     (eesi)
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <17940719.1075858653049.JavaMail.evans@thyme>
+Date: Thu, 4 Oct 2001 12:24:08 -0700 (PDT)
+From: bob.hansen@enron.com
+To: richard.ring@enron.com
+Subject: Re: FW: MD Index Product - Draft TC
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Hansen, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=CA60FA71-94865C7E-8625690C-5A1128>
+X-To: Ring, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RRING>
+X-cc: 
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+
+Yes I think so too.  I'll schedule a meeting soon.  The trick will be to have enough detail in the TC, but not too much.  If we have too much detail then we get into auditable issues and less latitude to interpret workable billing methods. 
+
+On Narsimha's billing issue.  Right now they don't have the capability to bill this kind of RTP pricing.  But at least there seems to be a commitment to get this functionality next year.  I was ready to simplify if needed, and we still might need to.
+
+Bob
+
+
+
+From:	Richard Ring/ENRON@enronXgate on 10/04/2001 01:39 PM
+To:	Bob Hansen/HOU/EES@EES
+cc:	 
+Subject:	FW: MD Index Product - Draft TC
+
+Bob,
+
+I think that you should put together a meeting to discuss this product in greater detail.
+
+Thanks,
+
+RDR
+
+
+
+ -----Original Message-----
+From: 	Smith, Mike  
+Sent:	Thursday, October 04, 2001 1:35 PM
+To:	Hansen, Bob
+Cc:	Riley, Christopher; Ring, Richard; Johnson, Gillian; Keller, James
+Subject:	Re: MD Index Product - Draft TC
+
+I think it is important for this TC to be more, rather than less, specific around the ancillaries, etc in the EESI Energy Price definition.  I welcome any suggestions you might have to make the language more specific.  I see this as being a different case that where we are simply reciting what is include in our fixed retail gen price; here we are passing through specific items--essentially a fully indexed rate-and I don't want us to get stuck with something on an interpretation dispute.
+
+As to the fixed price TC, I was waiting to be sure that the way I have written the first part of the price-the discount--is right.  If it is, I can replicate for the fixed price one.  Please let me know.  MDS
+
+
+
+ 
+Bob Hansen
+10/04/2001 11:44 AM
+To:	Mike D Smith/HOU/EES@EES
+cc:	Christopher Riley/HOU/EES@EES, Richard Ring/Enron@EnronXGate, Gillian Johnson/HOU/EES@EES 
+Subject:	MD Index Product - Draft TC
+
+Mike,
+
+We have been reviewing the TC with other groups and a question came up from Chris Riley and Richard Ring.  We want to make sure that you are okay with the TC not being specific on the source of costs for the ancillaries, ICAP, Congestion, and other uplifts to the index price. 
+
+The description of the "EESI Energy Price" is currently generic enough so that Enron can be certain that all applicable costs can be included, but Chris and Richard have a concern that the lack of references could lead to interpretation differences and billing disputes.  Unlike with the LMP component, we don't refer to the information posted by the ISO, for example.
+
+We met with the Service Management group and they seemed to be okay with the index product from a billing perspective.  They will need specific data sources for the uplift components but they didn't seem concerned that the component sources are not specified on the TC. 
+
+Are you okay with this current interpretation latitude in the TC?  
+
+An alternative might be to add more specific references, possibly like those in BGE's "Schedule DS" (also attached).  Or, we could try to sell the TC the way it is.  And if customers won't sign because they want more specifics regarding billing calculations, then we consider the needed additions at that time.
+
+Also,  Mike...any TC update available yet for our current MD fixed price product?
+
+Thanks!
+
+Bob
+
+ 
+
+ 
+
+
+
+
+
+
+
+<Embedded Picture (Device Independent Bitmap)>
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <32527683.1075858653144.JavaMail.evans@thyme>
+Date: Thu, 4 Oct 2001 09:41:39 -0700 (PDT)
+From: narsimha.misra@enron.com
+To: richard.ring@enron.com
+Subject: FW: Exelon Show Cause Order
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Misra, Narsimha </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NMISRA>
+X-To: Ring, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rring>
+X-cc: 
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+can we see if we can get involved with this if it is in our interest!!
+
+ -----Original Message-----
+From: 	Sharfman, Guy  
+Sent:	Thursday, October 04, 2001 11:38 AM
+To:	Misra, Narsimha
+Subject:	FW: Exelon Show Cause Order
+
+This may interest you due to the fact that it involves PECO.
+
+ -----Original Message-----
+From: 	Migden, Janine  
+Sent:	Thursday, October 04, 2001 11:34 AM
+To:	Nicolay, Christi L.; Fulton, Donna; Stroup, Kerry; Roan, Michael; Steffes, James D.; Merola, Jeff; Ulrich, Marc; Sharfman, Guy; Herndon, Rogers
+Subject:	FW: Exelon Show Cause Order
+
+FYI... This can perhaps provide us with additional leverage when we next decide to negotiate with ComEd.
+
+ -----Original Message-----
+From: 	"Jackie Gallagher" <JGallagher@epsa.org> (by way of Freddi Greenberg <flgreenberg@flglaw.com>)@ENRON [mailto:IMCEANOTES-+22Jackie+20Gallagher+22+20+3CJGallagher+40epsa+2Eorg+3E+20+28by+20way+20of+20Freddi+20Greenberg+20+3Cflgreenberg+40flglaw+2Ecom+3E+29+40ENRON@ENRON.com] 
+Sent:	Thursday, October 04, 2001 11:09 AM
+To:	jmartin@tenaska.com;; rjsuslick@wpspower.com;; jane.cahill@pge-corp.com;; JJST@dynegy.com;; melissa.lavinson@gen.pge.com;; Susan.M.Landwehr@enron.com;; joe.bizzano@nrgenergy.com;; doao@chevron.com;; jnnc@chevron.com;; gapa@dynegy.com; agold@coral-energy.com; priyad@calpine.com; dmcfarlan@mwgen.com; SSLATER@epsa.org; steve.brick@gen.pge.com; gerjavec@indeck-energy.com; Hueter, Barbara A.; Gary_Edwards@dom.com; Migden, Janine; bob.lewis@mirant.com; Lassere, Donald; D.Anderson@pecorp.com; Stroup, Kerry; gretchen.gutman@mirant.com; mark.osten@mirant.com
+Subject:	Exelon Show Cause Order
+
+FYI re: execlon - note that the Power Team buys wholesale power on behalf
+of comed as well.
+
+Yesterday the Commission issued a Show Cause Order directing Exelon
+Corp, PECO Energy Company, and Exelon Generation Company, and Exelon Power
+Team to show cause whether they violated Section 205(b) of the FPA and the
+standards of conduct in the Commission's regulations by operating PECO's
+transmission system in an unduly preferential manner and sharing non-public
+information regarding the timing of maintenance outages in PJM's system or
+both.
+
+The Show Cause Order can be retrieved at the following link:
+http://cips.ferc.fed.us/Q/CIPS/MISC/M_MS/IN01-7.000.TXT
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <24090764.1075858652663.JavaMail.evans@thyme>
+Date: Wed, 17 Oct 2001 12:25:58 -0700 (PDT)
+From: michele.raque@enron.com
+To: narsimha.misra@enron.com, richard.ring@enron.com
+Subject: PJM FTRs
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Raque, Michele </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MRAQUE>
+X-To: Misra, Narsimha </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NMISRA>, Ring, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rring>
+X-cc: 
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+I spoke with Aaron Baseman at PJM today.  The Network External Non-Designated transmission service does not give us access to FTRs.  The only ways to secure eligibility for FTRs are to (1) secure unit-specific ICAP resources, or (2) purchase Firm Point-to-Point transmission on a long-term basis.
+
+We therefore will want to cancel our previous Network transmission request and pursue the previously discussed alternatives.
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <5969514.1075858653238.JavaMail.evans@thyme>
+Date: Tue, 4 Sep 2001 12:01:53 -0700 (PDT)
+From: cam@pjm.com
+To: rring@enron.com, cam@pjm.com
+Subject: New MUI User request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: CAM@pjm.com
+X-To: rring@enron.com, CAM@pjm.com
+X-cc: 
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+Narsimha Misra<nmisra@enron.com> at Enron Energy Services, Inc. is requesting a user account with the following qualifications: 
+eData General
+OASIS Message
+OASIS Read Only
+OASIS Transaction
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <18504831.1075858652974.JavaMail.evans@thyme>
+Date: Fri, 5 Oct 2001 16:18:14 -0700 (PDT)
+From: gillian.johnson@enron.com
+To: mike.smith@enron.com, richard.ring@enron.com, liqun.pan@enron.com,
+	michele.raque@enron.com, christopher.riley@enron.com,
+	victor.gonzalez@enron.com
+Subject: BGE Index Product - Draft Confirm
+Cc: bob.hansen@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: bob.hansen@enron.com
+X-From: Johnson, Gillian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=3E222190-9C017A5E-86256A25-5553FD>
+X-To: Smith, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=2EE97F18-211E482A-862564FF-5A6314>, Ring, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RRING>, Pan, Liqun </O=ENRON/OU=NA/CN=RECIPIENTS/CN=LPAN>, Raque, Michele </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MRAQUE>, Riley, Christopher </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=5E9C26AD-B1BB934D-862567C4-6BC3AD>, Gonzalez, Victor </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=E463DBAA-8584497A-86256855-4EC6BF>
+X-cc: Hansen, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=CA60FA71-94865C7E-8625690C-5A1128>
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+Bob circulated a revised version of this document this evening and I have revised it further attempting to add some language regarding the customers ability to lock into a fixed price at any time, if the price is acceptable to both parties.  I do not think that the language that I have included is sufficient and look forward to your comments on this matter as well.
+
+Thanks.
+
+Gillian
+
+ 
+---------------------- Forwarded by Gillian Johnson/HOU/EES on 10/05/2001 06:13 PM ---------------------------
+
+
+Bob Hansen
+10/05/2001 05:21 PM
+To:	Mike D Smith/HOU/EES@EES, Richard Ring/Enron@EnronXGate, Liqun Pan/Enron@EnronXGate, Michele Raque/ENRON@enronXgate, Christopher Riley/HOU/EES@EES, Victor Gonzalez/HOU/EES@EES
+cc:	Gillian Johnson/HOU/EES@EES 
+Subject:	BGE Index Product - Draft Confirm
+
+Here's a marked-up draft of the MD Index Product confirm reflecting our recent discussions, and incorporating Richard Ring's comments.  This version continues to assume a real-time pricing approach, it includes language for a quarterly true-up of ancillary service costs, and has more details on the ancillary service cost sources.  This also includes some minor revisions to the billing section.
+
+Let me know if you have any questions.  
+
+Thanks!
+Bob
+
+ 
+
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <32601463.1075858652710.JavaMail.evans@thyme>
+Date: Tue, 16 Oct 2001 12:15:18 -0700 (PDT)
+From: michael.frazier@enron.com
+To: michele.raque@enron.com
+Subject: 
+Cc: richard.ring@enron.com, rahman.pounds@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: richard.ring@enron.com, rahman.pounds@enron.com
+X-From: Frazier, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MFRAZIER>
+X-To: Raque, Michele </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mraque>
+X-cc: Ring, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rring>, Pounds, Rahman </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rpounds>
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+Here is the BG&E file I mentioned.  Sorry to be so long.  Rahman siad that for most of the website one does not need a password; however, for the portion that contains the information used to determine load profiles, some certification is required.  He was hoping you had access or knew how to obtain it.  He will be back tomorrow.
+Thanks
+Michael
+
+ 
+
+Michael R. Frazier
+Manager, Load Forecasting
+Commodity Risk Management
+Phone: 713-345-3200
+Pager:  877-926-0615
+email: mfrazier@enron.com
+pmail: 8779260615@skytel.com
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <7393677.1075858652758.JavaMail.evans@thyme>
+Date: Mon, 15 Oct 2001 07:13:17 -0700 (PDT)
+From: michele.raque@enron.com
+To: bob.hansen@enron.com
+Subject: RE: MD Index Product - Draft Invoice and Calculations
+Cc: gillian.johnson@enron.com, richard.ring@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: gillian.johnson@enron.com, richard.ring@enron.com
+X-From: Raque, Michele </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MRAQUE>
+X-To: Hansen, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=ca60fa71-94865c7e-8625690c-5a1128>
+X-cc: Johnson, Gillian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=3e222190-9c017a5e-86256a25-5553fd>, Ring, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rring>
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+Good morning-
+I just ran the invoice issue by Richard, and he suggests that you run this by legal to determine if there are any state-specific regulatory requirements (e.g. formats, required data fields, etc.)  Other than that, the invoice format looks clear to me.  I suppose you'll want to break out transmission, but lump all ancillaries and other ISO administered charges together.
+
+And in comparing the invoice to the draft agreement, did we forget to specifically mention the word "transmission" or was that intentional?
+
+Thanks-
+Michele
+
+
+ -----Original Message-----
+From: 	Hansen, Bob  
+Sent:	Friday, October 12, 2001 2:25 PM
+To:	Raque, Michele
+Cc:	Johnson, Gillian
+Subject:	MD Index Product - Draft Invoice and Calculations
+
+Michele,
+
+To clarify the process of how we bill this product, and to clarify the data requirements, I've drafted a sample customer invoice.  You will see the assumptions and calculations that roll into the summary page.  
+
+I'm not sure how much calculation detail we would want to show, but it may depend on the type and format of the data that would be used.  For example, I haven't yet included calculations for any of the ancillary services.
+
+When you have a chance, lets go through this to see if it makes sense.
+
+Thanks!
+Bob
+
+ << File: Sample Invoice (10-11-01).xls >> 
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <13474266.1075858652781.JavaMail.evans@thyme>
+Date: Thu, 11 Oct 2001 21:51:08 -0700 (PDT)
+From: narsimha.misra@enron.com
+To: richard.ring@enron.com
+Subject: RE: PJM UCAP
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Misra, Narsimha </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NMISRA>
+X-To: Ring, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RRING>
+X-cc: 
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+excellent... we need to get an idea of the market for UCAP in the back years like 02 to 05 so we can update our curves. if you have an idea, please update the curves to reflect your view.
+thanks
+-narsimha
+
+-----Original Message----- 
+From: Ring, Richard 
+Sent: Thu 10/11/2001 3:28 PM 
+To: Misra, Narsimha; Raque, Michele 
+Cc: 
+Subject: PJM UCAP
+
+
+
+I purchased 100MW of UCAP Credits for next Planning Year (June 2002 thru May 2003) at a price of $48.00 MW/D; the deal has been input into Deal Tracker and is identified by Deal Number TR 17004.
+
+Richard 
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <25696325.1075858652686.JavaMail.evans@thyme>
+Date: Wed, 17 Oct 2001 07:58:39 -0700 (PDT)
+From: gillian.johnson@enron.com
+To: c..aucoin@enron.com, narsimha.misra@enron.com
+Subject: MD Index Product PAT
+Cc: richard.ring@enron.com, liqun.pan@enron.com, michele.raque@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: richard.ring@enron.com, liqun.pan@enron.com, michele.raque@enron.com
+X-From: Johnson, Gillian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=3E222190-9C017A5E-86256A25-5553FD>
+X-To: Aucoin, Berney C.  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BAUCOIN>, Misra, Narsimha </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NMISRA>
+X-cc: Ring, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RRING>, Pan, Liqun </O=ENRON/OU=NA/CN=RECIPIENTS/CN=LPAN>, Raque, Michele </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MRAQUE>
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+Can you please review this product approval template for the MD Index product?  We have been working with Michele and Liqun to get the product scoped out.  Of course, I will need your initials before Rogers will sign.
+
+Thanks.
+
+Gillian
+
+  
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <8954043.1075858653121.JavaMail.evans@thyme>
+Date: Thu, 4 Oct 2001 09:44:31 -0700 (PDT)
+From: bob.hansen@enron.com
+To: mike.smith@enron.com
+Subject: MD Index Product - Draft TC
+Cc: christopher.riley@enron.com, richard.ring@enron.com,
+	gillian.johnson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: christopher.riley@enron.com, richard.ring@enron.com,
+	gillian.johnson@enron.com
+X-From: Hansen, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=CA60FA71-94865C7E-8625690C-5A1128>
+X-To: Smith, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=2EE97F18-211E482A-862564FF-5A6314>
+X-cc: Riley, Christopher </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=5E9C26AD-B1BB934D-862567C4-6BC3AD>, Ring, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RRING>, Johnson, Gillian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=3E222190-9C017A5E-86256A25-5553FD>
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+Mike,
+
+We have been reviewing the TC with other groups and a question came up from Chris Riley and Richard Ring.  We want to make sure that you are okay with the TC not being specific on the source of costs for the ancillaries, ICAP, Congestion, and other uplifts to the index price. 
+
+The description of the "EESI Energy Price" is currently generic enough so that Enron can be certain that all applicable costs can be included, but Chris and Richard have a concern that the lack of references could lead to interpretation differences and billing disputes.  Unlike with the LMP component, we don't refer to the information posted by the ISO, for example.
+
+We met with the Service Management group and they seemed to be okay with the index product from a billing perspective.  They will need specific data sources for the uplift components but they didn't seem concerned that the component sources are not specified on the TC. 
+
+Are you okay with this current interpretation latitude in the TC?  
+
+An alternative might be to add more specific references, possibly like those in BGE's "Schedule DS" (also attached).  Or, we could try to sell the TC the way it is.  And if customers won't sign because they want more specifics regarding billing calculations, then we consider the needed additions at that time.
+
+Also,  Mike...any TC update available yet for our current MD fixed price product?
+
+Thanks!
+
+Bob
+
+ 
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <5528343.1075858652828.JavaMail.evans@thyme>
+Date: Wed, 10 Oct 2001 07:29:59 -0700 (PDT)
+From: bob.hansen@enron.com
+To: richard.ring@enron.com
+Subject: RE: MD Index Product - Scheduling Fee
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Hansen, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=CA60FA71-94865C7E-8625690C-5A1128>
+X-To: Ring, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RRING>
+X-cc: 
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+
+Great...Thanks!
+
+
+
+From:	Richard Ring/ENRON@enronXgate on 10/10/2001 09:20 AM
+To:	Bob Hansen/HOU/EES@EES
+cc:	Michele Raque/ENRON@enronXgate, Narsimha Misra/ENRON@enronXgate 
+Subject:	RE: MD Index Product - Scheduling Fee
+
+Bob,
+
+I think that for the moment the $0.25/MWh for the scheduling fee component is fine to utilize.  Michelle is in the process of reviewing all BGE scheduling requirements and within the next few days should have be able to determine the accuracy of the $0.25/MWh scheduling fee component.
+
+Richard
+
+ -----Original Message-----
+From: 	Hansen, Bob  
+Sent:	Wednesday, October 10, 2001 9:10 AM
+To:	Pan, Liqun; Ring, Richard; Raque, Michele
+Cc:	Johnson, Gillian
+Subject:	MD Index Product - Scheduling Fee
+
+
+Good Morning....
+
+As a placeholder, Narsimha previously suggested $0.25/MWH for the scheduling fee component of the fixed "Management Fee".  Do you think this is still a reasonable number to use?  If so, we would use it in our notional estimates, and Deal Management would use the same value for executable pricing.   
+
+Thanks!
+Bob
+
+
+From MAILER-DAEMON Mon Apr 18 14:18:45 2022
+Message-ID: <3128775.1075858652805.JavaMail.evans@thyme>
+Date: Wed, 10 Oct 2001 11:09:27 -0700 (PDT)
+From: pjmcustomerrelationsandtraining@pjm.com
+To: pjm-customer-info@risc1.pjm.com
+Subject: PJM's President Calls on Congress To Strengthen Electric Reliabil
+	ity
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: PJMCustomerRelationsandTraining@pjm.com@EES
+X-To: pjm-customer-info@risc1.pjm.com
+X-cc: 
+X-bcc: 
+X-Folder: \RRING (Non-Privileged)\EESIISOPJM
+X-Origin: Ring-R
+X-FileName: RRING (Non-Privileged)1.pst
+
+
+Message sent from the pjm-customer-info mailing list at pjm-customer-info@majordomo.pjm.com:
+
+PJM's President Calls on Congress
+To Strengthen Electric Reliability
+By integrating market functions
+and authorizing new FERC powers
+
+(Washington, D.C. - October 10, 2001) - PJM President and CEO Phillip Harris,
+testifying before the U.S. House of Representatives Subcommittee on Energy and
+Air Quality, today called on Congress to adopt simplified reliability
+legislation assigning the ultimate responsibility for devising, implementing and
+enforcing mandatory reliability standards to the Federal Energy Regulatory
+Commission (FERC), instead of hard-wiring a self-regulating organization that
+would be granted, in effect, the ability to tax ratepayers.
+
+Harris noted that the electric industry has traditionally operated through
+various outlets of operation - from the acquisition and delivery of fuel, to the
+generation of electricity, to transmission and distribution - each operating as
+an autonomous island with little integration and sharing of data. Harris stated
+that the FERC should be empowered to ensure that every transmission entity in
+the United States participates in Regional Transmission Organizations (RTOs) as
+an essential element of a synchronous market, so as to produce consistency,
+promote rational regional planning, relieve congestion and refine pricing.
+
+"We urge Congress not to create yet another organization to oversee
+reliability," Harris said, referring to a proposal by the North American
+Electric Reliability Council.  "The industry should be looking for ways to
+integrate its functions into the marketplace, not creating new industry silos."
+
+Harris also restated his support for the FERC plan to integrate existing
+wholesale electric markets into four RTOs. The creation of large RTOs under the
+Regional Network Model that PJM proposed for the Northeast will significantly
+enhance the security and continuity of the national grid. Under the PJM Regional
+Network Model approach, data and responsibility will be decentralized among
+multiple paths while, through a hierarchical design, the benefits of integration
+and uniformity are realized.  Harris noted that this approach is far more secure
+than the system which presently exists where there are silos of security
+responsibility among each of the individual utilities in much of the country.
+
+In addition to recommendations on reliability and security issues, Harris
+highlighted additional ways Congress could support delivering real and
+measurable results to electric consumers. These include:
+
+*	Siting - Congress should provide deference to decisions reached through
+balanced regional planning processes which are open and which do not favor
+transmission solutions over generation solutions or one technology over another;
+embracing and enhancing open regional planning processes that involve all
+affected states.
+
+*	More standardization of market design - FERC needs to more clearly
+delineate the exact market functions to be performed by emerging RTOs and ensure
+a certain degree of standardization of design so as to promote the free flow of
+information to enable commerce of this instantaneous, speed of light product.
+Harris noted that PJM remains concerned that in much of the rest of the country
+the developing RTOs seem to want to remain passive grid operators with no
+obligation to ensure a vibrant marketplace.
+
+*	FERC resources - Congress should ensure that the FERC is fully staffed
+and has the resources needed to appropriately monitor the markets and regulate
+in those areas where any market is not properly functioning. Harris noted that
+this is not the time to pull the rug out of the FERC's efforts to deliver on the
+promise of the Energy Policy Act of 1992 and Order 2000.
+
+*	Role of technology - The nation is moving rapidly to networked
+information through advanced technology. The FERC should have these advanced
+tools and the staff resources to use them in order to identify and be responsive
+to market dysfunctions in a timely manner. And even more importantly, Harris
+noted, in writing laws in the electricity area Congress should provide broad
+authority to the FERC and other government institutions rather than codifying
+constraints, which will tie the agency's hands.
+
+"Our message is simple," Harris noted. "With the wise use of information and
+with institutions such as the FERC having broad and flexible authority and a
+clear mission to promote competitive markets, our laws and institutions can
+begin to catch up and operate closer to the speed and efficiency of this
+instantaneous product - electricity."
+
+A complete copy of Harris' comments is available on PJM's Web site at
+www.pjm.com - under PJM news, current topics.
+
+PJM, the country's only fully functioning regional transmission organization,
+operates the world's largest competitive wholesale electricity market and one of
+North America's largest power grids. The company currently coordinates a pooled
+generating capacity of more than 59,000 megawatts and operates a wholesale
+electricity market with more than 200 market buyers, sellers and traders of
+electricity. PJM has administered more than $5 billion in energy and energy
+service trades since the regional markets opened in 1997. More than 70 nations
+have sent delegates to PJM to learn about the market model and the operation of
+the grid in the mid-Atlantic states.
+###
+
+
+
+
+
+
+Please DO NOT REPLY to this message. If you have a question for PJM Customer
+Relations and Training, please complete and submit this form:
+http://www.pjm.com/contact/questions.html
+
+To unsubscribe from this list, send an e-mail to majordomo@majordomo.pjm.com
+containing only the following line in the body of the e-mail:
+
+unsubscribe pjm-customer-info
+
+ - att1.eml 
+

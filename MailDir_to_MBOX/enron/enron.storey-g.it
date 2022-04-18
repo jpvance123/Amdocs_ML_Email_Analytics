@@ -1,0 +1,4231 @@
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <30075906.1075851732263.JavaMail.evans@thyme>
+Date: Thu, 15 Mar 2001 01:40:00 -0800 (PST)
+From: russ.severson@enron.com
+To: geoff.storey@enron.com
+Subject: TDS Desk Roll up
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Russ Severson
+X-To: Geoff Storey
+X-cc: 
+X-bcc: 
+X-Folder: \Geoffrey_Storey_Nov2001\Notes Folders\It
+X-Origin: STOREY-G
+X-FileName: gstorey.nsf
+
+I just wanted to confirm that the ability to create roll ups without the IT 
+group's involvement has been moved up
+on the priority list.
+
+Russ 
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <13283953.1075845349224.JavaMail.evans@thyme>
+Date: Mon, 26 Mar 2001 20:02:00 -0800 (PST)
+From: francis.lim@enron.com
+To: geoff.storey@enron.com
+Subject: GTV Project
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Francis S Lim <Francis S Lim/ENRON@enronXgate@ENRON>
+X-To: Geoff Storey <Geoff Storey/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \Storey, Geoff\Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: Storey, Geoff.pst
+
+I had called but you were out.
+
+Zhiyong had ask me to look into the GTV Live feed projects (see below).
+I have seen the Curve manager spreadsheet.  I would like you to point me
+in the right direction by:
+	- telling me who are the traders who are requesting this changes.
+	- can I get a copy of spreadsheets that they want the live feed on?
+	- how many spreadsheets are we changing?
+	- etc...
+
+Issue 4:  Live feeds for Gas Daily/intra-month curves
+
+?	Develop live feed capability for intra-month curves just like we have for basis, etc.
+Once this capability is complete, traders will have to set new curves.  We expect the curves to be set as follows:  The Henry Hub intra-month curve will be tied to the NYMEX feed.  Most (if not all) other curves will be tied to the Henry Hub intra-month curve in some way.  Traders will have to set differentials.
+
+Developing the live feed capability for intra-month curves is feasible, and the development timeline from the IT group is 3 weeks (see project timeline).  
+
+
+ 
+
+
+Francis
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <32846284.1075845349423.JavaMail.evans@thyme>
+Date: Mon, 19 Mar 2001 15:36:00 -0800 (PST)
+From: zhiyong.wei@enron.com
+To: jeffrey.gossett@enron.com, geoff.storey@enron.com, russ.severson@enron.com,
+	karima.husain@enron.com
+Subject: UAT and production roll-out timeline estimate for GTV II
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Zhiyong Wei <Zhiyong Wei/ENRON@enronXgate>
+X-To: Jeffrey C Gossett <Jeffrey C Gossett/HOU/ECT@ECT>, Geoff Storey <Geoff Storey/HOU/ECT@ECT>, Russ Severson <Russ Severson/HOU/ECT@ECT>, Karima Husain <Karima Husain/ENRON@enronXgate>
+X-cc: 
+X-bcc: 
+X-Folder: \Storey, Geoff\Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: Storey, Geoff.pst
+
+	INVITATION
+
+Chairperson:	Zhiyong Wei
+
+Invitees:
+	Jeffrey C Gossett
+	Geoff Storey
+	Russ Severson
+	Karima Husain
+
+
+Date:		3/19/2001
+Time:		1:00 PM - 1:30 PM (Central Standard Time)
+Room:		EB3267@ECT
+
+Description:
+	UAT and production roll-out timeline estimate for GTV II
+
+Detailed Description:
+
+When: Monday, March 19, 2001 1:00 PM-1:30 PM (GMT-06:00) Central Time (US & Canada).
+Where: EB3267
+
+*~*~*~*~*~*~*~*~*~*
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <26276509.1075851732376.JavaMail.evans@thyme>
+Date: Mon, 12 Mar 2001 01:12:00 -0800 (PST)
+From: colleen.sullivan@enron.com
+To: zhiyong.wei@enron.com, geoff.storey@enron.com, karima.husain@enron.com,
+	jeffrey.gossett@enron.com, russ.severson@enron.com,
+	stephen.stock@enron.com
+Subject: 2nd Revised Meeting Notes & NEXT MEETING
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Colleen Sullivan
+X-To: Zhiyong Wei, Geoff Storey, Karima Husain, Jeffrey C Gossett, Russ Severson, Stephen Stock
+X-cc: 
+X-bcc: 
+X-Folder: \Geoffrey_Storey_Nov2001\Notes Folders\It
+X-Origin: STOREY-G
+X-FileName: gstorey.nsf
+
+There is one more addition to the Meeting Notes from last week.  I overlooked 
+the very important live feed for Gas Daily/intra-month curves, so the revised 
+file below adds this as Issue #2a.
+
+Also, regarding our next meeting:  Normally I'd like to hold our weekly 
+meetings on Wednesday afternoons; however, I will not be here this Wednesday 
+and Thursday.   So, please mark your calendars for a meeting on Tuesday, 
+March 13 at 11:30 am in EB3270 to review progress, discuss the Gas Daily 
+issues and address any questions on direction, priorities, etc.   Please let 
+me know if you cannot attend.
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <20025769.1075841597614.JavaMail.evans@thyme>
+Date: Mon, 19 Mar 2001 19:16:00 -0800 (PST)
+From: zhiyong.wei@enron.com
+To: louise.kitchen@enron.com
+Subject: RE: GTV II
+Cc: stephen.stock@enron.com, geoff.storey@enron.com, colleen.sullivan@enron.com,
+	beth.perlman@enron.com, philippe.bibi@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stephen.stock@enron.com, geoff.storey@enron.com, colleen.sullivan@enron.com,
+	beth.perlman@enron.com, philippe.bibi@enron.com
+X-From: Zhiyong Wei <Zhiyong Wei/ENRON@enronXgate@ENRON>
+X-To: Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>
+X-cc: Stephen Stock <Stephen Stock/ENRON@enronXgate>, Geoff Storey <Geoff Storey/HOU/ECT@ECT>, Colleen Sullivan <Colleen Sullivan/HOU/ECT@ECT>, Beth Perlman <Beth Perlman/ENRON@enronXgate>, Philippe A Bibi <Philippe A Bibi/ENRON@enronXgate>
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+Please see the attached file for the revised inception document. I would appreciate any comments. We will be working on the specification of phase 2 once this document is signed off.
+
+Thanks
+
+Zhiyong
+
+
+ 
+
+ -----Original Message-----
+From: 	Kitchen, Louise  
+Sent:	Monday, March 19, 2001 11:15 AM
+To:	Wei, Zhiyong
+Cc:	Stock, Stephen; Storey, Geoff; Sullivan, Colleen; Perlman, Beth; Bibi, Philippe A.
+Subject:	RE: GTV II
+
+Comments:
+
+Zhiyong Wei to be added to signature lists.
+Timeline to include production dates - ie include UAT and production roll-out dates.
+Dependencies - where there are dependencies on other groups (any interaction required with any group outside of Zheiyong's), these need to be highlighted and a representative from that group needs to sign off on that portion of the timeline ( a representative can not be below Director level in the organiztion).
+
+There are clearly many people rolling off early in this project who can be utilized for Phase II - I would suggest the specfication for Phase II is completed in the very near future as the majority of the work in this is done in the very short term by the developers and it moves to the test team.
+
+Please re-issue today.
+
+Louise
+
+
+
+
+From:	Zhiyong Wei/ENRON@enronXgate on 03/16/2001 12:34 PM
+To:	Louise Kitchen/HOU/ECT@ECT
+cc:	Stephen Stock/ENRON@enronXgate, Geoff Storey/HOU/ECT@ECT, Colleen Sullivan/HOU/ECT@ECT, Beth Perlman/ENRON@enronXgate, Philippe A Bibi/ENRON@enronXgate 
+
+Subject:	RE: GTV II
+
+Louise,
+
+Attached please find the inception document requested. I would greatly appreciated your comments. I will be consulting Colleen and Geoff for any necessary revision. I will be requesting signatures on Wednesday afternoon, March 21.
+
+Thanks
+
+Zhiyong
+
+ << File: inception_GTV II.doc >> 
+
+ -----Original Message-----
+From: 	Schoppe, Tammie   On Behalf Of Kitchen, Louise
+Sent:	Tuesday, March 13, 2001 4:24 PM
+To:	Wei, Zhiyong
+Cc:	Stock, Stephen; Storey, Geoff; Sullivan, Colleen; Perlman, Beth; Bibi, Philippe A.
+Subject:	GTV II
+
+I understand we have now finalized 90% requirements on the GTV II.
+
+Please could we pull together the format inception document this week for signature on your meeting next week with Geof and Colleen.
+
+Document to include all requirements, dependencies and timelines.
+
+I would suggest whoever is writing this spend some time with Geof this week.
+
+Please circulate to draft all listed above including me.
+
+Thanks,
+
+Louise
+
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <27787583.1075841597273.JavaMail.evans@thyme>
+Date: Wed, 6 Jun 2001 15:19:44 -0700 (PDT)
+From: zhiyong.wei@enron.com
+To: geoff.storey@enron.com, chuck.ames@enron.com, russ.severson@enron.com,
+	george.grant@enron.com, dave.nommensen@enron.com,
+	jayant.krishnaswamy@enron.com, karima.husain@enron.com,
+	jeremy.wong@enron.com, s..lim@enron.com, thu.dang@enron.com,
+	narasim.kasaru@enron.com
+Subject: Single Deal Entry phase 2 presentation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Wei, Zhiyong </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ZWEI>
+X-To: Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>, Ames, Chuck </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cames>, Severson, Russ </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rsevers>, Grant, George </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ggrant>, Nommensen, Dave </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dnommen>, Krishnaswamy, Jayant </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jkrishn>, Husain, Karima </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Khusain>, Wong, Jeremy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jwong1>, Lim, Francis S. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Flim>, Dang, Thu </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tdang>, Kasaru, Narasim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Nkasaru>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+When: Monday, June 11, 2001 4:00 PM-5:00 PM (GMT-06:00) Central Time (US & Canada).
+Where: EB2541
+
+*~*~*~*~*~*~*~*~*~*
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <15327586.1075841597297.JavaMail.evans@thyme>
+Date: Fri, 20 Apr 2001 17:26:54 -0700 (PDT)
+From: zhiyong.wei@enron.com
+To: louise.kitchen@enron.com, geoff.storey@enron.com, colleen.sullivan@enron.com,
+	a..bibi@enron.com, beth.perlman@enron.com, stephen.stock@enron.com,
+	jeffrey.gossett@enron.com, dave.nommensen@enron.com,
+	jim.ogg@enron.com, bob.mcauliffe@enron.com
+Subject: GTV II Phase II Inception Document
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Wei, Zhiyong </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ZWEI>
+X-To: Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=e5cf97bb-467b6eef-8625687a-893a0>, Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>, Sullivan, Colleen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=6e1bba0e-fff2c76b-8625654c-6c6305>, Bibi, Philippe A. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pbibi>, Perlman, Beth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bperlman>, Stock, Stephen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sstock>, Gossett, Jeffrey </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=a7ea6a46-528529cc-86256546-79a536>, Nommensen, Dave </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dnommen>, Ogg, Jim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jogg>, McAuliffe, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bmcauli>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+Attached please find the revised GTV II Phase II Inception Document. Please review the document. We will be circulating the Inception Document for signature on Tuesday, April 24th. Please refer to the attached Microsoft Project file for the detail of project plan and timeline estimate.
+
+Please send your comments to Dave Nommensen since I will be on vacation.
+
+Thanks
+
+Zhiyong
+
+  
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <20226296.1075851731846.JavaMail.evans@thyme>
+Date: Mon, 2 Apr 2001 09:49:00 -0700 (PDT)
+From: zhiyong.wei@enron.com
+To: louise.kitchen@enron.com
+Subject: GTV II weekly status update
+Cc: colleen.sullivan@enron.com, geoff.storey@enron.com, stephen.stock@enron.com,
+	philippe.bibi@enron.com, beth.perlman@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: colleen.sullivan@enron.com, geoff.storey@enron.com, stephen.stock@enron.com,
+	philippe.bibi@enron.com, beth.perlman@enron.com
+X-From: Zhiyong Wei
+X-To: Louise Kitchen
+X-cc: Colleen Sullivan, Geoff Storey, Stephen Stock, Philippe A Bibi, Beth Perlman
+X-bcc: 
+X-Folder: \Geoffrey_Storey_Nov2001\Notes Folders\It
+X-Origin: STOREY-G
+X-FileName: gstorey.nsf
+
+Louise,
+
+Please see below for the GTV II project weekly status update and the attached 
+file for the updated project timelines.
+
+GTV status meeting attendees:  Zhiyong Wei, Karima Husain, Francis Lim, 
+Jeremy Wong, Bill Fortney, Nayan Dattani, Dave Nommensen, Russ Severson, 
+Narasim Kasaru, Jay Krish.
+
+Accomplishments:
+? Incorporating physcial deal positions in TDS:
+o Changes to CPR reader process & its unit testing have been completed.
+o Changes for the view aggregation has been completed.
+o Changes for the position manager are in progress and on schedule (please 
+see the attached project timeline).
+
+? Single point of deal entry for term deals:
+o Establishing communication between TDS client & Sitara server & its testing 
+has been completed.
+o Other IT items are in progress and on schedule (please see the attached 
+project timeline).
+
+? Gas Daily deals:
+o Changes to TDS deal valuation are in progress and on schedule (please see 
+the attached project timeline).
+o Creating GDI Calc in ERMS is in progress and on schedule (please see the 
+attached project timeline).
+
+? Live feeds for Gas Daily/intra-month curves:
+o Development of live feeds has been completed and handed over to the user 
+for testing.
+
+Plans for the week ending 4/6/01:
+? Continue the development of GTV-II phase 1.
+? Finalize the requirements for GTV-II, Phase 2.
+
+Issues:
+None
+
+
+Regards.
+
+Zhiyong
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <10823868.1075845349176.JavaMail.evans@thyme>
+Date: Tue, 27 Mar 2001 13:52:00 -0800 (PST)
+From: francis.lim@enron.com
+To: geoff.storey@enron.com
+Subject: NG Curves up to 20224
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Francis S Lim <Francis S Lim/ENRON@enronXgate@ENRON>
+X-To: Geoff Storey <Geoff Storey/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \Storey, Geoff\Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: Storey, Geoff.pst
+
+Geoff,
+
+	Attached is yesterdays NG curves that goes out more than
+14 years. Is the curve that you talked to me about yesterday?
+If it is, this curve was entered by Dutch Quigley using curveload.
+
+ 
+Francis
+
+
+
+NOTES ONLY:
+the curves were generated using the query below:
+
+	select ref_period_dt,curve_amt
+	from egs_curves
+	where effective_dt = '26-mar-01'
+	and curve_cd = 'NG'
+	and curve_type_cd = 'PR'
+	order by ref_period_dt
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <1597467.1075845349080.JavaMail.evans@thyme>
+Date: Mon, 2 Apr 2001 19:49:00 -0700 (PDT)
+From: zhiyong.wei@enron.com
+To: louise.kitchen@enron.com
+Subject: GTV II weekly status update
+Cc: colleen.sullivan@enron.com, geoff.storey@enron.com, stephen.stock@enron.com,
+	philippe.bibi@enron.com, beth.perlman@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: colleen.sullivan@enron.com, geoff.storey@enron.com, stephen.stock@enron.com,
+	philippe.bibi@enron.com, beth.perlman@enron.com
+X-From: Zhiyong Wei <Zhiyong Wei/ENRON@enronXgate@ENRON>
+X-To: Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>
+X-cc: Colleen Sullivan <Colleen Sullivan/HOU/ECT@ECT>, Geoff Storey <Geoff Storey/HOU/ECT@ECT>, Stephen Stock <Stephen Stock/ENRON@enronXgate>, Philippe A Bibi <Philippe A Bibi/ENRON@enronXgate>, Beth Perlman <Beth Perlman/ENRON@enronXgate>
+X-bcc: 
+X-Folder: \Storey, Geoff\Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: Storey, Geoff.pst
+
+Louise,
+
+Please see below for the GTV II project weekly status update and the attached file for the updated project timelines.
+
+GTV status meeting attendees:  Zhiyong Wei, Karima Husain, Francis Lim, Jeremy Wong, Bill Fortney, Nayan Dattani, Dave Nommensen, Russ Severson, Narasim Kasaru, Jay Krish.
+
+Accomplishments:
+?	Incorporating physcial deal positions in TDS:
+o	Changes to CPR reader process & its unit testing have been completed.
+o	Changes for the view aggregation has been completed.
+o	Changes for the position manager are in progress and on schedule (please see the attached project timeline).
+
+?	Single point of deal entry for term deals:
+o	Establishing communication between TDS client & Sitara server & its testing has been completed.
+o	Other IT items are in progress and on schedule (please see the attached project timeline).
+
+?	Gas Daily deals:
+o	Changes to TDS deal valuation are in progress and on schedule (please see the attached project timeline).
+o	Creating GDI Calc in ERMS is in progress and on schedule (please see the attached project timeline).
+
+?	Live feeds for Gas Daily/intra-month curves:
+o	Development of live feeds has been completed and handed over to the user for testing.
+
+Plans for the week ending 4/6/01:
+?	Continue the development of GTV-II phase 1.
+?	Finalize the requirements for GTV-II, Phase 2.
+
+Issues:
+None
+
+ 
+Regards.
+
+Zhiyong
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <30622459.1075841597032.JavaMail.evans@thyme>
+Date: Wed, 10 Oct 2001 08:15:21 -0700 (PDT)
+From: ramesh.rao@enron.com
+To: geoff.storey@enron.com, tim.belden@enron.com, lloyd.will@enron.com,
+	rob.milnthorp@enron.com
+Subject: FW: New Start
+Cc: beth.perlman@enron.com, stephen.stock@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: beth.perlman@enron.com, stephen.stock@enron.com
+X-From: Rao, Ramesh </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RRAO>
+X-To: Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>, Belden, Tim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tbelden>, Will, Lloyd </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lwill>, Milnthorp, Rob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rmilnth>
+X-cc: Perlman, Beth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bperlman>, Stock, Stephen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sstock>
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+My name is Ramesh Rao and I work for Beth Perlman in Net Works.  Based on the email below, I'd like to get with each of you to discuss the FY 02 budget for my team and get your feedback.  As a first step, I will set up a meeting or a conference call with each of you shortly.   
+
+My team supports the mid-back office for Gas and Power i.e. Unify, DCAF 2, TAGG Confirmations and EnPower Confirmations.  Unify is used by Gas for Logistics, Vol. Management, and Settlements.  It is used by Power for Settlements.  Unify also supports Financial Gas and Power, which is used in Houston, Calgary and London.  Confirmations are handled by DCAF 2, TAGG Confirmations or EnPower Confirmations as the case may be.
+
+Since your teams use one or all of these applications, you share the costs.  I can meet with each of you (or your representative) individually or meet with everyone as a group.  Please let me know how you would like to proceed.
+
+Thanks,
+
+Ramesh
+
+ -----Original Message-----
+From: 	Kitchen, Louise  
+Sent:	Monday, October 08, 2001 4:24 PM
+To:	Perlman, Beth; Beck, Sally; Pickering, Mark; Piper, Greg
+Cc:	Storey, Geoff; Belden, Tim; Presto, Kevin M.; Will, Lloyd; Gaskill, Chris; Milnthorp, Rob; Luce, Laura; Haedicke, Mark E.; Greenberg, Mark; Colwell, Wes; Killen, Faith
+Subject:	New Start
+
+We have unsuccessfully attempted to find sponsors for the project list you gave to me in our meeting.  I would therefore like to start the game again but starting from zero and working our way up. Assuming we are starting with no budget for IT development, please could you sit down with each of our Business Sponsors and agree a number with them.  They are:
+
+Tim Belden (or his appointed person) for West Power
+Lloyd Will for East Power
+Geof Storey for Gas 
+Laura Luce for Peoples and Global Net
+Chris Gaskill for Gas Fundys
+Rob Milnthorp (or his appointed person) for Canada.
+Mark Haedicke/Greenberg (or his appointed person) for Legal.
+
+Each of the above will be allocated their charge for IT development and capital (apart from Geof who will allocate across the desks) and therefore is the best person/people to decide on the costs.  Please could you arrange a short meeting/discussion with each and agree a budget as the process so far is not working.
+
+I am assuming its zero at the moment.
+
+
+Thanks
+
+Louise
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <7731015.1075845349130.JavaMail.evans@thyme>
+Date: Tue, 27 Mar 2001 18:55:00 -0800 (PST)
+From: zhiyong.wei@enron.com
+To: louise.kitchen@enron.com
+Subject: GTV II weekly status update
+Cc: colleen.sullivan@enron.com, geoff.storey@enron.com, philippe.bibi@enron.com,
+	beth.perlman@enron.com, stephen.stock@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: colleen.sullivan@enron.com, geoff.storey@enron.com, philippe.bibi@enron.com,
+	beth.perlman@enron.com, stephen.stock@enron.com
+X-From: Zhiyong Wei <Zhiyong Wei/ENRON@enronXgate@ENRON>
+X-To: Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>
+X-cc: Colleen Sullivan <Colleen Sullivan/HOU/ECT@ECT>, Geoff Storey <Geoff Storey/HOU/ECT@ECT>, Philippe A Bibi <Philippe A Bibi/ENRON@enronXgate>, Beth Perlman <Beth Perlman/ENRON@enronXgate>, Stephen Stock <Stephen Stock/ENRON@enronXgate>
+X-bcc: 
+X-Folder: \Storey, Geoff\Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: Storey, Geoff.pst
+
+Louise,
+
+The GTV II team has a weekly status meeting on Mondays. Yesterday, we had our first status meeting. Please see below for the current status of the project. Please see the attached file for the update of project timeline in Microsoft Project.
+
+
+GTV status meeting attendees:  Zhiyong Wei, Karima Husain, Francis Lim, Jeremy Wong, Bill Fortney, Nayan Dattani, Mike Swaim, Dave Nommensen, Russ Severson, George Grant.
+
+Accomplishments:
+?	Incorporating physcial deal positions in TDS:
+o	Changes to CPR reader process have been completed.
+o	Changes for the view aggregation are 80% done.
+o	Changes for the position manager are in progress and are about 30% completed.
+
+?	Single point of deal entry for term deals:
+o	Establishing communication between TDS client & Sitara server is in progress.
+
+?	Gas Daily deals:
+o	Changes to TDS deal valuation are in progress.
+o	Creating GDI Calc in ERMS is in progress.
+
+?	Live feeds for Gas Daily/intra-month curves:
+o	Development of live feeds is in progress. Goef has been contacted regarding how to use the features.
+
+Plans for the week ending 3/30/01:
+?	Continue the development of GTV II phase 1.
+?	Commence the work on GTV II Phase 2 inception document.
+
+Issues:
+None.
+
+ 
+
+Regards
+
+Zhiyong
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <20265589.1075851732353.JavaMail.evans@thyme>
+Date: Mon, 12 Mar 2001 04:48:00 -0800 (PST)
+From: jeffrey.gossett@enron.com
+To: colleen.sullivan@enron.com, geoff.storey@enron.com
+Subject: Re: Gas Daily Issue
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeffrey C Gossett
+X-To: Colleen Sullivan, Geoff Storey
+X-cc: 
+X-bcc: 
+X-Folder: \Geoffrey_Storey_Nov2001\Notes Folders\It
+X-Origin: STOREY-G
+X-FileName: gstorey.nsf
+
+Colleen/Geoff -
+
+Only other issue I can think of, is making sure that deals with "I" risk do 
+not show up in V@R calculation (Only deals with M gas daily risk should be 
+downloaded into risktrac for V@R).
+
+
+   
+	Enron North America Corp.
+	
+	From:  Colleen Sullivan                           03/12/2001 12:11 PM
+	
+
+To: Jeffrey C Gossett/HOU/ECT@ECT
+cc:  
+Subject: Gas Daily Issue
+
+Geoff visited with me this morning regarding the Gas Daily Issue and I 
+attempted to summarize this in the attached document.  If you get a chance 
+before tomorrow's meeting, could you review this and see if I missed any 
+major pieces?  (Just look at the First Tab that says Gas Daily, the TDS tab 
+is nothing at this point.)  Geoff said he had talked this through with you so 
+I thought you may recognize if I missed anything or misunderstood it.  (I 
+also left a copy of it on his desk.)  Thanks.
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <9866864.1075851731982.JavaMail.evans@thyme>
+Date: Mon, 26 Mar 2001 09:02:00 -0800 (PST)
+From: francis.lim@enron.com
+To: geoff.storey@enron.com
+Subject: GTV Project
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Francis S Lim
+X-To: Geoff Storey
+X-cc: 
+X-bcc: 
+X-Folder: \Geoffrey_Storey_Nov2001\Notes Folders\It
+X-Origin: STOREY-G
+X-FileName: gstorey.nsf
+
+I had called but you were out.
+
+Zhiyong had ask me to look into the GTV Live feed projects (see below).
+I have seen the Curve manager spreadsheet.  I would like you to point me
+in the right direction by:
+ - telling me who are the traders who are requesting this changes.
+ - can I get a copy of spreadsheets that they want the live feed on?
+ - how many spreadsheets are we changing?
+ - etc...
+
+Issue 4:  Live feeds for Gas Daily/intra-month curves
+
+? Develop live feed capability for intra-month curves just like we have for 
+basis, etc.
+Once this capability is complete, traders will have to set new curves.  We 
+expect the curves to be set as follows:  The Henry Hub intra-month curve will 
+be tied to the NYMEX feed.  Most (if not all) other curves will be tied to 
+the Henry Hub intra-month curve in some way.  Traders will have to set 
+differentials.
+
+Developing the live feed capability for intra-month curves is feasible, and 
+the development timeline from the IT group is 3 weeks (see project 
+timeline).  
+
+
+
+
+
+Francis
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <3703664.1075841597491.JavaMail.evans@thyme>
+Date: Fri, 6 Apr 2001 21:55:00 -0700 (PDT)
+From: zhiyong.wei@enron.com
+To: louise.kitchen@enron.com, geoff.storey@enron.com, colleen.sullivan@enron.com,
+	philippe.bibi@enron.com, beth.perlman@enron.com,
+	stephen.stock@enron.com
+Subject: Inception Document for GTV II phase II
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Zhiyong Wei <Zhiyong Wei/ENRON@enronXgate@ENRON>
+X-To: Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>, Geoff Storey <Geoff Storey/HOU/ECT@ECT>, Colleen Sullivan <Colleen Sullivan/HOU/ECT@ECT>, Philippe A Bibi <Philippe A Bibi/ENRON@enronXgate>, Beth Perlman <Beth Perlman/ENRON@enronXgate>, Stephen Stock <Stephen Stock/ENRON@enronXgate>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+Attached please find the Inception Document for Gas Trading Vision II Phase II. I would appreciate your comments. I will be circulating the document for signatures on Wednesday. Please provide your inputs by then.
+
+Thanks
+
+Zhiyong
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <20549038.1075841597350.JavaMail.evans@thyme>
+Date: Tue, 17 Apr 2001 14:46:00 -0700 (PDT)
+From: louise.kitchen@enron.com
+To: zhiyong.wei@enron.com
+Subject: Re: GTV weekly status update
+Cc: geoff.storey@enron.com, philippe.bibi@enron.com, beth.perlman@enron.com,
+	stephen.stock@enron.com, colleen.sullivan@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: geoff.storey@enron.com, philippe.bibi@enron.com, beth.perlman@enron.com,
+	stephen.stock@enron.com, colleen.sullivan@enron.com
+X-From: Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>
+X-To: Zhiyong Wei <Zhiyong Wei/ENRON@enronXgate@ENRON>
+X-cc: Geoff Storey <Geoff Storey/HOU/ECT@ECT>, Philippe A Bibi <Philippe A Bibi/ENRON@enronXgate@ENRON>, Beth Perlman <Beth Perlman/ENRON@enronXgate@ENRON>, Stephen Stock <Stephen Stock/ENRON@enronXgate@ENRON>, Colleen Sullivan <Colleen Sullivan/HOU/ECT@ECT>
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+Who is responsible for the upgrade and do we have a plan in place to implement this?
+
+
+From:	Zhiyong Wei/ENRON@enronXgate on 04/16/2001 06:30 PM
+To:	Louise Kitchen/HOU/ECT@ECT, Geoff Storey/HOU/ECT@ECT, Philippe A Bibi/ENRON@enronXgate, Beth Perlman/ENRON@enronXgate, Stephen Stock/ENRON@enronXgate, Colleen Sullivan/HOU/ECT@ECT
+cc:	 
+
+Subject:	GTV weekly status update
+
+Please find below the GTV project status update for this week. Please see the attached file for the project timeline update in Microsoft Project.
+
+GTV status meeting attendees:  Zhiyong Wei, Karima Husain, Francis Lim, Jeremy Wong, Bill Fortney, Nayan Dattani, Dave Nommensen, Russ Severson, Narasim Kasaru, Mike Swaim, George Grant, Chuck Ames, Geof Storey.
+
+Accomplishments:
+?	Incorporating physical deal positions in TDS:
+o	Changes to CPR reader process and its unit testing have been completed.
+o	Changes for the view aggregation and its unit testing have been completed.
+o	A new task has been added due to the requirement of loading prior-day curves into Position Manager (Please see the attached project timeline.)
+o	Changes for Position Manager are in progress (Please see the attached project timeline.)
+?	Single point of deal entry for term deals:
+o	Single point of deal entry is now ready for user acceptance testing.
+?	Gas Daily deals:
+o	Changes to ERMS PortCalc application for the Gas Daily deals are complete and ready for testing.
+o	Changes to TDS deal valuation are in progress and on schedule (please see the attached project timeline.)
+o	A new task has been added to flag fixed-price positions (please see the attached project timeline.)
+?	Live feeds for Gas Daily/intra-month curves:
+o	Released to production
+
+Plans for the week ending 4/20/01:
+?	Continue IT development of Phase I items.
+?	Obtain sign-off for GTV-II, Phase 2 issues and timeline.
+?	Commence IT development of Phase 2 issues.
+
+Issues:
+Incompatibility of TIBCO version 5.x and 6.x. The single point of deal entry is done using TIBCO 6.x. Some users are still using TIBCO 5.x. Upgrading to either TIBCO 6.x or Windows 2000 is needed.
+
+ 
+Thanks
+
+Zhiyong
+
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <7619680.1075851732330.JavaMail.evans@thyme>
+Date: Tue, 13 Mar 2001 06:15:00 -0800 (PST)
+From: tammie.schoppe@enron.com
+To: geoff.storey@enron.com, colleen.sullivan@enron.com
+Subject: Bi-weekly mtg. w/Louise Kitchen
+Cc: airam.arteaga@enron.com, venita.coleman@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: airam.arteaga@enron.com, venita.coleman@enron.com
+X-From: Tammie Schoppe
+X-To: Geoff Storey, Colleen Sullivan
+X-cc: Airam Arteaga, Venita Coleman
+X-bcc: 
+X-Folder: \Geoffrey_Storey_Nov2001\Notes Folders\It
+X-Origin: STOREY-G
+X-FileName: gstorey.nsf
+
+Please plan to attend a bi-weekly meeting at the request of Louise Kitchen on 
+the following dates:
+
+3/26/01
+4/9/01
+4/23/01
+
+The meetings will take place at 9:00 a.m. in Louise's office EB3314.  The 
+subject of the meeting will be the IT Project.  Please let me know if you 
+have any conflicts.
+
+Thanks,
+
+Tammie
+x34220
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <25253317.1075851731937.JavaMail.evans@thyme>
+Date: Tue, 27 Mar 2001 02:52:00 -0800 (PST)
+From: francis.lim@enron.com
+To: geoff.storey@enron.com
+Subject: NG Curves up to 20224
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Francis S Lim
+X-To: Geoff Storey
+X-cc: 
+X-bcc: 
+X-Folder: \Geoffrey_Storey_Nov2001\Notes Folders\It
+X-Origin: STOREY-G
+X-FileName: gstorey.nsf
+
+Geoff,
+
+ Attached is yesterdays NG curves that goes out more than
+14 years. Is the curve that you talked to me about yesterday?
+If it is, this curve was entered by Dutch Quigley using curveload.
+
+
+Francis
+
+
+
+NOTES ONLY:
+the curves were generated using the query below:
+
+ select ref_period_dt,curve_amt
+ from egs_curves
+ where effective_dt = '26-mar-01'
+ and curve_cd = 'NG'
+ and curve_type_cd = 'PR'
+ order by ref_period_dt
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <11584206.1075851732125.JavaMail.evans@thyme>
+Date: Mon, 19 Mar 2001 08:07:00 -0800 (PST)
+From: louise.kitchen@enron.com
+To: geoff.storey@enron.com
+Subject: RE: GTV II
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Louise Kitchen
+X-To: Geoff Storey
+X-cc: 
+X-bcc: 
+X-Folder: \Geoffrey_Storey_Nov2001\Notes Folders\It
+X-Origin: STOREY-G
+X-FileName: gstorey.nsf
+
+Good question - I will ring you after I have spoken to her.
+
+
+
+
+Geoff Storey
+03/19/2001 04:01 PM
+To: Louise Kitchen/HOU/ECT@ECT
+cc:  
+
+Subject: RE: GTV II  
+
+I agree with your statements on phase II. I'll start working on the 
+priorities and requirements.
+
+Also, what is the status of Colleen?
+
+Geof
+
+
+
+
+
+Louise Kitchen
+03/19/2001 11:14 AM
+To: Zhiyong Wei/ENRON@enronXgate @ ENRON
+cc: Stephen Stock/ENRON@enronXgate@ENRON, Geoff Storey/HOU/ECT@ECT, Colleen 
+Sullivan/HOU/ECT@ECT, Beth Perlman/ENRON@enronXgate@ENRON, Philippe A 
+Bibi/ENRON@enronXgate@ENRON 
+Subject: RE: GTV II  
+
+Comments:
+
+Zhiyong Wei to be added to signature lists.
+Timeline to include production dates - ie include UAT and production roll-out 
+dates.
+Dependencies - where there are dependencies on other groups (any interaction 
+required with any group outside of Zheiyong's), these need to be highlighted 
+and a representative from that group needs to sign off on that portion of the 
+timeline ( a representative can not be below Director level in the 
+organiztion).
+
+There are clearly many people rolling off early in this project who can be 
+utilized for Phase II - I would suggest the specfication for Phase II is 
+completed in the very near future as the majority of the work in this is done 
+in the very short term by the developers and it moves to the test team.
+
+Please re-issue today.
+
+Louise
+
+
+
+
+From: Zhiyong Wei/ENRON@enronXgate on 03/16/2001 12:34 PM
+To: Louise Kitchen/HOU/ECT@ECT
+cc: Stephen Stock/ENRON@enronXgate, Geoff Storey/HOU/ECT@ECT, Colleen 
+Sullivan/HOU/ECT@ECT, Beth Perlman/ENRON@enronXgate, Philippe A 
+Bibi/ENRON@enronXgate 
+
+Subject: RE: GTV II
+
+Louise,
+
+Attached please find the inception document requested. I would greatly 
+appreciated your comments. I will be consulting Colleen and Geoff for any 
+necessary revision. I will be requesting signatures on Wednesday afternoon, 
+March 21.
+
+Thanks
+
+Zhiyong
+
+
+
+ -----Original Message-----
+From:  Schoppe, Tammie   On Behalf Of Kitchen, Louise
+Sent: Tuesday, March 13, 2001 4:24 PM
+To: Wei, Zhiyong
+Cc: Stock, Stephen; Storey, Geoff; Sullivan, Colleen; Perlman, Beth; Bibi, 
+Philippe A.
+Subject: GTV II
+
+I understand we have now finalized 90% requirements on the GTV II.
+
+Please could we pull together the format inception document this week for 
+signature on your meeting next week with Geof and Colleen.
+
+Document to include all requirements, dependencies and timelines.
+
+I would suggest whoever is writing this spend some time with Geof this week.
+
+Please circulate to draft all listed above including me.
+
+Thanks,
+
+Louise
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <2504142.1075851731960.JavaMail.evans@thyme>
+Date: Tue, 27 Mar 2001 01:23:00 -0800 (PST)
+From: louise.kitchen@enron.com
+To: zhiyong.wei@enron.com
+Subject: GTVII
+Cc: beth.perlman@enron.com, philippe.bibi@enron.com, geoff.storey@enron.com,
+	colleen.sullivan@enron.com, stephen.stock@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: beth.perlman@enron.com, philippe.bibi@enron.com, geoff.storey@enron.com,
+	colleen.sullivan@enron.com, stephen.stock@enron.com
+X-From: Louise Kitchen
+X-To: Zhiyong Wei
+X-cc: Beth Perlman, Philippe Bibi, Geoff Storey, Colleen Sullivan, Stephen Stock
+X-bcc: 
+X-Folder: \Geoffrey_Storey_Nov2001\Notes Folders\It
+X-Origin: STOREY-G
+X-FileName: gstorey.nsf
+
+Zhiyong
+
+Thanks for getting me the signed (so far) copy.  (Beth and Philippe, please 
+sign the document today ).  When they have signed please recirculate the 
+final signed copy to everyone.
+
+On a going forward basis, please ensure that we receive weekly progress 
+reports including any variances to timeline deliverables (hopefully these 
+will all be early deliveries!).  
+
+Secondly, please could you deliver the Inception Document for GTVII Phase II 
+by Friday April 6th.  I believe Geof is ready to sit down with you on this.
+
+All looks great so far.
+
+Any problems - just give me a ring.
+
+Thanks
+
+Louise
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <4375830.1075841597396.JavaMail.evans@thyme>
+Date: Mon, 9 Apr 2001 13:58:00 -0700 (PDT)
+From: stephanie.sever@enron.com
+To: geoff.storey@enron.com
+Subject: Intercontinental Exchange - ENA -Geoff Storey
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Stephanie Sever <Stephanie Sever/HOU/ECT@ECT>
+X-To: Geoff Storey <Geoff Storey/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+
+Geoff,
+
+Your ICE access has been completed:
+
+ log in:
+User ID: gstorey
+Password: hit7met3
+
+Please contact the ICE help desk at 770-738-2101 should you have any questions.  The answer to your secret question is ASTROS.
+
+Let me know if you have any questions.
+
+Thanks,
+Stephanie x33465
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <3669449.1075851731799.JavaMail.evans@thyme>
+Date: Fri, 6 Apr 2001 11:55:00 -0700 (PDT)
+From: zhiyong.wei@enron.com
+To: louise.kitchen@enron.com, geoff.storey@enron.com, colleen.sullivan@enron.com,
+	philippe.bibi@enron.com, beth.perlman@enron.com,
+	stephen.stock@enron.com
+Subject: Inception Document for GTV II phase II
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Zhiyong Wei
+X-To: Louise Kitchen, Geoff Storey, Colleen Sullivan, Philippe A Bibi, Beth Perlman, Stephen Stock
+X-cc: 
+X-bcc: 
+X-Folder: \Geoffrey_Storey_Nov2001\Notes Folders\It
+X-Origin: STOREY-G
+X-FileName: gstorey.nsf
+
+Attached please find the Inception Document for Gas Trading Vision II Phase 
+II. I would appreciate your comments. I will be circulating the document for 
+signatures on Wednesday. Please provide your inputs by then.
+
+Thanks
+
+Zhiyong
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <14051903.1075851731754.JavaMail.evans@thyme>
+Date: Mon, 9 Apr 2001 01:18:00 -0700 (PDT)
+From: louise.kitchen@enron.com
+To: zhiyong.wei@enron.com
+Subject: Re: Inception Document for GTV II phase II
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Louise Kitchen
+X-To: Zhiyong Wei
+X-cc: 
+X-bcc: 
+X-Folder: \Geoffrey_Storey_Nov2001\Notes Folders\It
+X-Origin: STOREY-G
+X-FileName: gstorey.nsf
+
+I think we need to get a lot closer together - I expect Geoff (and the 
+analyst working for Geoff on this) to be spending a lot more time down on the 
+IT floors.  If we integrate at a much earlier stage we might not see any 
+divergence from how Geoff sees the end result to what actually appears.
+
+Could you consider how to get your team spending much more time with Geoff - 
+I would suggest you have a daily time when you all (developers included) sit 
+down around a desk to look at progress.
+
+Let me know what you think?
+
+Louise
+
+
+From: Zhiyong Wei/ENRON@enronXgate on 04/06/2001 06:55 PM
+To: Louise Kitchen/HOU/ECT@ECT, Geoff Storey/HOU/ECT@ECT, Colleen 
+Sullivan/HOU/ECT@ECT, Philippe A Bibi/ENRON@enronXgate, Beth 
+Perlman/ENRON@enronXgate, Stephen Stock/ENRON@enronXgate
+cc:  
+
+Subject: Inception Document for GTV II phase II
+
+Attached please find the Inception Document for Gas Trading Vision II Phase 
+II. I would appreciate your comments. I will be circulating the document for 
+signatures on Wednesday. Please provide your inputs by then.
+
+Thanks
+
+Zhiyong
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <3223176.1075841597130.JavaMail.evans@thyme>
+Date: Tue, 9 Oct 2001 06:37:23 -0700 (PDT)
+From: c..gossett@enron.com
+To: zhiyong.wei@enron.com
+Subject: RE: Consolidated Gas System Document
+Cc: geoff.storey@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: geoff.storey@enron.com
+X-From: Gossett, Jeffrey C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JGOSSET>
+X-To: Wei, Zhiyong </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Zwei>
+X-cc: Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+
+Zhiyong -
+
+I have looked over the consolidated gas system inception document.  Here are a few questions/observations:
+
+1.  Value all physical deals.  Not just current month.  This will require logistics to enter all forward transport rather than just current month.  (This is not an issue,  just needs to be addressed as we go)
+
+2.  Term transport in new physical system would require spread option model to be in place.  
+
+3.  Storey -  Would all term transportation be a spread option and we would set the correlations to one if there was no optionality?
+
+4.  CPR is currently used as a back up if Sitara goes down.  What would we do if the new system goes down?
+
+5.  What is the functionality to downstream systems going to look like?  (Risktrac - V@R, credit)
+
+6.  Will calculations be performed from the same new system as Global Markets?
+
+7.  What will happen if:  There is a fixed price physical deal where the risk components are split? 
+
+Example: Price : NG-PRICE		Basis: FT-WEST		Index: INTRA-WEST
+
+
+
+
+
+
+ -----Original Message-----
+From: 	Wei, Zhiyong  
+Sent:	Monday, October 08, 2001 5:15 PM
+To:	Gossett, Jeffrey C.
+Subject:	Consolidated Gas System Document
+
+Jeff,
+
+Please see the attached file for the document of Consolidated Gas System project. I appreciated any comments.
+
+Thanks
+
+Zhiyong
+
+ << File: CGS-Statement of Work.doc >> 
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <15958960.1075845349769.JavaMail.evans@thyme>
+Date: Mon, 23 Apr 2001 14:25:57 -0700 (PDT)
+From: dave.nommensen@enron.com
+To: louise.kitchen@enron.com, geoff.storey@enron.com, a..bibi@enron.com,
+	beth.perlman@enron.com, stephen.stock@enron.com,
+	colleen.sullivan@enron.com
+Subject: GTV weekly status update
+Cc: zhiyong.wei@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: zhiyong.wei@enron.com
+X-From: Nommensen, Dave </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DNOMMEN>
+X-To: Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=e5cf97bb-467b6eef-8625687a-893a0>, Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>, Bibi, Philippe A. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pbibi>, Perlman, Beth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bperlman>, Stock, Stephen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sstock>, Sullivan, Colleen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=6e1bba0e-fff2c76b-8625654c-6c6305>
+X-cc: Wei, Zhiyong </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Zwei>
+X-bcc: 
+X-Folder: \Storey, Geoff\Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: Storey, Geoff.pst
+
+Please find below the GTV project status update for this week. Please see the attached file for the project timeline update in Microsoft Project.
+
+GTV status meeting attendees:  Dave Nommensen, Karima Husain, Francis Lim, Jeremy Wong, Bill Fortney, Nayan Dattani, Russ Severson, Narasim Kasaru, Mike Swaim, Chuck Ames, Geoff Storey, Jay Krish.
+
+Accomplishments:
+
+?	Incorporating physcial deal positions in TDS:
+o	Changes to CPR reader process & its unit testing have been completed.
+o	Loading prior-day curves into position manager - in test.
+o	Changes for the view aggregation - in development (please see the attached project timeline).
+
+?	Single point of deal entry for term deals:
+o	Single point of deal entry is now in user testing.
+
+?	Gas Daily deals:
+o	Changes to PortCalc application to create GDI calc in ERMS are complete and ready for testing.
+o	IT development items are in progress and on schedule (please see the attached project timeline).
+
+?	Live feeds for Gas Daily/intra-month curves:
+o	Development of live feeds has been completed, tested, user-approved and already in production.
+
+?	Option Grid (phase 2):
+o	Conversion from Motif into Powerbuilder has commenced.
+
+?	Gas Daily options:
+o	Changes to PortCalc application have been completed and ready for testing.
+
+Completed Inception document and timeline for GTV Phase 2
+
+Plans for the week ending 4/27/01:
+
+?	Continue IT development of Phase I items.
+?	Complete sign-off for GTV-II, Phase 2 issues and timeline.
+?	Continue IT development of Phase 2 issues.
+
+Issues / Open Items:
+
+?	Implement "Group of Groups" for Cash Positions just as they are in Position Manager.
+?	Verify with users if GDI Calc in ERMS should be done via 1 or 2 PortCalcs.
+
+ 
+
+Thanks, Dave N
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <24849079.1075841597587.JavaMail.evans@thyme>
+Date: Mon, 19 Mar 2001 20:21:00 -0800 (PST)
+From: louise.kitchen@enron.com
+To: zhiyong.wei@enron.com
+Subject: RE: GTV II
+Cc: geoff.storey@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: geoff.storey@enron.com
+X-From: Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>
+X-To: Zhiyong Wei <Zhiyong Wei/ENRON@enronXgate@ENRON>
+X-cc: Geoff Storey <Geoff Storey/HOU/ECT@ECT>
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+Excellent - please circulate for signing
+
+
+From:	Zhiyong Wei/ENRON@enronXgate on 03/19/2001 04:16 PM
+To:	Louise Kitchen/HOU/ECT@ECT
+cc:	Stephen Stock/ENRON@enronXgate, Geoff Storey/HOU/ECT@ECT, Colleen Sullivan/HOU/ECT@ECT, Beth Perlman/ENRON@enronXgate, Philippe A Bibi/ENRON@enronXgate 
+
+Subject:	RE: GTV II
+
+Please see the attached file for the revised inception document. I would appreciate any comments. We will be working on the specification of phase 2 once this document is signed off.
+
+Thanks
+
+Zhiyong
+
+
+ 
+
+ -----Original Message-----
+From: 	Kitchen, Louise  
+Sent:	Monday, March 19, 2001 11:15 AM
+To:	Wei, Zhiyong
+Cc:	Stock, Stephen; Storey, Geoff; Sullivan, Colleen; Perlman, Beth; Bibi, Philippe A.
+Subject:	RE: GTV II
+
+Comments:
+
+Zhiyong Wei to be added to signature lists.
+Timeline to include production dates - ie include UAT and production roll-out dates.
+Dependencies - where there are dependencies on other groups (any interaction required with any group outside of Zheiyong's), these need to be highlighted and a representative from that group needs to sign off on that portion of the timeline ( a representative can not be below Director level in the organiztion).
+
+There are clearly many people rolling off early in this project who can be utilized for Phase II - I would suggest the specfication for Phase II is completed in the very near future as the majority of the work in this is done in the very short term by the developers and it moves to the test team.
+
+Please re-issue today.
+
+Louise
+
+
+
+
+From:	Zhiyong Wei/ENRON@enronXgate on 03/16/2001 12:34 PM
+To:	Louise Kitchen/HOU/ECT@ECT
+cc:	Stephen Stock/ENRON@enronXgate, Geoff Storey/HOU/ECT@ECT, Colleen Sullivan/HOU/ECT@ECT, Beth Perlman/ENRON@enronXgate, Philippe A Bibi/ENRON@enronXgate 
+
+Subject:	RE: GTV II
+
+Louise,
+
+Attached please find the inception document requested. I would greatly appreciated your comments. I will be consulting Colleen and Geoff for any necessary revision. I will be requesting signatures on Wednesday afternoon, March 21.
+
+Thanks
+
+Zhiyong
+
+ << File: inception_GTV II.doc >> 
+
+ -----Original Message-----
+From: 	Schoppe, Tammie   On Behalf Of Kitchen, Louise
+Sent:	Tuesday, March 13, 2001 4:24 PM
+To:	Wei, Zhiyong
+Cc:	Stock, Stephen; Storey, Geoff; Sullivan, Colleen; Perlman, Beth; Bibi, Philippe A.
+Subject:	GTV II
+
+I understand we have now finalized 90% requirements on the GTV II.
+
+Please could we pull together the format inception document this week for signature on your meeting next week with Geof and Colleen.
+
+Document to include all requirements, dependencies and timelines.
+
+I would suggest whoever is writing this spend some time with Geof this week.
+
+Please circulate to draft all listed above including me.
+
+Thanks,
+
+Louise
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <4989363.1075841597467.JavaMail.evans@thyme>
+Date: Sun, 8 Apr 2001 21:57:00 -0700 (PDT)
+From: louise.kitchen@enron.com
+To: geoff.storey@enron.com
+Subject: Inception Document for GTV II phase II
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>
+X-To: Geoff Storey <Geoff Storey/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+I take it this is not your final document?
+---------------------- Forwarded by Louise Kitchen/HOU/ECT on 04/08/2001 06:57 PM ---------------------------
+From:	Zhiyong Wei/ENRON@enronXgate on 04/06/2001 06:55 PM
+To:	Louise Kitchen/HOU/ECT@ECT, Geoff Storey/HOU/ECT@ECT, Colleen Sullivan/HOU/ECT@ECT, Philippe A Bibi/ENRON@enronXgate, Beth Perlman/ENRON@enronXgate, Stephen Stock/ENRON@enronXgate
+cc:	 
+
+Subject:	Inception Document for GTV II phase II
+
+Attached please find the Inception Document for Gas Trading Vision II Phase II. I would appreciate your comments. I will be circulating the document for signatures on Wednesday. Please provide your inputs by then.
+
+Thanks
+
+Zhiyong
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <20737784.1075851732427.JavaMail.evans@thyme>
+Date: Thu, 8 Mar 2001 04:41:00 -0800 (PST)
+From: colleen.sullivan@enron.com
+To: zhiyong.wei@enron.com, karima.husain@enron.com, geoff.storey@enron.com
+Subject: REVISED MEETING NOTES
+Cc: stephen.stock@enron.com, jeffrey.gossett@enron.com, russ.severson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stephen.stock@enron.com, jeffrey.gossett@enron.com, russ.severson@enron.com
+X-From: Colleen Sullivan
+X-To: Zhiyong Wei, Karima Husain, Geoff Storey
+X-cc: Stephen Stock, Jeffrey C Gossett, Russ Severson
+X-bcc: 
+X-Folder: \Geoffrey_Storey_Nov2001\Notes Folders\It
+X-Origin: STOREY-G
+X-FileName: gstorey.nsf
+
+Please see the attached revision to the meeting notes.  You will see the 
+change indicated in RED under Issue #2, Gas Daily.  We want to put this item 
+on HOLD for now because there are more implications to this change that we 
+need to resolve before coding begins.  The focus for now should be on putting 
+physical positions in TDS--identifying all issues associated with it, resolve 
+questions on where/how to get the position data, what should be filtered, 
+design of the new screens, etc.  
+
+Also, for your information--from now on we will be including Jeff Gossett and 
+Russ Severson in our weekly meetings as I believe they can help tremendously 
+with position reporting and how we currently get information from Sitara, 
+CPR, ERMS & TAGG.  I will send you all an e-mail on Monday letting you know 
+the time and place of next week's meeting.  Normally I want to hold the 
+meetings on Wednesday afternoons; however--next week I may have to move it to 
+Tuesday.  I will let you know first thing Monday morning.  Let me know if you 
+have any questions or concerns.
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <5085432.1075845349104.JavaMail.evans@thyme>
+Date: Thu, 29 Mar 2001 14:17:00 -0800 (PST)
+From: zhiyong.wei@enron.com
+To: geoff.storey@enron.com
+Subject: FW: GTV weekly status meeting
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Zhiyong Wei <Zhiyong Wei/ENRON@enronXgate>
+X-To: Geoff Storey <Geoff Storey/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \Storey, Geoff\Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: Storey, Geoff.pst
+
+	INVITATION
+
+Chairperson:	Zhiyong Wei
+
+Invitees:
+	Geoff Storey
+
+
+Date:		3/26/2001
+Time:		2:00 PM - 3:00 PM (Central Standard Time)
+Room:		EB2601@ECT
+
+Description:
+	GTV weekly status meeting
+
+Detailed Description:
+
+Geof,
+
+Please join us to the GTV weekly status meeting on Mondays. The meeting is held in room 2601 from 2:00 pm to 3:00 pm.
+
+Thanks
+
+Zhiyong
+
+ -----Original Appointment-----
+From: 	Wei, Zhiyong  
+Sent:	Friday, March 23, 2001 2:23 PM
+To:	Krishnaswamy, Jayant; Husain, Karima; Wong, Jeremy; Lim, Francis S.; Fortney, Bill; Swaim, Michael; Dattani, Nayan; Nommensen, Dave; Kasaru, Narasim; Severson, Russ; Grant, George
+Subject:	GTV weekly status meeting
+When:	Occurs every Monday effective 3/26/2001 from 2:00 PM to 3:00 PM (GMT-06:00) Central Time (US & Canada).
+Where:	EB2601
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <25772320.1075845349247.JavaMail.evans@thyme>
+Date: Thu, 22 Mar 2001 11:48:00 -0800 (PST)
+From: zhiyong.wei@enron.com
+To: geoff.storey@enron.com
+Subject: RE: V3
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Zhiyong Wei <Zhiyong Wei/ENRON@enronXgate@ENRON>
+X-To: Geoff Storey <Geoff Storey/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \Storey, Geoff\Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: Storey, Geoff.pst
+
+Geoff,
+
+How about 4:00 pm today?
+
+Zhiyong
+
+ -----Original Message-----
+From: 	Storey, Geoff  
+Sent:	Thursday, March 22, 2001 8:15 AM
+To:	Wei, Zhiyong
+Subject:	V3
+
+We need to have a meeting regarding version 3.
+
+Let me know when you have time? 
+I dont want a 10 person meeting. Just you and myself.
+
+geof
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <2441144.1075851732171.JavaMail.evans@thyme>
+Date: Mon, 19 Mar 2001 04:36:00 -0800 (PST)
+From: zhiyong.wei@enron.com
+To: jeffrey.gossett@enron.com, geoff.storey@enron.com, russ.severson@enron.com,
+	karima.husain@enron.com
+Subject: UAT and production roll-out timeline estimate for GTV II
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Zhiyong Wei
+X-To: Jeffrey C Gossett, Geoff Storey, Russ Severson, Karima Husain
+X-cc: 
+X-bcc: 
+X-Folder: \Geoffrey_Storey_Nov2001\Notes Folders\It
+X-Origin: STOREY-G
+X-FileName: gstorey.nsf
+
+When: Monday, March 19, 2001 1:00 PM-1:30 PM (GMT-06:00) Central Time (US & 
+Canada).
+Where: EB3267
+
+*~*~*~*~*~*~*~*~*~*
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <19079569.1075841596954.JavaMail.evans@thyme>
+Date: Fri, 19 Oct 2001 14:25:33 -0700 (PDT)
+From: zhiyong.wei@enron.com
+To: louise.kitchen@enron.com, geoff.storey@enron.com
+Subject: Statement Of Work for Consolidated Gas System (Physical)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Wei, Zhiyong </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ZWEI>
+X-To: Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkitchen>, Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+Louise and Geoff,
+
+Please find the attached file for the latest Statement Of Work for the Consolidated Gas System project. I have only revised the Estimated Costs section to match the final budget for the project next year. The preliminary work done this year will be charged to some existing projects. This is the Statement Of Work for the phase 1 (physical) of the project. The Statement Of Work of the phase 2 (financial) will be delivered in a few weeks. Please review the document. I would like to request your signature some time next week.
+
+Thanks
+
+Zhiyong
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <446862.1075841597249.JavaMail.evans@thyme>
+Date: Thu, 5 Jul 2001 15:33:57 -0700 (PDT)
+From: zhiyong.wei@enron.com
+To: geoff.storey@enron.com
+Subject: Requirements for the new flexible position manager
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Wei, Zhiyong </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ZWEI>
+X-To: Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+Geof,
+
+Per our conversation, would you please provide us with the followings?
+
+Criteria to filter deals. In other words, individual field names that are used to filter deals and features with those fields.
+Do you want to see daily position beyond the next day?
+How do we handle Gas Daily deals?
+
+Thanks
+
+Zhiyong
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <1862175.1075841597563.JavaMail.evans@thyme>
+Date: Tue, 27 Mar 2001 12:23:00 -0800 (PST)
+From: louise.kitchen@enron.com
+To: zhiyong.wei@enron.com
+Subject: GTVII
+Cc: beth.perlman@enron.com, philippe.bibi@enron.com, geoff.storey@enron.com,
+	colleen.sullivan@enron.com, stephen.stock@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: beth.perlman@enron.com, philippe.bibi@enron.com, geoff.storey@enron.com,
+	colleen.sullivan@enron.com, stephen.stock@enron.com
+X-From: Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>
+X-To: Zhiyong Wei <Zhiyong Wei/Enron@EnronXGate>
+X-cc: Beth Perlman <Beth Perlman/enron@EnronXgate>, Philippe A Bibi <Philippe A Bibi/HOU/ECT@ECT>, Geoff Storey <Geoff Storey/HOU/ECT@ECT>, Colleen Sullivan <Colleen Sullivan/HOU/ECT@ECT>, Stephen Stock <Stephen Stock/Enron@EnronXGate>
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+Zhiyong
+
+Thanks for getting me the signed (so far) copy.  (Beth and Philippe, please sign the document today ).  When they have signed please recirculate the final signed copy to everyone.
+
+On a going forward basis, please ensure that we receive weekly progress reports including any variances to timeline deliverables (hopefully these will all be early deliveries!).  
+
+Secondly, please could you deliver the Inception Document for GTVII Phase II by Friday April 6th.  I believe Geof is ready to sit down with you on this.
+
+All looks great so far.
+
+Any problems - just give me a ring.
+
+Thanks
+
+Louise
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <5877391.1075841597003.JavaMail.evans@thyme>
+Date: Fri, 12 Oct 2001 13:37:14 -0700 (PDT)
+From: zhiyong.wei@enron.com
+To: stephen.stock@enron.com, geoff.storey@enron.com
+Subject: Gas System Budget
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Wei, Zhiyong </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ZWEI>
+X-To: Stock, Stephen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sstock>, Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+When: Monday, October 15, 2001 3:00 PM-4:00 PM (GMT-06:00) Central Time (US & Canada).
+Where: EB 2528
+
+*~*~*~*~*~*~*~*~*~*
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <26822735.1075841597420.JavaMail.evans@thyme>
+Date: Mon, 9 Apr 2001 12:44:00 -0700 (PDT)
+From: louise.kitchen@enron.com
+To: geoff.storey@enron.com
+Subject: RE: Inception Document for GTV II phase II
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>
+X-To: Geoff Storey <Geoff Storey/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+
+---------------------- Forwarded by Louise Kitchen/HOU/ECT on 04/09/2001 09:44 AM ---------------------------
+From:	Zhiyong Wei/ENRON@enronXgate on 04/09/2001 09:14 AM
+To:	Louise Kitchen/HOU/ECT@ECT
+cc:	 
+
+Subject:	RE: Inception Document for GTV II phase II
+
+Louise,
+
+Thank you for your suggestion. I agree that it is critical for us to get feedbacks from Geof as early as possible. For instance, Geof suggested some changes to the design last Friday. The suggestion requires some re-work on the user interface and some changes in the daily risk management process.
+
+I love to have the team meet Geof daily. I will check with Geof for his availability.
+
+Thanks
+
+Zhiyong
+
+ -----Original Message-----
+From: 	Kitchen, Louise  
+Sent:	Monday, April 09, 2001 8:18 AM
+To:	Wei, Zhiyong
+Subject:	Re: Inception Document for GTV II phase II
+
+I think we need to get a lot closer together - I expect Geoff (and the analyst working for Geoff on this) to be spending a lot more time down on the IT floors.  If we integrate at a much earlier stage we might not see any divergence from how Geoff sees the end result to what actually appears.
+
+Could you consider how to get your team spending much more time with Geoff - I would suggest you have a daily time when you all (developers included) sit down around a desk to look at progress.
+
+Let me know what you think?
+
+Louise
+
+
+From:	Zhiyong Wei/ENRON@enronXgate on 04/06/2001 06:55 PM
+To:	Louise Kitchen/HOU/ECT@ECT, Geoff Storey/HOU/ECT@ECT, Colleen Sullivan/HOU/ECT@ECT, Philippe A Bibi/ENRON@enronXgate, Beth Perlman/ENRON@enronXgate, Stephen Stock/ENRON@enronXgate
+cc:	 
+
+Subject:	Inception Document for GTV II phase II
+
+Attached please find the Inception Document for Gas Trading Vision II Phase II. I would appreciate your comments. I will be circulating the document for signatures on Wednesday. Please provide your inputs by then.
+
+Thanks
+
+Zhiyong
+
+ << File: inception_GTV II phase 2.doc >> 
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <24175432.1075841596978.JavaMail.evans@thyme>
+Date: Mon, 15 Oct 2001 14:47:16 -0700 (PDT)
+From: j..yanowski@enron.com
+To: geoff.storey@enron.com
+Subject: IT Commercial Coordination Budget
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Yanowski, Tommy J. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=TYANOWS>
+X-To: Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+Geoff:  I understand that I need to get with you to approve the portion of my budget that is allocated the Enron America's.  Currently  $  299,871 is budgeted for allocation to EA.  My group coordinates JV activities as well as conducting due diligence on IT areas related to aquisitions and divestitures.  The amount budgeted above is for the following known projects:
+
+		Coordination and Operations under the Bridgeline IT Services Agreement
+		Due Diligence related to Project Sugarcane and how we may monetize our investment in Bridgeline
+
+In 2002 ENA will bill Bridgeline $1,250,000 for IT Services.  Since Chevron/Texaco covers 60% of the bill ENA will net $750,000 in revenue for the services coordinated by my group.  
+
+Let me know if you'd like to get together and discuss this in any detail.
+
+Tommy Yanowski  x36858.
+		
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <1231833.1075845349270.JavaMail.evans@thyme>
+Date: Wed, 21 Mar 2001 09:59:00 -0800 (PST)
+From: gstorey_71@yahoo.com
+To: gstorey@enron.com
+Subject: 
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Storey Geof  <gstorey_71@yahoo.com>
+X-To: gstorey <gstorey@enron.com>
+X-cc: 
+X-bcc: 
+X-Folder: \Storey, Geoff\Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: Storey, Geoff.pst
+
+
+
+
+__________________________________________________
+Do You Yahoo!?
+Get email at your own domain with Yahoo! Mail. 
+http://personal.mail.yahoo.com/
+ - IT hell 2.doc 
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <20118680.1075841597665.JavaMail.evans@thyme>
+Date: Mon, 19 Mar 2001 14:14:00 -0800 (PST)
+From: louise.kitchen@enron.com
+To: zhiyong.wei@enron.com
+Subject: RE: GTV II
+Cc: stephen.stock@enron.com, geoff.storey@enron.com, colleen.sullivan@enron.com,
+	beth.perlman@enron.com, philippe.bibi@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stephen.stock@enron.com, geoff.storey@enron.com, colleen.sullivan@enron.com,
+	beth.perlman@enron.com, philippe.bibi@enron.com
+X-From: Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>
+X-To: Zhiyong Wei <Zhiyong Wei/ENRON@enronXgate@ENRON>
+X-cc: Stephen Stock <Stephen Stock/ENRON@enronXgate@ENRON>, Geoff Storey <Geoff Storey/HOU/ECT@ECT>, Colleen Sullivan <Colleen Sullivan/HOU/ECT@ECT>, Beth Perlman <Beth Perlman/ENRON@enronXgate@ENRON>, Philippe A Bibi <Philippe A Bibi/ENRON@enronXgate@ENRON>
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+Comments:
+
+Zhiyong Wei to be added to signature lists.
+Timeline to include production dates - ie include UAT and production roll-out dates.
+Dependencies - where there are dependencies on other groups (any interaction required with any group outside of Zheiyong's), these need to be highlighted and a representative from that group needs to sign off on that portion of the timeline ( a representative can not be below Director level in the organiztion).
+
+There are clearly many people rolling off early in this project who can be utilized for Phase II - I would suggest the specfication for Phase II is completed in the very near future as the majority of the work in this is done in the very short term by the developers and it moves to the test team.
+
+Please re-issue today.
+
+Louise
+
+
+
+
+From:	Zhiyong Wei/ENRON@enronXgate on 03/16/2001 12:34 PM
+To:	Louise Kitchen/HOU/ECT@ECT
+cc:	Stephen Stock/ENRON@enronXgate, Geoff Storey/HOU/ECT@ECT, Colleen Sullivan/HOU/ECT@ECT, Beth Perlman/ENRON@enronXgate, Philippe A Bibi/ENRON@enronXgate 
+
+Subject:	RE: GTV II
+
+Louise,
+
+Attached please find the inception document requested. I would greatly appreciated your comments. I will be consulting Colleen and Geoff for any necessary revision. I will be requesting signatures on Wednesday afternoon, March 21.
+
+Thanks
+
+Zhiyong
+
+ 
+
+ -----Original Message-----
+From: 	Schoppe, Tammie   On Behalf Of Kitchen, Louise
+Sent:	Tuesday, March 13, 2001 4:24 PM
+To:	Wei, Zhiyong
+Cc:	Stock, Stephen; Storey, Geoff; Sullivan, Colleen; Perlman, Beth; Bibi, Philippe A.
+Subject:	GTV II
+
+I understand we have now finalized 90% requirements on the GTV II.
+
+Please could we pull together the format inception document this week for signature on your meeting next week with Geof and Colleen.
+
+Document to include all requirements, dependencies and timelines.
+
+I would suggest whoever is writing this spend some time with Geof this week.
+
+Please circulate to draft all listed above including me.
+
+Thanks,
+
+Louise
+
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <22702151.1075851732307.JavaMail.evans@thyme>
+Date: Wed, 14 Mar 2001 09:01:00 -0800 (PST)
+From: russ.severson@enron.com
+To: jeffrey.gossett@enron.com
+Subject: TDS Changes Going into Production Thursday
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Russ Severson
+X-To: Jeffrey C Gossett
+X-cc: 
+X-bcc: 
+X-Folder: \Geoffrey_Storey_Nov2001\Notes Folders\It
+X-Origin: STOREY-G
+X-FileName: gstorey.nsf
+
+TDSDealTicker
+? The Sitara deal Id will show for non EOL deals entered into Sitara
+
+TDS Position Manager
+? Groups of groups are supported when defining curve groupings.
+? New filters have been added to the Position Manager to allow viewing the 
+positions associated with "Changed" & "New & Changed" Positions. When looking 
+at the positions with the changed filter set, the net change in the position 
+from the official PortCalc is reported.
+? When viewing "New" or "All" deals in the Position Manager right-clicking 
+the mouse over a position for a specific period provides a menu option to 
+view the deals behind that position.  This feature is not available when 
+viewing a roll-up desk (i.e. ALL-WEST, ALL-EAST, etc.)
+
+
+If you have any questions or concerns, please call Russ Severson (713) 853 
+-7386
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <13293628.1075845349477.JavaMail.evans@thyme>
+Date: Tue, 17 Apr 2001 18:00:00 -0700 (PDT)
+From: stephen.stock@enron.com
+To: louise.kitchen@enron.com
+Subject: RE: GTV weekly status update
+Cc: richard.burchfield@enron.com, geoff.storey@enron.com, beth.perlman@enron.com,
+	colleen.sullivan@enron.com, philippe.bibi@enron.com,
+	zhiyong.wei@enron.com, dave.nommensen@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: richard.burchfield@enron.com, geoff.storey@enron.com, beth.perlman@enron.com,
+	colleen.sullivan@enron.com, philippe.bibi@enron.com,
+	zhiyong.wei@enron.com, dave.nommensen@enron.com
+X-From: Stephen Stock <Stephen Stock/ENRON@enronXgate@ENRON>
+X-To: Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>
+X-cc: Richard Burchfield <Richard Burchfield/ENRON@enronXgate>, Geoff Storey <Geoff Storey/HOU/ECT@ECT>, Beth Perlman <Beth Perlman/ENRON@enronXgate>, Colleen Sullivan <Colleen Sullivan/HOU/ECT@ECT>, Philippe A Bibi <Philippe A Bibi/ENRON@enronXgate>, Zhiyong Wei <Zhiyong Wei/ENRON@enronXgate>, Dave Nommensen <Dave Nommensen/ENRON@enronXgate>
+X-bcc: 
+X-Folder: \Storey, Geoff\Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: Storey, Geoff.pst
+
+Louise,
+
+attached is a plan for the roll-out of Windows 2000 for the trading groups for which TIBCO 6.x has been scripted.
+
+ 
+Richard Burchfield and I are currently investigating the state of TIBCO 5.x on the Windows NT 4.0 plaftorm that is still being used, and will get back to you when we have determined if the TIBCO 6.x solution can be incorprated into a script before the actual roll-out of Win2k.
+
+regards
+
+Steve
+
+ -----Original Message-----
+From: 	Kitchen, Louise  
+Sent:	Tuesday, April 17, 2001 11:47 AM
+To:	Wei, Zhiyong
+Cc:	Storey, Geoff; Bibi, Philippe A.; Perlman, Beth; Stock, Stephen; Sullivan, Colleen
+Subject:	Re: GTV weekly status update
+
+Who is responsible for the upgrade and do we have a plan in place to implement this?
+
+
+From:	Zhiyong Wei/ENRON@enronXgate on 04/16/2001 06:30 PM
+To:	Louise Kitchen/HOU/ECT@ECT, Geoff Storey/HOU/ECT@ECT, Philippe A Bibi/ENRON@enronXgate, Beth Perlman/ENRON@enronXgate, Stephen Stock/ENRON@enronXgate, Colleen Sullivan/HOU/ECT@ECT
+cc:	 
+
+Subject:	GTV weekly status update
+
+Please find below the GTV project status update for this week. Please see the attached file for the project timeline update in Microsoft Project.
+
+GTV status meeting attendees:  Zhiyong Wei, Karima Husain, Francis Lim, Jeremy Wong, Bill Fortney, Nayan Dattani, Dave Nommensen, Russ Severson, Narasim Kasaru, Mike Swaim, George Grant, Chuck Ames, Geof Storey.
+
+Accomplishments:
+?	Incorporating physical deal positions in TDS:
+o	Changes to CPR reader process and its unit testing have been completed.
+o	Changes for the view aggregation and its unit testing have been completed.
+o	A new task has been added due to the requirement of loading prior-day curves into Position Manager (Please see the attached project timeline.)
+o	Changes for Position Manager are in progress (Please see the attached project timeline.)
+?	Single point of deal entry for term deals:
+o	Single point of deal entry is now ready for user acceptance testing.
+?	Gas Daily deals:
+o	Changes to ERMS PortCalc application for the Gas Daily deals are complete and ready for testing.
+o	Changes to TDS deal valuation are in progress and on schedule (please see the attached project timeline.)
+o	A new task has been added to flag fixed-price positions (please see the attached project timeline.)
+?	Live feeds for Gas Daily/intra-month curves:
+o	Released to production
+
+Plans for the week ending 4/20/01:
+?	Continue IT development of Phase I items.
+?	Obtain sign-off for GTV-II, Phase 2 issues and timeline.
+?	Commence IT development of Phase 2 issues.
+
+Issues:
+Incompatibility of TIBCO version 5.x and 6.x. The single point of deal entry is done using TIBCO 6.x. Some users are still using TIBCO 5.x. Upgrading to either TIBCO 6.x or Windows 2000 is needed.
+
+ << File: GTV2 4-16-01.mpp >> 
+Thanks
+
+Zhiyong
+
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <6392986.1075851732006.JavaMail.evans@thyme>
+Date: Thu, 22 Mar 2001 00:48:00 -0800 (PST)
+From: zhiyong.wei@enron.com
+To: geoff.storey@enron.com
+Subject: RE: V3
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Zhiyong Wei
+X-To: Geoff Storey
+X-cc: 
+X-bcc: 
+X-Folder: \Geoffrey_Storey_Nov2001\Notes Folders\It
+X-Origin: STOREY-G
+X-FileName: gstorey.nsf
+
+Geoff,
+
+How about 4:00 pm today?
+
+Zhiyong
+
+ -----Original Message-----
+From:  Storey, Geoff  
+Sent: Thursday, March 22, 2001 8:15 AM
+To: Wei, Zhiyong
+Subject: V3
+
+We need to have a meeting regarding version 3.
+
+Let me know when you have time? 
+I dont want a 10 person meeting. Just you and myself.
+
+geof
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <31377636.1075845349696.JavaMail.evans@thyme>
+Date: Thu, 19 Apr 2001 09:57:27 -0700 (PDT)
+From: zhiyong.wei@enron.com
+To: louise.kitchen@enron.com
+Subject: Reminder of my vacation
+Cc: stephen.stock@enron.com, geoff.storey@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stephen.stock@enron.com, geoff.storey@enron.com
+X-From: Wei, Zhiyong </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ZWEI>
+X-To: Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=e5cf97bb-467b6eef-8625687a-893a0>
+X-cc: Stock, Stephen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sstock>, Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>
+X-bcc: 
+X-Folder: \Storey, Geoff\Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: Storey, Geoff.pst
+
+Louise,
+
+I would like to remind you of my taking vacation from April 23 to May 11. In my absence, Dave Nommensen will be the point of contact for the GTV project.
+
+Regards
+
+Zhiyong
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <13377476.1075841597324.JavaMail.evans@thyme>
+Date: Tue, 17 Apr 2001 16:50:00 -0700 (PDT)
+From: louise.kitchen@enron.com
+To: zhiyong.wei@enron.com, geoff.storey@enron.com
+Subject: Re: GTV weekly status update
+Cc: philippe.bibi@enron.com, beth.perlman@enron.com, stephen.stock@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: philippe.bibi@enron.com, beth.perlman@enron.com, stephen.stock@enron.com
+X-From: Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>
+X-To: Zhiyong Wei <Zhiyong Wei/ENRON@enronXgate@ENRON>, Geoff Storey <Geoff Storey/HOU/ECT@ECT>
+X-cc: Philippe A Bibi <Philippe A Bibi/ENRON@enronXgate@ENRON>, Beth Perlman <Beth Perlman/ENRON@enronXgate@ENRON>, Stephen Stock <Stephen Stock/ENRON@enronXgate@ENRON>
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+I'm a bit confused - I think that the current document distributed for circulation is too small.  I would suggest this be abandonned and a next draft produced which includes the following.
+
+Single Deal entry revisions
+Options reports
+Transport Valuation in ERMS
+EOL reporting tools (possible)
+
+I would like to see Phase II include the items above and an Inception document re-issued this week.
+
+Thanks
+
+Louise
+
+
+From:	Zhiyong Wei/ENRON@enronXgate on 04/16/2001 06:30 PM
+To:	Louise Kitchen/HOU/ECT@ECT, Geoff Storey/HOU/ECT@ECT, Philippe A Bibi/ENRON@enronXgate, Beth Perlman/ENRON@enronXgate, Stephen Stock/ENRON@enronXgate, Colleen Sullivan/HOU/ECT@ECT
+cc:	 
+
+Subject:	GTV weekly status update
+
+Please find below the GTV project status update for this week. Please see the attached file for the project timeline update in Microsoft Project.
+
+GTV status meeting attendees:  Zhiyong Wei, Karima Husain, Francis Lim, Jeremy Wong, Bill Fortney, Nayan Dattani, Dave Nommensen, Russ Severson, Narasim Kasaru, Mike Swaim, George Grant, Chuck Ames, Geof Storey.
+
+Accomplishments:
+?	Incorporating physical deal positions in TDS:
+o	Changes to CPR reader process and its unit testing have been completed.
+o	Changes for the view aggregation and its unit testing have been completed.
+o	A new task has been added due to the requirement of loading prior-day curves into Position Manager (Please see the attached project timeline.)
+o	Changes for Position Manager are in progress (Please see the attached project timeline.)
+?	Single point of deal entry for term deals:
+o	Single point of deal entry is now ready for user acceptance testing.
+?	Gas Daily deals:
+o	Changes to ERMS PortCalc application for the Gas Daily deals are complete and ready for testing.
+o	Changes to TDS deal valuation are in progress and on schedule (please see the attached project timeline.)
+o	A new task has been added to flag fixed-price positions (please see the attached project timeline.)
+?	Live feeds for Gas Daily/intra-month curves:
+o	Released to production
+
+Plans for the week ending 4/20/01:
+?	Continue IT development of Phase I items.
+?	Obtain sign-off for GTV-II, Phase 2 issues and timeline.
+?	Commence IT development of Phase 2 issues.
+
+Issues:
+Incompatibility of TIBCO version 5.x and 6.x. The single point of deal entry is done using TIBCO 6.x. Some users are still using TIBCO 5.x. Upgrading to either TIBCO 6.x or Windows 2000 is needed.
+
+ 
+Thanks
+
+Zhiyong
+
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <14513406.1075851732073.JavaMail.evans@thyme>
+Date: Mon, 19 Mar 2001 09:21:00 -0800 (PST)
+From: louise.kitchen@enron.com
+To: zhiyong.wei@enron.com
+Subject: RE: GTV II
+Cc: geoff.storey@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: geoff.storey@enron.com
+X-From: Louise Kitchen
+X-To: Zhiyong Wei
+X-cc: Geoff Storey
+X-bcc: 
+X-Folder: \Geoffrey_Storey_Nov2001\Notes Folders\It
+X-Origin: STOREY-G
+X-FileName: gstorey.nsf
+
+Excellent - please circulate for signing
+
+
+From: Zhiyong Wei/ENRON@enronXgate on 03/19/2001 04:16 PM
+To: Louise Kitchen/HOU/ECT@ECT
+cc: Stephen Stock/ENRON@enronXgate, Geoff Storey/HOU/ECT@ECT, Colleen 
+Sullivan/HOU/ECT@ECT, Beth Perlman/ENRON@enronXgate, Philippe A 
+Bibi/ENRON@enronXgate 
+
+Subject: RE: GTV II
+
+Please see the attached file for the revised inception document. I would 
+appreciate any comments. We will be working on the specification of phase 2 
+once this document is signed off.
+
+Thanks
+
+Zhiyong
+
+
+
+
+ -----Original Message-----
+From:  Kitchen, Louise  
+Sent: Monday, March 19, 2001 11:15 AM
+To: Wei, Zhiyong
+Cc: Stock, Stephen; Storey, Geoff; Sullivan, Colleen; Perlman, Beth; Bibi, 
+Philippe A.
+Subject: RE: GTV II
+
+Comments:
+
+Zhiyong Wei to be added to signature lists.
+Timeline to include production dates - ie include UAT and production roll-out 
+dates.
+Dependencies - where there are dependencies on other groups (any interaction 
+required with any group outside of Zheiyong's), these need to be highlighted 
+and a representative from that group needs to sign off on that portion of the 
+timeline ( a representative can not be below Director level in the 
+organiztion).
+
+There are clearly many people rolling off early in this project who can be 
+utilized for Phase II - I would suggest the specfication for Phase II is 
+completed in the very near future as the majority of the work in this is done 
+in the very short term by the developers and it moves to the test team.
+
+Please re-issue today.
+
+Louise
+
+
+
+
+From: Zhiyong Wei/ENRON@enronXgate on 03/16/2001 12:34 PM
+To: Louise Kitchen/HOU/ECT@ECT
+cc: Stephen Stock/ENRON@enronXgate, Geoff Storey/HOU/ECT@ECT, Colleen 
+Sullivan/HOU/ECT@ECT, Beth Perlman/ENRON@enronXgate, Philippe A 
+Bibi/ENRON@enronXgate 
+
+Subject: RE: GTV II
+
+Louise,
+
+Attached please find the inception document requested. I would greatly 
+appreciated your comments. I will be consulting Colleen and Geoff for any 
+necessary revision. I will be requesting signatures on Wednesday afternoon, 
+March 21.
+
+Thanks
+
+Zhiyong
+
+ << File: inception_GTV II.doc >> 
+
+ -----Original Message-----
+From:  Schoppe, Tammie   On Behalf Of Kitchen, Louise
+Sent: Tuesday, March 13, 2001 4:24 PM
+To: Wei, Zhiyong
+Cc: Stock, Stephen; Storey, Geoff; Sullivan, Colleen; Perlman, Beth; Bibi, 
+Philippe A.
+Subject: GTV II
+
+I understand we have now finalized 90% requirements on the GTV II.
+
+Please could we pull together the format inception document this week for 
+signature on your meeting next week with Geof and Colleen.
+
+Document to include all requirements, dependencies and timelines.
+
+I would suggest whoever is writing this spend some time with Geof this week.
+
+Please circulate to draft all listed above including me.
+
+Thanks,
+
+Louise
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <10226795.1075845349745.JavaMail.evans@thyme>
+Date: Fri, 20 Apr 2001 18:27:12 -0700 (PDT)
+From: zhiyong.wei@enron.com
+To: louise.kitchen@enron.com
+Subject: RE: GTV weekly status update
+Cc: geoff.storey@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: geoff.storey@enron.com
+X-From: Wei, Zhiyong </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ZWEI>
+X-To: Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=e5cf97bb-467b6eef-8625687a-893a0>
+X-cc: Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>
+X-bcc: 
+X-Folder: \Storey, Geoff\Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: Storey, Geoff.pst
+
+Louise,
+
+I have just sent you the revised Inception Document including three additional items: Single deal entry revisions, Options reports, and Transport valuation in ERMS. After discussing with Geof, we decided not to include the EOL reporting tools this time. Hopefully, you are OK with that. Please let us know if the EOL reporting tools have to be discussed in the document.
+
+Regards.
+
+Zhiyong
+
+ -----Original Message-----
+From: 	Kitchen, Louise  
+Sent:	Tuesday, April 17, 2001 1:50 PM
+To:	Wei, Zhiyong; Storey, Geoff
+Cc:	Bibi, Philippe A.; Perlman, Beth; Stock, Stephen
+Subject:	Re: GTV weekly status update
+
+I'm a bit confused - I think that the current document distributed for circulation is too small.  I would suggest this be abandonned and a next draft produced which includes the following.
+
+Single Deal entry revisions
+Options reports
+Transport Valuation in ERMS
+EOL reporting tools (possible)
+
+I would like to see Phase II include the items above and an Inception document re-issued this week.
+
+Thanks
+
+Louise
+
+
+From:	Zhiyong Wei/ENRON@enronXgate on 04/16/2001 06:30 PM
+To:	Louise Kitchen/HOU/ECT@ECT, Geoff Storey/HOU/ECT@ECT, Philippe A Bibi/ENRON@enronXgate, Beth Perlman/ENRON@enronXgate, Stephen Stock/ENRON@enronXgate, Colleen Sullivan/HOU/ECT@ECT
+cc:	 
+
+Subject:	GTV weekly status update
+
+Please find below the GTV project status update for this week. Please see the attached file for the project timeline update in Microsoft Project.
+
+GTV status meeting attendees:  Zhiyong Wei, Karima Husain, Francis Lim, Jeremy Wong, Bill Fortney, Nayan Dattani, Dave Nommensen, Russ Severson, Narasim Kasaru, Mike Swaim, George Grant, Chuck Ames, Geof Storey.
+
+Accomplishments:
+?	Incorporating physical deal positions in TDS:
+o	Changes to CPR reader process and its unit testing have been completed.
+o	Changes for the view aggregation and its unit testing have been completed.
+o	A new task has been added due to the requirement of loading prior-day curves into Position Manager (Please see the attached project timeline.)
+o	Changes for Position Manager are in progress (Please see the attached project timeline.)
+?	Single point of deal entry for term deals:
+o	Single point of deal entry is now ready for user acceptance testing.
+?	Gas Daily deals:
+o	Changes to ERMS PortCalc application for the Gas Daily deals are complete and ready for testing.
+o	Changes to TDS deal valuation are in progress and on schedule (please see the attached project timeline.)
+o	A new task has been added to flag fixed-price positions (please see the attached project timeline.)
+?	Live feeds for Gas Daily/intra-month curves:
+o	Released to production
+
+Plans for the week ending 4/20/01:
+?	Continue IT development of Phase I items.
+?	Obtain sign-off for GTV-II, Phase 2 issues and timeline.
+?	Commence IT development of Phase 2 issues.
+
+Issues:
+Incompatibility of TIBCO version 5.x and 6.x. The single point of deal entry is done using TIBCO 6.x. Some users are still using TIBCO 5.x. Upgrading to either TIBCO 6.x or Windows 2000 is needed.
+
+ << File: GTV2 4-16-01.mpp >> 
+Thanks
+
+Zhiyong
+
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <13593962.1075845349054.JavaMail.evans@thyme>
+Date: Wed, 4 Apr 2001 12:38:00 -0700 (PDT)
+From: dave.nommensen@enron.com
+To: geoff.storey@enron.com, chuck.ames@enron.com
+Subject: access to TDS Parallel environment
+Cc: zhiyong.wei@enron.com, russ.severson@enron.com, bill.fortney@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: zhiyong.wei@enron.com, russ.severson@enron.com, bill.fortney@enron.com
+X-From: Dave Nommensen <Dave Nommensen/ENRON@enronXgate@ENRON>
+X-To: Geoff Storey <Geoff Storey/HOU/ECT@ECT>, Chuck Ames <Chuck Ames/NA/Enron@Enron>
+X-cc: Zhiyong Wei <Zhiyong Wei/ENRON@enronXgate>, Russ Severson <Russ Severson/HOU/ECT@ECT>, Bill Fortney <Bill Fortney/ENRON@enronXgate>
+X-bcc: 
+X-Folder: \Storey, Geoff\Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: Storey, Geoff.pst
+
+Geoff and Chuck,
+
+I have submitted an e-request for each of you to have access to the TDS Parallel environment.
+Once this is complete, one of us will help you create a shortcut on your PC desktop to run it.
+You should not need any additional access; you will use your existing TDS production id and password.
+
+Thanks, d.n.
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <10600973.1075851732241.JavaMail.evans@thyme>
+Date: Thu, 15 Mar 2001 06:53:00 -0800 (PST)
+From: karima.husain@enron.com
+To: geoff.storey@enron.com
+Subject: RE: new version, incl. P&L
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Karima Husain
+X-To: Geoff Storey
+X-cc: 
+X-bcc: 
+X-Folder: \Geoffrey_Storey_Nov2001\Notes Folders\It
+X-Origin: STOREY-G
+X-FileName: gstorey.nsf
+
+Thanks Geoff.
+
+ -----Original Message-----
+From:  Storey, Geoff  
+Sent: Thursday, March 15, 2001 1:58 PM
+To: Husain, Karima
+Subject: new version, incl. P&L
+
+ << File: tds.xls >> 
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <29385903.1075845349818.JavaMail.evans@thyme>
+Date: Tue, 1 May 2001 20:45:14 -0700 (PDT)
+From: chuck.ames@enron.com
+To: geoff.storey@enron.com
+Subject: Weekly Status Meeting and other tidbits
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+X-From: Ames, Chuck </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=F41142BD-AC8AA29D-86256913-6C7B67>
+X-To: Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=GSTOREY>
+X-cc: 
+X-bcc: 
+X-Folder: \Storey, Geoff\Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: Storey, Geoff.pst
+
+Geoff,
+
+=09The weekly status meeting with the IT guys took place as scheduled on Mo=
+nday afternoon.  The main issues are as follows:
+
+Dave would like to sit down and discuss the requirements for the customizab=
+le time periods on the pos manager.
+Reaffirmation of taking all the components in Phase I into production by th=
+e middle of the month.
+Roll up aggregation for curve shift as well as position
+FX Price column in the positions as well as group of groups requirements,
+
+The issues that they are currently facing is the FX Price column in the pos=
+itions as well as group of groups requirements.  I think they would like to=
+ sit down with you and discuss on Monday to get a better sense of the exact=
+ requirements.  I'm not entirely sure as to what the question is on the FX =
+column, but they said they'd like to speak with you on Monday either way. =
+=20
+
+As far as my own work is concerned, I loaded the GDI curves for the Central=
+ and West desks on Monday.  However, I still need to create a process where=
+by that is done directly.  Ahmad is working on developing the capabilities =
+in the current sheets for you, Andy and Martin.  In the meantime, we can ju=
+st listen to the current index curves being published and just use those to=
+ load into ERMS.  I still do not have access in ERMS test environment but I=
+ hope to have that by tomorrow.  It seems like they finally got around to f=
+ixing the TDS ticker in parallel.  I do have a few questions for you, howev=
+er.  First, is there any need to see deals done for the current day in the =
+deal ticker?  I assume you should as a way to see your daily physical trade=
+s and the effect on the inherent position for that day and beyond.  Also, t=
+here is some issue with the deal valuation in the position manager.  I'm tr=
+ying to figure out exactly what Nayan is pulling out to value the physical =
+positions.  The question is moot, however, once we have the live feeds in p=
+lace for the physicals and gas daily's.  The IM positions have been moved o=
+ut of the positions tab in the manager.  Mike has made some changes to valu=
+e options in the deal ticker which was rolled out late this afternoon.  Thi=
+s has not yet been tested.  I have to get access to all the books in parall=
+el, but will get it in the morning.  We are having problems with calc'ing c=
+urrent+prompt for the physical positions into TDS.  I'll be contacting Jere=
+my Wong in the morning and ask him about the port calc errors.  We also sti=
+ll have to test the GDI calcs in ERMS test.  Russ is still testing the TDS =
+tradeblotter in test.  I will also continue in reconciling the physical sit=
+ara positions with the TDS load.  As you can see, theres plenty of work to =
+go around.  I apologize for the rambling nature of this email, but it is cu=
+rrently approaching 11 pm and we are still working to correctly pull positi=
+ons into the morning packet.  I'll send a much more coherent and concise re=
+sponse tomorrow.  Talk to you soon.  Hope the wife and baby are doing well.
+
+Chuck
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <10056706.1075851732453.JavaMail.evans@thyme>
+Date: Tue, 6 Mar 2001 04:40:00 -0800 (PST)
+From: colleen.sullivan@enron.com
+To: geoff.storey@enron.com, stephen.stock@enron.com, zhiyong.wei@enron.com
+Subject: IT/Gas Trading Meeting
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Colleen Sullivan
+X-To: Geoff Storey, Stephen Stock, Zhiyong Wei
+X-cc: 
+X-bcc: 
+X-Folder: \Geoffrey_Storey_Nov2001\Notes Folders\It
+X-Origin: STOREY-G
+X-FileName: gstorey.nsf
+
+The meeting we discussed will be on Wednesday, March 7 at 3:00 pm in EB3267.  
+Please feel free to bring whoever else you think is appropriate.  Geoff will 
+present the top priorities of the Gas Trading floor.  Steve and Zhiyong, 
+please be prepared to discuss status of IT work such as the consolidated deal 
+entry system into TDS, progress made on the physical position reporting in 
+TDS to date, etc.  If you have any questions, please call me at x35514. 
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <32222786.1075845349556.JavaMail.evans@thyme>
+Date: Mon, 16 Apr 2001 21:30:00 -0700 (PDT)
+From: zhiyong.wei@enron.com
+To: louise.kitchen@enron.com, geoff.storey@enron.com, philippe.bibi@enron.com,
+	beth.perlman@enron.com, stephen.stock@enron.com,
+	colleen.sullivan@enron.com
+Subject: GTV weekly status update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Zhiyong Wei <Zhiyong Wei/ENRON@enronXgate@ENRON>
+X-To: Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>, Geoff Storey <Geoff Storey/HOU/ECT@ECT>, Philippe A Bibi <Philippe A Bibi/ENRON@enronXgate>, Beth Perlman <Beth Perlman/ENRON@enronXgate>, Stephen Stock <Stephen Stock/ENRON@enronXgate>, Colleen Sullivan <Colleen Sullivan/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \Storey, Geoff\Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: Storey, Geoff.pst
+
+Please find below the GTV project status update for this week. Please see the attached file for the project timeline update in Microsoft Project.
+
+GTV status meeting attendees:  Zhiyong Wei, Karima Husain, Francis Lim, Jeremy Wong, Bill Fortney, Nayan Dattani, Dave Nommensen, Russ Severson, Narasim Kasaru, Mike Swaim, George Grant, Chuck Ames, Geof Storey.
+
+Accomplishments:
+?	Incorporating physical deal positions in TDS:
+o	Changes to CPR reader process and its unit testing have been completed.
+o	Changes for the view aggregation and its unit testing have been completed.
+o	A new task has been added due to the requirement of loading prior-day curves into Position Manager (Please see the attached project timeline.)
+o	Changes for Position Manager are in progress (Please see the attached project timeline.)
+?	Single point of deal entry for term deals:
+o	Single point of deal entry is now ready for user acceptance testing.
+?	Gas Daily deals:
+o	Changes to ERMS PortCalc application for the Gas Daily deals are complete and ready for testing.
+o	Changes to TDS deal valuation are in progress and on schedule (please see the attached project timeline.)
+o	A new task has been added to flag fixed-price positions (please see the attached project timeline.)
+?	Live feeds for Gas Daily/intra-month curves:
+o	Released to production
+
+Plans for the week ending 4/20/01:
+?	Continue IT development of Phase I items.
+?	Obtain sign-off for GTV-II, Phase 2 issues and timeline.
+?	Commence IT development of Phase 2 issues.
+
+Issues:
+Incompatibility of TIBCO version 5.x and 6.x. The single point of deal entry is done using TIBCO 6.x. Some users are still using TIBCO 5.x. Upgrading to either TIBCO 6.x or Windows 2000 is needed.
+
+ 
+Thanks
+
+Zhiyong
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <12947160.1075851732149.JavaMail.evans@thyme>
+Date: Mon, 19 Mar 2001 06:59:00 -0800 (PST)
+From: david.forster@enron.com
+To: geoff.storey@enron.com
+Subject: Broker Client
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: David Forster
+X-To: Geoff Storey
+X-cc: 
+X-bcc: 
+X-Folder: \Geoffrey_Storey_Nov2001\Notes Folders\It
+X-Origin: STOREY-G
+X-FileName: gstorey.nsf
+
+1) Only online transactions will be commission-free.
+2) The message bar at the top of the screen shows the ultimate customer, but 
+not the broker. Today's Transactions at the bottom of your Stack Manager 
+screen shows both.
+
+Dave
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <32264563.1075845349902.JavaMail.evans@thyme>
+Date: Tue, 15 May 2001 13:31:07 -0700 (PDT)
+From: zhiyong.wei@enron.com
+To: louise.kitchen@enron.com, colleen.sullivan@enron.com, geoff.storey@enron.com,
+	a..bibi@enron.com, beth.perlman@enron.com, stephen.stock@enron.com
+Subject: GTV weekly status update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Wei, Zhiyong </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ZWEI>
+X-To: Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=e5cf97bb-467b6eef-8625687a-893a0>, Sullivan, Colleen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=6e1bba0e-fff2c76b-8625654c-6c6305>, Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>, Bibi, Philippe A. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pbibi>, Perlman, Beth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bperlman>, Stock, Stephen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sstock>
+X-cc: 
+X-bcc: 
+X-Folder: \Storey, Geoff\Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: Storey, Geoff.pst
+
+Below please find the GTV project status update for this week. Project timeline update is also included in the attached file.
+
+GTV status meeting attendees:  Zhiyong Wei, Dave Nommensen, Russ Severson, Francis Lim, Jeremy Wong, Bill Fortney, Chuck Ames, Geoff Storey, Karima Husain, Jay Krish.
+
+Accomplishments:
+?	Incorporating physical deal positions in TDS:
+o	Changes for the view aggregation have been completed (please see the attached project timeline).
+o	Provided Group of Groups and filters for Cash Position tab.
+
+?	Single point of deal entry for term deals:
+o	Single point of deal entry for term deals is in user test.
+
+?	Gas Daily deals:
+o	Changes to PortCalc application to create GDI calc in ERMS have been in user testing and some further revisions are requested.
+
+?	Live feeds for Gas Daily/intra-month curves:
+o	Released to production.
+
+?	Option Grid (phase 2):
+o	Released to production.
+
+?	Gas Daily options (phase 2):
+o	Changes to PortCalc application have been completed and in user test.
+o	The Option Delta Change Forward Month report has been completed and in user test.
+
+Plans for the week ending 5/18/01:
+?	Continue IT development of Phase I items.
+o	Changes to introduce expandable total in cash position tab.
+o	Changes to PortCalc for valuing physical future month positions.
+o	Some modification to GDI Calc.
+
+?	Continue IT development of Phase II issues.
+
+Issues / Open Items:
+None
+
+
+ 
+Thanks
+
+Zhiyong
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <5925777.1075841597444.JavaMail.evans@thyme>
+Date: Mon, 9 Apr 2001 11:18:00 -0700 (PDT)
+From: louise.kitchen@enron.com
+To: zhiyong.wei@enron.com
+Subject: Re: Inception Document for GTV II phase II
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>
+X-To: Zhiyong Wei <Zhiyong Wei/ENRON@enronXgate@ENRON>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+I think we need to get a lot closer together - I expect Geoff (and the analyst working for Geoff on this) to be spending a lot more time down on the IT floors.  If we integrate at a much earlier stage we might not see any divergence from how Geoff sees the end result to what actually appears.
+
+Could you consider how to get your team spending much more time with Geoff - I would suggest you have a daily time when you all (developers included) sit down around a desk to look at progress.
+
+Let me know what you think?
+
+Louise
+
+
+From:	Zhiyong Wei/ENRON@enronXgate on 04/06/2001 06:55 PM
+To:	Louise Kitchen/HOU/ECT@ECT, Geoff Storey/HOU/ECT@ECT, Colleen Sullivan/HOU/ECT@ECT, Philippe A Bibi/ENRON@enronXgate, Beth Perlman/ENRON@enronXgate, Stephen Stock/ENRON@enronXgate
+cc:	 
+
+Subject:	Inception Document for GTV II phase II
+
+Attached please find the Inception Document for Gas Trading Vision II Phase II. I would appreciate your comments. I will be circulating the document for signatures on Wednesday. Please provide your inputs by then.
+
+Thanks
+
+Zhiyong
+
+ 
+
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <9748804.1075841597537.JavaMail.evans@thyme>
+Date: Tue, 27 Mar 2001 14:00:00 -0800 (PST)
+From: zhiyong.wei@enron.com
+To: geoff.storey@enron.com
+Subject: GTV version 3 requirement meeting notes: Please review
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Zhiyong Wei <Zhiyong Wei/ENRON@enronXgate@ENRON>
+X-To: Geoff Storey <Geoff Storey/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+Geof,
+
+Please review the meeting notes for the requirements of GTV II phase 2 in the attached file. Please let me know any discrepancy and changes you want me to make.
+
+The volatility skew data is stored in one of ERMS' database table. The skew data is currently maintained by John Griffith. We have a user interface built in Excel for down-loading and up-loading skew data. I think John has not started using the interface yet.
+
+The testing for the volatility skew implementation has been done by john by calling IT for running the portcalc against production database. We will put the changes out in the test environment so that Chuck can also check it out. I will let Chuck know once it is available for him, hopefully, sometime today.
+
+Thanks
+
+Zhiyong
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <11193633.1075851731914.JavaMail.evans@thyme>
+Date: Tue, 27 Mar 2001 03:00:00 -0800 (PST)
+From: zhiyong.wei@enron.com
+To: geoff.storey@enron.com
+Subject: GTV version 3 requirement meeting notes: Please review
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Zhiyong Wei
+X-To: Geoff Storey
+X-cc: 
+X-bcc: 
+X-Folder: \Geoffrey_Storey_Nov2001\Notes Folders\It
+X-Origin: STOREY-G
+X-FileName: gstorey.nsf
+
+Geof,
+
+Please review the meeting notes for the requirements of GTV II phase 2 in the 
+attached file. Please let me know any discrepancy and changes you want me to 
+make.
+
+The volatility skew data is stored in one of ERMS' database table. The skew 
+data is currently maintained by John Griffith. We have a user interface built 
+in Excel for down-loading and up-loading skew data. I think John has not 
+started using the interface yet.
+
+The testing for the volatility skew implementation has been done by john by 
+calling IT for running the portcalc against production database. We will put 
+the changes out in the test environment so that Chuck can also check it out. 
+I will let Chuck know once it is available for him, hopefully, sometime today.
+
+Thanks
+
+Zhiyong
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <5632366.1075851732028.JavaMail.evans@thyme>
+Date: Tue, 20 Mar 2001 20:59:00 -0800 (PST)
+From: gstorey_71@yahoo.com
+To: gstorey@enron.com
+Subject: 
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Storey Geof <gstorey_71@yahoo.com>
+X-To: gstorey@enron.com
+X-cc: 
+X-bcc: 
+X-Folder: \Geoffrey_Storey_Nov2001\Notes Folders\It
+X-Origin: STOREY-G
+X-FileName: gstorey.nsf
+
+__________________________________________________
+Do You Yahoo!?
+Get email at your own domain with Yahoo! Mail. 
+http://personal.mail.yahoo.com/
+ - IT hell 2.doc
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <13793525.1075841597056.JavaMail.evans@thyme>
+Date: Wed, 10 Oct 2001 06:54:56 -0700 (PDT)
+From: joe.wong@enron.com
+To: tim.belden@enron.com, lloyd.will@enron.com, geoff.storey@enron.com,
+	laura.luce@enron.com, rob.milnthorp@enron.com,
+	mark.greenberg@enron.com
+Subject: 2002 IT Budgets for ENA
+Cc: beth.perlman@enron.com, stephen.stock@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: beth.perlman@enron.com, stephen.stock@enron.com
+X-From: Wong, Joe </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JWONG5>
+X-To: Belden, Tim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tbelden>, Will, Lloyd </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lwill>, Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>, Luce, Laura </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lluce>, Milnthorp, Rob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rmilnth>, Greenberg, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mgreenbe>
+X-cc: Perlman, Beth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bperlman>, Stock, Stephen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sstock>
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+My name is Joe Wong and I work for Beth Perlman in Networks.  I have been asked to meet with you to review my portion of the 2002 IT budgets for gas & power.  I will set up a meeting or conf. call with each of you shortly.
+
+My IT group supports the Global Data, Livelink, and intranet development for most of Enron.  Global data contains all counterparties, contracts, and facilities data.  Livelink is used to electronically store documents such as legal contracts, counterparty confirmations, etc... for all of Enron.  
+
+Since these systems are used by all of you, you all share in the costs.  Thus, I must meet with all of you.  An alternative is for me to meet with 1 of you, who can represent everyone else.  If you chose the latter (which I prefer), please let me know who the contact is.  Thanks.
+
+-----Original Message-----
+From: 	Kitchen, Louise  
+Sent:	Monday, October 08, 2001 4:24 PM
+To:	Perlman, Beth; Beck, Sally; Pickering, Mark; Piper, Greg
+Cc:	Storey, Geoff; Belden, Tim; Presto, Kevin M.; Will, Lloyd; Gaskill, Chris; Milnthorp, Rob; Luce, Laura; Haedicke, Mark E.; Greenberg, Mark; Colwell, Wes; Killen, Faith
+Subject:	New Start
+
+We have unsuccessfully attempted to find sponsors for the project list you gave to me in our meeting.  I would therefore like to start the game again but starting from zero and working our way up. Assuming we are starting with no budget for IT development, please could you sit down with each of our Business Sponsors and agree a number with them.  They are:
+
+Tim Belden (or his appointed person) for West Power
+Lloyd Will for East Power
+Geof Storey for Gas 
+Laura Luce for Peoples and Global Net
+Chris Gaskill for Gas Fundys
+Rob Milnthorp (or his appointed person) for Canada.
+Mark Haedicke/Greenberg (or his appointed person) for Legal.
+
+Each of the above will be allocated their charge for IT development and capital (apart from Geof who will allocate across the desks) and therefore is the best person/people to decide on the costs.  Please could you arrange a short meeting/discussion with each and agree a budget as the process so far is not working.
+
+I am assuming its zero at the moment.
+
+
+Thanks
+
+Louise
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <1191807.1075845349877.JavaMail.evans@thyme>
+Date: Tue, 1 May 2001 06:25:50 -0700 (PDT)
+From: dave.nommensen@enron.com
+To: louise.kitchen@enron.com, geoff.storey@enron.com, a..bibi@enron.com,
+	beth.perlman@enron.com, stephen.stock@enron.com,
+	colleen.sullivan@enron.com
+Subject: GTV weekly status update
+Cc: zhiyong.wei@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: zhiyong.wei@enron.com
+X-From: Nommensen, Dave </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DNOMMEN>
+X-To: Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=e5cf97bb-467b6eef-8625687a-893a0>, Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>, Bibi, Philippe A. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pbibi>, Perlman, Beth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bperlman>, Stock, Stephen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sstock>, Sullivan, Colleen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=6e1bba0e-fff2c76b-8625654c-6c6305>
+X-cc: Wei, Zhiyong </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Zwei>
+X-bcc: 
+X-Folder: \Storey, Geoff\Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: Storey, Geoff.pst
+
+Please find below the GTV project status update for this week. Please see the attached file for the project timeline update in Microsoft Project.
+
+GTV status meeting attendees:  Dave Nommensen, Karima Husain, Francis Lim, Jeremy Wong, Bill Fortney, Nayan Dattani, Russ Severson, Narasim Kasaru, Mike Swaim, Chuck Ames, Jay Krish.
+
+Accomplishments:
+
+?	Incorporating physcial deal positions in TDS:
+o	Changes to CPR reader process & its unit testing have been completed.
+o	Loading prior-day curves into position manager has been completed.
+o	Changes for the view aggregation have been completed (please see the attached project timeline).
+
+?	Single point of deal entry for term deals:
+o	Single point of deal entry is in user testing with some minor corrections being made as detected.
+
+?	Gas Daily deals:
+o	Changes to PortCalc application to create GDI calc in ERMS are complete and ready for testing.
+o	IT development items are in progress and on schedule (please see the attached project timeline).
+
+?	Live feeds for Gas Daily/intra-month curves:
+o	Development of live feeds has been completed, tested, user-approved and already in production.
+
+?	Option Grid (phase 2):
+o	Conversion from Motif into Powerbuilder is in progress.
+
+?	Gas Daily options:
+o	Changes to PortCalc application have been completed; waiting for user acceptance testing.
+
+Plans for the week ending 5/4/01:
+
+?	Continue IT development of Phase I items.
+?	Continue IT development of Phase 2 issues.
+
+Issues / Open Items:
+
+?	To be determined:  whether  "group of groups" on Cash Positions must be included in the rollout.
+?	To be determined:  whether Cash Total needs to be included in Position Manager rollout (and how).
+?	Excluding the above 2 items, rollout to production is planned for mid-May.
+
+ 
+Thanks, Dave N.
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <25842754.1075851732219.JavaMail.evans@thyme>
+Date: Fri, 16 Mar 2001 04:34:00 -0800 (PST)
+From: zhiyong.wei@enron.com
+To: louise.kitchen@enron.com
+Subject: RE: GTV II
+Cc: stephen.stock@enron.com, geoff.storey@enron.com, colleen.sullivan@enron.com,
+	beth.perlman@enron.com, philippe.bibi@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stephen.stock@enron.com, geoff.storey@enron.com, colleen.sullivan@enron.com,
+	beth.perlman@enron.com, philippe.bibi@enron.com
+X-From: Zhiyong Wei
+X-To: Louise Kitchen
+X-cc: Stephen Stock, Geoff Storey, Colleen Sullivan, Beth Perlman, Philippe A Bibi
+X-bcc: 
+X-Folder: \Geoffrey_Storey_Nov2001\Notes Folders\It
+X-Origin: STOREY-G
+X-FileName: gstorey.nsf
+
+Louise,
+
+Attached please find the inception document requested. I would greatly 
+appreciated your comments. I will be consulting Colleen and Geoff for any 
+necessary revision. I will be requesting signatures on Wednesday afternoon, 
+March 21.
+
+Thanks
+
+Zhiyong
+
+
+
+ -----Original Message-----
+From:  Schoppe, Tammie   On Behalf Of Kitchen, Louise
+Sent: Tuesday, March 13, 2001 4:24 PM
+To: Wei, Zhiyong
+Cc: Stock, Stephen; Storey, Geoff; Sullivan, Colleen; Perlman, Beth; Bibi, 
+Philippe A.
+Subject: GTV II
+
+I understand we have now finalized 90% requirements on the GTV II.
+
+Please could we pull together the format inception document this week for 
+signature on your meeting next week with Geof and Colleen.
+
+Document to include all requirements, dependencies and timelines.
+
+I would suggest whoever is writing this spend some time with Geof this week.
+
+Please circulate to draft all listed above including me.
+
+Thanks,
+
+Louise
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <32188814.1075845349398.JavaMail.evans@thyme>
+Date: Mon, 19 Mar 2001 17:59:00 -0800 (PST)
+From: david.forster@enron.com
+To: geoff.storey@enron.com
+Subject: Broker Client
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: David Forster <David Forster/Corp/Enron@ENRON>
+X-To: Geoff Storey <Geoff Storey/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \Storey, Geoff\Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: Storey, Geoff.pst
+
+1) Only online transactions will be commission-free.
+2) The message bar at the top of the screen shows the ultimate customer, but not the broker. Today's Transactions at the bottom of your Stack Manager screen shows both.
+
+Dave
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <22153870.1075841597638.JavaMail.evans@thyme>
+Date: Mon, 19 Mar 2001 19:07:00 -0800 (PST)
+From: louise.kitchen@enron.com
+To: geoff.storey@enron.com
+Subject: RE: GTV II
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>
+X-To: Geoff Storey <Geoff Storey/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+Good question - I will ring you after I have spoken to her.
+
+
+
+
+Geoff Storey
+03/19/2001 04:01 PM
+To:	Louise Kitchen/HOU/ECT@ECT
+cc:	 
+
+Subject:	RE: GTV II   
+
+I agree with your statements on phase II. I'll start working on the priorities and requirements.
+
+Also, what is the status of Colleen?
+
+Geof
+
+
+
+
+
+Louise Kitchen
+03/19/2001 11:14 AM
+To:	Zhiyong Wei/ENRON@enronXgate @ ENRON
+cc:	Stephen Stock/ENRON@enronXgate@ENRON, Geoff Storey/HOU/ECT@ECT, Colleen Sullivan/HOU/ECT@ECT, Beth Perlman/ENRON@enronXgate@ENRON, Philippe A Bibi/ENRON@enronXgate@ENRON 
+Subject:	RE: GTV II   
+
+Comments:
+
+Zhiyong Wei to be added to signature lists.
+Timeline to include production dates - ie include UAT and production roll-out dates.
+Dependencies - where there are dependencies on other groups (any interaction required with any group outside of Zheiyong's), these need to be highlighted and a representative from that group needs to sign off on that portion of the timeline ( a representative can not be below Director level in the organiztion).
+
+There are clearly many people rolling off early in this project who can be utilized for Phase II - I would suggest the specfication for Phase II is completed in the very near future as the majority of the work in this is done in the very short term by the developers and it moves to the test team.
+
+Please re-issue today.
+
+Louise
+
+
+
+
+From:	Zhiyong Wei/ENRON@enronXgate on 03/16/2001 12:34 PM
+To:	Louise Kitchen/HOU/ECT@ECT
+cc:	Stephen Stock/ENRON@enronXgate, Geoff Storey/HOU/ECT@ECT, Colleen Sullivan/HOU/ECT@ECT, Beth Perlman/ENRON@enronXgate, Philippe A Bibi/ENRON@enronXgate 
+
+Subject:	RE: GTV II
+
+Louise,
+
+Attached please find the inception document requested. I would greatly appreciated your comments. I will be consulting Colleen and Geoff for any necessary revision. I will be requesting signatures on Wednesday afternoon, March 21.
+
+Thanks
+
+Zhiyong
+
+ 
+
+ -----Original Message-----
+From: 	Schoppe, Tammie   On Behalf Of Kitchen, Louise
+Sent:	Tuesday, March 13, 2001 4:24 PM
+To:	Wei, Zhiyong
+Cc:	Stock, Stephen; Storey, Geoff; Sullivan, Colleen; Perlman, Beth; Bibi, Philippe A.
+Subject:	GTV II
+
+I understand we have now finalized 90% requirements on the GTV II.
+
+Please could we pull together the format inception document this week for signature on your meeting next week with Geof and Colleen.
+
+Document to include all requirements, dependencies and timelines.
+
+I would suggest whoever is writing this spend some time with Geof this week.
+
+Please circulate to draft all listed above including me.
+
+Thanks,
+
+Louise
+
+
+
+
+
+
+
+
+
+
+<Embedded StdOleLink>
+<Embedded StdOleLink>
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <25475035.1075841597373.JavaMail.evans@thyme>
+Date: Mon, 9 Apr 2001 16:40:00 -0700 (PDT)
+From: vickistorey@yahoo.com
+To: gstorey@enron.com
+Subject: excel sheet
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: vicki storey  <vickistorey@yahoo.com>
+X-To: gstorey <gstorey@enron.com>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+here
+
+
+__________________________________________________
+Do You Yahoo!?
+Get email at your own domain with Yahoo! Mail. 
+http://personal.mail.yahoo.com/
+ - phase2.xls 
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <24898465.1075851731892.JavaMail.evans@thyme>
+Date: Tue, 27 Mar 2001 07:55:00 -0800 (PST)
+From: zhiyong.wei@enron.com
+To: louise.kitchen@enron.com
+Subject: GTV II weekly status update
+Cc: colleen.sullivan@enron.com, geoff.storey@enron.com, philippe.bibi@enron.com,
+	beth.perlman@enron.com, stephen.stock@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: colleen.sullivan@enron.com, geoff.storey@enron.com, philippe.bibi@enron.com,
+	beth.perlman@enron.com, stephen.stock@enron.com
+X-From: Zhiyong Wei
+X-To: Louise Kitchen
+X-cc: Colleen Sullivan, Geoff Storey, Philippe A Bibi, Beth Perlman, Stephen Stock
+X-bcc: 
+X-Folder: \Geoffrey_Storey_Nov2001\Notes Folders\It
+X-Origin: STOREY-G
+X-FileName: gstorey.nsf
+
+Louise,
+
+The GTV II team has a weekly status meeting on Mondays. Yesterday, we had our 
+first status meeting. Please see below for the current status of the project. 
+Please see the attached file for the update of project timeline in Microsoft 
+Project.
+
+
+GTV status meeting attendees:  Zhiyong Wei, Karima Husain, Francis Lim, 
+Jeremy Wong, Bill Fortney, Nayan Dattani, Mike Swaim, Dave Nommensen, Russ 
+Severson, George Grant.
+
+Accomplishments:
+? Incorporating physcial deal positions in TDS:
+o Changes to CPR reader process have been completed.
+o Changes for the view aggregation are 80% done.
+o Changes for the position manager are in progress and are about 30% 
+completed.
+
+? Single point of deal entry for term deals:
+o Establishing communication between TDS client & Sitara server is in 
+progress.
+
+? Gas Daily deals:
+o Changes to TDS deal valuation are in progress.
+o Creating GDI Calc in ERMS is in progress.
+
+? Live feeds for Gas Daily/intra-month curves:
+o Development of live feeds is in progress. Goef has been contacted regarding 
+how to use the features.
+
+Plans for the week ending 3/30/01:
+? Continue the development of GTV II phase 1.
+? Commence the work on GTV II Phase 2 inception document.
+
+Issues:
+None.
+
+
+
+Regards
+
+Zhiyong
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <10211741.1075845349673.JavaMail.evans@thyme>
+Date: Thu, 19 Apr 2001 06:46:23 -0700 (PDT)
+From: dave.nommensen@enron.com
+To: matt.pena@enron.com, brian.ripley@enron.com, jim.ogg@enron.com,
+	jayant.krishnaswamy@enron.com, zhiyong.wei@enron.com,
+	bill.fortney@enron.com, michael.swaim@enron.com
+Subject: new (old) cell number for Dave N.
+Cc: stephen.stock@enron.com, geoff.storey@enron.com, e-mail <.robert@enron.com>
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stephen.stock@enron.com, geoff.storey@enron.com, e-mail <.robert@enron.com>
+X-From: Nommensen, Dave </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DNOMMEN>
+X-To: Pena, Matt </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mpena2>, Ripley, Brian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bripley>, Ogg, Jim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jogg>, Krishnaswamy, Jayant </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jkrishn>, Wei, Zhiyong </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Zwei>, Fortney, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bfortne>, Swaim, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mswaim>
+X-cc: Stock, Stephen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sstock>, Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>, Robert Superty (E-mail) </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=8b350b76-1ddd01ec-86256655-47240f>
+X-bcc: 
+X-Folder: \Storey, Geoff\Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: Storey, Geoff.pst
+
+I am no longer using my #*@%!* Nextel phone (281-850-6123).
+
+I can now be reached via cell phone @ 713-562-3986. (same one I had before Nextel)
+My pager number remains the same (1-888-487-1865)
+
+Thanks, d.n.
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <24805504.1075851732195.JavaMail.evans@thyme>
+Date: Mon, 19 Mar 2001 03:14:00 -0800 (PST)
+From: louise.kitchen@enron.com
+To: zhiyong.wei@enron.com
+Subject: RE: GTV II
+Cc: stephen.stock@enron.com, geoff.storey@enron.com, colleen.sullivan@enron.com,
+	beth.perlman@enron.com, philippe.bibi@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stephen.stock@enron.com, geoff.storey@enron.com, colleen.sullivan@enron.com,
+	beth.perlman@enron.com, philippe.bibi@enron.com
+X-From: Louise Kitchen
+X-To: Zhiyong Wei
+X-cc: Stephen Stock, Geoff Storey, Colleen Sullivan, Beth Perlman, Philippe A Bibi
+X-bcc: 
+X-Folder: \Geoffrey_Storey_Nov2001\Notes Folders\It
+X-Origin: STOREY-G
+X-FileName: gstorey.nsf
+
+Comments:
+
+Zhiyong Wei to be added to signature lists.
+Timeline to include production dates - ie include UAT and production roll-out 
+dates.
+Dependencies - where there are dependencies on other groups (any interaction 
+required with any group outside of Zheiyong's), these need to be highlighted 
+and a representative from that group needs to sign off on that portion of the 
+timeline ( a representative can not be below Director level in the 
+organiztion).
+
+There are clearly many people rolling off early in this project who can be 
+utilized for Phase II - I would suggest the specfication for Phase II is 
+completed in the very near future as the majority of the work in this is done 
+in the very short term by the developers and it moves to the test team.
+
+Please re-issue today.
+
+Louise
+
+
+
+
+From: Zhiyong Wei/ENRON@enronXgate on 03/16/2001 12:34 PM
+To: Louise Kitchen/HOU/ECT@ECT
+cc: Stephen Stock/ENRON@enronXgate, Geoff Storey/HOU/ECT@ECT, Colleen 
+Sullivan/HOU/ECT@ECT, Beth Perlman/ENRON@enronXgate, Philippe A 
+Bibi/ENRON@enronXgate 
+
+Subject: RE: GTV II
+
+Louise,
+
+Attached please find the inception document requested. I would greatly 
+appreciated your comments. I will be consulting Colleen and Geoff for any 
+necessary revision. I will be requesting signatures on Wednesday afternoon, 
+March 21.
+
+Thanks
+
+Zhiyong
+
+
+
+ -----Original Message-----
+From:  Schoppe, Tammie   On Behalf Of Kitchen, Louise
+Sent: Tuesday, March 13, 2001 4:24 PM
+To: Wei, Zhiyong
+Cc: Stock, Stephen; Storey, Geoff; Sullivan, Colleen; Perlman, Beth; Bibi, 
+Philippe A.
+Subject: GTV II
+
+I understand we have now finalized 90% requirements on the GTV II.
+
+Please could we pull together the format inception document this week for 
+signature on your meeting next week with Geof and Colleen.
+
+Document to include all requirements, dependencies and timelines.
+
+I would suggest whoever is writing this spend some time with Geof this week.
+
+Please circulate to draft all listed above including me.
+
+Thanks,
+
+Louise
+
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <33140446.1075845350006.JavaMail.evans@thyme>
+Date: Wed, 30 May 2001 15:57:13 -0700 (PDT)
+From: russ.severson@enron.com
+To: c..gossett@enron.com, kam.keiser@enron.com, m..love@enron.com,
+	david.baumbach@enron.com, c..giron@enron.com
+Subject: TDS Rollup Desks
+Cc: george.grant@enron.com, geoff.storey@enron.com, chuck.ames@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: george.grant@enron.com, geoff.storey@enron.com, chuck.ames@enron.com
+X-From: Severson, Russ </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RSEVERS>
+X-To: Gossett, Jeffrey C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jgosset>, Keiser, Kam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kkeiser>, Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>, Baumbach, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dbaumba>, Giron, Darron C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dgiron>
+X-cc: Grant, George </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ggrant>, Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>, Ames, Chuck </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cames>
+X-bcc: 
+X-Folder: \Storey, Geoff\Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: Storey, Geoff.pst
+
+The attached file will help anyone interested in which books make up a roll up, and which desk is not allowing the
+total position to aggregate due to inconsistent dates.
+
+The file contains a new utility that shows the desks that are included in the roll ups, with the official 
+trade dates for all the desks.   
+
+Please save the file to your local directory.
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <6911945.1075845349956.JavaMail.evans@thyme>
+Date: Wed, 30 May 2001 10:09:30 -0700 (PDT)
+From: zhiyong.wei@enron.com
+To: louise.kitchen@enron.com, geoff.storey@enron.com, colleen.sullivan@enron.com,
+	a..bibi@enron.com, beth.perlman@enron.com, stephen.stock@enron.com
+Subject: GTV weekly status update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Wei, Zhiyong </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ZWEI>
+X-To: Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=e5cf97bb-467b6eef-8625687a-893a0>, Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>, Sullivan, Colleen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=6e1bba0e-fff2c76b-8625654c-6c6305>, Bibi, Philippe A. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pbibi>, Perlman, Beth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bperlman>, Stock, Stephen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sstock>
+X-cc: 
+X-bcc: 
+X-Folder: \Storey, Geoff\Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: Storey, Geoff.pst
+
+Following is the weekly status update for the GTV project. The updated project timeline is attached.
+
+
+GTV status meeting attendees:  Zhiyong Wei, Russ Severson, Francis Lim, Bill Fortney, Chuck Ames, Geoff Storey, Karima Husain, Jay Krish, Mike Swaim, Nayan Dattani, George Grant, Dave Nommensen.
+
+Accomplishments:
+?	Incorporating physcial deal positions in TDS:
+o	Changes for the view aggregation have been completed.
+o	Expandable Total in Cash Position has been completed.
+
+?	Single point of deal entry for term deals:
+o	Phase 1 of single point of deal entry for term deals is in user test, and will most likely be in production next week.
+
+?	Gas Daily deals:
+o	Revisions for changes to PortCalc application to create GDI calc in ERMS have been worked on, and are in user test.
+
+?	Live feeds for Gas Daily/intra-month curves:
+o	Released to production.
+
+?	Option Grid (phase 2):
+o	Released to production.
+
+?	Gas Daily options (phase 2):
+o	Changes to PortCalc application have been completed and in user test.
+o	The Option Delta Change Forward Month report has been completed and in user test.
+
+?	Basis Options (phase 2):
+o	Development of deal entry type for Basis Options complete in TAGG.
+
+Plans for the week ending 6/1/01:
+?	Continue IT development of Phase I items.
+o	Changes to curve shift report for GDI Calc.
+o	Change CPR PortCalc to value outer month positions.
+
+?	Continue IT development of Phase II issues.
+
+Issues / Open Items:
+None
+
+ 
+
+Thanks
+
+Zhiyong
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <19414769.1075851732402.JavaMail.evans@thyme>
+Date: Thu, 8 Mar 2001 05:33:00 -0800 (PST)
+From: zhiyong.wei@enron.com
+To: colleen.sullivan@enron.com
+Subject: RE: REVISED MEETING NOTES
+Cc: geoff.storey@enron.com, karima.husain@enron.com, stephen.stock@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: geoff.storey@enron.com, karima.husain@enron.com, stephen.stock@enron.com
+X-From: Zhiyong Wei
+X-To: Colleen Sullivan
+X-cc: Geoff Storey, Karima Husain, Stephen Stock
+X-bcc: 
+X-Folder: \Geoffrey_Storey_Nov2001\Notes Folders\It
+X-Origin: STOREY-G
+X-FileName: gstorey.nsf
+
+Colleen,
+
+I didn't see the live-update of Gas Daily curves in your meeting notes. 
+Should we add it? Please advise.
+
+Thanks
+
+Zhiyong
+
+ -----Original Message-----
+From:  Sullivan, Colleen  
+Sent: Thursday, March 08, 2001 12:41 PM
+To: Zhiyong Wei/HOU/ECT@ENRON; Husain, Karima; Storey, Geoff
+Cc: Stephen Stock/HOU/ECT@ENRON; Gossett, Jeffrey; Severson, Russ
+Subject: REVISED MEETING NOTES
+
+Please see the attached revision to the meeting notes.  You will see the 
+change indicated in RED under Issue #2, Gas Daily.  We want to put this item 
+on HOLD for now because there are more implications to this change that we 
+need to resolve before coding begins.  The focus for now should be on putting 
+physical positions in TDS--identifying all issues associated with it, resolve 
+questions on where/how to get the position data, what should be filtered, 
+design of the new screens, etc.  
+
+Also, for your information--from now on we will be including Jeff Gossett and 
+Russ Severson in our weekly meetings as I believe they can help tremendously 
+with position reporting and how we currently get information from Sitara, 
+CPR, ERMS & TAGG.  I will send you all an e-mail on Monday letting you know 
+the time and place of next week's meeting.  Normally I want to hold the 
+meetings on Wednesday afternoons; however--next week I may have to move it to 
+Tuesday.  I will let you know first thing Monday morning.  Let me know if you 
+have any questions or concerns.
+
+ << File: IT-GT Meeting 3-7-01.doc >> 
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <8523061.1075841597106.JavaMail.evans@thyme>
+Date: Tue, 9 Oct 2001 12:11:12 -0700 (PDT)
+From: c..gossett@enron.com
+To: zhiyong.wei@enron.com
+Subject: RE: Consolidated Gas System Document
+Cc: geoff.storey@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: geoff.storey@enron.com
+X-From: Gossett, Jeffrey C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JGOSSET>
+X-To: Wei, Zhiyong </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Zwei>
+X-cc: Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+
+Additions from G. Storey -
+
+1. Confirmations
+2. Correct valuation of storage
+3. physical option valuation
+
+JG
+ -----Original Message-----
+From: 	Gossett, Jeffrey C.  
+Sent:	Tuesday, October 09, 2001 8:37 AM
+To:	Wei, Zhiyong
+Cc:	Storey, Geoff
+Subject:	RE: Consolidated Gas System Document
+
+
+Zhiyong -
+
+I have looked over the consolidated gas system inception document.  Here are a few questions/observations:
+
+1.  Value all physical deals.  Not just current month.  This will require logistics to enter all forward transport rather than just current month.  (This is not an issue,  just needs to be addressed as we go)
+
+2.  Term transport in new physical system would require spread option model to be in place.  
+
+3.  Storey -  Would all term transportation be a spread option and we would set the correlations to one if there was no optionality?
+
+4.  CPR is currently used as a back up if Sitara goes down.  What would we do if the new system goes down?
+
+5.  What is the functionality to downstream systems going to look like?  (Risktrac - V@R, credit)
+
+6.  Will calculations be performed from the same new system as Global Markets?
+
+7.  What will happen if:  There is a fixed price physical deal where the risk components are split? 
+
+Example: Price : NG-PRICE		Basis: FT-WEST		Index: INTRA-WEST
+
+
+
+
+
+
+ -----Original Message-----
+From: 	Wei, Zhiyong  
+Sent:	Monday, October 08, 2001 5:15 PM
+To:	Gossett, Jeffrey C.
+Subject:	Consolidated Gas System Document
+
+Jeff,
+
+Please see the attached file for the document of Consolidated Gas System project. I appreciated any comments.
+
+Thanks
+
+Zhiyong
+
+ << File: CGS-Statement of Work.doc >> 
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <15068435.1075841597155.JavaMail.evans@thyme>
+Date: Fri, 13 Jul 2001 10:24:06 -0700 (PDT)
+From: zhiyong.wei@enron.com
+To: louise.kitchen@enron.com, geoff.storey@enron.com, c..gossett@enron.com,
+	mark.pickering@enron.com, beth.perlman@enron.com,
+	stephen.stock@enron.com, jim.ogg@enron.com, bob.mcauliffe@enron.com
+Subject: Flexible Deal Viewer Inception Document - GTV 2
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Wei, Zhiyong </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ZWEI>
+X-To: Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkitchen>, Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>, Gossett, Jeffrey C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jgosset>, Pickering, Mark </O=ENRON/OU=EU/cn=Recipients/cn=mpicker>, Perlman, Beth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bperlman>, Stock, Stephen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sstock>, Ogg, Jim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jogg>, McAuliffe, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bmcauli>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+Attached please find the inception document for the flexible deal viewer project. Please review the document and provide your comments by next Monday. I will be circulating the document for signature next Tuesday.
+
+Thanks
+
+Zhiyong
+
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <19894111.1075841597178.JavaMail.evans@thyme>
+Date: Thu, 12 Jul 2001 14:11:53 -0700 (PDT)
+From: zhiyong.wei@enron.com
+To: geoff.storey@enron.com
+Subject: Flexible position manager inception document
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Wei, Zhiyong </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ZWEI>
+X-To: Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+Geof,
+
+Please see the attached file for the inception document of the flexible position manager. I appreciate your comments. Sorry for the delay.
+
+Thanks
+
+Zhiyong
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <33393334.1075845349581.JavaMail.evans@thyme>
+Date: Mon, 9 Apr 2001 19:35:00 -0700 (PDT)
+From: zhiyong.wei@enron.com
+To: louise.kitchen@enron.com, geoff.storey@enron.com, colleen.sullivan@enron.com,
+	philippe.bibi@enron.com, beth.perlman@enron.com,
+	stephen.stock@enron.com
+Subject: GTV II weekly status update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Zhiyong Wei <Zhiyong Wei/ENRON@enronXgate@ENRON>
+X-To: Louise Kitchen <Louise Kitchen/HOU/ECT@ECT>, Geoff Storey <Geoff Storey/HOU/ECT@ECT>, Colleen Sullivan <Colleen Sullivan/HOU/ECT@ECT>, Philippe A Bibi <Philippe A Bibi/ENRON@enronXgate>, Beth Perlman <Beth Perlman/ENRON@enronXgate>, Stephen Stock <Stephen Stock/ENRON@enronXgate>
+X-cc: 
+X-bcc: 
+X-Folder: \Storey, Geoff\Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: Storey, Geoff.pst
+
+Below please find the weekly status report for the Gas Trading Vision II. The project timeline is updated in the attached file.
+
+GTV status meeting attendees:  Zhiyong Wei, Karima Husain, Francis Lim, Jeremy Wong, Bill Fortney, Nayan Dattani, Dave Nommensen, Russ Severson, Jay Krish, Mike Swaim, George Grant, Chuck Ames, Jeff Gossett, Geoff Storey.
+
+Accomplishments:
+?	Incorporating physcial deal positions in TDS:
+o	Changes to CPR reader process & its unit testing have been completed.
+o	Changes for the view aggregation are being tested.
+o	The user has requested some changes for the position manager; hence, 2 more weeks are required for the completion of development of this task (please see the attached project timeline).
+
+?	Single point of deal entry for term deals:
+o	Establishing communication between TDS client & Sitara server & its testing has been completed.
+o	Other IT items are in progress and on schedule (please see the attached project timeline).
+
+?	Gas Daily deals:
+o	Changes to TDS deal valuation are in progress and on schedule (please see the attached project timeline).
+o	Creating GDI Calc in ERMS is in progress and on schedule (please see the attached project timeline).
+
+?	Live feeds for Gas Daily/intra-month curves:
+o	Development of live feeds has been completed, tested, user-approved and already in production.
+
+Plans for the week ending 4/13/01:
+?	Continue IT development of Phase I items.
+?	Clarify user requirements for the Gas Daily reports.
+?	Obtain sign-off for GTV-II, Phase 2 issues and timeline.
+
+Issues:
+None
+
+ 
+Thanks
+
+Zhiyong
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <210134.1075841597082.JavaMail.evans@thyme>
+Date: Tue, 9 Oct 2001 15:36:02 -0700 (PDT)
+From: zhiyong.wei@enron.com
+To: c..gossett@enron.com
+Subject: RE: Consolidated Gas System Document
+Cc: geoff.storey@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: geoff.storey@enron.com
+X-From: Wei, Zhiyong </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ZWEI>
+X-To: Gossett, Jeffrey C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jgosset>
+X-cc: Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+Jeff and Geoff,
+
+For the detailed requirements I need to talk to both of you. Let's have a meeting to talk about the correct valuation for all physical deals including storage and transport. I will schedule it. I was going to schedule the meeting for the detailed requirements after the State Of Work is signed.
+
+Thanks
+
+Zhiyong
+
+ -----Original Message-----
+From: 	Gossett, Jeffrey C.  
+Sent:	Tuesday, October 09, 2001 2:11 PM
+To:	Wei, Zhiyong
+Cc:	Storey, Geoff
+Subject:	RE: Consolidated Gas System Document
+
+
+Additions from G. Storey -
+
+1. Confirmations
+2. Correct valuation of storage
+3. physical option valuation
+
+JG
+ -----Original Message-----
+From: 	Gossett, Jeffrey C.  
+Sent:	Tuesday, October 09, 2001 8:37 AM
+To:	Wei, Zhiyong
+Cc:	Storey, Geoff
+Subject:	RE: Consolidated Gas System Document
+
+
+Zhiyong -
+
+I have looked over the consolidated gas system inception document.  Here are a few questions/observations:
+
+1.  Value all physical deals.  Not just current month.  This will require logistics to enter all forward transport rather than just current month.  (This is not an issue,  just needs to be addressed as we go)
+
+2.  Term transport in new physical system would require spread option model to be in place.  
+
+3.  Storey -  Would all term transportation be a spread option and we would set the correlations to one if there was no optionality?
+
+4.  CPR is currently used as a back up if Sitara goes down.  What would we do if the new system goes down?
+
+5.  What is the functionality to downstream systems going to look like?  (Risktrac - V@R, credit)
+
+6.  Will calculations be performed from the same new system as Global Markets?
+
+7.  What will happen if:  There is a fixed price physical deal where the risk components are split? 
+
+Example: Price : NG-PRICE		Basis: FT-WEST		Index: INTRA-WEST
+
+
+
+
+
+
+ -----Original Message-----
+From: 	Wei, Zhiyong  
+Sent:	Monday, October 08, 2001 5:15 PM
+To:	Gossett, Jeffrey C.
+Subject:	Consolidated Gas System Document
+
+Jeff,
+
+Please see the attached file for the document of Consolidated Gas System project. I appreciated any comments.
+
+Thanks
+
+Zhiyong
+
+ << File: CGS-Statement of Work.doc >> 
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <21802647.1075851732285.JavaMail.evans@thyme>
+Date: Wed, 14 Mar 2001 12:39:00 -0800 (PST)
+From: karima.husain@enron.com
+To: 40enron@enron.com
+Subject: RE:
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Karima Husain
+X-To: "Geoff Storey/HOU/ECT@ENRON" <IMCEANOTES-Geoff+20Storey_HOU_ECT+40ENRON@ENRON.com>@SMTP@enronXgate
+X-cc: 
+X-bcc: 
+X-Folder: \Geoffrey_Storey_Nov2001\Notes Folders\It
+X-Origin: STOREY-G
+X-FileName: gstorey.nsf
+
+Thanks Geoff.
+
+-----Original Message----- 
+From: Geoff Storey/HOU/ECT@ENRON 
+Sent: Wed 3/14/2001 7:48 PM 
+To: Husain, Karima 
+Cc: 
+Subject: 
+
+
+
+<<tds.xls>> 
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <4013456.1075841597514.JavaMail.evans@thyme>
+Date: Thu, 5 Apr 2001 19:25:00 -0700 (PDT)
+From: dutch.quigley@enron.com
+To: geoff.storey@enron.com
+Subject: DynegyDirect
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Dutch Quigley <Dutch Quigley/HOU/ECT@ECT>
+X-To: Geoff Storey <Geoff Storey/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+Geoff,
+
+The first time you log in it will take between 5 and 15 minutes to set up depending
+on how fast the web site is and your computer. Your login is ENESTOREY , and your
+password is storey01 , these are both case sensitive.
+
+http://www.dynegydirect.com/jsp/Home.jsp 
+
+Dutch
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <3411427.1075851731868.JavaMail.evans@thyme>
+Date: Thu, 29 Mar 2001 03:17:00 -0800 (PST)
+From: zhiyong.wei@enron.com
+To: geoff.storey@enron.com
+Subject: FW: GTV weekly status meeting
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Zhiyong Wei
+X-To: Geoff Storey
+X-cc: 
+X-bcc: 
+X-Folder: \Geoffrey_Storey_Nov2001\Notes Folders\It
+X-Origin: STOREY-G
+X-FileName: gstorey.nsf
+
+Geof,
+
+Please join us to the GTV weekly status meeting on Mondays. The meeting is 
+held in room 2601 from 2:00 pm to 3:00 pm.
+
+Thanks
+
+Zhiyong
+
+ -----Original Appointment-----
+From:  Wei, Zhiyong  
+Sent: Friday, March 23, 2001 2:23 PM
+To: Krishnaswamy, Jayant; Husain, Karima; Wong, Jeremy; Lim, Francis S.; 
+Fortney, Bill; Swaim, Michael; Dattani, Nayan; Nommensen, Dave; Kasaru, 
+Narasim; Severson, Russ; Grant, George
+Subject: GTV weekly status meeting
+When: Occurs every Monday effective 3/26/2001 from 2:00 PM to 3:00 PM 
+(GMT-06:00) Central Time (US & Canada).
+Where: EB2601
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <30901553.1075845349932.JavaMail.evans@thyme>
+Date: Tue, 8 May 2001 09:24:58 -0700 (PDT)
+From: dave.nommensen@enron.com
+To: louise.kitchen@enron.com, geoff.storey@enron.com, a..bibi@enron.com,
+	beth.perlman@enron.com, stephen.stock@enron.com,
+	colleen.sullivan@enron.com
+Subject: GTV weekly status update
+Cc: zhiyong.wei@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: zhiyong.wei@enron.com
+X-From: Nommensen, Dave </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DNOMMEN>
+X-To: Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=e5cf97bb-467b6eef-8625687a-893a0>, Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>, Bibi, Philippe A. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pbibi>, Perlman, Beth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bperlman>, Stock, Stephen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sstock>, Sullivan, Colleen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=6e1bba0e-fff2c76b-8625654c-6c6305>
+X-cc: Wei, Zhiyong </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Zwei>
+X-bcc: 
+X-Folder: \Storey, Geoff\Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: Storey, Geoff.pst
+
+GTV status meeting attendees:  Dave Nommensen, Francis Lim, Jeremy Wong, Bill Fortney, Nayan Dattani, Russ Severson, Narasim Kasaru, Mike Swaim, Chuck Ames, Geoff Storey
+
+Accomplishments:
+
+?	Incorporating physcial deal positions in TDS:
+o	Changes for the view aggregation have been completed (please see the attached project timeline).
+o	Provided Group of Groups and filters for Cash Position tab.
+
+?	Single point of deal entry for term deals:
+o	Single point of deal entry is in user test.
+
+?	Gas Daily deals:
+o	Changes to PortCalc application to create GDI calc in ERMS are in user testing.
+
+?	Live feeds for Gas Daily/intra-month curves:
+o	Development of live feeds has been completed, tested, user-approved and already in production.
+
+?	Option Grid (phase 2):
+o	Conversion from Motif into Powerbuilder is completed and in user test.
+
+?	Gas Daily options:
+o	Changes to PortCalc application have been completed and are in user test.
+
+
+Plans for the week ending 5/11/01:
+
+?	Continue IT development of Phase I items.
+o	Exclude cash deals outside of prompt day(s)
+o	Need to include first month of "N" in both IDX and Cash positions.
+o	GDI PortCalc needs to use Pice + Basis after "M" is published.
+o	Deal Entry corrections being made for mapping Rate Index to Pub Code.
+o	Include Cash Position Total column on Position Manager tab
+
+?	Continue IT development of Phase 2 issues.
+
+Issues / Open Items:
+
+?	How to determine Fixed Price Total in Cash Position.
+?	Extent of programming revisions and user testing could cause user acceptance to occur after May bid week, thus delaying rollout until mid-June.
+ 
+Thanks, Dave N.
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <22862251.1075851731713.JavaMail.evans@thyme>
+Date: Mon, 9 Apr 2001 02:44:00 -0700 (PDT)
+From: louise.kitchen@enron.com
+To: geoff.storey@enron.com
+Subject: RE: Inception Document for GTV II phase II
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Louise Kitchen
+X-To: Geoff Storey
+X-cc: 
+X-bcc: 
+X-Folder: \Geoffrey_Storey_Nov2001\Notes Folders\It
+X-Origin: STOREY-G
+X-FileName: gstorey.nsf
+
+---------------------- Forwarded by Louise Kitchen/HOU/ECT on 04/09/2001 
+09:44 AM ---------------------------
+From: Zhiyong Wei/ENRON@enronXgate on 04/09/2001 09:14 AM
+To: Louise Kitchen/HOU/ECT@ECT
+cc:  
+
+Subject: RE: Inception Document for GTV II phase II
+
+Louise,
+
+Thank you for your suggestion. I agree that it is critical for us to get 
+feedbacks from Geof as early as possible. For instance, Geof suggested some 
+changes to the design last Friday. The suggestion requires some re-work on 
+the user interface and some changes in the daily risk management process.
+
+I love to have the team meet Geof daily. I will check with Geof for his 
+availability.
+
+Thanks
+
+Zhiyong
+
+ -----Original Message-----
+From:  Kitchen, Louise  
+Sent: Monday, April 09, 2001 8:18 AM
+To: Wei, Zhiyong
+Subject: Re: Inception Document for GTV II phase II
+
+I think we need to get a lot closer together - I expect Geoff (and the 
+analyst working for Geoff on this) to be spending a lot more time down on the 
+IT floors.  If we integrate at a much earlier stage we might not see any 
+divergence from how Geoff sees the end result to what actually appears.
+
+Could you consider how to get your team spending much more time with Geoff - 
+I would suggest you have a daily time when you all (developers included) sit 
+down around a desk to look at progress.
+
+Let me know what you think?
+
+Louise
+
+
+From: Zhiyong Wei/ENRON@enronXgate on 04/06/2001 06:55 PM
+To: Louise Kitchen/HOU/ECT@ECT, Geoff Storey/HOU/ECT@ECT, Colleen 
+Sullivan/HOU/ECT@ECT, Philippe A Bibi/ENRON@enronXgate, Beth 
+Perlman/ENRON@enronXgate, Stephen Stock/ENRON@enronXgate
+cc:  
+
+Subject: Inception Document for GTV II phase II
+
+Attached please find the Inception Document for Gas Trading Vision II Phase 
+II. I would appreciate your comments. I will be circulating the document for 
+signatures on Wednesday. Please provide your inputs by then.
+
+Thanks
+
+Zhiyong
+
+ << File: inception_GTV II phase 2.doc >> 
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <3625539.1075845349980.JavaMail.evans@thyme>
+Date: Tue, 22 May 2001 18:27:01 -0700 (PDT)
+From: zhiyong.wei@enron.com
+To: louise.kitchen@enron.com, geoff.storey@enron.com, colleen.sullivan@enron.com,
+	a..bibi@enron.com, beth.perlman@enron.com, stephen.stock@enron.com
+Subject: GTV weekly status update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Wei, Zhiyong </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ZWEI>
+X-To: Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=e5cf97bb-467b6eef-8625687a-893a0>, Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>, Sullivan, Colleen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=6e1bba0e-fff2c76b-8625654c-6c6305>, Bibi, Philippe A. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pbibi>, Perlman, Beth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bperlman>, Stock, Stephen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sstock>
+X-cc: 
+X-bcc: 
+X-Folder: \Storey, Geoff\Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: Storey, Geoff.pst
+
+Please see below for the weekly status report for the GTV project and please see the attached file for the updated project timeline.
+
+GTV status meeting attendees:  Zhiyong Wei, Russ Severson, Francis Lim, Jeremy Wong, Bill Fortney, Chuck Ames, Geoff Storey, Karima Husain, Jay Krish, Mike Swaim, Nayan Dattani, George Grant, Narasim Kasaru.
+
+Accomplishments:
+?	Incorporating physcial deal positions in TDS:
+o	Changes for the view aggregation have been completed.
+o	Expandable Total in Cash Position on schedule (please see the attached project timeline).
+
+?	Single point of deal entry for term deals:
+o	Phase 1 of single point of deal entry for term deals is in user test.
+
+?	Gas Daily deals:
+o	Revisions for changes to PortCalc application to create GDI calc in ERMS have been worked on.
+
+?	Live feeds for Gas Daily/intra-month curves:
+o	Released to production.
+
+?	Option Grid (phase 2):
+o	Released to production.
+
+?	Gas Daily options (phase 2):
+o	Changes to PortCalc application have been completed and in user test.
+o	The Option Delta Change Forward Month report has been completed and in user test.
+
+?	Basis Options (phase 2):
+o	Development of deal entry type for Basis Options complete in TAGG.
+
+Plans for the week ending 5/25/01:
+?	Continue IT development of Phase I items.
+o	Changes to PortCalc for valuing physical outer month positions.
+o	Some modification to GDI Calc.
+o	Changes to curve shift report for GDI Calc.
+o	Expandable Total in Cash Position.
+
+?	Continue IT development of Phase II issues.
+
+Issues / Open Items:
+None
+
+ 
+Thanks
+
+Zhiyong
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <27974364.1075841597225.JavaMail.evans@thyme>
+Date: Fri, 6 Jul 2001 08:18:43 -0700 (PDT)
+From: zhiyong.wei@enron.com
+To: geoff.storey@enron.com
+Subject: RE: Requirements for the new flexible position manager
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Wei, Zhiyong </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ZWEI>
+X-To: Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+Here they are.
+
+Counterparty
+Deal Date / Time (EOL)
+Start Date
+End Date
+	(delivery month   --- terms)
+Product (Pub_cd for financial and Location for physical)
+Price / Strike
+Book
+Trader (internal)
+Deal Type
+Volume
+Buy / Sell
+External Trader ID
+EOL / NonEOL flag
+
+Zhiyong
+ -----Original Message-----
+From: 	Storey, Geoff  
+Sent:	Friday, July 06, 2001 10:01 AM
+To:	Wei, Zhiyong
+Subject:	RE: Requirements for the new flexible position manager
+
+	send me all the fields you gave me
+
+ -----Original Message-----
+From: 	Wei, Zhiyong  
+Sent:	Thursday, July 05, 2001 5:34 PM
+To:	Storey, Geoff
+Subject:	Requirements for the new flexible position manager
+
+Geof,
+
+Per our conversation, would you please provide us with the followings?
+
+Criteria to filter deals. In other words, individual field names that are used to filter deals and features with those fields.
+Do you want to see daily position beyond the next day?
+How do we handle Gas Daily deals?
+
+Thanks
+
+Zhiyong
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <21669282.1075845349794.JavaMail.evans@thyme>
+Date: Wed, 2 May 2001 12:33:28 -0700 (PDT)
+From: chuck.ames@enron.com
+To: geoff.storey@enron.com
+Subject: Wednesday Progress
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Ames, Chuck </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=F41142BD-AC8AA29D-86256913-6C7B67>
+X-To: Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=GSTOREY>
+X-cc: 
+X-bcc: 
+X-Folder: \Storey, Geoff\Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: Storey, Geoff.pst
+
+Geoff,
+
+Listing of current issues
+
+Resaving and publishing of April 30th IM curves to show June values.  The portcalc's were bombing out because there was no prior June value in the curves.  So as of May 1, they started bombing.  I have to find a way to re-post prior day curves out into ERMS.  
+
+All the GDI curve manager files that are pulling the physical index curves should be ready by tonight.  I'm doing Texas as I write.  I think we should leave the issue of who and how these curves are set up to the individual desks.  For the central desk, we can use the term traders files to publish.  But, we could also set aside a separate file to merely listen to the phys idx curves and publish them that way.  I'm going to release the files to the desks for them to review and get back to me for changes and revisions.  
+
+The changes made into TDS deal evaluation are being revised today.  I guess there were some problems this morning and are now being fixed.
+
+As for the position manager, there is an issue as to how we would like the New/ Changed/ New & Changed filter placed onto the position manager.  The issue there is that with the FX column in the positions tab, what should that positions tab look to as a filter if we place that function on the positions and cash tab.  Dave has suggested putting the filter in the menu area where you can manipulate it and then tab between columns.  I agreed that that was the best solution but I figure you should probably let me know ASAP whether you agree.
+
+Other than that I don't know what else is new or important to add.  After I'm done calcing tonight I'll go ahead and publish the GDI curves myself.  Tomorrow morning I'll talk with the Risk leads and ask them if they can review and load the curves from here on out.  I'll also start modifying the curve files to include an additional month so we wont run into that problem again.  That should be done for EOD tomorrow.  Give me a call if you have any questions and/or problems.
+
+Chuck
+3-9088 
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <14256908.1075851731777.JavaMail.evans@thyme>
+Date: Sun, 8 Apr 2001 11:57:00 -0700 (PDT)
+From: louise.kitchen@enron.com
+To: geoff.storey@enron.com
+Subject: Inception Document for GTV II phase II
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Louise Kitchen
+X-To: Geoff Storey
+X-cc: 
+X-bcc: 
+X-Folder: \Geoffrey_Storey_Nov2001\Notes Folders\It
+X-Origin: STOREY-G
+X-FileName: gstorey.nsf
+
+I take it this is not your final document?
+---------------------- Forwarded by Louise Kitchen/HOU/ECT on 04/08/2001 
+06:57 PM ---------------------------
+From: Zhiyong Wei/ENRON@enronXgate on 04/06/2001 06:55 PM
+To: Louise Kitchen/HOU/ECT@ECT, Geoff Storey/HOU/ECT@ECT, Colleen 
+Sullivan/HOU/ECT@ECT, Philippe A Bibi/ENRON@enronXgate, Beth 
+Perlman/ENRON@enronXgate, Stephen Stock/ENRON@enronXgate
+cc:  
+
+Subject: Inception Document for GTV II phase II
+
+Attached please find the Inception Document for Gas Trading Vision II Phase 
+II. I would appreciate your comments. I will be circulating the document for 
+signatures on Wednesday. Please provide your inputs by then.
+
+Thanks
+
+Zhiyong
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <23965122.1075841597201.JavaMail.evans@thyme>
+Date: Fri, 6 Jul 2001 13:05:06 -0700 (PDT)
+From: zhiyong.wei@enron.com
+To: geoff.storey@enron.com
+Subject: RE: Requirements for the new flexible position manager
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Wei, Zhiyong </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ZWEI>
+X-To: Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\IT
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+Geof,
+
+The information about Industry type may not exist in global counterparties. However, we are working on creating one. Please let me know if you want us to do otherwise.
+
+Thanks
+
+Zhiyong
+
+ -----Original Message-----
+From: 	Storey, Geoff  
+Sent:	Friday, July 06, 2001 10:06 AM
+To:	Wei, Zhiyong
+Subject:	RE: Requirements for the new flexible position manager
+
+
+	Also Hunter wants to be able to classify the counterparties according to Industry type (i.e. producers, utility, pulp/paper, auto)
+	Does that information exist in global counterparties database, SIC codes maybe?
+
+	I want a document by wednesday next week.
+ -----Original Message-----
+From: 	Wei, Zhiyong  
+Sent:	Thursday, July 05, 2001 5:34 PM
+To:	Storey, Geoff
+Subject:	Requirements for the new flexible position manager
+
+Geof,
+
+Per our conversation, would you please provide us with the followings?
+
+Criteria to filter deals. In other words, individual field names that are used to filter deals and features with those fields.
+Do you want to see daily position beyond the next day?
+How do we handle Gas Daily deals?
+
+Thanks
+
+Zhiyong
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <19653799.1075851732097.JavaMail.evans@thyme>
+Date: Mon, 19 Mar 2001 08:16:00 -0800 (PST)
+From: zhiyong.wei@enron.com
+To: louise.kitchen@enron.com
+Subject: RE: GTV II
+Cc: stephen.stock@enron.com, geoff.storey@enron.com, colleen.sullivan@enron.com,
+	beth.perlman@enron.com, philippe.bibi@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stephen.stock@enron.com, geoff.storey@enron.com, colleen.sullivan@enron.com,
+	beth.perlman@enron.com, philippe.bibi@enron.com
+X-From: Zhiyong Wei
+X-To: Louise Kitchen
+X-cc: Stephen Stock, Geoff Storey, Colleen Sullivan, Beth Perlman, Philippe A Bibi
+X-bcc: 
+X-Folder: \Geoffrey_Storey_Nov2001\Notes Folders\It
+X-Origin: STOREY-G
+X-FileName: gstorey.nsf
+
+Please see the attached file for the revised inception document. I would 
+appreciate any comments. We will be working on the specification of phase 2 
+once this document is signed off.
+
+Thanks
+
+Zhiyong
+
+
+
+
+ -----Original Message-----
+From:  Kitchen, Louise  
+Sent: Monday, March 19, 2001 11:15 AM
+To: Wei, Zhiyong
+Cc: Stock, Stephen; Storey, Geoff; Sullivan, Colleen; Perlman, Beth; Bibi, 
+Philippe A.
+Subject: RE: GTV II
+
+Comments:
+
+Zhiyong Wei to be added to signature lists.
+Timeline to include production dates - ie include UAT and production roll-out 
+dates.
+Dependencies - where there are dependencies on other groups (any interaction 
+required with any group outside of Zheiyong's), these need to be highlighted 
+and a representative from that group needs to sign off on that portion of the 
+timeline ( a representative can not be below Director level in the 
+organiztion).
+
+There are clearly many people rolling off early in this project who can be 
+utilized for Phase II - I would suggest the specfication for Phase II is 
+completed in the very near future as the majority of the work in this is done 
+in the very short term by the developers and it moves to the test team.
+
+Please re-issue today.
+
+Louise
+
+
+
+
+From: Zhiyong Wei/ENRON@enronXgate on 03/16/2001 12:34 PM
+To: Louise Kitchen/HOU/ECT@ECT
+cc: Stephen Stock/ENRON@enronXgate, Geoff Storey/HOU/ECT@ECT, Colleen 
+Sullivan/HOU/ECT@ECT, Beth Perlman/ENRON@enronXgate, Philippe A 
+Bibi/ENRON@enronXgate 
+
+Subject: RE: GTV II
+
+Louise,
+
+Attached please find the inception document requested. I would greatly 
+appreciated your comments. I will be consulting Colleen and Geoff for any 
+necessary revision. I will be requesting signatures on Wednesday afternoon, 
+March 21.
+
+Thanks
+
+Zhiyong
+
+ << File: inception_GTV II.doc >> 
+
+ -----Original Message-----
+From:  Schoppe, Tammie   On Behalf Of Kitchen, Louise
+Sent: Tuesday, March 13, 2001 4:24 PM
+To: Wei, Zhiyong
+Cc: Stock, Stephen; Storey, Geoff; Sullivan, Colleen; Perlman, Beth; Bibi, 
+Philippe A.
+Subject: GTV II
+
+I understand we have now finalized 90% requirements on the GTV II.
+
+Please could we pull together the format inception document this week for 
+signature on your meeting next week with Geof and Colleen.
+
+Document to include all requirements, dependencies and timelines.
+
+I would suggest whoever is writing this spend some time with Geof this week.
+
+Please circulate to draft all listed above including me.
+
+Thanks,
+
+Louise
+
+
+From MAILER-DAEMON Mon Apr 18 14:24:37 2022
+Message-ID: <32946716.1075851731822.JavaMail.evans@thyme>
+Date: Wed, 4 Apr 2001 02:38:00 -0700 (PDT)
+From: dave.nommensen@enron.com
+To: geoff.storey@enron.com, chuck.ames@enron.com
+Subject: access to TDS Parallel environment
+Cc: zhiyong.wei@enron.com, russ.severson@enron.com, bill.fortney@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: zhiyong.wei@enron.com, russ.severson@enron.com, bill.fortney@enron.com
+X-From: Dave Nommensen
+X-To: Geoff Storey, Chuck Ames
+X-cc: Zhiyong Wei, Russ Severson, Bill Fortney
+X-bcc: 
+X-Folder: \Geoffrey_Storey_Nov2001\Notes Folders\It
+X-Origin: STOREY-G
+X-FileName: gstorey.nsf
+
+Geoff and Chuck,
+
+I have submitted an e-request for each of you to have access to the TDS 
+Parallel environment.
+Once this is complete, one of us will help you create a shortcut on your PC 
+desktop to run it.
+You should not need any additional access; you will use your existing TDS 
+production id and password.
+
+Thanks, d.n.
+

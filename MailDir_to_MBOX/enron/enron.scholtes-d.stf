@@ -1,0 +1,1155 @@
+From MAILER-DAEMON Mon Apr 18 14:20:54 2022
+Message-ID: <15052009.1075840028315.JavaMail.evans@thyme>
+Date: Thu, 12 Jul 2001 12:47:43 -0700 (PDT)
+From: mark.hackney@aps.com
+To: isas@wscc.com
+Subject: July Agenda and Documents
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Hackney, Mark W(Z39911) <Mark.Hackney@aps.com>
+X-To: Interchange Scheduling & Accounting Subcommittee (ISAS) <isas@wscc.com>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Scholtes, Diana\STF
+X-Origin: SCHOLTES-D
+X-FileName: 
+
+Attached is an Agenda (rough), the POR/POD/JOU/Tie Matrix Spreadsheet, the
+OC Handbook practices and procedures (labeled MarkHackneyOCHandbook...),
+another copy of the Bob Harshbarger note.  Please print and bring with you!
+
+ <<Agenda for ISAS July Meeting.doc>>  <<tie
+points-JOU's-MASTER_POR_POD_meeting final.xls>>  
+<<MarkHackneyOCHandbookRequest.doc>>  <<Ad Hoc Timeline Review Team>> 
+
+Mark W. Hackney
+Section Leader
+Pre and Real-time Transmission Scheduling
+APS OATT Administration
+Arizona Public Service Company
+602.250.1128 - Office
+602.908.1423 - Cell
+602.250.1155 - Fax
+mailto:Mark.Hackney@aps.com
+
+
+--------- Inline attachment follows ---------
+
+From: Harshbarger, Robert <bharsh@puget.com>
+To: Hackney, Mark W(Z39911) <Mark.Hackney@aps.com>
+CC: DEMPSEY, JERRY <DEMPSEY@wapa.gov>, Ellingson, Mons M(Z34655) <Mons.Ellingson@pinnaclewest.com>, Fotiou, Demetrios <Demetrios.Fotiou@BCHydro.bc.ca>, Grow, Lisa <lgrow@idahopower.com>, Holden-Baker, Susan <smholden@bpa.gov>, Smith, Chris <csmith@caiso.com>, Tilghman, Carmine <ctilghman@tucsonelectric.com>, Underwood, John <john.underwood@avistacorp.com>, Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BWILLIA5>
+Date: Tuesday, July 3, 2001 7:19:19 PM
+Subject: Ad Hoc Timeline Review Team
+
+Mark -
+
+The ad hoc team's product is attached.  It is a suggested revision to the
+NERC A3A1 time table for the WSCC.  Some basic points are:
+
+*	Elimination of manually setting the WSCC pre-schedule flag.  The
+table provides rules for the e-tag software to automatically set the flag.
+
+*	The majority of our efforts were focussed on creating an incentive
+mechanism to encourage timely tag submission and assessment.  The team
+agreed that the best incentive mechanism would be a financial one (i.e.,
+tags submitted close to the deadline would pay a high submittal fee - tags
+submitted early in the hour would pay little or no submittal fee - approval
+entities would receive compensation for assessing/approving late tags,
+etc.).  But, a financial mechanism would  have to go through a cumbersome
+review/approval process which would be too inflexible for the fast paced
+world of E-Tag and NERC's electronic scheduling.  So, the suggested
+incentive process increases the risk of a tag not being approved the closer
+the submittal time is to the start time.  To do this, we considered three
+parameters - the assessment window, deferred denial, and the default
+composite status.  
+
+	*	The assessment window is a period time that the E-Tag
+Authority Service gives the Approval Services to assess a submitted tag.
+Each Approval Service is to check the tag for various things and respond
+with a approved or denied vote back to Authority service who then set the
+final composite status.
+
+	*	Deferred denial is when a entity denies a tag, the composite
+status does not immediately become Denied, but instead waits until the end
+of the assessment window to set the composite status.  This allows the
+denying approval entity time to reconsider their vote and change it, if
+appropriate.
+
+	*	The default composite status is a final stated reached at
+the end of the assessment window when one or more approval entities fails to
+actively approve or deny a tag.  Currently, tags submitted before a certain
+deadline will have their final composite status default to Approved.  Tags
+submitted after a certain deadline will have their final composite status
+default to Denied.
+
+	For real-time tagging, we cite the hour-ahead business where
+Purchasing-selling entities trade products for delivery in the next hour.  
+
+	*	Tags submitted in the first half of the hour-ahead, referred
+to 0 to 30 past, will have a 10 minute assessment window, are subjected to
+deferred denial, and will default to Approved/Conditional.
+
+	*	Tags submitted from 30 to 40 past, will have a 10 minute
+assessment window, are not subjected to deferred denial (can be called
+instant denial), and but will still default to Approved/Conditional.
+
+	*	Tags submitted in the after 40 past, will have a 5 minute
+assessment window, are not subjected to deferred denial (can be called
+instant denial), and will default to Denied (thus assigned a composite
+status of Late).
+
+*	The table references specific times in the submittal and assessment
+process which should all reference a consistent time zone standard.  The
+team was divided on the best approach.  Some suggested all times on the
+table be the prevailing time for the LCA.  This would require each CA to
+include in the e-tag registry their time zone.  Some suggested  all times on
+the table be in Pacific Prevailing Time.  And some suggested that all times
+on the table be in Pacific Standard Time.  The conclusion is that a white
+paper would be produced prior to the July ISAS meeting discussing the pros
+and cons of each suggestion.
+
+*	The group does not recommend basing submittal time on the tag
+agent's time clock - submittal time should stay with the authority service.
+
+*	Here's a big one - because the timing table allows for later
+submittal times, the tag assessment process is encroaching on the start of
+the WSCC standard ramp (i.e., currently starts at 10 minutes before the
+hour).  We are recommending that ISAS request the OC to study the
+feasibility of moving the WSCC standard ramp from a twenty minute duration
+straddling the hour to 10 minute duration straddling the hour (i.e., starts
+at 0:55 and ends at 0:05).  Such a change would align the WSCC with the
+Eastern Interconnection and relieve some of the issues surrounding late tag
+submittals.
+
+*	There was some discussion on establishing a new regional practice
+for the tariff deadline for schedule changes (most are set to 20 before the
+start).  It was felt that there is little chance at getting all entities to
+change their tariffs in a coordinated and timely manner.
+
+*	The team did not want to address at this time issues concerning
+multiple preschedule days and how they are not recognized in Policy 3 or the
+E-Tag specifications.
+
+*	Finally, the team can not stress enough that a composite status of
+Late should not and does not mean automatic denial.  The Late designation
+simple indicates that the default composite status is Denied.  Approval
+entities should make every effort to assess all tags, Late or not.
+
+Hurray for the team members, many, many thanks.
+
+ <<tag time table draft_rev3.doc>> 
+
+Robert Harshbarger
+Puget Sound Energy
+OASIS Trading Manager
+425.882.4643 (desk)
+206.604.3251 (cell)
+
+From MAILER-DAEMON Mon Apr 18 14:20:54 2022
+Message-ID: <12256734.1075840028339.JavaMail.evans@thyme>
+Date: Fri, 6 Jul 2001 17:43:32 -0700 (PDT)
+From: mark.hackney@aps.com
+To: isas@wscc.com
+Subject: Business Practices
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Hackney, Mark W(Z39911) <Mark.Hackney@aps.com>
+X-To: Interchange Scheduling & Accounting Subcommittee (ISAS) <isas@wscc.com>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Scholtes, Diana\STF
+X-Origin: SCHOLTES-D
+X-FileName: 
+
+Well- Lisa and I finally finish the incorporation of the comments into the
+BP document.  That document is the entitled "Majority Accepted BP for
+WSCC_with_Comments.doc".  The document with no comments but the comments
+incorporated is entitled "Majority Accepted BP for WSCC_Final.doc" and will
+be the one submitted for the 30 day posting prior to my request for an OC
+vote.  The last document is the "Final" one with the BP # 10 change, and is
+to be submitted for 60 day due process.  That will be posted if OC approves
+the "Final" documents.
+
+With this all in mind, I am requesting by this email that the voting member
+(and that who this email is going to) approve all three document for
+disposition as I've described above.  The deadline for vote return will be
+by opening of business on July 16, so that I may have a count to report at
+the 17th meeting and to get closure.
+
+Thanks in advance for you patience and help in getting this completed.
+
+
+ <<Majority Accepted BP for WSCC_with_Comments.doc>>  <<Majority Accepted BP
+for WSCC_New DP.doc>>  <<Majority Accepted BP for WSCC_Final.doc>> 
+
+Mark W. Hackney
+Section Leader
+Pre and Real-time Transmission Scheduling
+APS OATT Administration
+Arizona Public Service Company
+602.250.1128 - Office
+602.908.1423 - Cell
+602.250.1155 - Fax
+mailto:Mark.Hackney@aps.com
+
+From MAILER-DAEMON Mon Apr 18 14:20:54 2022
+Message-ID: <8689654.1075840028052.JavaMail.evans@thyme>
+Date: Thu, 6 Sep 2001 12:23:18 -0700 (PDT)
+From: mark.hackney@aps.com
+To: isas@wscc.com
+Subject: Updated Agenda and attachment
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Hackney, Mark W(Z39911) <Mark.Hackney@aps.com>
+X-To: Interchange Scheduling & Accounting Subcommittee (ISAS) <isas@wscc.com>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Scholtes, Diana\STF
+X-Origin: SCHOLTES-D
+X-FileName: 
+
+Attached is an updated agenda and a summary of the WSCC survey of the OC on
+the Standard Scheduling Time Zone.  This will be an item of discussion on
+the agenda.  I've also include a copy of the POR/POD/Tie Matrix/JOU/swiss
+army knife/magic decoder ring/unlimited golf at pebble beach pass from the
+website.
+
+
+ <<WSCC ISAS Vancouver01 Agenda.pdf>>  <<Time Zone Survey Results.xls>>  
+<<tie points-JOU's-MASTER_Update_8_28_01.xls>> 
+
+Mark W. Hackney
+Section Leader
+Pre and Real-time Transmission Scheduling
+APS OATT Administration
+Arizona Public Service Company
+602.250.1128 - Office
+602.908.1423 - Cell
+602.250.1155 - Fax
+mailto:Mark.Hackney@aps.com
+
+From MAILER-DAEMON Mon Apr 18 14:20:54 2022
+Message-ID: <4625401.1075840028390.JavaMail.evans@thyme>
+Date: Fri, 1 Jun 2001 13:43:24 -0700 (PDT)
+From: danielle@wscc.com
+To: multi6@wscc.com
+Subject: No Tag No Flow Enclosure
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: danielle@wscc.com <IMCEANOTES-danielle+40wscc+2Ecom@ENRON.com>
+X-To: Multiple Committees <multi6@wscc.com>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Scholtes, Diana\STF
+X-Origin: SCHOLTES-D
+X-FileName: 
+
+OPERATIONS COMMITTEE
+
+LeRoy Patterson's May 25th letter referred to a letter from Mark Hackney but
+it was inadvertently left out of the distribution.  Attached are the letters from
+LeRoy Patterson and Mark Hackney.
+
+cc:	Paul Barber - EMMT
+	Bill Comish - WSCC
+	Dennis Eyre -WSCC
+	Bill Pascoe - MPC
+	INTERCHANGE SCHEDULING AND ACCOUNTING
+		SUBCOMMITTEE
+	WESTERN MARKET INTERFACE COMMITTEE
+	COUNCIL REPRESENTATIVES
+	OC STEERING COMMITTEE
+
+
+Danielle Gardner
+PH: (801)582-0353
+Fax: (801)582-3918
+EM: danielle@wscc.com
+
+The following section of this message contains a file attachment
+prepared for transmission using the Internet MIME message format.
+If you are using Pegasus Mail, or any another MIME-compliant system,
+you should be able to save it or view it from within your mailer.
+If you cannot, please ask your system administrator for assistance.
+
+   ---- File information -----------
+     File:  e-tag requirements.doc
+     Date:  25 May 2001, 14:57
+     Size:  32256 bytes.
+     Type:  Unknown
+
+ - e-tag requirements.doc 
+The following section of this message contains a file attachment
+prepared for transmission using the Internet MIME message format.
+If you are using Pegasus Mail, or any another MIME-compliant system,
+you should be able to save it or view it from within your mailer.
+If you cannot, please ask your system administrator for assistance.
+
+   ---- File information -----------
+     File:  Mark Hackney letter.doc
+     Date:  1 Jun 2001, 10:11
+     Size:  50176 bytes.
+     Type:  Unknown
+
+ - Mark Hackney letter.doc 
+
+From MAILER-DAEMON Mon Apr 18 14:20:54 2022
+Message-ID: <22816835.1075840028437.JavaMail.evans@thyme>
+Date: Fri, 18 May 2001 17:16:09 -0700 (PDT)
+From: mark.hackney@aps.com
+To: isas@wscc.com
+Subject: "No Tag, No Flow"
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "Hackney, Mark W(Z39911)" <Mark.Hackney@aps.com> <IMCEANOTES-+22Hackney+2C+20Mark+20W+28Z39911+29+22+20+3CMark+2EHackney+40aps+2Ecom+3E@ENRON.com>
+X-To: Interchange Scheduling & Accounting Subcommittee (ISAS) <isas@wscc.com>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Scholtes, Diana\STF
+X-Origin: SCHOLTES-D
+X-FileName: 
+
+LeRoy
+
+Attached is a letter  regarding the subcommittee's recommendation on the
+implementation of "No Tag, No Flow".
+
+ <<OC_Chair_Ltr_NoFlow.doc>>
+
+Mark W. Hackney
+Section Leader
+Pre and Real-time Transmission Scheduling
+APS OATT Administration
+Arizona Public Service Company
+602.250.1128 - Office
+602.908.1423 - Cell
+602.250.1155 - Fax
+mailto:Mark.Hackney@aps.com
+
+
+ - OC_Chair_Ltr_NoFlow.doc 
+
+From MAILER-DAEMON Mon Apr 18 14:20:54 2022
+Message-ID: <2254042.1075840028159.JavaMail.evans@thyme>
+Date: Wed, 15 Aug 2001 13:32:05 -0700 (PDT)
+From: dlacen@pnm.com
+To: isas@wscc.com
+Subject: FW: Interchange Subcommittee Meeting Agenda - August 22-24, 2001
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lacen, Don <DLACEN@pnm.com>
+X-To: Interchange Scheduling & Accounting Subcommittee (ISAS) <isas@wscc.com>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Scholtes, Diana\STF
+X-Origin: SCHOLTES-D
+X-FileName: 
+
+FYI.... 
+
+Don Lacen 
+Public Service Company of New Mexico 
+Transmission Services Coordinator 
+Alvarado Square, MS EP11 
+Albuquerque, NM, 87158 
+505-241-2032 
+dlacen@pnm.com 
+
+
+-----Original Message----- 
+From: Barbara Bogenrief [<mailto:Barbara.Bogenrief@nerc.net>] 
+Sent: Wednesday, August 15, 2001 10:24 AM 
+To: Interchange Subcommittee 
+Subject: Interchange Subcommittee Meeting Agenda - August 22-24, 2001 
+
+
+Dear Interchange Subcommittee Members: 
+
+The August 22-24, 2001 IS meeting agenda (Omaha, NE) is posted and 
+available for download from the following NERC web site: 
+
+<http://www.nerc.com/~filez/is.html> 
+
+"is-0801a.pdf" 
+
+Please let me know if you have any questions. Thanks. 
+
+Barbara 
+
+From MAILER-DAEMON Mon Apr 18 14:20:54 2022
+Message-ID: <11311052.1075840027978.JavaMail.evans@thyme>
+Date: Mon, 12 Nov 2001 16:37:05 -0800 (PST)
+From: bob.cummings@nerc.net
+To: isas@wscc.com
+Subject: New Test Registry
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Bob Cummings <Bob.Cummings@nerc.net>
+X-To: Interchange Scheduling & Accounting Subcommittee (ISAS) <isas@wscc.com>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Scholtes, Diana\STF
+X-Origin: SCHOLTES-D
+X-FileName: 
+
+ALL:
+
+The new Full Registry for Testing for expanded testing (interoperability
+and end-to-end) can be found on the bottom of the page at:
+
+http://www.nerc.com/~filez/tag/E-tag/E-Tag.htm
+
+These files include a snapshot of the Full Registry taken last Friday as
+well as the Test Registry previously being used by the vendors for
+interoperability testing. All production URLs have been replaced by test
+URLs from the vendors.
+
+There was a slight delay in the issuance of this test registry due a
+death in Paul Baratelli's family. Contact Lynn Costantini if there are
+any problems.
+
+If an individual company wishes to test their own "home grown" software,
+the Test URLs should be sent to Paul Baratelli
+(paul.baratelli@nerc.net), with copies to Lynn Costantini
+(lynn.costantini@nerc.net) and me (bob.cummings@nerc.net).
+
+Please note that some of the CSV files were updated on 11/12/01 and some
+on 11/09/01. The newer files contain updates to the test URLs made
+today.
+
+Bob Cummings
+NERC
+Director - Projects 
+
+From MAILER-DAEMON Mon Apr 18 14:20:54 2022
+Message-ID: <6802820.1075840028286.JavaMail.evans@thyme>
+Date: Fri, 13 Jul 2001 19:37:51 -0700 (PDT)
+From: bharsh@puget.com
+To: isas@wscc.com
+Subject: RE: July Agenda and Documents
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Harshbarger, Robert <bharsh@puget.com>
+X-To: Interchange Scheduling & Accounting Subcommittee (ISAS) <isas@wscc.com>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Scholtes, Diana\STF
+X-Origin: SCHOLTES-D
+X-FileName: 
+
+Attached is a white paper prepared for the Timeline Ad Hoc Team by Lisa Grow
+proposing the use of Pacific Prevailing Time in the proposed A3A1 WSCC E-Tag
+timetable.  As Mark says, print it out and bring it with you.  See you in
+Rancho Cordova.
+
+ <<PPTproposal.doc>> 
+
+Robert Harshbarger
+Puget Sound Energy
+OASIS Trading Manager
+425.882.4643 (desk)
+206.604.3251 (cell)
+
+
+> ----------
+> From: 	Hackney, Mark W(Z39911)[SMTP:Mark.Hackney@aps.com]
+> Sent: 	Thursday, July 12, 2001 9:47 AM
+> To: 	Interchange Scheduling & Accounting Subcommittee (ISAS)
+> Subject: 	July Agenda and Documents
+> 
+> <<File: Agenda for ISAS July Meeting.doc>><<File: tie
+> points-JOU's-MASTER_POR_POD_meeting final.xls>><<File:
+> MarkHackneyOCHandbookRequest.doc>><<Message: Ad Hoc Timeline Review Team>>
+> Attached is an Agenda (rough), the POR/POD/JOU/Tie Matrix Spreadsheet, the
+> OC Handbook practices and procedures (labeled MarkHackneyOCHandbook...),
+> another copy of the Bob Harshbarger note.  Please print and bring with
+> you!
+> 
+>  <<Agenda for ISAS July Meeting.doc>>  <<tie
+> points-JOU's-MASTER_POR_POD_meeting final.xls>>  
+> <<MarkHackneyOCHandbookRequest.doc>>  <<Ad Hoc Timeline Review Team>> 
+> 
+> Mark W. Hackney
+> Section Leader
+> Pre and Real-time Transmission Scheduling
+> APS OATT Administration
+> Arizona Public Service Company
+> 602.250.1128 - Office
+> 602.908.1423 - Cell
+> 602.250.1155 - Fax
+> mailto:Mark.Hackney@aps.com
+> 
+> 
+
+From MAILER-DAEMON Mon Apr 18 14:20:54 2022
+Message-ID: <11729694.1075840028027.JavaMail.evans@thyme>
+Date: Mon, 10 Sep 2001 11:02:17 -0700 (PDT)
+From: barbara.bogenrief@nerc.net
+To: isas@wscc.com
+Subject: E-Tag 1.7 Implementation Schedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Barbara Bogenrief <Barbara.Bogenrief@nerc.net>
+X-To: Interchange Scheduling & Accounting Subcommittee (ISAS) <isas@wscc.com>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Scholtes, Diana\STF
+X-Origin: SCHOLTES-D
+X-FileName: 
+
+TO:	NERC ROSTER
+	STANDARDS LISTSERVER GROUP
+	NERC OPERATING MANUAL OWNERS
+	SYSTEM OPERATOR TRAINERS
+	WSCC ISAS
+	OASIS SCHEUDLING COLLABORATIVE
+
+A letter is attached from Robert W. Cummings, Director - Transmission
+Services , regarding the status of E-Tag Version 1.7 implementation. The
+letter is also available for download from the following NERC web site:
+
+http://www.nerc.com/~filez/is.html
+
+Thank you.
+
+Barbara Bogenrief
+Secretary-Operations
+ <<Letter - E-Tag 17 Implementation - Sep 10, 2001.pdf>> 
+
+From MAILER-DAEMON Mon Apr 18 14:20:54 2022
+Message-ID: <19002963.1075840028004.JavaMail.evans@thyme>
+Date: Mon, 15 Oct 2001 12:57:51 -0700 (PDT)
+From: paul.rice@pacificorp.com
+To: isas@wscc.com
+Subject: RE: Scheduling Time constant
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Rice, Paul <Paul.Rice@Pacificorp.com>
+X-To: Interchange Scheduling & Accounting Subcommittee (ISAS) <isas@wscc.com>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Scholtes, Diana\STF
+X-Origin: SCHOLTES-D
+X-FileName: 
+
+Sorry for the late response, I just got it today.  PacifiCorp would be in favor of any move that lessened the amount of time changes that occur each year whether that be to PST or PPT.  The preferential order would be PST for no changes, PPT for one change each year and then dropping it altogether as the last alternative.  
+
+-----Original Message----- 
+From: Hackney, Mark W(Z39911) [<mailto:Mark.Hackney@aps.com>] 
+Sent: Wednesday, October 10, 2001 11:01 AM 
+To: Interchange Scheduling & Accounting Subcommittee (ISAS) 
+Subject: Scheduling Time constant 
+
+
+It's been brought to my attention that we never resolved the issue of the 
+common scheduling time (no Freudian slip on the acronym).  The group agreed 
+to a PST value in July, but we wanted to survey the OC and WMIC first before 
+going further.  That was to be one of our topic in Vancouver.  Well.... 
+
+So, I'd like to get a feel from the group: the survey leaned toward Pacific 
+Prevailing Time as that match up with energy products, so.. continue to go 
+forward with PST as in July, modify our suggestion to PPT or drop all 
+together and wait to see if NERC is going to come up with something.  If we 
+decide to go with either PST or PPT, I will get the OC Steering to help with 
+clarification on this as a due process item or an item that can be brought 
+to the OC for vote in 2002.  In addition, I would think that most would 
+agree that implementation if it takes affect would be favorable at the April 
+2002 time change, so that is my suggestion that we use, if ISAS goes forward 
+with the request to the OC. 
+
+Please get back with your thought by next Wednesday so I can put together 
+something for the upcoming OC meetings. 
+
+Mark W. Hackney 
+Section Leader 
+Pre and Real-time Transmission Scheduling 
+APS OATT Administration 
+Arizona Public Service Company 
+602.250.1128 - Office 
+602.908.1423 - Cell 
+602.250.1155 - Fax 
+<mailto:Mark.Hackney@aps.com> 
+_________________________________________________________________ 
+Click to add my contact info to your organizer: 
+<http://my.infotriever.com/cc2tf0ey> 
+
+From MAILER-DAEMON Mon Apr 18 14:20:54 2022
+Message-ID: <8279577.1075840028365.JavaMail.evans@thyme>
+Date: Thu, 5 Jul 2001 17:28:41 -0700 (PDT)
+From: mark.hackney@aps.com
+To: isas@wscc.com
+Subject: FW: OASIS Phase II Business Practices - 2nd Posting
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Hackney, Mark W(Z39911) <Mark.Hackney@aps.com>
+X-To: Interchange Scheduling & Accounting Subcommittee (ISAS) <isas@wscc.com>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Scholtes, Diana\STF
+X-Origin: SCHOLTES-D
+X-FileName: 
+
+Please note date for comments.
+
+-----Original Message-----
+From: Monica Mulryan [mailto:Monica.Mulryan@nerc.net]
+Sent: Thursday, July 05, 2001 8:27 AM
+To: Monica Mulryan
+Subject: OASIS Phase II Business Practices - 2nd Posting
+
+
+
+TO:	OASIS SCHEDULING COLLABORATIVE
+	NERC ROSTER
+	STANDARDS LISTSERVER
+	OPERATING MANUAL OWNERS
+	SYSTEMS OPERATOR TRAINERS
+
+
+This is a REMINDER that the deadline for public comment to the 2nd
+posting is Tuesday July 10, 2001.  
+
+North American Electric Reliability Council
+Princeton Forrestal Village, 116-390 Village Boulevard, Princeton, New
+Jersey 08540-5731
+	
+
+	
+June 27, 2001
+
+On May 25, 2001, the Electronic Scheduling Collaborative posted 15
+separate business practices documents for public comment.  While the
+comments received were helpful, some important questions still remain.
+The ESC is soliciting your input on specific questions regarding
+business practices that are critical to Electronic Scheduling and OASIS
+Phase II.  
+This request is in lieu of a second posting of revised business
+practices, which the ESC had scheduled for June 26, 2001. The questions
+are concise and specific to a few practices; therefore, a more formal
+posting is not needed and answers or comments to these questions are
+requested by e-mail.  The comment period ends on July 10.  The ESC will
+respond "in general" to the comments and post the comments and responses
+to the Electronic Scheduling web site.  
+The current proposed Business Practices will continue to be posted and
+can be reviewed as reference to these questions.  Comments from the May
+25, 2001 posting are now posted on the Electronic Scheduling web site.
+The ESC is in the process of integrating the business practices into a
+business model with rules demonstrating how the model works.  The
+business model will be included in the third and final posting of
+business practices on July 31, 2001.  The ESC will file business
+practices with FERC on August 31, 2001.
+Please respond by forwarding e-mail to monica.mulryan@nerc.com
+<mailto:monica.mulryan@nerc.com>.  When commenting to this posting
+reference "ESC Posting of June 26" and include in the body of the
+e-mail:
+	*	Your Name
+	*	Your Organization
+	*	E-mail Address
+	*	Comments related to which Business Practice(s) 
+			*	Losses
+			*	Schedule Timing
+			*	Schedule Granularity
+			*	OASIS Granularity
+			*	Ramping
+			*	Schedule Composition
+			 <<ESC Posting - Critical Business
+Practices.doc>> 
+
+Regards,
+Monica S. Mulryan
+Secretary-Operations
+
+
+From MAILER-DAEMON Mon Apr 18 14:20:54 2022
+Message-ID: <18129670.1075840028078.JavaMail.evans@thyme>
+Date: Sun, 2 Sep 2001 15:52:19 -0700 (PDT)
+From: dlacen@pnm.com
+To: isas@wscc.com
+Subject: NERC IS 08/22/01-08/24/01 Meeting Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Lacen, Don <DLACEN@pnm.com>
+X-To: Interchange Scheduling & Accounting Subcommittee (ISAS) <isas@wscc.com>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Scholtes, Diana\STF
+X-Origin: SCHOLTES-D
+X-FileName: 
+
+Here is my NERC IS 08/22/01-08/24/01 Meeting Report.  
+<<NERC IS 08-01 meeting report-LACEN.doc>> 
+
+Major Highlights: 
+NERC IS voted against the WSCC's tagging changes to Version 5 of Policy 3: 
+
+?       Add the following to third bullet under Section A2.1 - (Deference to the WSCC where Dynamic Interchange Schedules are of known amounts by the sending and receiving control areas, have existing transmission, and the TP's are aware of the amounts are exempt from being tagged.) 
+
+?       Add the following to the fourth bullet under Section A2.1 - (Deference to the WSCC where existing procedure require notification of bilateral payback to be made via the WSCC Messaging network, amounts are limited to 25 megawatts per hour unless all parties are notified are exempt from being tagged.  Amount in excess of 25 megawatts per hour will be tagged.)  The NERC IS's general consensus is that all schedules should be tagged.
+
+NERC IS accepted the WSCC's Timetable to be included in V5 of policy 3 for 1.7 E-tagging with the TISWG/OSC changes. 
+
+E-Tag Implementation delay to November 13, 2001: 
+
+The primary reason for delaying the implementation of E-Tag 1.7 is the lack of a complete Registry.  This issue has now been raised to the most significant item that must be addressed for the NEW - November 13, 2001 implementation date. 
+
+
+If you have any questions please contact me. 
+Thanks 
+Don Lacen 
+Public Service Company of New Mexico 
+Transmission Services Coordinator 
+Alvarado Square, MS EP11 
+Albuquerque, NM, 87158 
+505-241-2032 
+dlacen@pnm.com 
+
+From MAILER-DAEMON Mon Apr 18 14:20:54 2022
+Message-ID: <27059322.1075840028413.JavaMail.evans@thyme>
+Date: Mon, 21 May 2001 17:01:56 -0700 (PDT)
+From: dlacen@pnm.com
+To: isas@wscc.com
+Subject: FW: What's New in E-Tag 1.7
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "Lacen, Don" <DLACEN@pnm.com> <IMCEANOTES-+22Lacen+2C+20Don+22+20+3CDLACEN+40pnm+2Ecom+3E@ENRON.com>
+X-To: Interchange Scheduling & Accounting Subcommittee (ISAS) <isas@wscc.com>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Scholtes, Diana\STF
+X-Origin: SCHOLTES-D
+X-FileName: 
+
+
+Interesting reading!  What's New in E-Tag 1.7 
+Don Lacen 
+Public Service Company of New Mexico 
+Transmission Services Coordinator 
+Alvarado Square, MS EP11 
+Albuquerque, NM, 87158 
+505-241-2032 
+dlacen@pnm.com 
+-----Original Message----- 
+From: Rodriquez, Andy [mailto:Andy.Rodriquez@enron.com ] 
+Sent: Sunday, May 20, 2001 2:56 PM 
+To: OSC@nerc.com; interchange@nerc.com 
+Subject: What's New in E-Tag 1.7 
+OSC: Please review the attached document and see if it is lacking in any 
+areas.  Any and all comments are appreciated. 
+IS: I thought this overview might help illustrate exactly what we are 
+trying to do in E-tag 1.7, why it is important, and why it is causing so 
+many changes. 
+Andy Rodriquez 
+Senior Regulatory Specialist - Enron Corp. 
+andy.rodriquez@enron.com 
+713-345-3771 
+  
+ - Whats New in 1.7.doc 
+
+From MAILER-DAEMON Mon Apr 18 14:20:54 2022
+Message-ID: <6019448.1075840028133.JavaMail.evans@thyme>
+Date: Mon, 20 Aug 2001 11:25:58 -0700 (PDT)
+From: dlacen@pnm.com
+To: isas@wscc.com
+Subject: RE: E-Tag 1.7 Issues
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lacen, Don <DLACEN@pnm.com>
+X-To: Interchange Scheduling & Accounting Subcommittee (ISAS) <isas@wscc.com>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Scholtes, Diana\STF
+X-Origin: SCHOLTES-D
+X-FileName: 
+
+THIS MIGHT NOT WORK IN THE IDC, BUT IT IS A REQUIREMENT FOR THE WSCC. CAN WE MAKE THIS WORK TO ACCOMPLISH ALL OF OUR REQUIREMENTS?
+
+Don Lacen 
+Public Service Company of New Mexico 
+Transmission Services Coordinator 
+Alvarado Square, MS EP11 
+Albuquerque, NM, 87158 
+505-241-2032 
+dlacen@pnm.com 
+
+
+-----Original Message----- 
+From: Bob Cummings [<mailto:Bob.Cummings@nerc.net>] 
+Sent: Monday, August 20, 2001 8:03 AM 
+To: OASIS Scheduling Collaborative 
+Cc: Interchange Subcommittee; Interchange Distribution Calculator 
+Working Group 
+Subject: RE: E-Tag 1.7 Issues 
+
+
+Dear OSCers, 
+
+Doing away with the path, or even not keeping it serial within the 1.7 
+tags is unacceptable because it will not work with the IDC. 
+
+Sure you could program the IDC to reconstruct the path, but the 
+processing time then becomes a performance issue for the IDC. That is 
+not acceptable...ALL tags in the EI go to the IDC, so it becomes a real 
+processing problem. 
+
+Remember these things work as a single system! E-Tag 1.7 will NOT be 
+implemented without working properly with the IDC...they are 
+interdependent. 
+
+-----Original Message----- 
+From: JPalin@pwrteam.com [<mailto:JPalin@pwrteam.com>] 
+Sent: Monday, August 20, 2001 10:31 AM 
+To: Hagge, Jerry W. 
+Cc: Interchange Subcommittee; OASIS Scheduling Collaborative; 
+owner-interchange@nerc.com 
+Subject: Re: E-Tag 1.7 Issues 
+
+
+
+Jerry, 
+
+  I also do not recall any discussion regarding doing away with the path 
+on 
+ETag 1.7.  I would be interested in knowing how the TISWG and the IS 
+would 
+be unaware of this issue if in fact there is a push to elliminate paths. 
+
+Thoughts? 
+Julie 
+
+
+
+************************************************************************ 
+********************** 
+This E-mail and any of its attachments may contain Exelon Generation 
+Company 
+proprietary information, which is privileged, confidential, or subject 
+to copyright 
+belonging to the Exelon family of Companies.  This E-mail is intended 
+solely for 
+the use of the individual or entity to which it is addressed.  If you 
+are not the 
+intended recipient of this E-mail, you are hereby notified that any 
+dissemination, 
+distribution, copying, or action taken in relation to the contents of 
+and 
+attachments to this E-mail is strictly prohibited and may be unlawful. 
+If you have 
+received this E-mail in error, please notify the sender immediately and 
+permanently delete the original and any copy of this E-mail and any 
+printout. 
+
+Thank You. 
+************************************************************************ 
+********************* 
+
+From MAILER-DAEMON Mon Apr 18 14:20:54 2022
+Message-ID: <734385.1075840028184.JavaMail.evans@thyme>
+Date: Tue, 14 Aug 2001 18:38:22 -0700 (PDT)
+From: laurel@wscc.com
+To: multi3@wscc.com
+Subject: E-Tag Requirements Letter From OC Chair
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: laurel@wscc.com
+X-To: Multiple Committees <multi3@wscc.com>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Scholtes, Diana\STF
+X-Origin: SCHOLTES-D
+X-FileName: 
+
+OPERATIONS COMMITTEE
+
+Please see the attached letter from M. LeRoy Patterson and an 
+associated letter from NERC IS Chair, Charles Yeung.
+
+cc:
+Paul Barber - EMMT
+Bill Comish - WSCC
+Dennis Eyre - WSCC
+Bill Pascoe - MPC
+Charles Yeung - NERC IS
+ISAS Members
+WMIC Members
+Council Representatives
+OC Steering Committee Members
+  w/enclosure
+
+
+
+Laurel Hansen
+Administrative Coordinator
+Phone: (801) 582-0353
+Fax: (801) 582-3918
+email: laurel@wscc.com
+
+From MAILER-DAEMON Mon Apr 18 14:20:54 2022
+Message-ID: <28338721.1075840028208.JavaMail.evans@thyme>
+Date: Wed, 1 Aug 2001 13:03:16 -0700 (PDT)
+From: elder@wscc.com
+To: wsccstds@wscc.com
+Subject: WSCC Standards Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: elder@wscc.com
+X-To: WSCC Standards Announcement <wsccstds@wscc.com>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Scholtes, Diana\STF
+X-Origin: SCHOLTES-D
+X-FileName: 
+
+WSCC STANDARDS CORRESPONDENTS
+WESTERN MARKET INTERFACE COMMITTEE
+COMPLIANCE PROCESS TASK FORCE
+OPERATIONS COMMITTEE AND
+   OC SUBCOMMITTEE
+PLANNING COORDINATION COMMITTEE AND
+   PCC SUBCOMMITTEES
+
+In accordance with the WSCC "Process for Developing and 
+Approving WSCC Standards," this document has been posted for 
+comment on the WSCC Web site 
+http://www.wscc.com/files/acbpwsdp.pdf
+
+Please note that this WSCC ISAS E-Tag Business Practices 
+posting differs from the ISAS Business Practices posting of 
+July 26, 2001.  The latter posting is in the 30-day pre-OC ballot 
+phase of the Standards Development process.  
+
+Please provide any comments by October 1, 2001.  Comments 
+should be made via e-mail to standards@wscc.com.
+
+
+LINDA ELDER
+ADMINISTRATIVE COORDINATOR
+PH 801-582-0353
+FX 801-582-3918
+EM elder@wscc.com
+
+From MAILER-DAEMON Mon Apr 18 14:20:54 2022
+Message-ID: <31133089.1075840028109.JavaMail.evans@thyme>
+Date: Mon, 20 Aug 2001 11:39:32 -0700 (PDT)
+From: dlacen@pnm.com
+To: isas@wscc.com
+Subject: MORE CLARIFICATION FW: E-Tag 1.7 Issues
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lacen, Don <DLACEN@pnm.com>
+X-To: Interchange Scheduling & Accounting Subcommittee (ISAS) <isas@wscc.com>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Scholtes, Diana\STF
+X-Origin: SCHOLTES-D
+X-FileName: 
+
+TO HELP CLARIFY MY EARLY COMMENT. THE WSCC REQUIRES THE PATH (POR-POD)IN E-TAG NOW AND IN 1.7, WITHOUT THE PATH THE TAG BECOME USELESS.
+
+Don Lacen 
+Public Service Company of New Mexico 
+Transmission Services Coordinator 
+Alvarado Square, MS EP11 
+Albuquerque, NM, 87158 
+505-241-2032 
+dlacen@pnm.com 
+
+
+-----Original Message----- 
+From: Lacen, Don 
+Sent: Monday, August 20, 2001 8:26 AM 
+To: 'Bob Cummings'; OASIS Scheduling Collaborative 
+Cc: Interchange Subcommittee; Interchange Distribution Calculator 
+Working Group; 'WSCC - ISAS' 
+Subject: RE: E-Tag 1.7 Issues 
+
+
+THIS MIGHT NOT WORK IN THE IDC, BUT IT IS A REQUIREMENT FOR THE WSCC. CAN WE MAKE THIS WORK TO ACCOMPLISH ALL OF OUR REQUIREMENTS?
+
+Don Lacen 
+Public Service Company of New Mexico 
+Transmission Services Coordinator 
+Alvarado Square, MS EP11 
+Albuquerque, NM, 87158 
+505-241-2032 
+dlacen@pnm.com 
+
+
+-----Original Message----- 
+From: Bob Cummings [<mailto:Bob.Cummings@nerc.net>] 
+Sent: Monday, August 20, 2001 8:03 AM 
+To: OASIS Scheduling Collaborative 
+Cc: Interchange Subcommittee; Interchange Distribution Calculator 
+Working Group 
+Subject: RE: E-Tag 1.7 Issues 
+
+
+Dear OSCers, 
+
+Doing away with the path, or even not keeping it serial within the 1.7 
+tags is unacceptable because it will not work with the IDC. 
+
+Sure you could program the IDC to reconstruct the path, but the 
+processing time then becomes a performance issue for the IDC. That is 
+not acceptable...ALL tags in the EI go to the IDC, so it becomes a real 
+processing problem. 
+
+Remember these things work as a single system! E-Tag 1.7 will NOT be 
+implemented without working properly with the IDC...they are 
+interdependent. 
+
+-----Original Message----- 
+From: JPalin@pwrteam.com [<mailto:JPalin@pwrteam.com>] 
+Sent: Monday, August 20, 2001 10:31 AM 
+To: Hagge, Jerry W. 
+Cc: Interchange Subcommittee; OASIS Scheduling Collaborative; 
+owner-interchange@nerc.com 
+Subject: Re: E-Tag 1.7 Issues 
+
+
+
+Jerry, 
+
+  I also do not recall any discussion regarding doing away with the path 
+on 
+ETag 1.7.  I would be interested in knowing how the TISWG and the IS 
+would 
+be unaware of this issue if in fact there is a push to elliminate paths. 
+
+Thoughts? 
+Julie 
+
+
+
+************************************************************************ 
+********************** 
+This E-mail and any of its attachments may contain Exelon Generation 
+Company 
+proprietary information, which is privileged, confidential, or subject 
+to copyright 
+belonging to the Exelon family of Companies.  This E-mail is intended 
+solely for 
+the use of the individual or entity to which it is addressed.  If you 
+are not the 
+intended recipient of this E-mail, you are hereby notified that any 
+dissemination, 
+distribution, copying, or action taken in relation to the contents of 
+and 
+attachments to this E-mail is strictly prohibited and may be unlawful. 
+If you have 
+received this E-mail in error, please notify the sender immediately and 
+permanently delete the original and any copy of this E-mail and any 
+printout. 
+
+Thank You. 
+************************************************************************ 
+********************* 
+
+From MAILER-DAEMON Mon Apr 18 14:20:54 2022
+Message-ID: <20827431.1075840028262.JavaMail.evans@thyme>
+Date: Thu, 26 Jul 2001 19:02:51 -0700 (PDT)
+From: laurel@wscc.com
+To: wsccstds@wscc.com
+Subject: Standards for Approval - ISAS E-Tag Business Practices
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: laurel@wscc.com
+X-To: WSCC Standards Announcement <wsccstds@wscc.com>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Scholtes, Diana\STF
+X-Origin: SCHOLTES-D
+X-FileName: 
+
+WSCC STANDARDS CORRESPONDENTS
+OPERATIONS COMMITTEE AND OC SUBCOMMITTEES
+PLANNING COORDINATION COMMITTEE AND PCC 
+SUBCOMMITTEES
+
+In accordance with the WSCC "Process for Developing and Approving 
+WSCC Standards," the ISAS E-Tag Business Practices has been 
+posted for approval on the WSCC Web site
+
+http://www.wscc.com/files/ISAS_Business_Practices_Final.pdf
+
+Approval of the document will be requested by ballot after the 30-day 
+posting period.
+
+
+Laurel Hansen
+Administrative Coordinator
+Phone: (801) 582-0353
+Fax: (801) 582-3918
+email: laurel@wscc.com
+
+From MAILER-DAEMON Mon Apr 18 14:20:54 2022
+Message-ID: <17292542.1075840028233.JavaMail.evans@thyme>
+Date: Mon, 30 Jul 2001 11:40:48 -0700 (PDT)
+From: dlacen@pnm.com
+To: isas@wscc.com
+Subject: FW: Interchange Subcommittee Meeting Minutes Posted
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lacen, Don <DLACEN@pnm.com>
+X-To: Interchange Scheduling & Accounting Subcommittee (ISAS) <isas@wscc.com>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Scholtes, Diana\STF
+X-Origin: SCHOLTES-D
+X-FileName: 
+
+FYI... 
+If you have any questions please contact me. 
+<http://www.nerc.com/~filez/is.html>  - is0401m.pdf - IS Meeting Minutes - April 23-25, 2001 (Draft) 
+
+Thanks 
+Don Lacen 
+Public Service Company of New Mexico 
+Transmission Services Coordinator 
+Alvarado Square, MS EP11 
+Albuquerque, NM, 87158 
+505-241-2032 
+dlacen@pnm.com 
+
+
+-----Original Message----- 
+From: Glenda Rodriguez [<mailto:Glenda.Rodriguez@nerc.net>] 
+Sent: Wednesday, July 25, 2001 10:06 AM 
+To: Interchange Subcommittee 
+Subject: Interchange Subcommittee Meeting Minutes Posted 
+
+
+Dear Members: 
+
+The following Interchange Subcommittee meeting minutes have been posted 
+to the NERC web site: 
+
+<http://www.nerc.com/~filez/is.html> 
+
+is0601m.pdf             IS Meeting Minutes - June 27-29, 2001 (Draft)  
+is0401m.pdf             IS Meeting Minutes - April 23-25, 2001 (Draft) 
+
+Please contact me if you have any questions. 
+
+Sincerely, 
+
+Glenda Rodriguez  
+

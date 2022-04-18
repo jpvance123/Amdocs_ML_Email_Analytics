@@ -1,0 +1,418 @@
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <7958910.1075839929578.JavaMail.evans@thyme>
+Date: Wed, 2 May 2001 16:05:19 -0700 (PDT)
+From: kpeterso@epelectric.com
+To: bill.williams@enron.com
+Subject: RE: Model for 04-25
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: kpeterso@epelectric.com@ENRON <IMCEANOTES-kpeterso+40epelectric+2Ecom+40ENRON@ENRON.com>
+X-To: Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BWILLIA5>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\El Paso
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+
+Sorry Bill,
+
+But one more time...the ancillary are in the regular purchase total.
+
+Thanks,
+
+Kathy
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <24962279.1075839929893.JavaMail.evans@thyme>
+Date: Fri, 27 Apr 2001 19:41:00 -0700 (PDT)
+From: kpeterso@epelectric.com
+To: bill.williams.iii@enron.com
+Subject: Re: Model for 04-24
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: kpeterso@epelectric.com <kpeterso@epelectric.com@ENRON>
+X-To: Bill.Williams.III <Bill.Williams.III@enron.com>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\El Paso
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+
+One more Bill,
+
+The sale to PSCO HE 14-19  35MWH should be @ $220.00 per Tony and PSCO.
+
+Thanks,
+
+Kathy
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <29839159.1075839929313.JavaMail.evans@thyme>
+Date: Fri, 8 Jun 2001 13:00:04 -0700 (PDT)
+From: oasissvcs@apsc.com
+To: bill.williams@enron.com
+Subject: TRANSSTATUS 22091 CONFIRMED
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "OASIS Services (OASISSVCS)" <OASISSVCS@apsc.com>@ENRON <IMCEANOTES-+22OASIS+20Services+20+28OASISSVCS+29+22+20+3COASISSVCS+40apsc+2Ecom+3E+40ENRON@ENRON.com>
+X-To: Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BWILLIA5>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\El Paso
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+Reservation status has changed. Details of the reservation are listed below:
+ASSIGNMENT_REF = 22091
+SELLER_CODE = AZPS
+SELLER_DUNS = 958982563
+CUSTOMER_CODE = EPMI
+CUSTOMER_DUNS = 848921276
+AFFILIATE_FLAG = 0
+PATH_NAME = W/AZPS/SRP-WALC/P. Verde 500 - Mead 230//
+POINT_OF_RECEIPT = PALOVERDE500
+POINT_OF_DELIVERY = MEAD230
+SOURCE = PNM
+SINK = NEVP
+CAPACITY = 25
+CAPACITY_REQUESTED = 25
+SERVICE_INCREMENT = HOURLY
+TS_CLASS = NON-FIRM
+TS_TYPE = POINT_TO_POINT
+TS_PERIOD = ON_PEAK
+TS_WINDOW = FIXED
+TS_SUBCLASS = WHEEL
+NERC_CURTAILMENT_PRIORITY = Nerc Priority 1
+OTHER_CURTAILMENT_PRIORITY = Default
+START_TIME = 06/08/2001
+STOP_TIME = 06/08/2001
+CEILING_PRICE = 3.50
+OFFER_PRICE = 3.50
+BID_PRICE = 3.50
+PRICE_UNITS = $/MWh
+PRECONFIRMED = YES
+ANC_SVC_LINK = N/A
+ANC_SVC_REQ = N/A
+POSTING_REF = 0
+SALE_REF =
+REQUEST_REF =
+DEAL_REF =
+NEGOTIATED_PRICE_FLAG =
+STATUS = CONFIRMED
+STATUS_NOTIFICATION = BILL.WILLIAMS.III@ENRON.COM
+STATUS_COMMENTS =
+TIME_QUEUED = 06/08/2001
+
+TIME_OF_LAST_UPDATE = 06/08/2001
+PRIMARY_PROVIDER_COMMENTS =
+SELLER_COMMENTS =
+CUSTOMER_COMMENTS =
+SELLER_NAME = AZPS
+SELLER_PHONE = 602.250.1128
+SELLER_FAX = 602.250.1155
+SELLER_EMAIL = oasisadm@apsc.com
+CUSTOMER_NAME = Enron Power Marketing, Inc.
+CUSTOMER_PHONE = (713)853-3801
+CUSTOMER_FAX = (713)646-8272
+CUSTOMER_EMAIL = bill.rust@enron.com
+REASSIGNED_REF = 0
+REASSIGNED_CAPACITY = 0
+
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <10580099.1075839930112.JavaMail.evans@thyme>
+Date: Thu, 19 Apr 2001 17:39:00 -0700 (PDT)
+From: kpeterso@epelectric.com
+To: bill.williams.iii@enron.com
+Subject: Re: Model for 04-17 and 04-18
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: kpeterso@epelectric.com <kpeterso@epelectric.com@ENRON>
+X-To: Bill.Williams.III <Bill.Williams.III@enron.com>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\El Paso
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+
+Hi Bill,
+
+Just a couple of things on these models..
+
+On 4/17 need HE 14 sale to Enron changed to an 11MWH.  Tony talked to Mark
+about this.
+
+On 4/18 the ancillary are not adding up at the bottom.
+
+When you get a chance, just re-email them to me.
+
+Thanks,
+
+Kathy
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <3502256.1075839929500.JavaMail.evans@thyme>
+Date: Wed, 23 May 2001 13:21:33 -0700 (PDT)
+From: kpeterso@epelectric.com
+To: bill.williams@enron.com
+Subject: Re: Models
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: kpeterso@epelectric.com@ENRON <IMCEANOTES-kpeterso+40epelectric+2Ecom+40ENRON@ENRON.com>
+X-To: Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BWILLIA5>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\El Paso
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+
+Hi Bill,
+
+I know you have been out and I will be out all next week so I will e-mail
+these to you.
+
+May 18th    HE 12 sale to PNM the 40 needs to be a 45 @ $120.00
+May 18th    Got the note from "you all" that HE 16 PNM Cont, they show 0
+and you show 13.  Need to know who is correct on this.
+May 20th    Purchase totals not adding up
+May 21st    Change HE 13 sale to PNM to a 20
+
+and
+
+May 13th   An on-peak schedule -32@Amrad ran on Sunday (13th) and shouldn't
+have.  PSCO had done a month long tag that was incorrect.
+                     What we agreed on was to by the -32 HE 7-22 @ $30.00
+from them.  Need you to please add this to the model and ENPOWER as a
+                      real-time deal.
+
+If you have any questions, Roger will be filling in for me.
+
+Thanks,
+
+Kathy
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <17444196.1075839929606.JavaMail.evans@thyme>
+Date: Wed, 2 May 2001 15:33:07 -0700 (PDT)
+From: kpeterso@epelectric.com
+To: bill.williams@enron.com
+Subject: RE: Model for 04-25
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: kpeterso@epelectric.com@ENRON <IMCEANOTES-kpeterso+40epelectric+2Ecom+40ENRON@ENRON.com>
+X-To: Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BWILLIA5>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\El Paso
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+
+Thanks for your help Bill.
+
+One little thing on the 25th.  The ancillary are still adding up with the
+regular purchases in the totals.
+
+Thanks,
+
+Kathy
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <9031454.1075839929774.JavaMail.evans@thyme>
+Date: Mon, 30 Apr 2001 18:48:00 -0700 (PDT)
+From: kpeterso@epelectric.com
+To: bill.williams.iii@enron.com
+Subject: Re: Model for 04-28
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: kpeterso@epelectric.com <kpeterso@epelectric.com@ENRON>
+X-To: Bill.Williams.III <Bill.Williams.III@enron.com>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\El Paso
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+
+Good morning Bill
+
+On 4/28 could you move the -100 bookouts for HE 5 & 6 for $6.00 to the top
+for direct bill.  Any cuts on the PSCO deals we are keeping together.
+
+Also, today is the end of the month.  I will probably be checking out with
+Amy (Kelley's replacement in Houston) Wed. or Thurs. so will need all the
+models corrected by then.
+
+Thanks,
+
+Kathy
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <9971081.1075839929945.JavaMail.evans@thyme>
+Date: Fri, 27 Apr 2001 19:17:00 -0700 (PDT)
+From: kpeterso@epelectric.com
+To: bill.williams.iii@enron.com
+Subject: Re: Model for 04-25
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: kpeterso@epelectric.com <kpeterso@epelectric.com@ENRON>
+X-To: Bill.Williams.III <Bill.Williams.III@enron.com>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\El Paso
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+
+Hi Bill,
+
+When you get a chance can you correct this day?
+
+HE 14 sale to CISO/Powerx 20 MWH should be @ $250.00
+HE 15 sale to CISO/Powerx should be a 0 MWH (Cut at top of hour)
+HE 11 and 12 sale to CISO/Powerx 25 MWH's should be @ $215.00
+
+Also,  do you know what the 25 MWH FC/PV swap deal  with AEP/APS is.  We
+don't show this in our EMS.  Could it be one of Enron's deals and on the
+model
+by mistake??  Prices are $350.00 and $520.00???
+
+Thanks,
+
+Kathy
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <13141056.1075839929973.JavaMail.evans@thyme>
+Date: Thu, 26 Apr 2001 22:12:00 -0700 (PDT)
+From: kpeterso@epelectric.com
+To: bill.williams.iii@enron.com
+Subject: Re: Model for 04-20
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: kpeterso@epelectric.com <kpeterso@epelectric.com@ENRON>
+X-To: Bill.Williams.III <Bill.Williams.III@enron.com>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\El Paso
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+
+Hi Bill,
+
+I just got back in the office today and I am going over the days.  Just one
+little formula problem so far...on the 20th the Ancillary Services are not
+adding up on the bottom.
+
+Thanks,
+
+Kathy
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <19543842.1075839929742.JavaMail.evans@thyme>
+Date: Wed, 2 May 2001 10:47:36 -0700 (PDT)
+From: kpeterso@epelectric.com
+To: bill.williams@enron.com
+Subject: Re: Model for 04-25
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: kpeterso@epelectric.com@ENRON <IMCEANOTES-kpeterso+40epelectric+2Ecom+40ENRON@ENRON.com>
+X-To: Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BWILLIA5>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\El Paso
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+
+---------------------- Forwarded by kpeterso/EPEC on 05/02/2001 08:43 AM
+---------------------------
+
+
+kpeterso
+04/27/2001 10:17 AM
+
+To:   Bill.Williams.III@enron.com
+cc:
+
+Subject:  Re: Model for 04-25  (Document link: kpeterso)
+
+Hi Bill,
+
+When you get a chance can you correct this day?
+
+HE 14 sale to CISO/Powerx 20 MWH should be @ $250.00
+HE 15 sale to CISO/Powerx should be a 0 MWH (Cut at top of hour)
+HE 11 and 12 sale to CISO/Powerx 25 MWH's should be @ $215.00
+
+Also,  do you know what the 25 MWH FC/PV swap deal  with AEP/APS is.  We
+don't show this in our EMS.  Could it be one of Enron's deals and on the
+model
+by mistake??  Prices are $350.00 and $520.00???
+
+Thanks,
+
+Kathy
+
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <29418586.1075839930031.JavaMail.evans@thyme>
+Date: Fri, 20 Apr 2001 19:57:00 -0700 (PDT)
+From: kpeterso@epelectric.com
+To: bill.williams.iii@enron.com
+Subject: Re: Model for 04-19
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: kpeterso@epelectric.com <kpeterso@epelectric.com@ENRON>
+X-To: Bill.Williams.III <Bill.Williams.III@enron.com>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\El Paso
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+
+Hi Bill,
+
+On yesterday's...HE16 from SRP should be a -65 not -16.  Also the ancillary
+is not adding up the bottom.
+
+Thanks,
+
+Kathy
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <6460284.1075839930003.JavaMail.evans@thyme>
+Date: Fri, 20 Apr 2001 20:38:00 -0700 (PDT)
+From: kpeterso@epelectric.com
+To: bill.williams.iii@enron.com
+Subject: Re: Model for 04-19
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: kpeterso@epelectric.com <kpeterso@epelectric.com@ENRON>
+X-To: Bill.Williams.III <Bill.Williams.III@enron.com>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\El Paso
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+
+Thanks
+

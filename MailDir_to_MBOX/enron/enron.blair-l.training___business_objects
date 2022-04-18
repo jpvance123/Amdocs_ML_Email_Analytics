@@ -1,0 +1,222 @@
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <22893957.1075853083752.JavaMail.evans@thyme>
+Date: Fri, 3 Aug 2001 05:09:20 -0700 (PDT)
+From: bradley.holmes@enron.com
+To: don.powell@enron.com, ken.powers@enron.com
+Subject: Business Objects Training
+Cc: lynn.blair@enron.com, rick.dietz@enron.com, sheila.nacey@enron.com,
+	lisa.sawyer@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: lynn.blair@enron.com, rick.dietz@enron.com, sheila.nacey@enron.com,
+	lisa.sawyer@enron.com
+X-From: Holmes, Bradley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BHOLMES>
+X-To: Powell, Don </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dpowell1>, Powers, Ken </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kpower1>
+X-cc: Blair, Lynn </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lblair>, Dietz, Rick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rdietz>, Nacey, Sheila </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Snacey>, Sawyer, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lsawyer>
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\Training - Business Objects
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+The following individuals have been identified for the training/knowledge sharing that was discussed at this week's meeting.  
+
+Randy Bryan, Mike Bodnar, Legale Black, Richard Hanagriff, Alice Johnson, Dennis Lee and Jim Studebaker 
+
+As discussed, the session will cover the following:  
+	1.  Inventory of commonly used Universes and their data structure (4 hours)
+	2.  Description of the canned reports that currently exist and how they are being used.  (2 hours)
+	3.  Q&A and assistance in developing reports (2 hours).  This was not discussed but I think this would be a valuable use of time.  
+
+The GL directors agreed that along with notifying these individuals that they will receive further Business Objects training, they are to bring a list of needed reports from their respective areas to develop in the days (or weeks) immediately following the class. 
+
+Gas Logistics goal is to develop individuals that can create complex reports using Business Objects and reduce its reliance on IT and Don in developing such reports.  
+
+Please let us know when you think you will be able to hold the session.  Our expectation on timing is within the next six weeks.  Mike Bodnar will be the "lead" from Gas Logisitics so please rely on him for support.   
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <4075233.1075853083677.JavaMail.evans@thyme>
+Date: Tue, 18 Sep 2001 09:04:45 -0700 (PDT)
+From: michael.bodnar@enron.com
+To: legale.black@enron.com, randy.bryan@enron.com, richard.hanagriff@enron.com,
+	alice.johnson@enron.com, dennis.lee@enron.com,
+	james.studebaker@enron.com
+Subject: Updated: Business Objects Training
+Cc: andriy.mysyk@enron.com, james.studebaker@enron.com, legale.black@enron.com,
+	robert.mason@enron.com, martha.janousek@enron.com,
+	mark.frank@enron.com, mark.gigliotti@enron.com, don.powell@enron.com,
+	lynn.blair@enron.com, ken.powers@enron.com, rick.dietz@enron.com,
+	bradley.holmes@enron.com, sheila.nacey@enron.com,
+	lisa.sawyer@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: andriy.mysyk@enron.com, james.studebaker@enron.com, legale.black@enron.com,
+	robert.mason@enron.com, martha.janousek@enron.com,
+	mark.frank@enron.com, mark.gigliotti@enron.com, don.powell@enron.com,
+	lynn.blair@enron.com, ken.powers@enron.com, rick.dietz@enron.com,
+	bradley.holmes@enron.com, sheila.nacey@enron.com,
+	lisa.sawyer@enron.com
+X-From: Bodnar, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MBODNAR>
+X-To: Black, Legale  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lblack2>, Bryan, Randy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbryan2>, Hanagriff, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rhanagr>, Johnson, Alice </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ajohnso>, Lee, Dennis </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dlee>, Studebaker, James  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jstudeb>
+X-cc: Mysyk, Andriy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Amysyk>, Studebaker, James  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jstudeb>, Black, Legale  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lblack2>, Mason, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rmason1>, Janousek, Martha </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mjanous>, Frank, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mfrank>, Gigliotti, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mgigliot>, Powell, Don </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dpowell1>, Blair, Lynn </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lblair>, Powers, Ken </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kpower1>, Dietz, Rick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rdietz>, Holmes, Bradley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bholmes>, Nacey, Sheila </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Snacey>, Sawyer, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lsawyer>
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\Training - Business Objects
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+When: Tuesday, September 11, 2001 1:00 PM-5:00 PM (GMT-06:00) Central Time (US & Canada).
+Where: EB 49c1
+
+*~*~*~*~*~*~*~*~*~*
+
+NOTICE....
+The training has been re-scheduled for Tuesday, October 2nd in EB 49c1 from 1- 5 p.m.
+
+In this 1st session Don and Ken Powers plan to cover the following:  
+	1.  Inventory of commonly used Universes and their data structure (4 hours)
+	2.  Description of the canned reports that currently exist and how they are being used.  (2 hours)
+	3.  Q&A and assistance in developing reports (2 hours). 
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <7304397.1075853083728.JavaMail.evans@thyme>
+Date: Thu, 16 Aug 2001 13:41:44 -0700 (PDT)
+From: michael.bodnar@enron.com
+To: legale.black@enron.com, michael.bodnar@enron.com, randy.bryan@enron.com,
+	richard.hanagriff@enron.com, alice.johnson@enron.com,
+	dennis.lee@enron.com, james.studebaker@enron.com
+Subject: FW: Business Objects Training
+Cc: lynn.blair@enron.com, rick.dietz@enron.com, bradley.holmes@enron.com,
+	sheila.nacey@enron.com, don.powell@enron.com, ken.powers@enron.com,
+	lisa.sawyer@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: lynn.blair@enron.com, rick.dietz@enron.com, bradley.holmes@enron.com,
+	sheila.nacey@enron.com, don.powell@enron.com, ken.powers@enron.com,
+	lisa.sawyer@enron.com
+X-From: Bodnar, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MBODNAR>
+X-To: Black, Legale  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lblack2>, Bodnar, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbodnar>, Bryan, Randy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbryan2>, Hanagriff, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rhanagr>, Johnson, Alice </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ajohnso>, Lee, Dennis </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dlee>, Studebaker, James  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jstudeb>
+X-cc: Blair, Lynn </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lblair>, Dietz, Rick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rdietz>, Holmes, Bradley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bholmes>, Nacey, Sheila </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Snacey>, Powell, Don </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dpowell1>, Powers, Ken </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kpower1>, Sawyer, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lsawyer>
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\Training - Business Objects
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+Hello my friends....
+This is going to be GREAT!!
+ 
+I wanted to pass along a couple of things about .....One, is I talked with Don before he went out of town and told me that he was hosting a Houston Area Business Objects Users Meeting on Monday September 10th, from 1:00 - 4:00 p.m. in the Enron Building in EB 5c1. Don thought it would be good idea if our group could attend to meet other BusOb users in the area and see what issues are discussed and see first hand what help is out there for us to draw from. So if you can... set some time aside, even if only for an hour or two, on September 10th for the user group meeting. 
+Two, the first training session is scheduled for the afternoon of Tuesday, September 11th (1:00- 5:00 p.m.)
+In this 1st session Don and Ken Powers plan to cover the following:  
+	1.  Inventory of commonly used Universes and their data structure (4 hours)
+	2.  Description of the canned reports that currently exist and how they are being used.  (2 hours)
+	3.  Q&A and assistance in developing reports (2 hours). 
+I'll be sending out another reminder to you for the September 11th meeting, but go ahead and mark it on your calendar....Also, think of a report that you or your team manually maintain today. I want everyone to bring such a report to the "developing reports" session on September 11th.
+
+Finally, with the help of Alma Carrillo, I will be scheduling weekly instructional meetings with Don and/or Ken to be used by our group to learn and advance our BusOb skills. I'll keep you advised as those date are finalized........... 
+
+If you have any questions...don't hesitate to call me. 
+ 
+ -----Original Message-----
+From: 	Holmes, Bradley  
+Sent:	Tuesday, August 07, 2001 11:36 AM
+To:	Bryan, Randy; Bodnar, Michael; Black, Legale ; Hanagriff, Richard; Johnson, Alice; Lee, Dennis; Studebaker, James 
+Cc:	Dietz, Rick; Nacey, Sheila; Powell, Don; Powers, Ken; Blair, Lynn; Sawyer, Lisa
+Subject:	Business Objects Training
+
+
+You have been identified to participate in the Business Objects training/knowledge sharing.  Don Powell and Ken Powers have agreed to train and to share their knowledge regarding Business Objects.    
+
+The session will cover the following:  
+	1.  Inventory of commonly used Universes and their data structure (4 hours)
+	2.  Description of the canned reports that currently exist and how they are being used.  (2 hours)
+	3.  Q&A and assistance in developing reports (2 hours). 
+
+Please bring a list of needed reports from your respective areas to develop in the days (or weeks) immediately following the class.  The expectation on the session timing is within the next six weeks.  Don and Ken will work with Mike Bodnar to set up the session.    
+
+Gas Logistics goal is to develop individuals that can create complex reports using Business Objects and reduce its reliance on IT and Don in developing such reports.  
+
+If you have any questions, please contact me or your Director.  
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <7848502.1075853083702.JavaMail.evans@thyme>
+Date: Tue, 7 Aug 2001 09:36:18 -0700 (PDT)
+From: bradley.holmes@enron.com
+To: randy.bryan@enron.com, michael.bodnar@enron.com, legale.black@enron.com,
+	richard.hanagriff@enron.com, alice.johnson@enron.com,
+	dennis.lee@enron.com, james.studebaker@enron.com
+Subject: Business Objects Training
+Cc: rick.dietz@enron.com, sheila.nacey@enron.com, don.powell@enron.com,
+	ken.powers@enron.com, lynn.blair@enron.com, lisa.sawyer@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: rick.dietz@enron.com, sheila.nacey@enron.com, don.powell@enron.com,
+	ken.powers@enron.com, lynn.blair@enron.com, lisa.sawyer@enron.com
+X-From: Holmes, Bradley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BHOLMES>
+X-To: Bryan, Randy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbryan2>, Bodnar, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbodnar>, Black, Legale  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lblack2>, Hanagriff, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rhanagr>, Johnson, Alice </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ajohnso>, Lee, Dennis </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dlee>, Studebaker, James  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jstudeb>
+X-cc: Dietz, Rick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rdietz>, Nacey, Sheila </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Snacey>, Powell, Don </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dpowell1>, Powers, Ken </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kpower1>, Blair, Lynn </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lblair>, Sawyer, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lsawyer>
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\Training - Business Objects
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+
+You have been identified to participate in the Business Objects training/knowledge sharing.  Don Powell and Ken Powers have agreed to train and to share their knowledge regarding Business Objects.    
+
+The session will cover the following:  
+	1.  Inventory of commonly used Universes and their data structure (4 hours)
+	2.  Description of the canned reports that currently exist and how they are being used.  (2 hours)
+	3.  Q&A and assistance in developing reports (2 hours). 
+
+Please bring a list of needed reports from your respective areas to develop in the days (or weeks) immediately following the class.  The expectation on the session timing is within the next six weeks.  Don and Ken will work with Mike Bodnar to set up the session.    
+
+Gas Logistics goal is to develop individuals that can create complex reports using Business Objects and reduce its reliance on IT and Don in developing such reports.  
+
+If you have any questions, please contact me or your Director.  
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <20784820.1075859381358.JavaMail.evans@thyme>
+Date: Tue, 27 Nov 2001 06:19:22 -0800 (PST)
+From: center.ets@enron.com
+Subject: Business Objects Upgrade Information
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: ETS Solution Center, </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=B502D3D9-A0AB9D3B-8625693C-5D4DD1>
+X-To: Enron Everyone_ET&S_Houston@ENRON <??SEnron Everyone_ET&S_Houston@ENRON>
+X-cc: 
+X-bcc: 
+X-Folder: \Lynn_Blair_Jan2002\Blair, Lynn\Training - Business Objects
+X-Origin: Blair-L
+X-FileName: lblair (Non-Privileged).pst
+
+
+Attention Business Objects Users:
+
+Please read the following for information regarding the upgrade of Business Objects.
+
+Summary
+Business Objects software and hardware are currently in the process of being upgraded.  The upgrade is being rolled out December 1st.  Please read below to see how each user will be effected by this upgrade.  If you have any questions, please e-mail the ETS InfoSource mailbox at ETS InfoSource@enron.com.
+
+InfoSource Users
+There will be no changes for InfoSource users.  You will still connect using http://infosource.ets.enron.com
+
+ZABO Users
+Starting on December 3rd all ZABO users will need to have the newest version installed.  There is an automated process to install the new version.  You will have to go to Start>Programs>Business Applications>ETS ZABO.  Clicking on the ETS ZABO icon will begin the install process.  
+
+Business Query Users
+Currently Business Query will have to be installed locally on each PC.  Someone will be contacting to you arrange the installation.
+
+
+Thank you,
+Lori Saffer
+713-853-0641
+
+
+
+

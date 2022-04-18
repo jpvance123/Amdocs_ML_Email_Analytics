@@ -1,0 +1,1741 @@
+From MAILER-DAEMON Mon Apr 18 14:23:49 2022
+Message-ID: <3639108.1075855929804.JavaMail.evans@thyme>
+Date: Tue, 29 Feb 2000 09:29:00 -0800 (PST)
+From: inja.chun@enron.com
+To: beth.perlman@enron.com, philippe.bibi@enron.com
+Subject: Unify AR -- SAP Plans
+Cc: sally.beck@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sally.beck@enron.com
+X-From: Inja Chun
+X-To: Beth Perlman, Philippe A Bibi
+X-cc: Sally Beck
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Unify
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+For your information, our business SAP group and IT members persuaded our 
+Unify users to use SAP AR rather than continuing to use Unify AR.  This is a 
+change of the decision that was made two year ago.  However, since all other 
+Enron companies will be using SAP AR, there is a definite benefit in using 
+the same system across Enron entities to simplify intercompany reconciliation 
+and related SAP interfaces (i.e. cash application, netting, deposit load).   
+Even though many Unify users did not want to give up Unify AR functionalities 
+(since Unify has more flexibility),  we felt that it will be to everyone's 
+benefit to have the entire company's AR in the same system.   Please see 
+attached table for details.  Thank you.
+
+
+   
+	Enron North America Corp.
+	
+	From:  Stephen P Schwarz                           02/29/2000 03:13 PM
+	
+
+To: Sally Beck/HOU/ECT@ECT, Inja Chun/HOU/ECT@ECT, Pamela 
+Lebrane/Corp/Enron@ENRON, Melissa White/HOU/ECT@ECT, Leslie 
+Reeves/HOU/ECT@ECT, Susan Harrison/HOU/ECT@ECT, Brenda F Herod/HOU/ECT@ECT, 
+Bryce Baxter/HOU/ECT@ECT, Lisa Csikos/HOU/ECT@ECT, Rita Wynne/HOU/ECT@ECT, 
+Bob Klein/HOU/ECT@ECT, Evelyn Aucoin/HOU/ECT@ECT, Cynthia 
+Morrow/Corp/Enron@ENRON, Regan M Smith/HOU/ECT@ECT, Kenneth M 
+Harmon/HOU/ECT@ECT, Brent A Price/HOU/ECT@ECT
+cc:  
+Subject: Unify AR -- SAP Plans
+
+The attached memo details our proposal of a week ago to use SAP AR rather 
+than Unify AR.  As of this morning, we finalized our decision to use the SAP 
+AR system and to turn off Unify AR when SAP is implemented.  Please direct 
+any questions to myself at X33179 or Melissa White at X35704.
+
+Please feel free to forward this memo to anyone I may have forgotten who is 
+interested.
+
+Stephen
+---------------------- Forwarded by Stephen P Schwarz/HOU/ECT on 02/29/2000 
+01:15 PM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  Stephen P Schwarz                           02/18/2000 04:17 PM
+	
+
+To: Bryce Baxter/HOU/ECT@ECT, Lisa Csikos/HOU/ECT@ECT, Rita 
+Wynne/HOU/ECT@ECT, Mechelle Stevens/HOU/ECT@ECT, Susan Harrison/HOU/ECT@ECT, 
+Brenda F Herod/HOU/ECT@ECT, Brent A Price/HOU/ECT@ECT, Melissa K 
+Ratnala/HOU/ECT@ECT, Leslie Reeves@CCMAIL, Evelyn Aucoin/HOU/ECT@ECT, Laura E 
+Scott/CAL/ECT@ECT, Cheryl Dawes/CAL/ECT@ECT
+cc: Melissa White/HOU/ECT@ECT, Dorothy Ricketts/HOU/ECT@ECT, Kimberly 
+Perkins/HOU/ECT@ECT, Trang Le/HOU/ECT@ECT, Christy Sweeney/HOU/ECT@ECT 
+Subject: Unify AR -- SAP Plans
+
+
+	
+
+Two years ago Enron North America made a decision to use Unify AR for cash 
+application rather than SAP AR.  We decided at the time that SAP AR would be 
+kept in sync with Unify AR by the Unify/SAP interface.  We believe that the 
+business logic for that decision has changed, and are now recommending that 
+Unify AR be permanently turned off and all AR functions be performed in SAP.  
+I have briefly summarized the change in business situation below.
+
+Two Years Ago	Today
+Netting allowed by legal and credit ONLY if netting contract was already in 
+place.	Netting encouraged by legal and credit wherever possible, regardless of 
+existence of signed agreement.
+Netting limited to one counterparty and legal entity at a time.	Canada nets across 
+counterparties.
+Netting performed in physical only, financial settlements to maintain 
+separate net statement process.	ENA considering netting physical and financial 
+together.
+All account coordinators were to apply their own cash.	Cash applied centrally in 
+Power, Financial and Canada  Individual coordinators apply cash only in 
+physical Gas.
+Cash was to be applied at the line item level to track variances and to 
+facilitate calculation of cost of funds by commercial team.	Although gas 
+settlements is applying cash for some invoices at the line item level, this 
+functionality is not being used by power settlements and will not be used by 
+financial settlements.  The company has not made any move towards calculating 
+cost of funds by commercial team.
+The Account Inquiry functionality in Unify was thought to be a key on-line 
+tool.	Old habits die hard...most users appear to be printing reports and reviewing 
+data, rather than using the on-line functionality.
+Overapplication of cash was not to be allowed.  Overpayments would be 
+classified as "on account", with issues tracked in a case management system.	Case 
+management system does not exist.  Allowing overapplication helps the account 
+coordinators track overpayments easier than leaving cash on account.
+The counterparty/legal entity combination on the deposit needed to match the 
+counterparty/legal entity combination on the Enron invoice.	Given the number of legal 
+entities Enron has, along with the number of entities our counterparties 
+have, this seems like a hopeless battle.  Allowing cross-application of cash 
+seems easier.
+Corp required that intercompany settlements had to be "settled" with cash 
+movement.	Corp no longer requires intercompany settlements to be "settled" with cash 
+movement.
+
+Converting to SAP AR simplifies the Unify/SAP interface in the following ways:
+Bank deposits into SAP do not have to be split off into Unify
+Cash entries in Unify do not have to be interfaced back to SAP
+Unify netting entries do not have to be interfaced to SAP
+Payables information does not have to be interfaced from SAP to Unify
+
+Given the change in attitudes towards our netting business process we face 
+two problems in Unify.  
+Controls built into Unify are already obsolete.
+Unify does not maintain all products in one database, making efforts to net 
+across products in the future (physical with financial, for instance) 
+impossible.
+
+Our understanding of the netting process in SAP indicates that there are no 
+controls (which sounds good at this point) and that we would retain the 
+automatic netting entries when the payable is netted with the receivable 
+within SAP.  However, we emphasize that netting would be done in SAP, not at 
+the time of finaling a payment in Unify.
+
+To repeat, we are recommending that Unify AR be turned off and we convert to 
+SAP AR.  We will schedule a meeting the week of February 22 to discuss.  
+Please call me at X33179 with any questions or comments.  We WILL make this 
+decision by February 28 because the SAP timeline does not allow any 
+additional time for consideration.
+
+Stephen
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:49 2022
+Message-ID: <26315969.1075855929829.JavaMail.evans@thyme>
+Date: Tue, 29 Feb 2000 07:13:00 -0800 (PST)
+From: stephen.schwarz@enron.com
+To: sally.beck@enron.com, inja.chun@enron.com, pamela.lebrane@enron.com,
+	melissa.white@enron.com, leslie.reeves@enron.com,
+	susan.harrison@enron.com, brenda.herod@enron.com,
+	bryce.baxter@enron.com, lisa.csikos@enron.com, rita.wynne@enron.com,
+	bob.klein@enron.com, evelyn.aucoin@enron.com,
+	cynthia.morrow@enron.com, regan.smith@enron.com,
+	kenneth.harmon@enron.com, brent.price@enron.com
+Subject: Unify AR -- SAP Plans
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Stephen P Schwarz
+X-To: Sally Beck, Inja Chun, Pamela Lebrane, Melissa White, Leslie Reeves, Susan Harrison, Brenda F Herod, Bryce Baxter, Lisa Csikos, Rita Wynne, Bob Klein, Evelyn Aucoin, Cynthia Morrow, Regan M Smith, Kenneth M Harmon, Brent A Price
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Unify
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+The attached memo details our proposal of a week ago to use SAP AR rather 
+than Unify AR.  As of this morning, we finalized our decision to use the SAP 
+AR system and to turn off Unify AR when SAP is implemented.  Please direct 
+any questions to myself at X33179 or Melissa White at X35704.
+
+Please feel free to forward this memo to anyone I may have forgotten who is 
+interested.
+
+Stephen
+---------------------- Forwarded by Stephen P Schwarz/HOU/ECT on 02/29/2000 
+01:15 PM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  Stephen P Schwarz                           02/18/2000 04:17 PM
+	
+
+To: Bryce Baxter/HOU/ECT@ECT, Lisa Csikos/HOU/ECT@ECT, Rita 
+Wynne/HOU/ECT@ECT, Mechelle Stevens/HOU/ECT@ECT, Susan Harrison/HOU/ECT@ECT, 
+Brenda F Herod/HOU/ECT@ECT, Brent A Price/HOU/ECT@ECT, Melissa K 
+Ratnala/HOU/ECT@ECT, Leslie Reeves@CCMAIL, Evelyn Aucoin/HOU/ECT@ECT, Laura E 
+Scott/CAL/ECT@ECT, Cheryl Dawes/CAL/ECT@ECT
+cc: Melissa White/HOU/ECT@ECT, Dorothy Ricketts/HOU/ECT@ECT, Kimberly 
+Perkins/HOU/ECT@ECT, Trang Le/HOU/ECT@ECT, Christy Sweeney/HOU/ECT@ECT 
+Subject: Unify AR -- SAP Plans
+
+
+	
+
+Two years ago Enron North America made a decision to use Unify AR for cash 
+application rather than SAP AR.  We decided at the time that SAP AR would be 
+kept in sync with Unify AR by the Unify/SAP interface.  We believe that the 
+business logic for that decision has changed, and are now recommending that 
+Unify AR be permanently turned off and all AR functions be performed in SAP.  
+I have briefly summarized the change in business situation below.
+
+Two Years Ago	Today
+Netting allowed by legal and credit ONLY if netting contract was already in 
+place.	Netting encouraged by legal and credit wherever possible, regardless of 
+existence of signed agreement.
+Netting limited to one counterparty and legal entity at a time.	Canada nets across 
+counterparties.
+Netting performed in physical only, financial settlements to maintain 
+separate net statement process.	ENA considering netting physical and financial 
+together.
+All account coordinators were to apply their own cash.	Cash applied centrally in 
+Power, Financial and Canada  Individual coordinators apply cash only in 
+physical Gas.
+Cash was to be applied at the line item level to track variances and to 
+facilitate calculation of cost of funds by commercial team.	Although gas 
+settlements is applying cash for some invoices at the line item level, this 
+functionality is not being used by power settlements and will not be used by 
+financial settlements.  The company has not made any move towards calculating 
+cost of funds by commercial team.
+The Account Inquiry functionality in Unify was thought to be a key on-line 
+tool.	Old habits die hard...most users appear to be printing reports and reviewing 
+data, rather than using the on-line functionality.
+Overapplication of cash was not to be allowed.  Overpayments would be 
+classified as "on account", with issues tracked in a case management system.	Case 
+management system does not exist.  Allowing overapplication helps the account 
+coordinators track overpayments easier than leaving cash on account.
+The counterparty/legal entity combination on the deposit needed to match the 
+counterparty/legal entity combination on the Enron invoice.	Given the number of legal 
+entities Enron has, along with the number of entities our counterparties 
+have, this seems like a hopeless battle.  Allowing cross-application of cash 
+seems easier.
+Corp required that intercompany settlements had to be "settled" with cash 
+movement.	Corp no longer requires intercompany settlements to be "settled" with cash 
+movement.
+
+Converting to SAP AR simplifies the Unify/SAP interface in the following ways:
+Bank deposits into SAP do not have to be split off into Unify
+Cash entries in Unify do not have to be interfaced back to SAP
+Unify netting entries do not have to be interfaced to SAP
+Payables information does not have to be interfaced from SAP to Unify
+
+Given the change in attitudes towards our netting business process we face 
+two problems in Unify.  
+Controls built into Unify are already obsolete.
+Unify does not maintain all products in one database, making efforts to net 
+across products in the future (physical with financial, for instance) 
+impossible.
+
+Our understanding of the netting process in SAP indicates that there are no 
+controls (which sounds good at this point) and that we would retain the 
+automatic netting entries when the payable is netted with the receivable 
+within SAP.  However, we emphasize that netting would be done in SAP, not at 
+the time of finaling a payment in Unify.
+
+To repeat, we are recommending that Unify AR be turned off and we convert to 
+SAP AR.  We will schedule a meeting the week of February 22 to discuss.  
+Please call me at X33179 with any questions or comments.  We WILL make this 
+decision by February 28 because the SAP timeline does not allow any 
+additional time for consideration.
+
+Stephen
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:49 2022
+Message-ID: <13983715.1075855929570.JavaMail.evans@thyme>
+Date: Wed, 2 Aug 2000 07:45:00 -0700 (PDT)
+From: tommy.yanowski@enron.com
+To: brenda.herod@enron.com, edward.gottlob@enron.com, brent.price@enron.com,
+	sally.beck@enron.com
+Subject: Unify Performance Issues are Priority Number One
+Cc: brian.redmond@enron.com, beth.perlman@enron.com, jeff.johnson@enron.com,
+	heather.johnson@enron.com, john.lavorato@enron.com,
+	philippe.bibi@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: brian.redmond@enron.com, beth.perlman@enron.com, jeff.johnson@enron.com,
+	heather.johnson@enron.com, john.lavorato@enron.com,
+	philippe.bibi@enron.com
+X-From: Tommy J Yanowski
+X-To: Brenda Herod, Edward D Gottlob, Brent A Price, Sally Beck
+X-cc: Brian Redmond, Beth Perlman, Jeff Johnson, Heather A Johnson, John J Lavorato, Philippe Bibi
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Unify
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Most of you are aware that Unify experienced some major performance issues as 
+we tried to close out the month of July.  Not to go into any details but 
+there seemed to be a lot of smaller issues which when combined caused the 
+issues we saw on Monday and to a lesser degree on Tuesday.  Almost all of the 
+issues relate to the quirkiness of the current version of Sybase which is 
+used for Unify's database.  Jeff Johnson and his team are putting together a 
+plan that will address most of these issues and hopefully result in 
+acceptable performance as we go through next bidweek and try to close for 
+August.  The short term tactical plans include the following:
+
+Enhancing certain programs which seem to have become resource hogs as the 
+amount of data grows.
+Test and hopefully migrate to the latest version of Sybase which will address 
+some of the issues.  This may also require some hardware changes as to where 
+we store certain data.  We will also need some user help in stress testing 
+prior to moving to production.
+Addressing with the users billing transactions that have never been finaled.  
+I have been told that we still have transactions going back to Jan of 99 that 
+have not been finaled or closed out.  This puts quite a load on the PMA and 
+accrual process since it has to go back to those open transactions to see 
+what if any action should be taken with these transactions.
+
+Once these changes have been implemented and hopefully bought us a little 
+time to absorb the tremendous growth we've been seeing via EOL  then we will 
+focus on delivering more intermediate and longer term solutions.  These 
+include the following:
+
+Rewriting most of the code and moving to a 3 tier environment which will be 
+much more scalable.
+Moving off of Sybase and on to Microsoft SQL Server or Oracle.  It will be 
+easier to move Microsoft SQL Server but we have to be sure it is the right 
+solution in the long term.
+
+Jeff will be following up with some of you to go over a much more detailed 
+plan.  Needless to say that this is his groups highest priority and his best 
+people are working on these efforts.  This will slow down major enhancement 
+efforts such as enhancing the gas applications to handle hourly trades and 
+nominations.  We will keep you informed as we start to roll out the tactical 
+solutions.  In the mean time feel free to contact me at x-36858 or Jeff at 
+x-39694 if you have any questions or require additional detail.  Thanks!  -  
+Tommy
+
+From MAILER-DAEMON Mon Apr 18 14:23:49 2022
+Message-ID: <5824378.1075855929875.JavaMail.evans@thyme>
+Date: Wed, 23 Feb 2000 06:35:00 -0800 (PST)
+From: stephen.schwarz@enron.com
+To: sally.beck@enron.com
+Subject: Unify AR -- SAP Plans
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Stephen P Schwarz
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Unify
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Here it is.  The block in the middle summarizes the change in business 
+situation over the last two years.
+
+Stephen
+
+---------------------- Forwarded by Stephen P Schwarz/HOU/ECT on 02/23/2000 
+02:34 PM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  Stephen P Schwarz                           02/18/2000 04:17 PM
+	
+
+To: Bryce Baxter/HOU/ECT@ECT, Lisa Csikos/HOU/ECT@ECT, Rita 
+Wynne/HOU/ECT@ECT, Mechelle Stevens/HOU/ECT@ECT, Susan Harrison/HOU/ECT@ECT, 
+Brenda F Herod/HOU/ECT@ECT, Brent A Price/HOU/ECT@ECT, Melissa K 
+Ratnala/HOU/ECT@ECT, Leslie Reeves@CCMAIL, Evelyn Aucoin/HOU/ECT@ECT, Laura E 
+Scott/CAL/ECT@ECT, Cheryl Dawes/CAL/ECT@ECT
+cc: Melissa White/HOU/ECT@ECT, Dorothy Ricketts/HOU/ECT@ECT, Kimberly 
+Perkins/HOU/ECT@ECT, Trang Le/HOU/ECT@ECT, Christy Sweeney/HOU/ECT@ECT 
+Subject: Unify AR -- SAP Plans
+
+
+	
+
+Two years ago Enron North America made a decision to use Unify AR for cash 
+application rather than SAP AR.  We decided at the time that SAP AR would be 
+kept in sync with Unify AR by the Unify/SAP interface.  We believe that the 
+business logic for that decision has changed, and are now recommending that 
+Unify AR be permanently turned off and all AR functions be performed in SAP.  
+I have briefly summarized the change in business situation below.
+
+Two Years Ago	Today
+Netting allowed by legal and credit ONLY if netting contract was already in 
+place.	Netting encouraged by legal and credit wherever possible, regardless of 
+existence of signed agreement.
+Netting limited to one counterparty and legal entity at a time.	Canada nets across 
+counterparties.
+Netting performed in physical only, financial settlements to maintain 
+separate net statement process.	ENA considering netting physical and financial 
+together.
+All account coordinators were to apply their own cash.	Cash applied centrally in 
+Power, Financial and Canada  Individual coordinators apply cash only in 
+physical Gas.
+Cash was to be applied at the line item level to track variances and to 
+facilitate calculation of cost of funds by commercial team.	Cash is not being 
+applied meaningfully at the line item level.  The company has not made any 
+move towards calculating cost of funds by commercial team.
+The Account Inquiry functionality in Unify was thought to be a key on-line 
+tool.	Old habits die hard...most users appear to be printing reports and reviewing 
+data, rather than using the on-line functionality.
+Overapplication of cash was not to be allowed.  Overpayments would be 
+classified as "on account", with issues tracked in a case management system.	Case 
+management system does not exist.  Allowing overapplication helps the account 
+coordinators track overpayments easier than leaving cash on account.
+The counterparty/legal entity combination on the deposit needed to match the 
+counterparty/legal entity combination on the Enron invoice.	Given the number of legal 
+entities Enron has, along with the number of entities our counterparties 
+have, this seems like a hopeless battle.  Allowing cross-application of cash 
+seems easier.
+Corp required that intercompany settlements had to be "settled" with cash 
+movement.	Corp no longer requires intercompany settlements to be "settled" with cash 
+movement.
+
+Converting to SAP AR simplifies the Unify/SAP interface in the following ways:
+Bank deposits into SAP do not have to be split off into Unify
+Cash entries in Unify do not have to be interfaced back to SAP
+Unify netting entries do not have to be interfaced to SAP
+Payables information does not have to be interfaced from SAP to Unify
+
+Given the change in attitudes towards our netting business process we face 
+two problems in Unify.  
+Controls built into Unify are already obsolete.
+Unify does not maintain all products in one database, making efforts to net 
+across products in the future (physical with financial, for instance) 
+impossible.
+
+Our understanding of the netting process in SAP indicates that there are no 
+controls (which sounds good at this point) and that we would retain the 
+automatic netting entries when the payable is netted with the receivable 
+within SAP.  However, we emphasize that netting would be done in SAP, not at 
+the time of finaling a payment in Unify.
+
+To repeat, we are recommending that Unify AR be turned off and we convert to 
+SAP AR.  We will schedule a meeting the week of February 22 to discuss.  
+Please call me at X33179 with any questions or comments.  We WILL make this 
+decision by February 28 because the SAP timeline does not allow any 
+additional time for consideration.
+
+Stephen
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:49 2022
+Message-ID: <29257087.1075855929926.JavaMail.evans@thyme>
+Date: Thu, 20 Jan 2000 05:56:00 -0800 (PST)
+From: richard.sage@enron.com
+To: fernley.dyson@enron.com
+Subject: Re: Unify in London
+Cc: stephen.schwarz@enron.com, richard.burchfield@enron.com,
+	eric.virro@enron.com, david.williams@enron.com, ian.sloman@enron.com,
+	beth.perlman@enron.com, mark.pickering@enron.com,
+	inja.chun@enron.com, barry.pearce@enron.com, philippe.bibi@enron.com,
+	sally.beck@enron.com, phil.yoxall@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stephen.schwarz@enron.com, richard.burchfield@enron.com,
+	eric.virro@enron.com, david.williams@enron.com, ian.sloman@enron.com,
+	beth.perlman@enron.com, mark.pickering@enron.com,
+	inja.chun@enron.com, barry.pearce@enron.com, philippe.bibi@enron.com,
+	sally.beck@enron.com, phil.yoxall@enron.com
+X-From: Richard Sage
+X-To: Fernley Dyson
+X-cc: Stephen P Schwarz, Richard Burchfield, Eric Virro, David J Williams, Ian Sloman, Beth S Perlman, Mark Pickering, Inja Chun, Barry Pearce, Philippe A Bibi, Sally Beck, Phil Yoxall
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Unify
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+We have pursued implementing Unify in London, however there are a number of 
+issues preventing that from happening in the near future:
+
+The Unify IT team has a lot of competing priorities (including the Houston 
+SAP implementation, as well as Houston and Calgary changes and enahncements), 
+and are unable to commit to a firm implementation date at this time.
+New commitments by ENA (see mail at bottom) have further complicated the 
+priorities, so even the tentative plans for implementing Unify in London this 
+year are in doubt.
+On the IT side, there are a number of issues with support and scalability of 
+the current architecture of the system.
+
+As it doesn't look like Unify can be implemented in London this year, we will 
+therefore change focus to streamlining the existing tactical solutions in 
+London (enhancing Back Office Settlements System, integrating with Global 
+CounterParties, removing London Office Manager, and using SAP where 
+appropriate).
+
+Once Unify has been integrated with SAP in Houston we will in a better 
+position to consider the long-term strategic approach to Unify in London.   
+If anyone believes that we should take a different response, please respond 
+to this email.
+
+
+Eric, Ian & Richard
+
+
+   
+	Enron Capital & Trade Resources Corp.
+	
+	From:  Fernley Dyson                           17/11/99 12:49
+	
+
+To: Richard Sage/LON/ECT@ECT
+cc: Stephen P Schwarz/HOU/ECT@ECT, Richard Burchfield/HOU/ECT@ECT, Eric 
+Virro/LON/ECT@ECT, David J Williams/LON/ECT@ECT, Ian Sloman/LON/ECT@ECT, Beth 
+S Perlman/LON/ECT@ECT 
+
+Subject: Re: Unify  
+
+We need to discuss the details, but to my mind the question has to be why 
+wouldn't we do it?
+
+
+
+Richard Sage
+17/11/99 09:02
+To: Fernley Dyson/LON/ECT@ECT, Stephen P Schwarz/HOU/ECT@ECT, Richard 
+Burchfield/HOU/ECT@ECT
+cc: Eric Virro/LON/ECT@ECT, David J Williams/LON/ECT@ECT, Ian 
+Sloman/LON/ECT@ECT, Beth S Perlman/LON/ECT@ECT 
+
+Subject: Unify
+
+
+
+
+Putting Unify in London is not something that is going to happen tomorrow.
+If we are going to do it we need to do it right.
+Shall we go ahead with this?
+
+  
+______________________________________________________________________________
+_______________________________________________________ 
+                        	
+	Enron Information Technology
+	
+	From:  Inja Chun                           17/01/2000 01:52
+	
+	
+
+To: Richard Sage/LON/ECT@ECT, Phil Yoxall/LON/ECT@ECT, Stephen P 
+Schwarz/HOU/ECT@ECT, Paul F Poellinger/HOU/ECT@ECT, Ian Sloman/LON/ECT@ECT, 
+Eric Virro/LON/ECT@ECT, Kenneth M Harmon/HOU/ECT@ECT, Regan M 
+Smith/HOU/ECT@ECT
+cc: Beth Perlman/LON/ECT@ECT, Mark Pickering/LON/ECT@ECT, Philippe A 
+Bibi/HOU/ECT@ECT, Sally Beck/HOU/ECT@ECT 
+
+Subject: Revised Unify Plan
+
+During the last few weeks, we experienced significant increases in Unify 
+transaction volumes because of Columbia Energy Services acquisition, EOL and 
+Calgary implementation.   For example, recently the Logistics transactions 
+increased by 91% while deal/meter count increased by 61% and total volume 
+(MMBTU) by 66%.  In addition, it is very possible that volumes may increase 
+by another 30% due to  new acquisitions in the near future. For these 
+reasons, we  must put our efforts in overhauling Unify Settlement  now before 
+working on London implementation.  Therefore, we are postponing our February 
+out visit to London.,  We will let you know our revised plans and targets as 
+soon as we can.  Thank you.
+______________________________________________________________________________
+______________________________________________________
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:49 2022
+Message-ID: <2720304.1075855929664.JavaMail.evans@thyme>
+Date: Wed, 5 Jul 2000 03:20:00 -0700 (PDT)
+From: beverly.fennessy@enron.com
+To: regan.smith@enron.com
+Subject: Re: SAP / Global/ Unify replication problem on Friday June 30th
+Cc: jeff.johnson@enron.com, scott.mills@enron.com, beth.perlman@enron.com,
+	sally.beck@enron.com, mark.schmidt@enron.com,
+	randy.rippentrop@enron.com, susan.marshall@enron.com,
+	mark.leskowitz@enron.com, theresa.shieh@enron.com,
+	louie.truong@enron.com, richard.elwood@enron.com,
+	kenneth.harmon@enron.com, scott.williamson@enron.com,
+	jun.lu@enron.com, simon.sear@enron.com, kevin.dinh@enron.com,
+	dave.nommensen@enron.com, terry.sanvido@enron.com,
+	pamela.lebrane@enron.com, chris.schomer@enron.com,
+	bill.hare@enron.com, lana.yu@enron.com,
+	jaikishore.bharathi@enron.com, jim.ogg@enron.com,
+	greg.whiting@enron.com, diem.pham@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jeff.johnson@enron.com, scott.mills@enron.com, beth.perlman@enron.com,
+	sally.beck@enron.com, mark.schmidt@enron.com,
+	randy.rippentrop@enron.com, susan.marshall@enron.com,
+	mark.leskowitz@enron.com, theresa.shieh@enron.com,
+	louie.truong@enron.com, richard.elwood@enron.com,
+	kenneth.harmon@enron.com, scott.williamson@enron.com,
+	jun.lu@enron.com, simon.sear@enron.com, kevin.dinh@enron.com,
+	dave.nommensen@enron.com, terry.sanvido@enron.com,
+	pamela.lebrane@enron.com, chris.schomer@enron.com,
+	bill.hare@enron.com, lana.yu@enron.com,
+	jaikishore.bharathi@enron.com, jim.ogg@enron.com,
+	greg.whiting@enron.com, diem.pham@enron.com
+X-From: Beverly Fennessy
+X-To: Regan M Smith
+X-cc: Jeff Johnson, Scott Mills, Beth Perlman, Sally Beck, Mark Schmidt, Randy Rippentrop, Susan S Marshall, Mark J Leskowitz, Theresa Shieh, Louie Truong, Richard Elwood, Kenneth M Harmon, Scott Williamson, Jun Lu, Simon Sear, Kevin T Dinh, Dave Nommensen, Terry Sanvido, Pamela Lebrane, Chris Schomer, Bill D Hare, Lana Yu, Jaikishore Bharathi, Jim Ogg, Greg Whiting, Diem Pham
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Unify
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Hi.  To complete our discussion on the  manual monitoring & also to clarify, 
+see below.
+
+Greg Whiting will call ENA whenever he enters more than a specified number of 
+changes in the SAP T880 table. He will transition this procedure to the SAP 
+COE.  What is the threshold that Global needs to be notified?  Who in Global 
+should be notified?
+
+To clarify, the verification is manual & is subject to human error, such as 
+someone forgets or is on vacation.  If a large file is sent without 
+notification during the day, the impact is significant.  I think moving the 
+job to run in the evening will virtually eliminate the potential for this 
+problem to occur again.  However, to eliminate the risk completely I suggest 
+that the verification be automated.  You said that you'll have the ability to 
+do this in global in a few months.  If you can't do it, then we (SAP) need to 
+write an automated monitoring program.  
+
+
+
+
+
+
+Regan M Smith@ECT
+07/05/2000 08:53 AM
+To: Jeff Johnson/Corp/Enron@Enron, Scott Mills/HOU/ECT@ECT, Beth 
+Perlman/HOU/ECT@ECT, Sally Beck/HOU/ECT@ECT, Mark Schmidt/Corp/Enron@ENRON, 
+Randy Rippentrop/Corp/Enron@ENRON
+cc: Beverly Fennessy/Corp/Enron@ENRON, Susan S Marshall/HOU/ECT@ECT, Mark J 
+Leskowitz/HOU/ECT@ECT, Theresa Shieh/Corp/Enron@ENRON, Louie 
+Truong/GPGFIN/Enron@ENRON, Richard Elwood/HOU/ECT@ECT, Kenneth M 
+Harmon/HOU/ECT@ECT, Jeff Johnson/Corp/Enron@Enron, Scott 
+Williamson/HOU/ECT@ECT, Jun Lu/HOU/ECT@ECT, Simon Sear/Corp/Enron@Enron, 
+Kevin T Dinh/HOU/ECT@ECT, Dave Nommensen/HOU/ECT@ECT, Terry 
+Sanvido/Corp/Enron@ENRON, Pamela Lebrane/Corp/Enron@ENRON, Chris 
+Schomer/Corp/Enron@ENRON, Bill D Hare/HOU/ECT@ect, Lana Yu/HOU/ECT@ECT, 
+Jaikishore Bharathi/HOU/ECT@ECT, Jim Ogg/HOU/ECT@ECT 
+
+Subject: SAP / Global/ Unify replication problem on Friday June 30th
+
+
+On Friday June 30th, Unify's production performance was impacted by a large 
+volume (30k) of replication/ configuration transactions from SAP.
+The mass update from SAP to Global/ Unify effected Enron's business 
+throughout the afternoon, causing contract replication to be delayed, and 
+missed nominations.
+
+Corrective actions taken to ensure this does not occur again:
+Global Replication - Move the SAP to Global/ Unify replication for 
+Intercompany from hourly to a nightly (1:00 am) process.  As we could miss 
+new data setup dependencies, the volume is expected to be reduced.
+SAP Support - SAP IT support will notify Global systems of any scheduled 
+'rebuilds'/ mass updates to monitor/ move the schedule during an off-peak 
+time.
+
+
+Regan Smith, x39291
+Manager, Unify Accounting
+Unify/ SAP Interface
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:49 2022
+Message-ID: <20304500.1075845086114.JavaMail.evans@thyme>
+Date: Thu, 29 Mar 2001 12:26:00 -0800 (PST)
+From: jeff.johnson@enron.com
+To: beth.perlman@enron.com, jenny.rub@enron.com, bob.mcauliffe@enron.com,
+	philippe.bibi@enron.com, richard.burchfield@enron.com,
+	bob.hall@enron.com, leslie.reeves@enron.com, sheila.glover@enron.com,
+	cindy.horn@enron.com, sally.beck@enron.com, peggy.hedstrom@enron.com,
+	laura.scott@enron.com
+Subject: Unify Financials Update And Go-Forward Cut-Over Calendar
+Cc: ramesh.rao@enron.com, dale.potter@enron.com, jim.ogg@enron.com,
+	mike.croucher@enron.com, john.opalko@enron.com,
+	rpierce@microsoft.com, jamespin@microsoft.com,
+	jeannine.bardsley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: ramesh.rao@enron.com, dale.potter@enron.com, jim.ogg@enron.com,
+	mike.croucher@enron.com, john.opalko@enron.com,
+	rpierce@microsoft.com, jamespin@microsoft.com,
+	jeannine.bardsley@enron.com
+X-From: Jeff Johnson <Jeff Johnson/ENRON@enronXgate@ENRON>
+X-To: Beth Perlman <Beth Perlman/ENRON@enronXgate>, Jenny Rub <Jenny Rub/ENRON@enronXgate>, Bob McAuliffe <Bob McAuliffe/ENRON@enronXgate>, Philippe A Bibi <Philippe A Bibi/ENRON@enronXgate>, Richard Burchfield <Richard Burchfield/ENRON@enronXgate>, Bob M Hall <Bob M Hall/NA/Enron@Enron>, Leslie Reeves <Leslie Reeves/HOU/ECT@ECT>, Sheila Glover <Sheila Glover/HOU/ECT@ECT>, Cindy Horn <Cindy Horn/LON/ECT@ECT>, Sally Beck <Sally Beck/HOU/ECT@ECT>, Peggy Hedstrom <Peggy Hedstrom/CAL/ECT@ECT>, Laura E Scott <Laura E Scott/CAL/ECT@ECT>
+X-cc: Ramesh Rao <Ramesh Rao/ENRON@enronXgate>, Dale Potter <Dale Potter/ENRON@enronXgate>, Jim Ogg <Jim Ogg/ENRON@enronXgate>, Mike Croucher <Mike Croucher/ENRON@enronXgate>, John Opalko <John Opalko/ENRON@enronXgate>, rpierce@microsoft.com@SMTP <rpierce@microsoft.com@SMTP@enronXgate>, jamespin@microsoft.com@SMTP <jamespin@microsoft.com@SMTP@enronXgate>, Jeannine Bardsley <Jeannine Bardsley/ENRON@enronXgate>
+X-bcc: 
+X-Folder: \Beck, Sally\Beck, Sally\Unify
+X-Origin: BECK-S
+X-FileName: Beck, Sally.pst
+
+
+A quick update on a major milestone for the Unify effort, the critical success factors and the plan for the Gas and Power deliveries. 
+
+First, the good news --- We rolled out the new Unify Financials system on Monday. The rollout so far is very nearly a flawless success. Only 2 small bugs have been identified and both were fixed within 1 day. The users in Houston and London have commented that the system is noticeably faster. This system was delivered 4 weeks ahead of the original schedule that we published in early January. For a project of this size and complexity, this is great news and bodes well for the next 2 major milestones.
+
+We're not out of the woods yet. Our biggest and most risky rollouts are a few weeks away - Power and Gas. 
+Even so, as we look ahead, we are very optimistic. Based on our empirical load testing, we believe that we can now deliver incremental performance increases and long-term scaleability far beyond what the legacy architecture would support. Reliability and stability should continue to increase beyond the recently improved performance we've gotten from the new legacy hardware. 
+
+This milestone success is due to the following critical factors: 
+
+?	Strong Executive IT sponsorship and participation (Special thanks to Philippe Bibi, Beth Perlman, Jenny Rub, Bob McAuliffe, Richard Burchfield)
+?	Strong Executive User sponsorship and user participation (Special thanks to Sally Beck, Bob Hall, Leslie Reeves, Sheila Glover, Cindy Horn, Peggy Hedstrom and Laura Scott)
+?	Adoption of a risk-managed delivery methodology based on detailed planning and a phased delivery approach
+?	A talented Enron delivery team with great technical skills and the dedication to work nearly every weekend for the last 2 months (and the next 2) 
+?	Exemplary partnering between the Infrastructure, Application, DBA and User teams 
+?	Uncompromising commitments to team success from the vendors (Special thanks to Microsoft, Accenture, Compaq, Avenade)
+?	Focused project management (Special thanks to Ramesh Rao, Dale Potter, Mike Croucher and Jim Ogg). 
+
+
+The attachment below provides a calendar of activities for everything that's happening between now and mid-May. Power will go live on April 23 and Gas will go live on May 21. The user bid-week simulation and performance tests for gas begin next week. As the calendar below shows, the team is fully occupied for the next 2 months. 
+
+ 
+Livelink:  http://edms.livelink.enron.com/ena/livelink.exe?func=ll&objId=8743122&objAction=browse&sort=name
+
+
+Thanks to everyone for their help in achieving this milestone as well as your continued support as we push to deliver Power and Gas with the same level of success. Please communicate our gratitude to each member of your respective teams. 
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:23:49 2022
+Message-ID: <13009122.1075855929780.JavaMail.evans@thyme>
+Date: Thu, 2 Mar 2000 09:52:00 -0800 (PST)
+From: inja.chun@enron.com
+To: bryce.baxter@enron.com, lisa.csikos@enron.com, susan.harrison@enron.com,
+	rita.wynne@enron.com, gary.nelson@enron.com, brent.price@enron.com,
+	brenda.herod@enron.com, sally.beck@enron.com,
+	leslie.reeves@enron.com, kenneth.harmon@enron.com,
+	regan.smith@enron.com
+Subject: Finalizing Prior Month Gas Invoice/Payment
+Cc: sally.beck@enron.com, beth.perlman@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sally.beck@enron.com, beth.perlman@enron.com
+X-From: Inja Chun
+X-To: Bryce Baxter, Lisa Csikos, Susan Harrison, Rita Wynne, Gary Nelson, Brent A Price, Brenda F Herod, Sally Beck, Leslie Reeves, Kenneth M Harmon, Regan M Smith
+X-cc: Sally Beck, Beth Perlman
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Unify
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+As you know, we have been experiencing very long processing times for Monthly 
+Accounting Closing each month.  This problem is becoming increasingly worse 
+each month because most of the prior months have un-finalized 
+invoices/payments which require reprocessing this data each month (draft, 
+reversal of last accrual and creating new accrual).   This condition goes 
+back to Jan. 99 for Unify, Jan. 95 for pre-Unify PMAs, and becomes worse each 
+month as more such items are accumulated. 
+
+A few month ago, we discussed this situation and as shown below, not much 
+progress has been made in finalizing prior month data in Gas business while 
+better  progress has been achieved in Power settlement.  It is essential this 
+be strongly addressed.  Otherwise, the system will soon be unable to process 
+the Monthly Closing (mass draft & Closing) within a day.  It will be very 
+helpful if you would prepare a plan to address this issue and attend a 
+meeting on  Thursday (3/9) at 10:00 in EB2601 to discuss future actions.  
+Thank you.
+
+  
+---------------------- Forwarded by Inja Chun/HOU/ECT on 03/02/2000 01:20 PM 
+---------------------------
+   
+                        	
+	Enron Technology
+	
+	From:  Regan M Smith                           03/02/2000 11:06 AM
+	
+
+To: Inja Chun/HOU/ECT@ECT
+cc: Kenneth M Harmon/HOU/ECT@ECT 
+Subject: As discussed, below is the Mar-00 Accrual metrics, by delivery 
+period.
+
+
+Inja,
+
+Below is the revised detail items which reflect the open items from less than 
+July 99.  It compares from Jan1st metrics to March 1st metrics.
+The load to Unify comes from the 2 angels below.  The Mass Draft has the 
+concern of statements not finalized for those periods, which the back end 
+accrual & reporting has
+the increased load of line items.
+
+Front End process 
+Mass Draft Process (load) - whenever any statement has not been finalized for 
+a prior delivery period, it has to redraft for those deals.  Hence, redraft 
+for every deal for that counterparty.
+
+Back End processes
+Accrual Process - The accrual extracts on a line item detail, which is 
+stored, and reported on various reports.
+GL Month Process - The GL Month Report extracts on a line item detail, which 
+is reported from the ACRL and PDCLS perspective.
+
+GAS Summary:  
+    No of Line Items    No. of Line Items
+    July 99 & Prior Month    since July 99
+ As of Dec-99   12,848    87,574
+ As of Mar-00   10,802    123,694
+
+ Growth/Reduction  <2046>    36,120
+
+
+
+
+
+
+---------------------- Forwarded by Regan M Smith/HOU/ECT on 03/02/2000 08:30 
+AM ---------------------------
+
+
+	Regan M Smith
+	01/01/2000 02:08 PM
+	
+To: Inja Chun/HOU/ECT@ECT
+cc: Kenneth M Harmon/HOU/ECT@ECT 
+Subject: As discussed, below is the Dec99 Accrual metrics, by delivery period.
+
+ 
+Inja,
+As discussed, below is the Dec99 Accrual metrics, by delivery period.
+
+Again, this increased history creates additional loads on:
+mass draft process - having to redraft prior delivery periods
+accrual process - increases the accrual time, reporting
+retrieval, reporting, sending to MSA J/P.  Example, we are nearing 10,000 
+line items alone of ACRL data for 016.
+period close reversal - each month we send a offset reversal for every prior 
+month accrual
+overall data growth in detail tables to support prior months
+
+
+
+
+
+This can be also seen by running the accrual reprint retrieve report, or the 
+finalized transaction by gl month report (ACRL).
+
+Regan
+
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:49 2022
+Message-ID: <15948520.1075855929524.JavaMail.evans@thyme>
+Date: Thu, 31 Aug 2000 02:29:00 -0700 (PDT)
+From: robert.superty@enron.com
+To: sally.beck@enron.com, bob.hall@enron.com
+Subject: PGL unify training
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Robert Superty
+X-To: Sally Beck, Bob M Hall
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Unify
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Sally, Bob
+
+FYI - Nice note from the Chicago office regarding the roll-out and training 
+in Unify. As you might know they are live on September 1 with Unify. 
+Currently they are only pathing on NGPL but we expect them to expand to 
+include both Trunkline and Northern Border. They have elected not to EDI 
+until  they get more comfortable with the system (maybe for October 
+business). 
+
+We will continue to develop their staff on the use of Unify through 
+additional training as noted below - Bob
+---------------------- Forwarded by Robert Superty/HOU/ECT on 08/31/2000 
+09:05 AM ---------------------------
+
+
+Richard Tomaski@ENRON
+08/30/2000 06:16 PM
+To: Robert Superty/HOU/ECT@ECT
+cc: Laura Luce, Barbara G Dillard/Corp/Enron@Enron 
+Subject: PGL unify training
+
+Bob- 
+
+Just wanted to drop you a note to let you know that Richard Pinion's unify 
+training secession was very sucessful.  The PGL employees that he trained 
+were very complementary of Richard and they now feel confident that they will 
+be able to use our system.   They are already looking forward to his return 
+visit in September.  
+
+Thankyou for your involvement with the Chicago office and our implementation 
+of the Unify system.  
+
+
+Richard
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:49 2022
+Message-ID: <17230666.1075855929952.JavaMail.evans@thyme>
+Date: Tue, 18 Jan 2000 05:46:00 -0800 (PST)
+From: inja.chun@enron.com
+To: beth.perlman@enron.com, philippe.bibi@enron.com, mark.pickering@enron.com
+Subject: Unify Brainstorm Session - Results
+Cc: sally.beck@enron.com, robert.superty@enron.com, brent.price@enron.com,
+	brenda.herod@enron.com, leslie.reeves@enron.com,
+	stephen.schwarz@enron.com, dave.nommensen@enron.com,
+	paul.poellinger@enron.com, kenneth.harmon@enron.com,
+	regan.smith@enron.com, russ.whitton@enron.com,
+	chris.schomer@enron.com, peggy.alix@enron.com,
+	scott.williamson@enron.com, jim.ogg@enron.com, judy.rose@enron.com,
+	susie.llinas@enron.com, bryce.baxter@enron.com,
+	sheri.thomas@enron.com, tommy.yanowski@enron.com,
+	richard.burchfield@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sally.beck@enron.com, robert.superty@enron.com, brent.price@enron.com,
+	brenda.herod@enron.com, leslie.reeves@enron.com,
+	stephen.schwarz@enron.com, dave.nommensen@enron.com,
+	paul.poellinger@enron.com, kenneth.harmon@enron.com,
+	regan.smith@enron.com, russ.whitton@enron.com,
+	chris.schomer@enron.com, peggy.alix@enron.com,
+	scott.williamson@enron.com, jim.ogg@enron.com, judy.rose@enron.com,
+	susie.llinas@enron.com, bryce.baxter@enron.com,
+	sheri.thomas@enron.com, tommy.yanowski@enron.com,
+	richard.burchfield@enron.com
+X-From: Inja Chun
+X-To: Beth Perlman, Philippe A Bibi, Mark Pickering
+X-cc: Sally Beck, Robert Superty, Brent A Price, Brenda F Herod, Leslie Reeves, Stephen P Schwarz, Dave Nommensen, Paul F Poellinger, Kenneth M Harmon, Regan M Smith, Russ Whitton, Chris Schomer, Peggy Alix, Scott Williamson, Jim Ogg, Judy Rose, Susie Llinas, Bryce Baxter, Sheri Thomas, Tommy J Yanowski, Richard Burchfield
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Unify
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Attached for your information is the results from our Unify Team's 
+brainstorming sessions yesterday.  I appreciate every ones' active 
+participation and cooperation in coming up with good ideas and action 
+items.    
+
+From MAILER-DAEMON Mon Apr 18 14:23:49 2022
+Message-ID: <7286402.1075849860655.JavaMail.evans@thyme>
+Date: Thu, 29 Mar 2001 01:26:00 -0800 (PST)
+From: jeff.johnson@enron.com
+To: beth.perlman@enron.com, jenny.rub@enron.com, bob.mcauliffe@enron.com,
+	philippe.bibi@enron.com, richard.burchfield@enron.com,
+	bob.hall@enron.com, leslie.reeves@enron.com, sheila.glover@enron.com,
+	cindy.horn@enron.com, sally.beck@enron.com, peggy.hedstrom@enron.com,
+	laura.scott@enron.com
+Subject: Unify Financials Update And Go-Forward Cut-Over Calendar
+Cc: ramesh.rao@enron.com, dale.potter@enron.com, jim.ogg@enron.com,
+	mike.croucher@enron.com, john.opalko@enron.com,
+	rpierce@microsoft.com, jamespin@microsoft.com,
+	jeannine.bardsley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: ramesh.rao@enron.com, dale.potter@enron.com, jim.ogg@enron.com,
+	mike.croucher@enron.com, john.opalko@enron.com,
+	rpierce@microsoft.com, jamespin@microsoft.com,
+	jeannine.bardsley@enron.com
+X-From: Jeff Johnson
+X-To: Beth Perlman, Jenny Rub, Bob McAuliffe, Philippe A Bibi, Richard Burchfield, Bob M Hall, Leslie Reeves, Sheila Glover, Cindy Horn, Sally Beck, Peggy Hedstrom, Laura E Scott
+X-cc: Ramesh Rao, Dale Potter, Jim Ogg, Mike Croucher, John Opalko, rpierce@microsoft.com@SMTP@enronXgate, jamespin@microsoft.com@SMTP@enronXgate, Jeannine Bardsley
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Unify
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+A quick update on a major milestone for the Unify effort, the critical 
+success factors and the plan for the Gas and Power deliveries. 
+
+First, the good news --- We rolled out the new Unify Financials system on 
+Monday. The rollout so far is very nearly a flawless success. Only 2 small 
+bugs have been identified and both were fixed within 1 day. The users in 
+Houston and London have commented that the system is noticeably faster. This 
+system was delivered 4 weeks ahead of the original schedule that we published 
+in early January. For a project of this size and complexity, this is great 
+news and bodes well for the next 2 major milestones.
+
+We're not out of the woods yet. Our biggest and most risky rollouts are a few 
+weeks away - Power and Gas. 
+Even so, as we look ahead, we are very optimistic. Based on our empirical 
+load testing, we believe that we can now deliver incremental performance 
+increases and long-term scaleability far beyond what the legacy architecture 
+would support. Reliability and stability should continue to increase beyond 
+the recently improved performance we've gotten from the new legacy hardware. 
+
+This milestone success is due to the following critical factors: 
+
+? Strong Executive IT sponsorship and participation (Special thanks to 
+Philippe Bibi, Beth Perlman, Jenny Rub, Bob McAuliffe, Richard Burchfield)
+? Strong Executive User sponsorship and user participation (Special thanks to 
+Sally Beck, Bob Hall, Leslie Reeves, Sheila Glover, Cindy Horn, Peggy 
+Hedstrom and Laura Scott)
+? Adoption of a risk-managed delivery methodology based on detailed planning 
+and a phased delivery approach
+? A talented Enron delivery team with great technical skills and the 
+dedication to work nearly every weekend for the last 2 months (and the next 
+2) 
+? Exemplary partnering between the Infrastructure, Application, DBA and User 
+teams 
+? Uncompromising commitments to team success from the vendors (Special thanks 
+to Microsoft, Accenture, Compaq, Avenade)
+? Focused project management (Special thanks to Ramesh Rao, Dale Potter, Mike 
+Croucher and Jim Ogg). 
+
+
+The attachment below provides a calendar of activities for everything that's 
+happening between now and mid-May. Power will go live on April 23 and Gas 
+will go live on May 21. The user bid-week simulation and performance tests 
+for gas begin next week. As the calendar below shows, the team is fully 
+occupied for the next 2 months. 
+
+
+Livelink:  
+http://edms.livelink.enron.com/ena/livelink.exe?func=ll&objId=8743122&objActio
+n=browse&sort=name
+
+
+Thanks to everyone for their help in achieving this milestone as well as your 
+continued support as we push to deliver Power and Gas with the same level of 
+success. Please communicate our gratitude to each member of your respective 
+teams. 
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:23:49 2022
+Message-ID: <11525885.1075855929852.JavaMail.evans@thyme>
+Date: Mon, 28 Feb 2000 09:18:00 -0800 (PST)
+From: robert.superty@enron.com
+To: sally.beck@enron.com
+Subject: Unify
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Robert Superty
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Unify
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Sally, FYI - We've had many complaints and I've had many discussions today 
+with Dave N. and Inja. They did discover some system board that is going to 
+be replaced tonight. Hopefully replacing the board will do it but history 
+makes me skeptical that this is the sole cause for the slow performance.
+
+Needless to say we had to get Settlements and Volume Management to stop their 
+work and we still didn't see any improvement. I know everyone is just as 
+frustrated as Logistics. At our last several meetings to discuss this problem 
+I was insistent that unless they have an answer it seems to me, and the rest 
+of the staff, that the system just cannot support the real heavy demand that 
+first of month noms and the monthly close require. 
+
+I've included an email I received from Kathy Kelly if you want some gory 
+detail. To save you the trouble it normally takes 2-3 minutes to create 
+nominations on the largest pipes today some have taken as long as 55 
+minutes.  
+
+I'll keep you posted - Bob
+---------------------- Forwarded by Robert Superty/HOU/ECT on 02/28/2000 
+04:52 PM ---------------------------
+
+
+Robert Superty
+02/28/2000 04:47 PM
+To: Inja Chun/HOU/ECT@ECT, Dave Nommensen/HOU/ECT@ECT
+cc:  
+Subject: Unify
+
+FYI - Inja, Dave - Please read Kathy's memo below. 
+
+Don't know what to tell them. We've been down this road at the same time of 
+the month over and over again.  
+
+Any suggestions - Bob
+---------------------- Forwarded by Robert Superty/HOU/ECT on 02/28/2000 
+04:30 PM ---------------------------
+   
+	
+	
+	From:  Katherine L Kelly                           02/28/2000 04:26 PM
+	
+
+To: Robert Superty/HOU/ECT@ECT
+cc: Edward Terry/HOU/ECT@ECT 
+Subject: Unify
+
+Bob,
+
+You have probably already caught wind of this since it seems to be the only 
+thing anyone is talking about today, but I wanted to bring it to your 
+attention that unify is at an all time pathetic slowness today.  Basically, 
+this is all I've heard about today from the schedulers.  Clarissa has just 
+handed me a screen print that shows that it took 33.23 minutes to create a 
+nom on Tennessee.  Robert has informed me that it has taken him 55 minutes to 
+create a nom on Columbia Gas.  It took me over 30 minutes to log on today and 
+as soon as I ran a report, it kicked me out saying that I didn't have enough 
+memory.  
+
+This has always been a problem at the end of the month, but this month has 
+reached in all time low.  I've talked to Dave about three or four times today 
+and so has Ed.  Ed has been monitoring the system and he seems to think that 
+client services has been taking a large part of the CPU time.  We have both 
+questioned Dave on this, but he doesn't seem to see anything unusual with the 
+amount of users from accounting, although he does agree that a huge amount of 
+CPU time is being used.  
+
+I hate to end this on a  negative note, but at this rate, no one will be 
+clean by 1:45 tomorrow.  I don't know what the status is as far as people 
+looking into ways to make unify faster, but maybe it is time to draw some 
+attention to this again.  
+
+By the way, the bridge from sitara to unify has also been crawling today.  
+I've already informed Dave of this, but the bridge was totally out of 
+commission this past weekend as well.   This effected those people who tried 
+to get a jump start on cleaning for the month and working on the first of the 
+month noms.  I hate to say it, but once again, how can we expect people to 
+get their work done, if we don't give them systems that work.  On a good 
+note, I did get feedback from Clarissa that terminal server was working well 
+over the weekend.  Unfortunately, she said that unify was terribly slow, but 
+no slower than it is when she's here in the office.  
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:49 2022
+Message-ID: <21064365.1075855929975.JavaMail.evans@thyme>
+Date: Sun, 16 Jan 2000 11:52:00 -0800 (PST)
+From: inja.chun@enron.com
+To: richard.sage@enron.com, phil.yoxall@enron.com, stephen.schwarz@enron.com,
+	paul.poellinger@enron.com, ian.sloman@enron.com,
+	eric.virro@enron.com, kenneth.harmon@enron.com,
+	regan.smith@enron.com
+Subject: Revised Unify Plan
+Cc: beth.perlman@enron.com, mark.pickering@enron.com, philippe.bibi@enron.com,
+	sally.beck@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: beth.perlman@enron.com, mark.pickering@enron.com, philippe.bibi@enron.com,
+	sally.beck@enron.com
+X-From: Inja Chun
+X-To: Richard Sage, Phil Yoxall, Stephen P Schwarz, Paul F Poellinger, Ian Sloman, Eric Virro, Kenneth M Harmon, Regan M Smith
+X-cc: Beth Perlman, Mark Pickering, Philippe A Bibi, Sally Beck
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Unify
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+During the last few weeks, we experienced significant increases in Unify 
+transaction volumes because of Columbia Energy Services acquisition, EOL and 
+Calgary implementation.   For example, recently the Logistics transactions 
+increased by 91% while deal/meter count increased by 61% and total volume 
+(MMBTU) by 66%.  In addition, it is very possible that volumes may increase 
+by another 30% due to  new acquisitions in the near future. For these 
+reasons, we  must put our efforts in overhauling Unify Settlement  now before 
+working on London implementation.  Therefore, we are postponing our February 
+out visit to London.,  We will let you know our revised plans and targets as 
+soon as we can.  Thank you.
+
+From MAILER-DAEMON Mon Apr 18 14:23:49 2022
+Message-ID: <9069779.1075855929592.JavaMail.evans@thyme>
+Date: Thu, 13 Jul 2000 09:12:00 -0700 (PDT)
+From: jefferson.sorenson@enron.com
+To: brent.price@enron.com, sally.beck@enron.com
+Subject: Update - ENA Confirmation Delivery System
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jefferson D Sorenson
+X-To: Brent A Price, Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Unify
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+could have a large impact, will keep you posted
+---------------------- Forwarded by Jefferson D Sorenson/HOU/ECT on 
+07/13/2000 04:11 PM ---------------------------
+
+
+Bob Bowen
+07/13/2000 03:11 PM
+To: Jefferson D Sorenson/HOU/ECT@ECT
+cc: Kim S Theriot/HOU/ECT@ECT 
+Subject: Update - ENA Confirmation Delivery System
+
+We may finally have some good news for a change.  Mark Taylor with ENA Legal 
+said yesterday 
+that the law signed by President Clinton in June regarding electronic 
+signatures should allow us to
+eliminate confirmations for Enron OnLine transactions.  The law, in short, 
+gives electronic signatures
+the legal weight of paper signatures and goes into effect October 1, 2000.
+
+Until we receive final approval, we will have to simply hope and pray that 
+this becomes reality.  However, 
+even if this becomes reality, we will continue to have Counterparties that 
+will require confirmations such 
+as the public utilities.
+
+I will keep you updated.
+
+From MAILER-DAEMON Mon Apr 18 14:23:49 2022
+Message-ID: <12056340.1075855929901.JavaMail.evans@thyme>
+Date: Fri, 21 Jan 2000 02:08:00 -0800 (PST)
+From: inja.chun@enron.com
+To: sally.beck@enron.com
+Subject: Unify use of TIBCO in Production
+Cc: robert.superty@enron.com, brent.price@enron.com, susan.harrison@enron.com,
+	lisa.csikos@enron.com, bryce.baxter@enron.com,
+	sheri.thomas@enron.com, george.smith@enron.com,
+	stephen.schwarz@enron.com, richard.burchfield@enron.com,
+	philippe.bibi@enron.com, mark.pickering@enron.com,
+	beth.perlman@enron.com, jay.webb@enron.com, dave.nommensen@enron.com,
+	arshak.sarkissian@enron.com, christine.nguyen@enron.com,
+	paul.poellinger@enron.com, stephen.bennett@enron.com,
+	larry.scott@enron.com, john.tollefsen@enron.com,
+	scott.shields@enron.com, dave.mcmullan@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: robert.superty@enron.com, brent.price@enron.com, susan.harrison@enron.com,
+	lisa.csikos@enron.com, bryce.baxter@enron.com,
+	sheri.thomas@enron.com, george.smith@enron.com,
+	stephen.schwarz@enron.com, richard.burchfield@enron.com,
+	philippe.bibi@enron.com, mark.pickering@enron.com,
+	beth.perlman@enron.com, jay.webb@enron.com, dave.nommensen@enron.com,
+	arshak.sarkissian@enron.com, christine.nguyen@enron.com,
+	paul.poellinger@enron.com, stephen.bennett@enron.com,
+	larry.scott@enron.com, john.tollefsen@enron.com,
+	scott.shields@enron.com, dave.mcmullan@enron.com
+X-From: Inja Chun
+X-To: Sally Beck
+X-cc: Robert Superty, Brent A Price, Susan Harrison, Lisa Csikos, Bryce Baxter, Sheri Thomas, George Smith, Stephen P Schwarz, Richard Burchfield, Philippe A Bibi, Mark Pickering, Beth Perlman, Jay Webb, Dave Nommensen, Arshak Sarkissian, Christine Nguyen, Paul F Poellinger, Stephen W Bennett, Larry Scott, John P Tollefsen, Scott M Shields, Dave McMullan
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Unify
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Sally,
+As you know, we have been working to find new ways to improve Unify Logistics 
+functions.  A major step has now been achieved by installing TIBCO and moving 
+it into production today.  
+
+ Utilizing TIBCO in conjunction with our other enhancements will enable 
+Logistics to obtain real time updates from both EOL and Sitara without having 
+to re-retrieve them from the database.  This will automatically update 
+Scheduler screens with new deals as it comes without action on their part and 
+also reduce required database access.  This has been achieved through great 
+team work between many groups including Logistics Schedulers, Unify IT 
+Logistics & ADE, UNIX and Network people.    Please let me know if you want 
+to know more details.   Thank you.
+
+From MAILER-DAEMON Mon Apr 18 14:23:49 2022
+Message-ID: <4416322.1075855929635.JavaMail.evans@thyme>
+Date: Wed, 5 Jul 2000 09:58:00 -0700 (PDT)
+From: jefferson.sorenson@enron.com
+To: brent.price@enron.com, sally.beck@enron.com
+Subject: UNIFY TO SAP INTERFACES
+Cc: susan.harrison@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: susan.harrison@enron.com
+X-From: Jefferson D Sorenson
+X-To: Brent A Price, Sally Beck
+X-cc: Susan Harrison
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Unify
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+---------------------- Forwarded by Jefferson D Sorenson/HOU/ECT on 
+07/05/2000 04:58 PM ---------------------------
+
+
+Bob Klein
+07/05/2000 04:57 PM
+To: Jefferson D Sorenson/HOU/ECT@ECT
+cc: Rebecca Ford/HOU/ECT@ECT 
+Subject: UNIFY TO SAP INTERFACES
+
+We interfaced UNIFY to SAP three times today. Interface number one (8:40 AM) 
+was error free. The second interface (Noon) created duplicate invoices for 
+those sent in our first interface. The problem that caused the duplication 
+was that the flag in UNIFY that prevents invoices from being sent to SAP 
+after they have already been interfaced did not work. The problem was 
+corrected before out third interface at 3:15 PM. In the 3:15 interface, one 
+error occurred --- a counterparty was set up in Global as intercompany that 
+should be third party. This error will be corrected before our next interface 
+on 7/6 AM.
+
+Overall, I was pleased at how well the interfaces worked today and how fast 
+the SAP and UNIFY teams responded to our issues.
+
+Bob
+
+From MAILER-DAEMON Mon Apr 18 14:23:49 2022
+Message-ID: <19022419.1075855929689.JavaMail.evans@thyme>
+Date: Thu, 29 Jun 2000 08:38:00 -0700 (PDT)
+From: jeff.johnson@enron.com
+To: brent.price@enron.com, sally.beck@enron.com, beth.perlman@enron.com
+Subject: Re: Unify
+Cc: jefferson.sorenson@enron.com, rebecca.fordham@enron.com, bob.klein@enron.com,
+	kenneth.harmon@enron.com, steve.neal@enron.com, hoong.foon@enron.com,
+	kip.martin@enron.com, philip.glass@enron.com,
+	cynthia.clark@enron.com, richard.brockhan@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jefferson.sorenson@enron.com, rebecca.fordham@enron.com, bob.klein@enron.com,
+	kenneth.harmon@enron.com, steve.neal@enron.com, hoong.foon@enron.com,
+	kip.martin@enron.com, philip.glass@enron.com,
+	cynthia.clark@enron.com, richard.brockhan@enron.com
+X-From: Jeff Johnson
+X-To: Brent A Price, Sally Beck, Beth Perlman
+X-cc: Jefferson D Sorenson, Rebecca Fordham, Bob Klein, Kenneth M Harmon, Steve Neal, Hoong P Foon, Kip Martin, Philip R Glass, Cynthia Clark, Richard Brockhan
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Unify
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Brent, 
+
+As I have indicated to both Sally and Beth, this couldn't have been 
+accomplished without the solid partnership with the business and 
+participation by key individuals from your team. 
+
+Specifically, Jeff Sorensen, Bob Klein, Becky Ford, Laurel Adams and Melissa 
+White were key to making this work. This was a 'come from behind' effort and 
+there were many nights and weekends that this team shared pizza while 
+debugging SAP and Financials system issues. This type of partnership and 
+commitment is required for success in these types of projects. 
+
+Kudos to the team for the on-time delivery. Let's stay focused on making the 
+transition as smooth as possible ! 
+
+
+
+
+
+
+
+
+
+Brent A Price@ECT
+06/29/2000 11:34 AM
+To: Jefferson D Sorenson/HOU/ECT@ECT, Rebecca Fordham/LON/ECT@ECT, Bob 
+Klein/HOU/ECT@ECT, Kenneth M Harmon/HOU/ECT@ECT, Steve Neal/HOU/ECT@ECT, 
+Hoong P Foon/HOU/ECT@ECT, Kip Martin/HOU/ECT@ECT, Philip R Glass/HOU/ECT@ECT, 
+Cynthia Clark/Corp/Enron@ENRON, Richard Brockhan/Corp/Enron@ENRON
+cc: Jeff Johnson/Corp/Enron@Enron, Sally Beck/HOU/ECT@ECT 
+
+Subject: Re: Unify  
+
+Thanks for the update.  I also want to thank everyone for a job well done.  
+You all worked great as a team and proved that IT projects can be completed 
+on time and with relatively few problems.  Unify Financial Settlements could 
+serve as an example for future IT project implementations.
+
+
+   
+	
+	
+	From:  Jefferson D Sorenson                           06/28/2000 03:39 PM
+	
+
+To: Brent A Price/HOU/ECT@ECT
+cc:  
+Subject: Unify
+
+Today is the first day for Financial Settlements to use Unify in Production 
+(Penultimate settlement).  We will keep you posted on results.
+
+Jeff
+
+---------------------- Forwarded by Jefferson D Sorenson/HOU/ECT on 
+06/28/2000 09:32 AM ---------------------------
+
+
+Rebecca Ford
+06/27/2000 06:48 PM
+To: Kenneth M Harmon/HOU/ECT@ECT
+cc: Cynthia Clark/Corp/Enron@ENRON, Steve Neal/HOU/ECT@ECT, Richard 
+Brockhan/Corp/Enron@ENRON, Hoong P Foon/HOU/ECT@ECT, Kip Martin/HOU/ECT@ECT, 
+Philip R Glass/HOU/ECT@ECT, Jeff Johnson/Corp/Enron@Enron, Bob 
+Klein/HOU/ECT@ECT, Jefferson D Sorenson/HOU/ECT@ECT 
+Subject: Unify
+
+Hey Ken,
+
+I just wanted to let you know that the Financial Settlement group were very 
+impressed with Unify during the first training class that we had on Friday.  
+I did not hear any negative comments, and they even said they liked it better 
+than SIFT.  Some of the key areas in which they see great benefit are:
+
+1.  the automatic calculation of in and out of the money options
+2.  the statement group assignment screen and the idea of selecting different 
+statement groups for different payment terms
+3.  the ability to sort and subtotal on financial list screen 
+4.  the system is more efficient than SIFT
+5.  the ability to view the invoice on screeen and to click directly on the 
+line to make adjustments
+6.  the ability to wire foreign currencies (really and SAP enhancement)
+
+One thing that I did hear is that they wished they could see Enron North 
+America AND ENA Global together on the financial list screen. 
+
+I think the development group did a great job, and I enjoyed working with 
+everyone.  I hope that in the next few weeks and months ahead that you will 
+continue to allow the team to provide our group with quick and efficient 
+response to areas of concern and enhancements.
+
+Thank you to the group for all of your hard work,
+Becky
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:49 2022
+Message-ID: <3171862.1075855929712.JavaMail.evans@thyme>
+Date: Thu, 29 Jun 2000 04:34:00 -0700 (PDT)
+From: brent.price@enron.com
+To: jefferson.sorenson@enron.com, rebecca.fordham@enron.com, bob.klein@enron.com,
+	kenneth.harmon@enron.com, steve.neal@enron.com, hoong.foon@enron.com,
+	kip.martin@enron.com, philip.glass@enron.com,
+	cynthia.clark@enron.com, richard.brockhan@enron.com
+Subject: Re: Unify
+Cc: jeff.johnson@enron.com, sally.beck@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jeff.johnson@enron.com, sally.beck@enron.com
+X-From: Brent A Price
+X-To: Jefferson D Sorenson, Rebecca Fordham, Bob Klein, Kenneth M Harmon, Steve Neal, Hoong P Foon, Kip Martin, Philip R Glass, Cynthia Clark, Richard Brockhan
+X-cc: Jeff Johnson, Sally Beck
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Unify
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Thanks for the update.  I also want to thank everyone for a job well done.  
+You all worked great as a team and proved that IT projects can be completed 
+on time and with relatively few problems.  Unify Financial Settlements could 
+serve as an example for future IT project implementations.
+
+
+   
+	
+	
+	From:  Jefferson D Sorenson                           06/28/2000 03:39 PM
+	
+
+To: Brent A Price/HOU/ECT@ECT
+cc:  
+Subject: Unify
+
+Today is the first day for Financial Settlements to use Unify in Production 
+(Penultimate settlement).  We will keep you posted on results.
+
+Jeff
+
+---------------------- Forwarded by Jefferson D Sorenson/HOU/ECT on 
+06/28/2000 09:32 AM ---------------------------
+
+
+Rebecca Ford
+06/27/2000 06:48 PM
+To: Kenneth M Harmon/HOU/ECT@ECT
+cc: Cynthia Clark/Corp/Enron@ENRON, Steve Neal/HOU/ECT@ECT, Richard 
+Brockhan/Corp/Enron@ENRON, Hoong P Foon/HOU/ECT@ECT, Kip Martin/HOU/ECT@ECT, 
+Philip R Glass/HOU/ECT@ECT, Jeff Johnson/Corp/Enron@Enron, Bob 
+Klein/HOU/ECT@ECT, Jefferson D Sorenson/HOU/ECT@ECT 
+Subject: Unify
+
+Hey Ken,
+
+I just wanted to let you know that the Financial Settlement group were very 
+impressed with Unify during the first training class that we had on Friday.  
+I did not hear any negative comments, and they even said they liked it better 
+than SIFT.  Some of the key areas in which they see great benefit are:
+
+1.  the automatic calculation of in and out of the money options
+2.  the statement group assignment screen and the idea of selecting different 
+statement groups for different payment terms
+3.  the ability to sort and subtotal on financial list screen 
+4.  the system is more efficient than SIFT
+5.  the ability to view the invoice on screeen and to click directly on the 
+line to make adjustments
+6.  the ability to wire foreign currencies (really and SAP enhancement)
+
+One thing that I did hear is that they wished they could see Enron North 
+America AND ENA Global together on the financial list screen. 
+
+I think the development group did a great job, and I enjoyed working with 
+everyone.  I hope that in the next few weeks and months ahead that you will 
+continue to allow the team to provide our group with quick and efficient 
+response to areas of concern and enhancements.
+
+Thank you to the group for all of your hard work,
+Becky
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:49 2022
+Message-ID: <31554246.1075855929613.JavaMail.evans@thyme>
+Date: Fri, 7 Jul 2000 01:36:00 -0700 (PDT)
+From: jefferson.sorenson@enron.com
+To: brent.price@enron.com, sally.beck@enron.com
+Subject: UNIFY TO SAP INTERFACE---DAY 2
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jefferson D Sorenson
+X-To: Brent A Price, Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Unify
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+fyi
+---------------------- Forwarded by Jefferson D Sorenson/HOU/ECT on 
+07/07/2000 08:35 AM ---------------------------
+
+
+Bob Klein
+07/06/2000 05:12 PM
+To: Jefferson D Sorenson/HOU/ECT@ECT
+cc: Rebecca Ford/HOU/ECT@ECT 
+Subject: UNIFY TO SAP INTERFACE---DAY 2
+
+As on Day 1 we ran the UNIFY to SAP interface at 8:00 AM, Noon, and 3:00 PM. 
+Set out below are the results of these runs.
+
+The interfaces for Enron North America (financial for gas, weather, and pulp 
+and paper) were error free.
+The interfaces for ENA Global Products--Financial resulted in two invoices 
+not being accepted by SAP. This was due to a SAP error that has occurred 
+about three times in test. However, the SAP team cannot duplicate the error 
+in order to correct. They are still trying to find the root of this problem. 
+The two transactions which were not picked up by SAP were resent successfully.
+The interfaces for ENA FX Financial uncovered a breakdown in the process. The 
+payment program for this entity is to be processed manually by the Accounts 
+Payable Dept. For July 5 and today, the AP Dept. forgot to process the 
+payment program resulting in nine payments (7 US $, 1 Canadian, and 1 GBP) 
+not  being paid. We were able to get all payments out today through SAP 
+except the GBP payment. The GBP non-payment was discovered by a counterparty 
+calling and stating that they did not received their funds. The US$ and 
+Canadian non-payments were discovered when we reviewed our bank statements 
+and found that the funds were not disbursed. For future interfaces, Bernard 
+is to call Treasury after each interface is processed to ensure that the 
+payments for this entity were received by them.  
+
+Bob
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:49 2022
+Message-ID: <32668779.1075855929757.JavaMail.evans@thyme>
+Date: Thu, 9 Mar 2000 09:03:00 -0800 (PST)
+From: philippe.bibi@enron.com
+To: greg.whalley@enron.com, cliff.baxter@enron.com, sally.beck@enron.com
+Subject: Unify statistics/performance over last few months
+Cc: beth.perlman@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: beth.perlman@enron.com
+X-From: Philippe A Bibi
+X-To: Greg Whalley, Cliff Baxter, Sally Beck
+X-cc: Beth Perlman
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Unify
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+FYI
+---------------------- Forwarded by Philippe A Bibi/HOU/ECT on 03/09/2000 
+05:02 PM ---------------------------
+   
+	
+	
+	From:  Dave Nommensen                           03/09/2000 03:57 PM
+	
+
+To: Inja Chun/HOU/ECT@ECT, Tommy J Yanowski/HOU/ECT@ECT, Philippe A 
+Bibi/HOU/ECT@ECT, Scott Williamson/HOU/ECT@ECT
+cc:  
+Subject: Unify statistics/performance over last few months
+
+Here are some statistics of Unify transaction, volumetric and CPU performance 
+since December:
+
+    Dec '99  Jan '00  Feb '00  Mar '00
+Path count   4785  6325  8038  8227
+ % change  n/a  32%  27%  2%
+
+Peak Day Delivered Qty 15.4 Bcf  22.8 Bcf  20.3 Bcf  17.5 Bcf
+
+This time period includes the Columbia Energy Services business during 
+January as well as the Bridgeline merger during March.
+The increase in paths from 4785 in December 1999 to 8227 in March 2000 
+represents a total  transaction increase of 72%!
+Over this same time period, CPU utilization has increased from the mid-teens 
+to the mid-20s during 7am - 7pm peak interval (see graph below).
+Real-time deal changes to Path Manager via Tibco was implemented on Jan 21.
+
+We continue to monitor the Sybase performance on a daily basis and tune the 
+application when possible.  We are also testing the new 64 bit version of 
+Sybase 12.0 which was just released.  Although we have experienced some 
+"stack traces" on this new Sybase server, we are experiencing improved 
+performance in our initial application benchmark tests.  We hope to migrate 
+to this new OS and Sybase release in April.
+
+Regards, d.n.
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:49 2022
+Message-ID: <25053470.1075855929734.JavaMail.evans@thyme>
+Date: Thu, 15 Jun 2000 09:23:00 -0700 (PDT)
+From: jeff.johnson@enron.com
+To: sally.beck@enron.com
+Subject: Thanks / Mtg To Discuss Unify Issues / Plans Moving Forward
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeff Johnson
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Unify
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Sally, 
+
+Thanks again for the positive feedback. Members of your team were 
+instrumental to the success -- specifically Jeff Sorensen, Bob Klein, Becky 
+Ford and Melissa White.  I'm talking with Beth about the possibility that we 
+might recognize key people on the team with some sort of 'project success' 
+bonus. 
+
+
+Below, I've attached an invitation to a meeting that we've scheduled for 
+Wednesday. We will present plans for 5 immediate projects that we're 
+proposing to address Unify issues. Let us know if you'd like to attend. Also, 
+please forward names of anyone that should attend that we've missed. 
+
+Thanks. 
+
+
+---------------------- Forwarded by Jeff Johnson/Corp/Enron on 06/15/2000 
+05:16 PM ---------------------------
+
+Alarm enabled: an alarm will occur  on 06/21/2000 01:55 PM
+	Calendar Entry
+
+
+Brief description:
+Date:
+Time:
+
+Unify System -- Problems and Proposed Immediate Projects
+06/21/2000
+02:00 PM - 04:00 PM
+
+
+Detailed description:
+
+We would like to invite you to a facilitated meeting to discuss the Unify 
+system -- key issues as well as proposed solutions. 
+
+We believe that we have an approach to immediately begin to address key 
+performance issues in the Unify system. 
+To be successful with the proposed projects, we need your input, sponsorship 
+and participation. Angie Lorio will find a location and will publish as soon 
+as possible. 
+
+The proposed agenda is as follows: 
+
+I. UNIFY --  Current State, Strengths, Issues
+II. Conceptual Overview Of Proposed Solutions
+Organization Building
+Performance Monitoring Team
+Sybase 12 Upgrade
+SQL Server Testing
+Middle Tier Rearchitecture Project
+Scoping For A Re-Write Effort
+III. Solutions Proposals / Plans For Immediate Review / Kickoff
+Proposed Scope
+Assumptions
+High Timelines / Cost Estimates
+Staffing
+IV. Facilitated Discussion On Unify 
+Future Growth / Changes Required For Unify 
+New Project Prioritization
+
+
+
+
+Invitations have been sent to: Beth Perlman/HOU/ECT@ECT, Bryce 
+Baxter/HOU/ECT@ECT, Brent A Price/HOU/ECT@ECT, Leslie Reeves/HOU/ECT@ECT, 
+Laura E Scott/CAL/ECT@ECT, Sheila Glover/HOU/ECT@ECT, Jefferson D 
+Sorenson/HOU/ECT@ECT, Robert Superty/HOU/ECT@ECT, Brenda F Herod/HOU/ECT@ECT, 
+Kenneth M Harmon/HOU/ECT@ECT, Dave Nommensen/HOU/ECT@ECT, Regan M 
+Smith/HOU/ECT@ECT, laray.odum@luminant.com, nadeem.abbasi@luminant.com, Scott 
+Williamson/HOU/ECT@ECT, Paul F Poellinger/HOU/ECT@ECT
+Optional invitees: Chris Hanz/Corp/Enron@Enron, John Simmons/NA/Enron@Enron, 
+Angie Lorio
+_________________________________________________________________________
+This meeting repeats   starting on    (if the date occurs on a weekend the 
+meeting ).
+

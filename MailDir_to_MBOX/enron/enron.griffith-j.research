@@ -1,0 +1,1544 @@
+From MAILER-DAEMON Mon Apr 18 14:26:58 2022
+Message-ID: <9405580.1075860786304.JavaMail.evans@thyme>
+Date: Wed, 2 May 2001 15:31:00 -0700 (PDT)
+From: kenneth.parkhill@enron.com
+To: john.griffith@enron.com
+Subject: current vol skew
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Kenneth Parkhill <Kenneth Parkhill/NA/Enron@Enron>
+X-To: Griffith, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jgriffit>
+X-cc: 
+X-bcc: 
+X-Folder: \John_Griffith_Mar2002\Griffith, John\Research
+X-Origin: Griffith-J
+X-FileName: jgriffit (Non-Privileged).pst
+
+Hi John,
+
+I've attached workbooks that compare implied volatility from market data to ENA curves for June, October, December contracts.  But I'm not sure that I have the most current skew table.  For the attached workbooks I just took last months table and rolled the contracts up a month, so what was May-01 became June-01, etc.  Have you made any other adjustments to the skew table? 
+
+I'd be happy to come up and talk about these files with you if you want?  
+Thanks.
+ken
+
+   
+
+From MAILER-DAEMON Mon Apr 18 14:26:58 2022
+Message-ID: <27363595.1075860786485.JavaMail.evans@thyme>
+Date: Thu, 3 May 2001 19:18:00 -0700 (PDT)
+From: zimin.lu@enron.com
+To: john.griffith@enron.com
+Subject: Re: Historical Volatility
+Cc: gibner.stinson@enron.com, john.arnold@enron.com, mike.maggi@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Bcc: gibner.stinson@enron.com, john.arnold@enron.com, mike.maggi@enron.com
+X-From: Zimin Lu <Zimin Lu/HOU/ECT@ECT>
+X-To: Griffith, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jgriffit>
+X-cc: Stinson Gibner <Stinson Gibner/HOU/ECT@ECT>, Arnold, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jarnold>, Maggi, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mmaggi>
+X-bcc: 
+X-Folder: \John_Griffith_Mar2002\Griffith, John\Research
+X-Origin: Griffith-J
+X-FileName: jgriffit (Non-Privileged).pst
+
+
+
+John,
+
+You are correct, when you compute the historical volatility you need to use=
+ 252 days to annualize the volatility.
+This is because the historical data only existed for trading days.=20
+
+The common practice here at Enron for computing Time to maturity is Calenda=
+r Days (=3D Maturity date - valuation date).
+Therefore the days in Year is 365.25.  So the implied volatility from the E=
+IMPVOL function uses 365.25 days as one year.
+
+If you want to convert you can apply the following formula
+
+historical vol * sqrt(252)    vs.  implied vol * sqrt(365.25).
+
+Let me know if this helps.=20
+
+Zimin
+
+
+
+
+
+
+
+
+John Griffith@ENRON
+05/03/2001 03:31 PM
+To:=09Zimin Lu/HOU/ECT@ECT
+cc:=09Paulo Issler/HOU/ECT@ECT, Stinson Gibner/HOU/ECT@ECT, John Arnold/HOU=
+/ECT@ECT, Mike Maggi/Corp/Enron@Enron=20
+Subject:=09Historical Volatility
+
+Zimin,
+
+I have a question about historical volatility.  The way I have been calcula=
+ting historical volatility is that I take the standard deviation of the log=
+ returns of the price settles.  I then take that number (daily volatility) =
+and multiply by the square root of the number of trading days to come up wi=
+th an annualized volatility.  The number of trading days that I have been u=
+sing is 252, however I do not know if this is correct.  What I am trying to=
+ do is calculate a historical volatility that would be comparable to the im=
+plied volatility that we are calculating our books with.  The implied volat=
+ilities are iterated using the euro function.  I get a straddle quote and I=
+ iterate what volatility would be used to come up with that price ( I also =
+look at the eimvol function).  I know that we use a 365.25 trading day conv=
+ention in pricing our options, does this mean that to come up with a compar=
+able historical volatility number I need to use 365.25 to convert the daily=
+ historical volatility to an annualized volatility?
+
+Thanks again for your help.
+
+John Griffith
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:58 2022
+Message-ID: <21886762.1075860786373.JavaMail.evans@thyme>
+Date: Wed, 29 Aug 2001 15:25:46 -0700 (PDT)
+From: caroline.abramo@enron.com
+To: john.griffith@enron.com
+Subject: harvard term vol trades- will explain
+Cc: mike.maggi@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: mike.maggi@enron.com
+X-From: Abramo, Caroline </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CABRAMO>
+X-To: Griffith, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jgriffit>
+X-cc: Maggi, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mmaggi>
+X-bcc: 
+X-Folder: \John_Griffith_Mar2002\Griffith, John\Research
+X-Origin: Griffith-J
+X-FileName: jgriffit (Non-Privileged).pst
+
+  
+
+
+
+basically a swaption on vol for nov03-mar04 that expites on feb 25, 2003.
+they also did the following:
+
+ 
+i asked why they did swaption AND short call and put spreads.. this was their response..
+
+
+ 
+
+sorry for the slow confirms today....
+
+
+
+--------- Inline attachment follows ---------
+
+From:  <IMCEANOTES-+22CAROLINE+20ABRAMO+2C+20ENRON+20CORP+22+20+3CCABRAMO+40bloomberg+2Enet+3E+40ENRON@ENRON.com>
+To: Abramo, Caroline </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cabramo>
+Date: Tuesday, August 28, 2001 4:22:43 GMT
+Subject: 
+
+the trade we have done in NG (based on the old gold trade) was
+as follows:
+
+i buy winter 03/04 forward implied volatility at x% (fixed rate)
+
+we agree on x% today and on 02/25/03 you deliver to me the ATMF
+straddle on X3-H4 priced at x%.  I can hit your bid for the
+straddle (at your bid vol) or take delivery.
+
+x% is a function of the swaption vol (02/25/03 expiry on the X3-
+H4 swap) and the X3-H4 term vol.  variances are additive, so:
+
+(contd)
+
+
+
+
+--------- Inline attachment follows ---------
+
+From:  <IMCEANOTES-+22CAROLINE+20ABRAMO+2C+20ENRON+20CORP+22+20+3CCABRAMO+40bloomberg+2Enet+3E+40ENRON@ENRON.com>
+To: Abramo, Caroline </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cabramo>
+Date: Tuesday, August 28, 2001 4:22:58 GMT
+Subject: 
+
+t2= time in yrs to "term" expiry
+t1= time in yrs to swaption expiry
+t12= time in yrs from swaption exp to term exp (=t2-t1)
+
+s2= annualized term vol
+s1= annualized swaption vol
+s12= annualized forward-forward vol
+
+t2 * s22 = t1 * s12 + t12 * s122??flip terms around and solve for s122 and that's your forward
+vol.
+
+
+
+
+--------- Inline attachment follows ---------
+
+From:  <IMCEANOTES-+22CAROLINE+20ABRAMO+2C+20ENRON+20CORP+22+20+3CCABRAMO+40bloomberg+2Enet+3E+40ENRON@ENRON.com>
+To: Abramo, Caroline </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cabramo>
+Date: Tuesday, August 28, 2001 4:44:01 GMT
+Subject: 
+
+we did the trade now for the winter 2 years hence. numbers
+looked more compelling.  we also put on some short positions in
+callspreads and putspreads which we did when winter 03 was at
+$4.  that was the biggest winner so far.
+Reply:
+SHORT CALL AND PUT SPREADS FOR WINTER03-04 OR CLOSER IN TERM?
+Reply:
+out there in 03/04.  low delta, but they were low risk too.
+total luck with the timing.  we did it last thursday before the
+first rumors of an aga revision came out...
+
+
+
+
+--------- Inline attachment follows ---------
+
+From:  <IMCEANOTES-+22CAROLINE+20ABRAMO+2C+20ENRON+20CORP+22+20+3CCABRAMO+40bloomberg+2Enet+3E+40ENRON@ENRON.com>
+To: Abramo, Caroline </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cabramo>
+Date: Tuesday, August 28, 2001 4:43:22 GMT
+Subject: 
+
+well, long vol via the FRA trade, and short delta via the cs/ps
+ (we bot putspreads, sold callspreads).  the cs/ps were done
+due to the correlation of vol and price.  we figured taht if
+price went down, our fra vol would end up low, so we bot
+putspreads.  on the flipside, if gas traded $6, it's safe to
+say our fra vol would be a lot higher, and we wouldn't mind
+paying out under the 5/6 callsrpead.
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:58 2022
+Message-ID: <13603729.1075860786574.JavaMail.evans@thyme>
+Date: Mon, 13 Aug 2001 14:57:44 -0700 (PDT)
+From: sachin.gandhi@enron.com
+To: john.griffith@enron.com
+Subject: RE: Temps
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Gandhi, Sachin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SGANDHI>
+X-To: Griffith, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jgriffit>
+X-cc: 
+X-bcc: 
+X-Folder: \John_Griffith_Mar2002\Griffith, John\Research
+X-Origin: Griffith-J
+X-FileName: jgriffit (Non-Privileged).pst
+
+John,
+
+The reason they are high is because they are not population weighted.  This makes a significant difference, looking at 10 cities at 100% versus population weighted, where all of the cities in a region add up to 100%.
+
+If you would like me to weight them, it would not be a problem.
+
+Sachin
+
+
+ -----Original Message-----
+From: 	Griffith, John  
+Sent:	Monday, August 13, 2001 4:48 PM
+To:	Gandhi, Sachin
+Subject:	RE: Temps
+
+Sachin,
+
+These HDD's look a little too high.  I pulled just 5 cities and they are more than the spreadsheet that you prepared for the fundy's site.  Could you look at them to verify.  Thanks.
+
+John
+
+ -----Original Message-----
+From: 	Gandhi, Sachin  
+Sent:	Monday, August 13, 2001 4:06 PM
+To:	Griffith, John
+Subject:	Temps
+
+sorry for the delay, the data was not as clean as i originally thought.  let me know if you need anything else.
+
+sachin
+
+ << File: easttemps.xls >> 
+
+From MAILER-DAEMON Mon Apr 18 14:26:58 2022
+Message-ID: <26223858.1075852415398.JavaMail.evans@thyme>
+Date: Tue, 16 Oct 2001 10:53:30 -0700 (PDT)
+From: iris.mack@enron.com
+To: iris.mack@enron.com, john.arnold@enron.com, mike.maggi@enron.com,
+	tom.donohoe@enron.com, kevin.ruscitti@enron.com, h..lewis@enron.com,
+	a..martin@enron.com, jay.reitmeyer@enron.com, wes.dempsey@enron.com,
+	bonnie.chang@enron.com, margie.straight@enron.com,
+	jessica.white@enron.com, lisa.kinsey@enron.com,
+	kevin.brady@enron.com, brian.wesneske@enron.com,
+	cora.pendergrass@enron.com, geoff.storey@enron.com,
+	martin.cuilla@enron.com, souad.mahmassani@enron.com,
+	trading <.williams@enron.com>, e.murrell@enron.com,
+	lindsay.culotta@enron.com, s..pollan@enron.com, laura.luce@enron.com,
+	linda.roberts@enron.com, philip.mayor@enron.com,
+	bryant.frihart@enron.com, c..giron@enron.com,
+	shauywn.smith@enron.com, t..zivley@enron.com, david.jones@enron.com,
+	gil.muhl@enron.com, w..vickers@enron.com, jesse.hernandez@enron.com,
+	alexandra.villarreal@enron.com, robert.ramirez@enron.com,
+	kelly.loocke@enron.com, nelson.ferries@enron.com, h..otto@enron.com,
+	n..gilbert@enron.com, fred.lagrasta@enron.com,
+	elena.chilkina@enron.com, lucy.ortiz@enron.com, troy.black@enron.com,
+	jennifer.shipos@enron.com, craig.breslau@enron.com,
+	agustin.perez@enron.com, sheetal.patel@enron.com,
+	chris.figueroa@enron.com, matthew.titus@enron.com,
+	mark.smith@enron.com, dutch.quigley@enron.com,
+	john.griffith@enron.com, larry.may@enron.com, andy.zipper@enron.com,
+	robin.barbe@enron.com, maureen.smith@enron.com,
+	craig.taylor@enron.com, scott.goodell@enron.com,
+	colleen.sullivan@enron.com, mara.bronstein@enron.com,
+	jim.willis@enron.com, stephanie.miller@enron.com,
+	phil.polsky@enron.com, kim.ward@enron.com, barry.tycholiz@enron.com,
+	t..lucci@enron.com, ruth.concannon@enron.com,
+	jessica.presas@enron.com, becky.young@enron.com
+Subject: RE: Spark Spread Options
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Mack, Iris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=IMACK>
+X-To: Mack, Iris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Imack>, Arnold, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jarnold>, Maggi, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mmaggi>, Donohoe, Tom </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tdonoho>, Ruscitti, Kevin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kruscit>, Lewis, Andrew H. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Alewis>, Martin, Thomas A. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tmartin>, Reitmeyer, Jay </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jreitme>, Dempsey, Wes </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Wdempsey>, Chang, Bonnie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bchang>, Straight, Margie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstraig>, White, Jessica </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jwhite6>, Kinsey, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkinsey>, Brady, Kevin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kbrady>, Wesneske, Brian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bwesnesk>, Pendergrass, Cora </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cpender>, Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>, Cuilla, Martin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mcuilla>, Mahmassani, Souad </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Smahmass>, Williams, Jason (Trading) </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jwillia>, Murrell, Russell E </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rmurrel>, Culotta, Lindsay </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lculotta>, Pollan, Sylvia S. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Spollan>, Luce, Laura </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lluce>, Roberts, Linda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lroberts>, Mayor, Philip </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pmayor>, Frihart, Bryant </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bfrihart>, Giron, Darron C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dgiron>, Smith, Shauywn </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ssmith22>, Zivley, Jill T. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jzivley>, Jones, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Djones8>, Muhl, Gil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gmuhl>, Vickers, Frank W. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Fvicker>, Hernandez, Jesse </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=ffe9590d-83c24962-862567a0-5e8d93>, Villarreal, Alexandra </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Avillar4>, Ramirez, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rramire3>, Loocke, Kelly </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kloocke>, Ferries, Nelson </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Nferrie>, Otto, Charles H. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cotto>, Gilbert, George N. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ggilber>, Lagrasta, Fred </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Flagras>, Chilkina, Elena </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Echilkin>, Ortiz, Lucy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lortiz>, Black, Troy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tblack3>, Shipos, Jennifer </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jshipos>, Breslau, Craig </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cbresla>, Perez, Agustin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Aperez>, Patel, Sheetal </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Spatel2>, Figueroa, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cfiguero>, Titus, Matthew </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mtitus>, Smith, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Msmith>, Quigley, Dutch </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dquigle>, Griffith, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jgriffit>, May, Larry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lmay2>, Zipper, Andy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Azipper>, Barbe, Robin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbarbe>, Smith, Maureen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mgreena>, Taylor, Craig </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jtaylo2>, Goodell, Scott </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sgoodel>, Sullivan, Colleen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Csulliv>, Bronstein, Mara </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbronst2>, Willis, Jim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jwillis3>, Miller, Stephanie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Smiller2>, Polsky, Phil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ppolsky>, Ward, Kim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EU/cn=Recipients/cn=kward2>, Tycholiz, Barry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Btychol>, Lucci, Paul T. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plucci>, Concannon, Ruth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rconcan>, Presas, Jessica </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jpresas>, Young, Becky </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Byoung>
+X-cc: 
+X-bcc: 
+X-Folder: \JGRIFFIT (Non-Privileged)\Griffith, John\Research
+X-Origin: GRIFFITH-J
+X-FileName: JGRIFFIT (Non-Privileged).pst
+
+
+
+
+
+Hi,
+
+	 	The power options trading desk is beginning to structure deals and to make markets in spark spread options ( options on the spreads between power prices and natural gas prices).  Please refer to the attached file for further information.   
+	
+
+ 	   	It would be most helpful to meet with the relevant individuals  on the Gas desk  who would be interested in spark spread options.
+
+   	
+	 	 Thank you in advance for your assistance.
+    
+Kind regards,
+Iris Mack, MBA/PhD
+Enron Power Options Trading Desk
+x3-6711
+
+
+
+
+  
+
+From MAILER-DAEMON Mon Apr 18 14:26:58 2022
+Message-ID: <4667899.1075860786327.JavaMail.evans@thyme>
+Date: Wed, 27 Jun 2001 11:15:44 -0700 (PDT)
+From: tom.barkley@enron.com
+To: john.griffith@enron.com
+Subject: Exponential Volatility
+Cc: paulo.issler@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: paulo.issler@enron.com
+X-From: Barkley, Tom </O=ENRON/OU=NA/CN=RECIPIENTS/CN=TBARKLEY>
+X-To: Griffith, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jgriffit>
+X-cc: Issler, Paulo </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pfissle>
+X-bcc: 
+X-Folder: \John_Griffith_Mar2002\Griffith, John\Research
+X-Origin: Griffith-J
+X-FileName: jgriffit (Non-Privileged).pst
+
+John,
+
+I am attaching a spreadsheet that outlines the exponential volatility concept we talked about yesterday. Paulo and I will give you a call after 3:00 PM, as we also have an short excerpt from a book that deals with this in a little more depth - you might be interested in reading it.
+
+Tom
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:26:58 2022
+Message-ID: <15500985.1075849678636.JavaMail.evans@thyme>
+Date: Mon, 12 Mar 2001 03:29:00 -0800 (PST)
+From: ina.rangel@enron.com
+To: dutch.quigley@enron.com, john.arnold@enron.com, mike.maggi@enron.com,
+	john.griffith@enron.com, larry.may@enron.com,
+	jay.reitmeyer@enron.com, susan.scott@enron.com,
+	matthew.lenhart@enron.com, steven.south@enron.com,
+	randall.gay@enron.com, frank.ermis@enron.com, mike.grigsby@enron.com,
+	jane.tholt@enron.com, tori.kuykendall@enron.com,
+	monique.sanchez@enron.com, keith.holst@enron.com,
+	phillip.allen@enron.com
+Subject: Research Website
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Ina Rangel
+X-To: Dutch Quigley, John Arnold, Mike Maggi, John Griffith, Larry May, Jay Reitmeyer, Susan M Scott, Matthew Lenhart, Steven P South, Randall L Gay, Frank Ermis, Mike Grigsby, Jane M Tholt, Tori Kuykendall, Monique Sanchez, Keith Holst, Phillip K Allen
+X-cc: 
+X-bcc: 
+X-Folder: \John_Griffith_Nov2001\Notes Folders\Research
+X-Origin: GRIFFITH-J
+X-FileName: jgriffit.nsf
+
+>From MIKE ROBERTS Group:
+
+Hello!
+
+Here's how you and the people you work with can access our website:
+
+http://enaresearch.corp.enron.com
+
+Use the drop-down menu on the left to go to what you need.  Weather is 
+especially helpful.  If you have any problems pulling it up, or if you have 
+any other questions, I am here to help.  E-mail me!
+
+I encourage you to forward this to your people on the trading floor.
+
+Or, you can call me at 58322.
+
+
+Thank You,
+
+Sam Smith
+Enron Research
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:58 2022
+Message-ID: <172491.1075855222448.JavaMail.evans@thyme>
+Date: Thu, 8 Nov 2001 13:26:41 -0800 (PST)
+From: zimin.lu@enron.com
+To: john.griffith@enron.com, larry.may@enron.com
+Subject: RE: OStrip Function
+Cc: j.kaminski@enron.com, john.arnold@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: j.kaminski@enron.com, john.arnold@enron.com
+X-From: Lu, Zimin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ZLU>
+X-To: Griffith, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JGRIFFIT>, May, Larry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lmay2>
+X-cc: Kaminski, Vince J </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vkamins>, Arnold, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jarnold>
+X-bcc: 
+X-Folder: \John_Griffith_Jan2002_1\Griffith, John\Research
+X-Origin: Griffith-J
+X-FileName: jgriffit (Non-Privileged).pst
+
+ 
+John,
+ 
+You are absolutely right. I have advised Tom Barkley to call Larry May before the new Ostrip was pushed out,  making sure it would not affect his book.  For some reason, it was not carried
+out correctly. 
+ 
+In the future, I will make sure this will not happen again.
+ 
+ 
+Zimin
+ 
+PS: I am on a business trip.  I will talk to you more when I come back.
+ 
+ 
+ 
+ 
+
+-----Original Message----- 
+From: Griffith, John 
+Sent: Thu 11/8/2001 2:10 PM 
+To: May, Larry 
+Cc: Arnold, John; Issler, Paulo; Barkley, Tom; Lu, Zimin; Maggi, Mike; Moon, Eric; Kaminski, Vince J 
+Subject: OStrip Function
+
+
+
+As you know, the Ostrip Functionality has been altered.  This change has affected the way the larryoptmodel values the gas daily options.  The reason the larryoptmodel is affected is because the larryoptmodel was defining the inputs to the Ostrip model differently than the documentation asked.  Let me explain.  The Ostrip Model has the following date inputs:
+
+NowToSet        - Fixed Price = zero 
+                - Forward Start = days from now until strike is set 
+
+BegDays - Fixed Price = days from now until start of option 
+                - Forward Start = days from when strike is set until start of option 
+
+EndDays - Fixed Price = days from now until end of option 
+                - Forward Start = days from when strike is set until end of option 
+
+FwdStFlag       - Fixed Price = 0 
+                - Forward Start = 1 
+
+The Ostrip model should overlook the NowToSet days if the FwdStFlag = 0 (fixed price option).  It assumes the option is set right now.  The "Old Ostrip Model" did not overlook this input.  This is the problem.  In Larryoptmodel, the NowToSet is the same for Fixed Price options and Forward Start Options, the BegDays is the same and the EndDays is the same.  Thus when the "Old Ostrip Model" incorrectly used the NowToSet days, this made the Larryoptmodel value the option correctly.  When the "New Ostrip Model" was put into production, this model overlooks the NowToSet date, thus giving an incorrect value in Larryoptmodel.
+
+Larryoptmodel has to be changed to reflect the above inputs.  It is actually only a change to one date.  This date will be used in calculating the three days above.  If the option is a fixed price option then the date will be today and NowToSet will be Today minus Today (zero), BegDays will be Start of Option minus today, EndDays will be End of Option minus today.  If the option is a forward start option, then the date will be when the strike is set and the NowToSet with be the strike setting date minus today, BegDays will be Start of Option minus the strike date, EndDays will be the End of Option minus strike date.
+
+It is important to note that it is unexcusable to make any changes to the models without consulting the traders first.  If there was a problem with the "Old Ostrip Model" then the trader should have been notified right away.  This could have meant that the options were being misvalued when trading.  In this case, however, Larry had figured a way around this problem and he was valuing correctly.  When the model was changed, that changed the larryoptmodel valuation and now it was being valued incorrectly.  Either way, any problems with the models should be communicated with the traders right away.  Any changes to the models should be communicated to the traders before they are made.
+
+Please let me know if any have any questions or concerns.  Thanks. 
+
+John 
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:58 2022
+Message-ID: <11589056.1075849678729.JavaMail.evans@thyme>
+Date: Tue, 17 Apr 2001 06:22:00 -0700 (PDT)
+From: zimin.lu@enron.com
+To: john.griffith@enron.com
+Subject: Re: Barrier opt
+Cc: stinson.gibner@enron.com, john.arnold@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stinson.gibner@enron.com, john.arnold@enron.com
+X-From: Zimin Lu
+X-To: John Griffith
+X-cc: Stinson Gibner, John Arnold
+X-bcc: 
+X-Folder: \John_Griffith_Nov2001\Notes Folders\Research
+X-Origin: GRIFFITH-J
+X-FileName: jgriffit.nsf
+
+John,
+
+
+For a down and out put, I put the following as an approximation for our 
+understanding purpose.
+
+a down and out put with barrier B < strike K
+is overestimated by
+
+A put at struck at K - a put struck at B - (K-B)*digital put strike at B.
+
+I ploted the barrier put (blue line)  versus the approximation (red line) as 
+function of the 
+barrier.  
+
+The true barrier option has zero payoff whenever there is a touch down the 
+barrier
+during the lifetime of the option.  Therefore it goes to zero much faster than
+above approximation when B -> K.
+
+See the spreadsheet for more details.
+
+Zimin
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:58 2022
+Message-ID: <12839217.1075855222424.JavaMail.evans@thyme>
+Date: Wed, 7 Nov 2001 17:04:27 -0800 (PST)
+From: tom.barkley@enron.com
+To: eric.moon@enron.com
+Subject: OSTRIP Function in Exotica
+Cc: paulo.issler@enron.com, zimin.lu@enron.com, santiago.garcia@enron.com,
+	jeremy.wong@enron.com, john.griffith@enron.com, larry.may@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: paulo.issler@enron.com, zimin.lu@enron.com, santiago.garcia@enron.com,
+	jeremy.wong@enron.com, john.griffith@enron.com, larry.may@enron.com
+X-From: Barkley, Tom </O=ENRON/OU=NA/CN=RECIPIENTS/CN=TBARKLEY>
+X-To: Moon, Eric </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emoon>
+X-cc: Issler, Paulo </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pfissle>, Lu, Zimin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Zlu>, Garcia, Santiago </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sgarcia5>, Wong, Jeremy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jwong1>, Griffith, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jgriffit>, May, Larry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lmay2>
+X-bcc: 
+X-Folder: \John_Griffith_Jan2002_1\Griffith, John\Research
+X-Origin: Griffith-J
+X-FileName: jgriffit (Non-Privileged).pst
+
+Eric,
+
+This is to update you on the current situation with the OSTRIP function in Exotica. After some lengthy analysis of the function, its inputs and the documentation associated with it, it was brought to our attention in the Research Group that the OSTRIP function was being utilized in different manners by different people within Enron. In order to remedy this situation, the documentation of Exotica was revised and more details were added, so as to make explicitly clear the distinctions between the fixed price options and forward start options. (You will find attached a copy of the most recent version of the Exotica documentation.)
+
+In addition to discussions with Santiago Garcia in structuring, it was seen to be important to ensure that those responsible for booking the options in ERMS (specifically, Jeremy Wong) be updated on the changes. By pure coincidence, the two ways that inputs were made for fixed price options gave the same values for the premiums. However, one methodology is really incorrect as far as the documentation is concerned, and the attempt has been made to rectify this. The forward start option pricing has not changed in any way.
+
+I would like to arrange a meeting tomorrow afternoon (Thursday) between all those parties concerned to ensure uniformity of pricing across the board. If you are available, I would appreciate it if we could meet at around 4:00 PM.
+
+Regards,
+
+Tom Barkley
+Manager, Research
+Enron Wholesale Services
+Houston, TX
+(713) 345-7317
+
+From MAILER-DAEMON Mon Apr 18 14:26:58 2022
+Message-ID: <27136025.1075860786395.JavaMail.evans@thyme>
+Date: Wed, 8 Aug 2001 15:43:25 -0700 (PDT)
+From: sachin.gandhi@enron.com
+To: john.griffith@enron.com
+Subject: 30 yr temps
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Gandhi, Sachin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SGANDHI>
+X-To: Griffith, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jgriffit>
+X-cc: 
+X-bcc: 
+X-Folder: \John_Griffith_Mar2002\Griffith, John\Research
+X-Origin: Griffith-J
+X-FileName: jgriffit (Non-Privileged).pst
+
+john,
+
+the file contains future degree days using 30 yr. norms.  i believe the degree days for the next two weeks are forecasts no 30 yrs. i'll check with mike tommorow.
+
+sachin
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:26:58 2022
+Message-ID: <12603460.1075849678566.JavaMail.evans@thyme>
+Date: Tue, 13 Feb 2001 07:46:00 -0800 (PST)
+From: mkorn@nymex.com
+To: john.griffith@enron.com
+Subject: NYMEX Options Power Point Presentation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "Korn, Michael" <MKorn@NYMEX.com>
+X-To: "'John.Griffith@Enron.com'" <John.Griffith@Enron.com>
+X-cc: 
+X-bcc: 
+X-Folder: \John_Griffith_Nov2001\Notes Folders\Research
+X-Origin: GRIFFITH-J
+X-FileName: jgriffit.nsf
+
+John,
+Thanks for meeting with Keith and I last week. Please let me know your
+opinion on the following options material.
+
+Michael <<ppNYopt.ppt>>
+
+ - ppNYopt.ppt
+
+From MAILER-DAEMON Mon Apr 18 14:26:58 2022
+Message-ID: <23332413.1075860786673.JavaMail.evans@thyme>
+Date: Wed, 2 May 2001 11:48:00 -0700 (PDT)
+From: bob.lee@enron.com
+To: mike.maggi@enron.com
+Subject: Vol Skew No-Arbitrage Constraints
+Cc: john.arnold@enron.com, j.kaminski@enron.com, zimin.lu@enron.com,
+	gibner.stinson@enron.com, puthigai.savita@enron.com,
+	john.griffith@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: john.arnold@enron.com, j.kaminski@enron.com, zimin.lu@enron.com,
+	gibner.stinson@enron.com, puthigai.savita@enron.com,
+	john.griffith@enron.com
+X-From: Bob Lee <Bob Lee/NA/Enron@Enron>
+X-To: Maggi, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mmaggi>
+X-cc: Arnold, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jarnold>, Kaminski, Vince J </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vkamins>, Lu, Zimin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Zlu>, Stinson Gibner <Stinson Gibner/HOU/ECT@ECT>, Savita Puthigai <Savita Puthigai/Enron@EnronXGate>, Griffith, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jgriffit>
+X-bcc: 
+X-Folder: \John_Griffith_Mar2002\Griffith, John\Research
+X-Origin: Griffith-J
+X-FileName: jgriffit (Non-Privileged).pst
+
+The attached note lists conditions that can be used to verify that a given vol skew curve does not generate arbitrage opportunities in a strip of option prices.
+
+If you have questions or want to discuss implementation, please give me a call.
+
+Bob Lee
+x35163 
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:26:58 2022
+Message-ID: <27323057.1075852415368.JavaMail.evans@thyme>
+Date: Wed, 26 Sep 2001 08:57:26 -0700 (PDT)
+From: zimin.lu@enron.com
+To: john.griffith@enron.com, santiago.garcia@enron.com, ed.mcmichael@enron.com,
+	paulo.issler@enron.com
+Subject: Fixed strike lookback option
+Cc: j.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: j.kaminski@enron.com
+X-From: Lu, Zimin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ZLU>
+X-To: Griffith, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jgriffit>, Garcia, Santiago </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sgarcia5>, McMichael Jr., Ed </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emcmich>, Issler, Paulo </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pfissle>
+X-cc: Kaminski, Vince J </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vkamins>
+X-bcc: 
+X-Folder: \JGRIFFIT (Non-Privileged)\Griffith, John\Research
+X-Origin: GRIFFITH-J
+X-FileName: JGRIFFIT (Non-Privileged).pst
+
+
+
+John & Santiago,
+
+Per our conversation, the lookback option you need is a fixed strike option. 
+For put it pays    
+
+   max(K-min(S),0)
+
+The model in option library is for floating strike, for put it pays 
+max(max(S)-S(T),0).  
+
+So please hold on the number.  Paulo will work on a correct model and
+hopefully give you the answer tomorrow.
+
+Zimin
+
+From MAILER-DAEMON Mon Apr 18 14:26:58 2022
+Message-ID: <21406920.1075849678612.JavaMail.evans@thyme>
+Date: Wed, 28 Feb 2001 22:55:00 -0800 (PST)
+From: louis.dicarlo@enron.com
+To: john.griffith@enron.com
+Subject: Phillips Production Company - Hedge
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Louis Dicarlo
+X-To: John Griffith
+X-cc: 
+X-bcc: 
+X-Folder: \John_Griffith_Nov2001\Notes Folders\Research
+X-Origin: GRIFFITH-J
+X-FileName: jgriffit.nsf
+
+When you have a few minutes, please take a look at the request below.  My 
+thoughts are this product is not hedgable.  I'm looking for another opinion 
+and I figure you've probably seen everything under the sun.  
+
+I don't need a response today but this week would be great.  Thanks
+
+---------------------- Forwarded by Louis Dicarlo/NA/Enron on 03/01/2001 
+06:52 AM ---------------------------
+
+
+Nelson Ferries
+02/27/2001 01:19 PM
+To: Louis Dicarlo/NA/Enron@ENRON
+cc:  
+
+Subject: Phillips Production Company - Hedge
+
+Louis:
+
+Can you take a look at this and respond to John Singer.
+---------------------- Forwarded by Nelson Ferries/Corp/Enron on 02/27/2001 
+01:18 PM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  John M Singer                           02/27/2001 10:26 AM
+	
+
+To: Nelson Ferries/Corp/Enron@ENRON
+cc:  
+
+Subject: Phillips Production Company - Hedge
+
+Phillips Production would like to know if it is possible to do a Financial 
+Hedge for both the NYMEX Settle and Basis.  The attached scheudle calculates 
+the Basis as a percentage of the NYMEX Settle instead of a traditional 
+location basis.   Please review.  
+
+Can the Basis be hedged since it is based on the NYMEX Settle instead of a 
+traditional location basis?
+
+Volume:  5,000 - 7,000 per day.
+Period is :  Apr01 - Oct01
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:58 2022
+Message-ID: <30784625.1075849678590.JavaMail.evans@thyme>
+Date: Thu, 15 Feb 2001 06:14:00 -0800 (PST)
+From: larry.may@enron.com
+To: john.griffith@enron.com, john.arnold@enron.com, mike.maggi@enron.com
+Subject: Vince's GARP Presentation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Larry May
+X-To: John Griffith, John Arnold, Mike Maggi
+X-cc: 
+X-bcc: 
+X-Folder: \John_Griffith_Nov2001\Notes Folders\Research
+X-Origin: GRIFFITH-J
+X-FileName: jgriffit.nsf
+
+---------------------- Forwarded by Larry May/Corp/Enron on 02/15/2001 02:12 
+PM ---------------------------
+   
+	
+	
+	From:  Frank Hayden                           02/15/2001 10:58 AM
+	
+
+To: Rudi Zipter/HOU/ECT@ECT, Vladimir Gorny/HOU/ECT@ECT, Bjorn 
+Hagelmann/HOU/ECT@ECT, Frank Hayden/Corp/Enron@Enron, Rebecca 
+Phillips/HOU/ECT@ECT, Cassandra Schultz/NA/Enron@Enron, Nick 
+Paraschos/Corp/Enron@ENRON, Minal Dalia/HOU/EES@EES, Darin 
+Schmidt/NA/Enron@ENRON, Homan Amiry/LON/ECT@ECT, Christian 
+LeBroc/Corp/Enron@ENRON, Xochitl Figueroa/NA/Enron@Enron, Manfred 
+Roenz/Corp/Enron@Enron, Sunil Dalal/Corp/Enron@ENRON, Bharat 
+Khanna/NA/Enron@Enron, LaCrecia Davenport/Corp/Enron@Enron, Naveen 
+Andrews/Corp/Enron@ENRON, David Port/Market Risk/Corp/Enron@ENRON, Ted 
+Murphy/LON/ECT@ECT, Michael Pitt/EU/Enron@Enron, Chip 
+Schneider/NA/Enron@Enron, Tanya Rohauer/HOU/ECT@ECT, Tom Moran/HOU/ECT@ECT, 
+Larry May/Corp/Enron@Enron, Kevin M Presto/HOU/ECT@ECT, Wenyao Jia/HOU/ECT@ECT
+cc:  
+
+Subject: Vince's GARP Presentation
+
+
+Please forward feel free to share this.  This was presented at the Houston 
+GARP meeting late last month.
+Thanks
+Frank
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:58 2022
+Message-ID: <3343672.1075860786418.JavaMail.evans@thyme>
+Date: Thu, 16 Aug 2001 06:46:32 -0700 (PDT)
+From: andy.zipper@enron.com
+To: errol.mclaughlin@enron.com
+Subject: KCS trade
+Cc: john.griffith@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: john.griffith@enron.com
+X-From: Zipper, Andy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=AZIPPER>
+X-To: McLaughlin Jr., Errol </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emclaug>
+X-cc: Griffith, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jgriffit>
+X-bcc: 
+X-Folder: \John_Griffith_Mar2002\Griffith, John\Research
+X-Origin: Griffith-J
+X-FileName: jgriffit (Non-Privileged).pst
+
+We did the following with KCS Energy yesterday:
+
+We bought a Apr02/Oct02 NYmex swap at 4.02 for 10,000 mmbtu/d, setle last day.
+If any month settles below $2.50, there is no payment due KCS for that reference month. Effectively the quantity becomes zero. above $2.50 it behaves like a regular swap.
+
+this transactions should be booked from a risk perspective as three separate pieces:
+
+1) We buy from KCS a regular Apr02/Oct02 swap @4.02, 10,000/d
+
+2). We buy from KCS an Apr02/Oct02 Nymex put struck at $2.50, settling last day, 10,000/d, zero premium.
+
+3). We buy from KCS an Apr02/Oct02 digital option that results in a payout to Enron of $1.52 if the reference month settles below $2.50, 10,000/d, last day, zero premium.
+
+
+Against this trade:
+
+I sold an Apr02/Oct02 swap to John Arnold @3.81
+
+I sold an Apr02/Oct02 $2.50 put to Maggi for $.07 last day.
+
+I will hold the digitals which I will atttach a model using exotica add-ins to value.
+
+
+please try to get this in my P/L tonight.
+
+Thanks.
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:26:58 2022
+Message-ID: <20359691.1075860786628.JavaMail.evans@thyme>
+Date: Mon, 13 Aug 2001 07:55:56 -0700 (PDT)
+From: andy.zipper@enron.com
+To: john.griffith@enron.com
+Subject: 
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Zipper, Andy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=AZIPPER>
+X-To: Griffith, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jgriffit>
+X-cc: 
+X-bcc: 
+X-Folder: \John_Griffith_Mar2002\Griffith, John\Research
+X-Origin: Griffith-J
+X-FileName: jgriffit (Non-Privileged).pst
+
+  check these out...
+
+From MAILER-DAEMON Mon Apr 18 14:26:58 2022
+Message-ID: <31539223.1075860786596.JavaMail.evans@thyme>
+Date: Mon, 13 Aug 2001 14:05:41 -0700 (PDT)
+From: sachin.gandhi@enron.com
+To: john.griffith@enron.com
+Subject: Temps
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Gandhi, Sachin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SGANDHI>
+X-To: Griffith, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jgriffit>
+X-cc: 
+X-bcc: 
+X-Folder: \John_Griffith_Mar2002\Griffith, John\Research
+X-Origin: Griffith-J
+X-FileName: jgriffit (Non-Privileged).pst
+
+sorry for the delay, the data was not as clean as i originally thought.  let me know if you need anything else.
+
+sachin
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:26:58 2022
+Message-ID: <30789140.1075860786696.JavaMail.evans@thyme>
+Date: Wed, 22 Aug 2001 09:24:40 -0700 (PDT)
+From: margie.nguyen@enron.com
+To: john.griffith@enron.com, mike.maggi@enron.com, john.disturnal@enron.com,
+	jonathan.mckay@enron.com, dutch.quigley@enron.com,
+	john.arnold@enron.com, larry.may@enron.com, lon.draper@enron.com,
+	n..gilbert@enron.com, jeremy.wong@enron.com, sanjeev.gupta@enron.com
+Subject: VolSmile
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Nguyen, Margie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MNGUYEN4>
+X-To: Griffith, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jgriffit>, Maggi, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mmaggi>, Disturnal, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jdistur>, Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmckay1>, Quigley, Dutch </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dquigle>, Arnold, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jarnold>, May, Larry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lmay2>, Draper, Lon </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ldraper>, Gilbert, George N. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ggilber>, Wong, Jeremy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jwong1>, Gupta, Sanjeev </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sgupta2>
+X-cc: 
+X-bcc: 
+X-Folder: \John_Griffith_Mar2002\Griffith, John\Research
+X-Origin: Griffith-J
+X-FileName: jgriffit (Non-Privileged).pst
+
+Hi All,
+
+I recently made a change to VolSmile.xls  to pick up the NT username versus the application(excel) username.  This change will not effect the functionalities of VolSmile.  I have deleted the User Name and Password in Sheets("Skew4"), since you will not need to enter a username/password.  The code will check your read/write access against your NT username.  Once again, the change will not effect any of VolSmile's original functionalilties.  Please refer to the attach file for usage.  If anyone has questions/comments concerning this change, please let me know.
+
+Margie
+53706
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:26:58 2022
+Message-ID: <32656790.1075855222400.JavaMail.evans@thyme>
+Date: Thu, 8 Nov 2001 12:10:36 -0800 (PST)
+From: john.griffith@enron.com
+To: larry.may@enron.com
+Subject: OStrip Function
+Cc: john.arnold@enron.com, paulo.issler@enron.com, tom.barkley@enron.com,
+	zimin.lu@enron.com, mike.maggi@enron.com, eric.moon@enron.com,
+	j.kaminski@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: john.arnold@enron.com, paulo.issler@enron.com, tom.barkley@enron.com,
+	zimin.lu@enron.com, mike.maggi@enron.com, eric.moon@enron.com,
+	j.kaminski@enron.com
+X-From: Griffith, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JGRIFFIT>
+X-To: May, Larry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lmay2>
+X-cc: Arnold, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jarnold>, Issler, Paulo </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pfissle>, Barkley, Tom </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tbarkley>, Lu, Zimin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Zlu>, Maggi, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mmaggi>, Moon, Eric </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emoon>, Kaminski, Vince J </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vkamins>
+X-bcc: 
+X-Folder: \John_Griffith_Jan2002_1\Griffith, John\Research
+X-Origin: Griffith-J
+X-FileName: jgriffit (Non-Privileged).pst
+
+As you know, the Ostrip Functionality has been altered.  This change has affected the way the larryoptmodel values the gas daily options.  The reason the larryoptmodel is affected is because the larryoptmodel was defining the inputs to the Ostrip model differently than the documentation asked.  Let me explain.  The Ostrip Model has the following date inputs:
+
+NowToSet 	- Fixed Price = zero
+		- Forward Start = days from now until strike is set
+
+BegDays	- Fixed Price = days from now until start of option
+		- Forward Start = days from when strike is set until start of option
+
+EndDays	- Fixed Price = days from now until end of option
+		- Forward Start = days from when strike is set until end of option
+
+FwdStFlag	- Fixed Price = 0
+		- Forward Start = 1
+
+The Ostrip model should overlook the NowToSet days if the FwdStFlag = 0 (fixed price option).  It assumes the option is set right now.  The "Old Ostrip Model" did not overlook this input.  This is the problem.  In Larryoptmodel, the NowToSet is the same for Fixed Price options and Forward Start Options, the BegDays is the same and the EndDays is the same.  Thus when the "Old Ostrip Model" incorrectly used the NowToSet days, this made the Larryoptmodel value the option correctly.  When the "New Ostrip Model" was put into production, this model overlooks the NowToSet date, thus giving an incorrect value in Larryoptmodel.
+
+Larryoptmodel has to be changed to reflect the above inputs.  It is actually only a change to one date.  This date will be used in calculating the three days above.  If the option is a fixed price option then the date will be today and NowToSet will be Today minus Today (zero), BegDays will be Start of Option minus today, EndDays will be End of Option minus today.  If the option is a forward start option, then the date will be when the strike is set and the NowToSet with be the strike setting date minus today, BegDays will be Start of Option minus the strike date, EndDays will be the End of Option minus strike date.
+
+It is important to note that it is unexcusable to make any changes to the models without consulting the traders first.  If there was a problem with the "Old Ostrip Model" then the trader should have been notified right away.  This could have meant that the options were being misvalued when trading.  In this case, however, Larry had figured a way around this problem and he was valuing correctly.  When the model was changed, that changed the larryoptmodel valuation and now it was being valued incorrectly.  Either way, any problems with the models should be communicated with the traders right away.  Any changes to the models should be communicated to the traders before they are made.
+
+Please let me know if any have any questions or concerns.  Thanks.
+
+John
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:58 2022
+Message-ID: <17393783.1075855222494.JavaMail.evans@thyme>
+Date: Thu, 25 Oct 2001 16:27:29 -0700 (PDT)
+From: paulo.issler@enron.com
+To: bill.white@enron.com, mario.de@enron.com, john.griffith@enron.com,
+	eric.moon@enron.com, santiago.garcia@enron.com,
+	mark.breese@enron.com
+Subject: Historical Correlation Calculator
+Cc: pinnamaneni.krishnarao@enron.com, bob.lee@enron.com,
+	rakesh.bharati@enron.com, tanya.tamarchenko@enron.com,
+	j.kaminski@enron.com, zimin.lu@enron.com,
+	vasant.shanbhogue@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: pinnamaneni.krishnarao@enron.com, bob.lee@enron.com,
+	rakesh.bharati@enron.com, tanya.tamarchenko@enron.com,
+	j.kaminski@enron.com, zimin.lu@enron.com,
+	vasant.shanbhogue@enron.com
+X-From: Issler, Paulo </O=ENRON/OU=NA/CN=RECIPIENTS/CN=PFISSLE>
+X-To: White, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bwhite>, De La Ossa, Mario </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mdelaoss>, Griffith, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jgriffit>, Moon, Eric </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emoon>, Garcia, Santiago </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sgarcia5>, Breese, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbreese>
+X-cc: Krishnarao, Pinnamaneni </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pkrishn>, Lee, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Blee5>, Bharati, Rakesh </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbharati>, Tamarchenko, Tanya </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ttamarc>, Kaminski, Vince J </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vkamins>, Lu, Zimin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Zlu>, Shanbhogue, Vasant </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vshanbh>
+X-bcc: 
+X-Folder: \John_Griffith_Jan2002_1\Griffith, John\Research
+X-Origin: Griffith-J
+X-FileName: jgriffit (Non-Privileged).pst
+
+I finished a spreadsheet for calculating historical correlations on forward curves. It gives the correlation matrix for contracts going out an arbritary number of months out. I think it might be a handy tool for some of you.
+
+You may get that on O:\RESEARCH\CUSTOM\CORRELMATRIX\
+
+It demands that you have access to our EGSPROD32 database. You must have that configured in your ODBC. It is a large spreadsheet, so it may take some computing resorces. Let me know if you find any problem.
+
+Thanks.
+Paulo Issler   
+
+From MAILER-DAEMON Mon Apr 18 14:26:58 2022
+Message-ID: <30794721.1075860786650.JavaMail.evans@thyme>
+Date: Thu, 10 May 2001 11:36:00 -0700 (PDT)
+From: kenneth.parkhill@enron.com
+To: john.griffith@enron.com
+Subject: updated skew file
+Cc: paulo.issler@enron.com, tom.barkley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: paulo.issler@enron.com, tom.barkley@enron.com
+X-From: Kenneth Parkhill <Kenneth Parkhill/ENRON@enronXgate>
+X-To: Griffith, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jgriffit>
+X-cc: Issler, Paulo </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pfissle>, Barkley, Tom </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tbarkley>
+X-bcc: 
+X-Folder: \John_Griffith_Mar2002\Griffith, John\Research
+X-Origin: Griffith-J
+X-FileName: jgriffit (Non-Privileged).pst
+
+John,
+
+This is the latest skew calculator file.  It has a sheet for the vol skew table, and it calculates the ENA pdf using a linear interpolation between points on the table, not a polynomial.  
+
+The file shows yesterday's settle data for Jun, and ENA data matches very well.  (All the 2001 contracts agree closely with ENA data from yesterday, in fact.)  I've added a macro that fetches the underlying price, volatility, and interest rate from our in-house EGSPROD32 database.  Let me know if this doesn't work for you.
+
+Feel free to contact any of us if you have any questions or requests regarding this file.  hope it is helpful.
+
+ken
+
+ 
+
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:26:58 2022
+Message-ID: <8450220.1075849678661.JavaMail.evans@thyme>
+Date: Mon, 12 Mar 2001 03:31:00 -0800 (PST)
+From: paulo.issler@enron.com
+To: john.griffith@enron.com
+Subject: Re: Phillips Production Company - Hedge
+Cc: nelson.ferries@enron.com, louis.dicarlo@enron.com, tom.barkley@enron.com,
+	john.singer@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: nelson.ferries@enron.com, louis.dicarlo@enron.com, tom.barkley@enron.com,
+	john.singer@enron.com
+X-From: Paulo Issler
+X-To: John Griffith
+X-cc: Nelson Ferries, Louis Dicarlo, Tom Barkley, John M Singer
+X-bcc: 
+X-Folder: \John_Griffith_Nov2001\Notes Folders\Research
+X-Origin: GRIFFITH-J
+X-FileName: jgriffit.nsf
+
+John:
+
+The position is hedgeable. Tom Barkeley, from our group, has put together a 
+spreadsheet showing the necessary combination of digitals and europenas to 
+make it happen. We will be glad to assist you pricing that.
+
+
+
+Paulo Issler
+
+
+
+
+John Griffith@ENRON
+03/09/2001 12:42 PM
+To: Paulo Issler/HOU/ECT@ECT
+cc:  
+Subject: Phillips Production Company - Hedge
+
+
+---------------------- Forwarded by John Griffith/Corp/Enron on 03/09/2001 
+12:45 PM ---------------------------
+
+
+Louis Dicarlo
+03/01/2001 06:55 AM
+To: John Griffith/Corp/Enron@Enron
+cc:  
+
+Subject: Phillips Production Company - Hedge
+
+When you have a few minutes, please take a look at the request below.  My 
+thoughts are this product is not hedgable.  I'm looking for another opinion 
+and I figure you've probably seen everything under the sun.  
+
+I don't need a response today but this week would be great.  Thanks
+
+---------------------- Forwarded by Louis Dicarlo/NA/Enron on 03/01/2001 
+06:52 AM ---------------------------
+
+
+Nelson Ferries
+02/27/2001 01:19 PM
+To: Louis Dicarlo/NA/Enron@ENRON
+cc:  
+
+Subject: Phillips Production Company - Hedge
+
+Louis:
+
+Can you take a look at this and respond to John Singer.
+---------------------- Forwarded by Nelson Ferries/Corp/Enron on 02/27/2001 
+01:18 PM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  John M Singer                           02/27/2001 10:26 AM
+	
+
+To: Nelson Ferries/Corp/Enron@ENRON
+cc:  
+
+Subject: Phillips Production Company - Hedge
+
+Phillips Production would like to know if it is possible to do a Financial 
+Hedge for both the NYMEX Settle and Basis.  The attached scheudle calculates 
+the Basis as a percentage of the NYMEX Settle instead of a traditional 
+location basis.   Please review.  
+
+Can the Basis be hedged since it is based on the NYMEX Settle instead of a 
+traditional location basis?
+
+Volume:  5,000 - 7,000 per day.
+Period is :  Apr01 - Oct01
+
+
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:58 2022
+Message-ID: <8849101.1075860786552.JavaMail.evans@thyme>
+Date: Thu, 14 Jun 2001 05:24:18 -0700 (PDT)
+From: kenneth.parkhill@enron.com
+To: john.griffith@enron.com
+Subject: RE: Option Trade
+Cc: paulo.issler@enron.com, bob.lee@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: paulo.issler@enron.com, bob.lee@enron.com
+X-From: Parkhill, Kenneth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KPARKHIL>
+X-To: Griffith, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jgriffit>
+X-cc: Issler, Paulo </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pfissle>, Lee, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Blee5>
+X-bcc: 
+X-Folder: \John_Griffith_Mar2002\Griffith, John\Research
+X-Origin: Griffith-J
+X-FileName: jgriffit (Non-Privileged).pst
+
+here's the file we spoke about
+
+
+ 
+
+ -----Original Message-----
+From: 	Griffith, John  
+Sent:	Wednesday, June 13, 2001 2:10 PM
+To:	Parkhill, Kenneth
+Cc:	Issler, Paulo; Lee, Bob
+Subject:	Option Trade
+
+Kenneth,
+
+Here is the trade I was looking at:
+
+	Dec'01	trading at $4.725
+
+		 100  4.70 Calls
+		-300  5.50 Calls
+		 200  5.90 Calls
+
+		-200  3.50 Puts
+		 300  4.00 Puts
+		-100  4.70 Puts
+
+Someone called a broker on the floor of the exchange to get a price on this butterfly combination. First of all, can you tell me what this trade does for you.  I looked at the payout and I don't understand what they were trying to do.  Second, the price that the floor market makers gave him was $.10 bid at $.14.  I price the deal at approximately $.07.  I know that the $.10 is too high and the delta of the trade is about .07 (really small).  How can I use your skew file to see the arbitrage?
+
+I have attached the payout chart.
+
+
+Thanks for your help.  Call if you have any questions.  Thanks.
+
+John
+
+
+
+ << File: Payout chart.xls >> 
+
+From MAILER-DAEMON Mon Apr 18 14:26:58 2022
+Message-ID: <6084828.1075860786462.JavaMail.evans@thyme>
+Date: Fri, 29 Jun 2001 15:03:37 -0700 (PDT)
+From: paulo.issler@enron.com
+To: john.griffith@enron.com
+Subject: Quato Swap
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Issler, Paulo </O=ENRON/OU=NA/CN=RECIPIENTS/CN=PFISSLE>
+X-To: Griffith, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jgriffit>
+X-cc: 
+X-bcc: 
+X-Folder: \John_Griffith_Mar2002\Griffith, John\Research
+X-Origin: Griffith-J
+X-FileName: jgriffit (Non-Privileged).pst
+
+John:
+
+Here is the spreadsheet for valuing and hedging the quanto swap. It prices the swap for one day. Please note the delta position on gas that needs to be taken since inception. The gas position changes as we enter into the correlated period (hit F9 to see different scenarios). 
+
+For the sake of simplicity I used a zero interest rate (that does not change the hedging issues). "TS" is the ticker size (MMBTUs/HDDs). I made it the unit for simplicity also. 
+
+ 
+Let me know your questions and opinion.
+Paulo Issler 
+
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:26:58 2022
+Message-ID: <2989383.1075849678706.JavaMail.evans@thyme>
+Date: Tue, 20 Mar 2001 05:37:00 -0800 (PST)
+From: margie.nguyen@enron.com
+To: john.griffith@enron.com
+Subject: FW: update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Margie Nguyen
+X-To: John Griffith
+X-cc: 
+X-bcc: 
+X-Folder: \John_Griffith_Nov2001\Notes Folders\Research
+X-Origin: GRIFFITH-J
+X-FileName: jgriffit.nsf
+
+ -----Original Message-----
+From:  Khatib, Samer  
+Sent: Tuesday, March 20, 2001 10:50 AM
+To: Nguyen, Margie
+Subject: RE: update
+
+xterm -sb -fg blue -T Pmedusa -display @d
+
+ -----Original Message-----
+From:  Nguyen, Margie  
+Sent: Tuesday, March 20, 2001 9:53 AM
+To: Hanson, Kristen J.
+Cc: Khatib, Samer; Lim, Francis S.; Wong, Jeremy; Dang, Thu; Husain, Karima
+Subject: update
+
+Kris,
+
+
+I just wanted to update you on what Samer has done so far.  Due to an 
+unexpected urgency of certain projects last week, Samer did not have time to 
+start working on  the Report 1 until yesturday.  We will update you later 
+today for the completion of it.  As of Report 2 (report to pull deal # and 
+delivery point), I sent you the query as well as the data yesturday.  If you 
+need additional changes on this please let me know.  I am still waiting for 
+Jessica (Arthur Andersen) to get with me on the details for the Report 3 
+(TAGG-LISA Reconciliation Report).  Until Jessica forward me all the 
+necessary information, I will get started on it.  If you have any questions 
+please call me.  Thanks.
+
+
+Margie
+53706
+
+From MAILER-DAEMON Mon Apr 18 14:26:58 2022
+Message-ID: <14056754.1075852415277.JavaMail.evans@thyme>
+Date: Tue, 17 Apr 2001 16:22:00 -0700 (PDT)
+From: zimin.lu@enron.com
+To: john.griffith@enron.com
+Subject: Re: Barrier opt
+Cc: stinson.gibner@enron.com, john.arnold@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stinson.gibner@enron.com, john.arnold@enron.com
+X-From: Zimin Lu <Zimin Lu/HOU/ECT@ECT>
+X-To: John Griffith <John Griffith/Corp/Enron@ENRON>
+X-cc: Stinson Gibner <Stinson Gibner/HOU/ECT@ECT>, John Arnold <John Arnold/HOU/ECT@ECT>
+X-bcc: 
+X-Folder: \JGRIFFIT (Non-Privileged)\Griffith, John\Research
+X-Origin: GRIFFITH-J
+X-FileName: JGRIFFIT (Non-Privileged).pst
+
+
+
+John,
+
+
+For a down and out put, I put the following as an approximation for our understanding purpose.
+
+a down and out put with barrier B < strike K
+is overestimated by
+
+A put at struck at K - a put struck at B - (K-B)*digital put strike at B.
+
+I ploted the barrier put (blue line)  versus the approximation (red line) as function of the 
+barrier.  
+
+The true barrier option has zero payoff whenever there is a touch down the barrier
+during the lifetime of the option.  Therefore it goes to zero much faster than
+above approximation when B -> K.
+
+See the spreadsheet for more details.
+
+Zimin
+
+
+ 
+
+
+ 
+
+
+
+<Embedded StdOleLink>
+
+From MAILER-DAEMON Mon Apr 18 14:26:58 2022
+Message-ID: <28663833.1075852415299.JavaMail.evans@thyme>
+Date: Mon, 25 Jun 2001 09:48:13 -0700 (PDT)
+From: mheffner@carrfut.com
+To: john.griffith@enron.com
+Subject: 
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: MHeffner@carrfut.com@ENRON <IMCEANOTES-MHeffner+40carrfut+2Ecom+40ENRON@ENRON.com>
+X-To: Griffith, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JGRIFFIT>
+X-cc: 
+X-bcc: 
+X-Folder: \JGRIFFIT (Non-Privileged)\Griffith, John\Research
+X-Origin: GRIFFITH-J
+X-FileName: JGRIFFIT (Non-Privileged).pst
+
+(See attached file: John Griffith.doc)
+ - John Griffith.doc 
+
+From MAILER-DAEMON Mon Apr 18 14:26:58 2022
+Message-ID: <20499785.1075849678683.JavaMail.evans@thyme>
+Date: Fri, 16 Mar 2001 07:49:00 -0800 (PST)
+From: paulo.issler@enron.com
+To: john.griffith@enron.com
+Subject: Basis Swpation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Paulo Issler
+X-To: John Griffith
+X-cc: 
+X-bcc: 
+X-Folder: \John_Griffith_Nov2001\Notes Folders\Research
+X-Origin: GRIFFITH-J
+X-FileName: jgriffit.nsf
+
+John:
+I think I like the approach you took in your first spreadsheet. Note that the 
+spread option model takes rates expressed as continious rates. That is not 
+consistent with the rates we have on our AA curves.
+I suggest you change to your original valuation.
+Thanks
+Paulo Issler
+
+From MAILER-DAEMON Mon Apr 18 14:26:58 2022
+Message-ID: <13389267.1075855222471.JavaMail.evans@thyme>
+Date: Mon, 12 Nov 2001 15:32:03 -0800 (PST)
+From: a..johnson@enron.com
+To: john.griffith@enron.com, mark.breese@enron.com, eric.moon@enron.com
+Subject: correlation calculators
+Cc: paulo.issler@enron.com, zimin.lu@enron.com, bob.lee@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: paulo.issler@enron.com, zimin.lu@enron.com, bob.lee@enron.com
+X-From: Johnson, Heather A. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=HJOHNSO>
+X-To: Griffith, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jgriffit>, Breese, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbreese>, Moon, Eric </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emoon>
+X-cc: Issler, Paulo </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pfissle>, Lu, Zimin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Zlu>, Lee, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Blee5>
+X-bcc: 
+X-Folder: \John_Griffith_Jan2002_1\Griffith, John\Research
+X-Origin: Griffith-J
+X-FileName: jgriffit (Non-Privileged).pst
+
+There are two correlation calculators that are now available in O:\Research\Custom\CorrelMatrix\.
+
+CorrelAnalysis.xls can basket up to 3 curves and calculates the correlation matrix on contracts with different expirations.  This is particularly helpful when the correlation matrix is needed for NYMEX+basis+index calculations.
+
+CorrelVolCalc.xls calculates the correlation between two baskets.  It can basket up to 3 curves in each basket, so this calculator is also able to handle NYMEX+basis+index calculations.
+
+These calculators have been reviewed by the Research Group, and we feel that they are accurate.  Please let me (x53240) or Paulo Issler (x56274) know if you find any problems or have any questions about these new tools.
+
+Thanks,
+Heather Johnson
+Enron Research Group
+X53240
+
+From MAILER-DAEMON Mon Apr 18 14:26:58 2022
+Message-ID: <5473910.1075852415345.JavaMail.evans@thyme>
+Date: Thu, 27 Sep 2001 15:40:14 -0700 (PDT)
+From: santiago.garcia@enron.com
+To: john.griffith@enron.com
+Subject: Lookback model
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Garcia, Santiago </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SGARCIA5>
+X-To: Griffith, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jgriffit>
+X-cc: 
+X-bcc: 
+X-Folder: \JGRIFFIT (Non-Privileged)\Griffith, John\Research
+X-Origin: GRIFFITH-J
+X-FileName: JGRIFFIT (Non-Privileged).pst
+
+John,
+
+Research has delivered the lookback model with fixed strike. The path is: o:\research\custom\xfxlkbk
+
+You will find the model and the .xll that we will have to install in order to run the model. The payout for the put = MAX(K-F(T), 0) where F(T) is the daily closing of NYMEX prompt month. 
+
+I'll also test the model and will call you later.
+
+Thanks.
+
+Santiago
+
+From MAILER-DAEMON Mon Apr 18 14:26:58 2022
+Message-ID: <28289491.1075860787176.JavaMail.evans@thyme>
+Date: Thu, 7 Feb 2002 10:44:49 -0800 (PST)
+From: brad.jones@enron.com
+To: john.griffith@enron.com
+Subject: FW:
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jones, Brad </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BJONES7>
+X-To: Griffith, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jgriffit>
+X-cc: 
+X-bcc: 
+X-Folder: \John_Griffith_Mar2002\Griffith, John\Research
+X-Origin: Griffith-J
+X-FileName: jgriffit (Non-Privileged).pst
+
+
+
+ -----Original Message-----
+From: 	Ryder, Patrick  
+Sent:	Thursday, February 07, 2002 12:32 PM
+To:	Jones, Brad
+Subject:	
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:26:58 2022
+Message-ID: <12064907.1075852415322.JavaMail.evans@thyme>
+Date: Mon, 27 Aug 2001 16:13:20 -0700 (PDT)
+From: john.griffith@enron.com
+To: george.huan@enron.com, eric.moon@enron.com, loftus.fitzwater@enron.com
+Subject: Storage
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Griffith, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JGRIFFIT>
+X-To: Huan, George </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ghuan>, Moon, Eric </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emoon>, Fitzwater, Loftus </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lfitzwat>
+X-cc: 
+X-bcc: 
+X-Folder: \JGRIFFIT (Non-Privileged)\Griffith, John\Research
+X-Origin: GRIFFITH-J
+X-FileName: JGRIFFIT (Non-Privileged).pst
+
+George,Eric and Loftus,
+
+I think we should start with a simple storage model using the monte carlo simulation.  Here is the way I think about the value.  If I have a storage deal where I can inject baseload April-Oct and withdraw baseload Nov-Mar, that means I have a summer winter spread.  If I go one step further and say that I can inject any 1 month and withdraw any 1 month then I have an option with intrinsic and extrinsic value.  The intrinsic value is the largest spread of months (pv'd).  The extrinsic value is the value that is obtained through rolling your hedges with other months get cheaper and more expensive than the hedged month.
+
+Example:
+
+Injection season - April through October baseload any 1 month
+Withdrawal season - Novemberr through October baseload any 1 month
+
+	Month		Price		Vol
+	April		3.09		45%		
+	May		3.11		40.75%
+	June		3.154		38.25%
+	July		3.204		38%
+	August		3.249		38%
+	September	3.25		38%
+	October		3.265		37.5%
+
+	November	3.42		37.5%
+	December	3.59		37.5%
+	January		3.68		37.5%
+	February	3.565		36%
+	March		3.446		34.25%
+
+Excluding pv issues, the value of this storage should be $3.68-$3.09=$.59 plus some extrinsic value.  What is the extrinsic value?  I think we should simulate prices for each month using the current implied vol and also some correlation from a correlation matrix that we build.  Then with these simulations we calculate how much we would have made rolling hedges between now and the end of storage and the average of these simulations is the extrinsic value, right?
+
+Is this logical?  Am I being too simplistic?  Please let me know and maybe we can start with a model to price this.
+
+George why don't you start with a model that simply simulates price for the months and let me know what you need in order to do this.  I think that the simulation is similar to a VAR calculation (vols and correlation ...)
+
+Thanks.
+
+John
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:58 2022
+Message-ID: <2901376.1075860786529.JavaMail.evans@thyme>
+Date: Fri, 4 May 2001 12:30:00 -0700 (PDT)
+From: eric.moon@enron.com
+To: john.griffith@enron.com
+Subject: Re: Historical Volatility
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Eric Moon <Eric Moon/HOU/ECT@ECT>
+X-To: Griffith, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jgriffit>
+X-cc: 
+X-bcc: 
+X-Folder: \John_Griffith_Mar2002\Griffith, John\Research
+X-Origin: Griffith-J
+X-FileName: jgriffit (Non-Privileged).pst
+
+I think Zimin has been hanging around the "phull volume" guy to much.  I think what he is trying to say is that you are calculating the historical vol correctly but to compare this (historical vol) to an implied vol from either the marketplace or as calculated by yourself, there will be an underlying assumption of a calendar year as the basis for option maturity. Therefore you would have to use the sqrt of 365.25 in order to make a comparison to the historical vol.  
+

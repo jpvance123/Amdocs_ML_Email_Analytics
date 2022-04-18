@@ -1,0 +1,1176 @@
+From MAILER-DAEMON Mon Apr 18 14:23:58 2022
+Message-ID: <20528067.1075841077220.JavaMail.evans@thyme>
+Date: Mon, 26 Nov 2001 16:51:54 -0800 (PST)
+From: melissa.videtto@enron.com
+To: m..love@enron.com
+Subject: Accomplishments
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Videtto, Melissa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MVIDETTO>
+X-To: Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\EAST Desk
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+Phillip, 
+
+I apologize that it has taken so long to send these to you.  
+
+Accomplishments:
+
+1. Publish the IntraMonth (Physical) and Gas Daily Curves for the East Desk on a daily basis.  
+
+This involves communicating with the traders who mark the curves and checking for reasonableness for the spreads that are set.  I spend extra time before publishing making sure that the curves are correct so that they do not have to be re-published which can slow my co-workers down.  During Bid week, extra curve loading procedures are followed so that we can start publishing curves for the prompt month.  
+
+I also maintain the live feed from the Nymex screen to TDS so that the traders can see Live Curve Shift.  I make sure that all three curve files are updating and publishing correctly and communicate with Pete Keavey to constantly update the Cash/Futures spread (i.e. What the Hub is trading at.)  If TDS is not updating correctly, then it is my responsibility to fix the problem.
+
+2.  Maintain the daily P&L for Gulf 3, Gulf 4, and Gulf 5.
+
+These books contain both physical and financial pieces as well as options.  The main accomplishment in this area has been practicing the technique of hedging using Gas Daily Swaps to keep my trader flat when Gulf 5 was in use.  This was done on a daily basis for 2 months so that my trader, Chuck Ames, did not carry any positions.  It involved swaps and annuities between Gulf 4 and Gulf 5.  By the end of the month, Gulf 5 will be eliminated and the transfer of deals from Gulf 5 to Gulf 4 will be complete.
+
+3.  Update the calc sheet for Enron's long term deal with Florida Power & Light.
+
+I work on computing the desk price for this deal so that the variance between our Economic Estimate and what Unify Should Be is reduced to less than $100.  I check on all the different legs of the deal to make sure that the volumes in Sitara and Tagg are matching and therefore we are coming up with the correct amount for Total Liquidations.  Computing the desk price is an important piece to this deal and usually results in a net change of > $200,000 each month to my Gulf 4 book.  It used to take 2 full days each month of trial and error to compute the desk price until I computed the formula which only requires 2 guesses then will give you the true desk price eliminating any variance each time.  I shared this formula with Alejandra and it is now used in several calc sheets that Ed is currently working on since Alejandra left.
+
+4.  Helped to create a new version of Weapon X.
+
+James Hungerford and I worked together to create a new version of Weapon X that could be used regardless of whether the physical book has fuel expense or not.  This version (Weapon XY) can be used and adapted to fit every physical book within Natural Gas.  It reduced the number of versions that people were using from 9 to 1.  If needed, one person could run and export Weapon X for every physical book on their desk.  This saves time when you are running Weapon X for someone while they are out or on vacation.  I helped to install Weapon XY on the Central Desk and the West Desk and trained others how to use to the new version.
+
+
+5.  Tie out the OA Flash tab for the Gulf Region on the East Desk at the end of each month.
+
+On the First Day of the month, I make sure that the OA Flash tab for the gulf region (the books Gulf1, Gulf2, Gulf3, Gulf4, TP1, TP2, and Northeast) match what is expected for Transport Commodity and Demand Expense.  I gather the OA Flash tabs for all books and check for any variances.  I also communicate with Jeanne Wukasch in Logistics to make sure that these numbers are absolutely correct before saving out to the Last Day files.  This effort is done in an effort to prevent as much OA as possible.
+
+Please let me know if you have any questions. 
+
+Thank you,
+Melissa Videtto
+
+From MAILER-DAEMON Mon Apr 18 14:23:58 2022
+Message-ID: <4232934.1075841076859.JavaMail.evans@thyme>
+Date: Wed, 19 Dec 2001 12:42:11 -0800 (PST)
+From: chance.rabon@enron.com
+To: m..love@enron.com
+Subject: east curves
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>
+X-To: Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\EAST Desk
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+Greg@apbenergy will email me the bid offer sheets.  the password to my cpu is chanc5rabon.
+
+paths to curves:
+
+NYmarket - must be done first, other book listens to it.  the bid offer sheet applies to this sheet only.  hardcote the avg of the bid offer, then highlight publish tab and save all to database. the path is o/tds/tds curve/dec01/nymarket121?.  open last day and save as today before altering.
+
+NY - path is o/tds/tds curve/tds-ny 121?. open last day and save as today, then highlight dec out and save to database
+
+southeast - o/tds/tds curve/southeast/051401.  only open, highlight dec out and save to database
+
+gdi east - o/tds/tds curve/east-gdi-east.  only open, highlight dec out and save to database
+
+
+
+
+-----Original Message-----
+From: Greg Holtgrave [mailto:greg@apbenergy.com]
+Sent: Wednesday, December 19, 2001 12:58 PM
+To: Rabon, Chance; Mckay, Jonathan
+Subject: 12/18/01 enequotes.xls
+
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:23:58 2022
+Message-ID: <7533809.1075841076884.JavaMail.evans@thyme>
+Date: Tue, 18 Dec 2001 15:11:58 -0800 (PST)
+From: chairman.enron@enron.com
+To: dl-ga-all_enron_worldwide2@enron.com
+Subject: Organizational Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Office Of The Chairman </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MBX_OFFICECHAIRMAN>
+X-To: DL-GA-all_enron_worldwide2 </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DL-GA-all_enron_worldwide2>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\EAST Desk
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+
+As things begin to calm down somewhat after events of last week, we wanted to update all employees of certain organizational and personnel changes that have occurred recently.
+
+Organizational Matters
+The Creditors' Committee was formed last week by the United States Trustee.  This committee is comprised of 15 individuals representing various creditor groups including: banks, bondholders, insurance companies and employees.  The Creditors' Committee will be the key point of contact as we reorganize the company and emerge from Chapter 11.  Initially, they will send financial advisors to our offices to monitor any asset liquidations as well as review our cash flow projections.  Ultimately, they will be responsible for approving our reorganization plan as to which assets or businesses we sell and which ones we retain.
+
+>From an Enron perspective, the plans for reorganization have already begun.  Overhead has been reduced dramatically, certain employee retention programs have been put in place and a wider retention program is currently being developed.  We hope to share the wider retention program with you in the very near future.  Furthermore, detail cash flow projections are in their final stages of preparation and will be reviewed by senior management this week.  This will be the critical first step in formulating our reorganization strategy to emerge from Chapter 11 as a healthy company.
+
+By now, you must have heard of "NETCO." This company was formed as a means to maximize the value of Enron's most valuable business, the wholesale energy business.  Certain Enron North America employees have been assigned to NETCO to re-build the North American gas and power business under different ownership.  We will be filing with the bankruptcy court this week proposed auction procedures to allow bidders to bid for NETCO.  It is our expectation that Enron would retain a 49 percent (or perhaps less) non-controlling interest in NETCO.  The NETCO employees would become employees of the winning bidder.  We anticipate this process to reach closure sometime in January.
+
+As for the remaining businesses of Enron, they are all under review as to which ones will be proposed for sale and which ones will be proposed for retention.  This review process will take time as it will require approval of the Creditors' Committee.  We will update you periodically on our process.
+
+Personnel Matters
+As a result of our current situation, we have made many personnel changes over the past several months to maximize the value of the organization.
+
+Office of the Chairman - Enron Corp
+Jeff McMahon, Executive Vice President and Chief Financial Officer, has been added to the Office of the Chairman of Enron Corp along with Ken Lay and Greg Whalley.  Among other things, Jeff has been working on the business plan for reorganization in Chapter 11 and is the primary contact with the newly formed Creditor's Committee.
+
+Treasurer - Enron Corp
+Ray Bowen was elected to Executive Vice President, Finance and Treasurer of Enron Corp recently.  In this role, Ray is responsible for all finance activities of Enron Corp.  Ray also has the lead role in managing the cash activities of the company on a day to day basis.
+
+Corporate Development
+Mark Muller has been appointed Executive Vice President - Corporate Development.  In this role, Mark will work with Enron's various business units on all asset disposals, which will be a key element in Enron's reorganization plan and value preservation.
+
+Wholesale Services
+The Wholesale Services group has been reorganized under the leadership of Jim Fallon.  Included in this group are the following businesses, ENA, EBS, EIM and EGM.  As part of the Chapter 11 reorganization, efforts in these businesses will be directed at maximizing value for the creditors as well as determining which businesses or assets will be part of Enron's reorganization plan.
+
+Management Committee Departures
+Unfortunately, due to the current financial condition of the company, the following members of the management committee have left the company or will be leaving the company by the end of December:
+
+Michael Brown
+Mark Frevert
+Steve Kean
+Mike McConnell
+Jeff Shankman
+
+Additionally, John Lavorato and Louise Kitchen have resigned from the Management Committee to arrange for the joint venture energy activities of NETCO.
+
+We know as employees the uncertainty surrounding the future of the company is unsettling.  Unfortunately, that aspect will not change in the near term.  We ask for everyone's patience and continued support as we move forward through the Chapter 11 process.  We are committed to reorganizing into a strong company once again and will need the help of all the employees to achieve that goal.
+
+From MAILER-DAEMON Mon Apr 18 14:23:58 2022
+Message-ID: <32106185.1075841076618.JavaMail.evans@thyme>
+Date: Tue, 15 Jan 2002 06:30:55 -0800 (PST)
+From: melissa.videtto@enron.com
+To: m..love@enron.com
+Subject: Curve Files
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Videtto, Melissa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MVIDETTO>
+X-To: Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\EAST Desk
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+
+The file is located in:
+
+O\TDS\TDS Curve\East\Intramonth & Gas Daily Files\CombinedCurveFiles.
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:23:58 2022
+Message-ID: <31168114.1075841077100.JavaMail.evans@thyme>
+Date: Wed, 28 Nov 2001 12:30:08 -0800 (PST)
+From: edward.brady@enron.com
+To: m..love@enron.com
+Subject: Counterparty Value
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Brady, Edward </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EBRADY>
+X-To: Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\EAST Desk
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+ 
+
+Edward C. Brady
+Enron Net Works
+Risk Management
+713.853.5209
+1.800.97ENRON ext.35209
+
+From MAILER-DAEMON Mon Apr 18 14:23:58 2022
+Message-ID: <1267671.1075841076950.JavaMail.evans@thyme>
+Date: Fri, 7 Dec 2001 09:34:36 -0800 (PST)
+From: susan.trevino@enron.com
+To: m..love@enron.com, chris.abel@enron.com, john.allison@enron.com,
+	homan.amiry@enron.com, evelyn.aucoin@enron.com,
+	bilal.bajwa@enron.com, r..brackett@enron.com,
+	clara.carrington@enron.com, keith.considine@enron.com,
+	sunil.dalal@enron.com, minal.dalia@enron.com,
+	xochitl.figueroa@enron.com, bjorn.hagelmann@enron.com,
+	beth.harlan@enron.com, nancy.hernandez@enron.com,
+	tracey.irvin@enron.com, e..kasemervisz@enron.com, sasha.li@enron.com,
+	a..mausser@enron.com, jason.moore@enron.com, marina.ng@enron.com,
+	ron.nolte@enron.com, david.patton@enron.com,
+	stephen.perich@enron.com, d..powell@enron.com, karen.snow@enron.com,
+	mechelle.stevens@enron.com, kenneth.thibodeaux@enron.com,
+	thomas.underwood@enron.com, cassi.wallace@enron.com,
+	rudi.zipter@enron.com
+Subject: Gas Book request #B-DEC04-2-ST-5
+Cc: mcclure@enron.com, zakiyyah.mcclure@enron.com, velasco@enron.com,
+	jennifer.velasco@enron.com, victorio@enron.com,
+	tom.victorio@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: mcclure@enron.com, zakiyyah.mcclure@enron.com, velasco@enron.com,
+	jennifer.velasco@enron.com, victorio@enron.com,
+	tom.victorio@enron.com
+X-From: Trevino, Susan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=STREVIN>
+X-To: Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>, Abel, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cabel>, Allison, John <John.Allison@ENRON.com>, Amiry, Homan </O=ENRON/OU=EU/cn=Recipients/cn=hamiry>, Aucoin, Evelyn </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Eaucoin>, Bajwa, Bilal </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bbajwa>, Brackett, Debbie R. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dbracke>, Carrington, Clara </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ccarri1>, Considine, Keith <Keith.Considine@ENRON.com>, Dalal, Sunil </O=ENRON/OU=EU/cn=Recipients/cn=sdalal>, Dalia, Minal </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mdalia>, Figueroa, Xochitl <Xochitl.Figueroa@ENRON.com>, Hagelmann, Bjorn </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bhagelm>, Harlan, Beth <Beth.Harlan@ENRON.com>, Hernandez, Nancy <Nancy.Hernandez@ENRON.com>, Irvin, Tracey </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tirvin>, Kasemervisz, William E. <William.E.Kasemervisz@ENRON.com>, Li, Sasha <Sasha.Li@ENRON.com>, Mausser, Gregory A. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gmausse>, Moore, Jason <Jason.Moore@ENRON.com>, Ng, Marina <Marina.Ng@ENRON.com>, Nolte, Ron </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rnolte>, Patton, David <David.Patton@ENRON.com>, Perich, Stephen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sperich>, Powell, John D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jpowell>, Snow, Karen <Karen.Snow@ENRON.com>, Stevens, Mechelle </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Msteve1>, Thibodeaux, Kenneth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kthibode>, Underwood, Thomas </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tunderwo>, Wallace, Cassi <Cassi.Wallace@ENRON.com>, Zipter, Rudi </O=ENRON/OU=EU/CN=RECIPIENTS/CN=RZIPTER>
+X-cc: McClure, Zakiyyah <Zakiyyah.McClure@ENRON.com>, Velasco, Jennifer <Jennifer.Velasco@ENRON.com>, Victorio, Tom <Tom.Victorio@ENRON.com>
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\EAST Desk
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+The attached gas books have been set up.  Please contact me if you have any questions/comments.
+
+Thank you,
+Susan Trevino
+x3-1462
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:23:58 2022
+Message-ID: <13287953.1075841077004.JavaMail.evans@thyme>
+Date: Mon, 3 Dec 2001 14:31:09 -0800 (PST)
+From: susan.trevino@enron.com
+To: m..love@enron.com
+Subject: Books
+Cc: shona.wilson@enron.com, chris.abel@enron.com, john.allison@enron.com,
+	homan.amiry@enron.com, evelyn.aucoin@enron.com,
+	bilal.bajwa@enron.com, r..brackett@enron.com,
+	clara.carrington@enron.com, keith.considine@enron.com,
+	sunil.dalal@enron.com, minal.dalia@enron.com,
+	xochitl.figueroa@enron.com, bjorn.hagelmann@enron.com,
+	beth.harlan@enron.com, nancy.hernandez@enron.com,
+	tracey.irvin@enron.com, e..kasemervisz@enron.com,
+	shasha.li@enron.com, a..mausser@enron.com, jason.moore@enron.com,
+	marina.ng@enron.com, ron.nolte@enron.com, david.patton@enron.com,
+	stephen.perich@enron.com, d..powell@enron.com, karen.snow@enron.com,
+	mechelle.stevens@enron.com, kenneth.thibodeaux@enron.com,
+	thomas.underwood@enron.com, cassi.wallace@enron.com,
+	rudi.zipter@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: shona.wilson@enron.com, chris.abel@enron.com, john.allison@enron.com,
+	homan.amiry@enron.com, evelyn.aucoin@enron.com,
+	bilal.bajwa@enron.com, r..brackett@enron.com,
+	clara.carrington@enron.com, keith.considine@enron.com,
+	sunil.dalal@enron.com, minal.dalia@enron.com,
+	xochitl.figueroa@enron.com, bjorn.hagelmann@enron.com,
+	beth.harlan@enron.com, nancy.hernandez@enron.com,
+	tracey.irvin@enron.com, e..kasemervisz@enron.com,
+	shasha.li@enron.com, a..mausser@enron.com, jason.moore@enron.com,
+	marina.ng@enron.com, ron.nolte@enron.com, david.patton@enron.com,
+	stephen.perich@enron.com, d..powell@enron.com, karen.snow@enron.com,
+	mechelle.stevens@enron.com, kenneth.thibodeaux@enron.com,
+	thomas.underwood@enron.com, cassi.wallace@enron.com,
+	rudi.zipter@enron.com
+X-From: Trevino, Susan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=STREVIN>
+X-To: Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>
+X-cc: Wilson, Shona </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Swilson5>, Abel, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cabel>, Allison, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jallison>, Amiry, Homan </O=ENRON/OU=EU/cn=Recipients/cn=hamiry>, Aucoin, Evelyn </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Eaucoin>, Bajwa, Bilal </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bbajwa>, Brackett, Debbie R. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dbracke>, Carrington, Clara </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ccarri1>, Considine, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kconsidi>, Dalal, Sunil </O=ENRON/OU=EU/cn=Recipients/cn=sdalal>, Dalia, Minal </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mdalia>, Figueroa, Xochitl </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Xfiguero>, Hagelmann, Bjorn </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bhagelm>, Harlan, Beth <Beth.Harlan@ENRON.com>, Hernandez, Nancy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Nhernand>, Irvin, Tracey </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tirvin>, Kasemervisz, William E. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Wkaseme>, Li, Shasha </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sli>, Mausser, Gregory A. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gmausse>, Moore, Jason </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmoore1>, Ng, Marina <Marina.Ng@ENRON.com>, Nolte, Ron </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rnolte>, Patton, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dpatton>, Perich, Stephen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sperich>, Powell, John D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jpowell>, Snow, Karen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ksnow>, Stevens, Mechelle </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Msteve1>, Thibodeaux, Kenneth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kthibode>, Underwood, Thomas </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tunderwo>, Wallace, Cassi </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cwallac3>, Zipter, Rudi </O=ENRON/OU=EU/CN=RECIPIENTS/CN=RZIPTER>
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\EAST Desk
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+Phillip - the bankruptcy books that you requested this morning have been set up in RisktRAC and ERMS.  I have given the East, Central, West, Texas and Financial desks access to these books.  Keep in mind that these books have not been placed in the RisktRAC hierarchy.  Please advise as to where they need to be placed.
+
+Thank you,
+Susan Trevino
+x3-1462
+
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:23:58 2022
+Message-ID: <303837.1075841076711.JavaMail.evans@thyme>
+Date: Wed, 9 Jan 2002 11:21:52 -0800 (PST)
+From: chance.rabon@enron.com
+To: m..love@enron.com
+Subject: FW: enequotes.xls
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>
+X-To: Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\EAST Desk
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+
+
+-----Original Message-----
+From: Shawn Ridge [mailto:shawn@apbenergy.com]
+Sent: Tuesday, January 08, 2002 4:38 PM
+To: Mckay, Jonathan; Rabon, Chance
+Subject: enequotes.xls
+
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:23:58 2022
+Message-ID: <4651216.1075841077296.JavaMail.evans@thyme>
+Date: Wed, 7 Nov 2001 06:57:12 -0800 (PST)
+From: zakiyyah.mcclure@enron.com
+To: m..love@enron.com, l.palmer@enron.com, kam.keiser@enron.com,
+	d..winfree@enron.com, errol.mclaughlin@enron.com
+Subject: FW: Gas Desk
+Cc: dpr.consolidated@enron.com, nancy.hernandez@enron.com,
+	keith.considine@enron.com, susan.trevino@enron.com,
+	jennifer.velasco@enron.com, tom.victorio@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: dpr.consolidated@enron.com, nancy.hernandez@enron.com,
+	keith.considine@enron.com, susan.trevino@enron.com,
+	jennifer.velasco@enron.com, tom.victorio@enron.com
+X-From: McClure, Zakiyyah </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ZMCCLURE>
+X-To: Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>, PALMER, Scott L </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gwaddr/cn=BOA.BO1.Scott L Palmer>, Keiser, Kam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kkeiser>, Winfree, O'Neal D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Owinfre>, McLaughlin Jr., Errol </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emclaug>
+X-cc: Consolidated DPR </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DPR8B12F43F43226FF3FFC201B24413B8AA95D0B7>, Hernandez, Nancy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Nhernand>, Considine, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kconsidi>, Trevino, Susan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Strevin>, Velasco, Jennifer </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jvelasco>, Victorio, Tom </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tvictori>
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\EAST Desk
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+Phillip,
+
+Thank you for your message regarding responsibility changes within your team.  Within our team, we have had some changes as well.  Please note, effective 11/1/01, I have assumed responsibility for the Gas Desk within Risk Analytics.  
+
+Please feel free to share this information with your teams accordingly.  I look forward to working with each of you in the future.
+
+Thanks and have a pleasant day!!
+
+Zakiyyah
+xt 58146
+ -----Original Message-----
+From: 	Trevino, Susan  
+Sent:	Wednesday, November 07, 2001 8:47 AM
+To:	Wilson, Shona; Hernandez, Nancy; Considine, Keith; McClure, Zakiyyah; Velasco, Jennifer; Victorio, Tom; Abel, Chris; Allison, John; Patton, David; Thibodeaux, Kenneth; Wallace, Cassi
+Subject:	FW: FYI
+
+FYI
+
+ -----Original Message-----
+From: 	Love, Phillip M.  
+Sent:	Wednesday, November 07, 2001 8:31 AM
+To:	Trevino, Susan
+Cc:	Gossett, Jeffrey C.; Keiser, Kam; Palmer, B. Scott
+Subject:	FYI
+
+Can you let your group know that we have made some changes in responsibility in Risk Management.  Kam Keiser will be responsible for the West Desk, Scott Palmer will now be responsible for the Central Desk and I will now be responsible for the East Desk.  Please pass this information on and direct future inquiries accordingly.  Thanks.
+PL
+
+From MAILER-DAEMON Mon Apr 18 14:23:58 2022
+Message-ID: <24717583.1075841077321.JavaMail.evans@thyme>
+Date: Wed, 7 Nov 2001 06:51:29 -0800 (PST)
+From: jennifer.velasco@enron.com
+To: kam.keiser@enron.com
+Subject: RE: book moves
+Cc: m..love@enron.com, melissa.videtto@enron.com, susan.trevino@enron.com,
+	zakiyyah.mcclure@enron.com, keith.considine@enron.com,
+	tom.victorio@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: m..love@enron.com, melissa.videtto@enron.com, susan.trevino@enron.com,
+	zakiyyah.mcclure@enron.com, keith.considine@enron.com,
+	tom.victorio@enron.com
+X-From: Velasco, Jennifer </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JVELASCO>
+X-To: Keiser, Kam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kkeiser>
+X-cc: Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>, Videtto, Melissa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mvidetto>, Trevino, Susan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Strevin>, McClure, Zakiyyah </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Zmcclure>, Considine, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kconsidi>, Victorio, Tom </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tvictori>
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\EAST Desk
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+Kam,
+
+I have moved all the EAST-GULF4 books to Chuck Ames's folder. Please call me if you have any questions.
+
+Thanks.
+Jennifer
+X 5-2526
+
+ -----Original Message-----
+From: 	Keiser, Kam  
+Sent:	Wednesday, November 07, 2001 7:21 AM
+To:	Trevino, Susan; Velasco, Jennifer; McClure, Zakiyyah; Considine, Keith; Victorio, Tom
+Cc:	Love, Phillip M.; Videtto, Melissa
+Subject:	book moves
+
+Can you please move all East-Gulf4 books from Scott Neal to Chuck Ames effective today.  
+
+Thanks
+
+Kam
+
+From MAILER-DAEMON Mon Apr 18 14:23:58 2022
+Message-ID: <590808.1075841077077.JavaMail.evans@thyme>
+Date: Wed, 28 Nov 2001 12:36:06 -0800 (PST)
+From: kimat.singla@enron.com
+To: m..love@enron.com
+Subject: Counterparty Summary
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Singla, Kimat </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KSINGLA>
+X-To: Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\EAST Desk
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+Here it is.....
+
+
+Kimat
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:23:58 2022
+Message-ID: <24564220.1075841077345.JavaMail.evans@thyme>
+Date: Wed, 7 Nov 2001 06:30:36 -0800 (PST)
+From: zakiyyah.mcclure@enron.com
+To: kam.keiser@enron.com, susan.trevino@enron.com, jennifer.velasco@enron.com,
+	keith.considine@enron.com, tom.victorio@enron.com
+Subject: RE: book moves
+Cc: m..love@enron.com, melissa.videtto@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: m..love@enron.com, melissa.videtto@enron.com
+X-From: McClure, Zakiyyah </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ZMCCLURE>
+X-To: Keiser, Kam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kkeiser>, Trevino, Susan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Strevin>, Velasco, Jennifer </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jvelasco>, Considine, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kconsidi>, Victorio, Tom </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tvictori>
+X-cc: Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>, Videtto, Melissa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mvidetto>
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\EAST Desk
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+Kam,
+
+Thank you.  Jennifer Velasco will take care of this request.
+
+I will call you if I have any questions on our open books.
+
+Have a great day!!
+
+Zakiyyah
+xt58146
+
+ -----Original Message-----
+From: 	Keiser, Kam  
+Sent:	Wednesday, November 07, 2001 7:21 AM
+To:	Trevino, Susan; Velasco, Jennifer; McClure, Zakiyyah; Considine, Keith; Victorio, Tom
+Cc:	Love, Phillip M.; Videtto, Melissa
+Subject:	book moves
+
+Can you please move all East-Gulf4 books from Scott Neal to Chuck Ames effective today.  
+
+Thanks
+
+Kam
+
+From MAILER-DAEMON Mon Apr 18 14:23:58 2022
+Message-ID: <30678290.1075841077369.JavaMail.evans@thyme>
+Date: Wed, 7 Nov 2001 05:20:40 -0800 (PST)
+From: c..gossett@enron.com
+To: anne.bike@enron.com, kam.keiser@enron.com, m..love@enron.com,
+	errol.mclaughlin@enron.com, d..winfree@enron.com
+Subject: FW: New Email Address for Risk Analytics
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Gossett, Jeffrey C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JGOSSET>
+X-To: Bike, Anne </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Abike>, Keiser, Kam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kkeiser>, Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>, McLaughlin Jr., Errol </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emclaug>, Winfree, O'Neal D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Owinfre>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\EAST Desk
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+
+
+ -----Original Message-----
+From: 	Considine, Keith  
+Sent:	Tuesday, November 06, 2001 9:26 PM
+To:	Gossett, Jeffrey C.; White, Stacey W.; Bruce, Michelle; Wood, Shelly; New, James; Reeves, Kathy; Gillis, Brian; Mills, Scott; New, James; Hall, D. Todd; Glover, Sheila; Moscoso, Michael E.
+Cc:	Victorio, Tom; Wilson, Shona; Velasco, Jennifer; Trevino, Susan; McClure, Zakiyyah; Hernandez, Nancy; McIntyre, Burton
+Subject:	New Email Address for Risk Analytics
+
+All-
+
+Please forward this message to the appropriate members of your groups.
+
+Risk Analytics has created a new inbox to handle Risktrac requests that have typically been sent directly to one or more of those individuals included in the Cc. line above.  Effective immediately please send all new book requests, curve requests and Risktrac related questions/issues to Risk Analytics, a new addressee in the global address book. We will manage your requests from this new location. Note - do not use the Risk Analytics and Benchmark Reports id,  also in the global address book.
+
+Also - Burton McIntyre has left the group and will no longer be handling Risktrac related requests.
+
+Thanks for your cooperation in this matter.
+
+Regards
+
+Keith Considine
+
+From MAILER-DAEMON Mon Apr 18 14:23:58 2022
+Message-ID: <2782835.1075841076548.JavaMail.evans@thyme>
+Date: Tue, 15 Jan 2002 11:12:33 -0800 (PST)
+From: kristen.clause@enron.com
+To: m..love@enron.com
+Subject: RE: official post ids
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Clause, Kristen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KCLAUSE>
+X-To: Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\EAST Desk
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+Gulf 2 
+Phys - 1424884
+Price - 1424920
+Basis - 1424921
+Index - 1424922
+GD - 1424928
+GDI - 1424929
+
+New York 
+Price - 1425035
+Basis - 1425036
+Index - 1425037
+Opt - 1425038
+Opt - 1425039
+GDI - 1425046
+      GD - 1425052
+
+ -----Original Message-----
+From: 	Love, Phillip M.  
+Sent:	Tuesday, January 15, 2002 12:26 PM
+To:	Brady, Edward; Clause, Kristen; Espey, Darren; Hungerford, James; Mills, Bruce; Rabon, Chance; Videtto, Melissa
+Subject:	official post ids
+
+I need all of your official post ids from your old books for the date of 11/30/01.  Please email them to me ASAP.
+PL
+
+From MAILER-DAEMON Mon Apr 18 14:23:58 2022
+Message-ID: <6664421.1075841076835.JavaMail.evans@thyme>
+Date: Wed, 19 Dec 2001 13:36:27 -0800 (PST)
+From: chance.rabon@enron.com
+To: m..love@enron.com
+Subject: sandra's curve file
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>
+X-To: Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\EAST Desk
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+fteast - 0/tds-tds curve/east/fteast121?.  open last days and save as today.  then save all to database.
+
+From MAILER-DAEMON Mon Apr 18 14:23:58 2022
+Message-ID: <25414437.1075841077172.JavaMail.evans@thyme>
+Date: Wed, 28 Nov 2001 11:20:28 -0800 (PST)
+From: james.hungerford@enron.com
+To: m..love@enron.com
+Subject: Round 3
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Hungerford, James </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JHUNGERF>
+X-To: Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\EAST Desk
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+ 
+
+James Hungerford 
+713.345.4117 
+james.hungerford@enron.com 
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:23:58 2022
+Message-ID: <13485972.1075841076595.JavaMail.evans@thyme>
+Date: Tue, 15 Jan 2002 10:41:09 -0800 (PST)
+From: edward.brady@enron.com
+To: m..love@enron.com
+Subject: RE: official post ids
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Brady, Edward </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EBRADY>
+X-To: Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\EAST Desk
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+East North-East:
+1424806
+1424807
+1424808
+1424809
+1424810
+1424811
+1424812
+1424813
+1424814
+1424815
+1424816
+1424825
+1424826
+1424827
+1424828
+1424829
+1424830
+1424831
+1424832
+
+
+
+ -----Original Message-----
+From: 	Love, Phillip M.  
+Sent:	Tuesday, January 15, 2002 12:26 PM
+To:	Brady, Edward; Clause, Kristen; Espey, Darren; Hungerford, James; Mills, Bruce; Rabon, Chance; Videtto, Melissa
+Subject:	official post ids
+
+I need all of your official post ids from your old books for the date of 11/30/01.  Please email them to me ASAP.
+PL
+
+From MAILER-DAEMON Mon Apr 18 14:23:58 2022
+Message-ID: <25893557.1075841077029.JavaMail.evans@thyme>
+Date: Thu, 29 Nov 2001 06:50:17 -0800 (PST)
+From: priscilla.hamic@enron.com
+To: m..love@enron.com
+Subject: BUG/Keyspan
+Cc: lisa.valderrama@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: lisa.valderrama@enron.com
+X-From: Hamic, Priscilla </O=ENRON/OU=NA/CN=RECIPIENTS/CN=PHAMIC>
+X-To: Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>
+X-cc: Valderrama, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lvalde2>
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\EAST Desk
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+Attached is a spreadsheet with the breakdown for all the Keyspan/Brooklyn Union companies.  Let me know if you need further information.
+
+ 
+
+
+
+Priscilla Hamic
+Enron North America Corp.
+Tel: 713-345-3736
+Fax: 713-646-8420
+E-mail: phamic@enron.com
+
+From MAILER-DAEMON Mon Apr 18 14:23:58 2022
+Message-ID: <29795908.1075841076571.JavaMail.evans@thyme>
+Date: Tue, 15 Jan 2002 10:53:20 -0800 (PST)
+From: bruce.mills@enron.com
+To: m..love@enron.com
+Subject: FW: official post ids
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Mills, Bruce </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BMILLS>
+X-To: Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\EAST Desk
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+
+
+ -----Original Message-----
+From: 	Mills, Bruce  
+Sent:	Tuesday, January 15, 2002 12:45 PM
+To:	Love, Phillip M.
+Subject:	RE: official post ids
+
+
+		p	   d            m	        i              y
+GDHub	-	1424124, 1422547, 1424127, 1424129, 1424130, 
+East Trans - 	1424143, 1422510, 1424146, 1424147, 1424148
+BRuce	
+
+ -----Original Message-----
+From: 	Love, Phillip M.  
+Sent:	Tuesday, January 15, 2002 12:26 PM
+To:	Brady, Edward; Clause, Kristen; Espey, Darren; Hungerford, James; Mills, Bruce; Rabon, Chance; Videtto, Melissa
+Subject:	official post ids
+
+I need all of your official post ids from your old books for the date of 11/30/01.  Please email them to me ASAP.
+PL
+
+From MAILER-DAEMON Mon Apr 18 14:23:58 2022
+Message-ID: <7187517.1075841077271.JavaMail.evans@thyme>
+Date: Thu, 15 Nov 2001 06:53:48 -0800 (PST)
+From: anita.luong@enron.com
+To: m..love@enron.com
+Subject: RE: ERV
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Luong, Anita </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ALUONG>
+X-To: Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\EAST Desk
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+Hi Philiip,
+
+I've granted you access to publish the Trading Track reports.   If you don't already have the "Executive Report Publisher" add-ins in your excel applications, please call me and I can walk you through the process.
+
+Anita
+36753
+
+ -----Original Message-----
+From: 	Love, Phillip M.  
+Sent:	Wednesday, November 14, 2001 2:00 PM
+To:	Luong, Anita
+Subject:	ERV
+
+Kam Keiser suggested that I email you regarding ERV publishing access.  I am taking over the East desk from her and I need to be able to publish the trading track books to ERV.  Please shout with any questions or concerns.  Thanks.
+PL
+3-7376
+
+From MAILER-DAEMON Mon Apr 18 14:23:58 2022
+Message-ID: <19862813.1075841076909.JavaMail.evans@thyme>
+Date: Wed, 12 Dec 2001 08:51:25 -0800 (PST)
+From: megan.parker@enron.com
+To: m..love@enron.com
+Subject: PSEG Term Price Issue
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Parker, Megan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MPARKER4>
+X-To: Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\EAST Desk
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+Phillip:
+Here is the spreadsheet I received from PSEG regarding the price issue with deal 759607.  It looks like our price does not include the fuel percentage for any month or the change in GPS beginning with August.  I have highlighted these rows on the spreadsheet.  From their spreadsheet, we have under billed by $350K.  Please review and let me know what you think.  I also have a copy of the confirm from PSEG if you need it.
+
+Megan
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:23:58 2022
+Message-ID: <12621046.1075841077392.JavaMail.evans@thyme>
+Date: Tue, 6 Nov 2001 08:44:01 -0800 (PST)
+From: jeff.royed@enron.com
+To: jonathan.horne@enron.com
+Subject: Brooklyn Union -Again
+Cc: kam.keiser@enron.com, m..love@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: kam.keiser@enron.com, m..love@enron.com
+X-From: Royed, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JROYED>
+X-To: Horne, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jhorne>
+X-cc: Keiser, Kam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kkeiser>, Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\EAST Desk
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+OK, this will probably look much better to you.
+
+Sorry about that.  It is now in the money by 2.2 mil.
+
+Thanks,
+ 
+Jeff Royed
+Enron 
+Energy Operations
+Phone: 713-853-5295
+
+From MAILER-DAEMON Mon Apr 18 14:23:58 2022
+Message-ID: <25594598.1075841077055.JavaMail.evans@thyme>
+Date: Wed, 28 Nov 2001 12:50:35 -0800 (PST)
+From: darren.espey@enron.com
+To: m..love@enron.com
+Subject: Pivot Table
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Espey, Darren </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DESPEY>
+X-To: Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\EAST Desk
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+Let me know if this looks right.  First time I have ever done a "pivot table."
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:23:58 2022
+Message-ID: <13731138.1075841077147.JavaMail.evans@thyme>
+Date: Wed, 28 Nov 2001 12:10:59 -0800 (PST)
+From: james.hungerford@enron.com
+To: m..love@enron.com
+Subject: Mid Value on Mkteast and NewEngland
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Hungerford, James </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JHUNGERF>
+X-To: Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\EAST Desk
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+See attached
+
+James Hungerford 
+713.345.4117 
+james.hungerford@enron.com 
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:23:58 2022
+Message-ID: <19831079.1075841076642.JavaMail.evans@thyme>
+Date: Fri, 11 Jan 2002 11:00:05 -0800 (PST)
+From: chance.rabon@enron.com
+To: m..love@enron.com
+Subject: FW: enequotes.xls for 01/10
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>
+X-To: Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\EAST Desk
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+These were sent at 4:00 PM on Thursday.
+
+-----Original Message-----
+From: Shawn Ridge [mailto:shawn@apbenergy.com]
+Sent: Thursday, January 10, 2002 3:59 PM
+To: Rabon, Chance; Mckay, Jonathan
+Subject: enequotes.xls for 01/10
+
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:23:58 2022
+Message-ID: <8559233.1075841077247.JavaMail.evans@thyme>
+Date: Fri, 16 Nov 2001 08:46:11 -0800 (PST)
+From: kimat.singla@enron.com
+To: m..love@enron.com
+Subject: Accomplishments
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Singla, Kimat </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KSINGLA>
+X-To: Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\EAST Desk
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+FYI, I have attached the list of accomplishments for your review. I have given you little more than you have asked. Any questions, please let me know. Thanks.
+Kimat 
+
+From MAILER-DAEMON Mon Apr 18 14:23:58 2022
+Message-ID: <32245547.1075841076974.JavaMail.evans@thyme>
+Date: Tue, 4 Dec 2001 09:24:57 -0800 (PST)
+From: analytics.risk@enron.com
+To: m..love@enron.com
+Subject: RE: books moved to inactive status
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Risk Analytics </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MBX_RISKANALYTICS>
+X-To: Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\EAST Desk
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+Hi Phillip.  I just verified all of the books mentioned below and they all have an "INACTIVE" status.  
+
+Regards,
+ST
+
+ -----Original Message-----
+From: 	Love, Phillip M.  
+Sent:	Monday, December 03, 2001 9:07 PM
+To:	Risk Analytics
+Subject:	books moved to inactive status
+
+we at least temporarily halting the calcing of the trading track books.  Please make sure the following books (all risk types) are inactivated:
+Dummy-Book
+EPMI-Trdtrck-11
+Trade-Track-7
+Trade-Track-8
+Trade-Track-9
+
+Thanks.
+PL
+
+From MAILER-DAEMON Mon Apr 18 14:23:58 2022
+Message-ID: <8033756.1075841076688.JavaMail.evans@thyme>
+Date: Wed, 9 Jan 2002 11:30:50 -0800 (PST)
+From: chance.rabon@enron.com
+To: m..love@enron.com
+Subject: FW: enequotes.xls
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>
+X-To: Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\EAST Desk
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+
+
+-----Original Message-----
+From: Shawn Ridge [mailto:shawn@apbenergy.com]
+Sent: Tuesday, January 08, 2002 7:47 AM
+To: Mckay, Jonathan; Rabon, Chance
+Subject: enequotes.xls
+
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:23:58 2022
+Message-ID: <6320049.1075841076738.JavaMail.evans@thyme>
+Date: Mon, 31 Dec 2001 13:04:44 -0800 (PST)
+From: michael.castillo@enron.com
+To: m..love@enron.com
+Subject: Gulf NGP&L Adjustment
+Cc: john.valdes@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: john.valdes@enron.com
+X-From: Castillo, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MCASTILL>
+X-To: Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>
+X-cc: Valdes, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jvaldes>
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\EAST Desk
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+P.Love,
+
+Attached you will find an excel spreadsheet tallying the NGP&L Adj for December.  The total is 2,372,060 Expense.  Please let me know, if you have any questions.
+
+ 
+
+Thanks,
+
+Michael Castillo
+Enron Corporation
+michael.castillo@enron.com
+(713) 345-4794
+
+From MAILER-DAEMON Mon Apr 18 14:23:58 2022
+Message-ID: <21295766.1075841076763.JavaMail.evans@thyme>
+Date: Wed, 26 Dec 2001 15:23:10 -0800 (PST)
+From: irma.alvarez@enron.com
+To: dinah.sultanik@enron.com, karla.dobbs@enron.com
+Subject: FW: Melissa Videtto - Active employee
+Cc: marla.barnard@enron.com, m..love@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: marla.barnard@enron.com, m..love@enron.com
+X-From: Alvarez, Irma </O=ENRON/OU=NA/CN=RECIPIENTS/CN=IALVARE>
+X-To: Sultanik, Dinah </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dsultan>, Dobbs, Karla </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KDOBBS>
+X-cc: Barnard, Marla </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbarnar>, Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\EAST Desk
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+Dinah or Karla,
+
+We have been experiencing some call volume on active employee's who are receiving term packet information from Hewitt, but are still active in the system.  Do you know why that is?
+
+Please advise.
+
+Thanks.
+Irma Alvarez
+HR Svc Connection
+Ext. 3-1543
+
+P.S. Phillip - I show Melissa active in SAP with no future term action out there.  Thxs, Irma 
+
+ -----Original Message-----
+From: 	Barnard, Marla  
+Sent:	Wednesday, December 26, 2001 2:08 PM
+To:	HR Service Connection
+Cc:	Alvarez, Irma
+Subject:	Melissa Videtto
+
+Melissa Videtto received a termination package over the weekend and should not have.  Can you please confirm she has not been terminated so I can send an email confirmation to her manager and herself?  thanks
+
+Marla Barnard
+Vice President - Human Resources
+Enron Net Works and Enron Broadband Services
+713-345-8158
+Cell:  713-898-3083
+
+From MAILER-DAEMON Mon Apr 18 14:23:58 2022
+Message-ID: <4779993.1075841076665.JavaMail.evans@thyme>
+Date: Thu, 10 Jan 2002 12:00:36 -0800 (PST)
+From: chance.rabon@enron.com
+To: m..love@enron.com
+Subject: FW: enequotes.xls
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>
+X-To: Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\EAST Desk
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+
+
+-----Original Message-----
+From: Shawn Ridge [mailto:shawn@apbenergy.com]
+Sent: Wednesday, January 09, 2002 3:20 PM
+To: Mckay, Jonathan; Rabon, Chance
+Subject: enequotes.xls
+
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:23:58 2022
+Message-ID: <24263743.1075841077124.JavaMail.evans@thyme>
+Date: Wed, 28 Nov 2001 12:19:20 -0800 (PST)
+From: melissa.videtto@enron.com
+To: m..love@enron.com
+Subject: Gulf 3 and Gulf 4
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Videtto, Melissa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MVIDETTO>
+X-To: Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\EAST Desk
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+Phillip, 
+
+Let me know if you need anything else.  i Hope this works:
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:23:58 2022
+Message-ID: <16828522.1075841076812.JavaMail.evans@thyme>
+Date: Thu, 20 Dec 2001 14:44:59 -0800 (PST)
+From: amanda.schultz@enron.com
+To: kam.keiser@enron.com, m..love@enron.com, carole.frank@enron.com,
+	jad.doan@enron.com, bruce.mills@enron.com, melissa.videtto@enron.com,
+	james.hungerford@enron.com, d..winfree@enron.com,
+	patrick.ryder@enron.com, kristen.clause@enron.com,
+	randy.bhatia@enron.com, ryan.o'rourke@enron.com,
+	monte.jones@enron.com, biliana.pehlivanova@enron.com,
+	robin.rodrigue@enron.com, lynn.pikofsky@enron.com,
+	chance.rabon@enron.com, scott.palmer@enron.com,
+	shielah.castro@enron.com, stephanie.hopkins@enron.com,
+	edward.brady@enron.com, ashley.worthing@enron.com,
+	ashley.fay@enron.com
+Subject: risk pma log - november
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Schultz, Amanda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ASCHULTZ>
+X-To: Keiser, Kam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kkeiser>, Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>, Frank, Carole </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cfrank2>, Doan, Jad </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jdoan>, Mills, Bruce </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bmills>, Videtto, Melissa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mvidetto>, Hungerford, James </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jhungerf>, Winfree, O'Neal D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Owinfre>, Ryder, Patrick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pryder>, Clause, Kristen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kclause>, Bhatia, Randy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbhatia>, O'Rourke, Ryan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rorourke>, Jones, Monte </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mjones7>, Pehlivanova, Biliana </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bpehliva>, Rodrigue, Robin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rrodri2>, Pikofsky, Lynn </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lpikofsk>, Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Crabon>, Palmer, B. Scott </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Spalmer>, Castro, Shielah </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Scastro2>, Hopkins, Stephanie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Shopkin2>, Brady, Edward </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ebrady>, Worthing, Ashley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Aworthin>, Fay, Ashley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Afay2>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\EAST Desk
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+Hi!
+
+First, I would like to say thanks for clearing so many variances last month.  It was greatly appreciated!  Here are the variances between the Risk P&L and the GL as of November 30.  Let me know if you have any questions.  FYI - I will be out of the office until December 31.
+
+Thanks,
+Amanda
+x 53334
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:23:58 2022
+Message-ID: <26374181.1075841076786.JavaMail.evans@thyme>
+Date: Fri, 21 Dec 2001 13:48:08 -0800 (PST)
+From: hal.mckinney@enron.com
+Subject: Contact Info
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: McKinney, Hal </O=ENRON/OU=NA/CN=RECIPIENTS/CN=HMCKINNE>
+X-To: 
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Love, Phillip M.\EAST Desk
+X-Origin: LOVE-P
+X-FileName: phillip love 6-25-02.PST
+
+FYI
+
+
+Hal McKinney
+work: (713)345-3707 (voicemail)
+pager: (713)288-3577
+cell: (281)773-7982  (voicemail)
+
+Louisiana Phone (337)583-2470
+

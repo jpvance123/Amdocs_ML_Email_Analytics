@@ -1,0 +1,4370 @@
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <15023581.1075858521532.JavaMail.evans@thyme>
+Date: Thu, 2 Aug 2001 12:08:42 -0700 (PDT)
+From: p..o'neil@enron.com
+To: preston.ochsner@enron.com
+Subject: Start of Requirements Documents / Templates - Discussions for ERCOT
+ Meeting
+Cc: chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: chris.stokley@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Ochsner, Preston </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=95f9f08-89801451-86256922-549b8d>
+X-cc: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Preston,
+
+Here is a start for the requirements documentation.  I have not had a ton of time to work on this and plan on drilling down into more of the detail the remainder of this week and all of next week.
+
+If you have any questions please give me a call.
+
+ 
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <15654968.1075858521714.JavaMail.evans@thyme>
+Date: Wed, 25 Jul 2001 14:49:20 -0700 (PDT)
+From: p..o'neil@enron.com
+To: diann.huddleson@enron.com, chris.stokley@enron.com
+Subject: RE: FW: CSC UPDATE
+Cc: vivian.hart@enron.com, kenny.ha@enron.com, maurice.winter@enron.com,
+	evan.hughes@enron.com, jeff.richter@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: vivian.hart@enron.com, kenny.ha@enron.com, maurice.winter@enron.com,
+	evan.hughes@enron.com, jeff.richter@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Huddleson, Diann </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=42fc33c8-1b17856e-86256583-4c4c89>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-cc: Hart, Vivian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=dc53636d-18b8b8e8-862564c2-54946c>, Ha, Kenny </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=c9ddb2c7-4c8c1c5c-86256a26-6d11b8>, Winter, Maurice </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=fda61595-3f56af8c-8625684d-570b52>, Hughes, Evan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=1131ec5f-7e48d039-8625692f-52ea2e>, Richter, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jrichte>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Diann,
+
+I agree with you that Maurice appears to be the resource with the most knowledgeable in the areas we are diving into.  
+
+However,  The point here is that you committed to take ownership of  action items which came out of a meeting we had last week (I was dialed in from Portland).  It was expressed in our meeting the importance of the information we are looking an a time frame we hoped to get it in.
+
+Chris Stokley sent you a few message in follow-up to ensure that progress was occurring and you failed to respond to anyone letting them know that you would not be the point person spearheading those action items.  (Until a week later)
+
+We are now another week into this transition and still unable to deliver interval meter data to the business units requesting it.  If it takes CSC a week to make it available to us.  We could have had today or tomorrow.  Now it would be another week.
+
+We all know who the responsible resources are now.  Thanks for sending that out.  It is time for us now to focus on end results and getting this data in-house.  
+
+Thanks - MO
+
+ -----Original Message-----
+From: 	Huddleson, Diann  
+Sent:	Wednesday, July 25, 2001 12:08 PM
+To:	Stokley, Chris
+Cc:	O'Neil, Murray P.; Hart, Vivian; Ha, Kenny; Winter, Maurice; Hughes, Evan; Alan Hughes/NA/AZURIX@AZURIX@ENRON; Richter, Jeff
+Subject:	RE: FW: CSC UPDATE
+
+It was not my initiative to have this follow-up meeting, nor was I even invited to it.   When we met last week, I stressed that Maurice knew the systems better than I and I would have to defer to his recommendations.  When he was invited to the meeting earlier this week, I assumed you were engaging his expertise and that I was not needed.  
+
+I apologize for the misunderstanding.   However, I trust Maurice's recommendations as being the most logical.  If you still need us to pursue the Energy Sense proposal, let me know.
+
+
+
+
+From:	Chris Stokley/ENRON@enronXgate on 07/25/2001 11:16 AM
+To:	Diann Huddleson/HOU/EES@EES
+cc:	Murray P ONeil/ENRON@enronXgate, Vivian Hart/HOU/EES@EES, Kenny Ha/HOU/EES@EES, Maurice Winter/HOU/EES@EES, Evan Hughes/HOU/EES@EES, Alan Hughes/NA/AZURIX@AZURIX, Jeff Richter/ENRON@enronXgate 
+Subject:	RE: FW: CSC UPDATE
+
+Diann,
+	You should have notified me that you had passed this off to Maurice and not acted on it since we talked last Wed. From here on out I will assume that Maurice is the key person to get these issues resolved. Based on the e-mail below, I lost one week by your not having this conversation w/ a CSC rep last week. This is a week that we could not afford to lose. 
+
+Maurice,
+	Let me know what we need on our side to get the MDMA process escalated to a high priority item. Also, what is the estimated time of delivery from CSC once we make this a priority?  I agree w/ you best scenario recommendation, I would just like to be able to compare delivery dates b/w the two process that you have laid out. Thanks for your help on these items.
+
+			Ps. When next week can we expect CSC to deliver these accounts to the FTP server? Also, what time the next day can we pull the files off 
+			      Of the server?
+
+									Chris
+	
+	
+
+ -----Original Message-----
+From: 	Winter, Maurice  
+Sent:	Wednesday, July 25, 2001 8:05 AM
+To:	Stokley, Chris
+Cc:	Huddleson, Diann; O'Neil, Murray P.; Hart, Vivian; Carsten Haack/Enron@EUEnronXgate@ENRON; Ha, Kenny; Richter, Alma
+Subject:	RE: FW: CSC UPDATE
+
+Chris,
+
+In our meeting with Pat Priestley yesterday, she said it would not be difficult to post a CSV file to an FTP server for all the Interval Meter Data accounts in MV90.  Pat said that to post it in the Energy Sense format (MDEF) would be very difficult because of how the system operates.  
+
+Pat also confirmed that they do not post data from all MV90 accounts to the MDMA on a daily basis.  I asked her if they could change this process and she said that it was something they have been wanting to do, but it has not been a high priority.  
+
+I recommend that we get the daily CSV file from the FTP server and import it into the Load Database that John Rutledge is developing.  Pat says that if we can have the Work Request completed today, we could have this set up next week. 
+
+The best scenario is for all the data to be posted to the MDMA daily, so we can possibly get CSC to make this a high priority.
+
+Maurice
+
+
+
+
+From:	Chris Stokley/ENRON@enronXgate on 07/25/2001 09:45 AM
+To:	Diann Huddleson/HOU/EES@EES
+cc:	Murray P ONeil/ENRON@enronXgate, Vivian Hart/HOU/EES@EES, Carsten Haack/Enron@EUEnronXgate@ENRON, Kenny Ha/HOU/EES@EES, Alma Richter/ENRON@enronXgate, Maurice Winter/HOU/EES@EES 
+Subject:	RE: FW: CSC UPDATE
+
+Diann,
+
+	We have a few paths that we are looking into, including the one that we discussed w/ Maurice. Never at any time in that meeting did we decide not to look at the paths listed below. Does this mean that you have done nothing to facilitate these request to CSC?  
+
+
+				Chris
+
+ -----Original Message-----
+From: 	Huddleson, Diann  
+Sent:	Wednesday, July 25, 2001 7:24 AM
+To:	Stokley, Chris
+Cc:	O'Neil, Murray P.; Hart, Vivian; Carsten Haack/Enron@EUEnronXgate@ENRON; Ha, Kenny; Richter, Alma; Winter, Maurice
+Subject:	Re: FW: CSC UPDATE
+
+Chris,  I thought that you and Michael met with Maurice the other day and decided a slightly different path.  Is that not the case?  
+
+
+
+From:	Chris Stokley/ENRON@enronXgate on 07/24/2001 04:02 PM
+To:	Diann Huddleson/HOU/EES@EES
+cc:	Murray P ONeil/ENRON@enronXgate, Vivian Hart/HOU/EES@EES, Carsten Haack/Enron@EUEnronXgate, Kenny Ha/HOU/EES@EES, Alma Richter/ENRON@enronXgate 
+Subject:	FW: CSC UPDATE
+
+Diann,
+	I have got to get an update on the items below. Please send me your status on these items by close of business today. 
+
+
+									Chris
+
+ -----Original Message-----
+From: 	Stokley, Chris  
+Sent:	Monday, July 23, 2001 3:23 PM
+To:	Huddleson, Diann
+Cc:	Frazier, Michael; Hart, Vivian; O'Neil, Murray P.; Ha, Kenny
+Subject:	RE: CSC UPDATE
+
+Diann,
+
+	Do you have an update on the status of the other two items we discussed.
+
+1)	CSC's ability to send all of our Calf. Customers files out to the FTP server as they do with the Energy Sense customers, along with the  timeline to get this implemented.
+2)	The cost and timeline to put all of our customers into the Energy Sense website.
+
+Chris
+503-807-8959
+
+ -----Original Message-----
+From: 	Huddleson, Diann  
+Sent:	Friday, July 20, 2001 2:59 PM
+To:	Stokley, Chris
+Cc:	Frazier, Michael; Hart, Vivian
+Subject:	Re: CSC UPDATE
+
+Vivian has regained access to the MDMA.    However, I need to control who has access so that we don't interfere with CSC's operation.  Let me know who will need access to this data.  Thanks.
+
+
+
+From:	Chris Stokley/ENRON@enronXgate on 07/19/2001 04:04 PM
+To:	Diann Huddleson/HOU/EES@EES
+cc:	 
+Subject:	CSC UPDATE
+
+Diann,
+
+	I am flying back to Portland tomorrow morning at about 9:30 arriving at 12:00 Please call me at 503-807-8959 or e-mail me w/ and update on you talks w/ CSC. Thanks for your help.
+
+
+
+									Chris Stokley
+
+
+
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <11686270.1075858521599.JavaMail.evans@thyme>
+Date: Tue, 31 Jul 2001 16:29:15 -0700 (PDT)
+From: p..o'neil@enron.com
+To: chris.stokley@enron.com
+Subject: FW: CRC Project Log
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Hey check this one out.  I finally am getting through me email from last week.  Got this on Thursday morning and did not notice it.
+
+MO
+
+ -----Original Message-----
+From: 	Gresch, Robert  
+Sent:	Thursday, July 26, 2001 10:37 AM
+To:	O'Neil, Murray P.
+Cc:	Herod, Brenda F.; Hughes, Evan; Young, Gregg
+Subject:	RE: CRC Project Log
+
+Murray, I'm in charge of the Vendor Contract Compliance group that manages the relationship between vendors and EES/EWS in the Operations group. Please see my response to your questions below.
+
+
+From:	Brenda F Herod/ENRON@enronXgate <mailto:Herod/ENRON@enronXgate> on 07/26/2001 01:36 AM
+To:	Murray P ONeil/ENRON@enronXgate <mailto:ONeil/ENRON@enronXgate>, Evan Hughes/HOU/EES@EES <mailto:Hughes/HOU/EES@EES>
+cc:	Chris Stokley/ENRON@enronXgate <mailto:Stokley/ENRON@enronXgate>, Jeff Richter/ENRON@enronXgate <mailto:Richter/ENRON@enronXgate>, Robert D Gresch/HOU/EES@EES <mailto:Gresch/HOU/EES@EES> 
+Subject:	RE: CRC Project Log
+
+Murray,
+ 
+Don't know if Evan got with you are nit, but the CSC responsibilities transferred to my group.  Bob Gresch can answer all questions for you.  Additionally, I'd be happy to chat with you on any suggestions or any insights you have.  Beth, Evan and I will be there next week, so we have a great opportunity.
+
+-----Original Message----- 
+From: O'Neil, Murray P. 
+Sent: Tue 7/24/2001 6:12 PM 
+To: O'Neil, Murray P.; Hughes, Evan 
+Cc: Herod, Brenda F.; Stokley, Chris; Richter, Jeff 
+Subject: RE: CRC Project Log
+
+
+
+Evan, 
+
+Sorry about the major typing error on my part with your name.  
+
+MO
+
+	 -----Original Message-----
+
+	From:   O'Neil, Murray P.  
+
+	Sent:   Tuesday, July 24, 2001 5:44 PM
+
+	To:     Hughes, Evan
+
+	Cc:     Herod, Brenda F.; Stokley, Chris; Richter, Jeff
+
+	Subject:        CRC Project Log
+
+	Even,
+
+	Who do I need to contact to see a copy of the current Enron to CSC project request log.
+The current project log for CSC projects is on the CSC/EES information exchange web site at this url - <http://csc-enronix/chg_req/IT_Projects.pdf>
+	Do we have a listing which contains the following information:
+
+	Request description
+
+	Requestor
+
+	Date of request
+
+	Quantifiable justification for request
+
+	Cost to Enron for CSC to do the request
+
+	Enron's priority of request
+
+	Enron's preferred date of completion
+
+	CSC targeted date of completion.
+
+	CSC current status (% complete)
+Most of the above information is contained in the report referenced up above.  The remaining information may be found in the actual request itself, which is maintained, along with all associated correspondence, amendments, approvals, etc., in a soft library my group manages on the J: drive.
+	Is there a formal reporting process of these requests and is there a group who manages the priorities to make sure they are in-line with the current business needs.
+
+  
+My group manages the request process and ensures adherence to the Work Request Guidelines.  Priorities for projects are determined based on the requested delivery date.  If a new request has a delivery date that causes problems with the completion of other existing projects, then the owners of the conflicting requests are contacted to rearrange project completion dates and reset expectations.  Additionally, we hold a monthly Executive Project Status review where all requestors can conference in and discuss issues related to their projects.
+	Can you also tell me if CSC is off on their cost estimate for doing a project does Enron get billed actual project cost or just estimated costs
+We are billed actuals, however there is an agreement that we will only pay overruns up to 15% of the project cost (almost all projects are IT in nature and we feel this is a fair margin in estimation error).  My group is responsible for validating charges on the invoice, and we monitor the charged project costs.  We will negotiate overruns on a project-by-project basis as they occur.  We also perform a function up front of cost haggling on estimates if requested, or if we note something unusual.
+	Any information you can provide related to this request would be appreciated.
+
+	Thanks - MO
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <32165567.1075858521780.JavaMail.evans@thyme>
+Date: Tue, 24 Jul 2001 12:23:33 -0700 (PDT)
+From: p..o'neil@enron.com
+To: chris.stokley@enron.com
+Subject: FW: CDWR Dec. Payment
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Chris,
+
+I thought this was a done deal after we talked with CDWR on the phone.
+
+MO
+
+ -----Original Message-----
+From: 	Clemons, Amy  
+Sent:	Tuesday, July 24, 2001 12:02 PM
+To:	Rosman, Stewart
+Cc:	Allen, Thresa A.; O'Neil, Murray P.; Ratnala, Melissa K.
+Subject:	CDWR Dec. Payment
+
+Hi Stewart,
+
+	I am hoping to get this old issue resolved and I have that the last time we talked about this (with Thresa Allen & Diana Scholtes) was back at the end of March.  This is for the Transmission Profit Sharing that we owe California Department of Water Resources for the month of December.  Right now I have that we need to pay them $189,148.34 (CDWR profits) and this is also what you have in your spreadsheet (see attached) and what they invoiced us.  However, I was told not to pay them until you all had determined what the PX shortfall annuity would be that you would put in and apply against this payment to CDWR. Has this annuity been determined?  I would like to move this payment through our system since it is now almost 8 months old.  Let me know as soon as you get a chance,  when you expect for the Cal. PX shortfall annuity to be determined and entered, so that this Dec. payment can be sent out.
+
+Thanks so much - Amy
+
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <6716125.1075858521249.JavaMail.evans@thyme>
+Date: Mon, 20 Aug 2001 13:38:12 -0700 (PDT)
+From: p..o'neil@enron.com
+To: chris.stokley@enron.com
+Subject: FW: Inv & Rep Deal Structure
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+FYI...MO
+
+-----Original Message----- 
+From: Denner, Mark 
+Sent: Mon 8/20/2001 1:33 PM 
+To: O'Neil, Murray P. 
+Cc: 
+Subject: Inv & Rep Deal Structure
+
+
+
+Murray...per your request.
+
+<<I & R Staff Structure.xls>> 
+
+
+Mark
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <19138733.1075858520847.JavaMail.evans@thyme>
+Date: Mon, 24 Sep 2001 18:06:06 -0700 (PDT)
+From: p..o'neil@enron.com
+To: chris.stokley@enron.com
+Subject: FW: ROM 3054 - Power Banding Project - TELECONF 9/18
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Chris,
+
+Who is going to send out the final proposal?  I would like to see the simple solution vs. the detailed / major system change solution.  I want to be able to take them back to management and justify what we are doing in your project.  Building a tool in-house which will calculate consumptions bands and other charges.
+
+Thanks - MO
+
+ -----Original Message-----
+From: 	Gresch, Robert  
+Sent:	Tuesday, September 18, 2001 5:32 AM
+To:	Murray P O'Neil/HOU/ECT@ENRON
+Subject:	ROM 3054 - Power Banding Project - TELECONF 9/18
+
+Murray, you may want to attend this and see what CSC is proposing.
+
+Bob
+---------------------- Forwarded by Robert D Gresch/HOU/EES on 09/18/2001 07:31 AM ---------------------------
+
+
+kvandegr@csc.com <mailto:kvandegr@csc.com> on 09/14/2001 03:18:04 PM
+To:	cfaison@csc.com <mailto:cfaison@csc.com>, kgarber@csc.com <mailto:kgarber@csc.com>, ggoodfel@csc.com <mailto:ggoodfel@csc.com>, aroussos@csc.com <mailto:aroussos@csc.com>, rrauch@csc.com <mailto:rrauch@csc.com>, astewar5@csc.com <mailto:astewar5@csc.com>, rgresch@enron.com <mailto:rgresch@enron.com>, chris.stokley@enron.com <mailto:chris.stokley@enron.com>, rmiller8@enron.com <mailto:rmiller8@enron.com>
+cc:	tcarrol6@csc.com <mailto:tcarrol6@csc.com>, kathryn.sheppard@enron.com <mailto:kathryn.sheppard@enron.com>, tdawson2@enron.com <mailto:tdawson2@enron.com>, rbrincef@csc.com <mailto:rbrincef@csc.com> 
+Subject:	ROM 3054 - Power Banding Project - TELECONF 9/18
+
+
+ROM 3054 - Power Banding Project - Ongoing
+
+TELECONFERENCE:     Tuesday, September 18
+               3:00 - 4:00 pm (EDT)
+               2:00 - 3:00 pm (CDT)
+
+
+DIAL:               1-888-808-8525  [# 0 - operator]
+PARTICIPANT:        368450
+
+HOST:          957229 (Goodfellow)
+
+
+ATTENDEES:          CSC -     Host / Geoff Goodfellow
+               Aaron Stewart (for vacationingTeresa Carrol-Childers)
+               Rick Rauch
+               Sheryl Faison
+               Tony Roussos
+               Ken Garber
+
+               EESO
+               Chris Stokely
+               Bob Gresch
+               Richard Miller
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <11908669.1075858520868.JavaMail.evans@thyme>
+Date: Mon, 24 Sep 2001 18:05:36 -0700 (PDT)
+From: p..o'neil@enron.com
+To: chris.stokley@enron.com
+Subject: FW: Mack - Cali - Excess/Deficiency
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+FYI?MO
+
+ -----Original Message-----
+From: 	Woodward, Jason  
+Sent:	Wednesday, September 19, 2001 5:26 AM
+To:	O'Neil, Murray P.; Herod, Brenda F.
+Subject:	Mack - Cali - Excess/Deficiency
+
+For the "to do" list when we meet about consumption bands.  Thanks,
+
+J
+---------------------- Forwarded by Jason Woodward/HOU/EES on 09/19/2001 07:25 AM ---------------------------
+
+
+Bill Heidecker
+09/18/2001 05:38 PM
+To:	Jason Woodward/HOU/EES@EES <mailto:Woodward/HOU/EES@EES>, Tom Blanks/HOU/EES@EES <mailto:Blanks/HOU/EES@EES>
+cc:	Jim Fuja/HOU/EES@EES <mailto:Fuja/HOU/EES@EES> 
+Subject:	Mack - Cali - Excess/Deficiency
+
+Jason/Tom
+
+The Mack-Cali deal is getting hot and they hope to sign an Master and CA confirm on this Thursday.
+
+The client has a major issue with the excess and deficiency only cutting in Enron's favor.
+
+The desk does not have an issue with letting it cut both ways.  I'm am currently investigating this with the consumption group.
+
+Does your group have any issues with allowing it to cut both ways?   I know there is a settlement issue, but we've done it in the Boston Properties and other deals, so I'm assuming that the systems are build (or being built).
+
+Given the tight time frame on this deal, a quick response would be greatly appreciated.
+
+Thanks,
+
+B
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <4228861.1075858521554.JavaMail.evans@thyme>
+Date: Thu, 2 Aug 2001 08:45:41 -0700 (PDT)
+From: p..o'neil@enron.com
+To: mallik.avs@enron.com
+Subject: RE: Site Profile Desk Settlements
+Cc: chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: chris.stokley@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Avs, Mallik </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=ab637232-34eba2e6-86256920-60855e>
+X-cc: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Tuesday @ 2pm is great.  Can you find a room and let me know.
+
+Thanks - MO
+
+ -----Original Message-----
+From: 	Avs, Mallik  
+Sent:	Thursday, August 02, 2001 10:42 AM
+To:	O'Neil, Murray P.
+Subject:	RE: Site Profile Desk Settlements
+
+
+Murray,
+
+Thanks for prompt response. How does Tuesday 2 PM sound? 
+
+Mallik
+
+
+
+
+From:	Murray P ONeil/ENRON@enronXgate on 08/02/2001 10:16 AM
+To:	Mallik Avs/HOU/EES@EES
+cc:	Chris Stokley/ENRON@enronXgate 
+Subject:	RE: Site Profile Desk Settlements
+
+Mallik,
+
+I will be in the Houston Office all of next week.  I am arriving Monday after but am currently booked in meetings for most of the afternoon.  It would be great for.  
+
+Please let me know what time on Tuesday would be best for you.
+
+Thanks - MO
+
+ -----Original Message-----
+From: 	Avs, Mallik  
+Sent:	Thursday, August 02, 2001 9:40 AM
+To:	O'Neil, Murray P.
+Cc:	Herndon, Rogers; Richter, Jeff
+Subject:	Site Profile Desk Settlements
+
+
+Murray,
+
+Hi.
+
+I manage EWS Site Profile Desk, which is responsible for identifying, pricing and managing consumption risk in all EES deals. I understand from Jeff that you will be responsible for Power settlements and will be able to help me in developing appropriate actualization / settlement processes. I would love the opportunity to get together with you and talk about these issues at your earliest convenience. Thanks.
+
+Mallik
+X-53263
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <33466097.1075858521466.JavaMail.evans@thyme>
+Date: Fri, 3 Aug 2001 12:59:30 -0700 (PDT)
+From: p..o'neil@enron.com
+To: f..herod@enron.com
+Subject: FW: 90/110 Contracts
+Cc: chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: chris.stokley@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Herod, Brenda F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bherod>
+X-cc: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Brenda,  
+
+In talking with Chris he was able to round up these newly signed deal customers as having the 90/110 band terms included in their contracts. (See customers in email from Chris)
+
+In addition when checking with others in the EES organization regarding the old contracts he was told that most of the older contracts which have been in place from 1997 to current have the band terms included in them as well.  
+
+I would think that our best bet is to get together with project Phoenix resources and see if we can get examples of contracts which are handled by each of the settlement resources we have. (CSC, Avista, Enron?)
+
+Let me know if you wish for me to drive this forward or if you have it covered.  
+
+FYI?I will be in Houston next week. 8/6 - 8/10.
+
+Thanks - MO 
+
+
+
+ -----Original Message-----
+From: 	Stokley, Chris  
+Sent:	Friday, August 03, 2001 1:45 PM
+To:	O'Neil, Murray P.
+Subject:	90/110 Contracts
+
+Perry, Todd says:
+Any of them.  PacBell, Home Depot, Sysco, EOP, Messer Ind., Pepsi Bottling.
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <29636154.1075858520596.JavaMail.evans@thyme>
+Date: Mon, 10 Sep 2001 13:17:47 -0700 (PDT)
+From: p..o'neil@enron.com
+To: george.phillips@enron.com, chris.stokley@enron.com
+Subject: Updated: Conf call re: retail volume management w/ George Phillips,
+ Chris Stokely, and Murray O'Neil
+Cc: lynne.ruffer@enron.com, sonia.perez@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: lynne.ruffer@enron.com, sonia.perez@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Phillips, George </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gphillip>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-cc: Ruffer, Mary lynne </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mruffer>, Perez, Sonia </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sperez7>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+When: Tuesday, September 11, 2001 3:00 PM-4:00 PM (GMT-06:00) Central Time (US & Canada).
+Where: 3AC 1603 - call in 713-345-5171
+
+*~*~*~*~*~*~*~*~*~*
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <6403527.1075858521510.JavaMail.evans@thyme>
+Date: Fri, 3 Aug 2001 08:41:38 -0700 (PDT)
+From: p..o'neil@enron.com
+To: mgmt.dl-portland@enron.com
+Subject: FW: ISO Credit
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: DL-Portland Volume Mgmt </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DL-PortlandVolumeMgmt>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+FYI..MO
+
+-----Original Message-----
+From: 	Mara, Susan  
+Sent:	Thursday, August 02, 2001 11:45 AM
+To:	Comnes, Alan; Blair, Kit; O'Neil, Murray P.; 'ray.alvarez@enron.com'; Ngo, Tracy; Foster, Chris H.; Belden, Tim; Yoder, Christian; Hall, Steve C.
+Subject:	ISO Credit
+
+The below message may indicate that the ISO is no longer able to pay people.  I'll check with IEP to see if they will be willing to send the letter.
+-----Original Message-----
+From:	CRCommunications [mailto:CRCommunications@caiso.com]
+Sent:	Wednesday, August 01, 2001 4:14 PM
+To:	SC Settlements Contacts
+Cc:	ISO Market Participants; Epstein, Michael
+Subject:	CAISO Communication: May 2001 Preliminary Settlement Statement
+	(PSS) Invoices - Deferral of May Preliminary Cash Distribution to May
+	Final
+
+
+
+IMPORTANT NOTICE
+May Preliminary Market Invoice Cash Distribution Deferral
+
+Due to the market reruns and potentially large final adjustments, the ISO does not expect to make cash distributions based on preliminary invoices for May. 
+The proceeds will be held and included in the cash distributions based on the May final invoices the week of August 20th.
+
+Client Relations Communication
+CRCommunications@caiso.com
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <6181722.1075858521576.JavaMail.evans@thyme>
+Date: Thu, 2 Aug 2001 08:16:30 -0700 (PDT)
+From: p..o'neil@enron.com
+To: mallik.avs@enron.com
+Subject: RE: Site Profile Desk Settlements
+Cc: chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: chris.stokley@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Avs, Mallik </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=ab637232-34eba2e6-86256920-60855e>
+X-cc: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Mallik,
+
+I will be in the Houston Office all of next week.  I am arriving Monday after but am currently booked in meetings for most of the afternoon.  It would be great for.  
+
+Please let me know what time on Tuesday would be best for you.
+
+Thanks - MO
+
+ -----Original Message-----
+From: 	Avs, Mallik  
+Sent:	Thursday, August 02, 2001 9:40 AM
+To:	O'Neil, Murray P.
+Cc:	Herndon, Rogers; Richter, Jeff
+Subject:	Site Profile Desk Settlements
+
+
+Murray,
+
+Hi.
+
+I manage EWS Site Profile Desk, which is responsible for identifying, pricing and managing consumption risk in all EES deals. I understand from Jeff that you will be responsible for Power settlements and will be able to help me in developing appropriate actualization / settlement processes. I would love the opportunity to get together with you and talk about these issues at your earliest convenience. Thanks.
+
+Mallik
+X-53263
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <18953172.1075858521051.JavaMail.evans@thyme>
+Date: Thu, 13 Sep 2001 06:52:44 -0700 (PDT)
+From: p..o'neil@enron.com
+To: f..herod@enron.com
+Subject: RE: FW: READ THIS!!!!!
+Cc: chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+Bcc: chris.stokley@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Herod, Brenda F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bherod>
+X-cc: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Brenda,
+
+I agree with Mark that this functionality does not exist today. However, I =
+don't see developing a solution will be that hard.  There are very few cont=
+racts / deals which will have this language in them today.  I'm not trying =
+to make this sound easy.  We still need to get the input information.  Thes=
+e deals will be more of the Interval meter data transactions which will hav=
+e a hourly load shape and we can get access to the hourly index price.  I h=
+ave access to that information today. =20
+
+We do need to get a solution in place quickly.  I don't want to speak for h=
+im but I think Mark was saying that they would not have a solution in place=
+ win the current tactical solution.  I do think that we can add something o=
+utside of that process which will be added back in manually at first.
+
+I am copying Chris on this as well so he can start taking a look at it.  Th=
+is is the type of activity we perform on a daily basis in the Portland offi=
+ce.  There may be something which we can replicate
+
+Chris,  Please get together with Mark and his group to discuss their proces=
+s and let us know what is required.  Please provide the following in a writ=
+e-up.=20
+?=09Contractual requirements.  (See if new deals are the same and summarize=
+ requirement)
+?=09Where can we reuse Portland tools or what new tools need to be develope=
+d
+?=09What will be required for information inputs (Prices, consumption?)
+?=09How will we implement calculation into existing processes (Show data fl=
+ow)
+?=09How quickly can we implements and what resources will be required to as=
+sist.
+
+MO
+
+ -----Original Message-----
+From: =09Herod, Brenda F. =20
+Sent:=09Wednesday, September 12, 2001 9:51 AM
+To:=09O'Neil, Murray P.
+Subject:=09FW: FW: READ THIS!!!!!
+
+
+Muray,  Read this one!
+ -----Original Message-----
+From: =09Woodward, Jason =20
+Sent:=09Wednesday, September 12, 2001 10:11 AM
+To:=09Brakke, Erling
+Cc:=09Smith, Ben; Sova, Gary; Hurt, Robert; Avs, Mallik; Hughes, Evan; Hero=
+d, Brenda F.; Denner, Mark; Wilkes, Lyman; O'Neil, Murray P.; Young, Gregg
+Subject:=09Re: FW:
+
+When this language came out, we sought approval, as we were well aware of t=
+he complexity and impacts.  We were granted approval from the responsible p=
+arties at the time.  If you need more details, please call me directly.  Th=
+anks,
+
+J
+
+
+From:=09Erling Brakke/ENRON@enronXgate on 09/12/2001 09:27 AM
+To:=09Ben Smith/HOU/EES@EES, Gary Sova/ENRON@enronXgate, Robert Hurt/HOU/EE=
+S@EES, Jason Woodward/HOU/EES@EES
+cc:=09Mallik Avs/ENRON@enronXgate, Evan Hughes/HOU/EES@EES, Brenda F Herod/=
+ENRON@enronXgate, Mark Denner/HOU/EES@EES, Lyman Wilkes/HOU/EES@EES=20
+Subject:=09FW:=20
+
+Please see the below contractual language and Mark Denner's response.  I wa=
+nted to highlight this to all of you as this will soon be a customer servic=
+e issue in additional to a risk issue.  All new non-matrix (Master and Mid =
+market contracts) deals since June have contained similar language requirin=
+g hourly calculation for excess and deficient usage, either using the ISO h=
+ourly price or the Dow Jones daily on and off peak price weighted by the cu=
+stomers actual hourly usage. =20
+
+There are several deals that will require this calculation every month as v=
+olumes have been stipulated at some percentage (90 or 95%) of historical us=
+age with no bands around the stipulated volumes.  In this instance all volu=
+mes above or below the stipulation are settled using the hourly mechanism. =
+ Home Depot CA is a specific example of this deal structure.=20
+
+We need to quickly formulate a plan to ensure that we are able to execute o=
+n these contracts from a both a risk management perspective and customer se=
+rvice stand point.  Please let me know what input you need from me.  I can =
+provide example contracts and deals as required.  Thanks.
+
+ -----Original Message-----
+From: =09Brakke, Erling =20
+Sent:=09Friday, September 07, 2001 9:05 AM
+To:=09Woodward, Jason
+Subject:=09FW:=20
+
+Jason, I'm very concerned regarding our capability regarding the below cont=
+ractual language.  This has been the standard language in all new deals sin=
+ce late June.  It was my understanding that you were responsible for approv=
+ing contractual language and ensuring that Operations could execute against=
+ it.  We (Site Profile Desk) are significantly at risk if they are not able=
+ to execute against this language.  This language was developed as a risk m=
+itigant for our desk and must be implemented.  Thanks=20
+
+ -----Original Message-----
+From: =09Denner, Mark =20
+Sent:=09Thursday, September 06, 2001 6:23 PM
+To:=09Brakke, Erling
+Subject:=09Re:
+
+Erling...we are not set up with this capability to date nor do I foresee us=
+ having this ability in the near future.  This request has come from others=
+ as well and we are trying to get the word out that we do not have the syst=
+ems in place to support this type of invoicing.
+
+Mark
+
+
+
+ << OLE Object: Picture (Device Independent Bitmap) >>=20
+Erling Brakke
+09/05/2001 01:44 PM
+To:=09Mark Denner/HOU/EES@EES, Lyman Wilkes/HOU/EES@EES
+cc:=09=20
+Subject:=09
+
+Just one more time for clarification.  Are the two of you in a position to =
+price and bill out the below language?  It is very important that you are a=
+ble to execute on the below to ensure that we are not unwitting risk that i=
+s not being charged to the deals.  All new deals have this language - the b=
+elow is from Limited TX - a deal that contains 90/110 bands. =20
+
+Home Depot CA back in June did not include 90/110 bands, but rather a fixed=
+ volume at 95% of their historical consumption and then similar language to=
+ the below for any excess over that - thus I assume that this has already b=
+een implemented for HD CA as this would be required each month.  Thanks.
+
+
+EXCESS AND DEFICIENCY USAGE CHARGES:=09[Anticipated Usage for each month sh=
+all be the monthly kWh amounts for each Account as set forth on Schedule 1-=
+A.]  Excess Usage:  For each kWh of Excess Usage at each Account for each m=
+onth, you will pay us an amount equal to the positive difference, if any, o=
+btained by subtracting:  (i) the EESI Energy Price; from (ii) the average S=
+pot Energy Price for the applicable month. Deficiency Usage:  For each kWh =
+of Deficiency Usage at each Account for each month, you will pay us an amou=
+nt equal to the positive difference, if any, obtained by subtracting (i) th=
+e average Spot Energy Price for the applicable month; from (ii) the EESI En=
+ergy Price.  As used in this Transaction:  "Spot Energy Price" means the su=
+m of (a) the weighted average (weighted in accordance with the Account's ho=
+urly usage or the Utility rate class usage profile) of either (1) ISO hourl=
+y settlement prices for the applicable congestion zone (if an ISO is in exi=
+stence); or (2) if an ISO does not exist, then the daily day ahead prices a=
+s reported for the applicable congestion zone by Megawatt Daily (Financial =
+Times Energy), or its successor, where on-peak weighted average daily price=
+s are labeled under Trades for Standard 16-Hour Daily Products and off-peak=
+ weighted average index prices are labeled under Ranges and Indexes of Off-=
+Peak Products; provided that, if a price for the applicable congestion zone=
+ is not available in Megawatt Daily for the applicable day, the Parties wil=
+l use a mutually agreed upon alternative publication; plus (b) all non-Util=
+ity charges arising from uplifts, ancillary services, congestion, losses, a=
+nd other ISO charges or administrative fees incurred in connection with del=
+ivery of energy to the Delivery Point.=09
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <12597230.1075858520914.JavaMail.evans@thyme>
+Date: Mon, 24 Sep 2001 18:03:39 -0700 (PDT)
+From: p..o'neil@enron.com
+To: chris.stokley@enron.com
+Subject: FW: Mack Cali - Bilateral Excess/Deficiency settlement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Chris,
+
+Below you will find a copy of a deal I discussed with Orig.  I would like to see the standard  be the following until we have your project in production.
+
+Settle with customers at least quarterly, and on a calendar month basis.
+
+If you have any questions please let me know.
+
+Thanks - MO
+
+ -----Original Message-----
+From: 	Heidecker, Bill  
+Sent:	Wednesday, September 19, 2001 9:20 AM
+To:	O'Neil, Murray P.; Cross, Edith EES; Fuja, Jim; Maynard, Michelle; Brakke, Erling; Avs, Mallik
+Cc:	Holmes, Sean; Connolly, Lisa; Merril, Deborah; Riley, Christopher
+Subject:	Mack Cali - Bilateral Excess/Deficiency settlement
+Importance:	High
+
+Jim/Michelle/Edith/Murray/Erling/Mallik
+
+I just spoke with Murray O'Neil from the Operations group in charge of the whole billing of consumption band issue.
+
+He is okay from an operational point of view with letting this cut both ways for this deal.   He did raise a cash flow concern regarding doing the settlement on an annual basis.  Murray suggested that we settle at the end of the first contract year for each of the months, but after the first contract year, that we go to a monthly settlement.
+
+Michelle - can you generate some language that captures this structure?
+
+Edith - I am assuming the the desk is still okay with the consumption bands cutting both ways.   Please let me know ASAP if you have an issue.
+
+Murray - Please let me know if you have any issue with how I have represented our conversation and conclusion.
+
+Erling/Mallik - Have you been able to determine if there will be any change to the consumption premium for letting the excess/deficiency cut both ways?  Please let us know as soon as possible.
+
+
+
+---------------------- Forwarded by Bill Heidecker/HOU/EES on 09/19/2001 11:00 AM ---------------------------
+
+
+Bill Heidecker
+09/19/2001 09:59 AM
+To:	Jim Fuja/HOU/EES@EES <mailto:Fuja/HOU/EES@EES>, Harald Jensen/HOU/EES@EES <mailto:Jensen/HOU/EES@EES>
+cc:	Michelle Maynard/HOU/EES@EES <mailto:Maynard/HOU/EES@EES>, Lisa Connolly/HOU/EES@EES <mailto:Connolly/HOU/EES@EES>, Jason Woodward/HOU/EES@EES <mailto:Woodward/HOU/EES@EES> 
+Subject:	Mack Cali
+
+Jim/Michelle,
+
+Excess/Deficiency
+
+The Excess/Deficiency is in the process of being approved.     We will have to add some sort of language to indicate how we are going to settle (ie. at the end of the year).
+
+This is a clause from the Boston Properties contract that we included for the Excess and Deficiency:
+
+If such amount is a positive number, Customer shall pay that amount to EESI.  If such amount is a negative number, EESI shall credit such amount to Customer.  The amounts due under this Section 2.2.1 shall be calculated for each month, and the Parties shall net and settle all amounts due under this Section annually within 60 days of the end of each Contract Year. 
+
+
+Rescind Rights
+
+The previous CA contracts had bilateral right to rescind.   But given that CA is shut down, if we have unilateral right to rescind we have a greater probability of getting the deal through the desk.   
+
+
+---------------------- Forwarded by Bill Heidecker/HOU/EES on 09/19/2001 09:51 AM ---------------------------
+
+
+Michelle Maynard
+09/19/2001 09:01 AM
+To:	Sean A Holmes/HOU/EES@EES <mailto:Holmes/HOU/EES@EES>, Bill Heidecker/HOU/EES@EES <mailto:Heidecker/HOU/EES@EES>, Tim Belden/Enron@EnronXGate <mailto:Belden/Enron@EnronXGate>, Jeff Richter/Enron@EnronXGate <mailto:Richter/Enron@EnronXGate>, Berney C Aucoin/Enron@EnronXGate <mailto:Aucoin/Enron@EnronXGate>
+cc:	Jim Fuja/HOU/EES@EES <mailto:Fuja/HOU/EES@EES> 
+Subject:	Mack Cali
+
+Attached is the CA Confirm we are sending to Mack Cali.  Note the changes to the Excess and Deficiency Usage Charges and the bilateral early termination rights which I understand were approved.  Otherwise, no substantive changes to the form.  If you have any comments pls advise asap. Thanks, M3
+
+
+ 
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <21020103.1075858520958.JavaMail.evans@thyme>
+Date: Wed, 19 Sep 2001 06:59:14 -0700 (PDT)
+From: p..o'neil@enron.com
+To: chris.stokley@enron.com
+Subject: FW: EAS Resources
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+FYI?This not public information.  These are the roles we were trying to get them placed in.
+
+MO
+
+ -----Original Message-----
+From: 	Apollo, Beth  
+Sent:	Monday, September 17, 2001 12:01 PM
+To:	Colwell, Wes
+Cc:	Herod, Brenda F.; O'Neil, Murray P.; Ruffer, Mary lynne
+Subject:	EAS Resources
+
+
+
+Wes  -- this would be my proposal for how to use these resources
+
+Ken -- Become the Operations expert/coordinator for all Socal and PG&E Bankruptcy issues.  This includes lots of resolving billing issues, including building the necessary process around these efforts (CSC and internal) coordinating with MLR's accounting function to ensure that payments and credits are accounted for properly.   attending meetings and communicating within operations
+
+Vicki  -- part time for Mary Lynne -- reconciliation of mid-market power  bill payment activity in the subledgers and build new process
+             Part time to work and aim towards moving into GNO billing function on a longer term basis to help out there, and build future team.
+
+Mechelle  -- Build a "SWAT" team to handle short-term, high-priority issues.  Own and manage resolution and transition back into teams
+                    Potential issues could be around DASR process; Historical Validation efforts; deal capture process; etc.
+
+Please let me know when I can move on this.  I would like Ken to be at a meeting tomorrow on the California issues  
+
+Beth
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <1121421.1075858522369.JavaMail.evans@thyme>
+Date: Fri, 30 Mar 2001 14:22:00 -0800 (PST)
+From: p..o'neil@enron.com
+To: h..foster@enron.com
+Subject: Re: January $150 Payment
+Cc: chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: chris.stokley@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Foster, Chris H. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CFOSTER>
+X-cc: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Chris F,  What about the other service customers which we have held off on settling for Jan PX business.  Do we need to be going through the same process with them as well?
+
+MO
+
+
+To:	Murray P O'Neil/HOU/ECT@ECT
+cc:	Chris Stokley/HOU/ECT@ECT, Kourtney Nelson/PDX/ECT@ECT, Audrey Cook/HOU/ECT@ECT 
+Subject:	January $150 Payment
+
+Murray:
+
+Here is a list of the clients who I would like to be paid the lower of $150 or the PX index for PX index sales to EPMI in January 2001.  Chris S. indicated that although we might not be able to get the wire transfers out this week, we could at least set up the payments this week for payment on Monday.  That is what I am communicating to the clients.  Please let me know when Chris S. has the data he needs to set up payments.
+
+Delano:  All hours for the Month
+Tosco:  All hours,  January 1-18
+Arco:   All hours January 1 - 17
+Wheelabrator Martell:  January 1-17
+Wheelabrator Shasta:  THey have PX activity from 1/10 - 1/17.
+
+Thanks
+
+Chris
+
+
+ 
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <17112665.1075858522324.JavaMail.evans@thyme>
+Date: Sun, 8 Apr 2001 17:11:00 -0700 (PDT)
+From: p..o'neil@enron.com
+To: tracy.ngo@enron.com
+Subject: Invoicing balance statement
+Cc: chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: chris.stokley@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Ngo, Tracy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=TNGO>
+X-cc: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+FYI...MO  This is the current receivable position we have with the ISO
+---------------------- Forwarded by Murray P O'Neil/HOU/ECT on 04/08/2001 12:14 PM ---------------------------
+   
+	Enron Capital & Trade Resources Corp.  From:  "Almeida, Keoni" <KAlmeida@caiso.com>                           03/30/2001 10:41 AM	
+		
+
+
+To:	"Stokley, Chris" <chris.stokley@enron.com>, "O'Neil, Murray"	 <Murray.P.O'neil@enron.com>, "Johnson, Donna" <Donna.Johnson@enron.com>
+cc:	 
+Subject:	Invoicing balance statement
+
+
+As a follow-up to the request I made from our Finance department here is a
+breakdown of what has been paid and what is owed.  Hope this helps.
+
+ <<Enron.xls>>
+
+
+Keoni Almeida
+California Independent System Operator
+phone: 916/608-7053
+pager:  916/814-7352
+alpha page:  9169812000.1151268@pagenet.net
+e-mail:  <mailto:kalmeida@caiso.com>
+
+
+
+
+ - Enron.xls 
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <6977335.1075858520690.JavaMail.evans@thyme>
+Date: Mon, 1 Oct 2001 17:49:14 -0700 (PDT)
+From: p..o'neil@enron.com
+To: suzanne.vann@enron.com
+Subject: RE: Distributed Generation
+Cc: f..herod@enron.com, mark.denner@enron.com, chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: f..herod@enron.com, mark.denner@enron.com, chris.stokley@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Vann, Suzanne </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=451a2666-a33d3913-86256a5c-70c097>
+X-cc: Herod, Brenda F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bherod>, Denner, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=1db2354e-709a6fde-862568a8-671af3>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Suzanne,
+
+I think we have a meeting schedule for tomorrow 10/2.  I am including a list of questions in the email and am hopeful that we can go over them in our meeting.
+
+1)	Would it be possible to get an overview of the ROC (Retail Operation Center)?
+a.	What are their responsibilities
+b.	When will they be available to support the business
+
+2)	The Process for paying generators on a net 10 day basis is not currently a sound repeatable process.  (Is it possible to reword this in the contract?)
+
+3)	Do we have locations to store?:
+a.	Operational costs by deal (Generator/Unit)
+b.	Pricing tiers by deal (Will they stay standard in each market 25% then 50% at fixed targets
+c.	Generation Meter data specific to servicing EES
+i.	If there is no meter data available, is the method to calculate generation volumes a standardized calculation and documented in the contract.
+
+4)	Is the expectation that EWS/Settlements will be responsible for Invoicing / Paying (Netting) generators or is this a function which a portion can be outsourced (Avista receiving invoice from Generator)?
+
+5)	Who is warring congestion risk if energy can't be delivered?
+
+6)	What are the expected reporting tools back to the Generator?  It would be cost effective is we can come up with one standard reporting tool back to the Generators.
+
+7)	If Energy is not delivered (Non-Performance by Generator) who is responsible for penalties associated.
+
+8)	What process is in place to address market price changes?:
+a.	Changing Market prices after market closed / settled.
+b.	Do we need a secondary index noted in the contract.
+c.	What language is in the contract to allow from and address pricing zone material changes
+
+The list above should get us all started.
+
+I hope we can cover all of these in our time together.
+
+Thanks - MO
+ -----Original Message-----
+From: 	Vann, Suzanne  
+Sent:	Tuesday, September 25, 2001 11:30 AM
+To:	O'Neil, Murray P.
+Subject:	RE: Distributed Generation
+
+Hi Murray.  I am working closely with Victor Gonzalez and Tom Blanks, and they are both familiar with the DG product.  A majority of the questions you asked below concern functions that will be handled by Fred Kelley or Lloyd Will in the Retail Operations Center (ROC).  I put my response to your questions in red below.  Please let me know what day and time is convenient for you to meet and I'll reserve time.
+
+Thanks Murray,
+Suzanne
+713-345-4436
+
+
+From:	Murray P ONeil/ENRON@enronXgate on 09/24/2001 08:00 PM
+To:	Suzanne Vann/HOU/EES@EES
+cc:	Mark Denner/HOU/EES@EES, Brenda F Herod/ENRON@enronXgate 
+Subject:	RE: Distributed Generation
+
+Suzanne,
+
+I have taken a look at your proposals and it looks like a very attractive product.  There are a few items I'm going to need to research to determine our ability to quickly turn a settlement solution around.  I do not know of any internal automated processes to support the type of billing you are proposing in your deal.  Which mean that everything would be manual.  
+
+This type of settlement is something which is similar to settlement calculations we have performed in our wholesale business in the west.  However.  To feel comfortable that we can settle these deals in the quick turn around time which you have identified (10 days following the end of the month).
+
+I do have a few questions which I would like to discuss with you next week (9/24 - 9/26).
+
+Will we install meters at each facility to ensure we have real-time access to generation / curtailment data? The ROC will install interval meters on each of the DG assets.  We may or may not be able to access the data in reat time.  For LC, we will use a baseline calculation.
+Who are you anticipating will install the meters and perform the MDMA function? The ROC
+Will each contract have the utility / control area market price identified in the contract (Actual Publication being used in settlements)? Yes.  For example, our initial target market is New York Zones J and G.  We will settle with the customer off of the NYISO hourly posted clearing price for the respective zone.
+For invoicing the Generator, Where will the Operation cost be derived from and will it be stated in the contract? The Generator will receive a fixed payment for every MWh they run.  This payment is intended to cover O&M and fuel expenses and it will remain fixed over the life of the contract.
+
+This is the start of my questions.  As I review your proposal further, I'm sure I will have some more.
+
+Thanks - MO
+
+ -----Original Message-----
+From: 	Vann, Suzanne  
+Sent:	Thursday, September 20, 2001 1:17 PM
+To:	O'Neil, Murray P.
+Cc:	Golden, Jeff; Jenkins, Beth
+Subject:	Distributed Generation
+
+Murray,
+
+At your earliest convenience, we would like to discuss billing for the Distributed Generation and Load Curtailment products.  I am re-sending the DG contract and power point presentation for your review.  Please let me know your availability and if you have any questions regarding our products.
+
+Thanks Murray,
+Suzanne Vann
+713-345-4436
+
+ << File: 010918 DG Standard Pitch.ppt >>  << File: DG Contract 010920.doc >> 
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <5490631.1075858521356.JavaMail.evans@thyme>
+Date: Mon, 20 Aug 2001 05:28:13 -0700 (PDT)
+From: p..o'neil@enron.com
+To: chris.stokley@enron.com
+Subject: FW: Avista Visit and Demonstration
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Chris,, 
+ 
+FYI?
+ 
+I plan on going to this meeting.  You should try and attend.  
+ 
+Not sure if you have access to my schedule any more.  Let me know.  I want to make sure you know where I'm at.
+ 
+I have the following meetings today.  (I'm sure there will be more added)
+ 
+8am - 12pm Meet with Brenda to discuss organization  Brenda's office
+12pm- 12:30pm Pac Bell Meeting EB12c1
+2pm - 3pm Site Master Database Discussion EB32c2
+ 
+I would really like us to get a good start on the Settlements process and systems documentation this week.  We should check first to see what is out there if anything.
+ 
+Hope you had a great flight.
+ 
+Talk with ya later. - MO
+ 
+-----Original Message-----
+From: Apollo, Beth 
+Sent: Sunday, August 19, 2001 1:12 PM
+To: O'Neil, Murray P.; Camarillo, Juan; Herod, Brenda F.; Light, James; Hart, Vivian
+Subject: FW: Avista Visit and Demonstration
+ 
+you guys will want to take part in this.  Should be a good chance to see what info we can get from Avista directly with out messing with CSC
+ 
+Murray can you forward this to Chris - I couldn't get his name on my email.
+ 
+James -- can you see that we have good representation from Genesys
+ 
+Brenda/ Murray - can you guys make sure that we have good representation from Ranger
+ 
+Juan  -- Anyone from the Deal Validation effort who you think would benefit from learning where bill payment info resides and comes from
+ 
+thanks
+ 
+Beth
+-----Original Message----- 
+From: Haynes, Janet 
+Sent: Thu 8/16/2001 6:26 PM 
+To: Apollo, Beth; Herod, Brenda F.; Smith, Ben; Bailey, Robert; Denner, Mark; Gresch, Robert; Barrett, Misty; Easley, Eric; Fischer, Bill; Hughes, Evan; Ingram, Suzanne; McDonald, Matt; Miller, Richard; Phelps, Anita; Stephens, Cynthia; Young, Gregg; Woodward, Jason; Ruffer, Mary Lynne; Almgren, Doug; Arango, Deborah; Wilkes, Lyman; Atherton, Brad; Koenig, Laurie; Fisher, Joni 
+Cc: Avista Mgmt Team@ENRON; Botello, Leticia; Dawson, Tammy; Garcia, Nidia; Lopez, Olga 
+Subject: Avista Visit and Demonstration
+Avista representatives will be here Monday and Tuesday, 8/20&21.  There is a demonstration scheduled for Tuesday, 8/21, from 1:00 - 2:30 in The Forum, 2AC 12th floor.  They will demonstrate their website and the tools that are available for us to use.  The room will seat 70 comfortably, but we need to know if there is a need for additional seating.  If you would like to attend, please let Tammy Dawson know how many in your group will be attending by COB on Monday.  
+If you know of others that would be interested in attending this demonstration but are not listed above, please forward this announcement to them.
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <6352774.1075858521378.JavaMail.evans@thyme>
+Date: Thu, 16 Aug 2001 22:49:56 -0700 (PDT)
+From: p..o'neil@enron.com
+To: f..herod@enron.com, p..o'neil@enron.com
+Subject: FW: fyi---90/110 Consumption Bands
+Cc: chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: chris.stokley@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Herod, Brenda F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bherod>, O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Moneil>
+X-cc: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+FYI...MO
+
+-----Original Message----- 
+From: Miller, Richard 
+Sent: Thu 8/16/2001 8:18 PM 
+To: O'Neil, Murray P.; Gresch, Robert; Bhatty, Jay 
+Cc: 
+Subject: fyi---90/110 Consumption Bands
+
+
+
+
+---------------------- Forwarded by Richard Miller/HOU/EES on 08/16/2001 10:17 PM ---------------------------
+
+James Light
+
+08/16/2001 08:53 AM
+
+
+To:     Anthony Dayao/HOU/EES@EES, Neal Symms/HOU/EES@EES
+
+cc:     Richard Miller/HOU/EES@EES, Lisa R McClendon/ENRON@enronXgate 
+
+Subject:        90/110 Consumption Bands
+
+Details regarding EES/CSC deal capture and billing for 90/110 consumption bands -
+
+Power
+
+EWS Business Contact - Richard Miller
+
+Deal Capture Status - Information is not included on any CSC power deal tickets (deal sheets)
+
+Risk Book Status - Currently not captured - A.K. Matheson is researching and will provide details
+
+Billing Status - CSC does not know which customers bands apply to - currently not applying to any power customer bills
+
+Gas
+
+EWS Business Contact - Lisa McClendon
+
+Deal Capture Status - Information is included on CSC gas deal tickets (deal sheets)
+
+Risk Book Status - Currently captured
+
+Billing Status - CSC does know which customers bands apply to - currently applying bands to some gas customer bills, but process performed manually
+
+        ==>  Lisa has been working with CSC this week to determine the following -
+
+                - How many gas deals do bands apply to?
+
+                - How is CSC tracking penalties by meter and by billing period?
+
+                - What is total $ amount of penalties?
+
+                - What is the estimated unbilled penalty amount and what is CSC's plan to resolve on a go-forward basis?
+
+I will forward additional information as it becomes available.
+
+Thanks,
+
+James
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <8960772.1075858522097.JavaMail.evans@thyme>
+Date: Thu, 21 Jun 2001 08:29:04 -0700 (PDT)
+From: p..o'neil@enron.com
+To: chris.stokley@enron.com
+Subject: Year End Review
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+As you requested.  If you have any questions please give me a call.
+
+I will be in the PRC meeting today starting at 11:00am
+
+MO 
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <27371808.1075858521227.JavaMail.evans@thyme>
+Date: Fri, 24 Aug 2001 08:33:34 -0700 (PDT)
+From: p..o'neil@enron.com
+To: chris.stokley@enron.com
+Subject: FW: Andersen Baseline Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Chris,
+
+FYI?This may help you in understanding what Lyman's group is expected to have in place for capturing baseline.
+
+MO
+
+ -----Original Message-----
+From: 	Herod, Brenda F.  
+Sent:	Thursday, August 23, 2001 8:23 AM
+To:	O'Neil, Murray P.
+Subject:	FW: Andersen Baseline Report
+
+
+
+ -----Original Message-----
+From: 	linda.o.norman@us.andersen.com@ENRON <mailto:linda.o.norman@us.andersen.com@ENRON> [mailto:IMCEANOTES-linda+2Eo+2Enorman+40us+2Eandersen+2Ecom+40ENRON@ENRON.com] <mailto:[mailto:IMCEANOTES-linda+2Eo+2Enorman+40us+2Eandersen+2Ecom+40ENRON@ENRON.com]> 
+Sent:	Thursday, August 16, 2001 10:30 AM
+To:	wstubble@enron.com <mailto:wstubble@enron.com>; Kilchrist, Shawn; Herod, Brenda F.; dleff@enron.com <mailto:dleff@enron.com>; jdietri@enron.com <mailto:jdietri@enron.com>; Apollo, Beth; Beck, Sally; Colwell, Wes; Wilkes, Lyman; tcotten@enron.com <mailto:tcotten@enron.com>; mbarrett@enron.com <mailto:mbarrett@enron.com>; debra.a.cash@us.andersen.com <mailto:debra.a.cash@us.andersen.com>; stephen.p.huzar@us.andersen.com <mailto:stephen.p.huzar@us.andersen.com>; stacy.gatzmeyer@us.andersen.com <mailto:stacy.gatzmeyer@us.andersen.com>
+Subject:	Andersen Baseline Report
+
+To Distribution:
+
+Attached is our final Baseline Report developed
+in accordance with the 2001 Business Audit Plan.
+This report has been closed with
+Lyman Wilkes and Misty Barrett
+before being distributed.
+
+Please call with any questions.
+
+Thank you.
+
+Linda
+5-6952
+
+(See attached file: Baseline.ppt)
+*******************Internet Email Confidentiality Footer*******************
+
+
+Privileged/Confidential Information may be contained in this message.  If
+you are not the addressee indicated in this message (or responsible for
+delivery of the message to such person), you may not copy or deliver this
+message to anyone. In such case, you should destroy this message and kindly
+notify the sender by reply email. Please advise immediately if you or your
+employer do not consent to Internet email for messages of this kind.
+Opinions, conclusions and other information in this message that do not
+relate to the official business of my firm shall be understood as neither
+given nor endorsed by it.
+ - Baseline.ppt 
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <28107231.1075858521027.JavaMail.evans@thyme>
+Date: Mon, 17 Sep 2001 07:16:23 -0700 (PDT)
+From: p..o'neil@enron.com
+To: p..o'neil@enron.com, beth.apollo@enron.com, f..herod@enron.com,
+	chris'.'stokley@enron.com, kristin'.'albrecht@enron.com
+Subject: RE: Consumption band Examples for Lavo Meeting on Monday 9/17
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Moneil>, Apollo, Beth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bapollo>, Herod, Brenda F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bherod>, 'Stokley, Chris' </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>, 'Albrecht, Kristin' </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kalbrec>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+OK,
+
+Here we go again. 
+
+I grouped the volumes in the scenarios and changed the Scenario title on scenario # 1.
+
+If you have any questions please give me a call
+
+ 
+
+Thanks - MO
+
+ -----Original Message-----
+From: 	O'Neil, Murray P.  
+Sent:	Monday, September 17, 2001 6:14 AM
+To:	'O'Neil, Murray P.'; Apollo, Beth; Herod, Brenda F.; Stokley, Chris; Albrecht, Kristin
+Subject:	RE: Consumption band Examples for Lavo Meeting on Monday 9/17
+
+All,
+
+This attachment is the latest version of the Consumption band examples.  My flight was canceled last night.  I please give me a call on my cell when you have a chance to go over these examples.  Cell (503) 702-9846
+
+ << File: Consumption Band Presentation.doc >> 
+Sorry I'm not going to physically going to be in the room while this meeting is underway. 
+
+MO
+
+ -----Original Message-----
+From: 	O'Neil, Murray P.  
+Sent:	Friday, September 14, 2001 6:06 PM
+To:	Apollo, Beth; Herod, Brenda F.; Stokley, Chris; Albrecht, Kristin
+Subject:	Consumption band Examples for Lavo Meeting on Monday 9/17
+
+Hey all,
+
+I have taken a shot at putting together the examples for the Monday meeting with John.
+
+Please take a look at it and let me know what you think.
+
+If you feel I need to add something to it please give me a call on my cell (503-702-9846) this weekend.
+
+ << File: Consumption Band Presentation.doc >> 
+
+Thanks - MO
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <882911.1075858521400.JavaMail.evans@thyme>
+Date: Thu, 16 Aug 2001 11:31:14 -0700 (PDT)
+From: p..o'neil@enron.com
+To: chris.stokley@enron.com
+Subject: RE:
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Revision to document.
+
+ 
+
+ -----Original Message-----
+From: 	Stokley, Chris  
+Sent:	Thursday, August 16, 2001 1:15 PM
+To:	O'Neil, Murray P.
+Subject:	
+
+ << File: Bandwidth Contracts.doc >> 
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <8035956.1075858521422.JavaMail.evans@thyme>
+Date: Thu, 16 Aug 2001 07:18:14 -0700 (PDT)
+From: p..o'neil@enron.com
+To: f..herod@enron.com
+Subject: RE: Consumption Bands
+Cc: beth.apollo@enron.com, chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: beth.apollo@enron.com, chris.stokley@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Herod, Brenda F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bherod>
+X-cc: Apollo, Beth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bapollo>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Brenda,
+
+Sorry about not getting something out to you yesterday.  Chris Stokley was trying to get some additional information back from some folks in Houston.  We got quite a bit of information yesterday and have the draft almost completed.  We will get you something to review by your 2:30pm time frame.
+
+Do you want it via email?  Let me know if there is someone other than yourself you want me to send it to so they can get it printed out for you.
+
+Thanks - MO
+
+ -----Original Message-----
+From: 	Herod, Brenda F.  
+Sent:	Thursday, August 16, 2001 8:48 AM
+To:	O'Neil, Murray P.; Apollo, Beth
+Subject:	Consumption Bands
+Importance:	High
+
+I need to respond TODAY to Lavaroto on these issues.  Murray, you mentioned yesterday morning that Gregg was reveiwing something.  What is the status?
+
+I'd like to get this prepared today (I have one 30 minute window @ 2:30pm my time) - can I get something by then?
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <25305457.1075858521488.JavaMail.evans@thyme>
+Date: Fri, 3 Aug 2001 09:18:04 -0700 (PDT)
+From: p..o'neil@enron.com
+To: chris.stokley@enron.com, mark.confer@enron.com
+Subject: RE: June 01 Flash Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>, Confer, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mconfer>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Mark,
+
+The correct distribution list does not have any underscores. 
+
+Please use the following.
+
+DL-Portland Volume Mgmt
+
+Thanks - MO
+
+ -----Original Message-----
+From: 	Stokley, Chris  
+Sent:	Wednesday, August 01, 2001 12:12 PM
+To:	Confer, Mark
+Cc:	O'Neil, Murray P.
+Subject:	RE: June 01 Flash Report
+
+Mark,
+	Could you please add "DL_Portland_Volume_MGMT" to your distribution list for Flash, Desk analysis and DPR.
+
+
+							Thanks 
+							  Chris
+
+ -----Original Message-----
+From: 	Confer, Mark  
+Sent:	Wednesday, July 25, 2001 11:58 AM
+To:	Allen, Thresa A.; Chang, Fran; Dunton, Heather; Evans, Casey; Law, Samantha; O'Neil, Murray P.; Postlethwaite, John; Ratnala, Melissa K.; Reeves, Leslie; Saha, Rajib; Stokley, Chris; Vinson, Donald Wayne; White, Stacey W.
+Subject:	June 01 Flash Report
+
+Attached is the June 01 Flash Report.  The Desk Analysis will be sent later this afternoon.
+
+Thanks,
+
+Mark
+
+
+ << File: 20001 06 flash Report 72501 .xls >> 
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <17056050.1075858521621.JavaMail.evans@thyme>
+Date: Tue, 31 Jul 2001 16:24:45 -0700 (PDT)
+From: p..o'neil@enron.com
+To: chris.stokley@enron.com
+Subject: FW: Load Curtailment Settlements
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Chris, 
+
+FYI?I sent her a response message and told her to give me a call when she is ready.  Once I get a chance to talk with her I will see if it is something that you should also get involved in.
+
+Thanks - MO
+ -----Original Message-----
+From: 	Jenkins, Beth  
+Sent:	Monday, July 30, 2001 9:56 AM
+To:	O'Neil, Murray P.
+Subject:	Load Curtailment Settlements
+
+Murray,
+
+Hi. My name is Beth Jenkins.  I am a new employee, working for Ozzie Pagan in EAM.  I am putting together the load curtailment desk and would like to get together with you to discuss any thoughts yu may have on settlement for these real options.
+
+Please give me a call at your earliest convenience.
+
+Beth Jenkins
+x58023
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <13374056.1075858520521.JavaMail.evans@thyme>
+Date: Tue, 2 Oct 2001 15:34:28 -0700 (PDT)
+From: p..o'neil@enron.com
+To: lloyd.will@enron.com, fred.kelly@enron.com, chris.stokley@enron.com
+Subject: 3AC 1603  Discussion of responsibilites of the ROC w/ Lloyd Will,
+ Fred Kelly, Chris Stokley, & Murray O'Neil
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Will, Lloyd </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lwill>, Kelly, Fred </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=e3ed6860-722dad39-86256a3a-680e22>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+When: Wednesday, October 03, 2001 7:00 AM-8:00 AM (GMT-06:00) Central Time (US & Canada).
+
+*~*~*~*~*~*~*~*~*~*
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <28032383.1075858521870.JavaMail.evans@thyme>
+Date: Tue, 10 Jul 2001 10:26:16 -0700 (PDT)
+From: p..o'neil@enron.com
+To: chris.stokley@enron.com
+Subject: FW: MV90
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+As you requested.
+
+ -----Original Message-----
+From: 	Stokley, Chris  
+Sent:	Monday, July 02, 2001 11:25 AM
+To:	O'Neil, Murray P.
+Subject:	FW: MV90
+
+
+
+ -----Original Message-----
+From: 	Hart, Vivian  
+Sent:	Friday, June 29, 2001 2:31 PM
+To:	Stokley, Chris
+Subject:	MV90
+
+Here is the data model and data flow diagram for MDMA.  
+
+  
+
+I am trying to find out if the data from MV90 get interfaced into MDMA on a daily basis
+or not.  If it is done on a daily basis, then I don't think there is a need to go into MV90.
+MV90 will have raw data and will not have gone through validations which are performed
+in MDMA.
+
+
+---------------------- Forwarded by Vivian Hart/HOU/EES on 06/29/2001 04:27 PM ---------------------------
+From:	Chris Stokley/ENRON@enronXgate <mailto:Stokley/ENRON@enronXgate> on 06/28/2001 07:00 PM
+To:	Vivian Hart/HOU/EES@EES <mailto:Hart/HOU/EES@EES>
+cc:	 
+Subject:	MV90
+
+Vivian,
+
+	I just wanted to leave you my contact numbers:
+	
+						Cell:    503-807-8959
+					           Work:   503-464-8219
+ 					          Home:   503-625-3541
+
+	I will be flying out tomorrow, but I should be in around 1:00 Pacific Time. Please send me an e-mail on where we stand with being able to get into the MV90 tables. I have Jeff Richter chomping at the bit on this one so it would be a nice if we can get our hands on that data. Thank you very much for your help on this topic.
+
+
+
+									   
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <8258479.1075858520824.JavaMail.evans@thyme>
+Date: Mon, 24 Sep 2001 18:06:49 -0700 (PDT)
+From: p..o'neil@enron.com
+To: 'galvan@enron.com, jgalvan@kpmg.com
+Subject: RE: CSC Visit - Dublin, OH
+Cc: chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: chris.stokley@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: 'Galvan, Joshua P' <jgalvan@kpmg.com>
+X-cc: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Well,  Here I am 10 days later trying to get caught up on my email.  If you have something like this in the future which you need me to respond to.  Please make sure that you are placing a call to me as well as sending the email.  I don't have much time to stay up with my email when I'm receiving over 100 new emails a day.
+
+I was talking with Scott Mills and Brenda Herod about them going to OH.  If we have everything they need in the Ranger project they would not need to go.  In order to provide them with what they need out of project Ranger, we may be required to change some of the priorities.
+
+I am interested in seeing what they are trying to get from CSC prior to making any recommendations.
+
+Thanks - MO
+
+ -----Original Message-----
+From: 	Galvan, Joshua P [mailto:jgalvan@kpmg.com] 
+Sent:	Friday, September 14, 2001 11:47 AM
+To:	O'Neil, Murray P.
+Cc:	Stokley, Chris; Wilson, Randy D; Swider, Erin M
+Subject:	CSC Visit - Dublin, OH
+Importance:	High
+
+Murray -
+
+The Gas project is planning a visit next week of 2 to 3 staff at the CSC
+office in Dublin, OH.  We are trying to gauge the value in doing the same on
+the Power side.  The purpose of their visit is to analyze billing data and
+hold discussions with personnel up there to better understand the billing
+process as a whole.  On the Power end, it may serve us well to do this so
+that we can make some more contacts at CSC and build up some knowledge of
+CSC billing for future reference.
+
+I have spoken with Chris Stokley about this, and he suggested that we go to
+you for you opinion on go/no-go.  What are your thoughts?
+
+> kpmg LLP  Information Risk Management
+Joshua P. Galv?n
+Senior Associate
+700 Louisiana, Ste. 3200
+Houston, Texas  77002
+713/319-2082 (wrk)
+713/256-8499 (mob)
+jgalvan@kpmg.com
+
+*****************************************************************************
+The information in this email is confidential and may be legally privileged.
+It is intended solely for the addressee. Access to this email by anyone else
+is unauthorized. 
+
+If you are not the intended recipient, any disclosure, copying, distribution
+or any action taken or omitted to be taken in reliance on it, is prohibited
+and may be unlawful. When addressed to our clients any opinions or advice
+contained in this email are subject to the terms and conditions expressed in
+the governing KPMG client engagement letter.         
+*****************************************************************************
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <26692245.1075858521205.JavaMail.evans@thyme>
+Date: Fri, 24 Aug 2001 08:35:11 -0700 (PDT)
+From: p..o'neil@enron.com
+To: f..herod@enron.com
+Subject: FW: CSC architecture current state
+Cc: chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: chris.stokley@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Herod, Brenda F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bherod>
+X-cc: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+FYI?MO
+
+I'm not sure if you have seen this before.  It may just be new to me.
+
+
+ -----Original Message-----
+From: 	Symms, Neal  
+Sent:	Tuesday, August 21, 2001 5:23 PM
+To:	O'Neil, Murray P.
+Subject:	CSC architecture current state
+
+Murray,
+
+Here's a slide showing the current architecture of billing systems setup at CSC. Items marked with a bullet-hole represent those which they hoped to replace with their version of project Genesys.
+
+Neal
+
+
+
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <6312559.1075858520567.JavaMail.evans@thyme>
+Date: Fri, 28 Sep 2001 08:19:16 -0700 (PDT)
+From: p..o'neil@enron.com
+To: mark.denner@enron.com, chris.stokley@enron.com
+Subject: 3AC 1603  Mtg w/ Mark Denner, Chris Stokley & Brenda re: prep for
+ "Distributed Generation" mtg w/ Suzanne Vann
+Cc: f..herod@enron.com, esther.celedon-renovato@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: f..herod@enron.com, esther.celedon-renovato@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Denner, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=1db2354e-709a6fde-862568a8-671af3>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-cc: Herod, Brenda F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bherod>, Celedon-Renovato, Esther </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=59fcf25a-e98529de-86256800-5702d3>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+When: Monday, October 01, 2001 4:45 PM-5:30 PM (GMT-06:00) Central Time (US & Canada).
+
+*~*~*~*~*~*~*~*~*~*
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <23813290.1075858520980.JavaMail.evans@thyme>
+Date: Wed, 19 Sep 2001 06:59:11 -0700 (PDT)
+From: p..o'neil@enron.com
+To: chris.stokley@enron.com, scotty.gilbert@enron.com
+Subject: FW: Template
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>, Gilbert, Scotty </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sgilber>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Here is the template we will need to put our comments into for the SQMD audit prior to sending it off to the ISO.  We need to get all of our comments together by EOB on Wednesday.  
+
+MO
+
+ -----Original Message-----
+From: 	Lewchuk, Ken  
+Sent:	Tuesday, September 18, 2001 12:09 PM
+To:	O'Neil, Murray P.
+Cc:	Atwood, Mechelle
+Subject:	Template
+
+Murray,
+
+Here is a template to provide comments.  We will incorporate these into the final audit report per our discussion.
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <6341696.1075858521985.JavaMail.evans@thyme>
+Date: Wed, 27 Jun 2001 09:43:28 -0700 (PDT)
+From: p..o'neil@enron.com
+To: jim.reyes@enron.com, chris.stokley@enron.com
+Subject: RE: FW: CAISO Notification - MDAS-Online Changes
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Reyes, Jim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jreyes4>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+You need to make sure that Greg Moreno-Earle (sp) knows about this stuff in the future.  That is the person Pete is talking about.
+
+ -----Original Message-----
+From: 	Reyes, Jim  
+Sent:	Wednesday, June 27, 2001 9:30 AM
+To:	O'Neil, Murray P.; Stokley, Chris
+Subject:	FW: FW: CAISO Notification - MDAS-Online Changes
+
+I send this to Pete.  Is there someone on FSP/VMS who should know about these changes to Meter collection?
+Poston?
+
+Jim
+
+ -----Original Message-----
+From: 	Davis, Pete  
+Sent:	Wednesday, June 27, 2001 9:10 AM
+To:	Reyes, Jim
+Subject:	Re: FW: CAISO Notification - MDAS-Online Changes
+
+Jim,
+
+I have passed this information on to the group (Mike Marryott) that will be making the appropriate changes to the Meter Scout.
+
+I don't own that application in the FSP/VMS world (at least for now).
+
+The Meter Scout will have to be re-written to handle the new procedures.
+
+Pete
+
+
+
+From:	Jim Reyes/ENRON@enronXgate on 06/27/2001 09:27 AM
+To:	Pete Davis/HOU/ECT@ECT
+cc:	 
+
+Subject:	FW: CAISO Notification - MDAS-Online Changes
+
+Pete,
+
+Did you see this e-mail?
+
+Is there anything we need to do to prepare?  Want to discuss?
+
+Jim
+
+ -----Original Message-----
+From: 	CRCommunications <CRCommunications@caiso.com>@ENRON [mailto:IMCEANOTES-CRCommunications+20+3CCRCommunications+40caiso+2Ecom+3E+40ENRON@ENRON.com] 
+Sent:	Tuesday, June 26, 2001 4:34 PM
+To:	ISO Market Participants
+Cc:	TSWG
+Subject:	CAISO Notification - MDAS-Online Changes
+
+
+Overview
+The California ISO is enhancing two of its meter data systems, scheduled to
+be in production by October 2001.  The objective of this development effort
+is to provide the ISO with robust, flexible, maintainable, and more
+cost-effective metering systems to meet its ever-changing market and
+internal needs.  Market participants and other systems will use the internet
+based MDAS-Online application for meter data submission and requests.
+
+Timeline for project
+Market Simulation	August 20 through August 31
+Production Implementation	October 1
+
+Impacts of project
+	*	New interface for MDAS-Online
+			o	Same look and feel as new OASIS interface
+	*	Multiple valid file formats
+			o	MDEF and CSV file formats for meter data
+submission and requests
+	*	No longer use FTP to submit MDEF files
+			o	Interim FTP service for file submission
+during transition
+			o	File submission only, no FTP
+acknowledgements or requests
+	*	Automation specification will be provided
+			o	Submission of meter data file
+			o	Download of meter data file submission
+status
+			o	Download of meter data
+	*	Additional equipment and software
+			o	Smart Card security
+			o	Netscape Navigator browser
+	*	ECN connection no longer required for meter data submission
+and requests
+			o	The file submission and reporting will take
+place over a secure internet connection
+	*	No formal training required
+			o	Online help in application
+			o	MDAS Operators
+			o	System Support
+
+
+Questions will be addressed at the next TSWG Conference call (6/26/01 @1330
+PST) or send inquiries to Leslie Feusi at Lfeusi@caiso.com.
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <30184790.1075858520544.JavaMail.evans@thyme>
+Date: Tue, 2 Oct 2001 12:36:52 -0700 (PDT)
+From: p..o'neil@enron.com
+To: rebecca.fite@enron.com, robert.gresch@enron.com, chris.stokley@enron.com,
+	mark.denner@enron.com
+Subject: 3AC Mtg w/ Rebecca Fite, Murray O'Neil, Bob Gresch, Chris Stokley,
+ and Mark Denner
+Cc: tammy.dawson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: tammy.dawson@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Fite, Rebecca </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=e37f510b-967f074c-862569cb-53c357>, Gresch, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=d33029ba-a25fcc77-862564c2-54446e>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>, Denner, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=1db2354e-709a6fde-862568a8-671af3>
+X-cc: Dawson, Tammy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=8e89ac32-2202fe12-86256927-6d1b8f>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+When: Wednesday, October 03, 2001 10:30 AM-11:30 AM (GMT-06:00) Central Time (US & Canada).
+
+*~*~*~*~*~*~*~*~*~*
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <5531462.1075858521643.JavaMail.evans@thyme>
+Date: Tue, 31 Jul 2001 16:07:33 -0700 (PDT)
+From: p..o'neil@enron.com
+To: beth.jenkins@enron.com
+Subject: RE: Load Curtailment Settlements
+Cc: chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: chris.stokley@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Jenkins, Beth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=e6c1de71-dd994802-86256a87-59d03e>
+X-cc: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Beth,
+
+Sorry for my slow response.  I opened your message yesterday and never had a chance to respond.  I am working out of the Portland office this week.  I will be back in Houston next week.
+
+Please give me a call when you would like to talk.
+
+Office 503-464-8817
+Cell     503-702-9846
+
+Thanks - MO
+
+ -----Original Message-----
+From: 	Jenkins, Beth  
+Sent:	Monday, July 30, 2001 9:56 AM
+To:	O'Neil, Murray P.
+Subject:	Load Curtailment Settlements
+
+Murray,
+
+Hi. My name is Beth Jenkins.  I am a new employee, working for Ozzie Pagan in EAM.  I am putting together the load curtailment desk and would like to get together with you to discuss any thoughts yu may have on settlement for these real options.
+
+Please give me a call at your earliest convenience.
+
+Beth Jenkins
+x58023
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <30845568.1075858521333.JavaMail.evans@thyme>
+Date: Mon, 20 Aug 2001 05:58:30 -0700 (PDT)
+From: p..o'neil@enron.com
+To: chris.stokley@enron.com
+Subject: FW: Consumption Bands
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Chris, 
+
+Don't forget to include this one in your consolidation of Consumption Band information.
+
+Thanks - MO
+
+ -----Original Message-----
+From: 	Herod, Brenda F.  
+Sent:	Wednesday, August 08, 2001 9:07 PM
+To:	O'Neil, Murray P.
+Subject:	FW: Consumption Bands
+
+
+
+ -----Original Message-----
+From: 	Chen, Andy  
+Sent:	Wednesday, August 08, 2001 9:37 AM
+To:	Perry, Todd
+Cc:	Herod, Brenda F.
+Subject:	RE: Consumption Bands
+
+Thanks Todd.
+
+ -----Original Message-----
+From: 	Perry, Todd  
+Sent:	Wednesday, August 08, 2001 8:44 AM
+To:	Chen, Andy
+Subject:	RE: Consumption Bands
+
+Andy,
+
+For Rexam be sure that you recognize that when Rexam exceeds 110% of its Baseline consumption, Rexam is billed for the entire excess volume above the Baseline multiplied by the Basis adjustment.  See Section 5.2.4 of the original contract.
+
+Todd
+
+
+-----Original Message-----
+From: 	Chen, Andy  
+Sent:	Tuesday, August 07, 2001 4:40 PM
+To:	Herod, Brenda F.
+Cc:	Perry, Todd; Donovan, Terry W.
+Subject:	FW: Consumption Bands
+
+Brenda--
+
+Correction.  Per Section 5.2.4 there is a 90/110 band around around all gas and electricity consumption for Rexam.
+
+Apologies for the mistake,
+
+Andy 
+
+ -----Original Message-----
+From: 	Chen, Andy  
+Sent:	Monday, August 06, 2001 11:27 AM
+To:	Donovan, Terry W.; Herod, Brenda F.
+Cc:	Leinauer, Christopher
+Subject:	RE: Consumption Bands
+
+Springs Industries
+
+Please note that I've asked Chris Leinauer in Baseline to perform a comparison of actual vs. baseline consumption for this transaction.
+
+Consumption band language can be found in Schedule 3.6, "Adjustment Process" of this contract.  Section 1.4 pertains to Retail electricity sites and Section 1.5 pertains to Wholesale electricity and Discount gas sites.  Non-Discount gas sites are not subject to a consumption band.  Note that, while the commercial intent of the contract is for EES to directly serve gas to Discount gas sites, in fact EES is currently not serving gas to one Discount site (Middleton) and is serving a Non-Discount site (Griffin Finishing).
+
+If annual consumption at any gas or electric site is more than +/- 15% of the baseline, then a Material Change is deemed to have occurred.  If the circumstances which have caused the Material Change will continue for at least 270 days, then the Material Change will be deemed Permanent.  If the circumstances last less than 270 days, then the Material Change will be deemed Temporary.
+
+For Retail sites, Material Changes that result in consumption level changes more than the greater of $25,000 or 10% of the baseline spending will require an Adjustment to be agreed upon by both parties.
+
+For Wholesale electricity and Discount gas sites, in the event of a Temporary Material Change, Excess or Deficiency Volumes in the Contract Year will be calculated based on how much more actual consumption is above or below 10% of the baseline.  Wholesale sites subject to Index Pricing (i.e., subsequent to Deregulation) and Discount gas facilities will pay a true-up on Excess or Deficiency Volumes equal to the difference between contract price and market price.  Note that for electricity only the Montgomery Site is currently post-Deregulation and subject to the true-up.
+
+In the event of a Permanent Material Change, a true-up will be paid as per the Temporary Material Change above and Cover Damages will be assessed, per Schedule 8.3.2.3.6.
+
+Rexam (American National Can)
+
+There is a cap of 110% of baseline volumes for Deregulated states (AZ, IL, NJ) and for Deregulating states prior to Deregulation (SC, GA, TX, OK, IN, NC).  There is no consumption band for gas facilities we serve, Deregulating states after Deregulation, and California.  Volumes consumed in excess of the cap are charged the "Deregulated Electricity Price" equal to applicable wholesale index plus fixed basis.
+
+Please contact me at x5-8998 if you have further questions,
+
+Regards,
+
+Andy
+
+ 
+ 
+ -----Original Message-----
+From: 	Donovan, Terry W.  
+Sent:	Monday, August 06, 2001 8:08 AM
+To:	Vonderheide, Scott; Chen, Andy; Dalia, Minal; John, Saji; Jones, Oliver; Schmidt, Darin; Cross, Edith EES; Perry, Todd; Morse, Brad; Wagner, Joseph; Davenport, Lacrecia
+Cc:	Ahn, Chris; Watts, Christopher; Stokley, Chris; Herod, Brenda F.
+Subject:	Consumption Bands
+
+
+Operations (Brenda Herod) is attempting to complete an analysis on EES billing performance on all contracts that contain consumption bands.  Her goal is to highlight those agreements with bands and ensure that EES has billed the customer correctly.
+
+At this point a central location for information of this type does not exist so she was hoping we could provide information on what we have found to date.  Can you each please provide information to me on consumption bands in the contracts you have reviewed.  (See the list below)  Please send this to me as quickly as possible, Brenda has asked for it by this afternoon if possible.
+
+
+	Chase		Vonderheide
+	Rexam		Chen
+	Springs		Chen
+	Tyco		Dalia
+	Starwood	John
+	Quebecor	Jones
+	Packaged Ice	Vonderheide
+	Archdiocese	Schmidt
+	Eli Lilly		Cross
+	IBM		Perry
+	Owens		Morse
+	Pilkington	Wagner
+	Polaroid		Davenport
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <16988373.1075858521826.JavaMail.evans@thyme>
+Date: Mon, 16 Jul 2001 04:08:49 -0700 (PDT)
+From: p..o'neil@enron.com
+To: evan.hughes@enron.com
+Subject: FW: Settlement Files 5/26 and 5/28
+Cc: f..herod@enron.com, chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: f..herod@enron.com, chris.stokley@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Hughes, Evan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=1131ec5f-7e48d039-8625692f-52ea2e>
+X-cc: Herod, Brenda F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bherod>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Evan, 
+ 
+Can someone please tell me why this was not captured by someone at CSC or within your group?
+ 
+MO
+
+-----Original Message----- 
+From: Reyes, Jim 
+Sent: Thu 7/12/2001 2:50 PM 
+To: O'Neil, Murray P.; Stokley, Chris 
+Cc: 
+Subject: FW: Settlement Files 5/26 and 5/28
+
+
+
+I discovered this error, and had Pat send us an e-mail explaining the reason the Meter was wrong as well as updating the data.  They updated this within the 45 days.
+
+Jim 
+
+-----Original Message----- 
+From: ppriest2@csc.com [<mailto:ppriest2@csc.com>] 
+Sent: Thursday, July 12, 2001 11:01 AM 
+To: eespower@enron.com; vhart@enron.com; mfrazier@enron.com; Carter, 
+Pamela; jdyer2@enron.com; mspruiel@enron.com; Phillips, George; Reyes, 
+Jim 
+Cc: dwilli75@csc.com 
+Subject: Settlement Files 5/26 and 5/28 
+
+
+Jim, the above settlement files were misstated due to an error in tracking 
+weekend vs weekdays. The original file showed the data for 5/26 to be a 
+normal load for a weekday while 5/28 reflected the load for a weekend. 
+The problem has been corrected and the files for 5/26 and 5/28 were 
+reposted.  The file for 5/26 was reposted on 7/17, day 45. 
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <29193202.1075858522031.JavaMail.evans@thyme>
+Date: Wed, 27 Jun 2001 06:07:36 -0700 (PDT)
+From: p..o'neil@enron.com
+To: chris.stokley@enron.com
+Subject: FW: VMS extensions
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Please Print this out for me.  
+
+Thanks - MO
+
+ -----Original Message-----
+From: 	"Willem DeVries" <willem.devries@razorfish.com <mailto:willem.devries@razorfish.com>>@ENRON [mailto:IMCEANOTES-+22Willem+20DeVries+22+20+3Cwillem+2Edevries+40razorfish+2Ecom+3E+40ENRON@ENRON.com] <mailto:[mailto:IMCEANOTES-+22Willem+20DeVries+22+20+3Cwillem+2Edevries+40razorfish+2Ecom+3E+40ENRON@ENRON.com]> 
+Sent:	Tuesday, June 26, 2001 7:54 PM
+To:	'Willem DeVries'; O'Neil, Murray P.
+Subject:	RE: VMS extensions
+
+Hi Murray:
+
+Enclosed please find an abbreviated SOW for the extension as discussed. For
+the transition of Jim and Bala we will have a separate agreement. If you
+need any adjustments, please let me know as soon as possible.
+
+Again, I would like to thank you for your continued support of this project.
+
+Best regards, Willem
+
+|    ||   |||  ||         r a z o r f i s h , los angeles
+
+willem devries
+[ client partner ]
+
+>> tel  +1.310.566.1395
+>> fax  +1.310.566.1301
+>> mobile +1.949.292.8023
+>> <http://www.razorfish.com>
+
+
+
+
+
+-
+
+
+ - enronVMS_extension_6-25-01.doc 
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <28789269.1075858521962.JavaMail.evans@thyme>
+Date: Thu, 28 Jun 2001 10:20:06 -0700 (PDT)
+From: p..o'neil@enron.com
+To: f..herod@enron.com
+Subject: Request for Infomration
+Cc: beth.apollo@enron.com, jeff.richter@enron.com, chris.stokley@enron.com,
+	m.hall@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: beth.apollo@enron.com, jeff.richter@enron.com, chris.stokley@enron.com,
+	m.hall@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Herod, Brenda F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bherod>
+X-cc: Apollo, Beth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bapollo>, Richter, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jrichte>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>, Hall, Bob M </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rhall3>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Brenda,
+
+Yesterday, 6/27/01 when we were in the meeting with Jay Lewis, you had a document which I believe contained a list of all of the issues to date.  I think you referenced the document as being something which was put together by Paige Grgrumulaitis.  Can you please forward myself & Chris Stokley a copy of that document.
+
+In addition, it would be beneficial to these efforts if you could add us to any distribution lists which have already been established or will be established in the future  for scheduling meetings, distributing communications?  
+
+It would be helpful if you could provide us with any documentation which we may have been previously distributed. We are looking for any documentation that references process and / or systems for EES current or future state.
+I currently have two documents from the Gutenberg team:  
+ 1 - ("Gutenberg "Is" and "Should" cross-functional process maps")
+ 2 - ("Gutenberg Calculation Engine Project - Phase I) dated May 25, 2001.  
+
+There are many activities currently underway in this transition, and I am making these requests in hopes that we can prevent people from trying to reinvent the wheel or performing redundant activities.  
+
+Any assistance you can provide would be greatly appreciated.
+
+Thanks - MO
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <30378820.1075858520891.JavaMail.evans@thyme>
+Date: Mon, 24 Sep 2001 18:05:09 -0700 (PDT)
+From: p..o'neil@enron.com
+To: mark.denner@enron.com, chris.stokley@enron.com
+Subject: FW: New Illinois Physical Delivery Product (ComEd)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Denner, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=1db2354e-709a6fde-862568a8-671af3>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+FYI? Not sure if you have sent his one yet.
+
+I'm working on moving Rebecca Fite into the Retail Volume Management group.  This will help us stay in tune with all new market entries as well as new products.
+
+MO
+
+ -----Original Message-----
+From: 	Apollo, Beth  
+Sent:	Wednesday, September 19, 2001 5:43 AM
+To:	Stubbs, Shelly; Albrecht, Kristin; O'Neil, Murray P.; Busby, Todd
+Subject:	FW: New Illinois Physical Delivery Product (ComEd)
+
+Have you guys seen this   -- sounds like contract will follow shortly  -- we should make sure to review  --
+
+Murray  -- have we already got the new markets team working on this one
+
+ -----Original Message-----
+From: 	Dotson, Marcus  
+Sent:	Tuesday, September 18, 2001 1:03 PM
+To:	Wood, James; Holmes, Sean; Aucoin, Berney C. ; Cross, Edith EES; Nikkel, Greg; Hughes, Evan; Apollo, Beth; Avs, Mallik; Brakke, Erling; Gahn, Scott; Blachman, Jeremy; Keller, James; Harris, Molly; Schwarz, Angela; Gale, Jeff
+Cc:	Merril, Deborah; Riley, Christopher; Heidecker, Bill; Cobb, Jeff; Reese, Jeanette; Reese, Mark; Hamb, Edward; Taveras, Ignacio; Burrows, John; Nebergall, Brad; Ulrich, Marc; Sharfman, Guy; Cross, Edith EES; Mastrangelo, Lino; Montana, Henry; Frazier, J Ryan
+Subject:	New Illinois Physical Delivery Product (ComEd)
+
+I've attached the preliminary Product Approval Template for the new physical delivery product for ComEd for your review.  There are a number of actions currently underway for product finalization, e.g. contracts and load profile approval.  Beginning Wednesday morning a notional pricing matrix will be located on Market Central.  The following overview provides a product description and value assessment: 
+ 
+Product
+Illinois (ComEd) Physical Delivery Product - $/MWh discount to prevailing bundled rate (PBR) Rate 6 or 6L through February 28, 2002, followed by a fixed price for retail generation beginning March 1, 2002.
+Fixed price includes energy, congestion, and losses; ICAP, ancillary services, T&D and other UDC-related charges are passed through to customer. 
+The product passes through ancillary services primarily because of market power by incumbent UDC  and lack of an ISO.
+Physical delivery is approved for ComEd March 1, 2002, with maximum allowable load set at 25 MWs by EWS Logistics.  Once max. load is contracted, reassessment of the cap will follow.
+
+Contract
+Currently under development (Mini, Mid) - Target date of COB 9/20, with Master to follow.
+
+ 
+
+Regards,
+Marcus Dotson
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <28040754.1075858522076.JavaMail.evans@thyme>
+Date: Thu, 21 Jun 2001 09:02:44 -0700 (PDT)
+From: p..o'neil@enron.com
+To: mgmt.dl-portland@enron.com, diane.cutsforth@enron.com
+Subject: FW: Tropical Storm Allison - Pictures
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: DL-Portland Volume Mgmt </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DL-PortlandVolumeMgmt>, Cutsforth, Diane </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dcutsfor>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Check this out.
+
+ -----Original Message-----
+From: 	Docwra, Anna  
+Sent:	Thursday, June 21, 2001 6:52 AM
+To:	Davis, Pete; Burleigh, Matt; Murray P O'Neil/HOU/ECT@ENRON; Chris Stokley/HOU/ECT@ENRON <mailto:Stokley/HOU/ECT@ENRON>; Nat, Steve
+Subject:	FW: Tropical Storm Allison - Pictures
+
+
+---------------------- Forwarded by Anna M Docwra/HOU/ECT on 06/21/2001 08:34 AM ---------------------------
+
+
+"Sheila Vasquez" <svasquez@hal-pc.org <mailto:svasquez@hal-pc.org>> on 06/20/2001 09:06:09 PM
+Please respond to <svasquez@hal-pc.org <mailto:svasquez@hal-pc.org>>
+To:	"Vivian Midgley" <vmidgley@computertech.com <mailto:vmidgley@computertech.com>>, "Snyder, Marilyn" <ranger17@prodigy.net <mailto:ranger17@prodigy.net>>, "Sharon Castillo" <sfcastil@hal-pc.org <mailto:sfcastil@hal-pc.org>>, "Linda F. Jenkins" <ljenkins_77429@yahoo.com <mailto:ljenkins_77429@yahoo.com>>, "Jorge Reyna" <jireyna@bigplanet.com <mailto:jireyna@bigplanet.com>>, "Heather Harper" <pchharpe@ihc.com <mailto:pchharpe@ihc.com>>, "Cernosek, Gloria J" <gloria.cernosek@eds.com <mailto:gloria.cernosek@eds.com>>, "Brenda Tucker" <Planner2@aol.com <mailto:Planner2@aol.com>>, "Anna Docwra" <Anna.M.Docwra@enron.com <mailto:Anna.M.Docwra@enron.com>>
+cc:	 
+
+Subject:	FW: Tropical Storm Allison - Pictures
+
+
+
+
+
+Content-Transfer-Encoding: binary
+From: "Hagen, Michael" <Michael.Hagen@COMPAQ.com <mailto:Michael.Hagen@COMPAQ.com>>
+To: "Angela Mcbride (E-mail)" <apmcbride@earthlink.net <mailto:apmcbride@earthlink.net>>,	"Janet A. Rose (E-mail)" <JARose@cps-satx.com <mailto:JARose@cps-satx.com>>,	"Jennifer Amaro (E-mail)" <jennamaro@aol.com <mailto:jennamaro@aol.com>>,	"Elia Hagen (E-mail)" <EHAGEN@nps.cc <mailto:EHAGEN@nps.cc>>,	"Osie Mouton (E-mail)" <opmiii@yahoo.com <mailto:opmiii@yahoo.com>>,	"Reagan Hagen (E-mail)" <bhagen@holtcompanies.net <mailto:bhagen@holtcompanies.net>>,	"Trang Nguyen (E-mail)" <tranguyen@siebel.com <mailto:tranguyen@siebel.com>>,	"Trang Nguyen (E-mail 2)" <trang02@hotmail.com <mailto:trang02@hotmail.com>>,	"Vincent Agapiou (E-mail)" <V12554@gateway.net <mailto:V12554@gateway.net>>
+Subject: Tropical Storm Allison - Pictures
+Date: Fri, 15 Jun 2001 08:55:32 -0500
+Message-ID: <AA258982EF4FA544B4F79DB04DC68562084D2F@cceexc15.americas.cpqcorp.net <mailto:AA258982EF4FA544B4F79DB04DC68562084D2F@cceexc15.americas.cpqcorp.net>>
+MIME-Version: 1.0
+Content-Type: application/octet-stream;	name="TS_Allison_Houston_devastation.pps"
+Content-Disposition: attachment;	filename="TS_Allison_Houston_devastation.pps"
+X-Mailer: Internet Mail Service (5.5.2652.78)
+X-MimeOLE: Produced By Microsoft MimeOLE V5.00.2615.200
+
+ - TS_Allison_Houston_devastation.pps 
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <3731370.1075858521444.JavaMail.evans@thyme>
+Date: Tue, 7 Aug 2001 16:40:38 -0700 (PDT)
+From: p..o'neil@enron.com
+To: lyman.wilkes@enron.com
+Subject: RE: Confirmed - EB-8C1 Definition of Data Attrtibutes to include in
+ Master Site & Account (Lunch Provided) (8 Aug 11:00 AM CDT)
+Cc: chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: chris.stokley@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Wilkes, Lyman </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=b0495da3-fee37e57-862567bc-665773>
+X-cc: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Lyman,
+
+Yea, he should be able to cover most of my concerns or inputs.  Sorry I can't attend.
+
+Will you make sure that someone is taking good meeting minutes and distributes them after the meeting.  There are a number of different groups who will be looking for this information.
+
+Thanks - MO 
+
+ -----Original Message-----
+From: 	Wilkes, Lyman  
+Sent:	Tuesday, August 07, 2001 6:34 PM
+To:	O'Neil, Murray P.
+Subject:	RE: Confirmed - EB-8C1 Definition of Data Attrtibutes to include in Master Site & Account (Lunch Provided) (8 Aug 11:00 AM CDT)
+
+I believe Chris Stokley can address your concerns, can he not?
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <21510226.1075858521666.JavaMail.evans@thyme>
+Date: Mon, 30 Jul 2001 17:37:34 -0700 (PDT)
+From: p..o'neil@enron.com
+To: chris.stokley@enron.com
+Subject: FW: CRC Project Log
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+FYI?MO
+
+ -----Original Message-----
+From: 	Gresch, Robert  
+Sent:	Thursday, July 26, 2001 10:37 AM
+To:	O'Neil, Murray P.
+Cc:	Herod, Brenda F.; Hughes, Evan; Young, Gregg
+Subject:	RE: CRC Project Log
+
+Murray, I'm in charge of the Vendor Contract Compliance group that manages the relationship between vendors and EES/EWS in the Operations group. Please see my response to your questions below.
+
+
+From:	Brenda F Herod/ENRON@enronXgate <mailto:Herod/ENRON@enronXgate> on 07/26/2001 01:36 AM
+To:	Murray P ONeil/ENRON@enronXgate <mailto:ONeil/ENRON@enronXgate>, Evan Hughes/HOU/EES@EES <mailto:Hughes/HOU/EES@EES>
+cc:	Chris Stokley/ENRON@enronXgate <mailto:Stokley/ENRON@enronXgate>, Jeff Richter/ENRON@enronXgate <mailto:Richter/ENRON@enronXgate>, Robert D Gresch/HOU/EES@EES <mailto:Gresch/HOU/EES@EES> 
+Subject:	RE: CRC Project Log
+
+Murray,
+ 
+Don't know if Evan got with you are nit, but the CSC responsibilities transferred to my group.  Bob Gresch can answer all questions for you.  Additionally, I'd be happy to chat with you on any suggestions or any insights you have.  Beth, Evan and I will be there next week, so we have a great opportunity.
+
+-----Original Message----- 
+From: O'Neil, Murray P. 
+Sent: Tue 7/24/2001 6:12 PM 
+To: O'Neil, Murray P.; Hughes, Evan 
+Cc: Herod, Brenda F.; Stokley, Chris; Richter, Jeff 
+Subject: RE: CRC Project Log
+
+
+
+Evan, 
+
+Sorry about the major typing error on my part with your name.  
+
+MO
+
+	 -----Original Message-----
+
+	From:   O'Neil, Murray P.  
+
+	Sent:   Tuesday, July 24, 2001 5:44 PM
+
+	To:     Hughes, Evan
+
+	Cc:     Herod, Brenda F.; Stokley, Chris; Richter, Jeff
+
+	Subject:        CRC Project Log
+
+	Even,
+
+	Who do I need to contact to see a copy of the current Enron to CSC project request log.
+The current project log for CSC projects is on the CSC/EES information exchange web site at this url - <http://csc-enronix/chg_req/IT_Projects.pdf>
+	Do we have a listing which contains the following information:
+
+	Request description
+
+	Requestor
+
+	Date of request
+
+	Quantifiable justification for request
+
+	Cost to Enron for CSC to do the request
+
+	Enron's priority of request
+
+	Enron's preferred date of completion
+
+	CSC targeted date of completion.
+
+	CSC current status (% complete)
+Most of the above information is contained in the report referenced up above.  The remaining information may be found in the actual request itself, which is maintained, along with all associated correspondence, amendments, approvals, etc., in a soft library my group manages on the J: drive.
+	Is there a formal reporting process of these requests and is there a group who manages the priorities to make sure they are in-line with the current business needs.
+
+  
+My group manages the request process and ensures adherence to the Work Request Guidelines.  Priorities for projects are determined based on the requested delivery date.  If a new request has a delivery date that causes problems with the completion of other existing projects, then the owners of the conflicting requests are contacted to rearrange project completion dates and reset expectations.  Additionally, we hold a monthly Executive Project Status review where all requestors can conference in and discuss issues related to their projects.
+	Can you also tell me if CSC is off on their cost estimate for doing a project does Enron get billed actual project cost or just estimated costs
+We are billed actuals, however there is an agreement that we will only pay overruns up to 15% of the project cost (almost all projects are IT in nature and we feel this is a fair margin in estimation error).  My group is responsible for validating charges on the invoice, and we monitor the charged project costs.  We will negotiate overruns on a project-by-project basis as they occur.  We also perform a function up front of cost haggling on estimates if requested, or if we note something unusual.
+	Any information you can provide related to this request would be appreciated.
+
+	Thanks - MO
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <11960760.1075858522141.JavaMail.evans@thyme>
+Date: Fri, 8 Jun 2001 10:39:55 -0700 (PDT)
+From: p..o'neil@enron.com
+To: kalmeida@caiso.com
+Subject: Enron Actions and Response to incorrect / inaccurate Meter Data for
+ March Production
+Cc: chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: chris.stokley@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: 'kalmeida@caiso.com'
+X-cc: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+For some reason this did not make it's way out the first time. - MO
+
+ -----Original Message-----
+From: 	O'Neil, Murray P.  
+Sent:	Friday, June 08, 2001 10:34 AM
+To:	keoni Almeida (E-mail)
+Cc:	Stokley, Chris
+Subject:	Enron Actions and Response to incorrect / inaccorate Meter Data for March Production
+
+Keoni,
+
+Attached you will find the memo you have been looking for regarding March meter data issues.
+
+If you have any questions please give me a call.
+
+ 
+
+Thanks - MO
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <11245049.1075858521804.JavaMail.evans@thyme>
+Date: Tue, 24 Jul 2001 07:30:58 -0700 (PDT)
+From: p..o'neil@enron.com
+To: f..herod@enron.com
+Subject: RE: Metered Usage
+Cc: chris.stokley@enron.com, kenny.ha@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: chris.stokley@enron.com, kenny.ha@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Herod, Brenda F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bherod>
+X-cc: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>, Ha, Kenny </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=c9ddb2c7-4c8c1c5c-86256a26-6d11b8>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Brenda,
+ 
+I agree with your proposal to only have one location to store metered consumption information.  
+ 
+Project Ranger has always been presented to me as a project focused on getting meter data out of the CSC systems for those customers who have already been settled.   I am still trying to get my hands on a copy of the requirements for project Ranger so I have a better understanding of what the request to CSC contained and to determine what the plans are if any for the information once it is inside Enron's network.
+ 
+The purpose for our meeting on Tuesday, (Today) is to determine methods of accessing real-time consumption information and making that available to the Intramonth book and if possible improve estimates associated with all transmission costs.  This meter information is in now way settlement quality and will be replaced with meter data which has gone through a VEE process as the utilities make it available.
+ 
+As for combining efforts.  I'm all for it.  I have been asking to be a participant in this process for the past 4 weeks and have not received any documentation or notification of meetings regarding project Ranger.  In an effort to ensure that we are getting real-time information as a starting point we have been moving forward.  I would have to say that this information should be part of the overall request going to CSC and anyone else working on gathering utility settlement information.
+ 
+At this point in time I'm not sure that everyone who needs to be included in the meeting today can be available.  So,  I recommend that we move forward with the separate meetings and work to combine efforts on a go forward basis.  I will try and summarize the outcome and next steps of today's meeting and pass it on to you.
+ 
+If you need to get in contact with me please call my cell 503-702-9846.
+ 
+Thanks - MO 
+ 
+ 
+-----Original Message-----
+From: Stokley, Chris 
+Sent: Tuesday, July 24, 2001 8:34 AM
+To: O'Neil, Murray P.
+Subject: FW: Metered Usage
+ 
+ 
+ 
+-----Original Message-----
+From: Herod, Brenda F. 
+Sent: Sunday, July 22, 2001 4:29 PM
+To: Ha, Kenny; Stokley, Chris
+Cc: Hart, Vivian; Thompson, Patti
+Subject: FW: Metered Usage
+ 
+As part of Project Ranger, it is my goal to have a single repository to house all actual data, allowing users to access data through an ad hoc reporting tool.  Additionally, as areas identify needs, I would hope that we can develop feeds rather than just ad hoc reporting.
+ 
+We are setting up a meeting with CSC for this Wednesday to discuss the needs and start defining Iteration 2 of the project.  Vivian forwarded me this meeting that you have already set-up.  My question:  Without knowing the full scope of your efforts, I'd like to propose a single initiative to obtain actuals.  Additionally, we wanted to set-up this meeting for Wednesday when the CSC business analyst is in town.  Do you think it would be advantageous to combine the meetings, and schedule it for Wednesday?  
+ 
+We will move forward with our efforts and will schedule a meeting for Wednesday.  If you all want to combine efforts, please let me know and we will include you on the meeting.
+ 
+Chris - I had already included both you and Murray on the invitation listing.  Will you forward this E-mail to him?  I'm having problems trying to call up his E-mail address.
+ 
+Please let me know.  
+-----Original Message----- 
+From: Hart, Vivian 
+Sent: Fri 7/20/2001 5:12 PM 
+To: Herod, Brenda F. 
+Cc: 
+Subject: Metered Usage
+Kenny Ha who works for Anthony is already setting a meeting with the Portland guys on this.
+Should you just attend this meeting or do you still want to have a separate meeting.  Kevin
+Crippen is not going to be in until Wednesday though.
+---------------------- Forwarded by Vivian Hart/HOU/EES on 07/20/2001 04:59 PM ---------------------------
+Alarm enabled: an alarm will occur 10 minutes before the start time of this entry.
+        Calendar Entry 
+ 
+Brief description:
+Date:
+Time:
+EB1114 / CSC Metering Data
+07/24/2001
+10:00 AM - 11:00 AM
+ 
+Detailed description:
+Kenny Ha, Todd Taylor, John Rutledge, Maurice Winter, Vivian Hart, Chris Stokley, Murray O'Neil
+Invitations have been sent to:  Todd Taylor/HOU/EES, John Rutledge/HOU/EES, Maurice Winter/HOU/EES, Vivian Hart/HOU/EES, Chris Stokley/HOU/ECT, Murray P O'Neil/HOU/ECT
+_________________________________________________________________________
+Chairperson:    Kenny Ha/HOU/EES
+Sent by:        Melinda Winkler/HOU/EES
+This meeting repeats   starting on    (if the date occurs on a weekend the meeting ).
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <2487628.1075858521894.JavaMail.evans@thyme>
+Date: Fri, 6 Jul 2001 12:57:09 -0700 (PDT)
+From: p..o'neil@enron.com
+To: anna.m.docwra@enron.com, enron-la@razorfish.com
+Subject: RE: Tech Please test your own screens
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Anna.M.Docwra@enron.com@ENRON <IMCEANOTES-Anna+2EM+2EDocwra+40enron+2Ecom+40ENRON@enron.com>, enron-la@razorfish.com
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+All programmers need to be getting their responses back to Anna ASAP.
+We are trying to prepare for this weekends production runs.  We have a
+number of estimates to complete this weekend prior to Monday morning and
+want to make sure that we are aware of any screen / functionality issues
+you may be aware of.
+
+Anna should not be required to send this out again to get everyone to
+respond.  
+
+RESPOND NOW!!!!
+
+If I come across any problems while we are working this weekend and have
+not been made aware of them prior.  I will be calling you to have you
+come into the office to fix them prior to the next release.
+
+If you have any questions please give me a call.
+
+Thanks - MO
+
+		 -----Original Message-----
+		From: 	Anna.M.Docwra@enron.com@ENRON
+[mailto:IMCEANOTES-Anna+2EM+2EDocwra+40enron+2Ecom+40ENRON@ENRON.com] 
+		Sent:	Friday, July 06, 2001 12:49 PM
+		To:	enron-la@razorfish.com
+		Subject:	Tech Please test your own screens
+
+		All techs
+
+		I did not receive any information from anyone does this
+mean everthing is
+		ok and you have tested everyting or do you need more
+time?
+		Please let me know I would like to plan for migrations
+today remember
+		houston is two hours ahead
+
+		Anna
+		---------------------- Forwarded by Anna M
+Docwra/HOU/ECT on 07/06/2001
+		02:27 PM ---------------------------
+
+
+		Anna M Docwra
+		07/06/2001 11:03 AM
+
+		To:   enron-la@razorfish.com
+		cc:
+
+		Subject:  Tech Please test your own screens
+
+
+		All,
+
+		I need every one to test their own screens and code of
+the migration to
+		test we did last night
+		Let me know what issues there are before 11 am pacific
+today
+		Also if you are already working on a fix I need to know
+the estimated time
+		of it being ready .
+		Thanks
+		Anna
+		68535988
+
+
+
+
+		
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <32692181.1075858522186.JavaMail.evans@thyme>
+Date: Tue, 5 Jun 2001 09:36:51 -0700 (PDT)
+From: p..o'neil@enron.com
+To: chris.stokley@enron.com
+Subject: FW: CAISO Notification - Supplemental Market Notice Regarding
+ Impleme	ntation of FERC's May 25, 2001 Order
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Did you ready this?
+
+I think we need to get the Real-time and services desk, as well as the ST-cal desk together to talk about this.
+
+What are your thoughts on the impact?
+
+MO
+
+ -----Original Message-----
+From: 	CRCommunications <CRCommunications@caiso.com <mailto:CRCommunications@caiso.com>>@ENRON [mailto:IMCEANOTES-CRCommunications+20+3CCRCommunications+40caiso+2Ecom+3E+40ENRON@ENRON.com] <mailto:[mailto:IMCEANOTES-CRCommunications+20+3CCRCommunications+40caiso+2Ecom+3E+40ENRON@ENRON.com]> 
+Sent:	Tuesday, June 05, 2001 9:11 AM
+To:	ISO Market Participants
+Cc:	Smith, Roger; Theaker, Brian; Rahman, Brian; Greenleaf, Steve; Ford, Greg; Casey, Keith; Sheffrin, Anjali; Hildebrandt, Eric; Rothleder, Mark
+Subject:	CAISO Notification - Supplemental Market Notice Regarding Impleme	ntation of FERC's May 25, 2001 Order
+
+Supplemental Market Notice
+Regarding Implementation of FERC's May 25, 2001 Order
+
+On May 26, 2001, the ISO sent out a Market Notice explaining its
+implementation of FERC's May 25, 2001 Order (Order Providing Clarification
+and Preliminary Guidance, 95 FERC ? 61,275).  The May 26 Market Notice noted
+that FERC accepted the ISO's proposal to substitute a $0/MWh bid for all
+available capacity that is not bid into the ISO's Imbalance Energy market
+and for which either the ISO has not received heat and emission rate
+information or the information is not complete.
+Under the price mitigation proposal contained in FERC's April 26, 2001 and
+May 25, 2001 Orders, generation owners selling into the ISO's markets or
+transmitting power over the ISO Controlled Grid have the responsibility to
+bid in any available capacity into the real-time Imbalance Energy market.
+As noted above, if such capacity is not bid into the Imbalance Energy
+market, the ISO has the authority to create price taker bids for any
+non-hydro resource that has available capacity.   Such price-taker bids will
+be created by either expanding a submitted Supplemental Energy bid to
+include the unbid capacity or creating a Supplemental Energy bid of $0 value
+for that unbid capacity.
+
+Although the ISO has not started inserting the $0 price-taker bids, the ISO
+will begin  doing so for Trade Day June 6, 2001.  For resources in which
+available capacity can not be calculated in real-time due to the lack of
+relevant information (e.g., resources with significant load behind the meter
+for which there is no telemetry or separate metering of load and generation
+or resources that are scheduled on aggregated basis), the ISO will not be
+inserting price-taker bids.
+
+Resources for which available capacity can not be calculated in real-time
+generally include Qualifying Facilities ("QFs") under Public Utilities
+Regulatory Policy Act of 1978.  On May 16, 2001, the FERC issued an Order
+granting, in part, motions for emergency relief filed by entities
+representing QFs, see, 95 FERC ? 61,226.  The FERC authorized the sales of
+"excess" QF power at negotiated rates provided that the power is sold to
+serve load in California. The FERC stated that excess QF sales may be made
+pursuant to either bilateral contracts at negotiated rates, or may be bid
+into the  ISO's real-time market.  If the QFs choose the real-time market,
+the FERC required the QFs to be price-takers.
+
+The ISO notes that in all cases where it does not have adequate information
+to calculate available capacity, the owners still have the responsibility to
+bid in all available capacity under FERC's Orders.
+
+Client Relations Communication
+CRCommunications@caiso.com <mailto:CRCommunications@caiso.com>
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <26261054.1075858521005.JavaMail.evans@thyme>
+Date: Tue, 18 Sep 2001 06:32:50 -0700 (PDT)
+From: p..o'neil@enron.com
+To: jeff.richter@enron.com, todd.perry@enron.com, christopher.foster@enron.com,
+	scotty.gilbert@enron.com, jim.reyes@enron.com,
+	robert.gresch@enron.com, jay.bhatty@enron.com,
+	shelly.stubbs@enron.com, lynne.ruffer@enron.com,
+	leslie.reeves@enron.com
+Subject: EPMI's Hanson Cement Deal - Process Overview
+Cc: beth.apollo@enron.com, f..herod@enron.com, m.hall@enron.com,
+	chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: beth.apollo@enron.com, f..herod@enron.com, m.hall@enron.com,
+	chris.stokley@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Richter, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jrichte>, Perry, Todd </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tperry2>, Foster, Christopher </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=2c1add5a-a4d08c47-80256863-5a6b44>, Gilbert, Scotty </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sgilber>, Reyes, Jim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jreyes4>, Gresch, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=d33029ba-a25fcc77-862564c2-54446e>, Bhatty, Jay </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=21225a83-2b40fd92-86256996-5b804f>, Stubbs, Shelly </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sstubbs>, Ruffer, Mary lynne </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mruffer>, Reeves, Leslie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lreeves>
+X-cc: Apollo, Beth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bapollo>, Herod, Brenda F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bherod>, Hall, Bob M </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rhall3>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+All,
+
+I am sending this document out to ensure that everyone knows what is required to process EPMI's Hanson Cement deal.  It is possible after reviewing all of the handoffs, that EPMI and EWS (Retail Generation) will wish to handle this deal in a different method.  
+
+We need to come to some decisions very quickly.  There is a tremendous amount of coordination which needs to occur in order to service Hanson Cement.
+
+Everyone please review responsibilities and let me know your comments.   
+
+ 
+
+I will be working out of the Houston office this week.  The best way to contact me is via Cell @ 503-702-9846.
+
+Thanks - MO
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <10538881.1075858521181.JavaMail.evans@thyme>
+Date: Fri, 7 Sep 2001 05:43:51 -0700 (PDT)
+From: p..o'neil@enron.com
+To: chris.stokley@enron.com
+Subject: FW: invoicing requirements
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+FYI?MO
+
+ -----Original Message-----
+From: 	Gonzalez, Victor  
+Sent:	Friday, August 17, 2001 2:21 PM
+To:	O'Neil, Murray P.
+Cc:	Hughes, Evan; Wood, James; Woodward, Jason
+Subject:	invoicing requirements
+
+Murray,
+Pursuant to our discussion this morning, inclusive in this email are the detail behind a proposed method of invoicing a potential customer.  Jim Wood and I discussed a product idea for invoicing the customer based on areas aggregations by congestion zones - as determined by the regional ISO and UDC region, and as define in the contract.  This is similar to our current practices of invoicing the customer based on their internal regional alignment.  Also, inclusive in the invoice would be an additional charge (when applicable) when the customer's consumption falls below 90% or goes above 110% of their baseline usage.  The difference from current practices is that this additional charge (credit) would be assessed to the region and not to an individual site/account for this customer.  The question is, can Operations handle this type of billing method and if so, is there a potential additional cost for processing the invoice?
+
+Thank you in advance for your expedient assistance,
+Victor Gonzalez
+Services Group
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <8939800.1075858521848.JavaMail.evans@thyme>
+Date: Sat, 14 Jul 2001 21:29:29 -0700 (PDT)
+From: p..o'neil@enron.com
+To: chris.stokley@enron.com
+Subject: FW: Operations Action list for EES/EWS transition effort
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Chris,
+ 
+This is the file that was distributed on Friday.  I still need to add the other initiatives to it for trading.
+ 
+If you have any questions give me a call.
+ 
+MO
+
+-----Original Message----- 
+From: Apollo, Beth 
+Sent: Fri 7/13/2001 3:17 PM 
+To: Belden, Tim; Presto, Kevin M.; Black, Don; Herndon, Rogers; Richter, Jeff 
+Cc: Beck, Sally; Dayao, Anthony; Dietrich, Janet; Leff, Dan; Mills, Scott; O'Neil, Murray P. 
+Subject: Operations Action list for EES/EWS transition effort
+
+
+
+To all: 
+
+Attached is our first stab at a more detailed listing of all of the efforts which are ongoing in the operations area with owners, proposed deadlines, IT dependencies and some more detailed comments.  It is trying to tie in quite a few moving parts, so there is a lot of info on these few pages.  Hopefully still "readable".
+
+The document also attempts to cross reference all of the various projects out there (Ranger, Genysis, Gas Solution......) -- so we all understand how these projects affect all of the initiatives that we have underway.  We will also be setting up consistent project management documentation to individually track each of the cross functional projects - to ensure that they do not impact the detailed Operations initiatives.
+
+I intend to use this listing to control all of the Operations efforts, and as a tool to update you all on our progress (weekly initially - and then we will see what is needed).
+
+This is a "living and breathing" document which we will be constantly adding to, as new initiatives become active and others are completed.  
+
+For those of you who will be at the EES/EWS offsite next week, I will plan to walk thru, and for others that attend the Thursday Causey/Buy meeting will also review it's intension there.  
+
+<<EES Activity Listing071301.xls>> 
+Please call me with any questions 
+
+Beth Apollo 
+x35014 
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <12865032.1075858520619.JavaMail.evans@thyme>
+Date: Fri, 7 Sep 2001 06:53:07 -0700 (PDT)
+From: p..o'neil@enron.com
+To: kristin.albrecht@enron.com, steven.fisher@enron.com, chris.stokley@enron.com
+Subject: Mtg re: consumption band & reconciliation project w/ Murray O'Neil,
+ Kristin Albrecht, Steve Fisher & Chris Stokely
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Albrecht, Kristin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kalbrec>, Fisher, Steven </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sfisher3>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+When: Friday, September 07, 2001 12:30 PM-1:00 PM (GMT-06:00) Central Time (US & Canada).
+Where: 3AC 1603
+
+*~*~*~*~*~*~*~*~*~*
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <33452561.1075858522163.JavaMail.evans@thyme>
+Date: Fri, 8 Jun 2001 10:34:29 -0700 (PDT)
+From: p..o'neil@enron.com
+To: kalmeia@caiso.com
+Subject: Enron Actions and Response to incorrect / inaccorate Meter Data for
+ March Production
+Cc: chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: chris.stokley@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: keoni Almeida (E-mail) <kalmeia@caiso.com>
+X-cc: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Keoni,
+
+Attached you will find the memo you have been looking for regarding March meter data issues.
+
+If you have any questions please give me a call.
+
+ 
+
+Thanks - MO
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <25245100.1075858521758.JavaMail.evans@thyme>
+Date: Tue, 24 Jul 2001 15:44:14 -0700 (PDT)
+From: p..o'neil@enron.com
+To: evan.hughes@enron.com
+Subject: CRC Project Log
+Cc: f..herod@enron.com, chris.stokley@enron.com, jeff.richter@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: f..herod@enron.com, chris.stokley@enron.com, jeff.richter@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Hughes, Evan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=1131ec5f-7e48d039-8625692f-52ea2e>
+X-cc: Herod, Brenda F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bherod>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>, Richter, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jrichte>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Even,
+
+Who do I need to contact to see a copy of the current Enron to CSC project request log.
+
+Do we have a listing which contains the following information:
+
+Request description
+Requestor
+Date of request
+Quantifiable justification for request
+Cost to Enron for CSC to do the request
+Enron's priority of request
+Enron's preferred date of completion
+CSC targeted date of completion.
+CSC current status (% complete)
+
+Is there a formal reporting process of these requests and is there a group who manages the priorities to make sure they are in-line with the current business needs.
+
+Can you also tell me if CSC is off on their cost estimate for doing a project does Enron get billed actual project cost or just estimated costs?
+
+Any information you can provide related to this request would be appreciated.
+
+Thanks - MO
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <28519087.1075858521940.JavaMail.evans@thyme>
+Date: Thu, 28 Jun 2001 11:36:52 -0700 (PDT)
+From: p..o'neil@enron.com
+To: alan.comnes@enron.com, james.steffes@enron.com, ray.alvarez@enron.com
+Subject: RE: Underscheduling Penalty--CONFIDENTIAL
+Cc: c..hall@enron.com, susan.mara@enron.com, dave.perrino@enron.com,
+	tim.belden@enron.com, chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: c..hall@enron.com, susan.mara@enron.com, dave.perrino@enron.com,
+	tim.belden@enron.com, chris.stokley@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Comnes, Alan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Acomnes>, Steffes, James </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=afb3d0fa-ccb03d20-86256962-56fda5>, Alvarez, Ray </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=ebe4476b-2d94882a-86256a14-75ff3b>
+X-cc: Hall, Steve C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Shall4>, Mara, Susan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=8a20ece9-992cf340-8625697d-7146e9>, Perrino, Dave </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=13e30736-7885e1b0-86256a31-56095b>, Belden, Tim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tbelden>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Alan,
+
+This is a very valid question and one which was asked by Steve Hall about 6 weeks ago.  We have been working with the ISO the get the following information.
+
+Based on the latest information provided by the ISO Client Reps.  Enron would be eligible for receiving part of the Allocation.  There were some questions regarding this in the past because, the tariff was written in our favor to receive part of this allocation but the Settlement documentation by the ISO did not represent the same.
+
+Per John Gooden at the ISO
+
+The CT 1480 is used to allocate the revenues received by the ISO through CT 480.  Such revenues will be allocated to the SCs with a positive Uninstructed Demand Deviation and to those with a negative Uninstructed Demand Deviation with a magnitude less than or equal to 5% of the metered Demand.  These SCs will receive revenues based on the ratio of each SC's metered demand to the sum of all such SCs metered demand in the control area.
+
+Chris Stokley has placed a request with the ISO to provide us with information indicating how much of this has been allocated to Enron.  If they are truly calculating this today they should not have any problems providing this information.
+
+If you have any additional questions please let me know.
+
+Thanks - MO
+
+
+ -----Original Message-----
+From: 	Comnes, Alan  
+Sent:	Wednesday, June 27, 2001 2:56 PM
+To:	Steffes, James; Alvarez, Ray
+Cc:	Hall, Steve C.; Mara, Susan; Perrino, Dave; O'Neil, Murray P.; Belden, Tim
+Subject:	Underscheduling Penalty--CONFIDENTIAL
+
+The Calif. EOB has released information on the size of the FERC-approved, tracked, but-as-yet-unimplemented underscheduling penalty.
+
+See the attached PDF file, especially the figures in the attachment at the end.
+
+The total liability for PG&E and SCE is approaching $1billion. (EOB says that DWR is off the hook but I am not sure that is true.)
+
+As a generally balanced SC, Enron would likely be eligible for some of these proceeds.  How the proceeds would be allocated is less than fully clear.  MURRAY O'NEIL: Have you seen anything on who would receive the revenues from this tracking A/C if it were to be billed and paid?)
+
+Also the probability of ever extracting these $s out of noncreditworthy counter parties must be taken into account.
+
+Alan Comnes
+
+ << File: EOB Request for Rehearing June 14.pdf >> 
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <818385.1075858521271.JavaMail.evans@thyme>
+Date: Mon, 20 Aug 2001 06:11:17 -0700 (PDT)
+From: p..o'neil@enron.com
+To: chris.stokley@enron.com
+Subject: FW: Power Task Force - Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Chris,
+
+We need to see what we need to do to get access to this meeting.  I'm going=
+ to forward Kathy Sheppard this message and ask her to coordinate getting i=
+t on our schedule.
+
+MO
+
+ -----Original Message-----
+From: =09John, Mary =20
+Sent:=09Friday, August 10, 2001 11:40 AM
+To:=09O'Neil, Murray P.
+Cc:=09Juden, Michelle
+Subject:=09Power Task Force - Update
+
+Michelle,
+
+Murray would like to attend future power meetings.  He works with Brenda He=
+rod in the Operations Group.
+
+Mary
+---------------------- Forwarded by Mary John/HOU/EES on 08/10/2001 11:37 A=
+M ---------------------------
+
+=09Enron Energy Services  From:  Michelle Juden                           0=
+8/07/2001 01:43 PM Phone No: 713-853-3192=09
+=09=09
+
+
+
+
+To:=09Mark Kiddle/HOU/EES@EES <mailto:Kiddle/HOU/EES@EES>, John D Burrows/H=
+OU/EES@EES <mailto:Burrows/HOU/EES@EES>, Humberto Cubillos-Uejbe/HOU/EES@EE=
+S <mailto:Cubillos-Uejbe/HOU/EES@EES>, Molly Harris/Enron@EnronXGate <mailt=
+o:Harris/Enron@EnronXGate>, Eric Letke/HOU/EES@EES <mailto:Letke/HOU/EES@EE=
+S>, Jennifer Hillegonds/HOU/EES@EES <mailto:Hillegonds/HOU/EES@EES>, Greg N=
+ikkel/HOU/EES@EES <mailto:Nikkel/HOU/EES@EES>, Mary John/HOU/EES@EES <mailt=
+o:John/HOU/EES@EES>, Richard Miller/HOU/EES@EES <mailto:Miller/HOU/EES@EES>=
+, Erling Brakke/HOU/EES@EES <mailto:Brakke/HOU/EES@EES>, Karen Cutler/HOU/E=
+ES@EES <mailto:Cutler/HOU/EES@EES>, Jeff Cobb/HOU/EES@EES <mailto:Cobb/HOU/=
+EES@EES>, Roger Persson/HOU/EES@EES <mailto:Persson/HOU/EES@EES>, Shelly St=
+ubbs/Enron@EnronXGate <mailto:Stubbs/Enron@EnronXGate>, Dwight Fruge/HOU/EE=
+S@EES <mailto:Fruge/HOU/EES@EES>, Mary Lynne Ruffer/HOU/EES@EES <mailto:Ruf=
+fer/HOU/EES@EES>, Lyman Wilkes/HOU/EES@EES <mailto:Wilkes/HOU/EES@EES>, Ste=
+ve Kerman/HOU/EES@EES <mailto:Kerman/HOU/EES@EES>, Nicole Schwartz/HOU/EES@=
+EES <mailto:Schwartz/HOU/EES@EES>, Jennifer Rudolph/HOU/EES@EES <mailto:Rud=
+olph/HOU/EES@EES>, Jennifer Smith/ENRON@enronXgate <mailto:Smith/ENRON@enro=
+nXgate>, Jay Bhatty/HOU/EES@EES <mailto:Bhatty/HOU/EES@EES>, Teresa Seibel/=
+Enron@EnronXGate <mailto:Seibel/Enron@EnronXGate>, Cassandra Alston/HOU/EES=
+@EES <mailto:Alston/HOU/EES@EES>, Mary Jo Johnson/HOU/EES@EES <mailto:Johns=
+on/HOU/EES@EES>, Mark Courtney/HOU/EES@EES <mailto:Courtney/HOU/EES@EES>, C=
+onnie Estrems/HOU/EES@EES <mailto:Estrems/HOU/EES@EES>, Phil Layton/HOU/EES=
+@EES <mailto:Layton/HOU/EES@EES>, Deborah D Merril/HOU/EES@EES <mailto:Merr=
+il/HOU/EES@EES>
+cc:=09Robert Bailey/HOU/EES@EES <mailto:Bailey/HOU/EES@EES>, Mallik Avs/HOU=
+/EES@EES <mailto:Avs/HOU/EES@EES>, Beth Apollo/Enron@EnronXGate <mailto:Apo=
+llo/Enron@EnronXGate>=20
+Subject:=09Power Task Force - Update
+
+I want to update you all as to what I have been doing.  I have had individu=
+al meetings with Product Development, Legal, the Transisiton Tool team, Ori=
+gination (with more meetings needed), Credit, Power Risk Book, and a brief =
+meeting with Site Profile (with more to come).  Attached is the status upda=
+te on the Outstanding Issues that we identified in our last meeting.  There=
+ are still some things that need to be worked out - still some automation t=
+hat needs to take place, real-time pricing decision, etc.  I would like to =
+get together again briefly as a group on Thursday to discuss.  I will send =
+out an invitation as soon as I have a time and a room. =20
+
+Please let me know if you have any questions or issues to add.
+
+Thanks!
+Michelle Juden
+=20
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <26749764.1075858520936.JavaMail.evans@thyme>
+Date: Wed, 19 Sep 2001 06:59:20 -0700 (PDT)
+From: p..o'neil@enron.com
+To: kristin.albrecht@enron.com
+Subject: RE: RPS Dump
+Cc: chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: chris.stokley@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Albrecht, Kristin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kalbrec>
+X-cc: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+The original request should have been from 97 to current.  Not just '01.
+
+Chris, Can you please follow up on this?
+
+Thanks - MO
+
+ -----Original Message-----
+From: 	Albrecht, Kristin  
+Sent:	Friday, September 14, 2001 9:27 AM
+To:	O'Neil, Murray P.
+Subject:	FW: RPS Dump
+
+??????
+
+ -----Original Message-----
+From: 	Fisher, Steven  
+Sent:	Monday, September 10, 2001 9:43 AM
+To:	Albrecht, Kristin; Stokley, Chris
+Subject:	RPS Dump
+
+I was reviewing the data dump request from Scott to Todd Taylor and wondered if this was sufficient for the settlement side of this project.  We have only requested usage for 2001 and I would believe that we would need usage information for 97 to 00.  Are we getting this from another source?  Should we stop the current request and modify or can we add this to the database with the next RPS dump request?  Any thoughts would be appreciated.
+
+Steve
+x58240
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <16011315.1075858522009.JavaMail.evans@thyme>
+Date: Wed, 27 Jun 2001 07:50:11 -0700 (PDT)
+From: p..o'neil@enron.com
+To: andrew.hawthorn@enron.com
+Subject: RE: Terminal Server Timeout Setting
+Cc: mgmt.dl-portland@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: mgmt.dl-portland@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Hawthorn, Andrew </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ahawtho>
+X-cc: DL-Portland Volume Mgmt </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DL-PortlandVolumeMgmt>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Andrew,
+
+As of Monday we completed our historical catch up process.  You should be able to re-implement your standard TS cycle process.
+
+Thanks for all your cooperation. - MO
+
+ -----Original Message-----
+From: 	Hawthorn, Andrew  
+Sent:	Tuesday, June 26, 2001 3:57 PM
+To:	O'Neil, Murray P.
+Subject:	RE: Terminal Server Timeout Setting
+
+Murray:
+
+Are you all still needing a server without timeout settings on it or can I put the server back into production?
+
+Andrew
+
+ -----Original Message-----
+From: 	O'Neil, Murray P.  
+Sent:	Wednesday, June 06, 2001 10:05 AM
+To:	Hawthorn, Andrew
+Subject:	RE: Terminal Server Timeout Setting
+
+Andrew,
+
+We still need to have one TS which has no timeout on it.  I will estimate and say that we will need this for another 3 weeks.  We have gotten a lot of work done over the past month but still have about 3 months remaining to actualize.
+
+If you have any questions please give me a call.
+
+Thanks - MO
+
+ -----Original Message-----
+From: 	Hawthorn, Andrew  
+Sent:	Tuesday, June 05, 2001 9:36 PM
+To:	Stokley, Chris; O'Neil, Murray P.
+Cc:	Dietrich, Dan; Steiner, David
+Subject:	Terminal Server Timeout Setting
+
+Gentlemen:
+
+Do I need to continue to have a terminal server that does not have a timeout setting or may I return all of the servers to their normal state?  If so, can you give me an estimate of how much longer?
+
+Thanks.
+
+Andrew
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <6932625.1075858521688.JavaMail.evans@thyme>
+Date: Wed, 25 Jul 2001 15:45:50 -0700 (PDT)
+From: p..o'neil@enron.com
+To: chris.stokley@enron.com
+Subject: FW: Board Slides_7_25_01.ppt not posted
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+FYI...MO
+
+-----Original Message-----
+From: 	Almeida, Keoni [mailto:KAlmeida@caiso.com] 
+Sent:	Wednesday, July 25, 2001 5:33 PM
+To:	Foster, Chris H.; Frankeny, Kevin; O'Neil, Murray P.; Schopp, Don
+Subject:	Board Slides_7_25_01.ppt not posted
+
+ <<Board Slides_7_25_01.ppt>> I did not see the attached board presentation posted on the Web.  The presentation was just given but I thought you may find this informative.  
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <15124167.1075858522279.JavaMail.evans@thyme>
+Date: Mon, 16 Apr 2001 22:22:00 -0700 (PDT)
+From: p..o'neil@enron.com
+To: andrew.hawthorn@enron.com
+Subject: FW: PDX Term Serv Issues
+Cc: david.steiner@enron.com, chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: david.steiner@enron.com, chris.stokley@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Hawthorn, Andrew </O=ENRON/OU=NA/CN=RECIPIENTS/CN=AHAWTHO>
+X-cc: Steiner, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DSTEINE2>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Andrew,
+
+As discussed numerous times in the past, the Volume Management terminal server utilization / demands change frequently.  The Volume Management team has been directed by the application development group to re-run all of the reconciliation tools for September-00 through January-01.  For some reason when running this tool over the past two week the tool is taking exceptionally long.  It used to take 20 - 30 min to run for one day.  It has been known to take up to 2 hours during the last couple of weeks to complete one day.  On the average when we have to re-run for a month we don't run it day by day.  However, the amount of time required is still in excess of 2 or 3 hr window provided.  These job will take anywhere from 6 to 10 hr for an entire month. 
+
+The dollar amounts associated with the settlements which need to be recalculated and distributed are in excess of $70 mil.  and our customers are growing inpatient in receiving their money.
+
+Please remove the terminal server restriction on at least one of the terminal servers through 4/27/01.  If all goes well we should be successful in completing our efforts by then.
+
+In the future when contacted by Dave Steiner with a request like this it, would be appreciated if you would take action without requesting a email from me.  We discussed with Dave what was needed and I see where someone in Houston made the decision that this was not an emergency.  Until that individual knows what is happening in our office on a real-time basis (Like Dave Does), I feel they should let the West Power Desk make that decision.  The Application Integration group can support us by helping us meet the objectives rather then act as an additional hurdle.
+
+If you have any questions please feel free to give me a call.  My cell number is 503-702-9846.
+
+
+---------------------- Forwarded by Murray P O'Neil/HOU/ECT on 04/16/2001 04:55 PM ---------------------------
+From:	David Steiner/ENRON@enronXgate on 04/16/2001 05:09 PM CDT
+To:	Murray P O'Neil/HOU/ECT@ECT, Chris Stokley/HOU/ECT@ECT
+cc:	 
+Subject:	FW: PDX Term Serv Issues
+
+FYI
+ 
+-----Original Message-----
+From: Hawthorn, Andrew 
+Sent: Monday, April 16, 2001 3:05 PM
+To: Steiner, David; Ray, Edward
+Subject: RE: PDX Term Serv Issues
+
+
+Dave:
+ 
+Timeout restrictions have been lifted on NAHOU-TRDTS1.  Have the users who require no timeout connect directly to this server.  Timeout restrictions will be put back into place at 5:00 P.M. CDT, tomorrow, April 17, 2001.  Any requirements for timeout restrictions to be lifted past that point will require an email message from Murray O'Neil.
+ 
+Andrew
+
+-----Original Message----- 
+From: Steiner, David 
+Sent: Mon 4/16/2001 4:55 PM 
+To: Ray, Edward 
+Cc: Hawthorn, Andrew 
+Subject: RE: PDX Term Serv Issues
+
+
+
+Eddie, 
+        Murray O'Neil, the Sr. Director over this group does consider this an immediate emergency.  I am sorry if I did not make that clear.  I would appreciate any help you can give me on this, I am willing to do whatever I can if anything to make this happen today as Murray is very motivated.
+
+Please let me know 
+
+Dave 
+
+	 -----Original Message----- 
+From:   Ray, Edward  
+Sent:   Monday, April 16, 2001 2:37 PM 
+To:     Steiner, David 
+Cc:     Hawthorn, Andrew 
+Subject:        RE: PDX Term Serv Issues 
+
+	David this would not be an emergency issue. I will address it with Andrew tomorrow morning. The user must maintain an "Active" connection to keep their session alive. I believe it is set to 3hrs but I will check.    
+
+	Andrew, 
+
+	We will discuss tomorrow AM 
+
+	 -----Original Message----- 
+From:   Steiner, David  
+Sent:   Monday, April 16, 2001 4:28 PM 
+To:     Ray, Edward 
+Subject:        PDX Term Serv Issues 
+
+	Eddie, 
+        The immediate issue is that our Volume Management Group run almost exclusively through Term Serv.  The processes they run far longer than the time out allows (they are getting bumped off due to some inactivity time limit).  They have a very critical need to have this limit extended or removed.  I don't know if we can by user, machine or even at all? 
+
+	Please let me know 
+
+	Regards 
+
+	Dave 
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <21703181.1075858522232.JavaMail.evans@thyme>
+Date: Thu, 3 May 2001 16:46:04 -0700 (PDT)
+From: p..o'neil@enron.com
+To: scotty.gilbert@enron.com, richard.mckeel@enron.com,
+	frank.hoogendoorn@enron.com, steve.nat@enron.com
+Subject: Follow-up Discussion on Calgary Retail Market System Solutions
+Cc: chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: chris.stokley@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Gilbert, Scotty </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=48dbfa81-a3a459d9-86256496-4c03e6>, McKeel, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=4718c682-c147a4a9-862564b8-70e1fb>, Hoogendoorn, Frank </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=668c806f-e313734f-8625697d-724802>, Nat, Steve </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Snat>
+X-cc: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+All,
+
+I have included Steve Nat on this email so he too can be up to pace with our discussions.
+
+I have almost completed reviewing everything I have received from you.  I would like to schedule a meeting to talk again tomorrow.
+
+I am having an AT&T Conf. Call scheduled for 1pm Pacific Time tomorrow.  If I recall correctly, we agreed on our last call that we would attempt to have follow-up on Friday about the same time as our call on Wednesday.  (I will forward the call information as soon as our admin has it set up)
+
+Up to this point I have not seen anything which concerns me regarding functionality of VMS, and Power Meter Data DB.  I do however hove some questions and concerns regarding some of the fundamentals of how Enron will / is participating in the market and from a P&L perspective how will things be reported?
+
+Q1 - What is the upside to being in the Alberta Retail Market and how will this be valued and where will it be actualized?
+Q2 - Who will be supporting the standard business functions in the Calgary office for the Retail Market activity? (Forecasting, Trade Capture,  Volume Management, Settlements, Customer Service and Financial Reporting)
+Q3 - Is there a standard FTP established for all of the electronic files being distributed through out the participants?
+Q4 - What is driving the September 1 implementation date?
+Q5 - Is the Calgary office going to attempt to perform services for any of the other components of the WSP's (MSM's, LSA's, MDM's or Tariff Calculation)?
+Q6 - Has anyone looked at the Retail billing system which is currently in the EES shop?
+Q7 - Is anyone in the Application development / Support Group in Houston (Beth Perlman's World) involved in assisting Calgary with identifying solutions for the Retail Market?
+Q8 - How many different billing cycles will Enron Canada have with their Retail customers (Will you maintain the billing cycle which each customer is already on?)
+Q9 - Is there a scheduling requirement with this Retail Market?  (I would think that you are going to need to provide a link between Wholesale Purchases and Retail Usage / billing)
+Q10 - Is there additional information regarding Customer Information System (CIS) Requirements.  I see where you need to be able to store Site information, Enrolling information, Energizing & De-Energizing.  What about billing cycles, Equal pay plans, Contact information?
+
+
+My observations based on documentation and the Wednesday phone conversation:
+					
+	Pros	Cons	
+VMS	Can support all of the tariff calculations documented.  We are also in the process of implementing the dispute management function of VMS.  VMS manages transactions by exception.  We estimate what the charge should come out to then validate that against statements from WSP then dispute the exceptions)	Resources Available to assist with Implementation	
+Power Meter Data DB	Should be able to hold all meter data activity	Resources Available to assist with Implementation	
+PMI	(Public Market Information) Appears to fit into current structures	Resources Available to assist with Implementation	
+CIS / Site profile	EES Peace Software tool has functionality built in	I don't currently know that status of this tool and what it would take to set up for your market	
+Load Profiling /  Scheduling	Required?	?	
+Deal / Trade Capture	Required?	?	
+Billing	EES Peace Software tool has functionality built in	I don't currently know that status of this tool and what it would take to set up for your market Unify would require Integration with EnPower and all global tables. Resources may be an issue.	
+Delivery Point Management 	Global Facility already has the base functionality needed	Implementation may require some software / DB changes. Resources may be an issue	
+Contract Management	Global Contracts already has the base functionality needed	Implementation will require addition DB & software changes. Resources may be an issue	
+
+I hope that we can answer a number of the questions and validate your approach to participating in the Alberta Retail market tomorrow on your call.
+
+Here are the teleconference details.
+
+Time:  1 PM - 3 PM (Pacific Daylight Time)
+
+Participant Dial-In:  877.233.7845 (Dial 505.766.5458, if toll-free is not available from outside the US)
+Participant Code:  287753
+
+For Murray O'Neil
+Host Dial-In:  877.233.7845
+Host Code:  788462
+
+If you have any question for me prior to the call please let give me a call @ 503-702-9846.
+
+Thanks - MO
+
+	
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <1843143.1075858520666.JavaMail.evans@thyme>
+Date: Tue, 2 Oct 2001 06:41:27 -0700 (PDT)
+From: p..o'neil@enron.com
+To: neal'.'symms@enron.com
+Subject: FW: MD Billing Issues
+Cc: jason.woodward@enron.com, gillian.johnson@enron.com, chris.stokley@enron.com,
+	mark.denner@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jason.woodward@enron.com, gillian.johnson@enron.com, chris.stokley@enron.com,
+	mark.denner@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: 'Symms, Neal' </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=34411736-f3b4833-88256936-5389bd>
+X-cc: Woodward, Jason </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=1b1056c3-45b6b374-862568b9-6f2a1a>, Johnson, Gillian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=3e222190-9c017a5e-86256a25-5553fd>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>, Denner, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=1db2354e-709a6fde-862568a8-671af3>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Neal,
+
+Do we already have access to the RT prices they are talking about?  Does EPMI have them and is it something we can use?
+
+Jason,  I could not find Victor in the address book to forward this on.  Can you please make sure he gets this.
+
+Victor,  Please coordinate with Patti Thompson.  She is handling my schedule currently.  
+
+Thanks - MO
+
+ -----Original Message-----
+From: 	Gonzalez, Victor  
+Sent:	Thursday, September 27, 2001 8:35 AM
+To:	O'Neil, Murray P.
+Cc:	Blanks, Tom; Woodward, Jason; Johnson, Gillian
+Subject:	MD Billing Issues
+Importance:	High
+
+Murray,
+Tom Blanks and I met with Gillian Johnson, part of EES structuring/origination, to discuss electricity billing issues in the Maryland market.  This market requires UDC consolidated billing and our sales group is requesting real time pricing.  The current potential in this market is approximately 400 accounts.
+To that end, we need to discuss with you the billings options to comply with the above request.  One issue that Jason and I discussed was the cost associated with the setup of real time pricing - and how to properly price for cost recovery.
+
+Tom and I (and maybe Jason) would like to meet with you to discuss options.  Please let  me know you availability.
+
+Thanks,
+Victor
+---------------------- Forwarded by Victor Gonzalez/HOU/EES on 09/27/2001 08:22 AM ---------------------------
+
+	Enron Energy Services  From:  Gillian Johnson                           09/26/2001 06:58 PM Phone No: 713-853-9939   Pager 888-757-8535	
+		
+
+
+
+
+To:	Victor Gonzalez/HOU/EES@EES <mailto:Gonzalez/HOU/EES@EES>, Tom Blanks/HOU/EES@EES <mailto:Blanks/HOU/EES@EES>
+cc:	Bob Hansen/HOU/EES@EES <mailto:Hansen/HOU/EES@EES>, John D Burrows/HOU/EES@EES <mailto:Burrows/HOU/EES@EES>, Rebecca Fite/HOU/EES@EES <mailto:Fite/HOU/EES@EES>, James M Wood/HOU/EES@EES <mailto:Wood/HOU/EES@EES>, murray.p.o'neil@enron.com, Arthur Goldsmith/HOU/EES@EES <mailto:Goldsmith/HOU/EES@EES> 
+Subject:	MD Billing Issues
+
+As a follow up to our conversation, for Schedule P customers, I currently envision a scenario where we will go with UDC consolidated billing and send a monthly check to customers to cover the incentive payment based on the anticipated usage stipulated in the contract.  If the customer pushes back on using anticipated usage and insists on the greater of actual or anticipated, we will inform Origination that they will have to take a margin hit to cover the true up costs in order to manage this scenario.  We would likely just do one true up in July 2002 or quarterly, if necessary.  This applies to both the index and fixed retail gen products.
+
+The additional issues around the index product are related to gathering the data necessary to bill a "real time" product.  BGE provides suppliers access to something called "Interval Load Data Access Service" for a cost of $1/customer account/month.  I do not know in what form we will receive this data but if I were to guess, they will provide us with access to a website.  From our conversation, I do not believe that this is ideal for you based on your current processes.  There is a possibility that they can provide it via EDI.  Could you please confirm how you prefer to receive data?
+
+Another issue is related to the hourly, daily or monthly pricing data that must also be gathered to compile an aggregated price.  We have asked for some input from the desk on both the product and the billing issues.  I will keep you in the loop on the response.  I am also eager to meet with Murray so that we can get an estimate of what our price would be if it is necessary for the EWS Billing Operations group to coordinate the gathering of all of this data instead of the desk.
+
+Lastly, I think that the issue of the number of lines allowed on the BGE bill is not a concern.  I quote from the BGE Electricity Supplier Manual below.  
+
+"Bill Image Requirements: 
+supplier's name is limited  to 28 characters
+there is no defined limit to the number of billing determinants the supplier can send (should the number of bill pages exceed BGE's mail weight limit, Supplier Acct Mgmt (BGE) will contact the supplier to determine a resolution
+the description of the billing determinant is limited to 18 characters
+supplier rates are limited to 8 characters
+..."
+
+Bob and I look forward to getting a meeting set up with Murray O'Neil as quickly as possible.  We will be doing a direct mail campaign and our Origination efforts begin in earnest next week so we are eager to get this second product on the list of available products as quickly as possible and must get these billing issues resolved ASAP.
+
+Thanks for your help in getting this resolved!
+
+Gillian
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <17247053.1075858522053.JavaMail.evans@thyme>
+Date: Tue, 26 Jun 2001 09:17:40 -0700 (PDT)
+From: p..o'neil@enron.com
+To: chris.stokley@enron.com
+Subject: FW: Gutenberg documentation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+FYI?MO
+
+ -----Original Message-----
+From: 	Dickson, Glenn  
+Sent:	Tuesday, June 26, 2001 7:40 AM
+To:	O'Neil, Murray P.
+Cc:	Herrera, Juan
+Subject:	Gutenberg documentation
+
+Murray, thanks for your interest in leveraging the Gutenberg work.  Here's the draft Overview.  The visio documents are not the most current, but I've asked the consultants to produce a binder this morning and also e-mail you all of the most current process flows as well as the Pricing and Booking disconnect detail you requested.
+
+I 'd like very much to learn more how you would see expediting progress through the EWS processes and tools, and hope you'll work with us as soon as possible to see what might be possible.
+
+Glenn	 
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <18620496.1075858520738.JavaMail.evans@thyme>
+Date: Mon, 1 Oct 2001 11:06:27 -0700 (PDT)
+From: p..o'neil@enron.com
+To: arthur.goldsmith@enron.com
+Subject: RE: Aggregation Deals
+Cc: mark.denner@enron.com, chris.stokley@enron.com, f..herod@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: mark.denner@enron.com, chris.stokley@enron.com, f..herod@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Goldsmith, Arthur </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=7605ac09-636be657-862564ce-66c185>
+X-cc: Denner, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=1db2354e-709a6fde-862568a8-671af3>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>, Herod, Brenda F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bherod>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Arthur,
+
+Please include Mark Denner and Chris Stokley in any future discussions.  
+
+Mark is responsible for customer invoicing and Chris is responsible for developing the consumption band calculations (Volume Management).  
+
+Please also include Brenda Herod and myself so we are up to date on activities.
+
+Thanks - MO
+
+ -----Original Message-----
+From: 	Goldsmith, Arthur  
+Sent:	Friday, September 28, 2001 4:19 PM
+To:	O'Neil, Murray P.; Woodward, Jason
+Cc:	Blanks, Tom; Woodward, Jason; Anzalone, Phyllis; Gonzalez, Victor; Shields, Craig
+Subject:	Aggregation Deals
+
+In recent meetings regarding the development of our aggregation book of business, there have been issues raised that will have a direct impact on Operations as we move ahead with these deals.  My concern surrounds scalability.  We appear to be introducing concepts that may not be aligned with the approach to have low-touch billing which can be completed with an automated process.
+
+First, the contracts include a 110% consumption band with amounts in excess of this band being charged to the entities contributing to the excess.  Operations needs to have access to both the current and baseline monthly data in order to complete this calculation.  Further, the consumption needs to be allocated to those members contributing to the excess and a price applied for invoicing.
+
+Second, the aggregators RFP's all call for EES to collect their fee and remit it back to them.  There are different methods of determining this amount, as addressed in a separate email copied to you, and this too requires Operations resources.
+
+Third, pricing settlement calculations call for the comparison of weighted average hourly index charge versus the EES contract rate for the month.  This data would be available from the Baseline group, and the information exchange process needs to be clearly spelled.
+
+Finally, a savings report that compares the PTB in Texas to the contract rate needs to be developed.  We have been able to get across the message that a report is better than the need to show savings on the invoice.  Again, the information exchange process and the manpower needs have to be developed.
+
+Let me know who is the best contact person in your group, and we will keep you up to date on these issues.
+
+Thanks,
+Arthur
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <748371.1075858521916.JavaMail.evans@thyme>
+Date: Tue, 3 Jul 2001 18:03:03 -0700 (PDT)
+From: p..o'neil@enron.com
+To: jeff.richter@enron.com, tim.belden@enron.com
+Subject: Murray's Update Notes from Week Ending 6/30/2001
+Cc: chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: chris.stokley@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Richter, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jrichte>, Belden, Tim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tbelden>
+X-cc: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Attached are my notes from my first week of EES Transition involvement.
+
+I will attempt to publish updates every week.  In the future as my knowledge grows I will include others in the distribution.  (Don & Rogers?)  I just wanted to make sure that I was letting you know what I have seen, learned or been doing.
+
+If you have any questions please let me know.
+
+ 
+
+Thanks - MO
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <31394376.1075858520642.JavaMail.evans@thyme>
+Date: Fri, 21 Sep 2001 06:30:45 -0700 (PDT)
+From: 40enron@enron.com
+To: greg.wolfe@enron.com, mallik.avs@enron.com, chris.stokley@enron.com,
+	florence.zoes@enron.com, wendy.gonzalez@enron.com
+Subject: Reschedule - Consumption Band Pricing - ECN612 (26 Sept 01:00 PM
+ CDT)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Paige Grumulaitis/HOU/EES@EES@ENRON <IMCEANOTES-Paige+20Grumulaitis_HOU_EES+40EES+40ENRON@ENRON.com>
+X-To: Wolfe, Greg </O=ENRON/OU=NA/CN=RECIPIENTS/CN=GWOLFE>, Avs, Mallik </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MAVS>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>, Zoes, Florence </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=46E2CC10-8BD33306-86256A07-8064CD>, Gonzalez, Wendy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=WGONZAL>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+PLEASE NOTE:  CHANGE IN DATE, TIME AND LOCATION.
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <13744228.1075858521159.JavaMail.evans@thyme>
+Date: Mon, 10 Sep 2001 08:25:25 -0700 (PDT)
+From: p..o'neil@enron.com
+To: chris.stokley@enron.com
+Subject: FW: Group Reviews
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+These are the people who will be reporting to you starting next week.
+
+MO
+
+ -----Original Message-----
+From: 	Phillips, George  
+Sent:	Friday, September 07, 2001 11:22 AM
+To:	O'Neil, Murray P.
+Subject:	Group Reviews
+
+Per our conversation today, attached are the groups' reviews.
+
+  
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <3676766.1075858522209.JavaMail.evans@thyme>
+Date: Tue, 29 May 2001 08:01:18 -0700 (PDT)
+From: p..o'neil@enron.com
+To: chris.stokley@enron.com
+Subject: RE: SQMD AUDIT INFO
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Chris,  I thought when we looked at this last week you were just going to cut and paste from Notes to Outlook.  We did that with one of the email on Friday.
+
+MO
+
+ -----Original Message-----
+From: 	Stokley, Chris  
+Sent:	Monday, May 28, 2001 10:40 PM
+To:	O'Neil, Murray P.
+Subject:	SQMD AUDIT INFO
+
+Murray,
+
+	I tried to send Mechelle the SQMD documents through the old Lotus Notes, but it would not allow me to do so. I will give you a call in the morning so we can discuss a work around. I know that Donna was able to send me an e-mail from Lotus Notes just last week.
+
+
+							Chris
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <17062729.1075858522302.JavaMail.evans@thyme>
+Date: Sun, 8 Apr 2001 17:24:00 -0700 (PDT)
+From: p..o'neil@enron.com
+To: tracy.ngo@enron.com
+Subject: CAISO Notice - Additional Payments on November 2000 Invoice
+Cc: chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: chris.stokley@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Ngo, Tracy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=TNGO>
+X-cc: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Tracy, If you take the original shortfall position into consideration.  There were only two companies who paid any portion of the shortfalls (PX and Koch).
+
+MO
+---------------------- Forwarded by Murray P O'Neil/HOU/ECT on 04/08/2001 12:29 PM ---------------------------
+
+
+Steve C Hall
+02/12/2001 03:46 PM
+To:	Murray P O'Neil/HOU/ECT@ECT, Chris Stokley/HOU/ECT@ECT
+cc:	 
+Subject:	CAISO Notice - Additional Payments on November 2000 Invoice
+
+Any word on how much the ISO will be paying us for Nov. real time, now that it has an extra $150 million?
+---------------------- Forwarded by Steve C Hall/PDX/ECT on 02/12/2001 03:50 PM ---------------------------
+
+
+"Woertz, Byron" <BWoertz@caiso.com> on 02/12/2001 02:31:49 PM
+To:	ISO Market Participants <IMCEAEX-_O=CAISO_OU=CORPORATE_CN=DISTRIBUTION+20LISTS_CN=ISO+20MARKET+20PARTICIPANTS@caiso.com>
+cc:	"Morrison, Stephen" <SMorrison@caiso.com>, "Anders, John"	 <JAnders@caiso.com>, "Epstein, Michael" <MEpstein@caiso.com> 
+
+Subject:	CAISO Notice - Additional Payments on November 2000 Invoice
+
+
+		ISO Market Participants:
+
+		On Friday, February 8, 2001, the ISO received payments from
+certain parties that had defaulted (either in part or whole) on their
+previous obligations to the ISO, due on February 2, 2001 (based on the
+November 2000 preliminary invoices).
+
+		As a result of these payments the total funds which became
+available for distribution to Market Participants were $149,333,046.54.  The
+ISO instructed its bank to distribute pro rata payments on Friday based on
+this amount.
+
+		The ISO distributed these payments in accordance with ISO
+Tariff Section 11 and Settlements and Billing Protocol ("SABP") Section 6.
+
+		A reconciliation of amounts received with the amount
+distributed follows:
+
+Payments Received:
+California Power Exchange	$ 149,349,573.52
+Koch Energy Trading	$              331.73
+Interest on ISO Reserve Account	 $              793.35
+Subtotal	 $ 149,350,698.60
+
+Less:
+Interest Cost on Previous Borrowings on Market Line of Credit	 $
+17,652.06
+
+Total Distributed 2/9/2001	 $ 149,333,046.54
+
+The ISO applied payments due to Market Participants under this distribution
+to first extinguish any outstanding obligations, consistent with SABP 6.10.4
+and 6.10.2:
+
+		SABP 6.10.4
+			The ISO shall apply payments received in respect of
+amounts owing to ISO Creditors to repay the relevant debts in the order of
+the creation of such debts.
+
+		SABP 6.10.2
+			The ISO is authorized to recoup, set off and apply
+any amount, which any defaulting ISO Debtor is or will be entitled, in or
+towards the satisfaction of any of that ISO Debtor's debts arising under the
+ISO Settlement and billing process.  Each ISO Creditor and each ISO Debtor
+expressly acknowledges that the oldest outstanding amounts will be settled
+first in the order of the creation of such debts.
+
+		Michael K. Epstein	Byron Woertz
+		Controller	Director, Client Relations
+ 
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <28693962.1075858522256.JavaMail.evans@thyme>
+Date: Fri, 27 Apr 2001 16:40:00 -0700 (PDT)
+From: p..o'neil@enron.com
+To: volume_management_portland@enron.com
+Subject: Access to new applications
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Volume_Management_Portland <??SVolume_Management_Portland@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Attn. All,
+
+Everyone should have access to the Global application.  (Global Counterparty, Global Facility, Global Contracts, Global Common Codes).  You should be able to find them under your start menu (See below).
+
+If for some reason you do not has access to all of them you will need to put in a security request, requesting them.  In addition to the production application you should also have access to the Test and REP Test applications for each.  (These test applications can be found through your start menu as well under Programs>Development application>Global>
+
+With the implementation of VMS our data processing is directly integrated with these global tables.  All Location, Customer, SE, SA...  will be driven from these tables.  
+
+If you have any questions please give me a shout.
+
+Thanks - MO
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <26068214.1075858520801.JavaMail.evans@thyme>
+Date: Wed, 26 Sep 2001 05:20:36 -0700 (PDT)
+From: p..o'neil@enron.com
+To: lynne.ruffer@enron.com, jeff.richter@enron.com
+Subject: RE: settlement true up
+Cc: laura.prothro@enron.com, kristin.albrecht@enron.com, scott.mills@enron.com,
+	chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: laura.prothro@enron.com, kristin.albrecht@enron.com, scott.mills@enron.com,
+	chris.stokley@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Ruffer, Mary lynne </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mruffer>, Richter, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jrichte>
+X-cc: Prothro, Laura </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lprothro>, Albrecht, Kristin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kalbrec>, Mills, Scott </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Smills>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Jeff,
+
+Based on what I have seen in the detail to this point.  The primary reason for the big hits have been due to what appears to be penalty charges associated to under scheduling.  When Enron De-DASR'ed all of the customers back to the utility in Jan.  EES was not including them in their schedule.  However, the customers were not yet physically moved back over to the utility until a later date.   
+
+The title on this $40MM  has been Ancillary Services.  This is not a true representation of what is being discussed.  We are actually talking about all Market Transmission charges which have been allocated to EES based on their physical load.
+
+The big hits in the months in question are more related to Neutrality/Penalty charges related to A/S.
+
+At this point I have only spend about 1hr looking at the detail.  Chris Stokley will be working with the EES Retail Volume Management group and EPMI Volume Management group today to have them look into a couple of questions regarding detail.
+
+We should have an update for everyone by Friday to let you know the primary reasons flash to actual variance and lateness of reporting.
+
+As for when and what should be reported as a DPR adjustment.
+When:  Jeff and Tim need to talk about when they want to see this hit.
+What:   We have already disputed these periods with the ISO.  There will be no additional disputes on these settlements.  The only thing which may change to impact these $'s is the fact that the ISO is in the process of recalculating 10/00 - 6/01 and the Market rate will be less most likely when EES was short.  This should have a positive impact on what would be booked today.
+
+If you have any questions please let me know.
+
+Hope to have more to update you on by Friday. - MO
+
+ -----Original Message-----
+From: 	Ruffer, Mary lynne  
+Sent:	Wednesday, September 26, 2001 6:40 AM
+To:	Richter, Jeff
+Cc:	Prothro, Laura; O'Neil, Murray P.; Albrecht, Kristin; Mills, Scott
+Subject:	FW: settlement true up
+
+Jeff - We will not know whether this will be included in 3Q until late this week or early next week.  We would like to know whether any of these charges will be disputed with the ISO which would give us some ability to defer to 4Q.  
+
+Murray - Can you respond to Jeff's other questions?  
+
+ -----Original Message-----
+From: 	Richter, Jeff  
+Sent:	Tuesday, September 25, 2001 7:04 PM
+To:	Ruffer, Mary lynne; O'Neil, Murray P.; Albrecht, Kristin; Mills, Scott
+Subject:	settlement true up
+
+Everyone,
+
+I apologize for missing the meeting this afternoon, we had a few fire drills on the desk this afternoon.  Maybe I could get a overview from the meeting tomorrow morning.
+
+A few of my questions are:
+
+Are we going to show this hit in Q3?  
+How do we drill down on each bucket?  
+Do we have the actual meter data for each customer and their site?
+How do we prevent such variances occurring in the future?
+
+Have a great night, 
+Jeff Richter
+
+Jeff Richter                            503.464.3917 (w-pdx)
+Enron North America                            503.701.6488 (c)
+West Power Services                          503.464.3740 (fax)
+121 SW Salmon Street 3WTC0306       jeff.richter@enron.com
+Portland, Oregon  97204
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <11408459.1075858522119.JavaMail.evans@thyme>
+Date: Fri, 15 Jun 2001 13:14:56 -0700 (PDT)
+From: p..o'neil@enron.com
+To: chris.stokley@enron.com
+Subject: FW: West Power Audit Questions
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+FYI?MO
+
+ -----Original Message-----
+From: 	jennifer.l.muse@us.andersen.com@ENRON <mailto:jennifer.l.muse@us.andersen.com@ENRON> [mailto:IMCEANOTES-jennifer+2El+2Emuse+40us+2Eandersen+2Ecom+40ENRON@ENRON.com] <mailto:[mailto:IMCEANOTES-jennifer+2El+2Emuse+40us+2Eandersen+2Ecom+40ENRON@ENRON.com]> 
+Sent:	Friday, June 15, 2001 8:41 AM
+To:	O'Neil, Murray P.
+Cc:	jennifer.stevenson@us.andersen.com <mailto:jennifer.stevenson@us.andersen.com>; tatiana.v.waxler@us.andersen.com <mailto:tatiana.v.waxler@us.andersen.com>
+Subject:	West Power Audit Questions
+
+Murray,
+
+As per our discussion last week, attached is a list of questions/topics
+that we will be addressing as part of our Portland review.  The Portland
+review is currently scheduled for June 25 - 28.  We will let you know if
+there are any changes.
+
+(See attached file: Questions for Murray.doc)
+
+If you have any questions, please feel free to contact me at 713-345-6953
+or Jennifer Stevenson at 713-646-6275.  Thank you,
+
+Jennifer
+*******************Internet Email Confidentiality Footer*******************
+
+
+Privileged/Confidential Information may be contained in this message.  If
+you are not the addressee indicated in this message (or responsible for
+delivery of the message to such person), you may not copy or deliver this
+message to anyone. In such case, you should destroy this message and kindly
+notify the sender by reply email. Please advise immediately if you or your
+employer do not consent to Internet email for messages of this kind.
+Opinions, conclusions and other information in this message that do not
+relate to the official business of my firm shall be understood as neither
+given nor endorsed by it.
+ - Questions for Murray.doc 
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <17530944.1075858522347.JavaMail.evans@thyme>
+Date: Fri, 30 Mar 2001 17:35:00 -0800 (PST)
+From: p..o'neil@enron.com
+To: audrey.cook@enron.com, stanley.cocke@enron.com
+Subject: Latest settlement information for West Desk Service Customers
+ January PX Index Activity
+Cc: h..foster@enron.com, chris.stokley@enron.com, k..ratnala@enron.com,
+	a..allen@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: h..foster@enron.com, chris.stokley@enron.com, k..ratnala@enron.com,
+	a..allen@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Cook, Audrey </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ACOOK>, Cocke Jr., Stanley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SCOCKE>
+X-cc: Foster, Chris H. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CFOSTER>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>, Ratnala, Melissa K. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MRATNAL>, Allen, Thresa A. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=TALLEN>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+All,
+
+Attached is a consolidated report of the service customers which sold energy to EPMI at a PX index price during the month of January,
+
+There are a few items which need to be completed prior to us being able to pay the customers.
+
+There are more customers on this report then need to be processed.
+
+At this point please only process the information for the following customers:
+
+Delano  
+Tosco	  
+Arco  
+Wheelabrator 
+
+All Additional customers will be taken care of after I return to the Portland office on Monday.
+
+Action Items:
+
+1) Stan Cocke needs to get one Annuity per customer put into EnPower.  (Disregard each deal number and put an annuity in for the total customer Annuity amount at the bottom of their activity in the Pivot table.)
+
+2) Stan Cocke needs to notify Audrey cook at the point when Annuity entries have been completed and provide everyone in this email distribution with the deal numbers which contain the annuity amounts for each of the above customers.
+
+3) Based on my conversation with Audrey there should be no existing Annuities in EnPower for this PX index activity which need to be removed.
+
+4) Audrey should schedule settlements with customer to occur on Tuesday 4/3/01.
+
+5) Audrey should provide email back to everyone included in this distribution indicating the total amount being paid to each of the four customers for their PX index activity.
+
+6) Mid Marketing will send out an email to their customer contacts to inform them of the settlement amounts and timing.
+
+We need to take care of this today so we can get these customer paid by Tuesday.
+
+If anyone has questions regarding the content of the worksheet or the action items which need to occur, please give me a call on my cell.  I will not be available after 5pm Central time.  So please make your call early.
+
+ 
+
+Thanks - MO
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <26053302.1075858520762.JavaMail.evans@thyme>
+Date: Thu, 27 Sep 2001 08:03:50 -0700 (PDT)
+From: p..o'neil@enron.com
+To: patti.thompson@enron.com, chris.stokley@enron.com, mark.denner@enron.com
+Subject: FW: Distributed Generation
+Cc: f..herod@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: f..herod@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Thompson, Patti </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pthomps>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>, Denner, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=1db2354e-709a6fde-862568a8-671af3>
+X-cc: Herod, Brenda F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bherod>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Patti,
+
+Please schedule some time with Suzanne and who ever else she wishes to include from her business team.  I would also like to have Mark and Chris participate in the meeting.  I have copied Brenda on here so she can let you know if she wishes to participate.  Please schedule 30min for Chris, Mark and I to meet at a point prior to the meeting with Suzanne.  I want to make sure we have a list of questions formulated when we meet with them so don't make it right before.
+
+Mark & Chris,
+
+I think I have forwarded you a copy of the Distributed Generation proposal Suzanne has already sent out.  Please take a look at it and let's come up with a consolidated list of questions prior to this meeting.  
+
+I'm not quite sure the function of the ROC.  It appears that wholesale has created some redundant function to those we use CSC for today.  (This could be a good thing).
+
+MO
+
+ -----Original Message-----
+From: 	Vann, Suzanne  
+Sent:	Tuesday, September 25, 2001 11:30 AM
+To:	O'Neil, Murray P.
+Subject:	RE: Distributed Generation
+
+Hi Murray.  I am working closely with Victor Gonzalez and Tom Blanks, and they are both familiar with the DG product.  A majority of the questions you asked below concern functions that will be handled by Fred Kelley or Lloyd Will in the Retail Operations Center (ROC).  I put my response to your questions in red below.  Please let me know what day and time is convenient for you to meet and I'll reserve time.
+
+Thanks Murray,
+Suzanne
+713-345-4436
+
+
+From:	Murray P ONeil/ENRON@enronXgate <mailto:ONeil/ENRON@enronXgate> on 09/24/2001 08:00 PM
+To:	Suzanne Vann/HOU/EES@EES <mailto:Vann/HOU/EES@EES>
+cc:	Mark Denner/HOU/EES@EES <mailto:Denner/HOU/EES@EES>, Brenda F Herod/ENRON@enronXgate <mailto:Herod/ENRON@enronXgate> 
+Subject:	RE: Distributed Generation
+
+Suzanne,
+
+I have taken a look at your proposals and it looks like a very attractive product.  There are a few items I'm going to need to research to determine our ability to quickly turn a settlement solution around.  I do not know of any internal automated processes to support the type of billing you are proposing in your deal.  Which mean that everything would be manual.  
+
+This type of settlement is something which is similar to settlement calculations we have performed in our wholesale business in the west.  However.  To feel comfortable that we can settle these deals in the quick turn around time which you have identified (10 days following the end of the month).
+
+I do have a few questions which I would like to discuss with you next week (9/24 - 9/26).
+
+Will we install meters at each facility to ensure we have real-time access to generation / curtailment data? The ROC will install interval meters on each of the DG assets.  We may or may not be able to access the data in reat time.  For LC, we will use a baseline calculation.
+Who are you anticipating will install the meters and perform the MDMA function? The ROC
+Will each contract have the utility / control area market price identified in the contract (Actual Publication being used in settlements)? Yes.  For example, our initial target market is New York Zones J and G.  We will settle with the customer off of the NYISO hourly posted clearing price for the respective zone.
+For invoicing the Generator, Where will the Operation cost be derived from and will it be stated in the contract? The Generator will receive a fixed payment for every MWh they run.  This payment is intended to cover O&M and fuel expenses and it will remain fixed over the life of the contract.
+
+This is the start of my questions.  As I review your proposal further, I'm sure I will have some more.
+
+Thanks - MO
+
+ -----Original Message-----
+From: 	Vann, Suzanne  
+Sent:	Thursday, September 20, 2001 1:17 PM
+To:	O'Neil, Murray P.
+Cc:	Golden, Jeff; Jenkins, Beth
+Subject:	Distributed Generation
+
+Murray,
+
+At your earliest convenience, we would like to discuss billing for the Distributed Generation and Load Curtailment products.  I am re-sending the DG contract and power point presentation for your review.  Please let me know your availability and if you have any questions regarding our products.
+
+Thanks Murray,
+Suzanne Vann
+713-345-4436
+
+ << File: 010918 DG Standard Pitch.ppt >>  << File: DG Contract 010920.doc >> 
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <12758854.1075858521736.JavaMail.evans@thyme>
+Date: Wed, 25 Jul 2001 14:24:34 -0700 (PDT)
+From: p..o'neil@enron.com
+To: paulett.smith@enron.com
+Subject: RE: Meeting Location Change
+Cc: chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: chris.stokley@enron.com
+X-From: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>
+X-To: Smith, Paulett </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=dbfcb773-2c708f7d-8625693c-73fa28>
+X-cc: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mstokle>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Murray
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Paulett,
+
+Can you please add Chris Stokley and I to the Wednesday IT meeting with Anthony Dayao, distribution list.
+
+Thanks - MO
+
+ -----Original Message-----
+From: 	Smith, Paulett  
+Sent:	Wednesday, July 25, 2001 12:03 PM
+To:	Richter, Jeff; Stokley, Chris; O'Neil, Murray P.
+Subject:	Meeting Location Change
+
+Location Change for 2:00pm meeting with Paige Grumulaitis:    EB644
+

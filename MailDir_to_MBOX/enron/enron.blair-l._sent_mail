@@ -1,0 +1,2197 @@
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <23976911.1075853053000.JavaMail.evans@thyme>
+Date: Sun, 17 Jun 2001 19:56:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: shelley.corman@enron.com, brad.holmes@enron.com, rick.dietz@enron.com,
+	sheila.nacey@enron.com
+Subject: Re: FW: Storage allocations
+Cc: terry.kowalke@enron.com, michael.bodnar@enron.com, lynn.blair@enron.com,
+	gerry.medeles@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: terry.kowalke@enron.com, michael.bodnar@enron.com, lynn.blair@enron.com,
+	gerry.medeles@enron.com
+X-From: Lynn Blair
+X-To: Shelley Corman <Shelley Corman/ET&S/Enron@ENRON>, Brad Holmes <Brad Holmes/ENRON@enronXgate>, Rick Dietz <Rick Dietz/ET&S/Enron@ENRON>, Sheila Nacey <Sheila Nacey/ET&S/Enron@ENRON>
+X-cc: Terry Kowalke <Terry Kowalke/ET&S/Enron@ENRON>, Michael Bodnar <Michael Bodnar/ET&S/Enron@ENRON>, Lynn Blair <Lynn Blair/ET&S/Enron@ENRON>, Gerry Medeles <Gerry Medeles/ET&S/Enron@ENRON>
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+FYI.  Just to keep ya'll in the loop.  This fix should be ready for test on Monday
+and migrated Monday night for Tuesday's use.  This fix will be very beneficial
+in minimizing Shipper imbalances on NNG.  Terry and Gerry will work with the teams
+to be sure everyone is up to speed on the change.  If you have any questions while I
+am out next week, please check with Terry Kowalke or Mike Bodnar.   Thanks. Lynn
+---------------------- Forwarded by Lynn Blair/ET&S/Enron on 06/17/2001 04:50 PM ---------------------------
+   
+	  From:  John Buchanan                           06/15/2001 03:28 PM	
+		
+
+
+To:	Gerry Medeles/ENRON@enronXgate
+cc:	Steven January/ENRON@enronXgate, Lynn Blair/ET&S/Enron@ENRON, Hasan Kedwaii/ENRON@enronXgate, Jill Setera/ENRON@enronXgate, Maggie Matheson/ENRON@enronXgate, Sue Neville/ENRON@enronXgate, Brad Holmes/ENRON@enronXgate, Michael Bodnar/ET&S/Enron@ENRON, Reyna Cabrera/ET&S/Enron, Terry Kowalke/ET&S/Enron@ENRON 
+
+Subject:	Re: FW: Storage allocations   
+
+Per: Lynn Blair
+Moving the storage allocation to before confirmations will be made only to the ID/2 cycle. 
+
+
+Thanks: John Buchanan
+
+
+From:	Gerry Medeles/ENRON@enronXgate on 06/15/2001 03:17 PM
+To:	Steven January/ENRON@enronXgate, Lynn Blair/ET&S/Enron@ENRON, Hasan Kedwaii/ENRON@enronXgate, Jill Setera/ENRON@enronXgate, John Buchanan/ET&S/Enron@ENRON, Maggie Matheson/ENRON@enronXgate, Sue Neville/ENRON@enronXgate
+cc:	Brad Holmes/ENRON@enronXgate 
+
+Subject:	FW: Storage allocations
+
+FYI, with regards to item (3) below:
+SBS will remain off after storage allocations are completed.  This will be a slight change for our customers.  Currently during the processes for example, the evening process, SBS is available during the Rollover, Allocation and Confirmation process, and turned off during the Storage Allocation process.  With this change SBS will only be available during the Rollover and Allocation process and remain off during the Storage Allocation and Confirmation process, if a storage allocation is necessary.  I am unsure how you would want to communicate this to your customers.  
+
+Also, Jill will be working on these changes over the weekend, and have Joe confirm her change by Monday the 18th.  Changes should be available for production by Tuesday the 19th.
+
+ -----Original Message-----
+From: 	Kedwaii, Hasan  
+Sent:	Friday, June 15, 2001 12:52 PM
+To:	Setera, Jill
+Cc:	Matheson, Maggie; Medeles, Gerry
+Subject:	Storage allocations
+
+Jill,
+Lynn and Steve January want to change the storage allocation from after confirmation to after regular allocations during all cycles except timely (for the timely cycle it storage allocations will be after confirmations).
+
+I looked at the code and it seemed to be pretty self contained module.  But a few things to look out for:
+
+1) Process for saving to the database
+	- after allocations
+	- after storage allocations
+	- after confirmations
+2) rollback of allocations to include storage
+3) SBS - currently it turned off for the storage allocation process.  How does it get turned back on?  Business group has to make a decision on how whether SBS needs to turned on or off for the confirmation process
+
+Please let maggie or gerry know the time estimate.
+
+Thanx
+
+
+
+
+
+
+<Embedded StdOleLink>
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <2477821.1075853052721.JavaMail.evans@thyme>
+Date: Thu, 21 Jun 2001 19:24:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: terry.kowalke@enron.com
+Subject: RE: TMS Small Talk upgrade testing
+Cc: ramona.betancourt@enron.com, john.buchanan@enron.com, sheila.nacey@enron.com,
+	lynn.blair@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: ramona.betancourt@enron.com, john.buchanan@enron.com, sheila.nacey@enron.com,
+	lynn.blair@enron.com
+X-From: Lynn Blair
+X-To: Terry Kowalke <Terry Kowalke/ENRON@enronXgate>
+X-cc: Ramona Betancourt <Ramona Betancourt/ENRON@enronXgate>, John Buchanan <John Buchanan/ET&S/Enron@ENRON>, Sheila Nacey <Sheila Nacey/ET&S/Enron@ENRON>, Lynn Blair <Lynn Blair/ET&S/Enron@ENRON>
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+I am fine with this schedule.  I am a little concerned about Lynda testing because
+of Galen being out and the team shortage.  Should we have a back up to Lynda
+if she cannot get away from the day to day so we do not loose any time on the
+testing.  Just a thought.  Thanks. Lynn
+
+
+From:	Terry Kowalke/ENRON@enronXgate on 06/21/2001 02:01 PM
+To:	Ramona Betancourt/ENRON@enronXgate, Lynn Blair/ET&S/Enron@ENRON, John Buchanan/ET&S/Enron@ENRON
+cc:	 
+
+Subject:	RE: TMS Small Talk upgrade testing
+
+Lynn and John
+Just to let you know, I have spoke to both Kathy and Lynda regarding the upcoming testing. They have both agreed to assist when their schedules permited. I explained this to Ramona and she said that would be Ok at this point and time. They may require more assistance as this is a large project and needs to go into production on the 15th of July. Please let me know if you are OK with this. Thank you.
+
+Terry Kowalke 
+
+ -----Original Message-----
+From: 	Betancourt, Ramona   
+Sent:	Thursday, June 21, 2001 12:54 PM
+To:	Blair, Lynn
+Cc:	Medeles, Gerry; Matheson, Maggie; Buchanan, John; Kowalke, Terry
+Subject:	TMS Small Talk upgrade testing
+
+Lynn,
+
+As you know, the IT team has been working on the small talk upgrade code changes over the past few months & it has been mved into model office this week for testing. This upgrade is a fairly large change for TMS and will require us to test all screens, functions. Icons, and process which includes approximately 100 screens/reports/processes for each of the pipes. Our deadline to complete this is 7/15/01. If possible, we would like to to ask for both Kathy Washington and Lynda Laferla to assist  us in the testing.  Please let me know if that would be possible.
+
+Thanks Again for your help !
+Ramona
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <21903659.1075853052252.JavaMail.evans@thyme>
+Date: Sun, 24 Jun 2001 13:44:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: ava.garcia@enron.com, kelly.strader@enron.com
+Subject: 2- SURVEY/INFORMATION EMAIL 6-27-01
+Cc: lynn.blair@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Bcc: lynn.blair@enron.com
+X-From: Lynn Blair
+X-To: Ava Garcia <Ava Garcia/ET&S/Enron@Enron>, Kelly Strader <Kelly Strader/ET&S/Enron@ENRON>
+X-cc: Lynn Blair <Lynn Blair/ET&S/Enron@ENRON>
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+Kelly, this would not send to the "Outlook Migration team".  So I am
+sending it to you Ava.  Ava, Please get with Kelly and find out how we
+send it to the team.  Thanks. Lynn
+---------------------- Forwarded by Lynn Blair/ET&S/Enron on 06/24/2001 10:=
+40 AM ---------------------------
+  =20
+                        =09 Enron Technology  From:  Outlook Migration Team=
+                           06/22/2001 10:31 AM=09
+=09=09
+
+
+To:=09Ava Garcia/ET&S/Enron@Enron, Beverly Miller/ET&S/Enron@ENRON, William=
+ Aldinger/FGT/Enron@ENRON, Chris Greaney/ET&S/Enron@ENRON, Cynthia Rivers/E=
+T&S/Enron@ENRON, Diana Porter/ET&S/Enron@ENRON, Gloria Wier/ET&S/Enron@ENRO=
+N, Hilda Lindley/FGT/Enron@ENRON, Kathy Washington/ET&S/Enron@ENRON, Linda =
+Ward/ET&S/Enron@ENRON, Lynn Blair/ET&S/Enron@ENRON, Nancy Callans/ET&S/Enro=
+n@ENRON, Patricia Steele/ET&S/Enron@ENRON, Raetta Zadow/ET&S/Enron@ENRON, R=
+andy Janzen/ET&S/Enron@ENRON, Sheila Nacey/ET&S/Enron@ENRON, Sherry Forbish=
+/ET&S/Enron@ENRON, Angela Grohol/Enron Communications@Enron Communications,=
+ Chris Newcombe/Contractor/Enron Communications@Enron Communications, David=
+ Workman/Enron Communications@Enron Communications, Debbie Beavers/Enron Co=
+mmunications@Enron Communications, Don Bates/Enron Communications@Enron Com=
+munications, Donnie Kendall/Enron Communications@Enron Communications, Eric=
+ Liu/Enron Communications@Enron Communications, Erika Edwards/Enron Communi=
+cations@Enron Communications, Gretchen King/Enron Communications@Enron Comm=
+unications, Jean Zhang/Enron Communications@Enron Communications, Jeff Lewi=
+s/Enron Communications@Enron Communications, Jennifer Page/Enron Communicat=
+ions@Enron Communications, John Bagdanoff/Enron Communications@Enron Commun=
+ications, John Terrill/Enron Communications@Enron Communications, Jon Lenna=
+rd/Enron Communications@Enron Communications, Judi Joyner/Enron Communicati=
+ons@Enron Communications, Kim Dunaway/Enron Communications@Enron Communicat=
+ions, Kimberly Gates/Enron Communications@Enron Communications, Li Liu/Enro=
+n Communications@Enron Communications, Linda Robbins/Enron Communications@E=
+nron Communications, Lori England/Enron Communications@Enron Communications=
+, Mark Sass/Enron Communications@Enron Communications, Minal Raut/Contracto=
+r/Enron Communications@Enron Communications, Nik Patel/Enron Communications=
+@Enron Communications, Reddy Rameswar/Contractor/Enron Communications@Enron=
+ Communications, Rogene Hanson/Enron Communications@Enron Communications, S=
+ean Lisse/Enron Communications@Enron Communications, Show-Yien Lee/Enron Co=
+mmunications@Enron Communications, Steve Kuenzi/Enron Communications@Enron =
+Communications, Susanne Klinke/ENRON@enronXgate, Tammy Schwartz/Enron Commu=
+nications@Enron Communications, Tony Cahue Jr./Contractor/Enron Communicati=
+ons@Enron Communications, Wes Reid/Enron Communications@Enron Communication=
+s
+cc:=09=20
+
+Subject:=092- SURVEY/INFORMATION EMAIL 6-27-01
+
+Current Notes User:=20
+
+To ensure that you experience a successful migration from Notes to Outlook,=
+ it is necessary to gather individual user information prior to your date o=
+f migration.  Please take a few minutes to completely fill out the followin=
+g survey. Double Click on document to put it in "Edit" mode. When you finis=
+h click "Close" select "Save Changes Only" click "O.K" then re-open the e-m=
+ail and click on the 'Reply With History' button then hit 'Send'  Your surv=
+ey will automatically be sent to the Outlook 2000 Migration Mailbox.
+
+Thank you.
+
+Outlook 2000 Migration Team
+
+---------------------------------------------------------------------------=
+-----------------------------------------------------------------
+
+Full Name:        Grace Lynn Blair=09
+
+Login ID:  =09lblair
+
+Extension:  37637
+
+Office Location:  EB4105
+
+What type of computer do you have?  (Desktop,  Laptop,  Both)  Both
+
+Do you have a PDA?  If yes, what type do you have:   (None, IPAQ, Palm Pilo=
+t, Jornada)  =09NONE
+
+Do you have permission to access anyone's Email/Calendar? =20
+    If yes, who?  View Only, Sheila Nacey, Rick Dietz, Steven January, Donn=
+a Scott
+=09
+Does anyone have permission to access your Email/Calendar? =20
+    If yes, who?  Update - Ava Garcia, Ricki winters, Alma Carrillo,
+=09View Only, Sheila Nacey, Rick Dietz, Steven January, Donna Scott
+
+Are you responsible for updating anyone else's address book?  No
+    If yes, who? =20
+
+Is anyone else responsible for updating your address book? =20
+    If yes, who?  Ava Garcia
+
+Do you have access to a shared calendar?  No
+    If yes, which shared calendar? =20
+
+Do you have any Distribution Groups that Messaging maintains for you (for m=
+ass mailings)?  No
+    If yes, please list here: =20
+
+Please list all Notes databases applications that you currently use: =20
+
+In our efforts to plan the exact date/time of your migration, we also will =
+need to know:
+
+What are your normal work hours?  From:  6:00 a.m.    To:      7:00 p.m.
+
+Will you be out of the office in the near future for vacation, leave, etc? =
+No
+       If so, when?        From (MM/DD/YY):      To (MM/DD/YY):     =20
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <9123512.1075853052336.JavaMail.evans@thyme>
+Date: Sun, 24 Jun 2001 13:25:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: joe.linhart@enron.com, john.buchanan@enron.com, gary.spraggins@enron.com,
+	darrell.schoolcraft@enron.com, michael.bodnar@enron.com
+Subject: Maintenance Notes on El Paso, ANR, NOVA, and NGPL
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+X-From: Lynn Blair
+X-To: Joe Linhart <Joe Linhart/ET&S/Enron@ENRON>, John Buchanan <John Buchanan/ET&S/Enron@ENRON>, Gary Spraggins <Gary Spraggins/ET&S/Enron@ENRON>, Darrell Schoolcraft <Darrell Schoolcraft/ET&S/Enron@ENRON>, Michael Bodnar <Michael Bodnar/ET&S/Enron@ENRON>
+X-cc: 
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+Joe, are you and Gary up to speed on this ElPaso outage on the 26th?  Any
+concerns on our side?  Thanks. Lynn
+---------------------- Forwarded by Lynn Blair/ET&S/Enron on 06/24/2001 10:=
+21 AM ---------------------------
+From:=09Lorna Brennan/ENRON@enronXgate on 06/22/2001 11:06 AM
+To:=09John Dushinske/ENRON@enronXgate, Bill Fowler/ENRON@enronXgate, Kent M=
+iller/ET&S/Enron@ENRON, Dave Neubauer/ET&S/Enron@ENRON, Sue Neville/ENRON@e=
+nronXgate, Jo Williams/ET&S/Enron@ENRON, Mike Barry/Enron@enronXgate, Vicki=
+ Berg/ENRON@enronXgate, Sean Bolks/ENRON@enronXgate, Joni Bollinger/ENRON@e=
+nronXgate, Janet Bowers/ENRON@enronXgate, Theresa Branney/ENRON@enronXgate,=
+ Craig Buehler/ENRON@enronXgate, Bob Burleson/Enron@enronXgate, Reyna Cabre=
+ra/ENRON@enronXgate, Lee Ferrell/ENRON@enronXgate, Stephen Herber/Enron@Enr=
+onXGate, Martha Janousek/ENRON@enronXgate, Tim Johanson/ENRON@enronXgate, J=
+ane Joyce/ENRON@enronXgate, Karen Lagerstrom/Enron@Enronxgate, Laura Lantef=
+ield/ENRON@enronXgate, Robert Mason/ENRON@enronXgate, Penny McCarran/Enron@=
+EnronXGate, Vernon Mercaldo/ENRON@enronXgate, Jeff Nielsen/ENRON@enronXgate=
+, Frank Oldenhuis/ENRON@enronXgate, Larry Pavlou/ENRON@enronXgate, Loren Pe=
+nkava/Enron@enronXgate, John Pritchard/ENRON@enronXgate, Preston Roobaert/E=
+NRON@enronXgate, Chris Sebesta/Enron@EnronXGate, Frank Semin/ENRON@enronXga=
+te, Michael G Stage/Enron@EnronXGate, Bob Stevens/ENRON@enronXgate, Larry S=
+wett/ENRON@enronXgate, Steve Thomas/ENRON@enronXgate, Kay Threet/ENRON@enro=
+nXgate, Lisa Valley/ENRON@enronXgate, Steve Weller/ENRON@enronxgate, Chuck =
+Wilkinson/ENRON@enronXgate, Lynn Blair/ET&S/Enron@ENRON, Rick Dietz/ENRON@e=
+nronXgate, Steven January/ENRON@enronXgate, Sheila Nacey/ET&S/Enron@ENRON, =
+Donna Scott/ENRON@enronXgate, Steven Harris/ET&S/Enron@ENRON, Lindy Donoho/=
+Enron@enronXgate, Jeffery Fawcett/ENRON@enronxgate, Pallavi Goradia/ENRON@e=
+nronXgate, Lorraine Lindberg/Enron@enronXgate, TK Lohman/ENRON@enronxgate, =
+Michelle Lokay/ENRON@enronXgate, Jan Moore/ENRON@enronXgate, Kimberly Watso=
+n/ENRON@enronXgate, Allen Cohrs/ENRON@enronXgate, John Fiscus/ENRON@enronxg=
+ate, Steve Gilbert/ENRON@enronxgate, Dana Jones/Enron@enronXgate, Stephanie=
+ Korbelik/ENRON@enronxgate, Don Powell/ENRON@enronxgate, Ken Powers/ENRON@e=
+nronxgate
+cc:=09=20
+
+Subject:=09Maintenance Notes on El Paso, ANR, NOVA, and NGPL
+
+Transportation Notes=20
+Saying linepack had stabilized, El Paso canceled an Unauthorized Overpull P=
+enalty alert Wednesday, one day after it had gone into effect. The pipeline=
+ also said it will take Line 1100 between the Eunice and Pecos River statio=
+ns down for repairs June 26. Six interconnects will be unable to deliver in=
+to El Paso that day, and the total flow of gas through Eunice Station to th=
+e South Mainline will be limited to 245 MMcf/d. Plants upstream of Eunice a=
+nd in the Monument area will compete for space with San Juan and Anadarko g=
+as moving south from Plains Station.=20
+NOVA said it must reduce target linepack due to increasing soil and ambient=
+ temperatures and to maintenance outages. It is seeking index-based uncondi=
+tional tenders through Tuesday for the firm sale of about 200,000 gigajoule=
+s. Tenders may be submitted for all or some of the reduction, which will be=
+ accomplished through inventory transfers. The gas must be taken in more or=
+ less even increments over a period of up to five days starting on or about=
+ June 28, 2001. Call Darryn Rouillard at (403) 920-6341 for more informatio=
+n.=20
+ANR plans to begin maintenance Monday at its Havensville Compressor Station=
+ that will run through Oct. 15 and reduce Southwest Mainline capacity by ab=
+out 125 MMcf/d. However, based on current flow levels the impact of the wor=
+k should be minimal, ANR said.=20
+Due to unexpected difficulties in operating the Bisti Station's #8 unit whi=
+le the C-1 turbine at the Chaco Plant in northwestern New Mexico is out of =
+service, flow from all wells in the GBISTI gathering system should remain s=
+hut in until turbine maintenance is complete, El Paso Field Services said. =
+The C-1 turbine is expected to return to service June 29. Operators must co=
+ntact Troy Chamberlain at (505) 564-4015, Corina Veloz at (505) 599-2357 or=
+ the Control Center at (505) 599-2334 before turning wells back on.=20
+El Paso said Wednesday evening its Guadalupe Station turbine and the #3 tur=
+bine at Pecos River Station #3 turbine had tripped offline unexpectedly. Th=
+e Guadalupe unit was returned to service quickly that evening, but attempts=
+ to restart the Pecos River unit have been unsuccessful. Capacity through P=
+ecos River is limited to 840 MMcf/d until further notice.=20
+NGPL reported discovery of a gas quality problem at the Transok-Bryan recei=
+pt point in Bryan County, OK. NGPL is working with Transok to resolve the p=
+roblem but said if it continues, NGPL may need to cut scheduled volumes at =
+the point.=20
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <11111918.1075853052906.JavaMail.evans@thyme>
+Date: Sun, 17 Jun 2001 20:13:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: shelley.corman@enron.com
+Subject: Re: STRANGERS GAS SHIPPERS AND ESTIMATED VOLUMES (6/98 thru 6/01)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lynn Blair
+X-To: Shelley Corman <Shelley Corman/ET&S/Enron@ENRON>
+X-cc: 
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+Shelley, just to keep you in the loop since I am out next wee.  This is the information we
+sent to Regulatory (Mary Darveaux) as we finalize info on the Strangers Gas Settlement.
+Tangie is working closely with Mary and will get her what she needs.  we are also
+working with Dan Fancler and Debbie Mosley in Finanace.    If you have
+any questions, please let Tangie or Raetta (who is working with Tangie on this) know.  Thanks. Lynn
+---------------------- Forwarded by Lynn Blair/ET&S/Enron on 06/17/2001 05:08 PM ---------------------------
+
+
+Tangie Dykes
+06/14/2001 12:53 PM
+To:	Mary Darveaux/ET&S/Enron
+cc:	Debbie Moseley/ET&S/Enron, Lynn Blair/ET&S/Enron@ENRON, Randy Janzen/ET&S/Enron@ENRON, Legale Black/ET&S/Enron, Tangie Dykes/ET&S/Enron@ENRON 
+
+Subject:	Re: STRANGERS GAS SHIPPERS AND ESTIMATED VOLUMES (6/98 thru 6/01)   
+
+
+Mary, as you requested, on yesterday  I have added January 1998 thru May 1998 affidavit volumes.
+I have also made adjustments to June and July 1998 volumes.  I didn't multiply the volumes by
+the correct number of days for these two months.  If you have any questions or concerns please 
+feel free to give me a call. 
+
+
+
+
+
+
+
+<Embedded StdOleLink>
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <29465335.1075853052013.JavaMail.evans@thyme>
+Date: Tue, 26 Jun 2001 10:48:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: ava.garcia@enron.com
+Subject: Re: Post Mortem on Tropical Storm Allison
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lynn Blair
+X-To: Ava Garcia <Ava Garcia/ET&S/Enron@Enron>
+X-cc: 
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+Ava, let's go ahead with this day and time.  I will cover for John.  Thanks. Lynn
+
+
+
+
+Ava Garcia
+06/25/2001 11:16 AM
+To:	Lynn Blair/ET&S/Enron@ENRON
+cc:	 
+
+Subject:	Post Mortem on Tropical Storm Allison
+
+Lynn, Terry K. will be on vacation that day and John B. has a conflicting mtg. should I reschedule?  However, Shelley C., Mike B., Gary S., Darrell S., Scott A. 
+
+Thanks,
+Ava-35842
+---------------------- Forwarded by Ava Garcia/ET&S/Enron on 06/25/2001 11:06 AM ---------------------------
+   
+	  From:  Ava Garcia                           06/19/2001 02:58 PM	
+		
+
+
+To:	Shelley Corman/ET&S/Enron, Steve Hotte/Corp/Enron, Scott Abshire/NA/Enron, Gary Kenagy/OTS/Enron, Gary Spraggins/ET&S/Enron@ENRON, Darrell Schoolcraft/ET&S/Enron, Steven January/ET&S/Enron, Lynn Blair/ET&S/Enron@ENRON, Mike Bryant, Terry Kowalke/ET&S/Enron@ENRON, John Buchanan/ET&S/Enron@ENRON
+cc:	Sharon Brown/ET&S/Enron 
+
+Subject:	Post Mortem on Tropical Storm Allison
+
+Post Mortem mtg. on Tropical Storm Allison is scheduled for Wednesday, June 27th at 11:00a.m.-12noon in conference room EB4102.
+
+Please let me know if you will be able to attend.
+
+Thanks,
+Ava-35842
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <30437394.1075853052972.JavaMail.evans@thyme>
+Date: Sun, 17 Jun 2001 19:57:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: larry.berger@enron.com
+Subject: Re: Update NNG Doc System by Tuesday, June 19th
+Cc: rick.dietz@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: rick.dietz@enron.com
+X-From: Lynn Blair
+X-To: Larry Berger <Larry Berger/ENRON@enronXgate>
+X-cc: Rick Dietz <Rick Dietz/ET&S/Enron@ENRON>
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+Larry, I want to know if you did not get the response you needed.  Thanks. Lynn
+
+
+From:	Larry Berger/ENRON@enronXgate on 06/15/2001 02:06 PM
+To:	Larry Berger/ENRON@enronXgate, Jean Adams/ET&S/Enron@ENRON, Robert Benningfield/ET&S/Enron@ENRON, Jean Blair/ET&S/Enron@ENRON, Randy Bryan/ET&S/Enron@ENRON, Nancy Callans/ET&S/Enron@ENRON, James Carr/ET&S/Enron@ENRON, Tangie Dykes/ET&S/Enron@ENRON, Sherry Forbish/ET&S/Enron@ENRON, Chris Greaney/ET&S/Enron@ENRON, Randy Janzen/ET&S/Enron@ENRON, Joe Linhart/ET&S/Enron@ENRON, Janet McDaniel/ET&S/Enron@ENRON, Katherine Perry/ET&S/Enron@ENRON, Diana Porter/ET&S/Enron@ENRON, Debra Scurlock/ET&S/Enron@ENRON, Kathy Sturr/ET&S/Enron@ENRON, Shirley Walden/ET&S/Enron@ENRON, Kathy Washington/ET&S/Enron@ENRON, Jerry Wilkens/ET&S/Enron@ENRON, Harry Woodson/ET&S/Enron@ENRON
+cc:	Rick Dietz/ENRON@enronXgate, Lynn Blair/ET&S/Enron@ENRON, Raetta Zadow/ET&S/Enron@ENRON 
+
+Subject:	Update NNG Doc System by Tuesday, June 19th
+
+
+The NNG Doc System is now open and  ready for your updates on OBA imbalances.  Please input your updates before Tuesday, June 19th, 5pm.
+
+The reason for the short timeframe is due to the WINDOWS 2000 upgrades on the nights of June 19 & 20 and the unavailability of the DOC system during this time.
+
+Please see me if you have any questions.
+
+
+Larry
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <11265189.1075853052601.JavaMail.evans@thyme>
+Date: Thu, 21 Jun 2001 19:45:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: sharon.brown@enron.com
+Subject: Re: Just Checking...
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lynn Blair
+X-To: Sharon Brown <Sharon Brown/ENRON@enronXgate>
+X-cc: 
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+Sharon, I am doing very well but cannot come back to work until
+Tuesday.  They will remove all the drain tubes Monday.  
+Thanks for your thoughts and prayers.  I'll see you on Tuesday.  Thanks. Lynn
+
+
+From:	Sharon Brown/ENRON@enronXgate on 06/20/2001 06:27 AM
+To:	Lynn Blair/ET&S/Enron@ENRON
+cc:	 
+
+Subject:	Just Checking...
+
+
+Just wanted to check in with you.  Hopefully by today you're feeling pretty good.  Be glad when you get back.  You know I'm stuck here with kids, what a way to start off the morning.  Just rolling along with my new Windows 2000/Outlook, takes some getting used to but we always adapt.  Get some rest and get back here!
+slb
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <7398380.1075853052438.JavaMail.evans@thyme>
+Date: Sun, 24 Jun 2001 13:20:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: rick.dietz@enron.com
+Subject: FW: Oneok Bushton- An Additional Delay in Decision
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lynn Blair
+X-To: Rick Dietz <Rick Dietz/ET&S/Enron@ENRON>
+X-cc: 
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+FYI.  I am sure you are already up to speed.  Glad your back.  See ya
+on Tuesday.  Thanks. Lynn
+---------------------- Forwarded by Lynn Blair/ET&S/Enron on 06/24/2001 10:17 AM ---------------------------
+From:	Harry Woodson/ENRON@enronXgate on 06/22/2001 12:15 PM
+To:	Lynn Blair/ET&S/Enron@ENRON
+cc:	Shelley Corman/ENRON@enronXgate 
+
+Subject:	FW: Oneok Bushton- An Additional Delay in Decision
+
+
+
+ -----Original Message-----
+From: 	Zikes, Becky  
+Sent:	Thursday, June 21, 2001 10:58 AM
+To:	Cessac, Kenneth; Dietz, Rick; Dykes, Tangie; Kile, Rick; Lowry, Phil; Woodson, Harry; Jim Bowen (E-mail); Paul LaNasa (E-mail)
+Cc:	Davis, Britt; Ringblom, Kathy
+Subject:	Oneok Bushton- An Additional Delay in Decision
+
+The panel has requested an additional week to come up with a decision in this case and all parties have agreed.  The decision is now expected to be handed down on Friday, June 29.  Again, I will let you know the outcome as soon as we receive word.
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <8639749.1075853052484.JavaMail.evans@thyme>
+Date: Sun, 24 Jun 2001 13:18:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: ava.garcia@enron.com
+Subject: RE: UPS Review
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lynn Blair
+X-To: Ava Garcia <Ava Garcia/ET&S/Enron@Enron>
+X-cc: 
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+Ava, thanks for the update.  Please let me know how the session goes.  Thanks. Lynn
+
+
+
+
+Ava Garcia
+06/22/2001 01:29 PM
+To:	Lynn Blair/ET&S/Enron@ENRON
+cc:	 
+
+Subject:	RE: UPS Review
+
+Just wanted to let you know where everything over UPS labels stands.  I should be okay for Friday.
+
+Ava-35842
+---------------------- Forwarded by Ava Garcia/ET&S/Enron on 06/22/2001 01:10 PM ---------------------------
+
+
+"MOLANDES VERNA L. (HOU1VLM)" <hou1vlm@ups.com> on 06/22/2001 10:57:26 AM
+To:	"Garcia, Ava" <Ava.Garcia@enron.com>
+cc:	"BURGS ANTHONY  (HOU1ANB)" <hou1anb@ups.com>, "Boyd Mike B. (hou1mbb)" <hou1mbb@ups.com>, glenn.lewis@enron.com 
+
+Subject:	RE: UPS Review
+
+Ava,
+A conference room will not be necessary. You will only need a computer
+w/Internet access. 
+Anthony Burgs (UPS), Mike Boyd (UPS) and Glenn Lewis (Enron) will be there
+to walk you through the transition.  Mike will transfer all your files for
+you and set up w/the UPS software (WorldShip). Let me know if you have any
+questions. 
+Thanks,
+Verna 
+
+
+-----Original Message-----
+From: Garcia, Ava [mailto:Ava.Garcia@enron.com]
+Sent: Friday, June 22, 2001 8:30 AM
+To: Lewis, Glenn; hou1vlm@ups.com; Blair, Lynn
+Cc: Alma Carrillo/ET&S/Enron@ENRON
+Subject: UPS Review
+
+
+Would like to have UPS orientation on Monday, June 25th at 2pm.  Please
+let me know if I will need to schedule a conference room.  
+For Fed-Ex I have a software installed to print out my monthly labels do
+you have a UPS software  where I could do the same and is it possible to
+transfer all my information from Fed-Ex to UPS?  
+
+Thanks,
+Ava-35842
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <19488328.1075853052110.JavaMail.evans@thyme>
+Date: Sun, 24 Jun 2001 17:47:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: lynn.blair@enron.com
+Subject: Re: FW: Storage allocations
+Cc: shelley.corman@enron.com, brad.holmes@enron.com, rick.dietz@enron.com,
+	sheila.nacey@enron.com, terry.kowalke@enron.com,
+	michael.bodnar@enron.com, gerry.medeles@enron.com,
+	john.buchanan@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: shelley.corman@enron.com, brad.holmes@enron.com, rick.dietz@enron.com,
+	sheila.nacey@enron.com, terry.kowalke@enron.com,
+	michael.bodnar@enron.com, gerry.medeles@enron.com,
+	john.buchanan@enron.com
+X-From: Lynn Blair
+X-To: Lynn Blair <Lynn Blair/ET&S/Enron@ENRON>
+X-cc: Shelley Corman <Shelley Corman/ET&S/Enron@ENRON>, Brad Holmes <Brad Holmes/ENRON@enronXgate>, Rick Dietz <Rick Dietz/ET&S/Enron@ENRON>, Sheila Nacey <Sheila Nacey/ET&S/Enron@ENRON>, Terry Kowalke <Terry Kowalke/ET&S/Enron@ENRON>, Michael Bodnar <Michael Bodnar/ET&S/Enron@ENRON>, Gerry Medeles <Gerry Medeles/ET&S/Enron@ENRON>, John Buchanan <John Buchanan/ET&S/Enron@ENRON>
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+An update on our change for the Storage Allocation.  Several questions
+have come up over the weekend.  The weekend crew is documenting the
+questions.  I have left Mike Bodnar and John Buchanan a phone mail message
+to research the questions and concerns on Monday.  Then we will group with
+storage and determine what changes need to be made.
+
+One change we talked about on the Sunday morning call with storage is to
+be able to use SBS on the non allocated portion of storage.  ie, if we are
+allocating injections, then withdrawals should still use SBS.  If we are allocating
+withdrawals, then injections should still have access to SBS.  Mike Bodnar will
+pursue this enhancement further.  Thanks. Lynn
+
+
+
+
+
+Lynn Blair
+06/17/2001 04:56 PM
+To:	Shelley Corman/ET&S/Enron, Brad Holmes/ENRON@enronXgate, Rick Dietz/ET&S/Enron, Sheila Nacey/ET&S/Enron@ENRON
+cc:	Terry Kowalke/ET&S/Enron@ENRON, Michael Bodnar/ET&S/Enron@ENRON, Lynn Blair/ET&S/Enron@ENRON, Gerry Medeles/ET&S/Enron 
+
+Subject:	Re: FW: Storage allocations
+
+FYI.  Just to keep ya'll in the loop.  This fix should be ready for test on Monday
+and migrated Monday night for Tuesday's use.  This fix will be very beneficial
+in minimizing Shipper imbalances on NNG.  Terry and Gerry will work with the teams
+to be sure everyone is up to speed on the change.  If you have any questions while I
+am out next week, please check with Terry Kowalke or Mike Bodnar.   Thanks. Lynn
+---------------------- Forwarded by Lynn Blair/ET&S/Enron on 06/17/2001 04:50 PM ---------------------------
+   
+	  From:  John Buchanan                           06/15/2001 03:28 PM	
+		
+
+
+To:	Gerry Medeles/ENRON@enronXgate
+cc:	Steven January/ENRON@enronXgate, Lynn Blair/ET&S/Enron@ENRON, Hasan Kedwaii/ENRON@enronXgate, Jill Setera/ENRON@enronXgate, Maggie Matheson/ENRON@enronXgate, Sue Neville/ENRON@enronXgate, Brad Holmes/ENRON@enronXgate, Michael Bodnar/ET&S/Enron@ENRON, Reyna Cabrera/ET&S/Enron, Terry Kowalke/ET&S/Enron@ENRON 
+
+Subject:	Re: FW: Storage allocations   
+
+Per: Lynn Blair
+Moving the storage allocation to before confirmations will be made only to the ID/2 cycle. 
+
+
+Thanks: John Buchanan
+
+
+From:	Gerry Medeles/ENRON@enronXgate on 06/15/2001 03:17 PM
+To:	Steven January/ENRON@enronXgate, Lynn Blair/ET&S/Enron@ENRON, Hasan Kedwaii/ENRON@enronXgate, Jill Setera/ENRON@enronXgate, John Buchanan/ET&S/Enron@ENRON, Maggie Matheson/ENRON@enronXgate, Sue Neville/ENRON@enronXgate
+cc:	Brad Holmes/ENRON@enronXgate 
+
+Subject:	FW: Storage allocations
+
+FYI, with regards to item (3) below:
+SBS will remain off after storage allocations are completed.  This will be a slight change for our customers.  Currently during the processes for example, the evening process, SBS is available during the Rollover, Allocation and Confirmation process, and turned off during the Storage Allocation process.  With this change SBS will only be available during the Rollover and Allocation process and remain off during the Storage Allocation and Confirmation process, if a storage allocation is necessary.  I am unsure how you would want to communicate this to your customers.  
+
+Also, Jill will be working on these changes over the weekend, and have Joe confirm her change by Monday the 18th.  Changes should be available for production by Tuesday the 19th.
+
+ -----Original Message-----
+From: 	Kedwaii, Hasan  
+Sent:	Friday, June 15, 2001 12:52 PM
+To:	Setera, Jill
+Cc:	Matheson, Maggie; Medeles, Gerry
+Subject:	Storage allocations
+
+Jill,
+Lynn and Steve January want to change the storage allocation from after confirmation to after regular allocations during all cycles except timely (for the timely cycle it storage allocations will be after confirmations).
+
+I looked at the code and it seemed to be pretty self contained module.  But a few things to look out for:
+
+1) Process for saving to the database
+	- after allocations
+	- after storage allocations
+	- after confirmations
+2) rollback of allocations to include storage
+3) SBS - currently it turned off for the storage allocation process.  How does it get turned back on?  Business group has to make a decision on how whether SBS needs to turned on or off for the confirmation process
+
+Please let maggie or gerry know the time estimate.
+
+Thanx
+
+
+
+
+
+
+
+
+
+<Embedded StdOleLink>
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <26871344.1075853052789.JavaMail.evans@thyme>
+Date: Sun, 17 Jun 2001 20:34:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: ava.garcia@enron.com
+Subject: Action Requested: Invoice Requires Coding/Issue Resolution/Approval
+ 01790100050371
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lynn Blair
+X-To: Ava Garcia <Ava Garcia/ET&S/Enron@Enron>
+X-cc: 
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+Ava, have you taken care of this?  Thanks. Lynn
+---------------------- Forwarded by Lynn Blair/ET&S/Enron on 06/17/2001 05:31 PM ---------------------------
+
+
+<iBuyit.Payables@Enron.com> on 06/12/2001 02:50:05 PM
+To:	<gblair@enron.com>
+cc:	 
+
+Subject:	Action Requested:  Invoice Requires Coding/Issue Resolution/Approval 01790100050371
+
+
+Please do not reply to this e-mail.
+
+You are receiving this message because an invoice requiring coding, issue resolution, or approval has been submitted to your iBuyit Payables in-box.  This requires your action through iBuyit Payables.
+
+To launch iBuyit Payables, click on the link below:
+http://iBuyitPayables.enron.com
+
+Note:  Log into iBuyitPayables using the same Employee PID (P-Number) and Password you use to enter the eHRonline system and/or SAP.
+
+First time iBuyit Payables user?  For training materials, click on the link below:
+http://sap.enron.com/sap_doclib/user/file_list.asp?cabinet_id=265
+
+Need help?
+Please contact the ISC Call Center at (713) 345-4727.
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <17582469.1075853052812.JavaMail.evans@thyme>
+Date: Sun, 17 Jun 2001 20:33:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: terry.kowalke@enron.com
+Subject: Customer Scheduler List Needed
+Cc: ava.garcia@enron.com, lynn.blair@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: ava.garcia@enron.com, lynn.blair@enron.com
+X-From: Lynn Blair
+X-To: Terry Kowalke <Terry Kowalke/ET&S/Enron@ENRON>
+X-cc: Ava Garcia <Ava Garcia/ET&S/Enron@Enron>, Lynn Blair <Lynn Blair/ET&S/Enron@ENRON>
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+Terry, can you have the teams getting Ava email addresses on the list
+this week if Dennis does not already have them in PLE.
+
+Thanks. Lynn
+
+---------------------- Forwarded by Lynn Blair/ET&S/Enron on 06/17/2001 05:29 PM ---------------------------
+   
+	  From:  John Buchanan                           06/13/2001 09:45 AM	
+		
+
+
+To:	Albert Hernandez/ET&S/Enron@ENRON, Beverly Miller/ET&S/Enron@ENRON, Terry Kowalke/ET&S/Enron@ENRON, Cynthia Rivers/ET&S/Enron@ENRON, Linda Ward/ET&S/Enron@ENRON, Amy Mulligan/ET&S/Enron@ENRON, Tracy Minter/ET&S/Enron@Enron, Christine McEvoy/ET&S/Enron@Enron, Christine McEvoy/ET&S/Enron@Enron, Tracy Minter/ET&S/Enron@Enron
+cc:	John Buchanan/ET&S/Enron@ENRON, Terry Kowalke/ET&S/Enron@ENRON, Lynn Blair/ET&S/Enron@Enron 
+
+Subject:	Customer Scheduler List Needed
+
+TW is looking into having a couple of customer meetings, Management needs a list of schedulers for the customers that will be invited. There will probably be a West meeting and a meeting in Houston so they will be done geographically. I am providing the TW Christmas card list as a place to start, so add any new customers and make sure you include the Schedulers names.
+I need this by Friday June 15th 4pm.
+
+ 
+
+Thanks: John Buchanan
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <8455137.1075853052696.JavaMail.evans@thyme>
+Date: Thu, 21 Jun 2001 19:26:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: shelley.corman@enron.com
+Subject: Oneok Bushton- An Additional Delay in Decision
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lynn Blair
+X-To: Shelley Corman <Shelley Corman/ET&S/Enron@ENRON>
+X-cc: 
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+FYI.  Just to keep you in the loop.  This is on the Bushton Measurement
+arbitration.  Thanks. Lynn
+---------------------- Forwarded by Lynn Blair/ET&S/Enron on 06/21/2001 04:22 PM ---------------------------
+
+
+Tangie Dykes
+06/21/2001 01:32 PM
+To:	Lynn Blair/ET&S/Enron@ENRON
+cc:	 
+
+Subject:	Oneok Bushton- An Additional Delay in Decision
+
+
+FYI
+---------------------- Forwarded by Tangie Dykes/ET&S/Enron on 06/21/2001 01:33 PM ---------------------------
+From:	Becky Zikes/ENRON@enronXgate on 06/21/2001 10:58 AM
+To:	Kenneth Cessac/ENRON@enronXgate, Rick Dietz/ENRON@enronXgate, Tangie Dykes/ET&S/Enron@ENRON, Rick Kile/ET&S/Enron@ENRON, Phil Lowry/ENRON@enronXgate, Harry Woodson/ENRON@enronXgate, "Jim Bowen (E-mail)" <jbowen@instrometinc.com>@SMTP@enronXgate, "Paul LaNasa (E-mail)" <tjlcpl@pipeline.com>@SMTP@enronXgate
+cc:	Britt Davis/ENRON@enronXgate, Kathy Ringblom/ENRON@enronXgate 
+
+Subject:	Oneok Bushton- An Additional Delay in Decision
+
+The panel has requested an additional week to come up with a decision in this case and all parties have agreed.  The decision is now expected to be handed down on Friday, June 29.  Again, I will let you know the outcome as soon as we receive word.
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <33103903.1075853052579.JavaMail.evans@thyme>
+Date: Thu, 21 Jun 2001 20:45:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: toby.kuehl@enron.com
+Subject: RE: Timely Process Extension
+Cc: terry.kowalke@enron.com, john.buchanan@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: terry.kowalke@enron.com, john.buchanan@enron.com
+X-From: Lynn Blair
+X-To: Toby Kuehl <Toby Kuehl/ENRON@enronXgate>
+X-cc: Terry Kowalke <Terry Kowalke/ET&S/Enron@ENRON>, John Buchanan <John Buchanan/ET&S/Enron@ENRON>
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+Toby, Terry and I talked about this and I will address it again in next weeks
+team leader meeting.  Sorry for any inconvenience.  The teams should be
+aware of the procedure.  Thanks. Lynn
+
+
+From:	Toby Kuehl/ENRON@enronXgate on 06/18/2001 12:14 PM
+To:	Terry Kowalke/ET&S/Enron@ENRON, John Buchanan/ET&S/Enron@ENRON, Lynn Blair/ET&S/Enron@ENRON
+cc:	 
+
+Subject:	RE: Timely Process Extension
+
+I no longer post these!! Can you please let the reps know? AGAIN!  I even continue to get calls on this on the weekends also.  I am sending this to you becaue I don't want for one of these to come to me via e-mail and they expect it to go out.  Jean Blair did call me on this and I told her to call John.  I hope you were notified of the extension!!
+
+ -----Original Message-----
+From: 	Callans, Nancy  
+Sent:	Monday, June 18, 2001 11:32 AM
+To:	Kuehl, Toby
+Subject:	Timely Process Extension
+
+Northern Natural Gas has extended the nomination deadline for the Timely Cycle for gas day 6/19/01:   The on-line deadline is 12:05 p.m. and EDI deadline is 12:20 p.m.  For further updates, please contact your Market Services Representative.
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <28235781.1075853052837.JavaMail.evans@thyme>
+Date: Sun, 17 Jun 2001 20:31:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: terry.kowalke@enron.com, beverly.miller@enron.com,
+	albert.hernandez@enron.com, cynthia.rivers@enron.com,
+	linda.ward@enron.com, amy.mulligan@enron.com, tracy.minter@enron.com,
+	christine.mcevoy@enron.com
+Subject: SoCalGas Capacity Policy
+Cc: lynn.blair@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: lynn.blair@enron.com
+X-From: Lynn Blair
+X-To: Terry Kowalke <Terry Kowalke/ET&S/Enron@ENRON>, Beverly Miller <Beverly Miller/ET&S/Enron@ENRON>, Albert Hernandez <Albert Hernandez/ET&S/Enron@ENRON>, Cynthia Rivers <Cynthia Rivers/ET&S/Enron@ENRON>, Linda Ward <Linda Ward/ET&S/Enron@ENRON>, Amy Mulligan <Amy Mulligan/ET&S/Enron@ENRON>, Tracy Minter <Tracy Minter/ET&S/Enron@Enron>, Christine McEvoy <Christine McEvoy/ET&S/Enron@Enron>
+X-cc: Lynn Blair <Lynn Blair/ET&S/Enron@ENRON>
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+FYI.  Just wanted to be sure everyone had a copy of this letter.  In relation
+to this letter we had a posting go out on the WEB.  Please be sure everyone
+on the team has read this notice.  Thanks. Lynn
+---------------------- Forwarded by Lynn Blair/ET&S/Enron on 06/17/2001 05:25 PM ---------------------------
+
+
+"Davidson, Patricia - TPPSD" <PDavidson@socalgas.com> on 06/13/2001 11:35:10 AM
+To:	"'Blair, Lynn'" <lblair@enron.com>, "'TK  Lohman'"	 <Therese_Lohman@enron.com>, "'TK  Lohman'" <Therese_Lohman@enron.com>
+cc:	 
+
+Subject:	SoCalGas Capacity Policy
+
+
+
+
+The attached letter was faxed to Shelly Corman this morning. 
+
+ <<TWCap0613.doc>> 
+
+Pat Davidson
+
+Gas Scheduling Manager
+
+Southern California Gas Company
+
+pdavidson@socalgas.com
+
+
+ - TWCap0613.doc 
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <32005173.1075853052861.JavaMail.evans@thyme>
+Date: Sun, 17 Jun 2001 20:27:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: ava.garcia@enron.com
+Subject: FW: How to use UPS for shipping on the internet
+Cc: lynn.blair@enron.com, raetta.zadow@enron.com, larry.berger@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: lynn.blair@enron.com, raetta.zadow@enron.com, larry.berger@enron.com
+X-From: Lynn Blair
+X-To: Ava Garcia <Ava Garcia/ET&S/Enron@Enron>
+X-cc: Lynn Blair <Lynn Blair/ET&S/Enron@ENRON>, Raetta Zadow <Raetta Zadow/ET&S/Enron@ENRON>, Larry Berger <Larry Berger/ET&S/Enron@ENRON>
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+Ava, are you going to be available for this meeting?  I would like to know
+the outcome of the meeting in relation to any concerns on sending out
+invoices.    Thanks. Lynn
+---------------------- Forwarded by Lynn Blair/ET&S/Enron on 06/17/2001 05:24 PM ---------------------------
+From:	Ricki Winters/ENRON@enronXgate on 06/13/2001 01:56 PM
+To:	Sharon Brown/ET&S/Enron@ENRON, Ava Garcia/ET&S/Enron@Enron, Alma Carrillo/ET&S/Enron@ENRON, Alma Green/FGT/Enron@ENRON
+cc:	hou1vlm@ups.com@SMTP@enronXgate, Lynn Blair/ET&S/Enron@ENRON, Mike Bryant/OTS/Enron@ENRON, Shelley Corman/ENRON@enronXgate, Rick Dietz/ET&S/Enron@ENRON, Brad Holmes/ENRON@enronXgate, Steven January/ET&S/Enron@ENRON, Sheila Nacey/ET&S/Enron@ENRON, Donna Scott/FGT/Enron@ENRON, Gina Taylor/ENRON@enronXgate, Ricki Winters/ENRON@enronXgate 
+
+Subject:	FW: How to use UPS for shipping on the internet
+
+Enron has recently implemented a contract with UPS to cover all of our overnight and shipping needs.  One of their major account directors would like to come and meet with us next Tuesday (since Monday's are so hectic) June 19th.  Please let me know what time would be convenient for you to watch a demo they would like to give us concerning their on-line services.  If, after reviewing the documents below, you feel like you would not require this overview, please advise.
+
+Thank you,
+Ricki
+x35754
+
+ -----Original Message-----
+From: 	"MOLANDES VERNA L. (HOU1VLM)" <hou1vlm@ups.com>@ENRON [mailto:IMCEANOTES-+22MOLANDES+20VERNA+20L+2E+20+28HOU1VLM+29+22+20+3Chou1vlm+40ups+2Ecom+3E+40ENRON@ENRON.com] 
+Sent:	Wednesday, June 13, 2001 10:22 AM
+To:	Winters, Ricki
+Subject:	How to use UPS for shipping on the internet
+
+Ricki,
+Attached is the information we talked about.
+The UPS account number to all of Enron in Houston (downtown) is 726110.
+If you have any questions, please call me at 281-847-6769 or 800-432-2877.
+Thanks,
+Verna Molandes
+United Parcel Service
+Major Account Associate
+
+
+ <<Houston FAQ's1.doc>>  <<Internet Ship 31__.doc>>
+
+ - Houston FAQ's1.doc 
+ - Internet Ship 31__.doc 
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <27596822.1075853052930.JavaMail.evans@thyme>
+Date: Sun, 17 Jun 2001 20:09:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: terry.kowalke@enron.com
+Subject: Re: Revised PopUp Instructions
+Cc: lynn.blair@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Bcc: lynn.blair@enron.com
+X-From: Lynn Blair
+X-To: Terry Kowalke <Terry Kowalke/ET&S/Enron@ENRON>
+X-cc: Lynn Blair <Lynn Blair/ET&S/Enron@ENRON>
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+terry, are these instructions on the Intranet where we have critical and no=
+n critical
+procedures?  If not, can we put them out there?  Thanks. Lynn
+
+
+
+
+Terry Kowalke
+06/14/2001 03:25 PM
+To:=09Larry Berger/ET&S/Enron@ENRON, John Buchanan/ET&S/Enron@ENRON, Raetta=
+ Zadow/ET&S/Enron@ENRON, Jean Blair/ET&S/Enron@ENRON, Randy Bryan/ET&S/Enro=
+n@ENRON, James Carr/ET&S/Enron@ENRON, Jodie Floyd/ET&S/Enron@ENRON, Shirley=
+ Walden/ET&S/Enron@ENRON, Katherine Perry/ET&S/Enron@ENRON, Tracy Minter/ET=
+&S/Enron@Enron, William Aldinger/FGT/Enron@ENRON, Karen Clapper/FGT/Enron@E=
+NRON, Marion Collins/FGT/Enron@ENRON, Galen Coon/FGT/Enron@ENRON, Tim Coope=
+r/FGT/Enron@ENRON, Laura Giambrone/FGT/Enron@ENRON, Jack Howard/FGT/Enron@E=
+NRON, Lynda Laferla/FGT/Enron@ENRON, Mary Phillips/FGT/Enron@ENRON, James C=
+ramer/FGT/Enron@ENRON, Nancy Callans/ET&S/Enron@ENRON, MaryAnn Locknar/ET&S=
+/Enron@ENRON, Diana Porter/ET&S/Enron@ENRON, Kathy Washington/ET&S/Enron@EN=
+RON, Jerry Wilkens/ET&S/Enron@ENRON, Jean Adams/ET&S/Enron@ENRON, Robert Be=
+nningfield/ET&S/Enron@ENRON, Tangie Dykes/ET&S/Enron@ENRON, Sherry Forbish/=
+ET&S/Enron@ENRON, Chris Greaney/ET&S/Enron@ENRON, Randy Janzen/ET&S/Enron@E=
+NRON, Debra Scurlock/ET&S/Enron@ENRON, Joe Linhart/ET&S/Enron@ENRON, Janet =
+McDaniel/ET&S/Enron@ENRON, Kathy Sturr/ET&S/Enron@ENRON, Harry Woodson/ET&S=
+/Enron@ENRON, Christine McEvoy/ET&S/Enron@Enron, Albert Hernandez/ET&S/Enro=
+n@ENRON, Terry Kowalke/ET&S/Enron@ENRON, Beverly Miller/ET&S/Enron@ENRON, A=
+my Mulligan/ET&S/Enron@ENRON, Cynthia Rivers/ET&S/Enron@ENRON, Linda Ward/E=
+T&S/Enron@ENRON
+cc:=09Lynn Blair/ET&S/Enron@ENRON, Sheila Nacey/ET&S/Enron@ENRON, John Buch=
+anan/ET&S/Enron@ENRON=20
+
+Subject:=09Revised PopUp Instructions
+
+
+=20
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <19000188.1075853051931.JavaMail.evans@thyme>
+Date: Wed, 27 Jun 2001 15:16:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: larry.berger@enron.com, raetta.zadow@enron.com, john.buchanan@enron.com,
+	lynn.blair@enron.com, mike.bryant@enron.com, terry.kowalke@enron.com,
+	jean.blair@enron.com, james.carr@enron.com, jodie.floyd@enron.com,
+	katherine.perry@enron.com, shirley.walden@enron.com,
+	nancy.callans@enron.com, kathy.washington@enron.com,
+	diana.porter@enron.com, jerry.wilkens@enron.com,
+	randy.bryan@enron.com, sherry.forbish@enron.com,
+	joe.linhart@enron.com, kathy.sturr@enron.com,
+	chris.greaney@enron.com, janet.mcdaniel@enron.com,
+	robert.benningfield@enron.com, tangie.dykes@enron.com,
+	debra.scurlock@enron.com, randy.janzen@enron.com,
+	jean.adams@enron.com, harry.woodson@enron.com,
+	scott.hibbard@enron.com, beverly.miller@enron.com,
+	albert.hernandez@enron.com, cynthia.rivers@enron.com,
+	linda.ward@enron.com, amy.mulligan@enron.com, tracy.minter@enron.com,
+	christine.mcevoy@enron.com
+Subject: FYI: Flowers sent to Galen
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lynn Blair
+X-To: Larry Berger <Larry Berger/ET&S/Enron@ENRON>, Raetta Zadow <Raetta Zadow/ET&S/Enron@ENRON>, John Buchanan <John Buchanan/ET&S/Enron@ENRON>, Lynn Blair <Lynn Blair/ET&S/Enron@ENRON>, Mike Bryant <Mike Bryant/OTS/Enron@ENRON>, Terry Kowalke <Terry Kowalke/ET&S/Enron@ENRON>, Jean Blair <Jean Blair/ET&S/Enron@ENRON>, James Carr <James Carr/ET&S/Enron@ENRON>, Jodie Floyd <Jodie Floyd/ET&S/Enron@ENRON>, Katherine Perry <Katherine Perry/ET&S/Enron@ENRON>, Shirley Walden <Shirley Walden/ET&S/Enron@ENRON>, Nancy Callans <Nancy Callans/ET&S/Enron@ENRON>, Kathy Washington <Kathy Washington/ET&S/Enron@ENRON>, Diana Porter <Diana Porter/ET&S/Enron@ENRON>, Jerry Wilkens <Jerry Wilkens/ET&S/Enron@ENRON>, Randy Bryan <Randy Bryan/ET&S/Enron@ENRON>, Sherry Forbish <Sherry Forbish/ET&S/Enron@ENRON>, Joe Linhart <Joe Linhart/ET&S/Enron@ENRON>, Kathy Sturr <Kathy Sturr/ET&S/Enron@ENRON>, Chris Greaney <Chris Greaney/ET&S/Enron@ENRON>, Janet McDaniel <Janet McDaniel/ET&S/Enron@ENRON>, Robert Benningfield <Robert Benningfield/ET&S/Enron@ENRON>, Tangie Dykes <Tangie Dykes/ET&S/Enron@ENRON>, Debra Scurlock <Debra Scurlock/ET&S/Enron@ENRON>, Randy Janzen <Randy Janzen/ET&S/Enron@ENRON>, Jean Adams <Jean Adams/ET&S/Enron@ENRON>, Harry Woodson <Harry Woodson/ET&S/Enron@ENRON>, Scott Hibbard <Scott Hibbard/ENRON@enronXgate>, Beverly Miller <Beverly Miller/ET&S/Enron@ENRON>, Albert Hernandez <Albert Hernandez/ET&S/Enron@ENRON>, Cynthia Rivers <Cynthia Rivers/ET&S/Enron@ENRON>, Linda Ward <Linda Ward/ET&S/Enron@ENRON>, Amy Mulligan <Amy Mulligan/ET&S/Enron@ENRON>, Tracy Minter <Tracy Minter/ET&S/Enron@ENRON>, Christine McEvoy <Christine McEvoy/ET&S/Enron@ENRON>
+X-cc: 
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+Galen's home address is as follows.  Several people had asked for it to
+send cards.  I am sure he would appreicate the thoughts and prayers.
+
+Home Address
+10622 Endicott Lane
+Houston, TX  77318
+
+
+Thanks. Lynn
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <18698111.1075853052227.JavaMail.evans@thyme>
+Date: Sun, 24 Jun 2001 13:53:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: rick.dietz@enron.com
+Subject: Re: FW: Concerns
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lynn Blair
+X-To: Rick Dietz <Rick Dietz/ENRON@enronXgate>
+X-cc: 
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+Rick, if you have some time on Tuesday, I would like to visit with you
+about this.  I don't want this move to be any more negative than what
+it is.  I have a possible game plan I would like to talk with you about
+and then maybe you and I need to take Larry and Raetta to lunch
+give them a chance to talk and then let them know our next steps.
+Glad you are back.  Lynn
+
+
+From:	Rick Dietz/ENRON@enronXgate on 06/22/2001 09:18 AM
+To:	Lynn Blair/ET&S/Enron@ENRON
+cc:	 
+
+Subject:	FW: Concerns 
+
+I agree with Larry. I'm not sure if we can do anything about it, but I agree with him.
+
+Rick
+ -----Original Message-----
+From: 	Berger, Larry  
+Sent:	Friday, June 22, 2001 7:21 AM
+To:	Dietz, Rick
+Subject:	FW: Concerns 
+
+Here is the email I sent Lynn regarding having Raetta and I on a different floor than the NNG MS Reps.   Again, I am very AGAINST having Raetta and I seperated from the NNG MS reps on a different floor. It will create confusion and be a disruption to our jobs.
+
+See me if you have any questions.
+
+Larry
+
+ -----Original Message-----
+From: 	Berger, Larry  
+Sent:	Thursday, June 14, 2001 4:31 PM
+To:	Zadow, Raetta
+Subject:	FW: Concerns 
+
+
+
+ -----Original Message-----
+From: 	Berger, Larry  
+Sent:	Thursday, June 14, 2001 10:47 AM
+To:	Blair, Lynn
+Subject:	Concerns 
+
+Lynn,
+
+I wanted to express my concerns of having Raetta and I located on another floor, away from the NNG teams.  Raetta and I deal with the MS Reps daily on the following items:
+
+*Approving all Journal Vouchers and Wire transfer requests
+*Questions from all NNG reps concerning rates on invoices, volume allocations, imbalances, accounts receivables, etc.
+*Sitting in on conference calls with the reps and customers (or marketers) concerning invoices, imbalances, accounts receivable, etc
+*Meeting with you every morning and through the day on various customer issues and questions
+
+
+During the Reservation close cycle (approximately 6 work days), Raetta and I need to be on the same floor with the reps for:
+
+*Reviewing the preliminary invoices (before passing to reps) for unusual high or low dollar amounts
+*Assigning new contracts or new customers to reps
+*Answering questions from reps about the invoices or rates
+*Reviewing TAS error reports for unbilled invoices or processing errors, and correcting them
+*Reviewing the Flash report and attending the Flash meeting
+*Distribution of the South Region Flash report (Craig Buehler's report) and reviewing it
+
+During the Commodity PPA close cycle (approximately 5 work days), we would need to be on same floor with the reps for:
+
+*Reviewing the preliminary transportation, penalty and imbalances invoices (before passing to reps) for unusual high or low dollar amounts
+*Answering questions from reps about the invoices or rates
+*Reviewing TAS and GVA error reports for unbilled invoices or processing errors, and correcting them
+
+During the current month Commodity close cycle (approximately 4 work days), we would need to be on the same floor with the reps for:
+
+Reviewing the preliminary invoices (before passing to reps) for unusual high or low dollar amounts
+*Assigning new contracts or new customers to reps
+*Answering questions from reps about the invoices or rates
+*Reviewing TAS error reports for unbilled invoices or processing errors, and correcting them
+*Reviewing the Flash report and attending the Flash meeting
+
+The total number of days I have just listed are 15 work days. The maximum number of work days a month totals at 22.  Therefore, approximately 3 weeks out of the month, Raetta and I would have to be on the floor daily.  In this totals, I am NOT including the 3 work days it takes me to meet with reps on NNG OBA imbalances to gather and analyze information for the Customer Accounts meeting.
+
+As you can see, it is very important for Raetta and myself to remain on the floor with the MS reps.  See me if you need further details.
+
+Larry
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <31500582.1075853052674.JavaMail.evans@thyme>
+Date: Thu, 21 Jun 2001 19:27:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: donna.scott@enron.com, sheila.nacey@enron.com
+Subject: Move
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lynn Blair
+X-To: Donna Scott <Donna Scott/FGT/Enron@ENRON>, Sheila Nacey <Sheila Nacey/ET&S/Enron@ENRON>
+X-cc: 
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+FYI.  to keep you in the loop.  Thanks. Lynn
+---------------------- Forwarded by Lynn Blair/ET&S/Enron on 06/21/2001 04:24 PM ---------------------------
+From:	Terry Kowalke/ENRON@enronXgate on 06/21/2001 09:28 AM
+To:	Alma Green/ENRON@enronXgate, Lynn Blair/ET&S/Enron@ENRON, John Buchanan/ET&S/Enron@ENRON, Cynthia Rivers/ET&S/Enron@ENRON, Karen Clapper/ENRON@enronXgate, Laura Giambrone/ENRON@enronXgate
+cc:	 
+
+Subject:	Move
+
+Alma, 
+Would please set up moves for Cynthia Rivers, Karren Clapper, and  Laura Giambrone.
+Move Cynthia from EB 4135 G    to    EB 4120 B
+Move Karen   from EB 4120 B     to    EB 4110 M
+Move Laura   from EB 4110 R     to    EB 4135 G
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <15594072.1075853051976.JavaMail.evans@thyme>
+Date: Tue, 26 Jun 2001 10:55:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: mary.draemer@enron.com
+Subject: Re: Wednesday's meeting on Tropical Storm Allison
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lynn Blair
+X-To: Mary Draemer <Mary Draemer/ENRON@enronXgate>
+X-cc: 
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+Mary, we would love to have you come.  Thanks. Lynn
+
+
+From:	Mary Draemer/ENRON@enronXgate on 06/25/2001 05:53 PM
+To:	Lynn Blair/ET&S/Enron@ENRON
+cc:	John Buchanan/ET&S/Enron@ENRON 
+
+Subject:	Wednesday's meeting on Tropical Storm Allison
+
+Lynn,
+
+I talked with John Buchanan and understand you will be attending Wednesday's meeting following up on Tropical Storm Allison and DRA activities.  I would like to attend this meeting and just wanted to let you know.
+
+Thanks,
+Mary
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <18249215.1075853052506.JavaMail.evans@thyme>
+Date: Sun, 24 Jun 2001 13:17:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: ava.garcia@enron.com
+Subject: Re: Outlook 2000 Training
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+X-From: Lynn Blair
+X-To: Ava Garcia <Ava Garcia/ET&S/Enron@Enron>
+X-cc: 
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+Ava, can you sign me up for the Tuesday, June 26?  If I am not
+available, could you spend some time with me and train me after
+my conversion next week?  Thanks. Lynn
+
+
+
+
+Ava Garcia
+06/22/2001 02:49 PM
+To:=09Katherine Perry/Enron@EnronXGate, Scott Hibbard/ENRON@enronXgate, Joh=
+n Buchanan/ET&S/Enron@ENRON, Terry Kowalke/Enron@EnronXGate, Michael Bodnar=
+/Enron@EnronXGate, Jean Blair/ET&S/Enron@ENRON, Randy Bryan/ET&S/Enron@ENRO=
+N, James Carr/ET&S/Enron@ENRON, Jodie Floyd/ET&S/Enron@ENRON, Shirley Walde=
+n/Enron@EnronXGate, Albert Hernandez/Enron@EnronXGate, Christine McEvoy/Enr=
+on@EnronXGate, Beverly Miller/ET&S/Enron@ENRON, Tracy Minter/Enron@EnronXGa=
+te, Amy Mulligan/Enron@EnronXGate, Cynthia Rivers/ET&S/Enron@ENRON, Linda W=
+ard/ET&S/Enron@ENRON, Jean Adams/ET&S/Enron@ENRON, Robert Benningfield/ET&S=
+/Enron@ENRON, Tangie Dykes/ET&S/Enron@ENRON, Sherry Forbish/ET&S/Enron@ENRO=
+N, Chris Greaney/ET&S/Enron@ENRON, Randy Janzen/ET&S/Enron@ENRON, Joe Linha=
+rt/ET&S/Enron@ENRON, Janet McDaniel/Enron@EnronXGate, Debra Scurlock/Enron@=
+EnronXGate, Kathy Sturr/Enron@EnronXGate, Harry Woodson/Enron@EnronXGate, W=
+illiam Aldinger/FGT/Enron@ENRON, Karen Clapper/Enron@EnronXGate, Marion Col=
+lins/FGT/Enron@ENRON, Galen Coon/Enron@EnronXGate, Tim Cooper/Enron@EnronXG=
+ate, James Cramer/Enron@EnronXGate, Laura Giambrone/Enron@EnronXGate, Jack =
+Howard/Enron@EnronXGate, Lynda Laferla/Enron@EnronXGate, Mary Phillips/Enro=
+n@EnronXGate, Nancy Callans/ET&S/Enron@ENRON, mary locknar, Diana Porter/ET=
+&S/Enron@ENRON, Kathy Washington/ET&S/Enron@ENRON, Jerry Wilkens/ET&S/Enron=
+@ENRON
+cc:=09Lynn Blair/ET&S/Enron@ENRON=20
+
+Subject:=09Outlook 2000 Training
+
+FYI:  If you would like to take an Outlook 2000 training course there will =
+be a training session on Tuesday, June 26 1:00p.m.-2;00p.m.  Next training =
+session will be Tuesday, July 10th 1:00p.m.-2:00p.m.  If you are interested=
+ please call Magdelena at ext: 31816 or send an email to magdelena.cruz@enr=
+on.com
+
+Second option is to learn on your own with the help of an Outlook 2000 book=
+let which will include pamphlets, in this case send me an email and I will =
+place an order.
+
+Thanks,
+Ava-35842
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <32191780.1075853051954.JavaMail.evans@thyme>
+Date: Tue, 26 Jun 2001 20:22:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: randy.janzen@enron.com
+Subject: Re: Western Gas Resources
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lynn Blair
+X-To: Randy Janzen <Randy Janzen/ET&S/Enron@ENRON>
+X-cc: 
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+Randy, thanks for your prompt reply.  Lynn
+
+
+   
+	  From:  Randy Janzen                           06/26/2001 10:28 AM	
+		
+
+
+To:	Lynn Blair/ET&S/Enron@Enron
+cc:	 
+
+Subject:	Re: Western Gas Resources   
+
+The shippers behind Gomez have been going to WGR since Jan. 1, 2001 and the shippers at Mitchell CO2 have been aware of the pending sell of NNG assets to WGR since at least Jan. 1, 2001.  All of this gas is going to WGR and none of it returns to NNG.  So this was communicated last year when all this was being planned.
+
+The OBA was not affected with this sell.  The OBA with WGR is one OBA that totalled all points.  They owe us 107,000 dth at the end of last month and we owe them 36,000 dth for fuel usage on the #5 unit at Gomez for the first five months of the year.  All that will be left on WGR's OBA will be Benedum and Midkiff.  Dan Ball and I are working together and hope to have the OBA near zero by the end of July.
+
+I hope this answers your questions, if not let me know.
+
+Randy
+
+
+
+
+<Embedded StdOleLink>
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <1712561.1075853052766.JavaMail.evans@thyme>
+Date: Sun, 17 Jun 2001 20:37:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: ava.garcia@enron.com
+Subject: Action Requested: Invoice Requires Coding/Issue Resolution/Approval
+ 01790100046227
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lynn Blair
+X-To: Ava Garcia <Ava Garcia/ET&S/Enron@Enron>
+X-cc: 
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+Ava, have you taken care of this?  Thanks. Lynn
+---------------------- Forwarded by Lynn Blair/ET&S/Enron on 06/17/2001 05:34 PM ---------------------------
+
+
+<iBuyit.Payables@Enron.com> on 06/11/2001 09:00:06 AM
+To:	<gblair@enron.com>
+cc:	 
+
+Subject:	Action Requested:  Invoice Requires Coding/Issue Resolution/Approval 01790100046227
+
+
+Please do not reply to this e-mail.
+
+You are receiving this message because an invoice requiring coding, issue resolution, or approval has been submitted to your iBuyit Payables in-box.  This requires your action through iBuyit Payables.
+
+To launch iBuyit Payables, click on the link below:
+http://iBuyitPayables.enron.com
+
+Note:  Log into iBuyitPayables using the same Employee PID (P-Number) and Password you use to enter the eHRonline system and/or SAP.
+
+First time iBuyit Payables user?  For training materials, click on the link below:
+http://sap.enron.com/sap_doclib/user/file_list.asp?cabinet_id=265
+
+Need help?
+Please contact the ISC Call Center at (713) 345-4727.
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <28673537.1075853052415.JavaMail.evans@thyme>
+Date: Sun, 24 Jun 2001 13:22:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: michael.bodnar@enron.com, john.buchanan@enron.com
+Subject: RE: IDD/Park & Ride Transfer
+Cc: lynn.blair@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: lynn.blair@enron.com
+X-From: Lynn Blair
+X-To: Michael Bodnar <Michael Bodnar/ET&S/Enron@ENRON>, John Buchanan <John Buchanan/ET&S/Enron@ENRON>
+X-cc: Lynn Blair <Lynn Blair/ET&S/Enron@ENRON>
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+Mike, can you follow up with the team, Chris and Sue to be sure we are
+all on the same page on this issue?  Thanks. Lynn
+---------------------- Forwarded by Lynn Blair/ET&S/Enron on 06/24/2001 10:19 AM ---------------------------
+From:	Chris Sebesta/Enron@EnronXGate on 06/22/2001 11:28 AM
+To:	Sue Neville/ENRON@enronXgate, Lynn Blair/ET&S/Enron@ENRON
+cc:	Frank Semin/ENRON@enronXgate 
+
+Subject:	RE: IDD/Park & Ride Transfer
+
+I assumed Kaztex were nominating on the timely, but after our storage discussions at today's Morning Meeting, I need to check.  I will instruct them to do so.  This should then clear up their accounts. 
+
+Thanks!
+
+ -----Original Message-----
+From: 	Neville, Sue  
+Sent:	Friday, June 22, 2001 9:57 AM
+To:	Sebesta, Chris; Blair, Lynn
+Cc:	Semin, Frank
+Subject:	RE: IDD/Park & Ride Transfer
+
+Chris,
+
+The tariff prohibits us from makeing transfers between storage points, not any NNG policies.   Are they making the nomination from Mid 17 to Demarc Storage on the timely process?  If they are, they should have been able to get injections, as we have not been allocating the timely process the last few days.
+
+Sue
+
+ -----Original Message-----
+From: 	Sebesta, Chris  
+Sent:	Thursday, June 21, 2001 5:24 PM
+To:	Blair, Lynn; Neville, Sue
+Cc:	Semin, Frank
+Subject:	IDD/Park & Ride Transfer
+
+Earlier this month, Marketing entered into a negotiated rate deal with Kaztex for one day transport from Demarc to Eagle.  It was Kaztex's intention to withdraw the gas they had in their IDD/Park & Ride account to bring their balance down to zero.  The negotiated rate deal required extensive review and the customer was tendered the contract at 11:52 AM.  Market Services held open the window to accomodate their late nomination.
+
+Herein lies the problem, the Kaztex scheduler withdrew the Park & Ride from the Demarc Storage Point because Demarc was their Primary Receipt Point on the transportat contract.   Instead, they should have withdrew from their Ogden and Mid 17 Storage balances.  To date, they have tried to nominate a transport from the Mid 17 and Ogden points to Demarc Storage but the Storage Nominations continue to be allocated.
+
+I understand it is not Northern's policy to transfer storage between two points without a transportation transaction, however, I would request for this specific case Northern would administer a transfer thus preventing any possible MIC charges at the end of the month.  I estimate the transport revenue being waived to be approx. $44 (2345 MMBtu from Mid 17 Storage * $0.019 plus 720 MMBtu from Ogden at $0 cost).  The negotiated rate deal easily made up this amount.
+
+If you agree with allowing the transfer of the storage balances, please let me know and I will alert the appropriate scheduler and Kaztex.
+
+Thank you for your consideration.
+
+Chris Sebesta
+Northern Natural Gas
+Office:  402-398-7064
+Fax:      402-398-7413 
+chris.sebesta@enron.com
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <33407355.1075853052884.JavaMail.evans@thyme>
+Date: Sun, 17 Jun 2001 20:26:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: ricki.winters@enron.com
+Subject: Re: FW: Assistance for Flood Relief Victims
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lynn Blair
+X-To: Ricki Winters <Ricki Winters/ENRON@enronXgate>
+X-cc: 
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+Ricki, I just wanted to follow up, I was told Cynthia and Linda neither
+one had damage.  Cynthia's mother and sister had flooding and Linda was without
+electricity for awhile.  If you are hearing something different, please
+let me know.  Thanks. Lynn
+
+
+From:	Ricki Winters/ENRON@enronXgate on 06/13/2001 02:09 PM
+To:	Lynn Blair/ET&S/Enron@ENRON
+cc:	 
+
+Subject:	FW: Assistance for Flood Relief Victims
+
+Lynn, below was the notice sent to employees that had flood damage.  While I was there, so was TK and she asked me if Linda Ward and Cynthia Rivers were included because she did not see them there.  I just wanted to make sure to pass this on to you.
+
+Thank you,
+Ricki
+
+ -----Original Message-----
+From: 	Kalmans, Elyse  
+Sent:	Tuesday, June 12, 2001 5:54 PM
+Subject:	Assistance for Flood Relief Victims
+
+We know that many of you have been severely impacted by Tropical Storm Allison and the devastating flood. Enron cares about you and your family and would like to make sure that your immediate needs are being met. 
+
+To assist you, Enron is providing employees and contractors who have had their houses damaged with $1000 in travelers checks. To receive the checks, please come by EB1625 after 12 noon tomorrow, June 13.   Please be patient as we may temporarily run out of checks depending on the demand.
+
+Please know that the paycheck you will receive on June 30th will be grossed up to account for the taxes that will be taken out if you are an employee. Also please know that you will be asked to sign a certification of your situation in order to receive the funds.
+
+We hope that this helps you and your family. Our thoughts are with you.
+
+Please call Misha Siegel at x37682 should you have any questions.
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <27053945.1075853052554.JavaMail.evans@thyme>
+Date: Sun, 24 Jun 2001 13:10:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: randy.janzen@enron.com
+Subject: Re: Western Gas Resources
+Cc: john.buchanan@enron.com, terry.kowalke@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: john.buchanan@enron.com, terry.kowalke@enron.com
+X-From: Lynn Blair
+X-To: Randy Janzen <Randy Janzen/ET&S/Enron@ENRON>
+X-cc: John Buchanan <John Buchanan/ET&S/Enron@ENRON>, Terry Kowalke <Terry Kowalke/ET&S/Enron@ENRON>
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+Randy, what did this mean to shippers nominating on NNG's pipe?  Do they
+have to change their location or POI number for nomination purposes?  If so,
+how did we communicate to the shippers.  How does this effect OBA's?
+Thanks for the update.  Lynn
+
+
+   
+	  From:  Randy Janzen                           06/22/2001 04:13 PM	
+		
+
+
+To:	Jean Adams/ET&S/Enron@Enron, Robert Benningfield/ET&S/Enron, Tangie Dykes/ET&S/Enron, Sherry Forbish/ET&S/Enron@ENRON, Chris Greaney/ET&S/Enron@Enron, Randy.Janzen/ET&S/Enron@Enron, Joe Linhart/ET&S/Enron@ENRON, Janet McDaniel/ET&S/Enron@Enron, Debra Scurlock/ET&S/Enron, Kathy Sturr/ET&S/Enron@ENRON, Harry Woodson/ET&S/Enron, John Buchanan/ET&S/Enron@Enron, Terry Kowalke/ET&S/Enron@ENRON, Darrell Schoolcraft/ET&S/Enron@Enron, Gary Spraggins/ET&S/Enron@Enron
+cc:	Shelley.Corman/ET&S/Enron@Enron, Steven January/ET&S/Enron@Enron, Lynn Blair/ET&S/Enron@Enron 
+
+Subject:	Western Gas Resources
+
+Just an FYI about the sell of assets to Western Gas Resources.  With the exception of clearing up a few loose ends involving some accounting issues the sell of the Gomez Plant and related gathering system, the Mitchell CO2 plant and related gathering system, and the pipe between Mitchell Plant and Gomez is complete effective June 1st.
+
+Randy
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <26584682.1075853052652.JavaMail.evans@thyme>
+Date: Thu, 21 Jun 2001 19:39:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: ava.garcia@enron.com
+Subject: FW: How to use UPS for shipping on the internet
+Cc: lynn.blair@enron.com, larry.berger@enron.com, raetta.zadow@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: lynn.blair@enron.com, larry.berger@enron.com, raetta.zadow@enron.com
+X-From: Lynn Blair
+X-To: Ava Garcia <Ava Garcia/ET&S/Enron@Enron>
+X-cc: Lynn Blair <Lynn Blair/ET&S/Enron@ENRON>, Larry Berger <Larry Berger/ET&S/Enron@ENRON>, Raetta Zadow <Raetta Zadow/ET&S/Enron@ENRON>
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+Ava, where are we on training?  Are we OK for end of month billing?  THanks. Lynn
+---------------------- Forwarded by Lynn Blair/ET&S/Enron on 06/21/2001 04:35 PM ---------------------------
+From:	Ricki Winters/ENRON@enronXgate on 06/20/2001 02:22 PM
+To:	Ava Garcia/ET&S/Enron@Enron, Alma Carrillo/ENRON@enronXgate
+cc:	Glenn Lewis/ENRON@enronXgate, hou1vlm@ups.com@SMTP@enronXgate, Lynn Blair/ET&S/Enron@ENRON 
+
+Subject:	FW: How to use UPS for shipping on the internet
+
+Ava & Alma, since I don't know what day's I will be in the office, I have decided to let the two of you set the date on the UPS on-line training.
+
+There is a catch,,,,,,,,, if I miss the overview, you will have to train me....
+
+Ava, would you please reply to Lewis and Verna and let them know what is convenient for you, since you have Reservation Invoices going out next week.
+
+Thank you,
+Ricki
+
+
+
+ -----Original Message-----
+From: 	"MOLANDES VERNA L. (HOU1VLM)" <hou1vlm@ups.com>@ENRON [mailto:IMCEANOTES-+22MOLANDES+20VERNA+20L+2E+20+28HOU1VLM+29+22+20+3Chou1vlm+40ups+2Ecom+3E+40ENRON@ENRON.com] 
+Sent:	Wednesday, June 13, 2001 10:22 AM
+To:	Winters, Ricki
+Subject:	How to use UPS for shipping on the internet
+
+Ricki,
+Attached is the information we talked about.
+The UPS account number to all of Enron in Houston (downtown) is 726110.
+If you have any questions, please call me at 281-847-6769 or 800-432-2877.
+Thanks,
+Verna Molandes
+United Parcel Service
+Major Account Associate
+
+
+ <<Houston FAQ's1.doc>>  <<Internet Ship 31__.doc>>
+
+ - Houston FAQ's1.doc 
+ - Internet Ship 31__.doc 
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <27588623.1075853052036.JavaMail.evans@thyme>
+Date: Sun, 24 Jun 2001 23:05:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: lynn.blair@enron.com
+Subject: Transwestern Invoicing
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lynn Blair
+X-To: Lynn Blair <Lynn Blair/ET&S/Enron@ENRON>
+X-cc: 
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+
+
+
+
+Amy Mulligan
+04/30/2001 10:52 AM
+To:	Lynn Blair/ET&S/Enron@ENRON, Albert Hernandez/ET&S/Enron@ENRON, Amy_Mulligan@enron.com, Cynthia Rivers/ET&S/Enron@ENRON, Tracy Minter/ET&S/Enron@Enron, Linda Ward/ET&S/Enron@ENRON, Beverly Miller/ET&S/Enron@ENRON, Christine McEvoy/ET&S/Enron@Enron
+cc:	 
+
+Subject:	Transwestern Invoicing
+
+I have attached a spreadsheet that Elizabeth put together for us for our February invoicing so you can get an idea of the categories and the number of invoices.
+
+These are the 7 categories Elizabeth checks, and how they can be redistributed:
+
+Void Invoices: There are only two of these invoices each month, MSR's can check these, but Marketing will have to communicate when there are additional Invoices that need to be voided.
+Delete Line Items: This can also be checked by MSR's but new contracts with these exceptions need to be explained by Marketing to the corresponding MSR for that customer
+Volume Adjust: These are also only for exceptional contracts, MSR's can check these exceptions, but Marketing will have to explain exceptions on New Contracts to the corresponding MSR for that customer.
+Make-up Volume: MSR's
+Adjust Reservation Invoices for change in Credit for Commodity due to make-up: MSR's
+Adjust Rate: Marketing
+Regenerate Invoice: MSR's
+
+ 
+
+We will start checking these for May Accounting,
+The TW Team
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <3699534.1075853052744.JavaMail.evans@thyme>
+Date: Sun, 17 Jun 2001 20:41:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: robinhold@enron.com, brobinhold@ftenergy.com
+Subject: Re: question about TW operational capacity
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lynn Blair
+X-To: Robinhold, Brian  <BRobinhold@ftenergy.com>
+X-cc: 
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+Brian, just wanted to follow up to be sure you had talked with
+Toby Kuehl and he had answered all your questions.  If you have
+all your answers, you do not need to respond to this note.  Have
+a great day.  Thanks. Lynn
+
+
+
+
+"Robinhold, Brian" <BRobinhold@ftenergy.com> on 06/08/2001 10:35:54 AM
+To:	"'lynn.blair@enron.com'" <lynn.blair@enron.com>
+cc:	 
+
+Subject:	question about TW operational capacity
+
+
+I found your name on the site, I'm guessing you might be the best person to
+lob this question towards...
+
+I'm looking at operational capacity on this site
+http://www.tw.enron.com/twdb/etfr_avcap.html
+And I can input the gas day, for today or tomorrow.  But when I get results
+back it is ambiguous as to which cycle the gas is flowing in.  Are they all
+for the timely cycle or are the evening and intraday cycles thrown in there
+as well.  And if they are thrown in there, do I just have to know WHEN the
+different cycles are posted and use that as my guide (IE if I'm looking at
+results around 14:00 those would be for intraday1 cycle)????
+
+Are you even the person I should ask?
+
+Thanks,
+Brian Robinhold
+FT Energy
+brobinhold@ftenergy.com
+720-548-5722
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <25407410.1075853052461.JavaMail.evans@thyme>
+Date: Sun, 24 Jun 2001 13:19:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: terry.kowalke@enron.com, john.buchanan@enron.com, larry.berger@enron.com,
+	raetta.zadow@enron.com
+Subject: FW: Oneok Bushton- An Additional Delay in Decision
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lynn Blair
+X-To: Terry Kowalke <Terry Kowalke/ET&S/Enron@ENRON>, John Buchanan <John Buchanan/ET&S/Enron@ENRON>, Larry Berger <Larry Berger/ET&S/Enron@ENRON>, Raetta Zadow <Raetta Zadow/ET&S/Enron@ENRON>
+X-cc: 
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+FYI.  Thanks. Lynn
+---------------------- Forwarded by Lynn Blair/ET&S/Enron on 06/24/2001 10:16 AM ---------------------------
+From:	Harry Woodson/ENRON@enronXgate on 06/22/2001 12:15 PM
+To:	Lynn Blair/ET&S/Enron@ENRON
+cc:	Shelley Corman/ENRON@enronXgate 
+
+Subject:	FW: Oneok Bushton- An Additional Delay in Decision
+
+
+
+ -----Original Message-----
+From: 	Zikes, Becky  
+Sent:	Thursday, June 21, 2001 10:58 AM
+To:	Cessac, Kenneth; Dietz, Rick; Dykes, Tangie; Kile, Rick; Lowry, Phil; Woodson, Harry; Jim Bowen (E-mail); Paul LaNasa (E-mail)
+Cc:	Davis, Britt; Ringblom, Kathy
+Subject:	Oneok Bushton- An Additional Delay in Decision
+
+The panel has requested an additional week to come up with a decision in this case and all parties have agreed.  The decision is now expected to be handed down on Friday, June 29.  Again, I will let you know the outcome as soon as we receive word.
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <26334411.1075853052082.JavaMail.evans@thyme>
+Date: Sun, 24 Jun 2001 17:55:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: michael.bodnar@enron.com, john.buchanan@enron.com, terry.kowalke@enron.com
+Subject: RE: Modification to the new daily SCADA Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lynn Blair
+X-To: Michael Bodnar <Michael Bodnar/ET&S/Enron@ENRON>, John Buchanan <John Buchanan/ET&S/Enron@ENRON>, Terry Kowalke <Terry Kowalke/ET&S/Enron@ENRON>
+X-cc: 
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+Mike, since Terry is out this week, can you take the lead to find out
+status of this report as you are checking to consistency with this report
+and the automation of the storage report.  Let's discuss on Tuesday.  Thanks. Lynn
+---------------------- Forwarded by Lynn Blair/ET&S/Enron on 06/24/2001 02:51 PM ---------------------------
+From:	Don Powell/ENRON@enronxgate on 06/12/2001 08:52 AM
+To:	Don Powell/ENRON@enronxgate, Lynn Blair/ET&S/Enron@ENRON, John Buchanan/ET&S/Enron@ENRON, Alice Johnson/ET&S/Enron@ENRON, Gary Spraggins/ET&S/Enron@ENRON, Dale Ratliff/ENRON@enronXgate, Steven January/ET&S/Enron@ENRON, Kent Miller/ET&S/Enron@ENRON, Bill Fowler/ENRON@enronXgate, Angela Sayegh/ENRON@enronXgate
+cc:	Ken Powers/ENRON@enronxgate, Steve Gilbert/ENRON@enronxgate, Lisa Sawyer/ENRON@enronXgate 
+
+Subject:	RE: Modification to the new daily SCADA Report
+
+Here are the stored procedures with their parameters in parenthesis.  Most of them are single selects and could be incorporated into SQL in the Excel add-in if desired.  I thought stored procedures would make it easier to separate support for the add-in from support for the code.  The stored procedures are all on the server ETSADHOC, database adhoctest, under my id (dpowell).  I think we want to get the DBA's to move these into a production environment so they are protected (ie: dbo in the etsadhoc database)?
+
+ 1. NNG Storage FDD/IDD, SBA, & Swing
+	FDD:	ETSMorningReportFDD (date)
+	IDD:	ETSMorningReportIDD (date)
+	SBA:	ETSMorningReportSBA (date)
+	Swing:	above (+/-)
+		ETSMorningReportSales (date)
+		ETSMorningReportPurchases (date)
+
+ 2. NNG Point Specific Operational Capacity
+	ETSMorningReportOperCapacity (date, poi, role)
+
+ 3. NNG Point Specific Current Month Imbalance
+	ETSMorningReportSchdImbalance (date, poi)
+
+ 4. NNG Point Specific Imbalance Prior to Current Month
+	No yet available
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <15523348.1075853052133.JavaMail.evans@thyme>
+Date: Sun, 24 Jun 2001 17:40:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: ava.garcia@enron.com, john.buchanan@enron.com
+Subject: Customer Scheduler List Needed
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lynn Blair
+X-To: Ava Garcia <Ava Garcia/ET&S/Enron@Enron>, John Buchanan <John Buchanan/ET&S/Enron@ENRON>
+X-cc: 
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+Ava and John, please let me know if we are not going to have this
+info by Tuesday.  THanks. Lynn
+---------------------- Forwarded by Lynn Blair/ET&S/Enron on 06/24/2001 02:37 PM ---------------------------
+
+
+Lynn Blair
+06/17/2001 05:33 PM
+To:	Terry Kowalke/ET&S/Enron@ENRON
+cc:	Ava Garcia/ET&S/Enron@Enron, Lynn Blair/ET&S/Enron@ENRON 
+
+Subject:	Customer Scheduler List Needed
+
+Terry, can you have the teams getting Ava email addresses on the list
+this week if Dennis does not already have them in PLE.
+
+Thanks. Lynn
+
+---------------------- Forwarded by Lynn Blair/ET&S/Enron on 06/17/2001 05:29 PM ---------------------------
+   
+	  From:  John Buchanan                           06/13/2001 09:45 AM	
+		
+
+
+To:	Albert Hernandez/ET&S/Enron@ENRON, Beverly Miller/ET&S/Enron@ENRON, Terry Kowalke/ET&S/Enron@ENRON, Cynthia Rivers/ET&S/Enron@ENRON, Linda Ward/ET&S/Enron@ENRON, Amy Mulligan/ET&S/Enron@ENRON, Tracy Minter/ET&S/Enron@Enron, Christine McEvoy/ET&S/Enron@Enron, Christine McEvoy/ET&S/Enron@Enron, Tracy Minter/ET&S/Enron@Enron
+cc:	John Buchanan/ET&S/Enron@ENRON, Terry Kowalke/ET&S/Enron@ENRON, Lynn Blair/ET&S/Enron@Enron 
+
+Subject:	Customer Scheduler List Needed
+
+TW is looking into having a couple of customer meetings, Management needs a list of schedulers for the customers that will be invited. There will probably be a West meeting and a meeting in Houston so they will be done geographically. I am providing the TW Christmas card list as a place to start, so add any new customers and make sure you include the Schedulers names.
+I need this by Friday June 15th 4pm.
+
+ 
+
+Thanks: John Buchanan
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <15212974.1075853052157.JavaMail.evans@thyme>
+Date: Sun, 24 Jun 2001 14:23:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: raetta.zadow@enron.com, larry.berger@enron.com
+Subject: Terra receivable
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lynn Blair
+X-To: Raetta Zadow <Raetta Zadow/ET&S/Enron@ENRON>, Larry Berger <Larry Berger/ET&S/Enron@ENRON>
+X-cc: 
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+FYI.  Thanks. Lynn
+---------------------- Forwarded by Lynn Blair/ET&S/Enron on 06/24/2001 11:20 AM ---------------------------
+   
+	  From:  Sherry Forbish                           06/19/2001 06:52 AM	
+		
+
+
+To:	Lynn Blair/ET&S/Enron@ENRON
+cc:	 
+
+Subject:	Terra receivable
+
+fyi regarding Terra Nitrogen's A/R issue.  Hopefully this will be resolved soon.
+
+---------------------- Forwarded by Sherry Forbish/ET&S/Enron on 06/19/2001 06:52 AM ---------------------------
+
+
+Alice Johnson
+06/18/2001 09:31 AM
+To:	Sherry Forbish/ET&S/Enron@ENRON
+cc:	Kathy Sturr/ET&S/Enron@ENRON 
+
+Subject:	Terra receivable
+
+This may be old news by now, but I want to make sure you see this email.
+---------------------- Forwarded by Alice Johnson/ET&S/Enron on 06/18/2001 09:30 AM ---------------------------
+From:	Dana Jones/Enron@enronXgate on 06/11/2001 04:21 PM
+To:	Rick Dietz/ET&S/Enron@ENRON, Shelley Corman/ENRON@enronXgate, Alice Johnson/ET&S/Enron@ENRON
+cc:	Frank Semin/ENRON@enronXgate, Steve Gilbert/ENRON@enronxgate, Allen Cohrs/ENRON@enronXgate 
+
+Subject:	Terra receivable 
+
+Following up on the Terra accounts receivable discussed at the last customer accounts status meeting, Frank Semin has indicated that he and Dave Neubauer have both been in contact with Terra and are working to resolve.  Frank is currently drafting a letter to Terra addressing the receivable and proposed resolution.
+
+Frank,  Please keep me posted on any progress.
+
+Thanks, Dana
+
+Dana L. Jones
+NNG Commercial Support
+713-853-5787
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <26861882.1075853052059.JavaMail.evans@thyme>
+Date: Sun, 24 Jun 2001 23:00:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: richard.hanagriff@enron.com
+Subject: Re: Compressor Fuel Consumed in Colorado
+Cc: rick.dietz@enron.com, lynn.blair@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: rick.dietz@enron.com, lynn.blair@enron.com
+X-From: Lynn Blair
+X-To: Richard Hanagriff <Richard Hanagriff/ET&S/Enron@ENRON>
+X-cc: Rick Dietz <Rick Dietz/ET&S/Enron@ENRON>, Lynn Blair <Lynn Blair/ET&S/Enron@ENRON>
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+Richard, what is the status of this issue?  Thanks. Lynn
+---------------------- Forwarded by Lynn Blair/ET&S/Enron on 06/24/2001 07:56 PM ---------------------------
+
+
+Richard Hanagriff
+06/07/2001 11:36 AM
+To:	Dan Rittgers/ENRON@enronXgate
+cc:	Kimberly Watson/ET&S/Enron, Lindy Donoho/ET&S/Enron, Rick Dietz/ET&S/Enron@ENRON, Lynn Blair/ET&S/Enron@ENRON, Shelley Corman/ET&S/Enron, Sandra Hrna/HOU/ECT, Terry Kowalke/ET&S/Enron@ENRON, Amy Mulligan/ET&S/Enron@ENRON 
+
+Subject:	Re: Compressor Fuel Consumed in Colorado   
+
+Attached are the volumes and related values(San Juan index) for the La Plata "A" Fuel from September 1996 through April 2001.   We need to meet to discuss the issues related to this potential liability of $367k(total volume * SJ index * .05) and subsequent liability.
+
+ 
+
+
+
+From:	Dan Rittgers/ENRON@enronXgate on 06/06/2001 12:17 PM
+To:	Kimberly Watson/ENRON@enronXgate
+cc:	Sandra Hrna/ENRON@enronXgate, Richard Hanagriff/ET&S/Enron@ENRON, Rich Jolly/ET&S/Enron@ENRON 
+
+Subject:	Compressor Fuel Consumed in Colorado
+
+
+I am in the Transaction Tax Section.  I talked to Rich Jolly.  He said you might have the volume, BTU and value of gas that was consumed in our Colorado compressor 
+station(s) since the acquisition of the La Plata facility.  Can you call me at Ext. 35734 so we can discuss the details of this request?
+
+
+
+
+
+
+<Embedded StdOleLink>
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <19940185.1075853052623.JavaMail.evans@thyme>
+Date: Thu, 21 Jun 2001 19:41:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: ava.garcia@enron.com
+Subject: FW: Monthly Acctg Meeting
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lynn Blair
+X-To: Ava Garcia <Ava Garcia/ET&S/Enron@Enron>
+X-cc: 
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+Ava, please be sure this is on my calendar.  Thanks. Lynn
+---------------------- Forwarded by Lynn Blair/ET&S/Enron on 06/21/2001 04:38 PM ---------------------------
+From:	Larry Berger/ENRON@enronXgate on 06/20/2001 07:52 AM
+To:	Kathy Sturr/ET&S/Enron@ENRON, Katherine Perry/ET&S/Enron@ENRON, Diana Porter/ET&S/Enron@ENRON, Tangie Dykes/ET&S/Enron@ENRON, Alice Johnson/ET&S/Enron@ENRON, Rick Dietz/ENRON@enronXgate
+cc:	Lynn Blair/ET&S/Enron@ENRON, Ava Garcia/ET&S/Enron@Enron 
+
+Subject:	FW: Monthly Acctg Meeting
+
+The Room has changed to EB 4194
+
+ -----Original Message-----
+From: 	Berger, Larry  
+Sent:	Monday, June 18, 2001 10:50 AM
+To:	Sturr, Kathy; Perry, Katherine; Porter, Diana; Dykes, Tangie; Johnson, Alice; Dietz, Rick
+Cc:	Blair, Lynn; Garcia, Ava
+Subject:	Monthly Acctg Meeting
+
+The Monthly Accounting meeting will be held on:
+
+Friday, June 22
+1:30-3:00
+EB 4102
+
+Larry
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <16633585.1075853052204.JavaMail.evans@thyme>
+Date: Sun, 24 Jun 2001 14:06:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: juliawhite65@hotmail.com
+Subject: Hello Julia and Dave
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lynn Blair
+X-To: Juliawhite65 <Juliawhite65@hotmail.com>
+X-cc: 
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+It was good to get your note.  To answer your question, I had my last (hopefully)
+surgery last Monday, June 18th.  Everything went well.  I should be back to
+work on Tuesday, June 26th.  I was surprised I did not get postponed with the
+flooding down in the Medical Center.  I stayed over one night and I was sure
+ready to go home the next day.  I really felt for those nurses.  The hospital
+(Diagnostic Hospital) was full to capacity since they were helping out the
+Medthodist and Herman hospitals.  
+
+Hope all your belongings in storage were OK.  I am so glad ya'll did not have
+more damage than you did.  I talked to Ricki yesterday and she has people
+starting to come in and redo the walls in her house this week.
+
+I am so glad you told me about Steve Klimesh's mom.  I had not heard about that.
+Do you by chance have his address.  I would like to send him a card.  I had lunch
+with him right before he left and he was really looking forward to spending time with
+his Mom.  
+
+Speaking of parents, how are yours?  Hope they are both doing well.
+
+As soon as Steve gets back we will email you and definitely go to lunch.
+
+Take care of each other.  We sure miss you both.  Lynn
+
+From MAILER-DAEMON Mon Apr 18 14:21:01 2022
+Message-ID: <33251960.1075853052181.JavaMail.evans@thyme>
+Date: Sun, 24 Jun 2001 14:20:00 -0700 (PDT)
+From: lynn.blair@enron.com
+To: harry.woodson@enron.com, john.buchanan@enron.com, steven.january@enron.com,
+	gary.spraggins@enron.com
+Subject: FW: Mt. Jesus Condensate
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lynn Blair
+X-To: Harry Woodson <Harry Woodson/ET&S/Enron@ENRON>, John Buchanan <John Buchanan/ET&S/Enron@ENRON>, Steven January <Steven January/ET&S/Enron@ENRON>, Gary Spraggins <Gary Spraggins/ET&S/Enron@ENRON>
+X-cc: 
+X-bcc: 
+X-Folder: \LBLAIR (Non-Privileged)\Blair, Lynn\'Sent Mail
+X-Origin: Blair-L
+X-FileName: LBLAIR (Non-Privileged).pst
+
+FYI.  Just to keep you in the loop.   John, will you verify with Charlie that Rick Kile
+and Ronnie have the lead on this and that he is not waiting on us for anything.  Thanks. Lynn
+---------------------- Forwarded by Lynn Blair/ET&S/Enron on 06/24/2001 11:17 AM ---------------------------
+From:	Charlie Graham/ENRON@enronXgate on 06/19/2001 02:46 PM
+To:	Rick Kile/ET&S/Enron@ENRON, Ronnie Brickman/ET&S/Enron@ENRON
+cc:	Randy Rice/ENRON@enronXgate, Lynn Blair/ET&S/Enron@ENRON, Dan Fancler/ENRON@enronXgate, Debbie Moseley/ENRON@enronXgate, Michel Nelson/ENRON@enronXgate 
+
+Subject:	FW: Mt. Jesus Condensate
+
+FYI
+ -----Original Message-----
+From: 	Graham, Charlie  
+Sent:	Tuesday, June 19, 2001 2:42 PM
+To:	Delaine Kurth (E-mail)
+Subject:	Mt. Jesus Condensate
+
+Delaine,
+
+The Operating Agreement between Northern and KN (now Oneok) entitles Oneok to all condensate and drip liquids removed from any of the Northern pipelines, equipment or facilities upstream of Oneok's Bushton Plant.  That agreement also provides that Oneok will be responsible for picking-up, hauling and providing a detailed accounting of such liquids removed.  In addition Oneok is to pay Northern for the shrinkage attributable to such condensate and drip.  Northern invoices Oneok monthly for a cash reimbursement of the mmbtu's attributable to the condensate removed.
+
+Effective April 2000, Oneok began short paying its invoices.  The table below summarizes the amount shorted through April 2001 as $67, 889.36.  This short payment reflects Oneok's refusal to reimburse Northern for removal of condensate attributable to the Mount Jesus Drip, lease # 71176.  Oneok has indicated to Northern that Oneok's contract hauler contends the liquid removed from Northern's system at this point is water.  In spite of evidence provided by Northern to the contrary, Oneok accepts its contractor's contention, apparently pays a disposal fee, and refuses to reimburse Northern for the mmbtu's lost.  
+
+This location produced condensate prior to the March 31, 1997 agreement and no change to Northern's pipeline operations that would impact condensation dropout has occurred.  Oneok was properly reimbursing Northern prior to April 2000.  In addition, the attached analysis of liquid removed from the location on September 20, 2000, demonstrates that hydrocarbon condensate continues to be collected at the drip.  Northern must insist that compensation for these BTU's removed from Northern's System be made by Oneok.  Your immediate attention to this matter is appreciated.
+
+Thanks
+
+Charlie
+(402) 398-7061
+
+Northern Natural Gas Company											
+Shortpay Analysis											
+Mt. Jesus Drip											
+											
+						(BBLS * 42)		(GAL * .116)			
+Date		Rate		BBLS		Gallons		Mmbtu		Amount	
+Apr-01		 $ 4.9474 		345.00 		   14,490.00 		    1,680.84 		 $  8,315.80 	
+Mar-01		 $ 4.9851 		180.00 		     7,560.00 		      876.96 		 $  4,371.76 	
+Feb-01		 $ 5.5555 		200.00 		     8,400.00 		      974.40 		 $  5,412.96 	
+Jan-01		 $ 8.0133 		180.00 		     7,560.00 		      876.96 		 $  7,027.33 	
+Dec-00		 $ 8.7182 		240.00 		   10,080.00 		    1,169.28 		 $10,194.02 	
+Nov-00		 $ 5.2090 		205.00 		     8,610.00 		      998.76 		 $  5,202.54 	
+Oct-00		 $ 4.8727 		140.00 		     5,880.00 		      682.08 		 $  3,323.57 	
+Sep-00		 $ 4.8503 		240.00 		   10,080.00 		    1,169.28 		 $  5,671.36 	
+Aug-00		 $ 4.2166 		140.00 		     5,880.00 		      682.08 		 $  2,876.06 	
+Jul-00		 $ 3.8249 		140.00 		     5,880.00 		      682.08 		 $  2,608.89 	
+Jun-00		 $ 4.0792 		380.00 		   15,960.00 		    1,851.36 		 $  7,552.07 	
+May-00		 $ 3.2884 		160.00 		     6,720.00 		      779.52 		 $  2,563.37 	
+Apr-00		 $ 2.8424 		200.00 		     8,400.00 		      974.40 		 $  2,769.63 	
+											
+				2,750.00 		 115,500.00 		13,398.00 		 $67,889.36 	
+
+
+ 
+

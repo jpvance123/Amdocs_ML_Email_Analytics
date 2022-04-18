@@ -1,0 +1,695 @@
+From MAILER-DAEMON Mon Apr 18 14:23:18 2022
+Message-ID: <10973194.1075841470680.JavaMail.evans@thyme>
+Date: Mon, 5 Nov 2001 09:22:45 -0800 (PST)
+From: mark.hall@enron.com
+To: faheem.qavi@enron.com, dan.dietrich@enron.com
+Subject: RE: enron internet explorer trusted sites list
+Cc: simon.burgess@enron.com, cooper.richey@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: simon.burgess@enron.com, cooper.richey@enron.com
+X-From: Hall, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JOEA>
+X-To: Qavi, Faheem </O=ENRON/OU=NA/CN=RECIPIENTS/CN=FQAVI>, Dietrich, Dan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ddietri>
+X-cc: Burgess, Simon </O=ENRON/OU=EU/cn=Recipients/cn=SBurgess>, Richey, Cooper </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Crichey>
+X-bcc: 
+X-Folder: \ExMerge - Richey, Cooper\infrastructure
+X-Origin: RICHEY-C
+X-FileName: cooper richey 6-26-02.PST
+
+This request is complete.
+ 
+Faheem, I think we need to sit down together for 30 minutes or so discuss the approval process so I am more aware.
+ 
+Mark
+
+-----Original Message-----
+From: Qavi, Faheem 
+Sent: Thursday, November 01, 2001 9:01 AM
+To: Dietrich, Dan; Hall, Mark
+Subject: RE: enron internet explorer trusted sites list
+
+
+Dan,
+ 
+        No problem.  I just spoke with Cooper and he is sending me a justification for requesting this.  I will keep you posted.  Thanks.
+ 
+
+Faheem A. Qavi 
+Enron Net Works 
+IT Security & Controls 
+* Faheem.Qavi@Enron.Com  
+(  (713) 345-8338 
+
+-----Original Message-----
+From: Dietrich, Dan 
+Sent: Thursday, November 01, 2001 7:58 AM
+To: Qavi, Faheem; Hall, Mark
+Subject: RE: enron internet explorer trusted sites list
+
+
+Faheem,
+ 
+My understanding was that discovery was part of the IT Security and Controls function before approval was granted.
+ 
+Please advise if this is not the case.
+ 
+Regards,
+ 
+Dan
+
+-----Original Message----- 
+From: Qavi, Faheem 
+Sent: Wed 10/31/2001 8:25 AM 
+To: Hall, Mark; Dietrich, Dan 
+Cc: 
+Subject: FW: enron internet explorer trusted sites list
+
+
+
+Mark, 
+
+        I am going to have to defer this to Dan for an answer.  I am not sure of the justification that was given. 
+
+Dan, 
+
+        Can you please follow up with Mark on his question below?  Thanks. 
+
+Faheem A. Qavi 
+Enron Net Works 
+IT Security & Controls 
+* Faheem.Qavi@Enron.Com  
+(  (713) 345-8338 
+
+
+ -----Original Message----- 
+From:   Hall, Mark  
+Sent:   Tuesday, October 30, 2001 4:37 PM 
+To:     Qavi, Faheem 
+Subject:        RE: enron internet explorer trusted sites list 
+
+Any information on this would be great? 
+
+ -----Original Message----- 
+From:   Hall, Mark  
+Sent:   Monday, October 29, 2001 10:00 AM 
+To:     Qavi, Faheem 
+Cc:     Dietrich, Dan 
+Subject:        RE: enron internet explorer trusted sites list 
+
+I am just curious... why do they have to be listed as a trusted site? 
+
+Mark 
+
+ -----Original Message----- 
+From:   Qavi, Faheem  
+Sent:   Monday, October 29, 2001 7:20 AM 
+To:     Hall, Mark 
+Cc:     Dietrich, Dan 
+Subject:        FW: enron internet explorer trusted sites list 
+
+Mark, 
+
+        This has been approved by IT security & Controls.  Please implement for Mr. Richey.  Thanks. 
+
+Faheem A. Qavi 
+Enron Net Works 
+IT Security & Controls 
+* Faheem.Qavi@Enron.Com  
+(  (713) 345-8338 
+
+
+ -----Original Message----- 
+From:   Dietrich, Dan  
+Sent:   Monday, October 29, 2001 8:28 AM 
+To:     Qavi, Faheem 
+Subject:        FW: enron internet explorer trusted sites list 
+
+
+
+ -----Original Message----- 
+From:   Richey, Cooper  
+Sent:   Monday, October 15, 2001 3:05 PM 
+To:     Dietrich, Dan 
+Subject:        enron internet explorer trusted sites list 
+
+Dan, 
+
+there is a list of default "trusted sites" within the enron version of IE and i would like to get albertapower.enron.com added to this list.  
+
+i'm not sure how this list gets populated (whenever IE runs or when it is installed).   
+
+To get to this list go to Tools->Internet Options->Security->Trusted Sites->Sites... 
+
+Do you have any idea about how to get a site added to this list? 
+
+other sites on this list are: 
+
+tradeportal.corp.enron.com 
+*.pjm.com 
+powermarketmodelling.corp.enron.com 
+marketdataviewer.corp.enron.com 
+livelinkeu.corp.enron.com 
+eurohydro.corp.enron.com 
+
+thanks for any help, 
+cooper 
+
+From MAILER-DAEMON Mon Apr 18 14:23:18 2022
+Message-ID: <16189702.1075841470777.JavaMail.evans@thyme>
+Date: Mon, 29 Oct 2001 14:09:58 -0800 (PST)
+From: chris.wiebe@enron.com
+To: cooper.richey@enron.com
+Subject: Script example
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Wiebe, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CWIEBE>
+X-To: Richey, Cooper </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Crichey>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Richey, Cooper\infrastructure
+X-Origin: RICHEY-C
+X-FileName: cooper richey 6-26-02.PST
+
+Here ya go,
+ 
+
+Chris Wiebe 
+Staff, Data Technologies 
+Enron Canada Corp. 
+Phone: (403) 974-6929 
+Cell: (403) 650-7224 
+Pager: (403) 212-9989 
+Pager email: chriswiebe@epagenet.net 
+Email: Chris.Wiebe@Enron.com 
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:18 2022
+Message-ID: <26319175.1075841470608.JavaMail.evans@thyme>
+Date: Thu, 15 Nov 2001 08:42:39 -0800 (PST)
+From: mark.kinkead@enron.com
+To: colin.poon@enron.com
+Subject: RE: data
+Cc: cooper.richey@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: cooper.richey@enron.com
+X-From: Kinkead, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MKINKEA>
+X-To: Poon Tip, Colin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cpoonti2>
+X-cc: Richey, Cooper </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Crichey>
+X-bcc: 
+X-Folder: \ExMerge - Richey, Cooper\infrastructure
+X-Origin: RICHEY-C
+X-FileName: cooper richey 6-26-02.PST
+
+Below are two EOL Read only accounts. I give you two because after you go into production mode, you will want an account to continue testing and development with.
+
+
+Accounts are:
+
+CANAFUNDP1
+CANAFUNDT1
+
+Pwd for both is "TheWeather"
+
+I have set the filters up  on these to US Gas/Power, Canada Gas/Power, UYS/Canada Dollars.
+
+You can log in as a user of EOL if you wish to change the filters.
+
+
+Interfacing information:
+
+Non-realTime server : www.enrononline.com <http://www.enrononline.com>
+Non-realtime port: 80
+
+RealTime server : util3.enrononline.com
+Realtime port: 7373
+
+
+These should be usable with the Realtime server on util3 in the morning Friday. Let me know if they are not.
+
+--Mark
+
+
+
+
+
+ -----Original Message-----
+From: 	Poon Tip, Colin  
+Sent:	Thursday, November 15, 2001 10:25 AM
+To:	Kinkead, Mark
+Subject:	RE: data
+
+Hey Mark,
+this is the data that Cooper is requesting:
+
+Canadian gas
+U.S. gas
+Canadian power
+U.S. west power
+Currency (Canadian/U.S.)
+
+thanks.
+
+ -----Original Message-----
+From: 	Kinkead, Mark  
+Sent:	Thursday, November 15, 2001 9:07 AM
+To:	Poon Tip, Colin
+Subject:	RE: data
+
+They are not really made for that type of activity.
+
+I do have the accounts for prod and you should be getting them tomorrow, you should get more randomness then.
+
+
+What commodities are you going to be interested in? (US Gas?Canada Gas? Canada Power?)
+
+--Mark
+
+
+ -----Original Message-----
+From: 	Poon Tip, Colin  
+Sent:	Thursday, November 15, 2001 10:05 AM
+To:	Kinkead, Mark
+Subject:	data
+
+Hey Mark,
+Thanks for changing the drivers.  Is there any way to configure the drivers to have more sporadic types of messages?  Right now I'm getting a whole lot of <PRODUCTPRICE> tags, but I'd like to further test for all the other documented conditions.  Like timeouts, empty <UPDATE>, security tags etc...........if it's possible, let me know.  It would help greatly;)
+
+cheers.
+
+From MAILER-DAEMON Mon Apr 18 14:23:18 2022
+Message-ID: <28831470.1075841470655.JavaMail.evans@thyme>
+Date: Mon, 5 Nov 2001 09:37:27 -0800 (PST)
+From: mark.hall@enron.com
+To: cooper.richey@enron.com
+Subject: RE: apologies
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Hall, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JOEA>
+X-To: Richey, Cooper </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Crichey>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Richey, Cooper\infrastructure
+X-Origin: RICHEY-C
+X-FileName: cooper richey 6-26-02.PST
+
+Not a problem.  I understand you frustration.
+
+Mark
+
+ -----Original Message-----
+From: 	Richey, Cooper  
+Sent:	Monday, November 05, 2001 11:35 AM
+To:	Hall, Mark
+Subject:	apologies
+
+Mark,
+
+sorry if I was an ass.  i just want to get things done quickly and it didn't
+appear to me that was going to happen, so I wanted to cut my losses.  
+
+i don't have much patience for IT processes and I'm usually smart enough 
+to not embroil myself in anything, but occassionally I have a judgement
+lapse.  
+
+I appreciate your help.  
+
+Cooper
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:18 2022
+Message-ID: <31859160.1075841470632.JavaMail.evans@thyme>
+Date: Wed, 7 Nov 2001 07:44:48 -0800 (PST)
+From: mark.kinkead@enron.com
+To: cooper.richey@enron.com
+Subject: RE: EOL realtime data access
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Kinkead, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MKINKEA>
+X-To: Richey, Cooper </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Crichey>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Richey, Cooper\infrastructure
+X-Origin: RICHEY-C
+X-FileName: cooper richey 6-26-02.PST
+
+I will work on the production accounts. Here I the info for our test environment:
+
+
+
+User id = 'STRESSTRADER105000'
+Pwd = 'STRESSPASS'
+
+NRT server = testweb1.eoltest.com   port 80
+
+RT server = testweb1.eoltest.com port 7373
+
+
+Give me a shout if you need.
+
+--Mark
+3-1961
+
+
+ -----Original Message-----
+From: 	Richey, Cooper  
+Sent:	Tuesday, November 06, 2001 12:59 PM
+To:	Hillier, Bob
+Cc:	Kinkead, Mark
+Subject:	EOL realtime data access
+
+As per instructions in the "EnronOnline RealTime Login API", I am requesting a read-only client account for EOL production.  
+
+I work in the Calgary office and we are building a fundamentals decision support tool for trading that requires realtime EOL price data feeds.  This tool will be used initially for canadian power and gas products and will require access to power, gas, and currency EOL price feeds.
+
+Please let me know if you require more information from me.  
+
+Thanks,
+Cooper
+
+403 974 6946
+
+From MAILER-DAEMON Mon Apr 18 14:23:18 2022
+Message-ID: <11329653.1075841470704.JavaMail.evans@thyme>
+Date: Mon, 5 Nov 2001 06:39:23 -0800 (PST)
+From: mark.kinkead@enron.com
+To: cooper.richey@enron.com
+Subject: RE: EOL Price Data
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Kinkead, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MKINKEA>
+X-To: Richey, Cooper </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Crichey>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Richey, Cooper\infrastructure
+X-Origin: RICHEY-C
+X-FileName: cooper richey 6-26-02.PST
+
+Sorry I was on holiday last week. Here is an api document to a realtime server. Give me a call when yo wish to discuss.
+
+--Mark
+ 
+
+ -----Original Message-----
+From: 	Richey, Cooper  
+Sent:	Wednesday, October 31, 2001 12:25 PM
+To:	Kinkead, Mark
+Subject:	EOL Price Data
+
+Hi Mark,
+
+Dave Dronet passed on your name as an EOL contact point for internal data.  I trade 
+power in the Calgary office and also manage some trading decision support work (similar to 
+Dave's group, but smaller in scale).  
+
+We are very interested in pulling EOL prices real-time as a number of our products are 
+functions of other EOL products.
+
+>From talking to Dave, it seems that currently TIBCO is used to push eol price changes to 
+clients, but that this will be discontinued in the near future in favor of rapid polling for price 
+changes from a db.  Do you have time to bring us up to speed on your recommended approach
+for monitoring EOL price changes?  I have two developers up here working on this project 
+and Dave has also passed on the code his group has developed. 
+
+Thanks for any help,
+Cooper
+
+403 974 6946
+
+From MAILER-DAEMON Mon Apr 18 14:23:18 2022
+Message-ID: <9118776.1075841470754.JavaMail.evans@thyme>
+Date: Fri, 2 Nov 2001 14:33:57 -0800 (PST)
+From: mark.hall@enron.com
+To: cooper.richey@enron.com
+Subject: RE: albertapower.enron.com added to trusted sites list
+Cc: faheem.qavi@enron.com, dan.dietrich@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: faheem.qavi@enron.com, dan.dietrich@enron.com
+X-From: Hall, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JOEA>
+X-To: Richey, Cooper </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Crichey>
+X-cc: Qavi, Faheem </O=ENRON/OU=NA/CN=RECIPIENTS/CN=FQAVI>, Dietrich, Dan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ddietri>
+X-bcc: 
+X-Folder: \ExMerge - Richey, Cooper\infrastructure
+X-Origin: RICHEY-C
+X-FileName: cooper richey 6-26-02.PST
+
+Here are few question that I think should be asked before the approval of this change be granted:
+What is the particulars of the reasoning behind needing the site to be listed as Trusted?
+What functionality is missing or broken because it is only listed as a intranet site?
+What option in the configuration of Trusted sites facilitates the functionality that is broken or missing?
+
+Please remit answer at your earliest convience.
+
+Mark Hall
+Desktop Architecture
+
+ -----Original Message-----
+From: 	Qavi, Faheem  
+Sent:	Friday, November 02, 2001 11:11 AM
+To:	Hall, Mark
+Subject:	FW: albertapower.enron.com added to trusted sites list
+
+Mark,
+
+	Will this suffice or do you need more?  Thanks.
+
+Faheem A. Qavi
+Enron Net Works
+IT Security & Controls
+* Faheem.Qavi@Enron.Com  
+(  (713) 345-8338
+
+
+ -----Original Message-----
+From: 	Richey, Cooper  
+Sent:	Friday, November 02, 2001 11:09 AM
+To:	Qavi, Faheem
+Subject:	albertapower.enron.com added to trusted sites list
+
+please add "http://albertapower.enron.com" to the trusted sites list to facilitate power and gas traders' access to web-based decision 	support tools.  
+
+let me know if there are other questions/issues
+
+Cooper Richey
+403 974 6946
+
+From MAILER-DAEMON Mon Apr 18 14:23:18 2022
+Message-ID: <7432552.1075841470799.JavaMail.evans@thyme>
+Date: Thu, 18 Oct 2001 13:12:13 -0700 (PDT)
+From: chris.wiebe@enron.com
+To: cooper.richey@enron.com
+Subject: RE: development stored procs to prod
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Wiebe, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CWIEBE>
+X-To: Richey, Cooper </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Crichey>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Richey, Cooper\infrastructure
+X-Origin: RICHEY-C
+X-FileName: cooper richey 6-26-02.PST
+
+Just an FYI, if you want to alter procedures in production already, you can use the command Alter Procedure, instead of Create Procedure.  Everything else would be as you have it in your scripts.  All it does is change the code of the procedure without touching dependencies or permissions.  I'll change that in these so that you don't have to.
+
+Thanks, :)
+
+Chris Wiebe 
+Staff, Data Technologies 
+Enron Canada Corp. 
+Phone: (403) 974-6929 
+Cell: (403) 650-7224 
+Pager: (403) 212-9989 
+Pager email: chriswiebe@epagenet.net 
+Email: Chris.Wiebe@Enron.com 
+
+
+ -----Original Message-----
+From: 	Richey, Cooper  
+Sent:	Thursday, October 18, 2001 1:48 PM
+To:	Wiebe, Chris
+Subject:	development stored procs to prod
+
+can you update the following procs in prod with these scripts while (maintain existing set of permissions?
+
+ << File: sp_poolprice.sql >>  << File: sp2.sql >>  << File: sp3.sql >> 
+thx,
+cooper
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:18 2022
+Message-ID: <29317435.1075841470823.JavaMail.evans@thyme>
+Date: Mon, 14 May 2001 19:06:00 -0700 (PDT)
+From: robert.anderson@enron.com
+To: cooper.richey@enron.com
+Subject: RE: New Production Web Server
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Robert Anderson <Robert Anderson/ENRON@enronXgate@ENRON>
+X-To: Cooper Richey <Cooper Richey/CAL/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Richey, Cooper\infrastructure
+X-Origin: RICHEY-C
+X-FileName: cooper richey 6-26-02.PST
+
+Shoot... I guess that print config page is not as "convienient" as advertised... :)
+
+We are getting two of these:
+
+Compaq ProLiant DL360
+Dual Pentium III 1Ghz/133
+1GB SDRAM 133MHz (4x256)
+RAID 1 setting
+(2) 18.2GB hot pluggable Ultra3 SCSI 15,000 rpm Hard Drives
+
+So, that is the basic scoop... Being that we will only use this for final draft web stuff, I don't forsee ever hitting that 36 GB disk space limit... 
+
+The coolest part is that this is a 5 times better system, but two of these will cost less than we spent on the current system almost a year ago...
+
+ -----Original Message-----
+From: 	Richey, Cooper  
+Sent:	Monday, May 14, 2001 10:49 AM
+To:	Anderson, Robert
+Subject:	Re: New Production Web Server
+
+Bob,
+
+sounds good, but the page you sent me doesn't work, maybe i need a cookie or it's only temporary.  what are the 
+basic specs?
+
+	-c
+
+
+
+From:	Robert Anderson/ENRON@enronXgate on 05/14/2001 11:35 AM CDT
+To:	Cooper Richey/CAL/ECT@ECT
+cc:	 
+Subject:	New Production Web Server
+
+Cooper -
+
+I thought that you might be interested in an update to our web server activities...
+
+Our plan (at this point) is to purchase a new production server and keep the existing system as the development server and file server.
+
+This is what we are looking at:
+http://www.directpluspro.compaq.com/printconfig.asp?oi=E9CED&dcpqsid=1DMLAVWF98S92G2N00AKHB60TV7UA5HF&BEID=19701
+
+We are planning to purchase two of these (identical of course). We plan to have one mirror the other so the we can balance the load, and also so that (in the event of a problem) one can function independent of the other... the idea the we can literally shut one down without the web site going down is exciting... also, being able to upgrade by simply slapping in a new "pizza box" is quite intriguing...
+
+Any comments that you might have are more than welcome.
+
+Bob
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:18 2022
+Message-ID: <29641921.1075841470729.JavaMail.evans@thyme>
+Date: Sat, 3 Nov 2001 10:11:13 -0800 (PST)
+From: mark.hall@enron.com
+To: cooper.richey@enron.com
+Subject: RE: albertapower.enron.com added to trusted sites list
+Cc: faheem.qavi@enron.com, dan.dietrich@enron.com, simon.burgess@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: faheem.qavi@enron.com, dan.dietrich@enron.com, simon.burgess@enron.com
+X-From: Hall, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JOEA>
+X-To: Richey, Cooper </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Crichey>
+X-cc: Qavi, Faheem </O=ENRON/OU=NA/CN=RECIPIENTS/CN=FQAVI>, Dietrich, Dan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ddietri>, Burgess, Simon </O=ENRON/OU=EU/cn=Recipients/cn=SBurgess>
+X-bcc: 
+X-Folder: \ExMerge - Richey, Cooper\infrastructure
+X-Origin: RICHEY-C
+X-FileName: cooper richey 6-26-02.PST
+
+Who controls, developes and designs the activeX control?  If the control is developed in housen the component should follow and proper review/release process and then signed for production.  If this control is developed by an outside source, what is the functionality of the object?  what processes where taken to ensure the assurance of "fair-play" from a security risk evaluation point on this version and all potention upgrade versions?  And what relationship do we have with them to inquire about a signed version of their component?
+
+Sorry for the incovienence of these queries, and I am sorry that these questions have to come from a desktop architect.  But to maintain tight security to ensure the stability for Enrons network, I think that these are important issues.
+
+ 
+>From Mark Hall's Blackberry
+
+-----Original Message-----
+From: Richey, Cooper <Cooper.Richey@ENRON.com>
+To: Hall, Mark <Mark.Hall@ENRON.com>
+CC: Qavi, Faheem <Faheem.Qavi@ENRON.com>; Dietrich, Dan <Dan.Dietrich@ENRON.com>
+Sent: Fri Nov 02 16:58:08 2001
+Subject: RE: albertapower.enron.com added to trusted sites list
+
+
+		What is the particulars of the reasoning behind needing the site to be listed as Trusted?
+		TO FACILITATE POWER AND GAS TRADERS' ACCESS TO WEB-BASED DECISION
+		SUPPORT TOOLS.
+
+		What functionality is missing or broken because it is only listed as a intranet site?
+		ACCESS DATA SOURCES FROM OTHER DOMAINS
+
+		What option in the configuration of Trusted sites facilitates the functionality that is broken or missing?
+		(1) DOWNLOAD UNSIGNED ACTIVE-X CONTROLS
+
+		are these answers satisfactory? if not, please let me know what else I can possibly do
+		to get this done.   
+
+		Cooper
+
+
+
+	 -----Original Message-----
+	From: 	Hall, Mark  
+	Sent:	Friday, November 02, 2001 3:34 PM
+	To:	Richey, Cooper
+	Cc:	Qavi, Faheem; Dietrich, Dan
+	Subject:	RE: albertapower.enron.com added to trusted sites list
+
+	Here are few question that I think should be asked before the approval of this change be granted:
+		What is the particulars of the reasoning behind needing the site to be listed as Trusted?
+		What functionality is missing or broken because it is only listed as a intranet site?
+		What option in the configuration of Trusted sites facilitates the functionality that is broken or missing?
+
+	Please remit answer at your earliest convience.
+
+	Mark Hall
+	Desktop Architecture
+
+		 -----Original Message-----
+		From: 	Qavi, Faheem  
+		Sent:	Friday, November 02, 2001 11:11 AM
+		To:	Hall, Mark
+		Subject:	FW: albertapower.enron.com added to trusted sites list
+
+		Mark,
+
+			Will this suffice or do you need more?  Thanks.
+
+		Faheem A. Qavi
+		Enron Net Works
+		IT Security & Controls
+		* Faheem.Qavi@Enron.Com  
+		*  (713) 345-8338
+
+
+		 -----Original Message-----
+		From: 	Richey, Cooper  
+		Sent:	Friday, November 02, 2001 11:09 AM
+		To:	Qavi, Faheem
+		Subject:	albertapower.enron.com added to trusted sites list
+
+		please add "http://albertapower.enron.com" to the trusted sites list to facilitate power and gas traders' access to web-based decision 	support tools.  
+
+		let me know if there are other questions/issues
+
+		Cooper Richey
+		403 974 6946
+

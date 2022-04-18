@@ -1,0 +1,96 @@
+From MAILER-DAEMON Mon Apr 18 14:19:02 2022
+Message-ID: <17424887.1075856567102.JavaMail.evans@thyme>
+Date: Tue, 3 Oct 2000 04:44:00 -0700 (PDT)
+From: bob.lee@enron.com
+To: michael.anderson@enron.com
+Subject: Re: Joint Probabilities
+Cc: stinson.gibner@enron.com, vince.kaminski@enron.com, zimin.lu@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stinson.gibner@enron.com, vince.kaminski@enron.com, zimin.lu@enron.com
+X-From: Bob Lee
+X-To: Michael Anderson
+X-cc: Stinson Gibner, Vince J Kaminski, Zimin Lu
+X-bcc: 
+X-Folder: \Vincent_Kaminski_Jun2001_5\Notes Folders\Azurix\Azurix
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Michael
+
+The updated probabilities are attached.  The probability of reaching any Fx 
+times RAB multiple are the same as the original analysis.  The probabilities 
+of reaching a given stock price are lower than the original analysis in both 
+the optimistic and pessimistic cases because the debt levels are higher, and 
+hence the stock value is lower for any Fx-RAB value.
+
+Bob Lee
+x35163
+
+From MAILER-DAEMON Mon Apr 18 14:19:02 2022
+Message-ID: <1878214.1075856567147.JavaMail.evans@thyme>
+Date: Wed, 30 Aug 2000 03:27:00 -0700 (PDT)
+From: bob.lee@enron.com
+To: michael.anderson@enron.com
+Subject: Re: Joint Probabilities
+Cc: zimin.lu@enron.com, vince.kaminski@enron.com, stinson.gibner@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: zimin.lu@enron.com, vince.kaminski@enron.com, stinson.gibner@enron.com
+X-From: Bob Lee
+X-To: Michael Anderson
+X-cc: Zimin Lu, Vince J Kaminski, Stinson Gibner
+X-bcc: 
+X-Folder: \Vincent_Kaminski_Jun2001_5\Notes Folders\Azurix\Azurix
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Michael
+
+A table (Table 2) has been added with probabilities for RAB > x, Fx > y.  At 
+the current currency level, approx 1.5, all the numbers are multiplied by 1/2 
+because the currency is equally likely to rise or fall.  This may give a 
+pessimetic view of achieving a given stock price.
+
+Let me know when you want to get togetrher.
+
+Bob
+
+From MAILER-DAEMON Mon Apr 18 14:19:02 2022
+Message-ID: <30547881.1075856567123.JavaMail.evans@thyme>
+Date: Mon, 2 Oct 2000 13:42:00 -0700 (PDT)
+From: michael.anderson@enron.com
+To: bob.lee@enron.com
+Subject: Re: Joint Probabilities
+Cc: stinson.gibner@enron.com, vince.kaminski@enron.com, zimin.lu@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stinson.gibner@enron.com, vince.kaminski@enron.com, zimin.lu@enron.com
+X-From: Michael Anderson
+X-To: Bob Lee
+X-cc: Stinson Gibner, Vince J Kaminski, Zimin Lu
+X-bcc: 
+X-Folder: \Vincent_Kaminski_Jun2001_5\Notes Folders\Azurix\Azurix
+X-Origin: Kaminski-V
+X-FileName: vkamins.nsf
+
+Bob -
+
+I've edited our numbers a bit on the Azurix analysis and would like you to 
+re-run the joint probabilities tables.
+
+Please note that I've got 2 cases in the model now - an optimistic case and a 
+pessimistic case.  I hope you can run both cases.  (you will need to toggle 
+for case 1 or 2 - real complicated stuff!!)
+
+Please keep everything else the same (ie, the currency probabilities, RAB 
+probabilities, etc.)
+
+Thanks for your help.
+
+Michael Anderson
+646-9666
+

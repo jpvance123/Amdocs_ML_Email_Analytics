@@ -1,0 +1,1577 @@
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <14247437.1075839945547.JavaMail.evans@thyme>
+Date: Tue, 12 Jun 2001 16:14:29 -0700 (PDT)
+From: smholden@bpa.gov
+To: robert'.'harshbarger@enron.com, mons.ellingson@enron.com,
+	demetrios.fotiou@enron.com, lisa.grow@enron.com,
+	susan.holden-baker@enron.com, chris.smith@enron.com,
+	carmine.tilghman@enron.com, john.underwood@enron.com,
+	bill.williams@enron.com
+Subject: FW: Possible new E-tag time table
+Cc: carter@enron.com, gjcarter@bpa.gov, ellingwood@enron.com,
+	rgellingwood@bpa.gov, hutchison@enron.com, wahutchison@bpa.gov,
+	buchanan@enron.com, scbuchanan@bpa.gov, buckmier@enron.com,
+	smbuckmier@bpa.gov, mcneil-keister@enron.com, jmcneilkeister@bpa.gov,
+	hoffman@enron.com, lshoffman@bpa.gov
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: carter@enron.com, gjcarter@bpa.gov, ellingwood@enron.com,
+	rgellingwood@bpa.gov, hutchison@enron.com, wahutchison@bpa.gov,
+	buchanan@enron.com, scbuchanan@bpa.gov, buckmier@enron.com,
+	smbuckmier@bpa.gov, mcneil-keister@enron.com, jmcneilkeister@bpa.gov,
+	hoffman@enron.com, lshoffman@bpa.gov
+X-From: "Holden-Baker, Susan - TMS-DITT2" <smholden@bpa.gov>@ENRON <IMCEANOTES-+22Holden-Baker+2C+20Susan+20-+20TMS-DITT2+22+20+3Csmholden+40bpa+2Egov+3E+40ENRON@ENRON.com>
+X-To: 'Harshbarger, Robert' <bharsh@puget.com>, Ellingson, Mons <mons.ellingson@pinnaclewest.com>, Fotiou, Demetrios <Demetrios.Fotiou@BCHydro.bc.ca>, Grow, Lisa <lgrow@idahopower.com>, Holden-Baker, Susan <smholden@bpa.gov>, Smith, Chris <csmith@caiso.com>, Tilghman, Carmine <ctilghman@tucsonelectric.com>, Underwood, John <john.underwood@avistacorp.com>, Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BWILLIA5>, 'DEMPSEY@wapa.gov', 'Hackney, Mark' <mhackney@apsc.com>
+X-cc: Carter, Gloria J - TMS-DITT1 <gjcarter@bpa.gov>, Ellingwood, Robert G - TMS <rgellingwood@bpa.gov>, Hutchison, Wesley A - TMS <wahutchison@bpa.gov>, Buchanan, Shepard - TMS-DITT1 <scbuchanan@bpa.gov>, Buckmier, Shirley M.- TMS <smbuckmier@bpa.gov>, McNeil-Keister, Jean - TMS <jmcneilkeister@bpa.gov>, Hoffman, Lorie S - TMS-DITT1 <lshoffman@bpa.gov>
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\Operations Committee/ISAS
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+
+I made a few suggested revisions in the attached tag time table.  BPAT is
+supportive of the change to remove the preschedule flag and also to use the
+LCA prevailing time.  Thanks for the opportunity to comment.
+
+-----Original Message-----
+From: Harshbarger, Robert [mailto:bharsh@puget.com]
+Sent: Monday, June 11, 2001 3:52 PM
+To: Ellingson, Mons; Fotiou, Demetrios; Grow, Lisa; Holden-Baker, Susan;
+Smith, Chris; Tilghman, Carmine; Underwood, John; Williams, Bill
+Cc: 'Hackney, Mark'
+Subject: FW: Possible new E-tag time table
+
+
+Jerry Dempsey has sent the attached regarding the preschedule flag in E-Tag.
+
+What he is proposing is:
+*	a revision to the timeline tables in A3A to enable software to make
+the determination of whether or not a tag is for preschedule or real-time
+(currently it is a flag set by the PSE creating the tag).
+*	Referencing time in terms of the Load Control Area's prevailing time
+(this fits the Authority Service is associated with the load control area
+and it's the Authority Service that keeps the time).
+
+It may be possible to get this revision worked in to the 1.7 release.
+
+Process
+Please review his proposal and comment.
+Specifically, do you support the concept of removing the flag and using the
+timing table logic?
+Do you support adjusting times to reference the Load Control Area prevailing
+time?
+
+If we reach a consensus on this issue by the end of the week, we can forward
+on a recommendation to Mark for distribution to the whole ISAS.  If there is
+support from all of ISAS, then it can be taken to NERC IS/TISWG for
+approval.
+
+Please let me know by the end of business June 15, 2001.
+
+Bob Harshbarger
+425.882.4643
+> ----------
+> From: 	JERRY DEMPSEY[SMTP:DEMPSEY@wapa.gov]
+> Sent: 	Sunday, June 03, 2001 10:42 AM
+> To: 	bharsh@puget.com
+> Cc: 	Mark.Hackney@aps.com
+> Subject: 	Possible new E-tag time table
+>
+>  <<tag time table draft june 01.doc>>
+> Bob,
+>
+> Mark Hackney suggested I start with you on this issue since you were
+> heading up the timing group for ISAS.
+>
+> Here is the issue - under the current WSCC timing table for tags in Policy
+> 3, it is impossible to program whether or not the tag is preschedule or
+> real-time.  The NERC tagging group is the group that came up with manually
+> selecting the preschedule "flag".  I know that PPW, BPA and ourselves have
+> run into a couple of problems with this.  It's been when the merchant has
+> selected that flag when it was actually a real-time transaction.  PPW and
+> ourselves put it in our scheduling system, BPA (and someone else) did not.
+>
+>
+> At the NERC OSC meeting last week, I asked the question again about how
+> can this be fixed in version 1.7.  I was hoping it was as easy as having
+> each authority register their timezone in the new Master registry that's
+> being developed.  Well - it wasn't that easy.  They explained the other
+> problems and I then developed the attached time table.  The group reviewed
+> this time table and agreed that it could be automated to determine if a
+> tag was preschedule or realtime.
+>
+> In order to get this programmed into version 1.7, we need to get Policy 3
+> revised with the new time table.  In order to get the new time table
+> approved, it probably starts with your subgroup, then probably goes to
+> Hackney for an e-mail vote to ISAS, then probably on to WSCC OC, then
+> finally to NERC.  Problem is we need to do this quickly, by the end of
+> June if possible, so that the new Policy 3 will be out in time for 1.7
+> release in October.
+>
+> Now - there's nothing that says this has to happen either.  Another option
+> is to just leave it as it is today.  I'd prefer to automate it, but that's
+> only my opinion.
+>
+> At any rate - the NERC OSC has agreed to include timezone in the new NERC
+> Master registry.  They have also agreed to incorporate this change into
+> 1.7 if it's part of Policy 3.  That's were we stand right now.
+>
+> As for your subgroup - I don't think I'm on your list, but go ahead and
+> add me on if you don't mind.
+>
+> Call or e-mail if you have any questions.
+>
+> Thanks - Jerry
+> dempsey@wapa.gov
+> (970)461-7299
+>
+>
+
+
+ - tag time table draft june 01.doc 
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <12258573.1075839945574.JavaMail.evans@thyme>
+Date: Mon, 11 Jun 2001 18:52:25 -0700 (PDT)
+From: bharsh@puget.com
+To: mons.ellingson@enron.com, demetrios.fotiou@enron.com, lisa.grow@enron.com,
+	susan.holden-baker@enron.com, chris.smith@enron.com,
+	carmine.tilghman@enron.com, john.underwood@enron.com,
+	bill.williams@enron.com
+Subject: FW: Possible new E-tag time table
+Cc: 'hackney@enron.com, mhackney@apsc.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: 'hackney@enron.com, mhackney@apsc.com
+X-From: "Harshbarger, Robert" <bharsh@puget.com>@ENRON <IMCEANOTES-+22Harshbarger+2C+20Robert+22+20+3Cbharsh+40puget+2Ecom+3E+40ENRON@ENRON.com>
+X-To: Ellingson, Mons <mons.ellingson@pinnaclewest.com>, Fotiou, Demetrios <Demetrios.Fotiou@BCHydro.bc.ca>, Grow, Lisa <lgrow@idahopower.com>, Holden-Baker, Susan <smholden@bpa.gov>, Smith, Chris <csmith@caiso.com>, Tilghman, Carmine <ctilghman@tucsonelectric.com>, Underwood, John <john.underwood@avistacorp.com>, Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BWILLIA5>
+X-cc: 'Hackney, Mark' <mhackney@apsc.com>
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\Operations Committee/ISAS
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+Jerry Dempsey has sent the attached regarding the preschedule flag in E-Tag.
+
+What he is proposing is:
+*	a revision to the timeline tables in A3A to enable software to make
+the determination of whether or not a tag is for preschedule or real-time
+(currently it is a flag set by the PSE creating the tag).
+*	Referencing time in terms of the Load Control Area's prevailing time
+(this fits the Authority Service is associated with the load control area
+and it's the Authority Service that keeps the time).
+
+It may be possible to get this revision worked in to the 1.7 release.
+
+Process
+Please review his proposal and comment.
+Specifically, do you support the concept of removing the flag and using the
+timing table logic?
+Do you support adjusting times to reference the Load Control Area prevailing
+time?
+
+If we reach a consensus on this issue by the end of the week, we can forward
+on a recommendation to Mark for distribution to the whole ISAS.  If there is
+support from all of ISAS, then it can be taken to NERC IS/TISWG for
+approval.
+
+Please let me know by the end of business June 15, 2001.
+
+Bob Harshbarger
+425.882.4643
+> ----------
+> From: 	JERRY DEMPSEY[SMTP:DEMPSEY@wapa.gov]
+> Sent: 	Sunday, June 03, 2001 10:42 AM
+> To: 	bharsh@puget.com
+> Cc: 	Mark.Hackney@aps.com
+> Subject: 	Possible new E-tag time table
+>
+>  <<tag time table draft june 01.doc>>
+> Bob,
+>
+> Mark Hackney suggested I start with you on this issue since you were
+> heading up the timing group for ISAS.
+>
+> Here is the issue - under the current WSCC timing table for tags in Policy
+> 3, it is impossible to program whether or not the tag is preschedule or
+> real-time.  The NERC tagging group is the group that came up with manually
+> selecting the preschedule "flag".  I know that PPW, BPA and ourselves have
+> run into a couple of problems with this.  It's been when the merchant has
+> selected that flag when it was actually a real-time transaction.  PPW and
+> ourselves put it in our scheduling system, BPA (and someone else) did not.
+>
+>
+> At the NERC OSC meeting last week, I asked the question again about how
+> can this be fixed in version 1.7.  I was hoping it was as easy as having
+> each authority register their timezone in the new Master registry that's
+> being developed.  Well - it wasn't that easy.  They explained the other
+> problems and I then developed the attached time table.  The group reviewed
+> this time table and agreed that it could be automated to determine if a
+> tag was preschedule or realtime.
+>
+> In order to get this programmed into version 1.7, we need to get Policy 3
+> revised with the new time table.  In order to get the new time table
+> approved, it probably starts with your subgroup, then probably goes to
+> Hackney for an e-mail vote to ISAS, then probably on to WSCC OC, then
+> finally to NERC.  Problem is we need to do this quickly, by the end of
+> June if possible, so that the new Policy 3 will be out in time for 1.7
+> release in October.
+>
+> Now - there's nothing that says this has to happen either.  Another option
+> is to just leave it as it is today.  I'd prefer to automate it, but that's
+> only my opinion.
+>
+> At any rate - the NERC OSC has agreed to include timezone in the new NERC
+> Master registry.  They have also agreed to incorporate this change into
+> 1.7 if it's part of Policy 3.  That's were we stand right now.
+>
+> As for your subgroup - I don't think I'm on your list, but go ahead and
+> add me on if you don't mind.
+>
+> Call or e-mail if you have any questions.
+>
+> Thanks - Jerry
+> dempsey@wapa.gov
+> (970)461-7299
+>
+>
+
+ - tag time table draft june 01.doc 
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <21648882.1075839945264.JavaMail.evans@thyme>
+Date: Tue, 19 Jun 2001 19:41:31 -0700 (PDT)
+From: ctilghman@tucsonelectric.com
+To: robert'.'harshbarger@enron.com, jerry'.'dempsey@enron.com,
+	mons.ellingson@enron.com, demetrios.fotiou@enron.com,
+	lisa.grow@enron.com, susan.holden-baker@enron.com,
+	chris.smith@enron.com, john.underwood@enron.com,
+	bill.williams@enron.com
+Subject: RE: Meeting
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "Tilghman, Carmine" <CTilghman@TucsonElectric.com>@ENRON <IMCEANOTES-+22Tilghman+2C+20Carmine+22+20+3CCTilghman+40TucsonElectric+2Ecom+3E+40ENRON@ENRON.com>
+X-To: 'Harshbarger, Robert' <bharsh@puget.com>, 'DEMPSEY, JERRY' <DEMPSEY@wapa.gov>, Ellingson, Mons <mons.ellingson@pinnaclewest.com>, Fotiou, Demetrios <Demetrios.Fotiou@BCHydro.bc.ca>, Grow, Lisa <lgrow@idahopower.com>, Holden-Baker, Susan <smholden@bpa.gov>, Smith, Chris <csmith@caiso.com>, Underwood, John <john.underwood@avistacorp.com>, Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BWILLIA5>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\Operations Committee/ISAS
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+Bob,
+Sorry for the late response, I've been gone the last 10 days. I will not be
+able to make the meeting on June 27. I do like Jack Dempsey's proposal. I'm
+not sure I completely understand Mons' reasoning, but I believe the PSE
+submission deadline should be left at 30 minutes for the following 2
+reasons:
+
+1. 3A1 is very explicit in its definition of transaction start time and
+excluding the ramp time. If we change it to read "20 minutes prior
+    to start" that would allow a tag to be submitted at 40 after.
+
+2. If the 20 minutes verbage is to be used, then the the remaining verbage
+defining transaction start time as excluding ramp time will
+    need to be removed.
+
+It was my understanding that both proposals intended to leave the real-time
+deadline at :30 after.
+
+However, I still have the same questions as a few weeks ago with respect to
+the new BP's being put forth by the ESC/ESTF. Are we going to take into
+account the BP's that the ECS/ESTF have put out/being commented on? The
+schedule process BP has several ramping/timing changes, as well as frag
+tags. They aren't asking whether or not we should adopt Eastern Connection
+timelines, they're just doing it.
+
+Personally, I don't think the majority of the WSCC's units can handle a 10
+minute ramp, and the idea of finishing the ramp on the quarter is a prelude
+to a perpetual time error correction and excessive inadvertent accounts.
+However, that is being proposed.
+
+I would appreciate someone else's opinion on where the proposed BP's fit in
+with our goal.
+
+Carmine Tilghman
+Tucson Electric Power
+Wholesale Marketing
+(520) 745-7108
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <21350489.1075839945763.JavaMail.evans@thyme>
+Date: Thu, 24 May 2001 13:45:01 -0700 (PDT)
+From: ctilghman@tucsonelectric.com
+To: mons.ellingson@enron.com, demetrios.fotiou@enron.com, lisa.grow@enron.com,
+	robert.harshbarger@enron.com, susan.holden-baker@enron.com,
+	chris.smith@enron.com, john.underwood@enron.com,
+	bill.williams@enron.com
+Subject: Anyone else read this?
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "Tilghman, Carmine" <CTilghman@TucsonElectric.com>@ENRON <IMCEANOTES-+22Tilghman+2C+20Carmine+22+20+3CCTilghman+40TucsonElectric+2Ecom+3E+40ENRON@ENRON.com>
+X-To: Ellingson, Mons <mons.ellingson@pinnaclewest.com>, Fotiou, Demetrios <Demetrios.Fotiou@BCHydro.bc.ca>, Grow, Lisa <lgrow@idahopower.com>, Harshbarger, Robert <bharsh@puget.com>, Holden-Baker, Susan <smholden@bpa.gov>, Smith, Chris <csmith@caiso.com>, Underwood, John <john.underwood@avistacorp.com>, Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BWILLIA5>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\Operations Committee/ISAS
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+	Has anyone, or everyone, read the latest business practice proposal
+that was released by NERC on Tuesday? It is ESC's Scheduling and Approval
+Practices submitted by the Multiple Task Groups - Scheduling Process,
+Approval, Schedule Timing, Granularity and Ramping Task Groups.
+	Specifically, they are recommending changing the ramp time to a
+10-minute straddle ramp (:55 to :05). In addition, they're recommending
+allowing schedule changes on the quarter (as already exists at :15, :30,
+:45) with a 10 minute ramp. Their reasoning is, and this is a quote, "large
+generators that require longer Ramp times (e.g. 20 or 30 minutes), could
+partially ramp for 10 minutes across the schedule start, then finish with
+another 10-minute ramp across the next quarter to complete the full ramp.
+This would accommodate areas such as Florida and WSCC, where longer ramp
+times are needed."
+	Their asking for feedback for the public posting. This proposal has
+a serious impact on our recommendations. Anyone have any comments? I'm
+attaching a copy of the document. It's 21 pages long, about 15 of them on
+frag tags. The ramping stuff and recommendations are the last couple of
+pages.
+
+Carmine Tilghman
+Tucson Electric Power
+Wholesale Marketing
+(520) 745-7108
+
+ <<ESC Scheduling Pracitces (multiple task groups) C Advena.doc>>
+
+ - ESC Scheduling Pracitces (multiple task groups) C Advena.doc 
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <2891371.1075839945901.JavaMail.evans@thyme>
+Date: Fri, 18 May 2001 18:15:53 -0700 (PDT)
+From: gjcarter@bpa.gov
+To: pgsd-5.smith@enron.com, pgsd-5.johnson@enron.com, pgsc-5.humphrey@enron.com,
+	pg-5.coe@enron.com, e-mail <.al@enron.com>, andy.rodriquez@enron.com,
+	e-mail <.bert@enron.com>, e-mail <.brett@enron.com>,
+	e-mail <.brett@enron.com>, e-mail <.carmine@enron.com>,
+	bill.williams@enron.com, e-mail <.bob@enron.com>,
+	e-mail <.bill@enron.com>, e-mail <.christopher@enron.com>,
+	e-mail <.clarke@enron.com>, e-mail <.cline@enron.com>,
+	e-mail <.dan@enron.com>, e-mail <.dan@enron.com>,
+	e-mail <.dana@enron.com>, e-mail <.dave@enron.com>,
+	e-mail <.doug@enron.com>, e-mail <.eaton@enron.com>,
+	e-mail <.ed@enron.com>, e-mail <.eric@enron.com>,
+	e-mail <.eric@enron.com>, e-mail <.esfahan@enron.com>,
+	e-mail <.falco@enron.com>, e-mail <.fotiou@enron.com>,
+	e-mail <.frank@enron.com>, e-mail <.fred@enron.com>,
+	e-mail <.gary@enron.com>, e-mail <.gem@enron.com>,
+	e-mail <.gray@enron.com>, e-mail <.green@enron.com>,
+	e-mail <.hahn@enron.com>, e-mail <.hank@enron.com>,
+	e-mail <.hilary@enron.com>, e-mail <.hincks@enron.com>,
+	e-mail <.hughes@enron.com>, e-mail <.jennella@enron.com>,
+	e-mail <.jeff@enron.com>, jesse.bryson@enron.com,
+	e-mail <.john@enron.com>, e-mail <.kathy@enron.com>,
+	e-mail <.kevin@enron.com>, e-mail <.kim@enron.com>,
+	e-mail <.lee@enron.com>, e-mail <.lee@enron.com>,
+	e-mail <.magnuson@enron.com>, e-mail <.manglon@enron.com>,
+	e-mail <.megan@enron.com>, e-mail <.miles@enron.com>,
+	e-mail <.mons@enron.com>, e-mail <.nick@enron.com>,
+	e-mail <.paul@enron.com>, e-mail <.paul@enron.com>,
+	e-mail <.paul@enron.com>, e-mail <.peck@enron.com>,
+	e-mail <.pete@enron.com>, e-mail <.randall@enron.com>,
+	e-mail <.randolph@enron.com>, e-mail <.raphael@enron.com>,
+	e-mail <.rawlings@enron.com>, e-mail <.ray@enron.com>,
+	e-mail <.realtime@enron.com>, e-mail <.robert@enron.com>,
+	e-mail <.ryan@enron.com>, e-mail <.scates@enron.com>,
+	e-mail <.scott@enron.com>, e-mail <.sherri@enron.com>,
+	e-mail <.sinowitz@enron.com>, e-mail <.spear@enron.com>,
+	e-mail <.staples@enron.com>, e-mail <.steve@enron.com>,
+	e-mail <.steve@enron.com>, e-mail <.sullivan@enron.com>,
+	e-mail <.sundet@enron.com>, e-mail <.taffe@enron.com>,
+	e-mail <.tim@enron.com>, e-mail <.torrey@enron.com>,
+	e-mail <.walth@enron.com>, e-mail <.weldon@enron.com>,
+	e-mail <.wiley@enron.com>
+Subject: FW: "No Tag, No Flow"
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "Carter, Gloria J - TMS-DITT1" <gjcarter@bpa.gov>@ENRON <IMCEANOTES-+22Carter+2C+20Gloria+20J+20-+20TMS-DITT1+22+20+3Cgjcarter+40bpa+2Egov+3E+40ENRON@ENRON.com>
+X-To: Smith, Sandra K - PGSD-5 <sksmith@bpa.gov>, Johnson, Kevin M - PGSD-5 <kmjohnson@bpa.gov>, Humphrey, Kristy J - PGSC-5 <kjhumphrey@bpa.gov>, Coe, Scott A - PG-5 <sacoe@bpa.gov>, Al Padron (E-mail) <apadron@calpine.com>, Rodriquez, Andy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ARODRIQU>, Bert Gumm (E-mail) <rgumm@idahopower.com>, Bert Gumm (E-mail 2) <robertgumm@idahopower.com>, Bob_Babcock@transalta. com (E-mail) <Bob_Babcock@transalta.com>, Brett Fisher (E-mail) <bfisher@wapa.gov>, Brett Hallborg (E-mail) <brett.hallborg@bchydro.com>, Carmine Tilghman (E-mail) <ctilghman@tucsonelectric.com>, Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BWILLIA5>, Bob Winn (E-mail) <rwinn@pnm.com>, Bob Winn (E-mail 2) <bwinn@pnm.com>, Bill Kirby (E-mail) <bill_kirby@pgn.com>, Christopher M Turner (E-mail) <chris.m.turner@mirant.com>, Clarke John (E-mail) <jmclarke@snopud.com>, Cline Donnie (E-mail) <dcline@idahopower.com>, Dan Harney (E-mail) <dan.harney@powerex.com>, Dan Williams (E-mail) <dwilliams@hesinet.com>, Dana Rozelle (E-mail) <drozelle@avistaenergy.com>, Dave Olander (E-mail) <deolande@srpnet.com>, Doug Reese (E-mail) <dreese@idahopower.com>, Eaton Lester (E-mail) <lbeaton@srpnet.com>, Ed Groce (E-mail) <egroce@avistacorp.com>, Eric Langhorst (E-mail) <ejlanghorst@duke-energy.com>, Eric Langhorst (E-mail) <ejlanghorst@duke_energy.com>, Esfahan Hamid (E-mail) <hesfahani@mwd.dst.ca.us>, Falco Kmu (E-mail) <fkmu@dynegy.com>, Fotiou Demetrios (E-mail) <demetrios.fotiou@bchydro.bc.ca>, Frank Afranji (E-mail) <frank_afranji@pgn.com>, Fred Young (E-mail) <fred@ncpa.com>, Gary Eldridge (E-mail) <gary.eldridge@pacificorp.com>, Gem Cox (E-mail) <gemcox@tucsonelectric.com>, Gray Susan (E-mail) <sgray@tucsonelectric.com>, Green Mike (E-mail) <mike@chelanpud.org>, Hahn Frank (E-mail) <fhahn@idahopower.com>, Hank Harris (E-mail) <hharris@coral-energy.com>, Hilary Bell (E-mail) <hdbell@snopud.com>, Hincks Doug (E-mail) <doug.hincks@powerpool.ab.ca>, Hughes John (E-mail) <jhughes@sppc.com>, JENNELLA BATTLES (E-mail) <battles@nevp.com>, Jeff Charlton (E-mail) <jeff_charlton@transalta.com>, Bryson, Jesse </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JBRYSON>, John Coffey (E-mail) <jfcoffey@snpd.com>, Kathy Hara (E-mail) <khara@avistaenergy.com>, Kevin Holland (E-mail) <kholland@avistaenergy.com>, Kim Mattern (E-mail) <Kim.Mattern@avistacorp.com>, Lee Susan (E-mail) <slee@mieco.com>, Lee Tarcy (E-mail) <tarcy.lee@pacificorp.com>, Magnuson David (E-mail) <damagn@puget.com>, Manglon Barbara (E-mail) <bmanglon@ci.tacoma.wa.us>, Megan Carson (E-mail) <megan.carson@powerex.com>, Miles Anna (E-mail) <amiles@puget.com>, Mons Ellingson (E-mail) <mons@apsc.com>, Nick Snowden (E-mail) <nick.snowden@bchydro.com>, Paul Gordy (E-mail) <pgordy@pnm.com>, Paul Kroger (E-mail) <paul.kroger@pacificorp.com>, Paul Spitzer (E-mail) <paul.spitzer@powerex.com>, Peck Kimberly (E-mail) <kmpe@dynegy.com>, Pete Garris (E-mail) <pgarris@water.ca.gov>, Randall Dost (E-mail) <realtime@enmax.com>, Randolph Kim (E-mail) <krandolph@bpa.gov>, Raphael Grinberg (E-mail) <raphael.grinberg@pinnaclewest.com>, Rawlings Gordon (E-mail) <gordon.rawlings@bchydro.bc.ca>, Ray Matt (E-mail) <mattr@mid.org>, RealTime Desk (E-mail) <realtime@enmax.com>, Robert (Bob) Goodson (E-mail) <rgoods@ladwp.com>, Ryan Miller (E-mail) <ryan.miller@mirant.com>, Scates Andy (E-mail) <ascates@mieco.com>, Scott Adair (E-mail) <scott.adair@powerex.com>, Sherri Lemon (E-mail) <slemon@avistacorp.com>, Sinowitz Mike (E-mail) <mike.sinowitz@ci.seattle.wa.us>, Spear Rose (E-mail) <rspear@pplmt.com>, Staples Max (E-mail) <mstapl@puget.com>, Steve Mounts (E-mail) <steve_mounts@pgn.com>, Steve Thompson (E-mail) <sthompson@nevp.com>, Sullivan Bob (E-mail) <rsullivan@caiso.com>, Sundet Steve (E-mail) <steve_sundet@pgn.com>, Taffe Joe (E-mail) <Jtaffe@ci.tacoma.wa.us>, Tim Hanna (E-mail) <thanna@sempratrading.com>, Torrey Sheryl (E-mail) <torrey@nevp.com>, Walth Lee (E-mail) <lwalth@avistacorp.com>, Weldon Perkins (E-mail) <weldon.perkins@xemkt.com>, Wiley Zimmerman (E-mail) <wiley_zimmerman@transalta.com>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\Operations Committee/ISAS
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+FYI.....................
+
+-----Original Message-----
+From: Holden-Baker, Susan - TMS-DITT2
+Sent: Friday, May 18, 2001 2:55 PM
+To: Hoffman, Lorie S - TMS-DITT1; Buchanan, Shepard - TMS-DITT1; Arnold,
+Paul F - TO -DITT2; Meyer, Charles - TM-DITT2; Bennett, Ruth - TM-DITT1
+Cc: Real Time - TMS; McNeil-Keister, Jean - TMS; Haines, Richard -
+TM-DITT2; Oliver, Laura L - TMS-DITT1
+Subject: FW: "No Tag, No Flow"
+
+
+
+For your information - the letter written by the WSCC ISAS Subcommittee
+earlier this week while meeting in Albequrque, New Mexico.  In addition, the
+CISO representative delivered a prepared statment from their top management
+that the CISO real time sceduleing would not be ready to implement Real Time
+NoTag/No Flow until October 1, 2001, the date they anticpate their
+automation to be completed.
+
+
+
+
+-----Original Message-----
+From: Hackney, Mark W(Z39911) [mailto:Mark.Hackney@aps.com]
+Sent: Friday, May 18, 2001 2:16 PM
+To: Interchange Scheduling & Accounting Subcommittee (ISAS)
+Subject: "No Tag, No Flow"
+
+
+LeRoy
+
+Attached is a letter  regarding the subcommittee's recommendation on the
+implementation of "No Tag, No Flow".
+
+ <<OC_Chair_Ltr_NoFlow.doc>>
+
+Mark W. Hackney
+Section Leader
+Pre and Real-time Transmission Scheduling
+APS OATT Administration
+Arizona Public Service Company
+602.250.1128 - Office
+602.908.1423 - Cell
+602.250.1155 - Fax
+mailto:Mark.Hackney@aps.com
+
+
+
+ - OC_Chair_Ltr_NoFlow.doc 
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <26752749.1075839945369.JavaMail.evans@thyme>
+Date: Wed, 13 Jun 2001 12:39:56 -0700 (PDT)
+From: bharsh@puget.com
+To: jerry'.'dempsey@enron.com, mons.ellingson@enron.com,
+	demetrios.fotiou@enron.com, lisa.grow@enron.com,
+	susan.holden-baker@enron.com, chris.smith@enron.com,
+	carmine.tilghman@enron.com, john.underwood@enron.com,
+	bill.williams@enron.com
+Subject: Meeting
+Cc: 'hackney@enron.com, mhackney@apsc.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: 'hackney@enron.com, mhackney@apsc.com
+X-From: "Harshbarger, Robert" <bharsh@puget.com>@ENRON <IMCEANOTES-+22Harshbarger+2C+20Robert+22+20+3Cbharsh+40puget+2Ecom+3E+40ENRON@ENRON.com>
+X-To: 'DEMPSEY, JERRY' <DEMPSEY@wapa.gov>, Ellingson, Mons <mons.ellingson@pinnaclewest.com>, Fotiou, Demetrios <Demetrios.Fotiou@BCHydro.bc.ca>, Grow, Lisa <lgrow@idahopower.com>, Holden-Baker, Susan <smholden@bpa.gov>, Smith, Chris <csmith@caiso.com>, Tilghman, Carmine <ctilghman@tucsonelectric.com>, Underwood, John <john.underwood@avistacorp.com>, Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BWILLIA5>
+X-cc: 'Hackney, Mark' <mhackney@apsc.com>
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\Operations Committee/ISAS
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+Based on what I've seen so far, looks like June 27th.
+
+Based on that, I have tentatively booked a room 9:30 a.m. to 3:30 p.m. at
+the PDX Conference Center, Portland, OR.  If you haven't been there before,
+there's diagram/map at:
+
+http://portlandairportpdx.com/web_pop/CONFER.HTM
+
+Some of the items for an agenda:
+*	Elimination of preschedule flag
+*	Time table times refer to prevailing time of the sink/load control
+area
+*	Preschedule items
+*	Real-time items
+
+There are more specific items, I just haven't had enough coffee yet.  A real
+agenda out next week.
+
+Robert Harshbarger
+Puget Sound Energy
+OASIS Trading Manager
+425.882.4643 (desk)
+206.604.3251 (cell)
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <7971559.1075839945181.JavaMail.evans@thyme>
+Date: Fri, 29 Jun 2001 17:16:34 -0700 (PDT)
+From: dempsey@wapa.gov
+Subject: Re: New proposed table
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "JERRY DEMPSEY" <DEMPSEY@wapa.gov>@ENRON <IMCEANOTES-+22JERRY+20DEMPSEY+22+20+3CDEMPSEY+40wapa+2Egov+3E+40ENRON@ENRON.com>
+X-To: john.underwood@avistacorp.com, Demetrios.Fotiou@BCHydro.bc.ca, smholden@bpa.gov, csmith@caiso.com, Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BWILLIA5>, lgrow@idahopower.com, mons.ellingson@pinnaclewest.com, bharsh@puget.com, ctilghman@tucsonelectric.com
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\Operations Committee/ISAS
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+All,
+
+I added comment #5 for clarification.
+
+Also, did the group decide to recommend that all tags be submitted in PPT?  If so, then comment #1 is incorrect and would need to be changed to PPT.
+
+Jerry
+
+>>> "Harshbarger, Robert" <bharsh@puget.com> 06/28/01 05:48PM >>>
+Jerry sent me a revised table to reflect our discussions yesterday.  I did
+some further modifications and it is attached for your review and comment.
+I still working on the "words" for yesterday and hope to get them out
+tomorrow for review and comment.
+
+ <<tag time table draft_rev2.doc>>
+
+Bob Harshbarger
+
+ - tag time table draft_rev2.doc 
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <26156414.1075839945514.JavaMail.evans@thyme>
+Date: Tue, 12 Jun 2001 16:33:30 -0700 (PDT)
+From: smholden@bpa.gov
+To: robert'.'harshbarger@enron.com, mons'.'ellingson@enron.com,
+	demetrios'.'fotiou@enron.com, lisa'.'grow@enron.com,
+	susan'.'holden-baker@enron.com, chris'.'smith@enron.com,
+	carmine'.'tilghman@enron.com, john'.'underwood@enron.com,
+	bill.williams@enron.com
+Subject: RE: A3A1 Ad Hoc Review Team
+Cc: 'hackney@enron.com, mhackney@apsc.com, carter@enron.com, gjcarter@bpa.gov,
+	ellingwood@enron.com, rgellingwood@bpa.gov, hutchison@enron.com,
+	wahutchison@bpa.gov, buchanan@enron.com, scbuchanan@bpa.gov,
+	buckmier@enron.com, smbuckmier@bpa.gov, mcneil-keister@enron.com,
+	jmcneilkeister@bpa.gov, hoffman@enron.com, lshoffman@bpa.gov,
+	lyons@enron.com, bdlyons@bpa.gov
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: 'hackney@enron.com, mhackney@apsc.com, carter@enron.com, gjcarter@bpa.gov,
+	ellingwood@enron.com, rgellingwood@bpa.gov, hutchison@enron.com,
+	wahutchison@bpa.gov, buchanan@enron.com, scbuchanan@bpa.gov,
+	buckmier@enron.com, smbuckmier@bpa.gov, mcneil-keister@enron.com,
+	jmcneilkeister@bpa.gov, hoffman@enron.com, lshoffman@bpa.gov,
+	lyons@enron.com, bdlyons@bpa.gov
+X-From: "Holden-Baker, Susan - TMS-DITT2" <smholden@bpa.gov>@ENRON <IMCEANOTES-+22Holden-Baker+2C+20Susan+20-+20TMS-DITT2+22+20+3Csmholden+40bpa+2Egov+3E+40ENRON@ENRON.com>
+X-To: 'Harshbarger, Robert' <bharsh@puget.com>, 'Ellingson, Mons' <mons.ellingson@pinnaclewest.com>, 'Fotiou, Demetrios' <Demetrios.Fotiou@BCHydro.bc.ca>, 'Grow, Lisa' <lgrow@idahopower.com>, 'Holden-Baker, Susan' <smholden@bpa.gov>, 'Smith, Chris' <csmith@caiso.com>, 'Tilghman, Carmine' <ctilghman@tucsonelectric.com>, 'Underwood, John' <john.underwood@avistacorp.com>, Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BWILLIA5>, 'DEMPSEY@wapa.gov'
+X-cc: 'Hackney, Mark' <mhackney@apsc.com>, Carter, Gloria J - TMS-DITT1 <gjcarter@bpa.gov>, Ellingwood, Robert G - TMS <rgellingwood@bpa.gov>, Hutchison, Wesley A - TMS <wahutchison@bpa.gov>, Buchanan, Shepard - TMS-DITT1 <scbuchanan@bpa.gov>, Buckmier, Shirley M.- TMS <smbuckmier@bpa.gov>, McNeil-Keister, Jean - TMS <jmcneilkeister@bpa.gov>, Hoffman, Lorie S - TMS-DITT1 <lshoffman@bpa.gov>, Lyons, Barry D - TMS-DITT1 <bdlyons@bpa.gov>
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\Operations Committee/ISAS
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+I have attached BPA Transmission Schedulings' response to the questions
+posed by Bob in his email dated May 21 below.  If the group feels it would
+be helpful to meet to discuss the timeline issues, I am in support of that
+effort.  Otherwise, I look forward to the responses from the rest of the
+group.  Thanks, Sue.
+
+Sue Holden-Baker
+Bonneville Power Administration
+Transmission Supply
+(360) 418-8278
+smholden@bpa.gov
+
+
+-----Original Message-----
+From: Harshbarger, Robert [mailto:bharsh@puget.com]
+Sent: Tuesday, May 22, 2001 8:50 AM
+To: 'Ellingson, Mons'; 'Fotiou, Demetrios'; 'Grow, Lisa'; 'Holden-Baker,
+Susan'; 'Smith, Chris'; 'Tilghman, Carmine'; 'Underwood, John';
+'Williams, Bill'
+Cc: 'Hackney, Mark'
+Subject: RE: A3A1 Ad Hoc Review Team
+
+
+Timeliners:
+
+Revision to yesterday's e-mail - due date is end of July.  So proposals by
+mid-June, first draft report by early/mid-July, discussion throughout.
+
+Bob
+
+> ----------
+> From: 	Harshbarger, Robert
+> Sent: 	Monday, May 21, 2001 5:16 PM
+> To: 	Ellingson, Mons; Fotiou, Demetrios; Grow, Lisa; Holden-Baker, Susan;
+> Smith, Chris; Tilghman, Carmine; Underwood, John; Williams, Bill
+> Cc: 	'Hackney, Mark'
+> Subject: 	A3A1 Ad Hoc Review Team
+>
+> Yes, that's right, you did raise your hand for this.
+>
+> We are to submit to ISAS any recommendation(s) by August ??, 2001 (what
+> was the date, I didn't write it down).
+>
+> Is there benefit to have a face-to-face meeting?  Either way, we'll use
+> e-mail for discussion and maybe a conference call or two.
+>
+> First assignment is to read:
+> *	A3A1-Interim is what we are currently running with.
+> *	A3A1-version3-draft2 goes before the NERC BOT June 10-11.
+> *	A3A1-candr contains public comments and responses from NERC IS.
+>
+> <<File: a3a1-interim.doc>><<File: a3a1v3d2-0501.doc>><<File:
+> a3a1candr.doc>>
+> Questions to keep in mind:
+> *	Are our current timelines as good as it gets?
+> *	Do we want to adopt the Eastern Interconnection's timelines?
+> *	What are the deficiencies of our timelines?
+> *	Will these deficiencies be present under 1.7?
+> *	Which timing requirements could be changed with an reasonable amount
+> of effort (i.e., tariff items, AGC ramp times, A3A1, etc.)?
+>
+> Remember....
+> <<File: trainedpros.wav>>
+>
+>  Bob Harshbarger
+>  OASIS Trading Manager
+>  Puget Sound Energy
+>  (425) 882-4643 voice
+>  (425) 882-4496 fax
+>  (206) 405-5161 pager
+>  (206) 604-3251 cell
+>
+
+
+ - NERC Policy 3 E-tag timelines-draft2.doc 
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <6182315.1075839945238.JavaMail.evans@thyme>
+Date: Mon, 25 Jun 2001 18:43:09 -0700 (PDT)
+From: bharsh@puget.com
+To: jerry'.'dempsey@enron.com, mons'.'ellingson@enron.com,
+	demetrios'.'fotiou@enron.com, lisa'.'grow@enron.com,
+	susan'.'holden-baker@enron.com, chris'.'smith@enron.com,
+	carmine'.'tilghman@enron.com, john'.'underwood@enron.com,
+	bill.williams@enron.com
+Subject: RE: Meeting
+Cc: 'hackney@enron.com, mhackney@apsc.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: 'hackney@enron.com, mhackney@apsc.com
+X-From: "Harshbarger, Robert" <bharsh@puget.com>@ENRON <IMCEANOTES-+22Harshbarger+2C+20Robert+22+20+3Cbharsh+40puget+2Ecom+3E+40ENRON@ENRON.com>
+X-To: 'DEMPSEY, JERRY' <DEMPSEY@wapa.gov>, 'Ellingson, Mons' <mons.ellingson@pinnaclewest.com>, 'Fotiou, Demetrios' <Demetrios.Fotiou@BCHydro.bc.ca>, 'Grow, Lisa' <lgrow@idahopower.com>, 'Holden-Baker, Susan' <smholden@bpa.gov>, 'Smith, Chris' <csmith@caiso.com>, 'Tilghman, Carmine' <ctilghman@tucsonelectric.com>, 'Underwood, John' <john.underwood@avistacorp.com>, Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BWILLIA5>
+X-cc: 'Hackney, Mark' <mhackney@apsc.com>
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\Operations Committee/ISAS
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+Timeline Team -
+
+Attached is proposed agenda for Wednesday's meeting.  Uniforms are optional,
+mink gloves aren't required.  Send me agenda additions and/or comments today
+or tomorrow.
+
+ <<062701TimelineAgenda.doc>>
+
+You might want do some casual reading and materials review:
+*	Policy 3
+*	A3A1-Interim is what we are currently running with.
+*	A3A1-version3-draft2 goes before the NERC BOT June 10-11.
+*	A3A1-candr contains public comments and responses from NERC IS.
+*	Real-time subgroup's RTSOLUTIONS_052401
+*	E-Tag spec(s)
+*	E-Mails from ISAS and/or TISFORUM
+
+Although not on the agenda, we will take a no host lunch break.
+
+Robert Harshbarger
+Puget Sound Energy
+OASIS Trading Manager
+425.882.4643 (desk)
+206.604.3251 (cell)
+
+
+> ----------
+> From: 	Harshbarger, Robert
+> Sent: 	Wednesday, June 13, 2001 9:39 AM
+> To: 	'DEMPSEY, JERRY'; Ellingson, Mons; Fotiou, Demetrios; Grow, Lisa;
+> Holden-Baker, Susan; Smith, Chris; Tilghman, Carmine; Underwood, John;
+> Williams, Bill
+> Cc: 	'Hackney, Mark'
+> Subject: 	Meeting
+>
+> Based on what I've seen so far, looks like June 27th.
+>
+> Based on that, I have tentatively booked a room 9:30 a.m. to 3:30 p.m. at
+> the PDX Conference Center, Portland, OR.  If you haven't been there
+> before, there's diagram/map at:
+>
+	http://www.portlandairportpdx.com/web_pop/CONFER.HTM
+
+> Some of the items for an agenda:
+> *	Elimination of preschedule flag
+> *	Time table times refer to prevailing time of the sink/load control
+> area
+> *	Preschedule items
+> *	Real-time items
+>
+> There are more specific items, I just haven't had enough coffee yet.  A
+> real agenda out next week.
+>
+> Robert Harshbarger
+> Puget Sound Energy
+> OASIS Trading Manager
+> 425.882.4643 (desk)
+> 206.604.3251 (cell)
+>
+
+ - 062701TimelineAgenda.doc 
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <28705408.1075839945208.JavaMail.evans@thyme>
+Date: Thu, 28 Jun 2001 19:48:30 -0700 (PDT)
+From: bharsh@puget.com
+To: jerry.dempsey@enron.com, mons.ellingson@enron.com,
+	demetrios.fotiou@enron.com, lisa.grow@enron.com,
+	susan.holden-baker@enron.com, chris.smith@enron.com,
+	carmine.tilghman@enron.com, john.underwood@enron.com,
+	bill.williams@enron.com
+Subject: New proposed table
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "Harshbarger, Robert" <bharsh@puget.com>@ENRON <IMCEANOTES-+22Harshbarger+2C+20Robert+22+20+3Cbharsh+40puget+2Ecom+3E+40ENRON@ENRON.com>
+X-To: DEMPSEY, JERRY <DEMPSEY@wapa.gov>, Ellingson, Mons <mons.ellingson@pinnaclewest.com>, Fotiou, Demetrios <Demetrios.Fotiou@BCHydro.bc.ca>, Grow, Lisa <lgrow@idahopower.com>, Holden-Baker, Susan <smholden@bpa.gov>, Smith, Chris <csmith@caiso.com>, Tilghman, Carmine <ctilghman@tucsonelectric.com>, Underwood, John <john.underwood@avistacorp.com>, Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BWILLIA5>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\Operations Committee/ISAS
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+Jerry sent me a revised table to reflect our discussions yesterday.  I did
+some further modifications and it is attached for your review and comment.
+I still working on the "words" for yesterday and hope to get them out
+tomorrow for review and comment.
+
+ <<tag time table draft_rev2.doc>>
+
+Bob Harshbarger
+
+ - tag time table draft_rev2.doc 
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <5629279.1075839945736.JavaMail.evans@thyme>
+Date: Thu, 24 May 2001 20:42:43 -0700 (PDT)
+From: gjcarter@bpa.gov
+To: pgsd-5.johnson@enron.com, pgsd-5.smith@enron.com, tms-ditt1.donald@enron.com,
+	tms-ditt1.kitali@enron.com, pg-5.coe@enron.com,
+	pgsc-5.humphrey@enron.com, tms-ditt2.holden-baker@enron.com,
+	e-mail <.isas@enron.com>, e-mail <.al@enron.com>,
+	e-mail <.bert@enron.com>, e-mail <.bill@enron.com>,
+	bill.williams@enron.com, e-mail <.bob@enron.com>,
+	e-mail <.brett@enron.com>, e-mail <.brett@enron.com>,
+	e-mail <.carmine@enron.com>, e-mail <.casey@enron.com>,
+	e-mail <.christopher@enron.com>, e-mail <.clarke@enron.com>,
+	e-mail <.cline@enron.com>, e-mail <.cobb@enron.com>,
+	e-mail <.dan@enron.com>, e-mail <.dana@enron.com>,
+	e-mail <.dave@enron.com>, e-mail <.doug@enron.com>,
+	e-mail <.eaton@enron.com>, e-mail <.ed@enron.com>,
+	e-mail <.eric@enron.com>, e-mail <.esfahan@enron.com>,
+	e-mail <.falco@enron.com>, e-mail <.fotiou@enron.com>,
+	e-mail <.frank@enron.com>, e-mail <.fred@enron.com>,
+	e-mail <.gary@enron.com>, e-mail <.gem@enron.com>,
+	e-mail <.gray@enron.com>, e-mail <.green@enron.com>,
+	e-mail <.grow@enron.com>, e-mail <.hackney@enron.com>,
+	e-mail <.hahn@enron.com>, e-mail <.hank@enron.com>,
+	e-mail <.harshbarger@enron.com>, e-mail <.hilary@enron.com>,
+	e-mail <.hincks@enron.com>, e-mail <.hughes@enron.com>,
+	e-mail <.jeff@enron.com>, e-mail <.jennella@enron.com>,
+	e-mail <.jennifer@enron.com>, e-mail <.jerry@enron.com>,
+	jesse.bryson@enron.com, e-mail <.john@enron.com>,
+	e-mail <.kathy@enron.com>, e-mail <.kevin@enron.com>,
+	e-mail <.kim@enron.com>, e-mail <.lacen@enron.com>,
+	e-mail <.lee@enron.com>, e-mail <.magnuson@enron.com>,
+	e-mail <.martell@enron.com>, e-mail <.megan@enron.com>,
+	e-mail <.miles@enron.com>, e-mail <.mons@enron.com>,
+	e-mail <.nick@enron.com>, e-mail <.paul@enron.com>,
+	e-mail <.paul@enron.com>, e-mail <.paul@enron.com>,
+	e-mail <.peck@enron.com>, e-mail <.pete@enron.com>,
+	e-mail <.phil@enron.com>, e-mail <.randall@enron.com>,
+	e-mail <.raphael@enron.com>, e-mail <.rawlings@enron.com>,
+	e-mail <.ray@enron.com>, e-mail <.realtime@enron.com>,
+	e-mail <.rice@enron.com>, e-mail <.robert@enron.com>,
+	e-mail <.roholt@enron.com>, e-mail <.romero@enron.com>,
+	e-mail <.ryan@enron.com>, e-mail <.scates@enron.com>,
+	e-mail <.schwermann@enron.com>, e-mail <.scott@enron.com>,
+	e-mail <.selwyn@enron.com>, e-mail <.sheik@enron.com>,
+	e-mail <.sherri@enron.com>, e-mail <.shimizu@enron.com>,
+	e-mail <.sinowitz@enron.com>, e-mail <.spear@enron.com>,
+	e-mail <.staples@enron.com>, e-mail <.steve@enron.com>,
+	e-mail <.steve@enron.com>, e-mail <.sullivan@enron.com>,
+	e-mail <.sundet@enron.com>, e-mail <.taffe@enron.com>,
+	e-mail <.torrey@enron.com>, e-mail <.walth@enron.com>,
+	e-mail <.weldon@enron.com>, e-mail <.wiley@enron.com>,
+	e-mail <.wright@enron.com>
+Subject: THE DRAFT DOCUMENT OF REAL-TIME ETAGGING PROBLEMS & SOLUTIONS
+Cc: realtime-tms@bpasite1.bpa.gov, mcneil-keister@enron.com,
+	jmcneilkeister@bpa.gov, hoffman@enron.com, lshoffman@bpa.gov,
+	ellingwood@enron.com, rgellingwood@bpa.gov, haines@enron.com,
+	rlhaines@bpa.gov, buchanan@enron.com, scbuchanan@bpa.gov,
+	oliver@enron.com, lloliver@bpa.gov, arnold@enron.com,
+	pfarnold@bpa.gov, mackay@enron.com, bemackay@bpa.gov
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: realtime-tms@bpasite1.bpa.gov, mcneil-keister@enron.com,
+	jmcneilkeister@bpa.gov, hoffman@enron.com, lshoffman@bpa.gov,
+	ellingwood@enron.com, rgellingwood@bpa.gov, haines@enron.com,
+	rlhaines@bpa.gov, buchanan@enron.com, scbuchanan@bpa.gov,
+	oliver@enron.com, lloliver@bpa.gov, arnold@enron.com,
+	pfarnold@bpa.gov, mackay@enron.com, bemackay@bpa.gov
+X-From: "Carter, Gloria J - TMS-DITT1" <gjcarter@bpa.gov>@ENRON <IMCEANOTES-+22Carter+2C+20Gloria+20J+20-+20TMS-DITT1+22+20+3Cgjcarter+40bpa+2Egov+3E+40ENRON@ENRON.com>
+X-To: Johnson, Kevin M - PGSD-5 <kmjohnson@bpa.gov>, Smith, Sandra K - PGSD-5 <sksmith@bpa.gov>, Donald, Mary - TMS-DITT1 <medonald@bpa.gov>, Kitali, Salah H - TMS-DITT1 <shkitali@bpa.gov>, Coe, Scott A - PG-5 <sacoe@bpa.gov>, Humphrey, Kristy J - PGSC-5 <kjhumphrey@bpa.gov>, Holden-Baker, Susan - TMS-DITT2 <smholden@bpa.gov>, ISAS Correspondents (E-mail) <isascor@wscc.com>, Al Padron (E-mail) <apadron@calpine.com>, Bert Gumm (E-mail) <rgumm@idahopower.com>, Bill Kirby (E-mail) <bill_kirby@pgn.com>, Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BWILLIA5>, Bob Winn (E-mail) <rwinn@pnm.com>, Bob_Babcock@transalta. com (E-mail) <Bob_Babcock@transalta.com>, Brett Hallborg (E-mail) <brett.hallborg@bchydro.com>, Brett Fisher (E-mail) <bfisher@wapa.gov>, Carmine Tilghman (E-mail) <ctilghman@tucsonelectric.com>, Casey Bill (E-mail) <bill_casey@pgn.com>, Christopher M Turner (E-mail) <chris.m.turner@mirant.com>, Clarke John (E-mail) <jmclarke@snopud.com>, Cline Donnie (E-mail) <dcline@idahopower.com>, Cobb Steven (E-mail) <sccobb@srpnet.com>, Dan Harney (E-mail) <dan.harney@powerex.com>, Dana Rozelle (E-mail) <drozelle@avistaenergy.com>, Dave Olander (E-mail) <deolande@srpnet.com>, Doug Reese (E-mail) <dreese@idahopower.com>, Eaton Lester (E-mail) <lbeaton@srpnet.com>, Ed Groce (E-mail) <egroce@avistacorp.com>, Eric Langhorst (E-mail) <ejlanghorst@duke-energy.com>, Esfahan Hamid (E-mail) <hesfahani@mwd.dst.ca.us>, Falco Kmu (E-mail) <fkmu@dynegy.com>, Fotiou Demetrios (E-mail) <demetrios.fotiou@bchydro.bc.ca>, Frank Afranji (E-mail) <frank_afranji@pgn.com>, Fred Young (E-mail) <fred@ncpa.com>, Gary Eldridge (E-mail) <gary.eldridge@pacificorp.com>, Gem Cox (E-mail) <gemcox@tucsonelectric.com>, Gray Susan (E-mail) <sgray@tucsonelectric.com>, Green Mike (E-mail) <mike@chelanpud.org>, Grow Lisa (E-mail) <lgrow@idahopower.com>, Hackney Mark W. (E-mail) <mhackney@apsc.com>, Hahn Frank (E-mail) <fhahn@idahopower.com>, Hank Harris (E-mail) <hharris@coral-energy.com>, Harshbarger Bob (E-mail) <bharsh@puget.com>, Hilary Bell (E-mail) <hdbell@snopud.com>, Hincks Doug (E-mail) <doug.hincks@powerpool.ab.ca>, Hughes John (E-mail) <jhughes@sppc.com>, Jeff Charlton (E-mail) <jeff_charlton@transalta.com>, JENNELLA BATTLES (E-mail) <battles@nevp.com>, Jennifer Johnson (E-mail) <jjjo@dynegy.com>, Jerry Dempsey (E-mail) <dempsey@wapa.gov>, Bryson, Jesse </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JBRYSON>, John Coffey (E-mail) <jfcoffey@snpd.com>, Kathy Hara (E-mail) <khara@avistaenergy.com>, Kevin Holland (E-mail) <kholland@avistaenergy.com>, Kim Mattern (E-mail) <Kim.Mattern@avistacorp.com>, Lacen Don (E-mail) <dlacen@pnm.com>, Lee Susan (E-mail) <slee@mieco.com>, Magnuson David (E-mail) <damagn@puget.com>, Martell Peggy (E-mail) <pjmartel@srpnet.com>, Megan Carson (E-mail) <megan.carson@powerex.com>, Miles Anna (E-mail) <amiles@puget.com>, Mons Ellingson (E-mail) <mons@apsc.com>, Nick Snowden (E-mail) <nick.snowden@bchydro.com>, Paul Gordy (E-mail) <pgordy@pnm.com>, Paul Kroger (E-mail) <paul.kroger@pacificorp.com>, Paul Spitzer (E-mail) <paul.spitzer@powerex.com>, Peck Kimberly (E-mail) <kmpe@dynegy.com>, Pete Garris (E-mail) <pgarris@water.ca.gov>, Phil O'Donnell (E-mail) <podonnell@caiso.com>, Randall Dost (E-mail) <realtime@enmax.com>, Raphael Grinberg (E-mail) <raphael.grinberg@pinnaclewest.com>, Rawlings Gordon (E-mail) <gordon.rawlings@bchydro.bc.ca>, Ray Matt (E-mail) <mattr@mid.org>, RealTime Desk (E-mail) <realtime@enmax.com>, Rice Paul (E-mail) <Paul.Rice@pacificorp.com>, Robert (Bob) Goodson (E-mail) <rgoods@ladwp.com>, Roholt Brent (E-mail) <brent.roholt@pacificorp.com>, Romero Ana (E-mail) <aromer@dwp.ci.la.ca.us>, Ryan Miller (E-mail) <ryan.miller@mirant.com>, Scates Andy (E-mail) <ascates@mieco.com>, Schwermann Bob (E-mail) <bschwer@smud.org>, Scott Adair (E-mail) <scott.adair@powerex.com>, Selwyn Thomas (E-mail) <sthomas@caiso.com>, Sheik Nathan (E-mail) <nsheik@softsmiths.com>, Sherri Lemon (E-mail) <slemon@avistacorp.com>, Shimizu Ron (E-mail) <rshimizu@mieco.com>, Sinowitz Mike (E-mail) <mike.sinowitz@ci.seattle.wa.us>, Spear Rose (E-mail) <rspear@pplmt.com>, Staples Max (E-mail) <mstapl@puget.com>, Steve Mounts (E-mail) <steve_mounts@pgn.com>, Steve Thompson (E-mail) <sthompson@nevp.com>, Sullivan Bob (E-mail) <rsullivan@caiso.com>, Sundet Steve (E-mail) <steve_sundet@pgn.com>, Taffe Joe (E-mail) <Jtaffe@ci.tacoma.wa.us>, Torrey Sheryl (E-mail) <torrey@nevp.com>, Walth Lee (E-mail) <lwalth@avistacorp.com>, Weldon Perkins (E-mail) <weldon.perkins@xemkt.com>, Wiley Zimmerman (E-mail) <wiley_zimmerman@transalta.com>, Wright Willie (E-mail) <wright@anv.net>
+X-cc: Real Time - TMS <RealTime-TMS@BPASite1.bpa.gov>, McNeil-Keister, Jean - TMS <jmcneilkeister@bpa.gov>, Hoffman, Lorie S - TMS-DITT1 <lshoffman@bpa.gov>, Ellingwood, Robert G - TMS <rgellingwood@bpa.gov>, Haines, Richard - TM-DITT2 <rlhaines@bpa.gov>, Buchanan, Shepard - TMS-DITT1 <scbuchanan@bpa.gov>, Oliver, Laura L - TMS-DITT1 <lloliver@bpa.gov>, Arnold, Paul F - TO -DITT2 <pfarnold@bpa.gov>, MacKay, Bruce E - PGS <bemackay@bpa.gov>
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\Operations Committee/ISAS
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+HELLO,
+	PLEASE FIND ATTACHED A DRAFT R/T ETAGGING PROBLEMS & SOLUTIONS
+DOCUMENT:
+1) I HAVE PROMISED MARK HACKNEY & THE ISAS SUBCOMMITTE A COMPLETED DOCUMENT
+BY COB 5/31/01.   SO, PLEASE RESPOND BY NOON ON 5/31/01.
+
+2) IT IS MOST IMPORTANT THAT YOU TAKE THE TIME TO ADD NEW AND/OR MISSED
+ETAGGING PROBLEMS.  IT IS CRITICAL THAT YOU SPECIFY THE DETAILS TO THE
+PROBLEMS AND EVEN MORE DETAILS TO THE PROPOSED SOLUTIONS.
+
+THANK YOU,
+I SINCERELY APPRECIATE YOU WORKING WITH US!
+SMILE - GLORIA
+ <<RTSOLUTIONS.doc>>
+
+ - RTSOLUTIONS.doc 
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <22057969.1075839945290.JavaMail.evans@thyme>
+Date: Wed, 13 Jun 2001 13:32:46 -0700 (PDT)
+From: dempsey@wapa.gov
+Subject: Re: Meeting
+Cc: mhackney@apsc.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: mhackney@apsc.com
+X-From: "JERRY DEMPSEY" <DEMPSEY@wapa.gov>@ENRON <IMCEANOTES-+22JERRY+20DEMPSEY+22+20+3CDEMPSEY+40wapa+2Egov+3E+40ENRON@ENRON.com>
+X-To: john.underwood@avistacorp.com, Demetrios.Fotiou@BCHydro.bc.ca, smholden@bpa.gov, Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BWILLIA5>, lgrow@idahopower.com, mons.ellingson@pinnaclewest.com, bharsh@puget.com, ctilghman@tucsonelectric.com, Chris Smith <CSMITH@wapa.gov>
+X-cc: mhackney@apsc.com
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\Operations Committee/ISAS
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+Bob,
+
+I cannot make the 27th - sorry.
+
+Just kidding.  I will be there.  Thanks for setting this up.
+
+Jerry
+
+>>> "Harshbarger, Robert" <bharsh@puget.com> 6/13/01 10:39:56 AM >>>
+Based on what I've seen so far, looks like June 27th.
+
+Based on that, I have tentatively booked a room 9:30 a.m. to 3:30 p.m. at
+the PDX Conference Center, Portland, OR.  If you haven't been there before,
+there's diagram/map at:
+
+http://portlandairportpdx.com/web_pop/CONFER.HTM
+
+Some of the items for an agenda:
+*	Elimination of preschedule flag
+*	Time table times refer to prevailing time of the sink/load control
+area
+*	Preschedule items
+*	Real-time items
+
+There are more specific items, I just haven't had enough coffee yet.  A real
+agenda out next week.
+
+Robert Harshbarger
+Puget Sound Energy
+OASIS Trading Manager
+425.882.4643 (desk)
+206.604.3251 (cell)
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <6588476.1075839945832.JavaMail.evans@thyme>
+Date: Tue, 22 May 2001 11:49:45 -0700 (PDT)
+From: bharsh@puget.com
+To: mons'.'ellingson@enron.com, demetrios'.'fotiou@enron.com,
+	lisa'.'grow@enron.com, susan'.'holden-baker@enron.com,
+	chris'.'smith@enron.com, carmine'.'tilghman@enron.com,
+	john'.'underwood@enron.com, bill.williams@enron.com
+Subject: RE: A3A1 Ad Hoc Review Team
+Cc: 'hackney@enron.com, mhackney@apsc.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: 'hackney@enron.com, mhackney@apsc.com
+X-From: "Harshbarger, Robert" <bharsh@puget.com>@ENRON <IMCEANOTES-+22Harshbarger+2C+20Robert+22+20+3Cbharsh+40puget+2Ecom+3E+40ENRON@ENRON.com>
+X-To: 'Ellingson, Mons' <mons.ellingson@pinnaclewest.com>, 'Fotiou, Demetrios' <Demetrios.Fotiou@BCHydro.bc.ca>, 'Grow, Lisa' <lgrow@idahopower.com>, 'Holden-Baker, Susan' <smholden@bpa.gov>, 'Smith, Chris' <csmith@caiso.com>, 'Tilghman, Carmine' <ctilghman@tucsonelectric.com>, 'Underwood, John' <john.underwood@avistacorp.com>, Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BWILLIA5>
+X-cc: 'Hackney, Mark' <mhackney@apsc.com>
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\Operations Committee/ISAS
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+Timeliners:
+
+Revision to yesterday's e-mail - due date is end of July.  So proposals by
+mid-June, first draft report by early/mid-July, discussion throughout.
+
+Bob
+
+> ----------
+> From: 	Harshbarger, Robert
+> Sent: 	Monday, May 21, 2001 5:16 PM
+> To: 	Ellingson, Mons; Fotiou, Demetrios; Grow, Lisa; Holden-Baker, Susan;
+> Smith, Chris; Tilghman, Carmine; Underwood, John; Williams, Bill
+> Cc: 	'Hackney, Mark'
+> Subject: 	A3A1 Ad Hoc Review Team
+>
+> Yes, that's right, you did raise your hand for this.
+>
+> We are to submit to ISAS any recommendation(s) by August ??, 2001 (what
+> was the date, I didn't write it down).
+>
+> Is there benefit to have a face-to-face meeting?  Either way, we'll use
+> e-mail for discussion and maybe a conference call or two.
+>
+> First assignment is to read:
+> *	A3A1-Interim is what we are currently running with.
+> *	A3A1-version3-draft2 goes before the NERC BOT June 10-11.
+> *	A3A1-candr contains public comments and responses from NERC IS.
+>
+> <<File: a3a1-interim.doc>><<File: a3a1v3d2-0501.doc>><<File:
+> a3a1candr.doc>>
+> Questions to keep in mind:
+> *	Are our current timelines as good as it gets?
+> *	Do we want to adopt the Eastern Interconnection's timelines?
+> *	What are the deficiencies of our timelines?
+> *	Will these deficiencies be present under 1.7?
+> *	Which timing requirements could be changed with an reasonable amount
+> of effort (i.e., tariff items, AGC ramp times, A3A1, etc.)?
+>
+> Remember....
+> <<File: trainedpros.wav>>
+>
+>  Bob Harshbarger
+>  OASIS Trading Manager
+>  Puget Sound Energy
+>  (425) 882-4643 voice
+>  (425) 882-4496 fax
+>  (206) 405-5161 pager
+>  (206) 604-3251 cell
+> 
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <15136722.1075839945343.JavaMail.evans@thyme>
+Date: Wed, 13 Jun 2001 12:46:15 -0700 (PDT)
+From: smholden@bpa.gov
+To: robert'.'harshbarger@enron.com, jerry'.'dempsey@enron.com,
+	mons.ellingson@enron.com, demetrios.fotiou@enron.com,
+	lisa.grow@enron.com, chris.smith@enron.com,
+	carmine.tilghman@enron.com, john.underwood@enron.com,
+	bill.williams@enron.com
+Subject: RE: Meeting
+Cc: 'hackney@enron.com, mhackney@apsc.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: 'hackney@enron.com, mhackney@apsc.com
+X-From: "Holden-Baker, Susan - TMS-DITT2" <smholden@bpa.gov>@ENRON <IMCEANOTES-+22Holden-Baker+2C+20Susan+20-+20TMS-DITT2+22+20+3Csmholden+40bpa+2Egov+3E+40ENRON@ENRON.com>
+X-To: 'Harshbarger, Robert' <bharsh@puget.com>, 'DEMPSEY, JERRY' <DEMPSEY@wapa.gov>, Ellingson, Mons <mons.ellingson@pinnaclewest.com>, Fotiou, Demetrios <Demetrios.Fotiou@BCHydro.bc.ca>, Grow, Lisa <lgrow@idahopower.com>, Smith, Chris <csmith@caiso.com>, Tilghman, Carmine <ctilghman@tucsonelectric.com>, Underwood, John <john.underwood@avistacorp.com>, Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BWILLIA5>
+X-cc: 'Hackney, Mark' <mhackney@apsc.com>
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\Operations Committee/ISAS
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+Thank you Bob, I plan on attending.
+
+-----Original Message-----
+From: Harshbarger, Robert [mailto:bharsh@puget.com]
+Sent: Wednesday, June 13, 2001 9:40 AM
+To: 'DEMPSEY, JERRY'; Ellingson, Mons; Fotiou, Demetrios; Grow, Lisa;
+Holden-Baker, Susan; Smith, Chris; Tilghman, Carmine; Underwood, John;
+Williams, Bill
+Cc: 'Hackney, Mark'
+Subject: Meeting
+
+
+Based on what I've seen so far, looks like June 27th.
+
+Based on that, I have tentatively booked a room 9:30 a.m. to 3:30 p.m. at
+the PDX Conference Center, Portland, OR.  If you haven't been there before,
+there's diagram/map at:
+
+http://portlandairportpdx.com/web_pop/CONFER.HTM
+
+Some of the items for an agenda:
+*	Elimination of preschedule flag
+*	Time table times refer to prevailing time of the sink/load control
+area
+*	Preschedule items
+*	Real-time items
+
+There are more specific items, I just haven't had enough coffee yet.  A real
+agenda out next week.
+
+Robert Harshbarger
+Puget Sound Energy
+OASIS Trading Manager
+425.882.4643 (desk)
+206.604.3251 (cell)
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <4067003.1075839945398.JavaMail.evans@thyme>
+Date: Wed, 13 Jun 2001 12:21:39 -0700 (PDT)
+From: john.underwood@avistacorp.com
+To: tms-ditt2'.'holden-baker@enron.com, z34655 <m>,
+	robert'.'harshbarger@enron.com, demetrios'.'fotiou@enron.com,
+	lisa'.'grow@enron.com, chris'.'smith@enron.com,
+	carmine'.'tilghman@enron.com, john.underwood@enron.com,
+	bill.williams@enron.com
+Subject: RE: A3A1 Ad Hoc Review Team
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "Underwood, John" <John.Underwood@avistacorp.com>@ENRON <IMCEANOTES-+22Underwood+2C+20John+22+20+3CJohn+2EUnderwood+40avistacorp+2Ecom+3E+40ENRON@ENRON.com>
+X-To: 'Holden-Baker, Susan - TMS-DITT2' <smholden@bpa.gov>, 'Ellingson, Mons M(Z34655)' <Mons.Ellingson@pinnaclewest.com>, 'Harshbarger, Robert' <bharsh@puget.com>, 'Fotiou, Demetrios' <Demetrios.Fotiou@BCHydro.bc.ca>, 'Grow, Lisa' <lgrow@idahopower.com>, 'Smith, Chris' <csmith@caiso.com>, 'Tilghman, Carmine' <ctilghman@tucsonelectric.com>, Underwood, John <John.Underwood@avistacorp.com>, Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BWILLIA5>, 'DEMPSEY@wapa.gov'
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\Operations Committee/ISAS
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+In the week of the 25th., the 26th and 27th are fine, with the 27th being
+the best.
+Thanks, John
+
+-----Original Message-----
+From: Holden-Baker, Susan - TMS-DITT2 [mailto:smholden@bpa.gov]
+Sent: Wednesday, June 13, 2001 9:14 AM
+To: 'Ellingson, Mons M(Z34655)'; 'Harshbarger, Robert'; 'Fotiou,
+Demetrios'; 'Grow, Lisa'; 'Smith, Chris'; 'Tilghman, Carmine';
+'Underwood, John'; 'Williams, Bill'; 'DEMPSEY@wapa.gov'
+Subject: RE: A3A1 Ad Hoc Review Team
+
+
+I added my available dates below - thanks Mons!
+
+-----Original Message-----
+From: Ellingson, Mons M(Z34655) [mailto:Mons.Ellingson@pinnaclewest.com]
+Sent: Wednesday, June 13, 2001 6:32 AM
+To: 'Harshbarger, Robert'; 'Fotiou, Demetrios'; 'Grow, Lisa'; 'Smith,
+Chris'; 'Tilghman, Carmine'; 'Underwood, John'; 'Williams, Bill';
+'DEMPSEY@wapa.gov'; 'Holden-Baker, Susan'
+Subject: RE: A3A1 Ad Hoc Review Team
+
+
+-----Original Message-----
+From: Bill.Williams.III@enron.com [mailto:Bill.Williams.III@enron.com]
+Sent: Wednesday, June 13, 2001 6:16 AM
+To: Ellingson, Mons M(Z34655)
+Subject: RE: A3A1 Ad Hoc Review Team
+
+
+Mons,
+I would be available on the 25th, 26th or 27th.  I cannot make it the week
+of the 18th.
+
+Thanks,
+Bill
+
+
+-----Original Message-----
+
+OK,
+So far it looks likes this.  "Yes" is a date you can meet, "No" you can't.
+
+		18	19	21	22	25	26	27
+Jerry		No	No	No	No	No	No	Yes
+Mons		No	Yes	No	No	Yes	Yes	Yes
+Robert
+Dometrios
+Lisa
+Chris
+Carmine
+John
+Bill		No	No	No	No	Yes	Yes	Yes
+
+Susan		No	Yes	Yes	Yes	Yes	Yes	Yes
+
+
+
+Thanks!
+Mons
+
+
+
+-----Original Message-----
+From: Harshbarger, Robert [mailto:bharsh@puget.com]
+Sent: Tuesday, June 12, 2001 5:56 PM
+To: Ellingson, Mons M(Z34655); 'Fotiou, Demetrios'; 'Grow, Lisa';
+'Smith, Chris'; 'Tilghman, Carmine'; 'Underwood, John'; 'Williams,
+Bill'; 'DEMPSEY@wapa.gov'; 'Holden-Baker, Susan'
+Cc: Hackney, Mark W(Z39911)
+Subject: RE: A3A1 Ad Hoc Review Team
+
+
+Great suggestion.  Yes, a meeting is needed, especially for same day
+timelines.
+
+May I suggest the conference center meeting rooms at the Portland Airport?
+A fly-in, fly-out meeting 9:30 a.m. to 3:30 p.m.
+
+If you have a better location or better idea, speak-up.  Otherwise, I'll
+check on availability of a room.  Looks like we are down to the last two
+weeks of this month - 18, 19, 21, 22, 25, 26, or 27.
+
+I'll try to send out a list of topics for an agenda tomorrow.
+
+Robert Harshbarger
+Puget Sound Energy
+OASIS Trading Manager
+425.882.4643 (desk)
+206.604.3251 (cell)
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <3753023.1075839945425.JavaMail.evans@thyme>
+Date: Wed, 13 Jun 2001 12:14:04 -0700 (PDT)
+From: smholden@bpa.gov
+To: z34655 <m>, robert'.'harshbarger@enron.com, demetrios'.'fotiou@enron.com,
+	lisa'.'grow@enron.com, chris'.'smith@enron.com,
+	carmine'.'tilghman@enron.com, john'.'underwood@enron.com,
+	bill.williams@enron.com
+Subject: RE: A3A1 Ad Hoc Review Team
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "Holden-Baker, Susan - TMS-DITT2" <smholden@bpa.gov>@ENRON <IMCEANOTES-+22Holden-Baker+2C+20Susan+20-+20TMS-DITT2+22+20+3Csmholden+40bpa+2Egov+3E+40ENRON@ENRON.com>
+X-To: 'Ellingson, Mons M(Z34655)' <Mons.Ellingson@pinnaclewest.com>, 'Harshbarger, Robert' <bharsh@puget.com>, 'Fotiou, Demetrios' <Demetrios.Fotiou@BCHydro.bc.ca>, 'Grow, Lisa' <lgrow@idahopower.com>, 'Smith, Chris' <csmith@caiso.com>, 'Tilghman, Carmine' <ctilghman@tucsonelectric.com>, 'Underwood, John' <john.underwood@avistacorp.com>, Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BWILLIA5>, 'DEMPSEY@wapa.gov'
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\Operations Committee/ISAS
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+I added my available dates below - thanks Mons!
+
+-----Original Message-----
+From: Ellingson, Mons M(Z34655) [mailto:Mons.Ellingson@pinnaclewest.com]
+Sent: Wednesday, June 13, 2001 6:32 AM
+To: 'Harshbarger, Robert'; 'Fotiou, Demetrios'; 'Grow, Lisa'; 'Smith,
+Chris'; 'Tilghman, Carmine'; 'Underwood, John'; 'Williams, Bill';
+'DEMPSEY@wapa.gov'; 'Holden-Baker, Susan'
+Subject: RE: A3A1 Ad Hoc Review Team
+
+
+-----Original Message-----
+From: Bill.Williams.III@enron.com [mailto:Bill.Williams.III@enron.com]
+Sent: Wednesday, June 13, 2001 6:16 AM
+To: Ellingson, Mons M(Z34655)
+Subject: RE: A3A1 Ad Hoc Review Team
+
+
+Mons,
+I would be available on the 25th, 26th or 27th.  I cannot make it the week
+of the 18th.
+
+Thanks,
+Bill
+
+
+-----Original Message-----
+
+OK,
+So far it looks likes this.  "Yes" is a date you can meet, "No" you can't.
+
+		18	19	21	22	25	26	27
+Jerry		No	No	No	No	No	No	Yes
+Mons		No	Yes	No	No	Yes	Yes	Yes
+Robert
+Dometrios
+Lisa
+Chris
+Carmine
+John
+Bill		No	No	No	No	Yes	Yes	Yes
+
+Susan		No	Yes	Yes	Yes	Yes	Yes	Yes
+
+
+
+Thanks!
+Mons
+
+
+
+-----Original Message-----
+From: Harshbarger, Robert [mailto:bharsh@puget.com]
+Sent: Tuesday, June 12, 2001 5:56 PM
+To: Ellingson, Mons M(Z34655); 'Fotiou, Demetrios'; 'Grow, Lisa';
+'Smith, Chris'; 'Tilghman, Carmine'; 'Underwood, John'; 'Williams,
+Bill'; 'DEMPSEY@wapa.gov'; 'Holden-Baker, Susan'
+Cc: Hackney, Mark W(Z39911)
+Subject: RE: A3A1 Ad Hoc Review Team
+
+
+Great suggestion.  Yes, a meeting is needed, especially for same day
+timelines.
+
+May I suggest the conference center meeting rooms at the Portland Airport?
+A fly-in, fly-out meeting 9:30 a.m. to 3:30 p.m.
+
+If you have a better location or better idea, speak-up.  Otherwise, I'll
+check on availability of a room.  Looks like we are down to the last two
+weeks of this month - 18, 19, 21, 22, 25, 26, or 27.
+
+I'll try to send out a list of topics for an agenda tomorrow.
+
+Robert Harshbarger
+Puget Sound Energy
+OASIS Trading Manager
+425.882.4643 (desk)
+206.604.3251 (cell)
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <18923308.1075839945316.JavaMail.evans@thyme>
+Date: Wed, 13 Jun 2001 12:52:33 -0700 (PDT)
+From: john.underwood@avistacorp.com
+To: robert'.'harshbarger@enron.com, jerry'.'dempsey@enron.com,
+	mons.ellingson@enron.com, demetrios.fotiou@enron.com,
+	lisa.grow@enron.com, susan.holden-baker@enron.com,
+	chris.smith@enron.com, carmine.tilghman@enron.com,
+	john.underwood@enron.com, bill.williams@enron.com
+Subject: RE: Meeting
+Cc: 'hackney@enron.com, mhackney@apsc.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: 'hackney@enron.com, mhackney@apsc.com
+X-From: "Underwood, John" <John.Underwood@avistacorp.com>@ENRON <IMCEANOTES-+22Underwood+2C+20John+22+20+3CJohn+2EUnderwood+40avistacorp+2Ecom+3E+40ENRON@ENRON.com>
+X-To: 'Harshbarger, Robert' <bharsh@puget.com>, 'DEMPSEY, JERRY' <DEMPSEY@wapa.gov>, Ellingson, Mons <mons.ellingson@pinnaclewest.com>, Fotiou, Demetrios <Demetrios.Fotiou@BCHydro.bc.ca>, Grow, Lisa <lgrow@idahopower.com>, Holden-Baker, Susan <smholden@bpa.gov>, Smith, Chris <csmith@caiso.com>, Tilghman, Carmine <ctilghman@tucsonelectric.com>, Underwood, John <John.Underwood@avistacorp.com>, Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BWILLIA5>
+X-cc: 'Hackney, Mark' <mhackney@apsc.com>
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\Operations Committee/ISAS
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+Thanks Bob, I plan to attend.
+John
+
+-----Original Message-----
+From: Harshbarger, Robert [mailto:bharsh@puget.com]
+Sent: Wednesday, June 13, 2001 9:40 AM
+To: 'DEMPSEY, JERRY'; Ellingson, Mons; Fotiou, Demetrios; Grow, Lisa;
+Holden-Baker, Susan; Smith, Chris; Tilghman, Carmine; Underwood, John;
+Williams, Bill
+Cc: 'Hackney, Mark'
+Subject: Meeting
+
+
+Based on what I've seen so far, looks like June 27th.
+
+Based on that, I have tentatively booked a room 9:30 a.m. to 3:30 p.m. at
+the PDX Conference Center, Portland, OR.  If you haven't been there before,
+there's diagram/map at:
+
+http://portlandairportpdx.com/web_pop/CONFER.HTM
+
+Some of the items for an agenda:
+*	Elimination of preschedule flag
+*	Time table times refer to prevailing time of the sink/load control
+area
+*	Preschedule items
+*	Real-time items
+
+There are more specific items, I just haven't had enough coffee yet.  A real
+agenda out next week.
+
+Robert Harshbarger
+Puget Sound Energy
+OASIS Trading Manager
+425.882.4643 (desk)
+206.604.3251 (cell)
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <14306161.1075839945480.JavaMail.evans@thyme>
+Date: Tue, 12 Jun 2001 20:56:27 -0700 (PDT)
+From: bharsh@puget.com
+To: mons'.'ellingson@enron.com, demetrios'.'fotiou@enron.com,
+	lisa'.'grow@enron.com, chris'.'smith@enron.com,
+	carmine'.'tilghman@enron.com, john'.'underwood@enron.com,
+	bill.williams@enron.com
+Subject: RE: A3A1 Ad Hoc Review Team
+Cc: 'hackney@enron.com, mhackney@apsc.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: 'hackney@enron.com, mhackney@apsc.com
+X-From: "Harshbarger, Robert" <bharsh@puget.com>@ENRON <IMCEANOTES-+22Harshbarger+2C+20Robert+22+20+3Cbharsh+40puget+2Ecom+3E+40ENRON@ENRON.com>
+X-To: 'Ellingson, Mons' <mons.ellingson@pinnaclewest.com>, 'Fotiou, Demetrios' <Demetrios.Fotiou@BCHydro.bc.ca>, 'Grow, Lisa' <lgrow@idahopower.com>, 'Smith, Chris' <csmith@caiso.com>, 'Tilghman, Carmine' <ctilghman@tucsonelectric.com>, 'Underwood, John' <john.underwood@avistacorp.com>, Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BWILLIA5>, 'DEMPSEY@wapa.gov', 'Holden-Baker, Susan' <smholden@bpa.gov>
+X-cc: 'Hackney, Mark' <mhackney@apsc.com>
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\Operations Committee/ISAS
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+Great suggestion.  Yes, a meeting is needed, especially for same day
+timelines.
+
+May I suggest the conference center meeting rooms at the Portland Airport?
+A fly-in, fly-out meeting 9:30 a.m. to 3:30 p.m.
+
+If you have a better location or better idea, speak-up.  Otherwise, I'll
+check on availability of a room.  Looks like we are down to the last two
+weeks of this month - 18, 19, 21, 22, 25, 26, or 27.
+
+I'll try to send out a list of topics for an agenda tomorrow.
+
+Robert Harshbarger
+Puget Sound Energy
+OASIS Trading Manager
+425.882.4643 (desk)
+206.604.3251 (cell)
+
+
+> ----------
+> From: 	Holden-Baker, Susan - TMS-DITT2[SMTP:smholden@bpa.gov]
+> Sent: 	Tuesday, June 12, 2001 1:33 PM
+> To: 	'Harshbarger, Robert'; 'Ellingson, Mons'; 'Fotiou, Demetrios';
+> 'Grow, Lisa'; 'Holden-Baker, Susan'; 'Smith, Chris'; 'Tilghman, Carmine';
+> 'Underwood, John'; 'Williams, Bill'; 'DEMPSEY@wapa.gov'
+> Cc: 	'Hackney, Mark'; Carter, Gloria J - TMS-DITT1; Ellingwood, Robert G
+> - TMS; Hutchison, Wesley A - TMS; Buchanan, Shepard - TMS-DITT1; Buckmier,
+> Shirley M.- TMS; McNeil-Keister, Jean - TMS; Hoffman, Lorie S - TMS-DITT1;
+> Lyons, Barry D - TMS-DITT1
+> Subject: 	RE: A3A1 Ad Hoc Review Team
+>
+> <<File: NERC Policy 3 E-tag timelines-draft2.doc>>
+> I have attached BPA Transmission Schedulings' response to the questions
+> posed by Bob in his email dated May 21 below.  If the group feels it would
+> be helpful to meet to discuss the timeline issues, I am in support of that
+> effort.  Otherwise, I look forward to the responses from the rest of the
+> group.  Thanks, Sue.
+>
+> Sue Holden-Baker
+> Bonneville Power Administration
+> Transmission Supply
+> (360) 418-8278
+> smholden@bpa.gov
+>
+>
+> -----Original Message-----
+> From: Harshbarger, Robert [mailto:bharsh@puget.com]
+> Sent: Tuesday, May 22, 2001 8:50 AM
+> To: 'Ellingson, Mons'; 'Fotiou, Demetrios'; 'Grow, Lisa'; 'Holden-Baker,
+> Susan'; 'Smith, Chris'; 'Tilghman, Carmine'; 'Underwood, John';
+> 'Williams, Bill'
+> Cc: 'Hackney, Mark'
+> Subject: RE: A3A1 Ad Hoc Review Team
+>
+>
+> Timeliners:
+>
+> Revision to yesterday's e-mail - due date is end of July.  So proposals by
+> mid-June, first draft report by early/mid-July, discussion throughout.
+>
+> Bob
+>
+> > ----------
+> > From: 	Harshbarger, Robert
+> > Sent: 	Monday, May 21, 2001 5:16 PM
+> > To: 	Ellingson, Mons; Fotiou, Demetrios; Grow, Lisa;
+> Holden-Baker, Susan;
+> > Smith, Chris; Tilghman, Carmine; Underwood, John; Williams, Bill
+> > Cc: 	'Hackney, Mark'
+> > Subject: 	A3A1 Ad Hoc Review Team
+> >
+> > Yes, that's right, you did raise your hand for this.
+> >
+> > We are to submit to ISAS any recommendation(s) by August ??, 2001 (what
+> > was the date, I didn't write it down).
+> >
+> > Is there benefit to have a face-to-face meeting?  Either way, we'll use
+> > e-mail for discussion and maybe a conference call or two.
+> >
+> > First assignment is to read:
+> > *	A3A1-Interim is what we are currently running with.
+> > *	A3A1-version3-draft2 goes before the NERC BOT June 10-11.
+> > *	A3A1-candr contains public comments and responses from NERC IS.
+> >
+> > <<File: a3a1-interim.doc>><<File: a3a1v3d2-0501.doc>><<File:
+> > a3a1candr.doc>>
+> > Questions to keep in mind:
+> > *	Are our current timelines as good as it gets?
+> > *	Do we want to adopt the Eastern Interconnection's timelines?
+> > *	What are the deficiencies of our timelines?
+> > *	Will these deficiencies be present under 1.7?
+> > *	Which timing requirements could be changed with an reasonable amount
+> > of effort (i.e., tariff items, AGC ramp times, A3A1, etc.)?
+> >
+> > Remember....
+> > <<File: trainedpros.wav>>
+> >
+> >  Bob Harshbarger
+> >  OASIS Trading Manager
+> >  Puget Sound Energy
+> >  (425) 882-4643 voice
+> >  (425) 882-4496 fax
+> >  (206) 405-5161 pager
+> >  (206) 604-3251 cell
+> >
+>
+> 
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <28290629.1075839945452.JavaMail.evans@thyme>
+Date: Wed, 13 Jun 2001 00:08:28 -0700 (PDT)
+From: dempsey@wapa.gov
+Subject: RE: A3A1 Ad Hoc Review Team
+Cc: mhackney@apsc.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: mhackney@apsc.com
+X-From: "JERRY DEMPSEY" <DEMPSEY@wapa.gov>@ENRON <IMCEANOTES-+22JERRY+20DEMPSEY+22+20+3CDEMPSEY+40wapa+2Egov+3E+40ENRON@ENRON.com>
+X-To: john.underwood@avistacorp.com, Demetrios.Fotiou@BCHydro.bc.ca, smholden@bpa.gov, Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BWILLIA5>, lgrow@idahopower.com, mons.ellingson@pinnaclewest.com, bharsh@puget.com, ctilghman@tucsonelectric.com, Chris Smith <CSMITH@wapa.gov>
+X-cc: mhackney@apsc.com
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\Operations Committee/ISAS
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+Bob and team -
+
+If it works at all for the group - June 27th works great for me as I would already be in Portland and can attend this type of a meeting.  None of the other dates would work for me.
+
+thanks - Jerry
+
+>>> "Harshbarger, Robert" <bharsh@puget.com> 06/12/01 06:56PM >>>
+Great suggestion.  Yes, a meeting is needed, especially for same day
+timelines.
+
+May I suggest the conference center meeting rooms at the Portland Airport?
+A fly-in, fly-out meeting 9:30 a.m. to 3:30 p.m.
+
+If you have a better location or better idea, speak-up.  Otherwise, I'll
+check on availability of a room.  Looks like we are down to the last two
+weeks of this month - 18, 19, 21, 22, 25, 26, or 27.
+
+I'll try to send out a list of topics for an agenda tomorrow.
+
+Robert Harshbarger
+Puget Sound Energy
+OASIS Trading Manager
+425.882.4643 (desk)
+206.604.3251 (cell)
+
+
+> ----------
+> From: 	Holden-Baker, Susan - TMS-DITT2[SMTP:smholden@bpa.gov]
+> Sent: 	Tuesday, June 12, 2001 1:33 PM
+> To: 	'Harshbarger, Robert'; 'Ellingson, Mons'; 'Fotiou, Demetrios';
+> 'Grow, Lisa'; 'Holden-Baker, Susan'; 'Smith, Chris'; 'Tilghman, Carmine';
+> 'Underwood, John'; 'Williams, Bill'; 'DEMPSEY@wapa.gov'
+> Cc: 	'Hackney, Mark'; Carter, Gloria J - TMS-DITT1; Ellingwood, Robert G
+> - TMS; Hutchison, Wesley A - TMS; Buchanan, Shepard - TMS-DITT1; Buckmier,
+> Shirley M.- TMS; McNeil-Keister, Jean - TMS; Hoffman, Lorie S - TMS-DITT1;
+> Lyons, Barry D - TMS-DITT1
+> Subject: 	RE: A3A1 Ad Hoc Review Team
+>
+> <<File: NERC Policy 3 E-tag timelines-draft2.doc>>
+> I have attached BPA Transmission Schedulings' response to the questions
+> posed by Bob in his email dated May 21 below.  If the group feels it would
+> be helpful to meet to discuss the timeline issues, I am in support of that
+> effort.  Otherwise, I look forward to the responses from the rest of the
+> group.  Thanks, Sue.
+>
+> Sue Holden-Baker
+> Bonneville Power Administration
+> Transmission Supply
+> (360) 418-8278
+> smholden@bpa.gov
+>
+>
+> -----Original Message-----
+> From: Harshbarger, Robert [mailto:bharsh@puget.com]
+> Sent: Tuesday, May 22, 2001 8:50 AM
+> To: 'Ellingson, Mons'; 'Fotiou, Demetrios'; 'Grow, Lisa'; 'Holden-Baker,
+> Susan'; 'Smith, Chris'; 'Tilghman, Carmine'; 'Underwood, John';
+> 'Williams, Bill'
+> Cc: 'Hackney, Mark'
+> Subject: RE: A3A1 Ad Hoc Review Team
+>
+>
+> Timeliners:
+>
+> Revision to yesterday's e-mail - due date is end of July.  So proposals by
+> mid-June, first draft report by early/mid-July, discussion throughout.
+>
+> Bob
+>
+> > ----------
+> > From: 	Harshbarger, Robert
+> > Sent: 	Monday, May 21, 2001 5:16 PM
+> > To: 	Ellingson, Mons; Fotiou, Demetrios; Grow, Lisa;
+> Holden-Baker, Susan;
+> > Smith, Chris; Tilghman, Carmine; Underwood, John; Williams, Bill
+> > Cc: 	'Hackney, Mark'
+> > Subject: 	A3A1 Ad Hoc Review Team
+> >
+> > Yes, that's right, you did raise your hand for this.
+> >
+> > We are to submit to ISAS any recommendation(s) by August ??, 2001 (what
+> > was the date, I didn't write it down).
+> >
+> > Is there benefit to have a face-to-face meeting?  Either way, we'll use
+> > e-mail for discussion and maybe a conference call or two.
+> >
+> > First assignment is to read:
+> > *	A3A1-Interim is what we are currently running with.
+> > *	A3A1-version3-draft2 goes before the NERC BOT June 10-11.
+> > *	A3A1-candr contains public comments and responses from NERC IS.
+> >
+> > <<File: a3a1-interim.doc>><<File: a3a1v3d2-0501.doc>><<File:
+> > a3a1candr.doc>>
+> > Questions to keep in mind:
+> > *	Are our current timelines as good as it gets?
+> > *	Do we want to adopt the Eastern Interconnection's timelines?
+> > *	What are the deficiencies of our timelines?
+> > *	Will these deficiencies be present under 1.7?
+> > *	Which timing requirements could be changed with an reasonable amount
+> > of effort (i.e., tariff items, AGC ramp times, A3A1, etc.)?
+> >
+> > Remember....
+> > <<File: trainedpros.wav>>
+> >
+> >  Bob Harshbarger
+> >  OASIS Trading Manager
+> >  Puget Sound Energy
+> >  (425) 882-4643 voice
+> >  (425) 882-4496 fax
+> >  (206) 405-5161 pager
+> >  (206) 604-3251 cell
+> >
+>
+> 
+

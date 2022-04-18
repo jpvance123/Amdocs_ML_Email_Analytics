@@ -1,0 +1,1054 @@
+From MAILER-DAEMON Mon Apr 18 14:23:55 2022
+Message-ID: <11533350.1075856052169.JavaMail.evans@thyme>
+Date: Wed, 21 Jun 2000 10:03:00 -0700 (PDT)
+From: brent.price@enron.com
+To: sally.beck@enron.com
+Subject: For Discussion: Implementing Definition of Trading Office
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Brent A Price
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Jun2001\Notes Folders\Egm\Price, brent
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+this is the memo I was referring to - 
+
+---------------------- Forwarded by Brent A Price/HOU/ECT on 21/06/2000 17:02 
+---------------------------
+
+
+Richard Sage
+21/06/2000 13:38
+To: Brent A Price/HOU/ECT@ECT
+cc:  
+Subject: For Discussion: Implementing Definition of Trading Office
+
+i.e. very draft!
+What are your thoughts?
+---------------------- Forwarded by Richard Sage/LON/ECT on 21/06/2000 13:40 
+---------------------------
+
+
+Richard Sage
+21/06/2000 07:35
+To: Mike Jordan/LON/ECT@ECT, Andrew Cornfield/LON/ECT@ECT, Naomi 
+Connell/LON/ECT@ECT, Phil Redman/LON/ECT@ECT, Tim 
+Poullain-Patterson/LON/ECT@ECT
+cc:  
+
+Subject: For Discussion: Implementing Definition of Trading Office
+
+I was going to write that the buying and selling of physical commodity 
+locally was OK, but that hedging had to be done with Regional Hub. The 
+problem with this model is that it describes Helsinki before the bust!
+
+Another possiblity is the agency model, where the local trader acts under the 
+direction of the hub trader. This is where Helsinki currently is (although we 
+also have an independent manager on site). However, I am not so happy with 
+this, and Rick Causey certainly does not like it. Perhaps we should recommend 
+independent Risk Managers in every office, but all correspondence and 
+settlement with regional hub?
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:55 2022
+Message-ID: <30624024.1075856052191.JavaMail.evans@thyme>
+Date: Tue, 13 Jun 2000 03:28:00 -0700 (PDT)
+From: brent.price@enron.com
+To: sally.beck@enron.com
+Subject: Benchmark
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Brent A Price
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Jun2001\Notes Folders\Egm\Price, brent
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+FYI...according to Jeff, by the end of today the only position that will 
+require manual adjustment is an IM Canada position (60 K's) that will be 
+fixed next Monday when Kam Keiser goes back to Calgary.  Everything else is 
+now automatically feeding to the GRMS system (and VAR calculations) without 
+human intervention.
+ 
+---------------------- Forwarded by Brent A Price/HOU/ECT on 06/13/2000 10:20 
+AM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  Jeffrey C Gossett                           06/13/2000 04:01 PM
+	
+
+To: Steve Jackson/HOU/ECT@ECT, Michael E Moscoso/HOU/ECT@ECT
+cc: Brent A Price/HOU/ECT@ECT 
+Subject: Benchmark
+
+Steve - Mike asked  me to send him a list of what we had done to improve the 
+top-level adjustments on the Benchmark.  Here are the things which we 
+discussed earlier.
+
+Mike - Let me know if you need anything else.
+
+We have lowered the number of top-level adjustments substantially this week.  
+We have taken several steps in order to achieve this.
+
+1.  We had to adjust formatting in all text files which go into GRMS.  
+2.  We are using a flip-out book for all Canadian deals done with the U.S. 
+office so that Canadian positions are pulling in correctly.
+3.  We had to adjust many book names in order that GRMS would pull the books 
+into the system.  
+4.  We had to change region codes in the system so that GRMS would pull in 
+more than one book per region.
+
+Issues remaining:
+
+Intra-Month Canada
+Chicago
+Storage and Intra-East
+
+Intra-month Canada - We have a risk person from the U.S. office going to 
+Canada on Monday to fix their problems.
+Chicago -  will be fixed by the end of the day.  System is looking for the 
+wrong portfolio code.
+Storage and Intra-East - Also will be fixed by the end of the day.  Overide 
+books need to be set up.
+
+Thanks
+
+JG
+
+From MAILER-DAEMON Mon Apr 18 14:23:55 2022
+Message-ID: <30585295.1075849851975.JavaMail.evans@thyme>
+Date: Thu, 15 Mar 2001 00:28:00 -0800 (PST)
+From: brent.price@enron.com
+To: sally.beck@enron.com
+Subject: EGM due diligence team members
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Brent A Price
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Egm\Price, brent
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Sally - The following people will be the core of the EGM due diligence team:  
+Scott Earnest, Michelle Bruce, Sheila Glover, Kevin Sweeney and Michelle 
+Thomason.  Of course, we will utilize others as needed depending on the 
+demands of the transaction being reviewed.  Michelle and/or myself will 
+follow-up with you next week to discuss next steps to finalizing a template 
+and team for all of wholesale.
+
+From MAILER-DAEMON Mon Apr 18 14:23:55 2022
+Message-ID: <3108296.1075856052235.JavaMail.evans@thyme>
+Date: Thu, 8 Jun 2000 20:37:00 -0700 (PDT)
+From: brent.price@enron.com
+To: jefferson.sorenson@enron.com
+Subject: Re: 6/6/00 Financial trades
+Cc: susan.harrison@enron.com, larry.hunter@enron.com, sally.beck@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: susan.harrison@enron.com, larry.hunter@enron.com, sally.beck@enron.com
+X-From: Brent A Price
+X-To: Jefferson D Sorenson
+X-cc: Susan Harrison, Larry Joe Hunter, Sally Beck
+X-bcc: 
+X-Folder: \Sally_Beck_Jun2001\Notes Folders\Egm\Price, brent
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Looks good...everyone has done an excellent job in getting this set up and 
+monitored.
+
+
+   
+	
+	
+	From:  Jefferson D Sorenson                           06/08/2000 05:00 PM
+	
+
+To: Brent A Price/HOU/ECT@ECT, Susan Harrison/HOU/ECT@ECT
+cc: Larry Joe Hunter/HOU/ECT@ECT 
+Subject: 6/6/00 Financial trades
+
+As you can see, these messages are paying off, only 9 deals of 1,262, quite 
+an improvement.  Good job Joe!
+---------------------- Forwarded by Jefferson D Sorenson/HOU/ECT on 
+06/08/2000 10:58 AM ---------------------------
+   
+	
+	
+	From:  Larry Joe Hunter                           06/07/2000 07:06 PM
+	
+
+To: Jefferson D Sorenson/HOU/ECT@ECT
+cc: Rod Nelson/HOU/ECT@ECT, Russell Diamond/HOU/ECT@ECT, Molly 
+Harris/HOU/ECT@ECT, Brant Reves/HOU/ECT@ECT, Nidia Mendoza/HOU/ECT@ECT, John 
+Suttle/HOU/ECT@ECT, Veronica Espinoza/Corp/Enron@ENRON, Brad 
+Schneider/Corp/Enron@Enron, Souad Mahmassani/Corp/Enron@ENRON, Sheetal 
+Patel/HOU/ECT@ECT, Kevin Meredith/Corp/Enron@ENRON, Purvi Patel/HOU/ECT@ECT, 
+Ami Chokshi/Corp/Enron@ENRON, Jody Crook/Corp/Enron@ENRON, Sony 
+Wilson/HOU/ECT@ECT 
+Subject: 6/6/00 Financial trades
+
+
+
+The below is a list of Monday, June 6, 2000 Financial OTC deals which did not 
+go out by COB today (June 7).  This is our standard deadline of Trade Date + 
+1 day for sending Confirmations to Counterparties.
+
+
+FYI: The below excludes Canada traded deals and deals which we sign the 
+Counterparty's Confirmation:
+
+Total deal count for June 6 = 1,262
+Total deals not sent to C/P = 9
+
+
+Counterparty	Deal No.   	Status       	Reason               	
+CMSMARSERTRA   	NL6574.1  	Pending     	Revised after sent t	Trade Capture changed 
+- Purvi
+CMSMARSERTRA   	NL6583.1  	Pending     	Revised after sent t	Trade Capture changed 
+- Purvi
+CORALENEHOL    	NL6747.1  	Pending     	Revised after sent t	C/P name change - Ami 
+Chokshi
+GROWMARK       	NL6736.1  	Pending     	Sent to credit      	C/P to prepay 
+premium - Sony
+GROWMARK       	NL6740.1  	Pending     	Sent to credit      	C/P to prepay 
+premium - Sony
+CLECOMARAND    	NL6761.1  	Pending     	Sent to legal       	Needs Gty-Jody Crook
+CLECOMARAND    	NL6761.2  	Pending     	Sent to legal       	Needs Gty-Jody Crook
+CLECOMARAND    	NL6800.1  	Pending     	Sent to legal       	Needs Gty-Ami Chokshi
+CLECOMARAND    	NL6809.1  	Pending     	Sent to legal       	Needs Gty-Ami Chokshi
+
+Thanks,
+Joe
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:55 2022
+Message-ID: <22075582.1075845066650.JavaMail.evans@thyme>
+Date: Wed, 18 Apr 2001 11:38:00 -0700 (PDT)
+From: brent.price@enron.com
+To: sally.beck@enron.com
+Subject: FW: Clara Carrington
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Brent A Price <Brent A Price/ENRON@enronXgate@ENRON>
+X-To: Sally Beck <Sally Beck/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \Beck, Sally\Beck, Sally\EGM\Price, Brent
+X-Origin: BECK-S
+X-FileName: Beck, Sally.pst
+
+Evidently, we need to get Mike and James' consent to send someone over to London....  Clara was over there working on rate & currency which has nothing to do with London.
+
+I am starting to hear more and more noise about James' attitude.  It is getting to the point (and possibly is already) that no one wants to work with him and it could isolate London operations even further from the mainstream.  It may be time for someone to have a heart-to-heart with him (Fernley?).
+
+ -----Original Message-----
+From: 	Glover, Sheila  
+Sent:	Wednesday, April 18, 2001 8:10 AM
+To:	Brent A Price/HOU/ECT@ENRON
+Subject:	Re: Clara Carrington
+
+Brent
+I will call to discuss. sg
+---------------------- Forwarded by Sheila Glover/HOU/ECT on 04/18/2001 08:09 AM ---------------------------
+   
+
+ 	  From:  Sheila Glover                           04/18/2001 07:57 AM	
+		
+
+
+
+To:	James New/LON/ECT@ECT
+cc:	 
+Subject:	Re: Clara Carrington   
+
+James,
+Clara was there to work with Shane on some items for the London Rate & Currency desk.  Clara was also working with the IT person we have in London who is  working to improve the processes of how curves are loaded as well as how cash flows are received.  
+In the prior weeks when Shane and I met with some of the groups, I had told them that Clara would be over to follow-up on some of the items.  
+
+Sheila
+
+
+
+
+ 
+James New
+04/18/2001 02:16 AM
+To:	Sheila Glover/HOU/ECT@ECT
+cc:	 
+Subject:	Clara Carrington
+
+Sheila,
+
+I am disappointed to say that neither Mike or I were knowingly told of Clara's visit and she didn't introduce herself or explain what she was doing to either of us. She also arrived at a time when Michael Kass was on holiday. As a result of this I am concerned about the success of her trip and some of the conclusions she may have drawn.
+
+I would therefore appreciate it if you could arrange for a summary of the purpose, results and conclusions that followed her week's work so that we can all understand what the future holds.
+
+
+Thanks James
+
+
+
+
+
+
+
+<Embedded StdOleLink>
+<Embedded Picture (Device Independent Bitmap)>
+<Embedded Picture (Device Independent Bitmap)>
+
+From MAILER-DAEMON Mon Apr 18 14:23:55 2022
+Message-ID: <17236088.1075856052147.JavaMail.evans@thyme>
+Date: Wed, 28 Jun 2000 08:10:00 -0700 (PDT)
+From: brent.price@enron.com
+To: sally.beck@enron.com
+Subject: Re: Revised Operating Standards
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Brent A Price
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Jun2001\Notes Folders\Egm\Price, brent
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+More detail than you probably want on the document I gave you at the 
+Doubletree....  Mike was responding to an email that Steve Young had sent 
+him.  Just wanted you to know that this is moving forward and that I will 
+coordinate the Houston side of this for now (I will coordinate London going 
+forward if that responsibility is given to me).  Let me know if you have 
+questions.
+
+---------------------- Forwarded by Brent A Price/HOU/ECT on 06/28/2000 03:01 
+PM ---------------------------
+
+
+Mike Jordan
+06/28/2000 07:26 PM
+To: Steve W Young/LON/ECT@ECT
+cc: Brent A Price/HOU/ECT@ECT, John Sherriff/LON/ECT@ECT, Tim 
+Davies/LON/ECT@ECT, David Port/Market Risk/Corp/Enron@ENRON, Fernley 
+Dyson/LON/ECT@ECT 
+Subject: Re: Revised Operating Standards  
+
+Steve
+
+My assessment of the next steps are as follows :-
+
+We finalise the intial draft of the one page summary  - Action Mike/Brent to 
+consolidate feedback to date - to be delivered tomorrow
+The one pager to be sent to all business heads commenting on John's belief ( 
+which I think we all share ) that the Business unit head has ultimate 
+responsibility to ensure operating standards are met and that we aim to 
+provide them with a joint summary of 'status' from Commercial Support and 
+RAC. This summary could be reviewed by AA, but I believe the process would be 
+more beneficial if it is 
+a self assessment process
+escalates judgement on material issues 
+capable of being monitored and repeated on an agreed frequency
+complimentary to the BRM process
+The timeline for thie intial feedback could be within one week - I have an 
+assessment from David Port to match to ours already!
+
+As to your other questions
+
+I will be adding two additional detail points within the required structure 
+definition - ie the structure must have :-
+
+Full functionality and interfaces for market risk, credit risk and Corporate 
+reporting, and/or a systems roadmap for that development
+Appropriate involvement in business for specialist services ( Legal, Tax and 
+HR )
+
+The Operating Standards MUST only cover one page to retain the ease of 
+communication for them - the above definitions identify that businesses must 
+consider all Legal and RAC issues - and there will significant detail 
+involved in that - which will be defined elsewhere ( see David's separate 
+comments on risk reporting )
+
+In summary I think it is best to move to publish the intial draft to 
+stimulate communication  - would welcome your thoughts
+
+Mike
+
+ - some changes  -awaiting possible additions from Brent  - if none - to be 
+published tomorrow
+
+
+
+
+
+
+Steve W Young
+27/06/2000 20:03
+To: Mike Jordan/LON/ECT@ECT
+cc: Brent A Price/HOU/ECT@ECT, John Sherriff/LON/ECT@ECT, Tim 
+Davies/LON/ECT@ECT, David Port/Market Risk/Corp/Enron@ENRON, Fernley 
+Dyson/LON/ECT@ECT 
+
+Subject: Re: Revised Operating Standards  
+
+Mike: 
+
+Is this the most current version of the proposed Operating Standards?  Since 
+I've been out of the office since we last discussed, I wanted to get an 
+update on the status.  A couple of questions: 
+
+What are the next steps? 
+How will this be communicated and to whom?
+How do you see this being implemented to best assure it is respected?
+Legal Standards are absent?  I suspect this is still in draft form and they 
+are to follow in the next version; however, let me know how you see legal 
+Standards playing into this as I believe they should be on this list as well.
+
+As discussed, I strongly believe that a brief and clear list of "absolutes" 
+similar to the attachment will be most useful if first agreed by all that 
+need to be involved and then effectively communicated and respected by all in 
+EEL.  Let me know if this list is now considered representative of the views 
+of all that need to have input.  I suggest we meet again with a broader group 
+to assure this list is complete and to discuss next steps.  I have some 
+suggested adjustments but will get back to you by end of week with comments 
+or questions from RAC after we discuss this in our weekly RAC manager's 
+meeting.   
+
+Thanks,
+
+Steve
+
+
+
+Brent A Price
+15/06/2000 13:28
+To: Mike Jordan/LON/ECT@ECT
+cc: John Sherriff/LON/ECT@ECT, Steve W Young/LON/ECT@ECT 
+
+Subject: Revised Operating Standards
+
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:55 2022
+Message-ID: <23394291.1075849851952.JavaMail.evans@thyme>
+Date: Mon, 19 Mar 2001 10:45:00 -0800 (PST)
+From: enron.announcements@enron.com
+To: egm.employees@enron.com
+Subject: EGM Operations & Accounting Organizational Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: EGM Employees
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Egm\Price, brent
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Due to a system error this original email could not open the powerpoint 
+presentation. Please launch the attachment. 
+
+
+Enron Global Markets has experienced tremendous growth since inception and 
+this growth rate will continue to increase as new businesses and markets are 
+developed.  In order to ensure EGM Operations & Accounting is positioned to 
+provide the highest level of support and value to each EGM business unit, I 
+am pleased to announce the following organizational changes effective 
+immediately.
+
+Physical Commodity Operations
+These groups, which include Crude & Products, Coal, LNG, Freight and Weather, 
+are being reorganized along functional lines to provide better focus and 
+promote efficiencies across these operational activities.  Weather is being 
+included in this group to maintain the consistency of current Operations 
+leadership in this area.
+
+      Business Risk Controls
+Todd Hall will assume the role as Business Risk Controller on a worldwide 
+basis for the physical businesses.  This group will have responsibility for 
+all Risk Management activities and serve as the daily commercial interface 
+for all operational issues that affect the physical businesses.
+
+North America Operations
+Michelle Bruce will assume responsibility for the following activities that 
+support the physical businesses for North America:  Confirmations, 
+Coordination, Settlements and Trade Accounting.  Michelle and her team will 
+also play a key role in coordinating operational activities as they relate to 
+potential acquisitions and new business opportunities within North America.
+
+Europe/Asia Operations
+Cindy Horn will continue in her role managing the following activities for 
+the physical businesses in Europe and Asia:  Confirmations, Coordination, 
+Settlements and Trade Accounting.  Cindy and her team will also have the 
+critical responsibility of ensuring proper controls and processes are 
+maintained for all new and existing markets throughout the region.  Tiong 
+Hock Lim and his team in Singapore will report to Cindy.
+
+Financial Commodity Operations
+Sheila Glover will expand her current role and manage all business risk and 
+operational activities for Financial Trading and Global Risk Management.  As 
+the Global Risk Management business grows, Sheila will develop the 
+operational processes and infrastructure necessary to support it.
+
+Todd, Michelle, Cindy and Sheila will also work together as a Controller team 
+to ensure processes and controls are consistent across EGM and that 
+efficiencies are broadly applied.
+
+Structuring/Transaction Analysis
+Scott Earnest will assume responsibility for all commodity structuring and 
+transaction analysis activities across EGM.  His duties will include pricing 
+and valuation of new transactions and businesses, evaluation of existing 
+transactions to identify restructuring opportunities and risk controls 
+monitoring and reporting.  
+
+Technology
+Kevin Sweeney will continue in his role as Technology Controller.  Kevin and 
+his team will be completing the implementation of Project Thunderball for 
+Crude & Products and Coal and will also serve as the Business Leads for 
+system enhancements and new technology opportunities that are identified.
+
+Financial Operations & Accounting
+Tom Myers will continue in his role of managing EGM Financial Operations & 
+Accounting.  Tom and his group are responsible for EGM management reporting, 
+Plan & Current Estimate preparation, the financial close process and G/L 
+controls.
+
+Please see the attached organizational chart for a more detailed look at the 
+changes discussed above.
+
+ 
+
+   Please join me in congratulating everyone on their new assignments.
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:55 2022
+Message-ID: <16222595.1075849851928.JavaMail.evans@thyme>
+Date: Wed, 18 Apr 2001 01:38:00 -0700 (PDT)
+From: brent.price@enron.com
+To: sally.beck@enron.com
+Subject: FW: Clara Carrington
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Brent A Price
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Egm\Price, brent
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Evidently, we need to get Mike and James' consent to send someone over to 
+London....  Clara was over there working on rate & currency which has nothing 
+to do with London.
+
+I am starting to hear more and more noise about James' attitude.  It is 
+getting to the point (and possibly is already) that no one wants to work with 
+him and it could isolate London operations even further from the mainstream.  
+It may be time for someone to have a heart-to-heart with him (Fernley?).
+
+ -----Original Message-----
+From:  Glover, Sheila  
+Sent: Wednesday, April 18, 2001 8:10 AM
+To: Brent A Price/HOU/ECT@ENRON
+Subject: Re: Clara Carrington
+
+Brent
+I will call to discuss. sg
+---------------------- Forwarded by Sheila Glover/HOU/ECT on 04/18/2001 08:09 
+AM ---------------------------
+   
+	  From:  Sheila Glover                           04/18/2001 07:57 AM
+	
+
+
+To: James New/LON/ECT@ECT
+cc:  
+Subject: Re: Clara Carrington  
+
+James,
+Clara was there to work with Shane on some items for the London Rate & 
+Currency desk.  Clara was also working with the IT person we have in London 
+who is  working to improve the processes of how curves are loaded as well as 
+how cash flows are received.  
+In the prior weeks when Shane and I met with some of the groups, I had told 
+them that Clara would be over to follow-up on some of the items.  
+
+Sheila
+
+
+
+
+
+James New
+04/18/2001 02:16 AM
+To: Sheila Glover/HOU/ECT@ECT
+cc:  
+Subject: Clara Carrington
+
+Sheila,
+
+I am disappointed to say that neither Mike or I were knowingly told of 
+Clara's visit and she didn't introduce herself or explain what she was doing 
+to either of us. She also arrived at a time when Michael Kass was on holiday. 
+As a result of this I am concerned about the success of her trip and some of 
+the conclusions she may have drawn.
+
+I would therefore appreciate it if you could arrange for a summary of the 
+purpose, results and conclusions that followed her week's work so that we can 
+all understand what the future holds.
+
+
+Thanks James
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:55 2022
+Message-ID: <6552552.1075856052212.JavaMail.evans@thyme>
+Date: Thu, 8 Jun 2000 23:08:00 -0700 (PDT)
+From: brent.price@enron.com
+To: richard.causey@enron.com, sally.beck@enron.com, ted.murphy@enron.com
+Subject: Global Systems Matrix
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Brent A Price
+X-To: Richard Causey, Sally Beck, Ted Murphy
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Jun2001\Notes Folders\Egm\Price, brent
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Rick - You had asked a while back for a matrix that captures all of the 
+different systems used by commodity, by office and by functional group.  This 
+(draft) version encompasses Houston and London activities.  We will expand 
+this document to include other offices and products in the next few months.  
+Let me know your questions and comments.
+
+From MAILER-DAEMON Mon Apr 18 14:23:55 2022
+Message-ID: <26713698.1075849851999.JavaMail.evans@thyme>
+Date: Thu, 8 Mar 2001 00:55:00 -0800 (PST)
+From: brent.price@enron.com
+To: sally.beck@enron.com
+Subject: RE: LaRence Snowden
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Brent A Price
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Egm\Price, brent
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Slight interest; could see as a fit in Risk or Strucuturing.  EGM has no 
+immediate openings in either but I am always open to the possibility of going 
+long people in those areas.  He was supposed to get back to me if he had 
+interest in EGM - have not heard from him yet.
+
+ -----Original Message-----
+From:  Beck, Sally  
+Sent: Tuesday, March 06, 2001 2:07 PM
+To: Brent A Price/HOU/ECT@ENRON; Beth Apollo/HOU/ECT@ENRON; Brenda F 
+Herod/HOU/ECT@EnronXGate
+Subject: LaRence Snowden
+
+Any feedback or interest?  Please let me know.  --Sally 
+---------------------- Forwarded by Sally Beck/HOU/ECT on 03/06/2001 02:08 PM 
+---------------------------
+
+
+LaRence Snowden@ENRON COMMUNICATIONS
+03/05/2001 08:19 AM
+To: Sally Beck/HOU/ECT@ECT
+cc:  
+Subject: Thanks
+
+Just a word of thanks for setting up the interviews last week.  I was 
+thoroughly impressed with the groups and saw several areas which I would like 
+to explore further.  I will be following up with Beth Apollo, Brenda Herod 
+and Brent Price to explore opportunities in their areas.  Again, thanks for 
+your kind gesture and even more so, thanks for meeting me at the suggestion 
+of Liz Taylor.
+
+Regards,
+
+LaRence B. Snowden
+Enron Broadband Services - Structuring
+(713) 853-5132
+
+From MAILER-DAEMON Mon Apr 18 14:23:55 2022
+Message-ID: <27973552.1075856052076.JavaMail.evans@thyme>
+Date: Fri, 13 Oct 2000 03:02:00 -0700 (PDT)
+From: brent.price@enron.com
+To: sally.beck@enron.com
+Subject: 
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Brent A Price
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Jun2001\Notes Folders\Egm\Price, brent
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+This goes to a discussion I had with Jeff this morning.  We have had IT 
+problems of some sort or another every day this week which has prevented us 
+from getting the daily reports out by 8:30 (our target time with Jeff).  I 
+have talked to Steve Stock and Richard Burchfield and have been trying to 
+reach Beth for a few days to determine what can be done from an IT 
+perspective.  The problem is that it is not the same thing but has been a 
+different problem every day (metacalc, servers going down, Lotus Notes 
+problems...).  I will talk to Beth and let you know if we need to escalate.  
+I would hope she would dedicate the appropriate resources to ensure that 
+these problems do not continue.
+
+---------------------- Forwarded by Brent A Price/HOU/ECT on 13/10/2000 09:47 
+---------------------------
+   
+	
+	
+	From:  Jeffrey A Shankman                           13/10/2000 09:06
+	
+
+To: Sally Beck/HOU/ECT@ECT, Beth Perlman/HOU/ECT@ECT, Brent A 
+Price/HOU/ECT@ECT
+cc:  
+Subject: 
+
+I know we've made good progress with respect to morning reports for EGM.  
+However, I continue to receive most reports after 9:00 a.m., which is too 
+late into the trading day.  Please let me know if there are resources you 
+need, so this aspect of EGM can run as smoothly as ENA gas.  
+
+Thanks.
+
+Jeff
+
+From MAILER-DAEMON Mon Apr 18 14:23:55 2022
+Message-ID: <21890166.1075856052123.JavaMail.evans@thyme>
+Date: Thu, 29 Jun 2000 04:37:00 -0700 (PDT)
+From: brent.price@enron.com
+To: sally.beck@enron.com
+Subject: Re: TAGG modification request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Brent A Price
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Jun2001\Notes Folders\Egm\Price, brent
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Looks like we can get some help to automate the swaption notification process 
+going forward...
+---------------------- Forwarded by Brent A Price/HOU/ECT on 06/29/2000 11:31 
+AM ---------------------------
+
+
+Ron Nolte
+06/29/2000 12:32 PM
+To: Souad Mahmassani/Corp/Enron@ENRON
+cc: Brent A Price/HOU/ECT@ECT, Jefferson D Sorenson/HOU/ECT@ECT, Jeff 
+Johnson/Corp/Enron@Enron, Beth Perlman/HOU/ECT@ECT 
+Subject: Re: TAGG modification request  
+
+Souad,
+
+There are expiration dates for swaptions/options on the "Detail" button in 
+TAGG Deal Capture.  Let's
+do the following.  Go into TAGG Deal Capture and check to make sure these 
+dates are valid for swaptions/options.
+
+We will write a report that you can run that identifies deals that are  
+expiring.
+
+Thanks, Ron
+
+
+
+
+
+Brent A Price
+06-29-2000 02:49 AM
+To: Jefferson D Sorenson/HOU/ECT@ECT, Jeff Johnson/Corp/Enron@Enron, Beth 
+Perlman/HOU/ECT@ECT, Ron Nolte/HOU/ECT@ECT
+cc:  
+Subject: Re: TAGG modification request  
+
+We really need to raise the priority on getting this done.  We had a swaption 
+with significant value to Enron not get excersied this month due to 
+breakdowns in the manual process.  Let me know how extensive this will be 
+from an IT perspective.  Thanks
+
+
+   
+	
+	
+	From:  Jefferson D Sorenson                           06/28/2000 09:53 PM
+	
+
+To: Brent A Price/HOU/ECT@ECT
+cc:  
+Subject: Re: TAGG modification request
+
+the reason for this message and the other message addressed to Jeff Johnson 
+is that we have system modifications that due to system resources may or may 
+not get done.  note the ClickPaper comment.
+Jeff
+---------------------- Forwarded by Jefferson D Sorenson/HOU/ECT on 
+06/28/2000 03:50 PM ---------------------------
+
+
+Ron Nolte
+06/28/2000 03:49 PM
+To: Souad Mahmassani/Corp/Enron@ENRON
+cc: Larry Joe Hunter/HOU/ECT@ECT, Jefferson D Sorenson/HOU/ECT@ECT 
+Subject: Re: TAGG modification request  
+
+Souad,
+
+We can implement this - the question is "when". As I indicated to Jeff, we 
+are currently working on ClickPaper
+but we will work on whatever is a higher priority from Enron's point of view.
+
+Thanks, Ron
+do to get your request 
+
+
+
+Souad Mahmassani
+06-28-2000 02:47 PM
+To: Ron Nolte/HOU/ECT@ECT
+cc: Larry Joe Hunter/HOU/ECT@ECT, Jefferson D Sorenson/HOU/ECT@ECT 
+Subject: TAGG modification request
+
+Ron,
+
+A series of significant events took place this week where it made it more 
+apparent that a modification in Tagg is highly needed.   Without going into a 
+lot of detail regarding the events, the modification desired is simply an 
+Expiration Date field for certain types of transactions (Swaptions), where a 
+date is keyed by the user at the time the trade is entered into TAGG.  In 
+addition, this feature will permit TAGG to prompt the user or users with a 
+message box of the Expiration date and associated Deal Number at a later 
+time, before the expiration date becomes current (i.e. a week before the 
+expiration date becomes current).  
+
+This request carries a lot of value for it allows ENA to avoid a variety of 
+risks underlying missing execution of certain types of trades.  This issue 
+was addressed in the past and I would like to raise it again.
+
+Can we implement such modification? Your prompt response is highly needed and 
+your feedback is appreciated.  
+
+Thanks. 
+
+
+I work on the confirmation desk, reporting to Jeff Sorenson.  Please call me 
+if you have any questions or suggestions (X37580). 
+
+
+
+
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:55 2022
+Message-ID: <20347183.1075856052100.JavaMail.evans@thyme>
+Date: Fri, 29 Sep 2000 05:55:00 -0700 (PDT)
+From: brent.price@enron.com
+To: sally.beck@enron.com
+Subject: Re: Global Products - Houston Organizational Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Brent A Price
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Jun2001\Notes Folders\Egm\Price, brent
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+We have all talked and are in agreement that financial confirms/settlements 
+are the responsibility of Kim Theriot.  Leslie is going to sent out a memo 
+discussing the organizational changes within that group that will clearly 
+communicate that message to all of wholesale.  Let me know if you have any 
+other questions.
+
+
+
+   
+	Enron North America Corp.
+	
+	From:  Sally Beck                           27/09/2000 15:35
+	
+
+To: Brent A Price/HOU/ECT@ECT
+cc:  
+Subject: Global Products - Houston Organizational Announcement
+
+This memo apparently was already out on e:mail when we were meeting in my 
+office regarding confirmations.  The language regarding Jeff's role on 
+financial confirmations and settlements was left in the memo.  It wasn't  
+clear to me when we met whether Scott and Leslie had talked while looking at 
+a draft of the memo or whether she had seen this on e:mail.  Since you said 
+that you had not seen this memo, please follow up with Scott, Leslie and Jeff 
+to ensure a common understanding around financial confirmations and 
+settlements so that can be communicated within the organization.  There 
+should not be confusion over who has responsibility for financial confirms 
+and settlements.  This memo as sent will create that confusion.  Thanks.  
+---------------------- Forwarded by Sally Beck/HOU/ECT on 09/27/2000 03:07 PM 
+---------------------------
+
+
+Scott Earnest
+09/27/2000 12:47 PM
+To: Anjali Abraham/NA/Enron@ENRON, Robert J Bonin/HOU/ECT@ECT, Kara L 
+Boudreau/HOU/ECT@ECT, Matt A Brown/HOU/ECT@ECT, Michelle Bruce/HOU/ECT@ECT, 
+Barbara Cain/NA/Enron@Enron, Olga Herrera/HOU/ECT@ECT, Mark 
+Confer/HOU/ECT@ECT, Valarie Curry/NA/Enron@Enron, Tammie 
+Davis/NA/Enron@Enron, Mary Jane Denson/HOU/ECT@ECT, Keynan 
+Dutton/NA/Enron@Enron, Diane Ellstrom/HOU/ECT@ECT, Mark Fondren/HOU/ECT@ECT, 
+Sue Foust/HOU/ECT@ECT, Alexia Gonzales/HOU/ECT@ECT, Eric Groves/HOU/ECT@ECT, 
+Bjorn Hagelmann/HOU/ECT@ECT, John Hayes/Corp/Enron@ENRON, Veronica 
+Hill/NA/Enron@Enron, Laura Karl/HOU/ECT@ECT, Nanette Kettler/HOU/ECT@ECT, 
+Christian LeBroc/Corp/Enron@ENRON, Mark J Leskowitz/HOU/ECT@ECT, James N 
+Lessor/HOU/ECT@ECT, Linda K Loukanis/HOU/ECT@ECT, Arlene 
+Mendieta/HOU/ECT@ECT, Richard A Miley/HOU/ECT@ECT, Glenda D 
+Mitchell/HOU/ECT@ECT, Mary N Morris/NA/Enron@Enron, Michelle 
+Nelson/Corp/Enron@ENRON, Frank G Newman/HOU/ECT@ECT, Frank 
+Prejean/HOU/ECT@ECT, Marilyn M Schoppe/HOU/ECT@ECT, Michelle 
+Schultz/NA/Enron@ENRON, James Scully/HOU/ECT@ECT, Julia Sengele/HOU/ECT@ECT, 
+Shifali Sharma/NA/Enron@Enron, Lynn E Shivers/HOU/ECT@ECT, Shirley Gail 
+Sidler/Corp/Enron@ENRON, Karen Snow/HOU/ECT@ECT, Alicia 
+Solis/EPSC/HOU/ECT@ECT, Patrick Stafford/Corp/Enron@ENRON, Leah 
+Stephens/Corp/Enron@ENRON, Shelly Stubbs/Corp/Enron@ENRON, Kevin 
+Sweeney/HOU/ECT@ECT, John Swinney/HOU/ECT@ECT, Michelle 
+Thomason/NA/Enron@Enron, Brandi Wachtendorf/HOU/ECT@ECT, Rhonda 
+Washington/HOU/ECT@ECT, Nicole White/Corp/Enron@ENRON, Sony 
+Wilson/HOU/ECT@ECT, Joan Winfrey/HOU/ECT@ECT, Andrea Bennett/HOU/ECT@ECT, 
+Shannon Cobb/Corp/Enron@ENRON, Sharon Copley/HOU/ECT@ECT, Michael J 
+Gasper/HOU/ECT@ECT, John H Harrison/HOU/ECT@ECT, Helen M Jeschke/HOU/ECT@ECT, 
+George R Lachner/HOU/ECT@ECT, Kristi I Louthan/HOU/ECT@ECT, Ina 
+Norman/HOU/ECT@ECT, Michael Philips/HOU/ECT@ECT, Kathleen 
+Salerno/HOU/ECT@ECT, Jill Siekmeier/Corp/Enron@Enron, Angela 
+Stie/NA/Enron@Enron, Sharon Stringfellow/HOU/ECT@ECT, Tomas 
+Tellez/HOU/ECT@ECT, Jackie Travis/HOU/ECT@ECT, Lisa Walker/HOU/ECT@ECT, Brent 
+A Price/HOU/ECT@ECT, Chantelle Villanueva/HOU/ECT@ECT, Sheila 
+Glover/HOU/ECT@ECT, D Todd Hall/HOU/ECT@ECT, Sally Beck/HOU/ECT@ECT, Patti 
+Thompson/HOU/ECT@ECT, Shona Wilson/NA/Enron@Enron, Michael E 
+Moscoso/HOU/ECT@ECT, Jefferson D Sorenson/HOU/ECT@ECT, Bill F 
+Briggs/HOU/ECT@ECT, David J Botchlett/HOU/ECT@ECT, Phil Clifford/HOU/ECT@ECT, 
+Rudy Dautel/HOU/ECT@ECT, Rochelle Dent/NA/Enron@ENRON, Steven M 
+Elliott/HOU/ECT@ECT, Alan Engberg/HOU/ECT@ECT, Douglas S 
+Friedman/HOU/ECT@ECT, Larry Gagliardi/Corp/Enron@Enron, Jim 
+Goughary/HOU/ECT@ECT, Adam Gross/HOU/ECT@ECT, Joe King/HOU/ECT@ECT, Melinda 
+Joyce Lynn/HOU/ECT@ECT, Patrick Markey/HOU/ECT@ECT, Lisa Nemec/HOU/ECT@ECT, 
+John L Nowlan/HOU/ECT@ECT, Robert Fuller/HOU/ECT@ECT, Ted 
+Robinson/HOU/ECT@ECT, Don Schroeder/HOU/ECT@ECT, S Craig Story/HOU/ECT@ECT, 
+Claude Straub/HOU/ECT@ECT, Helen Marie Taylor/HOU/ECT@ECT, Sameer 
+Vasudev/Corp/Enron@ENRON, Spencer Vosko/HOU/ECT@ECT, Vickie J 
+Weaver/HOU/ECT@ECT, Pavel Zadorozhny/HOU/ECT@ECT, Chris Mahoney/LON/ECT@ECT, 
+John Chismar/SIN/ECT@ECT, Joel Bennett/HOU/ECT@ECT, Simon 
+Thurbin/HOU/ECT@ECT, Cindy Horn/LON/ECT@ECT, Michael L 
+Brown/Corp/Enron@Enron, Yolanda Cordova-Gilbert/HOU/ECT@ECT, Marc De La 
+Roche/HOU/ECT@ECT, Delores Y Frenzel/Corp/Enron@Enron, Doug 
+Leach/HOU/ECT@ECT, Perla Montemayor/NA/Enron@Enron, Victor 
+Santos/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, David A Terlip/Corp/Enron@Enron
+cc:  
+Subject: Global Products - Houston Organizational Announcement
+
+Based on the recent changes in Global Markets, specifically Global Products 
+and Coal, the follow organizational changes have been implemented.
+
+Michelle Bruce will assume the Global Products business lead role.  She will 
+be responsible for ensuring that the business processes and procedures are as 
+effective and efficient as possible.  She will also be working with other 
+groups and offices to ensure consistency of both performance measures and 
+business standards.  John Swinney, lead of Risk Management, and Lisa Walker, 
+lead of Logistics Coordination, will report directly to Michelle.
+
+Michelle Thomason will continue in her current strategic planning role.  In 
+addition, she will assume the business lead role supporting new endeavors 
+that our will group will become involved in, including the cost of funds and 
+prepays activity.  Michelle will report to Michelle Bruce.
+
+We are pleased to announce that Jeff Sorenson has joined the Global Products 
+management team .  He will be responsible for physical confirmations as well 
+as coordinating the financial confirmations and financial settlements for 
+Global Markets.  Lynn Shivers, Documentation lead and his group, will report 
+to Jeff.
+
+Mark Leskowitz will continue to manage the trade accounting group for both 
+Global Products and coal as well as all physical settlements for both 
+business lines.  Julie Sengele will help with the physical settlements and 
+the coal trade accounting.  Julie will report directly to Mark.
+
+Michelle Bruce, Jeff Sorsenson and Mark Leskowitz will report directly to me.
+
+Simon Thurbin has joined us from the London office on a temporary assignment 
+working with Michelle Bruce to define consistent business processes, 
+practices and procedures.   As a result of this global effort, we will work 
+to ensure consistency and continuity between the Houston and London offices.
+
+Joel Bennett has joined us from the London office.  He will be working on 
+changing the Global risk book process, which is being transitioned to Houston.
+
+Shelly Stubbs will be going to London on a temporary assignment to work with 
+Cindy Horn focusing on processes on procedures, specifically controls.
+
+Please join me in supporting all of these people in their new roles and 
+additional responsibilities.
+
+Regards,
+
+Scott
+
+
+
+

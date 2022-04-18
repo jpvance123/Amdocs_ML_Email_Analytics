@@ -1,0 +1,1799 @@
+From MAILER-DAEMON Mon Apr 18 14:23:10 2022
+Message-ID: <32806244.1075841878572.JavaMail.evans@thyme>
+Date: Thu, 12 Apr 2001 09:38:00 -0700 (PDT)
+From: lester.rawson@enron.com
+To: kate.symes@enron.com
+Subject: Autoschedule
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lester Rawson
+X-To: Kate Symes
+X-cc: 
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Scheduling
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+Kate,
+
+Please approve and autoschedule annuity # 580471. It's for 10/31/2000.
+
+Les
+
+From MAILER-DAEMON Mon Apr 18 14:23:10 2022
+Message-ID: <3865619.1075841878249.JavaMail.evans@thyme>
+Date: Tue, 13 Mar 2001 04:14:00 -0800 (PST)
+From: lester.rawson@enron.com
+To: kate.symes@enron.com
+Subject: Approval
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lester Rawson
+X-To: Kate Symes
+X-cc: 
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Scheduling
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+Kate,
+
+Please approve and autoschedule annuity 442260. For Sept. 30,  2000.
+
+les
+
+From MAILER-DAEMON Mon Apr 18 14:23:10 2022
+Message-ID: <8094230.1075841878271.JavaMail.evans@thyme>
+Date: Tue, 13 Mar 2001 22:18:00 -0800 (PST)
+From: lester.rawson@enron.com
+To: kate.symes@enron.com
+Subject: Deal approval
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lester Rawson
+X-To: Kate Symes
+X-cc: 
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Scheduling
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+Kate,
+
+Please approve and autoschedule Deal # 474191. It's for 10/1/2000.
+
+Les
+
+From MAILER-DAEMON Mon Apr 18 14:23:10 2022
+Message-ID: <7059873.1075841878752.JavaMail.evans@thyme>
+Date: Tue, 1 May 2001 07:12:00 -0700 (PDT)
+From: cara.semperger@enron.com
+To: kate.symes@enron.com
+Subject: more Changes to deal # 597246
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Cara Semperger
+X-To: Kate Symes
+X-cc: 
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Scheduling
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+The changes will also include correcting leg one from Mid C to Montana 
+System, and removing  deal 597244  from the system.  I don't know who put 
+this in, but they should never be allowed to touch Enpower again!
+
+c
+
+
+---------------------- Forwarded by Cara Semperger/PDX/ECT on 05/01/2001 
+02:18 PM ---------------------------
+
+
+Cara Semperger
+05/01/2001 02:05 PM
+To: Kate Symes/PDX/ECT@ECT
+cc:  
+Subject: Changes to deal # 597246
+
+this deal is a flat deal, but was only put in on one leg as Sundays and 
+Holidays.
+
+I have added the 2 other legs to show index Peak and index off peak
+
+From MAILER-DAEMON Mon Apr 18 14:23:10 2022
+Message-ID: <30405241.1075841878013.JavaMail.evans@thyme>
+Date: Mon, 12 Feb 2001 03:02:00 -0800 (PST)
+From: kroum.kroumov@enron.com
+To: cara.semperger@enron.com
+Subject: RE: FW: FWDOBL
+Cc: monica.lande@enron.com, kate.symes@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: monica.lande@enron.com, kate.symes@enron.com
+X-From: Kroum Kroumov
+X-To: Cara Semperger
+X-cc: Monica Lande, Kate Symes
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Scheduling
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+             Cara,
+
+      I think the report should work that way even now.
+
+     I think I found a deal like that 498488 between EPMI Southwest and EPMI 
+Southeast,
+     Region R7, please take a look at that when you test the report.
+
+       
+       I saw lots of deals on the report with volume 0 and price 0, they were 
+entered that way
+       in Portland. There might be another reason, but I think someone wanted 
+to kill the deals.
+       There is an option in Deal Entry to do that, if one opens a deal and 
+right click with the
+       mouse on the status (Done), one can kill a deal.  
+
+
+           Kroum 
+
+      
+      
+
+
+ -----Original Message-----
+From:  Semperger, Cara  
+Sent: Thursday, February 08, 2001 1:06 PM
+To: Kroumov, Kroum
+Cc: Lande, Monica; Symes, Kate
+Subject: Re: FW: FWDOBL
+
+The "two sides of a cross-portfolio deal" language is a bit vague and 
+misleading. A cross-portfolio deal is kind of like a desk to desk deal. 
+Another Enron book has traded with one of ours.
+
+Two important things need to happen with cross-portfolio deals.
+ 1. They need to only show on the forward obligation report when "Desk to 
+Desk" is selected.
+ 2. They are only financial in nature, no physical delivery is ever done 
+cross portfolio.
+
+I don't think "both sides" is correct. We need to only see our buy or our 
+sale when we query for our point.  When the other portfolio queries their 
+stuff, they should see their side. 
+
+C
+
+
+
+
+From: Kroum Kroumov/ENRON@enronXgate on 02/08/2001 11:36 AM CST
+To: Cara Semperger/PDX/ECT@ECT
+cc:  
+Subject: FW: FWDOBL
+
+
+        Cara,
+
+     This is all I have so far. I would appreciate your help to make it 
+clearer.
+
+     If you find a deal No like that, I think it will make my job easier.
+
+
+     Thanks,
+     Kroum
+
+
+
+ -----Original Message-----
+From:  Project Manager<Unknown.Man@enron.com>@ENRON 
+[mailto:IMCEANOTES-Project+20Manager+3CUnknown+2EMan+40enron+2Ecom+3E+40ENRON@
+ENRON.com] 
+Sent: Thursday, February 08, 2001 10:31 AM
+To: Kroumov, Kroum
+Subject: FWDOBL
+
+
+Forward Obs should show two sides of a Cross-Portfolio deal.  Find out what 
+needs to be done.  Contact Monica
+Lande or Kate Symes in Portland for more details
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:10 2022
+Message-ID: <13127794.1075841878459.JavaMail.evans@thyme>
+Date: Mon, 26 Mar 2001 02:47:00 -0800 (PST)
+From: cara.semperger@enron.com
+To: kate.symes@enron.com
+Subject: More deals found by Will Smith
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Cara Semperger
+X-To: Kate Symes
+X-cc: 
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Scheduling
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+Do you want to look into these, the first one made me nearly wet my pants!  I 
+think I want a deal control professional on this one.............   :)
+
+From MAILER-DAEMON Mon Apr 18 14:23:10 2022
+Message-ID: <21828236.1075841878318.JavaMail.evans@thyme>
+Date: Fri, 16 Mar 2001 05:01:00 -0800 (PST)
+From: bill.iii@enron.com
+To: portland.shift@enron.com
+Subject: Position Manager at Mead230
+Cc: cara.semperger@enron.com, stacy.runswick@enron.com, mark.fisher@enron.com,
+	tom.alonso@enron.com, jeremy.morris@enron.com,
+	jeff.richter@enron.com, carla.hoffman@enron.com,
+	kate.symes@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: cara.semperger@enron.com, stacy.runswick@enron.com, mark.fisher@enron.com,
+	tom.alonso@enron.com, jeremy.morris@enron.com,
+	jeff.richter@enron.com, carla.hoffman@enron.com,
+	kate.symes@enron.com
+X-From: Bill Williams III
+X-To: Portland Shift
+X-cc: Cara Semperger, Stacy Runswick, Mark Fisher, Tom Alonso, Jeremy Morris, Jeff Richter, Carla Hoffman, Kate Symes
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Scheduling
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+Folks...
+We are also out in position manager for Saturday at Mead 230 because of the 
+LV Cogen sale going RT.
+
+---------------------- Forwarded by Bill Williams III/PDX/ECT on 03/16/2001 
+01:05 PM ---------------------------
+
+
+Stanley Cocke
+03/16/2001 01:00 PM
+To: Portland Shift
+cc: Cara Semperger/PDX/ECT@ECT, Stacy Runswick/PDX/ECT@ECT, Mark 
+Fisher/EWC/Enron@Enron, Tom Alonso/PDX/ECT@ECT, Jeremy Morris/PDX/ECT@ECT, 
+Jeff Richter/HOU/ECT@ECT, Carla Hoffman/PDX/ECT@ECT 
+
+Subject: Position Manager at Mead230
+
+Just wanted to let everyone know that we will be out in position manager for 
+Sunday, 3/18.  We're out a total of 102MW, 17MW for HE11-16.  This is an LV 
+Cogen schedule that is going real-time.
+
+Thanks,
+Stan
+
+From MAILER-DAEMON Mon Apr 18 14:23:10 2022
+Message-ID: <15165025.1075841878366.JavaMail.evans@thyme>
+Date: Thu, 22 Mar 2001 00:27:00 -0800 (PST)
+From: cara.semperger@enron.com
+To: kroum.kroumov@enron.com
+Subject: Test of Forward Obligation
+Cc: duong.luu@enron.com, kate.symes@enron.com, diana.scholtes@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: duong.luu@enron.com, kate.symes@enron.com, diana.scholtes@enron.com
+X-From: Cara Semperger
+X-To: Kroum Kroumov
+X-cc: Duong Luu, Kate Symes, Diana Scholtes
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Scheduling
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+Good Morning,
+
+I ran the new report against production, using the shortcut provided for me. 
+My results are innacurate because some transmission deals are not showing. 
+The strange thing is that there is no real pattern as to why some 
+transmission deals show and some don't.
+
+I compared the forward ob to scheduling.   You might want to do that 
+comparison for yourself there.  Also, checking the Real-Time position manager 
+as well will help.
+
+Please see this power point document.
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:10 2022
+Message-ID: <20686998.1075841878105.JavaMail.evans@thyme>
+Date: Thu, 22 Feb 2001 04:19:00 -0800 (PST)
+From: cara.semperger@enron.com
+To: kate.symes@enron.com
+Subject: Re: Do you track total new deal volume for each day?
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Cara Semperger
+X-To: Kate Symes
+X-cc: 
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Scheduling
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+Here's what's wierd:  I ran a Sales Volume Report for 2/21 only, and got a 
+total of  596,284.
+
+On your report for the same day,  I get a total of 1,468,175.  That doesn't 
+include anything done by about 4 books that are supposed to be on mine!
+
+I wonder what's up with that??  I just wrote to Duong luu to ask him about 
+the sales volume report.  
+
+
+
+
+
+
+   Kate Symes                02/22/2001 12:02 PM
+
+To: Cara Semperger/PDX/ECT@ECT
+cc:  
+Subject: Re: Do you track total new deal volume for each day?  
+
+I create a report each afternoon that tracks total volume done by each desk 
+through EOL and brokered deals. I've attached last night's report for you to 
+look over - if this looks like something you'd like to receive, let me know 
+and I'll add you to the mailing list. 
+
+And in regard to the dow jones file, I've just finished entering deals for 
+Friday and Saturday, so my afternoon will be devoted to creating that. I'll 
+let you know as soon as it's done.
+
+
+
+Thanks,
+Kate
+
+
+
+
+
+Cara Semperger
+02/22/2001 11:29 AM
+To: Kate Symes/PDX/ECT@ECT
+cc:  
+
+Subject: Do you track total new deal volume for each day?
+
+I am running a sales volume report, and am looking for a number to compare it 
+to.
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:10 2022
+Message-ID: <28167559.1075841878639.JavaMail.evans@thyme>
+Date: Wed, 18 Apr 2001 00:11:00 -0700 (PDT)
+From: lester.rawson@enron.com
+To: kate.symes@enron.com
+Subject: Re: Annuities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lester Rawson
+X-To: Kate Symes
+X-cc: 
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Scheduling
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+Kate,
+
+The annuities I had you approve yesterday aren't showing up in the CARP 
+reports. Can you autoschedule them. Also, approve and autoschedule #584367 
+for Grays Harbor Paper 3/31/01.
+
+Les
+
+From MAILER-DAEMON Mon Apr 18 14:23:10 2022
+Message-ID: <26243717.1075841878661.JavaMail.evans@thyme>
+Date: Wed, 18 Apr 2001 03:46:00 -0700 (PDT)
+From: lester.rawson@enron.com
+To: kate.symes@enron.com
+Subject: Re: Annuites
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lester Rawson
+X-To: Kate Symes
+X-cc: 
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Scheduling
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+kate,
+
+I have another annuity for you to approve and autoschedule. This one is for 
+LV Cogen. for March 31 He 1 #585141. Sorry about all the changes it's the end 
+of the month and we're paying everybody.
+
+Les
+
+From MAILER-DAEMON Mon Apr 18 14:23:10 2022
+Message-ID: <7596469.1075841878550.JavaMail.evans@thyme>
+Date: Thu, 29 Mar 2001 05:28:00 -0800 (PST)
+From: lester.rawson@enron.com
+To: kate.symes@enron.com
+Subject: Nov Will Deals
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lester Rawson
+X-To: Kate Symes
+X-cc: 
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Scheduling
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+Kate,
+
+Heres the Nov. Will batch. Please appove and auto schedule.
+
+11/1 565083, 11/2 565085, 11/3 565088, 11/4 565089,  11/5 565095, 11/6 
+565104, 11/7 565113, 11/10 565114, 11/11 565121, 11/13 565130,  11/14 565143.
+
+Thanks,
+
+Les
+
+From MAILER-DAEMON Mon Apr 18 14:23:10 2022
+Message-ID: <22814281.1075841878436.JavaMail.evans@thyme>
+Date: Fri, 23 Mar 2001 08:48:00 -0800 (PST)
+From: cara.semperger@enron.com
+To: steve.nat@enron.com, duong.luu@enron.com
+Subject: AN EOL GLITCH THAT HAS TO DO WITH APRIL DEALS
+Cc: tim.belden@enron.com, mike.swerzbin@enron.com, kate.symes@enron.com,
+	diana.scholtes@enron.com, sean.crandall@enron.com,
+	tom.alonso@enron.com, mark.fischer@enron.com,
+	robert.badeer@enron.com, jeff.richter@enron.com,
+	chris.mallory@enron.com, matt.motley@enron.com,
+	michael.driscoll@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: tim.belden@enron.com, mike.swerzbin@enron.com, kate.symes@enron.com,
+	diana.scholtes@enron.com, sean.crandall@enron.com,
+	tom.alonso@enron.com, mark.fischer@enron.com,
+	robert.badeer@enron.com, jeff.richter@enron.com,
+	chris.mallory@enron.com, matt.motley@enron.com,
+	michael.driscoll@enron.com
+X-From: Cara Semperger
+X-To: Steve Nat, Duong Luu
+X-cc: Tim Belden, Mike Swerzbin, Kate Symes, Diana Scholtes, Sean Crandall, Tom Alonso, Mark Fischer, Robert Badeer, Jeff Richter, Chris Mallory, Matt Motley, Michael M Driscoll
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Scheduling
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+I ran across a bunch of EOL deals that have not represented the April Time 
+zones right. They marked through April 6th as PST. Daylight savings time is 
+on April 1.  I don't see any new deals so I am hoping that it was something 
+in the programming that was corrected.  Steve, we will let you know if we see 
+any new ones, but the latest one looks like it was done a while ago. All of 
+these deals are fixed.
+
+347721
+353734
+353813
+352524
+361210
+352809
+346646
+346647
+352628
+360473
+360475
+360477
+360483
+361244
+366541
+366543
+346822
+348162
+
+
+
+
+
+Cara Semperger
+03/23/2001 01:39 PM
+To: Kate Symes/PDX/ECT@ECT
+cc:  
+Subject: A whole bunch of deal errors that I want your opinion on .
+
+
+	
+
+I just ran a forward ob for April 2 to check for deals that are in PST when 
+they should be PDT. 
+ 
+Do you want to change all of these to PPT deals, or do you have time 
+constraints today?  I need these changed today because we are already setting 
+up for April.
+
+SW Regions
+347721
+353734
+353813
+407053
+352524
+361210
+352809
+346646
+346647
+352628
+360473
+360475
+360477
+360483
+361244
+366541
+366543
+346822
+348162
+
+
+NW Regions
+318870
+349864
+
+I am particularly worried about how these are corrected because they are long 
+term transmission deals that cannot be autoscheduled.
+503107
+503112
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:10 2022
+Message-ID: <5150800.1075841878684.JavaMail.evans@thyme>
+Date: Thu, 19 Apr 2001 04:09:00 -0700 (PDT)
+From: lester.rawson@enron.com
+To: kate.symes@enron.com
+Subject: Annuites
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lester Rawson
+X-To: Kate Symes
+X-cc: 
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Scheduling
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+Kate,
+
+Please approve and autoschedule
+
+3/31 Annuity 586477
+
+3/31 Annuity 586498
+
+3/31 Transmission 586421
+
+Les
+
+From MAILER-DAEMON Mon Apr 18 14:23:10 2022
+Message-ID: <32616562.1075841878707.JavaMail.evans@thyme>
+Date: Wed, 25 Apr 2001 08:17:00 -0700 (PDT)
+From: cara.semperger@enron.com
+To: kate.symes@enron.com
+Subject: OATI tagging presentation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Cara Semperger
+X-To: Kate Symes
+X-cc: 
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Scheduling
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+ For your enjoyment and edification.
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:10 2022
+Message-ID: <6822417.1075841878775.JavaMail.evans@thyme>
+Date: Tue, 1 May 2001 07:45:00 -0700 (PDT)
+From: cara.semperger@enron.com
+To: kate.symes@enron.com
+Subject: May purchase from MPC
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Cara Semperger
+X-To: Kate Symes
+X-cc: 
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Scheduling
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+---------------------- Forwarded by Cara Semperger/PDX/ECT on 05/01/2001 
+02:53 PM ---------------------------
+
+
+John Malowney
+04/30/2001 08:54 AM
+To: Diana Scholtes/HOU/ECT@ECT, Melissa Ann Murphy/HOU/ECT@ECT, Heather 
+Dunton/PDX/ECT@ECT
+cc: Cara Semperger/PDX/ECT@ECT, Mike Swerzbin/HOU/ECT@ECT, Sean 
+Crandall/PDX/ECT@ECT 
+Subject: May purchase from MPC
+
+The attached details a purchase from MPC for the month of May starting 
+5/2/01.  If anyone has any questions please don't hesitate to let me know.  
+Thanks,  John
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:10 2022
+Message-ID: <9100681.1075841877941.JavaMail.evans@thyme>
+Date: Thu, 11 Jan 2001 04:59:00 -0800 (PST)
+From: phillip.platter@enron.com
+To: kate.symes@enron.com
+Subject: Scheduling Wheelabrator
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Phillip Platter
+X-To: Kate Symes
+X-cc: 
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Scheduling
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+fyi
+---------------------- Forwarded by Phillip Platter/HOU/ECT on 01/11/2001 
+03:05 PM ---------------------------
+From: Phillip Platter on 01/11/2001 08:28 AM
+To: David Poston/PDX/ECT@ECT
+cc: Carla Hoffman/PDX/ECT@ECT 
+Subject: Scheduling Wheelabrator
+
+fyi
+---------------------- Forwarded by Phillip Platter/HOU/ECT on 01/11/2001 
+10:34 AM ---------------------------
+From: Kourtney Nelson on 01/10/2001 05:29 PM
+To: Jeff Richter/HOU/ECT@ECT, Phillip Platter/HOU/ECT@ECT, Chris 
+Mallory/PDX/ECT@ECT, Carla Hoffman/PDX/ECT@ECT, Jeremy Morris/PDX/ECT@ECT
+cc: Portland Shift, Volume_Management_Portland 
+Subject: Scheduling Wheelabrator
+
+When you are scheduling the two Wheelabrator units, please use the following 
+counterparties in CAPS:
+
+MARTEL_2_AMFOR:  Wheelabrat
+WSENGY_1_Unit 4:  WheelSHAST
+
+We account for these separately and thus they need to be scheduled as two 
+separate entities.  
+
+In Enpower there are two counterparties set up as well:
+
+MARTEL_2_AMFOR:  WHEELABRMA
+WSENGY_1_Unit 4:  WHEELABRSH
+
+Thanks and let me know if you have any questions,
+
+Kourtney
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:10 2022
+Message-ID: <18587233.1075841878226.JavaMail.evans@thyme>
+Date: Mon, 12 Mar 2001 01:11:00 -0800 (PST)
+From: kourtney.nelson@enron.com
+To: carla.hoffman@enron.com, chris.mallory@enron.com, jeremy.morris@enron.com,
+	kate.symes@enron.com, phillip.platter@enron.com,
+	jeff.richter@enron.com, portland.shift@enron.com
+Subject: Scheduling Generators
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Kourtney Nelson
+X-To: Carla Hoffman, Chris Mallory, Jeremy Morris, Kate Symes, Phillip Platter, Jeff Richter, Portland Shift
+X-cc: 
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Scheduling
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+Just a few notes on scheduling:
+
+The new VESTAL_6_WDFIRE unit's counterparty name is SierraPower.  This was 
+being scheduled as Vestal but the counterparty name has been changed.
+
+Also, there have been a few errors in scheduling the Wheelabrator units.  
+They should be scheduled as follows:
+
+Wheelabrat:  MARTEL_2_AMFOR
+WheelSHAST:  WSENGY_1_UNIT 4
+
+Thanks and let me know if you have any questions,
+
+Kourtney
+
+From MAILER-DAEMON Mon Apr 18 14:23:10 2022
+Message-ID: <22754058.1075841878527.JavaMail.evans@thyme>
+Date: Thu, 29 Mar 2001 01:54:00 -0800 (PST)
+From: lester.rawson@enron.com
+To: kate.symes@enron.com
+Subject: Deal updates
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lester Rawson
+X-To: Kate Symes
+X-cc: 
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Scheduling
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+Kate,
+
+No we don't need to confirm those deals they are to replace deals entered by 
+Real Time incorrectly.
+
+I am having to go back and change a number of deals from Oct., Nov. and Dec.
+
+For Oct. I need the following deals for Oct. approved and scheduled.
+
+10/7 563994, 10/11 564001, 10/12 564002, 10/13 564004, 10/17 564007, 10/18 
+564012,  10/19 564015, 10/20 564016, 10/22 564017, 10/23 564018,  10/30 
+564019, 10/31 564024.
+
+Thanks,
+
+Les
+
+From MAILER-DAEMON Mon Apr 18 14:23:10 2022
+Message-ID: <20952615.1075841877987.JavaMail.evans@thyme>
+Date: Fri, 9 Feb 2001 08:19:00 -0800 (PST)
+From: cara.semperger@enron.com
+To: tim.belden@enron.com, portland.desk@enron.com
+Subject: The Aggregate Scheduled Volume Project has been completed!
+Cc: duong.luu@enron.com, murray.o'neil@enron.com, david.poston@enron.com,
+	glenn.anderson@enron.com, dan.maxwell@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: duong.luu@enron.com, murray.o'neil@enron.com, david.poston@enron.com,
+	glenn.anderson@enron.com, dan.maxwell@enron.com
+X-From: Cara Semperger
+X-To: Tim Belden, Portland West Desk
+X-cc: Duong Luu, Murray P O'Neil, David Poston, Glenn Anderson, Dan Maxwell
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Scheduling
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+After nearly a year of work, we now have a tool to show us the meaning behind 
+our  MW volume. 
+
+I would like to thank the following people for their help on this very 
+difficult project:
+
+Glenn Anderson - for a multitude of Enpower coding, the lion's share of the 
+work on this project.
+Murray O'Neill and Dave Poston - for their assistance and knowledge in 
+project management and "developer-speak".
+Dan Maxwell - for creating the final VB tool that was the capstone of the 
+project.
+
+Thank you all for your very hard work, we have a product to be proud of!
+
+Cara
+
+From MAILER-DAEMON Mon Apr 18 14:23:10 2022
+Message-ID: <32673707.1075841878388.JavaMail.evans@thyme>
+Date: Fri, 23 Mar 2001 00:23:00 -0800 (PST)
+From: lester.rawson@enron.com
+To: heather.dunton@enron.com, kate.symes@enron.com, samantha.law@enron.com,
+	fran.chang@enron.com
+Subject: Feb. Services Annuities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lester Rawson
+X-To: Heather Dunton, Kate Symes, Samantha Law, Fran Chang
+X-cc: 
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Scheduling
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+Kate,
+
+Please approve and autoschedule these annuities. They are all on 2/28/01 for 
+He 1.
+
+558879 Saguaro
+558057 Lv Cogen
+556970 Willamette
+
+These Annuities show EPMI Services profit charged to these counterparties for 
+Feb. 
+
+Les Rawson
+
+From MAILER-DAEMON Mon Apr 18 14:23:10 2022
+Message-ID: <14054298.1075841877964.JavaMail.evans@thyme>
+Date: Thu, 8 Feb 2001 03:06:00 -0800 (PST)
+From: cara.semperger@enron.com
+To: kroum.kroumov@enron.com
+Subject: Re: FW: FWDOBL
+Cc: monica.lande@enron.com, kate.symes@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: monica.lande@enron.com, kate.symes@enron.com
+X-From: Cara Semperger
+X-To: Kroum Kroumov
+X-cc: Monica Lande, Kate Symes
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Scheduling
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+The "two sides of a cross-portfolio deal" language is a bit vague and 
+misleading. A cross-portfolio deal is kind of like a desk to desk deal. 
+Another Enron book has traded with one of ours.
+
+Two important things need to happen with cross-portfolio deals.
+ 1. They need to only show on the forward obligation report when "Desk to 
+Desk" is selected.
+ 2. They are only financial in nature, no physical delivery is ever done 
+cross portfolio.
+
+I don't think "both sides" is correct. We need to only see our buy or our 
+sale when we query for our point.  When the other portfolio queries their 
+stuff, they should see their side. 
+
+C
+
+
+
+
+From: Kroum Kroumov/ENRON@enronXgate on 02/08/2001 11:36 AM CST
+To: Cara Semperger/PDX/ECT@ECT
+cc:  
+Subject: FW: FWDOBL
+
+
+        Cara,
+
+     This is all I have so far. I would appreciate your help to make it 
+clearer.
+
+     If you find a deal No like that, I think it will make my job easier.
+
+
+     Thanks,
+     Kroum
+
+
+
+ -----Original Message-----
+From:  Project Manager<Unknown.Man@enron.com>@ENRON 
+[mailto:IMCEANOTES-Project+20Manager+3CUnknown+2EMan+40enron+2Ecom+3E+40ENRON@
+ENRON.com] 
+Sent: Thursday, February 08, 2001 10:31 AM
+To: Kroumov, Kroum
+Subject: FWDOBL
+
+
+Forward Obs should show two sides of a Cross-Portfolio deal.  Find out what 
+needs to be done.  Contact Monica
+Lande or Kate Symes in Portland for more details
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:10 2022
+Message-ID: <24761720.1075841878617.JavaMail.evans@thyme>
+Date: Tue, 17 Apr 2001 06:53:00 -0700 (PDT)
+From: lester.rawson@enron.com
+To: kate.symes@enron.com
+Subject: Annuites
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lester Rawson
+X-To: Kate Symes
+X-cc: 
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Scheduling
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+Kate,
+
+Please approve and auotschedule annuities.
+
+# 442038 9/30/2000
+
+# 584331 10/31/2000
+
+#584337  11/30/2000
+
+Les
+
+From MAILER-DAEMON Mon Apr 18 14:23:10 2022
+Message-ID: <10063435.1075841878294.JavaMail.evans@thyme>
+Date: Tue, 13 Mar 2001 23:34:00 -0800 (PST)
+From: lester.rawson@enron.com
+To: kate.symes@enron.com
+Subject: Deal approval
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lester Rawson
+X-To: Kate Symes
+X-cc: 
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Scheduling
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+Kate,
+
+Never Mind I found my problem.
+
+Les
+
+From MAILER-DAEMON Mon Apr 18 14:23:10 2022
+Message-ID: <7814547.1075841878729.JavaMail.evans@thyme>
+Date: Tue, 1 May 2001 07:05:00 -0700 (PDT)
+From: cara.semperger@enron.com
+To: kate.symes@enron.com
+Subject: Changes to deal # 597246
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Cara Semperger
+X-To: Kate Symes
+X-cc: 
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Scheduling
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+this deal is a flat deal, but was only put in on one leg as Sundays and 
+Holidays.
+
+I have added the 2 other legs to show index Peak and index off peak
+
+From MAILER-DAEMON Mon Apr 18 14:23:10 2022
+Message-ID: <28724366.1075841878411.JavaMail.evans@thyme>
+Date: Fri, 23 Mar 2001 05:39:00 -0800 (PST)
+From: cara.semperger@enron.com
+To: kate.symes@enron.com
+Subject: A whole bunch of deal errors that I want your opinion on .
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Cara Semperger
+X-To: Kate Symes
+X-cc: 
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Scheduling
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+I just ran a forward ob for April 2 to check for deals that are in PST when 
+they should be PDT. 
+ 
+Do you want to change all of these to PPT deals, or do you have time 
+constraints today?  I need these changed today because we are already setting 
+up for April.
+
+SW Regions
+347721
+353734
+353813
+407053
+352524
+361210
+352809
+346646
+346647
+352628
+360473
+360475
+360477
+360483
+361244
+366541
+366543
+346822
+348162
+
+
+NW Regions
+318870
+349864
+
+I am particularly worried about how these are corrected because they are long 
+term transmission deals that cannot be autoscheduled.
+503107
+503112
+
+From MAILER-DAEMON Mon Apr 18 14:23:10 2022
+Message-ID: <3349410.1075841878505.JavaMail.evans@thyme>
+Date: Mon, 26 Mar 2001 03:33:00 -0800 (PST)
+From: cara.semperger@enron.com
+To: kate.symes@enron.com
+Subject: Re: More deals found by Will Smith
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Cara Semperger
+X-To: Kate Symes
+X-cc: 
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Scheduling
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+sounds great !  Thanks
+
+
+
+   Kate Symes                03/26/2001 11:13 AM
+
+To: Cara Semperger/PDX/ECT@ECT
+cc:  
+Subject: Re: More deals found by Will Smith  
+
+I think that sounds like a great idea. It doesn't really serve a purpose to 
+have all the time zones as a choice in Deal Blotter if EnPower is going to 
+sort them out anyway. We're just doubling up on the work that the application 
+already knows how to do. In the meantime, I'll sort through these deal 
+numbers and change time zones that flow over the first week in April. Let me 
+know if that sounds good.
+
+Kate
+
+
+
+Cara Semperger
+03/26/2001 11:01 AM
+To: Kate Symes/PDX/ECT@ECT
+cc:  
+
+Subject: Re: More deals found by Will Smith  
+
+Yep, the time zone glitch.  I think he was looking at all deals in the 
+system.  I almost think we should deal with this April, and worry about the 
+rest when it comes up.   Will and I are also kicking around making the only 
+choice in deal entry PPT.  Let Enpower sort out the rest.  We can modify 
+stuff on the strip level, but PPT would be the only choice in blotter and at 
+the top of regular deal entry.
+
+How does that sound?
+
+c
+
+
+
+   Kate Symes                03/26/2001 10:55 AM
+
+To: Cara Semperger/PDX/ECT@ECT
+cc:  
+Subject: Re: More deals found by Will Smith  
+
+I'm unclear as to what Will found in these deals that needs to be looked at. 
+The first one (scary!!) has notes in the comments section of each leg that 
+say it was terminated on 9/30/98; however, there are still forward deal legs 
+that haven't been killed or zeroed out. I don't think I could consider myself 
+a deal control professional on this one - I'll need to talk to a trader. But 
+let me know what you want me to look for in the remaining deals. Is this part 
+of the time zone glitch?
+
+Kate
+
+
+
+Cara Semperger
+03/26/2001 10:47 AM
+To: Kate Symes/PDX/ECT@ECT
+cc:  
+
+Subject: More deals found by Will Smith
+
+Do you want to look into these, the first one made me nearly wet my pants!  I 
+think I want a deal control professional on this one.............   :)
+
+
+
+
+
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:11 2022
+Message-ID: <20455503.1075841878038.JavaMail.evans@thyme>
+Date: Mon, 12 Feb 2001 07:48:00 -0800 (PST)
+From: cara.semperger@enron.com
+To: kate.symes@enron.com
+Subject: Re: Desk-to-Desk v. Cross-Portfolio
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Cara Semperger
+X-To: Kate Symes
+X-cc: 
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Scheduling
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+I just sent Kroum a little missive on our familiarity with the "killed" 
+feature, as well as why we often zero out deals (Transmission in particular) 
+in scheduling only. If I have to teach a course on scheduling for him to 
+understand how to build this report I will do it, but I am not really dying 
+to do that.
+
+As far as our situation here, If you can properly kill a deal, you should do 
+that instead of just zeroing the volume. I quite often have great success 
+having many terminal server sessions open at once, and doing the slow stuff 
+through a few different channels of TS.  Even as we speak, I am running one 
+report for 6 different months, 1 in each of the 5 terminal severs, and one 
+locally.  I learned that trick in our old winframe system, and it has served 
+me well.
+
+I have torn my hair out over this cross-portfolio vs cross-desk thing.  I 
+have explained it to both Kroum, Duong Luu, and Will each at least 3 times.  
+How hard is it to get the concept that anything we sell to ourselves is not a 
+physical deal?
+
+I would say just keep sending them to me, so we don't all have to pull our 
+collective hairs out. The deal you reference below is kind of like a life 
+preserver thing. When the market makes a sudden move, it is sometimes faster 
+to 'hit' the deal through EOL then pull it on the traders side.  It's not the 
+best way to go, but better than losing a bunch of money.
+
+
+c
+
+
+
+   Kate Symes                02/12/2001 03:35 PM
+
+To: Cara Semperger/PDX/ECT@ECT
+cc:  
+Subject: Desk-to-Desk v. Cross-Portfolio
+
+I'm not quite sure how this exchange began, but it sounds like Kroum is 
+referring to several different issues here. First of all, our forward 
+obligation report does not reflect cross-portfolio deals, an application 
+issue that Will Smith, and it looks like Kroum as well, has been working on 
+for the past few weeks. 
+
+Also, deal 498488 is a forward deal done on EOL between STSW and their own 
+desk. I haven't seen a trade WITHIN a desk before, but I'm sure anything is 
+possible. At any rate, this doesn't look like a cross-portfolio deal at all. 
+Am I missing something?
+
+As for the zeroed out deals, I'm pretty sure everyone here knows how to 
+properly kill deals in Enpower; however, it takes so long that sometimes we 
+simply zero out the volume in the interest of time. I've often wondered if 
+this litters the system and makes it more confusing for other people to do 
+their jobs - do you know anything about that?
+
+I just thought I'd ask these questions while the subject was being raised. 
+Please let me know if I can help facilitate these changes or improvements in 
+any way.
+
+Thanks,
+Kate
+---------------------- Forwarded by Kate Symes/PDX/ECT on 02/12/2001 03:18 PM 
+---------------------------
+From: Kroum Kroumov/ENRON@enronXgate on 02/12/2001 11:02 AM CST
+To: Cara Semperger/PDX/ECT@ECT
+cc: Monica Lande/PDX/ECT@ECT, Kate Symes/PDX/ECT@ECT 
+
+Subject: RE: FW: FWDOBL
+
+
+             Cara,
+
+      I think the report should work that way even now.
+
+     I think I found a deal like that 498488 between EPMI Southwest and EPMI 
+Southeast,
+     Region R7, please take a look at that when you test the report.
+
+       
+       I saw lots of deals on the report with volume 0 and price 0, they were 
+entered that way
+       in Portland. There might be another reason, but I think someone wanted 
+to kill the deals.
+       There is an option in Deal Entry to do that, if one opens a deal and 
+right click with the
+       mouse on the status (Done), one can kill a deal.  
+
+
+           Kroum 
+
+      
+      
+
+
+ -----Original Message-----
+From:  Semperger, Cara  
+Sent: Thursday, February 08, 2001 1:06 PM
+To: Kroumov, Kroum
+Cc: Lande, Monica; Symes, Kate
+Subject: Re: FW: FWDOBL
+
+The "two sides of a cross-portfolio deal" language is a bit vague and 
+misleading. A cross-portfolio deal is kind of like a desk to desk deal. 
+Another Enron book has traded with one of ours.
+
+Two important things need to happen with cross-portfolio deals.
+ 1. They need to only show on the forward obligation report when "Desk to 
+Desk" is selected.
+ 2. They are only financial in nature, no physical delivery is ever done 
+cross portfolio.
+
+I don't think "both sides" is correct. We need to only see our buy or our 
+sale when we query for our point.  When the other portfolio queries their 
+stuff, they should see their side. 
+
+C
+
+
+
+
+From: Kroum Kroumov/ENRON@enronXgate on 02/08/2001 11:36 AM CST
+To: Cara Semperger/PDX/ECT@ECT
+cc:  
+Subject: FW: FWDOBL
+
+
+        Cara,
+
+     This is all I have so far. I would appreciate your help to make it 
+clearer.
+
+     If you find a deal No like that, I think it will make my job easier.
+
+
+     Thanks,
+     Kroum
+
+
+
+ -----Original Message-----
+From:  Project Manager<Unknown.Man@enron.com>@ENRON 
+[mailto:IMCEANOTES-Project+20Manager+3CUnknown+2EMan+40enron+2Ecom+3E+40ENRON@
+ENRON.com] 
+Sent: Thursday, February 08, 2001 10:31 AM
+To: Kroumov, Kroum
+Subject: FWDOBL
+
+
+Forward Obs should show two sides of a Cross-Portfolio deal.  Find out what 
+needs to be done.  Contact Monica
+Lande or Kate Symes in Portland for more details
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:11 2022
+Message-ID: <8117065.1075841878594.JavaMail.evans@thyme>
+Date: Fri, 13 Apr 2001 07:57:00 -0700 (PDT)
+From: lester.rawson@enron.com
+To: kate.symes@enron.com
+Subject: Deal authorization
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lester Rawson
+X-To: Kate Symes
+X-cc: 
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Scheduling
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+Kate,
+
+Please autoschedule and approve. 
+
+9/5 581303
+
+9/24  581304
+
+9/27  581305
+
+9/28  581308
+
+10/31 581310 Annuity
+
+11/30 581315 /  581316 Annuites
+
+Les
+
+From MAILER-DAEMON Mon Apr 18 14:23:11 2022
+Message-ID: <16571485.1075841878342.JavaMail.evans@thyme>
+Date: Mon, 19 Mar 2001 01:04:00 -0800 (PST)
+From: cara.semperger@enron.com
+To: kroum.kroumov@enron.com
+Subject: RE: release to production of scheduling forward obs. report
+Cc: kate.symes@enron.com, duong.luu@enron.com, will.smith@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: kate.symes@enron.com, duong.luu@enron.com, will.smith@enron.com
+X-From: Cara Semperger
+X-To: Kroum Kroumov
+X-cc: Kate Symes, Duong Luu, Will Smith
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Scheduling
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+Kroum,  Val Sabo is no longer working at Enron.  Kate Symes may be able to do 
+it, I can after I have finished scheduling today.  
+
+
+
+
+
+
+From: Kroum Kroumov/ENRON@enronXgate on 03/19/2001 09:24 AM CST
+To: Valarie Sabo/PDX/ECT@ECT, Cara Semperger/PDX/ECT@ECT
+cc: Duong Luu/ENRON@enronXgate, Will F Smith/ENRON@enronXgate 
+Subject: RE: release to production of scheduling forward obs. report
+
+
+
+     Hi Valarie,
+
+    Is there anybody to run a test on the Forward Obligation report in 
+Portland?
+
+    We can not promote it to production without your approval.
+
+
+    Thanks,
+    Kroum
+
+    
+
+
+ -----Original Message-----
+From:  Kroumov, Kroum  
+Sent: Tuesday, March 13, 2001 1:37 PM
+To: Sabo, Valarie
+Cc: Luu, Duong; Smith, Will F.
+Subject: RE: release to production of scheduling forward obs. report
+
+
+     Hi Valarie,
+
+Sean Crandall in Portland complained that deals like 541612 and 528046
+with two delivery points were not grouped properly.
+The "from" delivery point in deals like that should have negative sign,
+the "to" delivery point - positive sign. The deal should have two legs
+appearing under the corresponding delivery points.
+
+The Forword Obligation report version 3.0.0.31 is in STAGE now, where the 
+above
+problem should be fixed.
+
+Can you please, run a test again and come back to us for promotion to 
+production.
+
+
+    Thanks,
+    Kroum
+
+
+
+ -----Original Message-----
+From:  Sabo, Valarie  
+Sent: Friday, March 09, 2001 12:23 PM
+To: Kroumov, Kroum
+Cc: Scholtes, Diana; Semperger, Cara; Will Smith/HOU/ECT@ENRON; White, 
+Stacey; Belden, Tim; Chang, Fran; Law, Samantha; Dunton, Heather; Duong 
+Luu/HOU/ECT@ENRON
+Subject: release to production of scheduling forward obs. report
+
+I've tested the "schedule" version of forward obs.  It seems to be working 
+well.  
+
+The wish list might include a summary page to show the desks net 0. And it 
+could use a default that pulls all the west desks when the West portfolio is 
+clicked, while retaining the flexibility of overriding the west default to 
+choose individual desks - HOWEVER - it does work fine the way it is.
+
+Please release this to production and let Fran Chang, Heather Dunton, 
+Samantha Law and Diana Scholtes know when it is released.  Thanks!
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:11 2022
+Message-ID: <11279209.1075841878082.JavaMail.evans@thyme>
+Date: Thu, 22 Feb 2001 03:29:00 -0800 (PST)
+From: cara.semperger@enron.com
+To: kate.symes@enron.com
+Subject: Do you track total new deal volume for each day?
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Cara Semperger
+X-To: Kate Symes
+X-cc: 
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Scheduling
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+I am running a sales volume report, and am looking for a number to compare it 
+to.
+
+From MAILER-DAEMON Mon Apr 18 14:23:11 2022
+Message-ID: <28921352.1075841878129.JavaMail.evans@thyme>
+Date: Thu, 22 Feb 2001 23:54:00 -0800 (PST)
+From: cara.semperger@enron.com
+To: kate.symes@enron.com
+Subject: Re: Dow Jones Index Prices - Database Access
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Cara Semperger
+X-To: Kate Symes
+X-cc: 
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Scheduling
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+Thanks Kate, I will get cracking on that data.
+
+c
+
+
+
+   Kate Symes                02/22/2001 04:34 PM
+
+To: Cara Semperger/PDX/ECT@ECT
+cc:  
+Subject: Re: Dow Jones Index Prices - Database Access  
+
+I've started to transfer my Dow Jones e-mails into five separate folders 
+which can be found at:
+
+P:\Scheduling\Dow Jones - Cob\Mead\Mid-C\NP-SP\Palo 
+
+You can already access February's files for each of these delivery points, 
+and prior months will be coming in soon as I have free moments in the day.
+
+Thanks,
+Kate
+
+
+
+Cara Semperger
+02/22/2001 08:15 AM
+To: Kate Symes/PDX/ECT@ECT
+cc:  
+
+Subject: Re: Dow Jones Index Prices - Database Access  
+
+Yeah, people are already asking me where the chart is already
+
+c
+
+
+
+
+   Kate Symes                02/22/2001 08:14 AM
+
+To: Cara Semperger/PDX/ECT@ECT
+cc:  
+Subject: Re: Dow Jones Index Prices - Database Access
+
+Here's what I heard back from Tim. Do you want me to go ahead and save the 
+Dow Jones data to a shareable file in the meantime?
+
+Kate
+---------------------- Forwarded by Kate Symes/PDX/ECT on 02/22/2001 08:17 AM 
+---------------------------
+
+
+TIM HEIZENRADER
+02/21/2001 05:32 PM
+To: Kate Symes/PDX/ECT@ECT
+cc: Julie Sarnowski/HOU/ECT@ECT 
+
+Subject: Re: Dow Jones Index Prices - Database Access  
+
+I'm not exactly sure where the spreadsheet on our site comes from. Our 
+preference is to keep everything in our SQL Server database, and many of the 
+people that you mentioned have read access to that. When Julie Sarnowski gets 
+back from vacation next week, let's talk about uploading these data to the 
+server and providing a central facility for the floor.
+Tim
+
+
+
+   Kate Symes                02/21/2001 03:19 PM
+
+To: Tim Heizenrader/PDX/ECT@ECT
+cc: Cara Semperger/PDX/ECT@ECT 
+
+Subject: Dow Jones Index Prices - Database Access
+
+I'd like to inquire about the Dow Jones index price database currently being 
+maintained by the Fundamentals group. It's come to my attention - by virtue 
+of the fact that I receive the Dow Jones data each afternoon - that several 
+people are interested in having access to those figures. I've had requests 
+from mid-marketing, trading, and scheduling, and am working with IT to put 
+the NP-15 and SP-15 data online. Cara Semperger, in particular, relies on the 
+index prices in order to run one of her reports.
+
+I'm wondering if it  would be possible to give these people access to your 
+database, or maybe if your group would benefit from the data I receive. Your 
+spreadsheet looks like a compilation of the documents I receive from Dow 
+Jones, and one might be more useful for an individual or group than the 
+other. I don't have a preference either way - I'm more than happy to compile 
+the reports in a separate folder. Please let me know what works best for you. 
+(I sit in the middle of the room between Tracy Ngo and Val Sabo.)
+
+Thanks,
+Kate
+
+
+
+
+
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:11 2022
+Message-ID: <11668954.1075841878156.JavaMail.evans@thyme>
+Date: Fri, 23 Feb 2001 01:19:00 -0800 (PST)
+From: cara.semperger@enron.com
+To: nikolay.kraltchev@enron.com
+Subject: Re: About the Sales Volume Report
+Cc: kate.symes@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: kate.symes@enron.com
+X-From: Cara Semperger
+X-To: Nikolay Kraltchev
+X-cc: Kate Symes
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Scheduling
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+I just had a brief talk with Tim Belden, and he likes just seeing the sale 
+side, so I think we are OK with the report as it stands.
+
+Thank you for your quick response to my questions, and I will hold on to this 
+e-mail so that if I need to have a change in this report, I will be able to 
+communicate quickly.
+
+Thanks,
+
+Cara
+
+
+
+
+From: Nikolay Kraltchev/ENRON@enronXgate on 02/23/2001 11:21 AM CST
+To: Cara Semperger/PDX/ECT@ECT
+cc:  
+Subject: About the Sales Volume Report
+
+Cara,
+
+The Sales Volume Report picks up deals that:
+1.  Are Approved             
+2.  Are Done                     (not Killed or Pending)
+3.  Are Physical                (not Financial)
+4.  Have "Forward" as part of the Deal Type (..."Forward", "Index-Forward")
+5.  Are a Sale                   (not Buys)
+6.  Have sheduled date of the flow that starts between the dates selected by 
+the user of the report (not strip start date as seen in Deal Entry)
+
+The report groups the data by region
+
+For any additions/changes of the Sales Volume Report please have the above 
+restrictions in mind.
+Let us know what items you wanted to be changed (or added) and in what way.
+That will be of great help in implementing your request for changes.
+
+Thanks!
+Nikolay
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:11 2022
+Message-ID: <30484554.1075841878060.JavaMail.evans@thyme>
+Date: Wed, 14 Feb 2001 07:18:00 -0800 (PST)
+From: lester.rawson@enron.com
+To: kate.symes@enron.com
+Subject: Deal Autoscheduling
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lester Rawson
+X-To: Kate Symes
+X-cc: 
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Scheduling
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+Kate, 
+
+Please approve and autoschedule annuity # 434063.
+
+Thanks
+
+Les
+
+From MAILER-DAEMON Mon Apr 18 14:23:11 2022
+Message-ID: <18453439.1075841878482.JavaMail.evans@thyme>
+Date: Mon, 26 Mar 2001 03:01:00 -0800 (PST)
+From: cara.semperger@enron.com
+To: kate.symes@enron.com
+Subject: Re: More deals found by Will Smith
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Cara Semperger
+X-To: Kate Symes
+X-cc: 
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Scheduling
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+Yep, the time zone glitch.  I think he was looking at all deals in the 
+system.  I almost think we should deal with this April, and worry about the 
+rest when it comes up.   Will and I are also kicking around making the only 
+choice in deal entry PPT.  Let Enpower sort out the rest.  We can modify 
+stuff on the strip level, but PPT would be the only choice in blotter and at 
+the top of regular deal entry.
+
+How does that sound?
+
+c
+
+
+
+   Kate Symes                03/26/2001 10:55 AM
+
+To: Cara Semperger/PDX/ECT@ECT
+cc:  
+Subject: Re: More deals found by Will Smith  
+
+I'm unclear as to what Will found in these deals that needs to be looked at. 
+The first one (scary!!) has notes in the comments section of each leg that 
+say it was terminated on 9/30/98; however, there are still forward deal legs 
+that haven't been killed or zeroed out. I don't think I could consider myself 
+a deal control professional on this one - I'll need to talk to a trader. But 
+let me know what you want me to look for in the remaining deals. Is this part 
+of the time zone glitch?
+
+Kate
+
+
+
+Cara Semperger
+03/26/2001 10:47 AM
+To: Kate Symes/PDX/ECT@ECT
+cc:  
+
+Subject: More deals found by Will Smith
+
+Do you want to look into these, the first one made me nearly wet my pants!  I 
+think I want a deal control professional on this one.............   :)
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:11 2022
+Message-ID: <22622946.1075841878203.JavaMail.evans@thyme>
+Date: Mon, 5 Mar 2001 23:09:00 -0800 (PST)
+From: lester.rawson@enron.com
+To: kate.symes@enron.com
+Subject: Deal Approval
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lester Rawson
+X-To: Kate Symes
+X-cc: 
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Scheduling
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+Kate,
+
+Please approve and autoschedule Deals # 515111,515110.
+
+Les
+
+From MAILER-DAEMON Mon Apr 18 14:23:11 2022
+Message-ID: <28009623.1075841878180.JavaMail.evans@thyme>
+Date: Thu, 1 Mar 2001 02:33:00 -0800 (PST)
+From: cara.semperger@enron.com
+To: duong.luu@enron.com
+Subject: A bug in Deal Blotter
+Cc: diana.scholtes@enron.com, sean.crandall@enron.com, tom.alonso@enron.com,
+	mark.fischer@enron.com, bill.iii@enron.com, kate.symes@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: diana.scholtes@enron.com, sean.crandall@enron.com, tom.alonso@enron.com,
+	mark.fischer@enron.com, bill.iii@enron.com, kate.symes@enron.com
+X-From: Cara Semperger
+X-To: Duong Luu
+X-cc: Diana Scholtes, Sean Crandall, Tom Alonso, Mark Fischer, Bill Williams III, Kate Symes
+X-bcc: 
+X-Folder: \kate symes 6-27-02\Notes Folders\Scheduling
+X-Origin: SYMES-K
+X-FileName: kate symes 6-27-02.nsf
+
+Good Morning,
+
+When a transmission deal is entered in blotter, for some reason the volume 
+also gets put in to the loss column as well, showing us with the full volume 
+on one end of the deal, and zero volume on the other.
+
+This happened with two deals today,  deal 535344 and 535343 put into blotter 
+by Crandall.  Once the problem was identified, I went into the deal and 
+changed the loss volume to zero.
+
+C
+

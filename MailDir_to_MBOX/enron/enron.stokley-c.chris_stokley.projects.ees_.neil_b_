@@ -1,0 +1,950 @@
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <32469259.1075858517422.JavaMail.evans@thyme>
+Date: Fri, 3 Aug 2001 07:43:08 -0700 (PDT)
+From: neil.bresnan@enron.com
+To: chris.stokley@enron.com
+Subject: A/S
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Bresnan, Neil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC75CF5A-EBD2BACF-862566C5-6B3C9B>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Neil B.
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+
+---------------------- Forwarded by Neil Bresnan/HOU/EES on 07/03/2001 09:42 AM ---------------------------
+
+
+"Almeida, Keoni" <KAlmeida@caiso.com> on 08/02/2001 03:42:25 PM
+To:	"Bresnan, Neil" <nbresnan@enron.com>
+cc:	 
+Subject:	A/S
+
+
+To answer your question about negative prices for A/S, there should be no
+negative price.  The ISO has identified specific days and hours in February
+where the prices for ancillary services are erroneous.  These erroneous
+prices are generated when the HA Requirement for a particular service is set
+to zero, which has occurred due to SC over-self-provision of the ancillary
+service requirement in the DA. Similarly the quantity should not be
+negative.  Even if there is over self provision, the DA requirement (which
+is ISO's need to procure A/S) should be zero instead of negative. The DA
+requirement should be capped by a floor of zero. Similarly, the HA
+requirement cannot be negative.
+The question about having a zero quantity with a price associated is related
+to the software calculations when folks are overselfproviding.
+The procurement for operating reserves is 5% of all load being served by
+Hydro and 7% of all load being served by other.  Not 5 plus 7 of the total
+load.  For example,  T load = L hydro   +  L other  so we take only 5% of
+the L hydro and add that to 7% of L other this will equal to the amount of
+the operating reserves we procure.  This can average out to 6%.
+
+Here are some questions and answers that you will find helpful:
+*	Are self provided ancillary services (on a SC required basis)
+sequential; excess spin rolls into nonspin requirement for the SC (if
+offered
+as nonspin).
+
+ NO, If an SC self provides 130 MW of SPIN capacity yet the calculated
+market requirement is only 100MW,  the self-provided amount of 120 MW will
+be accepted for SPIN and none of the EXCESS 30 MW of capacity considered for
+other A/S services.
+
+Please Note if in this example the SC's SPIN obligation is calculated to be
+90 MW, the over self provided portion (100MW - 90MW) = 10 MW would receive a
+payment.  In this example there is an additional 20 MW of EXCESS above the
+total market requirement that "gets left on the table" which will receive no
+compensation.
+
+
+*	If self provision reserves are offered in excess of the total
+quantity required for the total market, will the ISO take them all anyway or
+will the offerings be truncated and perhaps roll into a subsequent service
+(if offered as self provide in that service).
+
+NO, As in the above answer.  The total Self provided quantity will be
+accepted and there would be no reduction of the preferred schedule even if
+this amount is ABOVE the total market requirement.
+
+Also, check out M-402 and M-421 at the following link:
+http://www.caiso.com/thegrid/operations/opsdoc/marketops/
+
+
+
+Keoni Almeida
+California Independent System Operator
+phone: 916/608-7053
+pager:  916/814-7352
+alpha page:  9169812000.1151268@pagenet.net
+e-mail:  <mailto:kalmeida@caiso.com>
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <15109438.1075858517446.JavaMail.evans@thyme>
+Date: Thu, 2 Aug 2001 15:38:05 -0700 (PDT)
+From: neil.bresnan@enron.com
+To: stewart.rosman@enron.com, jeff.richter@enron.com, chris.stokley@enron.com,
+	bill.williams@enron.com, phillip.platter@enron.com
+Subject: Ancillary Services
+Cc: neil.bresnan@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: neil.bresnan@enron.com
+X-From: Bresnan, Neil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC75CF5A-EBD2BACF-862566C5-6B3C9B>
+X-To: Rosman, Stewart </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SROSMAN>, Richter, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JRICHTE>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>, Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BWILLIA5>, Platter, Phillip </O=ENRON/OU=NA/CN=RECIPIENTS/CN=PPLATTE>
+X-cc: Bresnan, Neil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC75CF5A-EBD2BACF-862566C5-6B3C9B>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Neil B.
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+
+
+We are a go for our  first test ......
+
+We are purchasing 6 MW of Spinning capacity from LADWP for HE7-HE22 August 6 2001.  They will deliver any energy called on to the ISO at LA4 (Victorville Lugo).  We purchased the capacity for $ 15/MWH and if the energy is called we pay $78.26. LA understands and is willing to follow ISO instructions passed through our real-time desk with regards to ramping up and down within an hour.
+
+Phil please submit our energy curve to the ISO at the cap for every hour. 
+
+Bill lets talk on Tuesday to discuss if our energy was called and if so how it went. 
+
+ Thanks 
+
+NFB 
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <31423531.1075858517122.JavaMail.evans@thyme>
+Date: Mon, 25 Jun 2001 13:35:11 -0700 (PDT)
+From: neil.bresnan@enron.com
+To: chris.stokley@enron.com
+Subject: Buss Pass
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Bresnan, Neil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC75CF5A-EBD2BACF-862566C5-6B3C9B>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Neil B.
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+For the sake of convenience I will send Louis Allen an email to get ansley a buss pass 
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <12987942.1075858517493.JavaMail.evans@thyme>
+Date: Wed, 1 Aug 2001 06:53:13 -0700 (PDT)
+From: neil.bresnan@enron.com
+To: stewart.rosman@enron.com, chris.stokley@enron.com, jeff.richter@enron.com
+Subject: Ancillary Services
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Bresnan, Neil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC75CF5A-EBD2BACF-862566C5-6B3C9B>
+X-To: Rosman, Stewart </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SROSMAN>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>, Richter, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JRICHTE>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Neil B.
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Issues:
+
+Non performance by counterpart (don't deliver energy when called) :
+- Penalty from ISO to ENA ?
+- Loss of capacity payment credit back to the last date energy was called and delivered
+
+Credit offset with ISO for receivable when energy is called 
+- What is our daily debt to ISO associated with serving load (other charge types) 
+- What is our corporate debt to the ISO and who manages the offset
+- How do we calculate (anticipate what our debt will be foreword looking) 
+
+What is our recourse if the Offer cap is changed within the day 
+
+What is the minimum increment that the counterpart will sell power if called 10 min 1 hour ?) 
+
+What are losses associated with the delivery point ? 
+- Do we gross up our purchase or pay the inc price to the ISO 
+
+Is there any congestion associated with the real-time call on energy 
+
+Is there any congestion associated with Day Ahead Capacity 
+
+ANY OTHER ISSUES ??????????????????????
+
+NFB 
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <12291501.1075858517539.JavaMail.evans@thyme>
+Date: Thu, 16 Aug 2001 09:54:11 -0700 (PDT)
+From: neil.bresnan@enron.com
+To: chris.stokley@enron.com
+Subject: Re: FW: 90-110 Band
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Bresnan, Neil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC75CF5A-EBD2BACF-862566C5-6B3C9B>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Neil B.
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+
+98 and possibly early 99 deals have no consumption band 
+99-2000 band calculated annual calculation and settlement 
+2001 - monthly calculation annual settlement 
+I don't know where the current contracts stand, ...  ask Todd 
+
+I'm shocked that you don't want to talk to John about the deals based on production of milk or ice.
+
+NFB 
+
+
+From:	Chris Stokley/ENRON@enronXgate on 08/16/2001 11:43 AM
+To:	Neil Bresnan/HOU/EES@EES
+cc:	 
+Subject:	FW: 90-110 Band
+
+
+
+ -----Original Message-----
+From: 	Richter, Jeff  
+Sent:	Wednesday, August 15, 2001 5:06 PM
+To:	Stokley, Chris
+Subject:	FW: 90-110 Band
+
+
+
+ -----Original Message-----
+From: 	Bresnan, Neil  
+Sent:	Wednesday, August 15, 2001 4:54 PM
+To:	Richter, Jeff
+Subject:	90-110 Band
+
+
+Chris,
+
+This is Richter, Neil had reviews to do so I finished up with the email.  Hope this helps.  Let me know if you need anything else.
+
+Richter
+
+Several deals have no band (1998 ) see note from Dennis
++
+The issue with the bands is how to price them.  On the surface the band is the same as selling the customer a call and a put 
+in actual fact the customer is not going to always exercise the option on a purely economic basis. Building managers need to keep the lights on even when it is hot. +
+Most of our contracts contemplate the establishment of a baseline during the first year of the contract. Most of our consumption bands are settled on an annual basis giving the client a huge swing on an intramonth basis. 
++
+New clients have consumption bands which are calculated on a monthly basis and settled with the customer on an annual basis. 
++
+We don't currently manage the position aggressively.  Intramonth we forecast load for clients and assume all the load is physical when in fact after a customer goes over (or under) the band we should be buy index for the over under. 
+
+Chris,  Richter takes over
+
+1999 deals:  most deals in 1999 have a consumption band which gets settled annually.  
+
+2000 deals as of feb - consumption bands with monthly settlements
+
+New deals  - See Neil's notes above
+
+One thing to remember is that the customer is exposed to hourly index price and grid charges on every kw they use outside the band and we owe them if they underconsume.  this needs to be flashed and then actualized when the data is available.  One note is that all the existing contracts up to EWS taking over have this little flaw:  the customer is exposed to the hourly price and we wear the risk of all the grid charges.  (Not good!!!)
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <23764551.1075858517216.JavaMail.evans@thyme>
+Date: Mon, 18 Jun 2001 05:32:01 -0700 (PDT)
+From: neil.bresnan@enron.com
+To: chris.stokley@enron.com
+Subject: Follow-up on Southland (7-11) True up
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Bresnan, Neil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC75CF5A-EBD2BACF-862566C5-6B3C9B>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Neil B.
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+We need some immediate resolution on this one it is about to blow up.
+
+NFB 
+---------------------- Forwarded by Neil Bresnan/HOU/EES on 06/18/2001 07:31 AM ---------------------------
+
+
+Ress Young
+06/18/2001 07:11 AM
+To:	Neil Bresnan/HOU/EES@EES
+cc:	 
+Subject:	Follow-up on Southland (7-11) True up 
+
+
+---------------------- Forwarded by Ress Young/HOU/EES on 06/18/2001 07:11 AM ---------------------------
+
+
+Lamar Frazier
+06/17/2001 02:27 PM
+To:	Diann Huddleson/HOU/EES@EES, Ress Young/HOU/EES@EES
+cc:	 
+Subject:	Follow-up on Southland (7-11) True up 
+
+
+Diann,
+
+What is the status of the check for this true up?  I spoke to Cheryl and she wants to pay in one lump sum as opposed to the two seperate checks.  I have a call into the Controller to discuss delaying the payment until July 1 (for Q end purposes)  So let me know where we are on generating a check for these guys.  Thanks.
+
+Ress,
+
+Where are we with the January true-up.  I need to give Southland an idea of when we think those revised settlements will be finalized.
+
+Thanks 
+
+Lamar
+
+
+---------------------- Forwarded by Lamar Frazier/HOU/EES on 06/17/2001 02:20 PM ---------------------------
+
+
+"Herman, Edward" <EHerma01@7-11.com> on 06/15/2001 03:20:52 PM
+To:	"'lfrazier@enron.com'" <lfrazier@enron.com>, "Wills, Irene"	 <iwills01@7-11.com>
+cc:	 
+Subject:	Follow-up
+
+
+
+
+Hi Lamar: 
+Just following up on our conversation a couple of days ago. Any additional information regarding when I should expect to see the check? By the way, why don't you send it to my attention: 7-Eleven, Inc. , 2711 N Haskell, Dallas, Tx. 75204 Attention: Ed Herman, Legal Department. I will make sure it gets to the right folks. Also, any guess as to when we will know the resolution of the January  bill (i.e. when the outside agency will make the rate determination?). 
+
+Please keep me posted. 
+
+I appreciate your help in this matter. Thanks. Ed 
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <1440250.1075858517039.JavaMail.evans@thyme>
+Date: Tue, 26 Jun 2001 12:11:06 -0700 (PDT)
+From: neil.bresnan@enron.com
+To: chris.stokley@enron.com
+Subject: Re: FW: Informational Brown-Bag, Tuesday, June 26th - Mt. Hood
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Bresnan, Neil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC75CF5A-EBD2BACF-862566C5-6B3C9B>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Neil B.
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Issue number 7 is of particular interest.  Lets get an opinion on this so we can forma a scheduling strategy. 
+
+NFB 
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <13585816.1075858517398.JavaMail.evans@thyme>
+Date: Tue, 7 Aug 2001 16:33:23 -0700 (PDT)
+From: neil.bresnan@enron.com
+To: p..o'neil@enron.com, chris.stokley@enron.com
+Subject: Ancillary Services
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Bresnan, Neil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC75CF5A-EBD2BACF-862566C5-6B3C9B>
+X-To: O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Neil B.
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+FYG 
+---------------------- Forwarded by Neil Bresnan/HOU/EES on 08/07/2001 06:32 PM ---------------------------
+From:	Bill Williams III/ENRON@enronXgate on 08/07/2001 05:50 PM
+To:	Neil Bresnan/HOU/EES@EES
+cc:	 
+Subject:	Ancillary Services
+
+Neil,
+The revenue for the sale that Phil entered to the CAISO will be captured by our volume management group.  RT will have no access to this revenue.  Consequently, we will not buy or sell it on your behalf to capture it.
+Please give me a call tomorrow for a more thorough explanation.
+Thanks,
+Bill
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <7067326.1075858517099.JavaMail.evans@thyme>
+Date: Tue, 26 Jun 2001 07:47:39 -0700 (PDT)
+From: neil.bresnan@enron.com
+To: cara.semperger@enron.com
+Subject: Re: EES AND EPMI check out for July
+Cc: jeff.richter@enron.com, chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jeff.richter@enron.com, chris.stokley@enron.com
+X-From: Bresnan, Neil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC75CF5A-EBD2BACF-862566C5-6B3C9B>
+X-To: Semperger, Cara </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CSEMPER>
+X-cc: Richter, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JRICHTE>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Neil B.
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+I show the same for COB, Mid C and PV - Let me know what you have for NP and SP 
+
+Thanks 
+
+
+
+From:	Cara Semperger/ENRON@enronXgate on 06/26/2001 09:25 AM
+To:	Neil Bresnan/HOU/EES@EES
+cc:	Jeff Richter/ENRON@enronXgate 
+Subject:	EES AND EPMI check out for July
+
+I will send you a sheet today, around noon my time
+
+The brief overview is that we are flat at COB, and Mid C,
+
+At PV  you have a postition with me 3 you owe me on HLH,  7 you owe me on LLH
+
+
+
+ -----Original Message-----
+From: 	Bresnan, Neil  
+Sent:	Monday, June 25, 2001 12:58 PM
+To:	Semperger, Cara
+Subject:	Monthly check out
+
+Cara,
+
+Would you help me check out our positions with EMPI for July.  MidC, COB, NP, SP, PV 
+
+With all the moving parts we have now I want to start early 
+
+Let me kow if you have any questions  713 853 3113 
+
+Thanks
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <22182939.1075858517562.JavaMail.evans@thyme>
+Date: Wed, 15 Aug 2001 13:19:07 -0700 (PDT)
+From: neil.bresnan@enron.com
+To: chris.stokley@enron.com
+Subject: Re: Consumption Bands
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Bresnan, Neil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC75CF5A-EBD2BACF-862566C5-6B3C9B>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Neil B.
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+
+---------------------- Forwarded by Neil Bresnan/HOU/EES on 08/15/2001 03:18 PM ---------------------------
+
+	Enron Energy Services  From:  Dennis Benevides                           08/15/2001 01:37 PM Phone No: 713 853-9609	
+		
+
+
+
+
+To:	Neil Bresnan/HOU/EES@EES
+cc:	 
+Subject:	Re: Consumption Bands   
+
+    
+
+The attached presentations have some info which may help.  Regarding bands, in CA, PacBell and UC-CSU have no band.  All other commodity only transactions have +/- 10% band on annual basis with the exception of recently executed deals (monthly band) and old deals ran which were associated with the national "outsource" transactions which had customized volumetric structures (in some cases no band) which were executed and priced by the old consumption desk.
+
+Dennis
+
+
+   
+	Enron Energy Services  From:  Neil Bresnan                           08/15/2001 01:10 PM	
+		
+
+
+To:	Dennis Benevides/HOU/EES@EES
+cc:	 
+Subject:	Consumption Bands
+
+
+We have to do a presentation for Sr. Management on the consumption bands and appreciate it is you could offer a little help. 
+Do you recall off hand any specific contracts that currently have no consumption band or have an annual consumption band ?
+
+Thanks 
+
+NFB 
+
+
+
+
+
+
+
+
+<Embedded StdOleLink>
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <13548369.1075858517062.JavaMail.evans@thyme>
+Date: Tue, 26 Jun 2001 10:57:57 -0700 (PDT)
+From: neil.bresnan@enron.com
+To: chris.stokley@enron.com
+Subject: EWS DPR
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Bresnan, Neil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC75CF5A-EBD2BACF-862566C5-6B3C9B>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Neil B.
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+
+---------------------- Forwarded by Neil Bresnan/HOU/EES on 06/26/2001 12:57 PM ---------------------------
+
+
+Jeffrey Jackson
+06/26/2001 10:46 AM
+To:	Neil Bresnan/HOU/EES@EES
+cc:	 
+Subject:	EWS DPR
+
+
+---------------------- Forwarded by Jeffrey Jackson/HOU/EES on 06/26/2001 10:46 AM ---------------------------
+
+
+Jeffrey Jackson
+06/25/2001 01:57 PM
+To:	EWS DPR File
+cc:	 
+Subject:	EWS DPR
+
+ 		
+
+
+
+ 
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <4398964.1075858517469.JavaMail.evans@thyme>
+Date: Wed, 1 Aug 2001 08:06:12 -0700 (PDT)
+From: neil.bresnan@enron.com
+To: stewart.rosman@enron.com
+Subject: RE: Ancillary Services
+Cc: chris.stokley@enron.com, jeff.richter@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: chris.stokley@enron.com, jeff.richter@enron.com
+X-From: Bresnan, Neil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC75CF5A-EBD2BACF-862566C5-6B3C9B>
+X-To: Rosman, Stewart </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SROSMAN>
+X-cc: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>, Richter, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JRICHTE>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Neil B.
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Thanks - my question about the increments was directed to LADWP.  Are they giving us a 10 Min call ? 
+
+NFB 
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <22081565.1075858517145.JavaMail.evans@thyme>
+Date: Mon, 25 Jun 2001 13:31:39 -0700 (PDT)
+From: neil.bresnan@enron.com
+To: jeff.richter@enron.com, todd.perry@enron.com, chris.stokley@enron.com
+Subject: Updated Scalers
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Bresnan, Neil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC75CF5A-EBD2BACF-862566C5-6B3C9B>
+X-To: Richter, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JRICHTE>, Perry, Todd </O=ENRON/OU=NA/CN=RECIPIENTS/CN=TPERRY2>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Neil B.
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+A visual for index pricing. The weekend model does not show the correct relationship because of the difference between hourly PX for 99 and 2000 and off peak reported in Dow Jones. 
+
+NFB 
+---------------------- Forwarded by Neil Bresnan/HOU/EES on 06/25/2001 03:29 PM ---------------------------
+   
+	Enron Energy Services  From:  Timothy Coffing                           06/22/2001 02:59 PM	
+		
+
+
+To:	Neil Bresnan/HOU/EES@EES
+cc:	 
+Subject:	Updated Scalers
+
+  
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <16762973.1075858517516.JavaMail.evans@thyme>
+Date: Wed, 1 Aug 2001 06:24:53 -0700 (PDT)
+From: neil.bresnan@enron.com
+To: chris.stokley@enron.com
+Subject: FW: July 2001 AS Data
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Bresnan, Neil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC75CF5A-EBD2BACF-862566C5-6B3C9B>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Neil B.
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+
+---------------------- Forwarded by Neil Bresnan/HOU/EES on 08/01/2001 08:24 AM ---------------------------
+From:	Stewart Rosman/ENRON@enronXgate on 07/31/2001 05:17 PM
+To:	Neil Bresnan/HOU/EES@EES
+cc:	 
+Subject:	FW: July 2001 AS Data
+
+ 
+-----Original Message-----
+From: Heizenrader, Tim 
+Sent: Tuesday, July 31, 2001 3:08 PM
+To: Rosman, Stewart
+Subject: July 2001 AS Data
+
+
+
+Stewart:
+
+Is this the table that you're looking for?
+
+Tim
+  
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <1043563.1075858517191.JavaMail.evans@thyme>
+Date: Wed, 20 Jun 2001 06:25:02 -0700 (PDT)
+From: neil.bresnan@enron.com
+To: todd.perry@enron.com, jeff.richter@enron.com, chris.stokley@enron.com
+Subject: 
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Bresnan, Neil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC75CF5A-EBD2BACF-862566C5-6B3C9B>
+X-To: Perry, Todd </O=ENRON/OU=NA/CN=RECIPIENTS/CN=TPERRY2>, Richter, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JRICHTE>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Neil B.
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Lets make sure an estimate makes its way into our models .............
+
+(2) When a reserve deficiency period ends and generation operating reserves rise to 7% (a non-reserve deficiency period), the maximum
+price that can be charged for spot market sales in California and the rest of the WSCC during the non-reserve deficiency period, absent
+cost justification, will be 85 % of the highest hourly price that was in effect during the most recent Stage 1 reserve deficiency period called
+by the California ISO. An uplift charge for fuel used for start up of generators will not be included in the market clearing price, but instead,
+will be recovered through ISO charges to all California load on the ISO's transmission system. 
+
+NFB 
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <12409473.1075858517241.JavaMail.evans@thyme>
+Date: Fri, 15 Jun 2001 06:18:02 -0700 (PDT)
+From: neil.bresnan@enron.com
+To: chris.stokley@enron.com, jeff.richter@enron.com
+Subject: Proposed DA Decision at CPUC-- Tresurer-Dept of Finance Says No
+ Delay Past June 28 -- Drafts out by Friday
+Cc: jeff.dasovich@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+Bcc: jeff.dasovich@enron.com
+X-From: Bresnan, Neil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC75CF5A-EBD2BACF-862566C5-6B3C9B>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>, Richter, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JRICHTE>
+X-cc: Dasovich, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DA220740-3E85E661-86256962-4F9C13>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Neil B.
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+In addition to Sue Mara's list you also want to get on Jeff Dasovich, and A=
+lan Comnes to make sure you are covered.=20
+
+NFB=20
+---------------------- Forwarded by Neil Bresnan/HOU/EES on 06/15/2001 08:1=
+4 AM ---------------------------
+
+
+Susan J Mara@ENRON
+06/15/2001 12:43 AM
+To:=09Alan Comnes/PDX/ECT@ECT, Angela Schwarz/HOU/EES@EES, Beverly Aden/HOU=
+/EES@EES, Bill Votaw/HOU/EES@EES, Brenda Barreda/HOU/EES@EES, Carol Moffett=
+/HOU/EES@EES, Cathy Corbin/HOU/EES@EES, Chris H Foster/HOU/ECT@ECT, Christi=
+na Liscano/HOU/EES@EES, Christopher F Calger/PDX/ECT@ECT, Craig H Sutter/HO=
+U/EES@EES, Dan Leff/HOU/EES@EES, Debora Whitehead/HOU/EES@EES, Dennis Benev=
+ides/HOU/EES@EES, Don Black/HOU/EES@EES, Douglas Huth/HOU/EES@EES, Edward S=
+acks/Corp/Enron@ENRON, Eric Melvin/HOU/EES@EES, Erika Dupre/HOU/EES@EES, Ev=
+an Hughes/HOU/EES@EES, Fran Deltoro/HOU/EES@EES, Gayle W Muench/HOU/EES@EES=
+, Ginger Dernehl/NA/Enron@ENRON, Gordon Savage/HOU/EES@EES, Harold G Buchan=
+an/HOU/EES@EES, Harry Kingerski/NA/Enron@ENRON, James D Steffes/NA/Enron@EN=
+RON, James W Lewis/HOU/EES@EES, James Wright/Western Region/The Bentley Com=
+pany@Exchange, Jeff Messina/HOU/EES@EES, Jeremy Blachman/HOU/EES@EES, Jess =
+Hewitt/HOU/EES@EES, Joe Hartsoe/Corp/Enron@ENRON, Karen Denne/Corp/Enron@EN=
+RON, Kathy Bass/HOU/EES@EES, Kathy Dodgen/HOU/EES@EES, Ken Gustafson/HOU/EE=
+S@EES, Kevin Hughes/HOU/EES@EES, Leasa Lopez/HOU/EES@EES, Leticia Botello/H=
+OU/EES@EES, Mark S Muller/HOU/EES@EES, Marsha Suggs/HOU/EES@EES, Marty Sund=
+e/HOU/EES@EES, Meredith M Eggleston/HOU/EES@EES, Michael Etringer/HOU/ECT@E=
+CT, Michael Mann/HOU/EES@EES, Michelle D Cisneros/HOU/ECT@ECT, mpalmer@enro=
+n.com, Neil Bresnan/HOU/EES@EES, Neil Hong/HOU/EES@EES, Paul Kaufman/PDX/EC=
+T@ECT, Richard L Zdunkewicz/HOU/EES@EES, Richard Leibert/HOU/EES@EES, Richa=
+rd Shapiro/NA/Enron@ENRON, Rita Hennessy/NA/Enron@ENRON, Robert Badeer/HOU/=
+ECT@ECT, Rosalinda Tijerina/HOU/EES@EES, Sandra McCubbin/NA/Enron@ENRON, Sa=
+rah Novosel/Corp/Enron@ENRON, Scott Gahn/HOU/EES@EES, Scott Stoness/HOU/EES=
+@EES, Sharon Dick/HOU/EES@EES, skean@enron.com, Susan J Mara/NA/Enron@ENRON=
+, Tanya Leslie/HOU/EES@EES, Tasha Lair/HOU/EES@EES, Ted Murphy/HOU/ECT@ECT,=
+ Terri Greenlee/NA/Enron@ENRON, Tim Belden/HOU/ECT@ECT, Tony Spruiell/HOU/E=
+ES@EES, Vicki Sharp/HOU/EES@EES, Vladimir Gorny/HOU/ECT@ECT, Wanda Curry/HO=
+U/EES@EES, William S Bradford/HOU/ECT@ECT, Jubran Whalan/HOU/EES@EES, trile=
+y@enron.com, Richard B Sanders/HOU/ECT@ECT, Robert C Williams/ENRON_DEVELOP=
+MENT@ENRON_DEVELOPMENT, dwatkiss@bracepatt.com, rcarroll@bracepatt.com, Don=
+na Fulton/Corp/Enron@ENRON, gfergus@brobeck.com, Bruno Gaillard/EU/Enron@En=
+ron, Linda Robertson/NA/Enron@ENRON, Ren? Lazure/Western Region/The Bentley=
+ Company@Exchange, Michael Tribolet/Corp/Enron@Enron, Phillip K Allen/HOU/E=
+CT@ECT, Christian Yoder/HOU/ECT@ECT, jklauber@llgm.com, Tamara Johnson/HOU/=
+EES@EES, Greg Wolfe/HOU/ECT@ECT, Jeff Dasovich/NA/Enron@Enron, Dirk vanUlde=
+n/Western Region/The Bentley Company@Exchange, Steve Walker/SFO/EES@EES, Ja=
+mes Wright/Western Region/The Bentley Company@Exchange, Mike D Smith/HOU/EE=
+S@EES, Richard Shapiro/NA/Enron@Enron, Leslie Lawner/NA/Enron@Enron, Robert=
+ Neustaedter/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Steve Walton/HOU/ECT@ECT,=
+ psmith3@enron.com, mjackso7@enron.com, Janel Guerrero/Corp/Enron@Enron, Ma=
+rk Fillinger/SF/ECT@ECT, Jennifer Rudolph/HOU/EES@EES, Martin Wenzel/SFO/HO=
+U/EES@EES, wgang@enron.com, Joseph Alamo/NA/Enron@Enron, Tracy Ngo/Enron@En=
+ronXGate, Ray Alvarez/NA/Enron@ENRON, Steve C Hall/ENRON@enronXgate, David =
+Leboe/Enron@EnronXGate, Jay Zoellner/Western Region/The Bentley Company@Exc=
+hange, Fatimata Liamidi/HOU/EES@EES, Sonia Perez/HOU/EES@EES, Chris Holmes/=
+HOU/EES@EES, Venkatesh Mani/Western Region/The Bentley Company@Exchange, Ri=
+chard Crevelt/Western Region/The Bentley Company@Exchange, Dave Perrino/SF/=
+ECT@ECT, Malcolm Adkins/HOU/EES@EES, Kevin Keeney/HOU/EES@EES
+cc:=09=20
+Subject:=09Proposed DA Decision at CPUC-- Tresurer-Dept of Finance Says No =
+Delay Past June 28 -- Drafts out by Friday
+
+
+
+Sue Mara
+Enron Corp.
+Tel: (415) 782-7802
+Fax:(415) 782-7854
+----- Forwarded by Susan J Mara/NA/Enron on 06/14/2001 10:32 PM -----
+
+=09"Counihan, Rick" <rick.counihan@greenmountain.com> 06/14/2001 03:59 PM =
+=09   To: "'ARM List Serve'" <arem@electric.com>, "'Plotkin, Norm'" <nplotk=
+in@rcsis.com>, "'Pahos, Theo'" <Theo@ppallc.com>  cc: "'Allen, Stevan'" <st=
+evan.allen@edelman.com>, "'Fairchild, Tracy'" <tracy.fairchild@edelman.com>=
+, "'Douglass, Dan'" <douglass@arterhadden.com>  Subject: News on DA Decisio=
+n at CPUC=09
+
+
+Ann Watson of Comm. Bilas' office said that the decision ending DA and the =
+Bilas alternate would be mailed outtoday, but probably not up on the websit=
+e until tomorrow.  Everyone should watch their mail and e-mail for it.
+=20
+Ann confirmed that Hertzberg had called Lynch asking for them to delay.
+And, of course the PUC accommodated them today.  Ann said however, that she
+was not able to hold the decision until July 12.  The reason is that a
+letter from the Treasurer, DWR and Finance was sent to Commissioners and
+legislators telling them that DA had to be suspended by June 28 in order fo=
+r
+appeals etc. to be settled by the time the issue the bonds in August.  I
+believe someone else referenced this letter in an e-mail yesterday.  Ann is
+appending the letter to the Bilas alternate so everyone can see it and
+comment.  Also, they are going to ask for comments on going to "bottoms up"
+rates.
+=20
+Rick Counihan
+Green Mountain
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <25233947.1075858517329.JavaMail.evans@thyme>
+Date: Fri, 15 Jun 2001 06:04:24 -0700 (PDT)
+From: neil.bresnan@enron.com
+To: michael.frazier@enron.com
+Subject: Re: Load Forecasting access to MV90 interval data
+Cc: maurice.winter@enron.com, chris.stokley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: maurice.winter@enron.com, chris.stokley@enron.com
+X-From: Bresnan, Neil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC75CF5A-EBD2BACF-862566C5-6B3C9B>
+X-To: Frazier, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=9E92D057-10EA49C5-86256982-518FA3>
+X-cc: Winter, Maurice </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=FDA61595-3F56AF8C-8625684D-570B52>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Neil B.
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+Maurice,
+
+I have PRC Monday.  If we have the meeting with Pat at 4 PM I should be able to make it. 
+Please send me an e-mail to confirm the time and location. 
+
+NFB 
+
+
+
+
+
+Michael Frazier
+06/14/2001 07:09 PM
+To:	Maurice Winter/HOU/EES@EES
+cc:	Neil Bresnan/HOU/EES@EES, Chris Stokley/ENRON@enronXgate, Gregg Young/HOU/EES@EES, James Light/HOU/EES@EES 
+Subject:	Re: Load Forecasting access to MV90 interval data   
+
+Sounds like a feasible solution to me as long as we can get specified formats and the data uploads are well-maintained by CSC.  Are there any extra costs on their end for performing this posting function?
+mrf
+
+
+
+Maurice Winter
+06/14/2001 08:51 AM
+To:	Neil Bresnan/HOU/EES@EES, Chris Stokley/ENRON@enronXgate, Michael Frazier/HOU/EES@EES
+cc:	Gregg Young/HOU/EES@EES, James Light/HOU/EES@EES 
+Subject:	Load Forecasting access to MV90 interval data
+
+All,
+
+I spoke with Pat Priestley this morning about our request to get access to the MV90 daily interval meter data for load forecasting.  She said that she would not be available to meet formally until Monday due to the declared disaster at their operations due to the flood.  She said they are moving back to the Pennzoil building today and Friday, so things should be close to normal by Monday.
+
+Pat said that it is not be a problem to export the MV90 data (in just about any format) on a daily basis for us.  The data is housed in MV90 databases which , according to Pat, can only be read by an MV90 system; so we would need to purchase MV90 (very expensive) if we wanted to read the data directly.  
+
+I suggest we get the data exported daily from CSC to an FTP site at Enron, because they can manage the process on a daily basis.  We can sweep the FTP site daily and have it automatically imported into our databases.
+
+If we are in agreement with this solution, I  will create an emergency work request with CSC to begin working on this immediately.
+
+
+Maurice
+
+
+
+
+
+
+
+<Embedded StdOleLink>
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <12851247.1075858517168.JavaMail.evans@thyme>
+Date: Mon, 25 Jun 2001 11:25:18 -0700 (PDT)
+From: neil.bresnan@enron.com
+To: chris.stokley@enron.com
+Subject: Load Desk Business Plan
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Bresnan, Neil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC75CF5A-EBD2BACF-862566C5-6B3C9B>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Neil B.
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+
+---------------------- Forwarded by Neil Bresnan/HOU/EES on 06/25/2001 01:25 PM ---------------------------
+
+
+Michael Frazier
+06/25/2001 09:48 AM
+To:	Neil Bresnan/HOU/EES@EES
+cc:	 
+Subject:	Load Desk Business Plan
+
+The "long form" is attached, as requested.  Thanks for your suggestions.
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <4556720.1075858517375.JavaMail.evans@thyme>
+Date: Wed, 8 Aug 2001 08:50:16 -0700 (PDT)
+From: neil.bresnan@enron.com
+To: jeff.richter@enron.com, stewart.rosman@enron.com, p..o'neil@enron.com,
+	chris.stokley@enron.com, phillip.platter@enron.com
+Subject: A/S (SPIN)
+Cc: neil.bresnan@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: neil.bresnan@enron.com
+X-From: Bresnan, Neil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC75CF5A-EBD2BACF-862566C5-6B3C9B>
+X-To: Richter, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JRICHTE>, Rosman, Stewart </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SROSMAN>, O'Neil, Murray P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MONEIL>, Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>, Platter, Phillip </O=ENRON/OU=NA/CN=RECIPIENTS/CN=PPLATTE>
+X-cc: Bresnan, Neil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC75CF5A-EBD2BACF-862566C5-6B3C9B>
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Neil B.
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+
+We purchased 24MW of Spin from LADW&P at LA4 for August 9 
+Capacity payment 16.50 - energy strike 79.51 
+
+We want to continue to offer the energy to the ISO at the price cap and to check the contingency flag (yes) so that we will only get called on in a contingency or  emergency situation. 
+
+NFB 
+
+From MAILER-DAEMON Mon Apr 18 14:23:04 2022
+Message-ID: <12486105.1075858517352.JavaMail.evans@thyme>
+Date: Fri, 1 Jun 2001 11:28:02 -0700 (PDT)
+From: neil.bresnan@enron.com
+To: chris.stokley@enron.com
+Subject: Hourly ISO-EES-Price Data
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Bresnan, Neil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=DC75CF5A-EBD2BACF-862566C5-6B3C9B>
+X-To: Stokley, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSTOKLE>
+X-cc: 
+X-bcc: 
+X-Folder: \Stokley, Chris (Non-Privileged)\Chris Stokley\Projects\EES \Neil B.
+X-Origin: Stokley-C
+X-FileName: Stokley, Chris (Non-Privileged).pst
+
+
+---------------------- Forwarded by Neil Bresnan/HOU/EES on 06/01/2001 01:27 PM ---------------------------
+
+
+Holly Nelson
+05/30/2001 08:36 AM
+To:	Neil Bresnan/HOU/EES@EES
+cc:	 
+Subject:	Hourly ISO-EES-Price Data
+
+  
+

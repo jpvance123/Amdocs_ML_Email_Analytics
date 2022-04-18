@@ -1,0 +1,639 @@
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <31332340.1075839947510.JavaMail.evans@thyme>
+Date: Wed, 11 Apr 2001 01:11:00 -0700 (PDT)
+From: holden.salisbury@enron.com
+To: bill.iii@enron.com
+Subject: EPE length for 4/11
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Holden Salisbury <Holden Salisbury/PDX/ECT@ECT>
+X-To: Bill Williams III <Bill Williams III/PDX/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\RT strat
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+Bill,
+
+EPE length is in Enpower, deal# 577883, this will be out in RT Position Manager.  56mws for the day.
+The schedule is as follows:
+
+HE 1	8 mws
+HE2	8 mws
+HE3	8 mws
+HE4	8mws
+HE5	8mws
+HE6	10mws
+HE24	6mws
+
+TOTAL 	= 56mws
+
+Please sell this power real time.
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <32946703.1075839947555.JavaMail.evans@thyme>
+Date: Wed, 11 Apr 2001 01:04:00 -0700 (PDT)
+From: jesse.bryson@enron.com
+To: chris.stokley@enron.com, bill.iii@enron.com
+Subject: RT/Volume Management meeting
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jesse Bryson <Jesse Bryson/HOU/ECT@ECT>
+X-To: Chris Stokley <Chris Stokley/HOU/ECT@ECT>, Bill Williams III <Bill Williams III/PDX/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\RT strat
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+The Mt. Hood conference room is reserved for us at 9:30 tomorrow for our meeting.
+Thanks,
+Jesse
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <6330655.1075839947238.JavaMail.evans@thyme>
+Date: Sat, 28 Apr 2001 00:36:00 -0700 (PDT)
+From: holden.salisbury@enron.com
+To: bill.iii@enron.com
+Subject: Saturday
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Holden Salisbury <Holden Salisbury/PDX/ECT@ECT>
+X-To: Bill Williams III <Bill Williams III/PDX/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\RT strat
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+Bill, I have reservations for four at Morton's on Saturday night at 9:00pm.  Let me know if you want to go, if not we will just go by ourselves.
+
+My cell phone number is 503-807-5669.
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <9883409.1075839947656.JavaMail.evans@thyme>
+Date: Sat, 7 Apr 2001 03:41:00 -0700 (PDT)
+From: geir.solberg@enron.com
+To: portland.shift@enron.com
+Subject: NCPA BR IS BACK
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Geir Solberg <Geir Solberg/PDX/ECT@ECT>
+X-To: Portland Shift <Portland Shift@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\RT strat
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+Hey Guys. 
+
+I had a long talk with NCPA today and set up so that we again can do the ZP26/NP15 Buy-Resale on a Realtime basis. We are not doing a profit split this time, we are paying them $25/MW instead. This basically enables us to shift 21MW across PATH15 and not be subject to Congestion as NCPA has Grandfather Rights across the path. This is a sweet strategy when the SP15/NP15 spread is there and PATH15 is congested. NCPA's capacity is 21MW, but I would not recommend doing more than 20MW. There are others who know about this opportunity but are not currently using it (WESCO especially). So by doing only  20MW we do not remind them of NCPA. 
+
+The way this works is that we call NCPA and ask their capacity across PATH15. And tell them you want to schedule the BR through whatever hour. 
+
+IN CAPS:
+We sell to NCPA in ZP26.  
+We buy from NCPA in NP15.
+
+We can buy SP15 to fill our ZP26 sale (we just shift the load from SP15 to ZP26, so enter a EPMI CALPOOL).
+PG&E is NCPA's SC, so if you are not passing Phase two give them a call.
+
+
+
+NCPA's tel#: (916) 786-3520
+PG&E tel# : (415) 973-1969
+
+If you guys have any questions  just ask me.
+
+Geir 
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <30472956.1075839947340.JavaMail.evans@thyme>
+Date: Tue, 17 Apr 2001 03:24:00 -0700 (PDT)
+From: geir.solberg@enron.com
+To: portland.shift@enron.com
+Subject: NEW DEAL! EXPORT AT SILVERPEAK!!!!
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Geir Solberg <Geir Solberg/PDX/ECT@ECT>
+X-To: Portland Shift <Portland Shift@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\RT strat
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+Hey Guys. 
+
+We have a new strategy taking power from the south to the north. Right now Sierra Pacific will only let us schedule 12MW on the tie so do not try to schedule any more (The tie is only good for 17MW).
+
+- Either do a export from SP15 to Silverpeak or put in a wheel going out at Silverpeak(From PV or FC).
+- Buy transmission from SPP from  (www.swoasis.com ) CONTROL TO HILLTOP. ($6.90 on-peak, $3.90 off-peak)
+- Buy transmission from PAC from MAL2 TO MAL5. ($5.84)
+- Buy transmission from BPA from HILLTOP TO SNOHO or another Sink. (Account numbers below).
+
+We need to bounce this of SNOHO before we send it back in at Malin. 
+
+THIS SCHEDULE NEEDS TO BE TAGGED OR SIERRA PACIFIC GETS VERY PISSED OFF, THEY ARE NOT USED TO DOING TO MUCH REAL TIME. THERE IS A TEMPLATE FOR THIS SCHEDULE SO IT SHOULD NOT BE HARD. Call and confirm the request with both PAC and Sierra.
+
+
+
+Also do not sell to a marketer(especially POWEREX) without sleeving. We do not want anybody else to know about the path. If Powerex sees this I guarantee that they would try to schedule this and we do not want competition. Right now the only person using the tie is SOCAL EDISON and they are flowing 12MW into Cali, going the opposite way of us way.  
+
+It is available 24hrs a day so lets take advantage of it as much as we can.
+If you have any questions over the weekend call me.
+
+Account numbers:
+SPP - PAC: 853724
+SPP-SNOHO: 853703
+SPP-PUGET: 853725
+
+
+Geir
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <8549963.1075839947158.JavaMail.evans@thyme>
+Date: Sun, 17 Jun 2001 20:06:04 -0700 (PDT)
+From: ryan.slinger@enron.com
+To: shift.portland@enron.com
+Subject: NEW TRANSMISSION IDEA
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Slinger, Ryan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RSLINGER>
+X-To: Portland Shift </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=PORTLAND SHIFT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\RT strat
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+As the southwest heats up, or the ISO goes into stages of emergency, or path 15 is congested north to south we will want to get power from the northwest utilities down to APS and so on in the southwest.  We can do this many ways but one that I have discovered that may have much capacity is as follows.
+
+1.  NW Utility to PAC on BPA(T)
+2.  PACW to IPC(T)@Enterprise(ENPR) on PAC(T)
+3.  IPC@ENPR to PAC(T)@Borah Brady(BOBR) on IPC(T)
+4.  IPC@BOBR to Four Corners(FC3) on PAC(T)
+5.  Sink with anyone at four corners or buy tranny over to palo or mead.
+
+I'm not sure how long there is going to be room but for monday there is 400mw of room on this path.
+
+
+Enjoy,
+
+Slinger
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <12122347.1075839947473.JavaMail.evans@thyme>
+Date: Thu, 12 Apr 2001 01:29:00 -0700 (PDT)
+From: jesse.bryson@enron.com
+To: bill.iii@enron.com
+Subject: Pinnacle Losses - DMS#7508
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jesse Bryson <Jesse Bryson/HOU/ECT@ECT>
+X-To: Bill Williams III <Bill Williams III/PDX/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\RT strat
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+Can you confirm this for Virginia?
+---------------------- Forwarded by Jesse Bryson/HOU/ECT on 04/11/2001 03:36 PM ---------------------------
+
+
+Virginia Thompson
+04/05/2001 01:19 PM
+To:	Jesse Bryson/HOU/ECT@ECT
+cc:	 
+Subject:	Pinnacle Losses - DMS#7508
+
+Jesse,
+
+Can you confirm this for me?  If so, I'll put the annuity on your books
+
+Thanks,
+
+Virginia
+
+---------------------- Forwarded by Virginia Thompson/PDX/ECT on 04/05/2001 03:26 PM ---------------------------
+   
+
+	  From:  Amy Clemons @ ENRON                           04/05/2001 07:53 AM	
+		
+
+
+To:	Virginia Thompson/PDX/ECT@ECT
+cc:	 
+
+Subject:	Pinnacle Losses - DMS#7508
+
+
+---------------------- Forwarded by Amy Clemons/Corp/Enron on 04/05/2001 09:53 AM ---------------------------
+
+
+"Sattler, Lorraine L(Z82390)" <Lorraine.Sattler@pinnaclewest.com> on 04/05/2001 09:47:49 AM
+To:	"'Amy.Clemons@enron.com'" <Amy.Clemons@enron.com>
+cc:	 
+
+Subject:	RE: losses
+
+
+Per the Hourly Traders notes:
+For losses incurred on March 16
+1MW at 1100 for $225
+1MW at 2300 for $200
+Deal done at 0940 with Bill at Enron
+Fred Mavroudis was the PWMT trader
+Fred advised Michelle in the APS Transmission Group
+
+Lorraine
+
+-----Original Message-----
+From: Amy.Clemons@enron.com [mailto:Amy.Clemons@enron.com]
+Sent: Wednesday, April 04, 2001 4:19 PM
+To: Lorraine.Sattler@pinnaclewest.com
+Subject: losses
+
+
+Could you give me more of a detail on what the losses were for with
+Pinnacle on the 19th?
+
+Thanks
+Amy
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <29310343.1075839947212.JavaMail.evans@thyme>
+Date: Tue, 1 May 2001 15:37:00 -0700 (PDT)
+From: geir.solberg@enron.com
+To: bill.iii@enron.com
+Subject: Reason - For SAR Report to be delayed
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Geir Solberg <Geir Solberg/PDX/ECT@ECT>
+X-To: Bill Williams III <Bill Williams III/PDX/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\RT strat
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+
+---------------------- Forwarded by Geir Solberg/PDX/ECT on 05/01/2001 05:45 AM ---------------------------
+   
+
+	Enron Capital & Trade Resources Corp.  From:  "Venkataswami, Vishwanatha" <Vishwanatha.Venkataswami@ENRON.com>                           04/30/2001 06:04 AM	
+		
+
+
+To:	<gsolberg@enron.com>
+cc:	"Crooks, William" <William.Crooks@ENRON.com>, "Luu, Duong" <Duong.Luu@ENRON.com> 
+Subject:	Reason - For SAR Report to be delayed
+
+
+
+Geir Solberg,
+
+Scheduling Activity Report is using the following tables, these tables
+might be locked while running this report
+between 01:00AM-02:50AM CST, that is why this report takes more than 2
+hours to complete. Please keep track on these tables during this
+interval of time for removing the locks. Once we cross 02:50AM CST, SAR
+will be executing within few minutes.
+
+*	PWR_DEAL_LEGS
+*	PWR_DEAL_PEERS
+*	PWR_TERM_STRP_SETS
+*	PWR_TERM_STRIP_RULES
+*	PWR_TERM_STRIPS
+*	PWR_CRD_COUNTERPARTY
+*	PWR_CRD_DESK
+*	PWR_EASY_INSTR_MAP
+*	PWR_DELIVERY_POINTS
+*	PWR_REGIONS
+*	PWR_PUB_CODES
+*	PWR_LIQUIDATE_STRIPS
+*	PWR_SCHEDULE_STRIPS
+*	PWR_SYSTEM_STATUES
+
+I am observing this from past 2 days.
+
+
+Thanks,
+Vish
+x 53209
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <19157736.1075839947186.JavaMail.evans@thyme>
+Date: Fri, 18 May 2001 05:40:58 -0700 (PDT)
+From: geir.solberg@enron.com
+To: shift.portland@enron.com
+Subject: EXPORT AT CASCADE.
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Solberg, Geir </O=ENRON/OU=NA/CN=RECIPIENTS/CN=GSOLBER>
+X-To: Portland Shift </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=PORTLAND SHIFT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\RT strat
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+Hey Guys. 
+
+We have a new way to export from NP15 up to the Northwest. Cascade is a tie between CISO and PAC SYSTEM on the California Oregon border. There is currently 30MW Non-Firm Hourly transmission available on the tie.
+
+The capacity constraint is on the PacifiCorp side of the tie,  and you can find the real number available on the PAC oasis site. Check under TRANSMISSION REQUESTS/ Offerings. The path name you need to check is W/PPW/CRAG-PACW//. Make sure you pick Hourly non-firm. 
+
+On the CISO side the tie point is called CASCAD_1_CRAGVW by the CISO. 
+
+
+Procedure:
+Export at Cascade from the CISO. 
+Buy PAC Transmission from CRAG to BPAT or whoever is picking it up from Pac System. 
+
+Transmission costthrough PAC is only $5.84.
+
+I know the NP15/MIDC spread is not as large as we have seen it in the past. It does on the other hand give us another option.
+
+Geir
+
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <20003078.1075839947580.JavaMail.evans@thyme>
+Date: Tue, 10 Apr 2001 03:41:00 -0700 (PDT)
+From: jesse.bryson@enron.com
+To: bill.iii@enron.com
+Subject: Recordings
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jesse Bryson <Jesse Bryson/HOU/ECT@ECT>
+X-To: Bill Williams III <Bill Williams III/PDX/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\RT strat
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+FYI
+---------------------- Forwarded by Jesse Bryson/HOU/ECT on 04/09/2001 05:49 PM ---------------------------
+
+
+Virginia Thompson
+04/09/2001 05:39 PM
+To:	Ryan Slinger/PDX/ECT@ECT
+cc:	Jesse Bryson/HOU/ECT@ECT 
+Subject:	Recordings
+
+Dear Ryan,
+
+Just wanted to say thanks for making my job easy when I have disputes involving your trades.  I have always found your notes and log very thorough and your voice recordings are always accurate and clear.  
+
+Thanks again,
+
+Virginia
+
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <31782850.1075839947263.JavaMail.evans@thyme>
+Date: Mon, 23 Apr 2001 22:00:00 -0700 (PDT)
+From: michael.tully@enron.com
+To: portland.desk@enron.com
+Subject: West Desk Support Web Site
+Cc: david.poston@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: david.poston@enron.com
+X-From: Michael Tully <Michael Tully/PDX/ECT@ECT>
+X-To: Portland West Desk <Portland West Desk@ECT>
+X-cc: david.poston <david.poston@enron.com>
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\RT strat
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+Everyone in the following gorups, now have access to the West Desk Support Web Site at http://westdesksupport. The UserName is the same as your NT / W2K Login UserName. And the password is the same as the username. Please use this site to log problems with CAPS, Excel, Enpower / FSP, network problems, or anything else that IT Needs to get involved in. Those of you that have logged in under the old username / Password system have also been changed to the new system.
+
+The Groups are:
+
+Real Time
+Pre Sched
+Volume Management
+Risk
+Middle Marketing
+Power Traders
+
+Thank you for your time.
+
+Michael Tully
+Application Support
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <16022517.1075839947691.JavaMail.evans@thyme>
+Date: Tue, 3 Apr 2001 19:30:00 -0700 (PDT)
+From: kourtney.nelson@enron.com
+To: portland.shift@enron.com, jeff.richter@enron.com, phillip.platter@enron.com,
+	chris.mallory@enron.com, jeremy.morris@enron.com
+Subject: Scheduling Wheels
+Cc: volume_management_portland@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: volume_management_portland@enron.com
+X-From: Kourtney Nelson <Kourtney Nelson/PDX/ECT@ECT>
+X-To: Portland Shift <Portland Shift@ECT>, Jeff Richter <Jeff Richter/HOU/ECT@ECT>, Phillip Platter <Phillip Platter/HOU/ECT@ECT>, Chris Mallory <Chris Mallory/PDX/ECT@ECT>, Jeremy Morris <Jeremy Morris/PDX/ECT@ECT>
+X-cc: Volume_Management_Portland <Volume_Management_Portland@ECT>
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\RT strat
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+
+Just a reminder that when entering a wheel, the Interchange ID must be the same for the import and export.  When the Import is labeled as "EPMI_CISO_**" and the Export as "CISO_EPMI_**," the ISO views these as unique imports and exports.  They will not be linked together for a wheel, thus causing ancillary services charges to occur.  
+
+Thank you!
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <13228332.1075839947312.JavaMail.evans@thyme>
+Date: Wed, 18 Apr 2001 01:43:00 -0700 (PDT)
+From: lester.rawson@enron.com
+To: bill.iii@enron.com
+Subject: march annuity
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lester Rawson <Lester Rawson/PDX/ECT@ECT>
+X-To: Bill Williams III <Bill Williams III/PDX/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\RT strat
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+Bill,
+
+EPMI made $90,741.17 marketing fees from Grays Paper for March. Have you done the 75/25 split annuity yet?
+
+Les
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <17680053.1075839947367.JavaMail.evans@thyme>
+Date: Sun, 15 Apr 2001 20:05:00 -0700 (PDT)
+From: jeremy.morris@enron.com
+To: jesse.bryson@enron.com
+Subject: Re: Monday Off-Peak
+Cc: portland.shift@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: portland.shift@enron.com
+X-From: Jeremy Morris <Jeremy Morris/PDX/ECT@ECT>
+X-To: Jesse Bryson <Jesse Bryson/HOU/ECT@ECT>
+X-cc: Portland Shift <Portland Shift@ECT>
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\RT strat
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+you are long at np, because i did not put a imbalance deal in.  I figured you were going to sell that 10 mws of np length off to a sc on a realtime basis.  So, please take care of this
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <24166053.1075839947395.JavaMail.evans@thyme>
+Date: Sat, 14 Apr 2001 01:28:00 -0700 (PDT)
+From: jesse.bryson@enron.com
+To: portland.shift@enron.com
+Subject: Monday Off-Peak
+Cc: jeremy.morris@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jeremy.morris@enron.com
+X-From: Jesse Bryson <Jesse Bryson/HOU/ECT@ECT>
+X-To: Portland Shift <Portland Shift@ECT>
+X-cc: Jeremy Morris <Jeremy Morris/PDX/ECT@ECT>
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\RT strat
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+Group
+
+We have 10 MW of length from Sierra through the APX light load at $185.  Stan purchased this NP15 length from the APX and it should be scheduled DA by Jeremy.  There should be a ECTRT load zone in PGE3 with this length.  Use whatever opportunities are out there (dynegy across COB or a straight export) to maximize this position.  The deal numbers are: 581335-purchase from APX and 581356-desk to desk deal.  Please make sure this gets taken care of.
+
+Cheers
+Jesse
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <21360867.1075839947288.JavaMail.evans@thyme>
+Date: Fri, 20 Apr 2001 19:22:00 -0700 (PDT)
+From: david.porter@enron.com
+To: bill.iii@enron.com
+Subject: FW: The hell with working out!
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: David V Porter <David V Porter/PDX/ECT@ECT>
+X-To: Bill Williams III <Bill Williams III/PDX/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\RT strat
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+
+---------------------- Forwarded by David V Porter/PDX/ECT on 04/20/2001 09:30 AM ---------------------------
+From:	Christopher Chenoweth/ENRON@enronxgate on 04/18/2001 11:30 AM CDT
+To:	"Marsha Chenoweth (E-mail)" <mchenow@mail.mdanderson.org>@SMTP@enronXgate, Carlos Ruiz/ENRON@enronXgate, David V Porter/PDX/ECT@ECT
+cc:	 
+
+Subject:	FW: The hell with working out!
+
+ 
+-----Original Message-----
+From: Jain, Avinash 
+Sent: Wednesday, April 18, 2001 11:28 AM
+To: Guinn, Matthew; Simmons, Michael; Chenoweth, Christopher
+Subject: The hell with working out!
+
+
+
+  
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <13676443.1075839947448.JavaMail.evans@thyme>
+Date: Thu, 12 Apr 2001 03:26:00 -0700 (PDT)
+From: david.porter@enron.com
+To: bill.iii@enron.com
+Subject: Tricks of the Trade class
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: David V Porter <David V Porter/PDX/ECT@ECT>
+X-To: Bill Williams III <Bill Williams III/PDX/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\RT strat
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+Hey Bill,
+
+I swapped days with Leaf and would like to attend the "Tricks of the Trade for Energy Analysts" class on April 18th.  Please enroll me.
+
+Thanks,
+
+David.
+
+From MAILER-DAEMON Mon Apr 18 14:22:23 2022
+Message-ID: <16020374.1075839947420.JavaMail.evans@thyme>
+Date: Fri, 13 Apr 2001 21:31:00 -0700 (PDT)
+From: holden.salisbury@enron.com
+To: bill.iii@enron.com
+Subject: PNM parking for Monday
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Holden Salisbury <Holden Salisbury/PDX/ECT@ECT>
+X-To: Bill Williams III <Bill Williams III/PDX/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\RT strat
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+Deal number on the buy from PNM is #581199.
+
+The shape of this length is:
+
+HE1	50
+HE2	50
+HE3	50
+HE4	50
+HE5	45
+HE6	20
+HE23	35
+HE24	50
+
+Day total is 350.
+
+Thanks
+

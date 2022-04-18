@@ -1,0 +1,360 @@
+From MAILER-DAEMON Mon Apr 18 14:23:50 2022
+Message-ID: <10708772.1075855881727.JavaMail.evans@thyme>
+Date: Thu, 8 Jun 2000 11:24:00 -0700 (PDT)
+From: michael.moscoso@enron.com
+To: jeffrey.gossett@enron.com
+Subject: Re: Spreadsheets and other Data
+Cc: brent.price@enron.com, steve.jackson@enron.com, sunil.dalal@enron.com,
+	vladimir.gorny@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: brent.price@enron.com, steve.jackson@enron.com, sunil.dalal@enron.com,
+	vladimir.gorny@enron.com
+X-From: Michael E Moscoso
+X-To: Jeffrey C Gossett
+X-cc: Brent A Price, Steve Jackson, Sunil Dalal, Vladimir Gorny
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Moscoso, mike
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Jeff,
+
+We will definitely need a lot more information related to the items below.  
+Please let me know when we can meet and discuss these.  Some of the items we 
+will need to know include:
+
+We discussed discrepancies your team noted between the spreadsheet positions 
+that are being captured and what's reported on the Gas BM report.  This is 
+causing you to manually adjust the Gas BM report.  Is this for all 
+spreadsheet positions?  Some of them?  Is the variance significant?  Is it 
+off everyday?  
+What do you mean by " All Transport Models".   Does this mean positions?  Are 
+transport positions on the Gas BM report?  Are they manual adjustments?  Are 
+they in GRMS?  Can we capture these with spreadsheets?
+What is your current methodology in preparing the Gas BM report for 
+roll-offs?  Is it currently consistent across all regions or is it handled 
+differently by different traders?  Please explain this in further detail. The 
+Basis roll-off was done in the GRMS system in the past.  Is this still the 
+case?  If not, we need to capture these roll-off adjustments using 
+spreadsheets?
+Can we make the Fixed Price Canadian Deals adjustments using spreadsheets 
+that can be captured in GRMS?
+Also, what is the status of capturing IM-Canada positions in the system?
+
+We will need this type of information urgently.  We are meeting with Jeff 
+Shankman on Tuesday to update him on the progress we are making.  
+
+Please let me know if there is anything we can do to help.
+
+Thanks,
+Mike
+
+
+   
+	Enron North America Corp.
+	
+	From:  Jeffrey C Gossett                           06/07/2000 05:26 PM
+	
+
+To: Michael E Moscoso/HOU/ECT@ECT
+cc: Brent A Price/HOU/ECT@ECT, Steve Jackson/HOU/ECT@ECT, Susan 
+Harrison/HOU/ECT@ECT, Sunil Dalal/Corp/Enron@ENRON, Vladimir 
+Gorny/HOU/ECT@ECT 
+Subject: Spreadsheets and other Data
+
+Spreadsheets :
+(in Quark)
+EES_Dublin
+NG_Opt
+Pipe_Opt_date
+Storage_opt_date
+
+All Transport models:
+East 
+West
+Central
+
+Manual Adjustments:
+Spreadsheets
+Fixed Price Canadian Deals
+Roll Off
+
+Let me know if you need anything further.
+
+Thanks
+
+JG
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:50 2022
+Message-ID: <21023226.1075855881658.JavaMail.evans@thyme>
+Date: Fri, 13 Oct 2000 03:52:00 -0700 (PDT)
+From: michael.moscoso@enron.com
+To: sally.beck@enron.com, shona.wilson@enron.com
+Subject: Weekly Report - Risk Issues
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Michael E Moscoso
+X-To: Sally Beck, Shona Wilson
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Moscoso, mike
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Please call me if you have any questions (35242).
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:50 2022
+Message-ID: <22157303.1075855881704.JavaMail.evans@thyme>
+Date: Mon, 12 Jun 2000 03:42:00 -0700 (PDT)
+From: michael.moscoso@enron.com
+To: jeffrey.shankman@enron.com
+Subject: Violation Memos Distribution
+Cc: sally.beck@enron.com, shona.wilson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sally.beck@enron.com, shona.wilson@enron.com
+X-From: Michael E Moscoso
+X-To: Jeffrey A Shankman
+X-cc: Sally Beck, Shona Wilson
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Moscoso, mike
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Jeff,
+
+Per your request from our meeting last week, the following is a summary of 
+the required distribution of violation memos per the Risk Management Policy 
+for NA Natural Gas:
+
+        Plus:   Plus:
+     Ted Murphy  Jeff Skilling  Ken Lay
+     John Lavorato Rick Buy
+
+     
+Position    300 - 315 Bcf  315 - 330 Bcf  > 330 Bcf
+
+12 Month Rolling Position  350 - 367.5  367.5 - 385  > 385
+
+Value at Risk    $40 - 42 MM  $42 - 44 MM  > $44 MM
+
+
+In addition to the above policy requirements, Mark Frevert and Joe Sutton 
+have asked to be copied on all violation memos and loss notification memos.
+
+
+Loss notification memos are also required as follows:
+         Plus:
+     Skilling   Lay
+     Buy
+     Murphy
+     Lavorato
+
+Daily Loss    50% - 75% of VAR Limit  > 75% of VAR Limit  (VAR Limit = $40 MM)
+
+5-Day Cumulative Loss   75% - 100% of VAR Limit > VAR Limit
+
+
+Please call me if you have any questions.
+
+Mike
+x-35242
+
+From MAILER-DAEMON Mon Apr 18 14:23:50 2022
+Message-ID: <9198990.1075855881682.JavaMail.evans@thyme>
+Date: Mon, 12 Jun 2000 07:09:00 -0700 (PDT)
+From: michael.moscoso@enron.com
+To: stacey.white@enron.com, kristin.albrecht@enron.com, jenny.latham@enron.com,
+	john.postlethwaite@enron.com, dutch.quigley@enron.com,
+	william.kelly@enron.com, carrie.hollomon@enron.com,
+	steve.jackson@enron.com, brent.price@enron.com,
+	mark.fondren@enron.com, scott.earnest@enron.com,
+	susan.harrison@enron.com, brenda.herod@enron.com,
+	david.baumbach@enron.com, john.jacobsen@enron.com,
+	robert.richard@enron.com, timothy.norton@enron.com,
+	eric.groves@enron.com, matt.brown@enron.com
+Subject: NEW CURVE SETUP FORM
+Cc: gary.stadler@enron.com, chris.abel@enron.com, susan.trevino@enron.com,
+	bjorn.hagelmann@enron.com, sally.beck@enron.com,
+	shona.wilson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: gary.stadler@enron.com, chris.abel@enron.com, susan.trevino@enron.com,
+	bjorn.hagelmann@enron.com, sally.beck@enron.com,
+	shona.wilson@enron.com
+X-From: Michael E Moscoso
+X-To: Stacey W White, Kristin Albrecht, Jenny Latham, John D Postlethwaite, Dutch Quigley, William Kelly, Carrie Hollomon, Steve Jackson, Brent A Price, Mark Fondren, Scott Earnest, Susan Harrison, Brenda F Herod, David Baumbach, John Jacobsen, Robert Richard, Timothy M Norton, Eric Groves, Matt A Brown
+X-cc: Gary Stadler, Chris Abel, Susan D Trevino, Bjorn Hagelmann, Sally Beck, Shona Wilson
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Moscoso, mike
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Please see attached memo and "New Curve Setup Form" template.   
+
+Also, please forward to all Book Administrators.
+
+
+
+    
+
+Thanks,
+Mike
+
+From MAILER-DAEMON Mon Apr 18 14:23:50 2022
+Message-ID: <29917786.1075855881749.JavaMail.evans@thyme>
+Date: Thu, 8 Jun 2000 10:51:00 -0700 (PDT)
+From: michael.moscoso@enron.com
+To: sally.beck@enron.com
+Subject: Spreadsheets and other Data
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Michael E Moscoso
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Moscoso, mike
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+FYI.
+---------------------- Forwarded by Michael E Moscoso/HOU/ECT on 06/08/2000 
+05:50 PM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  Jeffrey C Gossett                           06/07/2000 05:26 PM
+	
+
+To: Michael E Moscoso/HOU/ECT@ECT
+cc: Brent A Price/HOU/ECT@ECT, Steve Jackson/HOU/ECT@ECT, Susan 
+Harrison/HOU/ECT@ECT, Sunil Dalal/Corp/Enron@ENRON, Vladimir 
+Gorny/HOU/ECT@ECT 
+Subject: Spreadsheets and other Data
+
+Spreadsheets :
+(in Quark)
+EES_Dublin
+NG_Opt
+Pipe_Opt_date
+Storage_opt_date
+
+All Transport models:
+East 
+West
+Central
+
+Manual Adjustments:
+Spreadsheets
+Fixed Price Canadian Deals
+Roll Off
+
+Let me know if you need anything further.
+
+Thanks
+
+JG
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:50 2022
+Message-ID: <15075995.1075855881770.JavaMail.evans@thyme>
+Date: Mon, 17 Apr 2000 06:27:00 -0700 (PDT)
+From: michael.moscoso@enron.com
+To: sally.beck@enron.com
+Subject: Re: Position in Risk Controls
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Michael E Moscoso
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Moscoso, mike
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Sally,
+
+This is the reply from Kevin Sweeney regarding our inquiry for a London 
+employee to fill our Liquids position in my group.
+
+Mike
+---------------------- Forwarded by Michael E Moscoso/HOU/ECT on 04/17/2000 
+01:20 PM ---------------------------
+
+
+Kevin Sweeney
+04/14/2000 01:53 PM
+To: Michael E Moscoso/HOU/ECT@ECT
+cc: Tani Nath/LON/ECT@ECT, Scott Earnest/HOU/ECT@ECT, Tim 
+Poullain-Patterson/LON/ECT@ECT 
+Subject: Re: Position in Risk Controls  
+
+Mike,
+
+The Global Products team met yesterday to discussing current staffing 
+issues.  We are going to be short London risk people with some of the current 
+changes that are taking place within the Global Products groups and really 
+wouldn't be able to consider someone until later this year maybe late Q4.
+
+Please let me know if I can be of further assistance.
+
+Kevin
+
+
+   
+	Enron Capital & Trade Resources Corp.
+	
+	From:  Michael E Moscoso                           04/14/2000 08:10 AM
+	
+
+To: Kevin Sweeney/HOU/ECT@ECT
+cc:  
+Subject: Re: Position in Risk Controls  
+
+Kevin,
+
+Any thoughts at this point?
+
+Mike
+
+
+
+Kevin Sweeney
+04/12/2000 01:21 PM
+To: Michael E Moscoso/HOU/ECT@ECT
+cc: Scott Earnest/HOU/ECT@ECT, Bjorn Hagelmann/HOU/ECT@ECT, Fernley 
+Dyson/LON/ECT@ECT 
+Subject: Re: Position in Risk Controls  
+
+Mike,
+
+Scott Earnest, Tani Nath, Tim Poullain-Patterson, and myself are having a 
+discussion around staffing tomorrow, and will discuss your proposal as a part 
+of that.
+
+I will let you know our thoughts post that meeting.
+
+Kevin
+
+
+
+
+
+
+

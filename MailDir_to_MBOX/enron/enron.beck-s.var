@@ -1,0 +1,1570 @@
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <26332249.1075855930258.JavaMail.evans@thyme>
+Date: Mon, 26 Jun 2000 06:40:00 -0700 (PDT)
+From: eugenio.perez@enron.com
+To: georgeanne.hodges@enron.com
+Subject: SEC VaR for May
+Cc: sally.beck@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sally.beck@enron.com
+X-From: Eugenio Perez
+X-To: Georgeanne Hodges
+X-cc: Sally Beck
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Var
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+I know that you do not need numbers until late next month, but I thought you 
+might want an early look at May.
+
+One number is particularly interesting: VaR for the Total Return Swaps.  You 
+will notice that it decreased substantially from about $20 million in March 
+to about $8 million in May.  We had several deals that expired (Churchill, 
+Piti Guam, and Blackbird), reducing risk,  and only one new one (Motown).  
+Most importantly, we cut back on our exposure to Rhythms from 5.4 million 
+shares in April to 4.7 million in May, and the stock price continued to fall 
+from $36 to $21 to $16 per share (the less the investment is worth, the less 
+we can lose in it).
+
+We will send you June numbers as we collect them.
+
+Regards,
+
+
+
+Eugenio
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <16707864.1075855930282.JavaMail.evans@thyme>
+Date: Mon, 26 Jun 2000 10:45:00 -0700 (PDT)
+From: mike.jordan@enron.com
+To: ted.murphy@enron.com
+Subject: Re: VAR FOR CREDIT TRADING
+Cc: sally.beck@enron.com, fernley.dyson@enron.com, bryan.seyfried@enron.com,
+	rick.buy@enron.com, richard.causey@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sally.beck@enron.com, fernley.dyson@enron.com, bryan.seyfried@enron.com,
+	rick.buy@enron.com, richard.causey@enron.com
+X-From: Mike Jordan
+X-To: Ted Murphy
+X-cc: Sally Beck, Fernley Dyson, Bryan Seyfried, Rick Buy, Richard Causey
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Var
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Ted
+
+Thanks for the note - coming from JPMorgan I understand the importance of VAR 
+as a key control measure and I appreciate that we may all need to do further 
+work to 'institutionalise' a VAR culture in Enron. However, in this instance, 
+I believe the initial comment has been taken out of context.
+
+I believe there is a general communication issue here. Since inception the 
+business has been monitoring risk via the use of a cumulative sensitivity 
+measure for the portfolio - expressed and reported as DV01on the daily DPR. 
+However, no-one in RAC/Commercial/Commercial Support appears to have formally 
+equated that sensitivity to the business VAR limit during the longer than 
+expected delay to the completion of a signed off VAR model. ( informally this 
+is being done )
+
+I would have expected the business to utilise a crude ( and possibly 
+necessarily overstated ) scaling factor based on the volatility of credit 
+spread movements in the market and for RAC to have signed off this scaling 
+factor. Bryan Seyfield and David Wall will propose this immediately.
+
+Finally, I believe both Commercial and Commercial Support for Credit Trading 
+are reprioritising the work being completed for the model for VAR reporting  
+- we should communicate the new delivery date as soon as possible.
+
+I look forward to discussing this and other RAC/Commercial Support interface 
+issues with you next week
+
+Regards
+
+Mike
+
+
+   
+
+
+From:  Ted Murphy                                                             
+26/06/2000 14:50	
+	
+	
+	                           
+	
+
+To: Sally Beck/HOU/ECT@ECT, Mike Jordan/LON/ECT@ECT, Fernley 
+Dyson/LON/ECT@ECT, Bryan Seyfried
+cc: Rick Buy, Richard Causey/Corp/Enron@ENRON 
+
+Subject: Re: VAR FOR CREDIT TRADING  
+
+Please see the attached comment at the bottom of this string of e-mails.
+
+The privilege of using Enron's balance sheet comes with the responsibility to 
+adequately report the risk in the form that has been agreed to.
+It is appalling to me that we are currently incapable of calculating VAR in a 
+product that has been approved for trading for several months.  It is equally 
+appalling that the support staff continues to be so unaware of the importance 
+of this that the comments below could even be considered reasonable.  
+Obviously, the individual who made the comment is hardly responsible.  It 
+lies with both commercial and commercial support management.  I know that 
+airing this out in such a broad way appears to be harsh.  This is not the 
+point.  This is not an isolated problem.  It is not just pertaining to 
+Europe. Please do not feel singled out.  But the scrutiny and pressure on VAR 
+as a measure of risk continues to grow at fast pace.  We can hardly make any 
+progress if this is the pervasive attitude.  Let's knock this stuff out one 
+at a time.
+Ted
+
+
+
+Oliver Gaylard
+06/26/2000 08:34 AM
+To: David Port/Market Risk/Corp/Enron@ENRON
+cc: Chris Abel/HOU/ECT@ECT, Michael E Moscoso/HOU/ECT@ECT, David A Wall/Risk 
+Mgmt/LON/ECT@ECT, Ted Murphy/HOU/ECT@ECT 
+Subject: Re: VAR FOR CREDIT TRADING  
+
+The VaR engine for credit trading is being built by Research in London and it 
+is intended that VaR be run daily as soon as they have produced/signed off on 
+this.
+
+Oliver
+
+
+   
+
+
+From:  David Port @ ENRON                                                     
+        26/06/2000 14:24	
+	
+	
+	                           
+	
+
+To: Chris Abel/HOU/ECT@ECT
+cc: Michael E Moscoso/HOU/ECT@ECT, David A Wall/Risk Mgmt/LON/ECT@ECT, Oliver 
+Gaylard/LON/ECT@ECT, Ted Murphy/HOU/ECT@ECT 
+
+Subject: Re: VAR FOR CREDIT TRADING  
+
+My view : Prove its insignificant by calculating it every day, that's why the 
+board approved the limit.
+
+DP
+
+
+
+Chris Abel@ECT
+06/23/2000 07:41 AM
+To: David Port/Market Risk/Corp/Enron@ENRON
+cc: Michael E Moscoso/HOU/ECT@ECT 
+
+Subject: VAR FOR CREDIT TRADING
+
+FYI
+---------------------- Forwarded by Chris Abel/HOU/ECT on 06/23/2000 07:38 AM 
+---------------------------
+
+
+Mary Thambiah
+06/23/2000 03:29 AM
+To: Chris Abel/HOU/ECT@ECT
+cc: David A Wall/Risk Mgmt/LON/ECT@ECT 
+Subject: VAR FOR CREDIT TRADING
+
+Hi Chris
+
+I talked with David yesterday and we don't think the risk is significant 
+enough to start calculating a VAR number.  However if you have any queries 
+feel free to give him a call.
+
+
+Rgds
+Mary
+
+
+
+
+
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <16869196.1075855930035.JavaMail.evans@thyme>
+Date: Mon, 23 Oct 2000 08:27:00 -0700 (PDT)
+From: jeffrey.shankman@enron.com
+To: christian.lebroc@enron.com
+Subject: Re: Liquids Limits Oct. 20
+Cc: brent.price@enron.com, sally.beck@enron.com, john.nowlan@enron.com,
+	scott.earnest@enron.com, bjorn.hagelmann@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: brent.price@enron.com, sally.beck@enron.com, john.nowlan@enron.com,
+	scott.earnest@enron.com, bjorn.hagelmann@enron.com
+X-From: Jeffrey A Shankman
+X-To: Christian LeBroc
+X-cc: Brent A Price, Sally Beck, John L Nowlan, Scott Earnest, Bjorn Hagelmann
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Var
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Why did I not get this until 12:41?
+
+
+   
+	
+	
+	From:  Christian LeBroc @ ENRON                           10/23/2000 12:41 PM
+	
+
+To: Hugo Moreira/LON/ECT@ECT, David J Botchlett/HOU/ECT@ECT, John L 
+Nowlan/HOU/ECT@ECT, John Chismar/SIN/ECT@ECT, John Buckner 
+Thomas/SIN/ECT@ECT, Scott Earnest/HOU/ECT@ECT, Risk Controls@ECT, Mary 
+Thambiah/LON/ECT@ECT, Oliver Gaylard/LON/ECT@ECT, Bjorn 
+Hagelmann/HOU/ECT@ECT, Manfred Roenz/Corp/Enron@Enron, Lee 
+Jackson/HOU/ECT@ECT, Homan Amiry/LON/ECT@ECT, Mark Fondren/HOU/ECT@ECT, John 
+Swinney/HOU/ECT@ECT, Jeffrey A Shankman/HOU/ECT@ECT, Cindy Horn/LON/ECT@ECT, 
+Michelle Bruce/HOU/ECT@ECT
+cc:  
+Subject: Liquids Limits Oct. 20
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <24311194.1075855930474.JavaMail.evans@thyme>
+Date: Wed, 8 Mar 2000 08:12:00 -0800 (PST)
+From: sheila.glover@enron.com
+To: sally.beck@enron.com
+Subject: Equity VAr...
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Sheila Glover
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Var
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Sally,
+fyi....
+Interesting stuff... 
+Sheila
+---------------------- Forwarded by Sheila Glover/HOU/ECT on 03/08/2000 04:09 
+PM ---------------------------
+   
+	
+	
+	From:  Sheila Glover                           03/08/2000 04:07 PM
+	
+
+To: Samantha T Davidson/HOU/ECT@ECT
+cc:  
+Subject: 
+
+Sam,
+copy sent to risk controls.. sheila
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <4878739.1075855930343.JavaMail.evans@thyme>
+Date: Wed, 21 Jun 2000 03:58:00 -0700 (PDT)
+From: tim.o'rourke@enron.com
+To: sally.beck@enron.com
+Subject: VAR course outline:
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Tim O'Rourke
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Var
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Sally,
+overview of programme elements as requested. Let me know if you have any 
+questions or want further details.
+
+Tim
+
+VALUE AT RISK
+
+The Value at Risk (VaR) seminar is designed to introduce participants to this 
+important concept.  An understanding of VaR is rapidly becoming an integral 
+business need.  The first session of this seminar provides participants with 
+a comprehensive review of statistics, these being the primary building block 
+of VaR itself.  The program then moves on to identify examples of the context 
+in which clients are using VaR in their business decisions.  Participants 
+will gain an understanding of the interrelationship of the many factors that 
+make VaR a dynamic and strategic tool.  The program ends with a "hands on" 
+experience of making a simple VaR calculation.
+
+Participants attending this seminar will be able to:
+
+Give a precise definition of Value at Risk
+Describe how VaR is changing the way companies evaluate risk in their 
+businesses
+Discuss how these changing views of risk will impact the use of hedging  
+products
+Recognize why companies are implementing VaR
+Explain the key factors in calculating VaR
+Understand the need to categorize risk into "Risk Buckets"
+Define the standardizing practice of Risk Mapping
+Illustrate a simple VaR model and accurately discuss the modeling         
+process
+Calculate a simple two product VaR number
+Demonstrate the difference between the Historical, Monte Carlo and Risk 
+Metrics  approaches to VaR
+Evaluate the impact of correlation on the calculation of VaR
+Understand the application and importance of stress testing
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <9663135.1075855930386.JavaMail.evans@thyme>
+Date: Tue, 20 Jun 2000 10:36:00 -0700 (PDT)
+From: tim.o'rourke@enron.com
+To: sally.beck@enron.com
+Subject: Re: VAR training
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Tim O'Rourke
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Var
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Sally,
+I understand your comments.
+
+I'll get you an outline of the programme and I'll also see if I can create 
+some other options for you.
+I'll provisionally book the suppliers in case you've got over your irritation 
+by September - so we don't lose those dates.
+
+Tim
+
+
+   
+	
+	
+	From:  Sally Beck @ ECT                           06/20/2000 04:16 PM
+	
+
+To: Tim O'Rourke/Corp/Enron@ENRON
+cc:  
+
+Subject: Re: VAR training  
+
+Thanks for your front-end research on this.  It's too bad that the training 
+provider can't be as responsive!  In a trading organization, 2 to 3 months is 
+an eternity.  Sounds as if they are inflexible as well.  Our audience for 
+this training would be risk book adminstrators and traders, so 2 days away 
+from the desk is not very workable either.  
+
+After I get over my irritation at timing and inflexibility, I may want to 
+book them for September, although with a much smaller audience than would be 
+desireable if they insist on sticking to their 2 day method of delivery.    
+Could I get an outline of their 2 day course to review in order to make this 
+decision?  Thanks.  --Sally 
+
+
+
+Tim O'Rourke@ENRON
+06/19/2000 04:11 PM
+To: Sally Beck/HOU/ECT@ECT
+cc:  
+Subject: VAR training
+
+Sally,
+Angela Sprock forwarded your VM to me regarding the VAR training that you 
+were looking to set up for your group.
+
+I've taken the liberty of getting in touch with the suppliers to talk to them 
+about the request and their availability. As well as discussing putting on 
+the 2 day course solely for you group, I also discussed with them the 
+possibility of breaking it up and delivering it in shorter  modules. Although 
+they considered this, they are insistent that the course structure, the 
+activities and the content lend themselves better to the 2 day format. 
+They are a very busy company, in much demand both within Enron and other 
+companies. Their earliest available dates are: September 14-15, and September 
+21-22.
+
+Alternatively, they have more flexibility on dates later in the year (October 
+onwards - but that may be less of a fit).
+
+How does this fit with your group?
+Let me know if you want to discuss this further
+
+Tim
+36698
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <713924.1075855930123.JavaMail.evans@thyme>
+Date: Tue, 29 Aug 2000 10:40:00 -0700 (PDT)
+From: daniel.falcone@enron.com
+To: sally.beck@enron.com, john.lavorato@enron.com, john.sherriff@enron.com,
+	jeffrey.shankman@enron.com, mark.frevert@enron.com,
+	shona.wilson@enron.com, rick.buy@enron.com, ted.murphy@enron.com
+Subject: VaR Limit Usage Graphs
+Cc: michael.moscoso@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: michael.moscoso@enron.com
+X-From: Daniel Falcone
+X-To: Sally Beck, John J Lavorato, John Sherriff, Jeffrey A Shankman, Mark Frevert, Shona Wilson, Rick Buy, Ted Murphy
+X-cc: Michael E Moscoso
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Var
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+We are having complications when trying to post to the website.  Hopefully 
+tomorrow the webmasters will be able to help us to fix this problem.
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <11664042.1075855930571.JavaMail.evans@thyme>
+Date: Tue, 25 Jan 2000 07:08:00 -0800 (PST)
+From: georgeanne.hodges@enron.com
+To: michael.moscoso@enron.com, eugenio.perez@enron.com, michael.kim@enron.com,
+	gail.tholen@enron.com, jill.erwin@enron.com
+Subject: Open items for VAR disclosure
+Cc: bob.shults@enron.com, jan.johnson@enron.com, jennifer.stevenson@enron.com,
+	derek.claybrook@enron.com, faith.killen@enron.com,
+	terri.harlan@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: bob.shults@enron.com, jan.johnson@enron.com, jennifer.stevenson@enron.com,
+	derek.claybrook@enron.com, faith.killen@enron.com,
+	terri.harlan@enron.com
+X-From: Georgeanne Hodges
+X-To: Michael E Moscoso, Eugenio Perez, Michael Kim, Gail Tholen, Jill Erwin
+X-cc: Bob Shults, Sally Beck@ECT, Jan Johnson, Jennifer Stevenson, Derek Claybrook, Faith Killen, Terri Harlan
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Var
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+>From my review of Eugenio's consolidated VAR spreadsheet, the following 
+listed items are those that are open that we           need information from 
+you on.  I will send a separate email that will address ECM,PGE and affiliate 
+information.  Corp. is looking to type the first draft of the Annual Report 
+(to be discussed with the Audit Committee) THIS FRIDAY, so we need your help 
+with this information as soon as possible.  If you will not be able to have 
+all of the information to Eugenio by Thursday night, please let me know.  We 
+may be able to give you some additional time to gather some of the smaller 
+pieces.   If you need to forward this on to others, please do so.
+
+AA if you know of any other issues of completeness that I have not addressed, 
+please let Eugenio and I know!
+
+*Why is Agg_ECT and Agg_ INDEX not available for January 1999?
+*Is Cuiba in ESA's Nos.  Is it gas or power?  What month was it first 
+included? Is that the trade month?
+*When did Australia first have substantial activity?  For some reason, the 
+spreadsheet has a June number, no July or August,      then September - 
+December.  If the first half of the year has material activity, we need to 
+get it from them.
+*Has the Merrill peaker transaction been calculated yet (it was not 
+originally in theDPR)?  We definitely have to have that for the Dec. number.
+*Where is EES gas?  Is it in the AGG_ECT?  
+*When did Kinneman's debt activity start?  The first VAR that we have is 
+September.  Did it start earlier?
+*Did ET&S first have financial hedges in May, that is the first number that 
+we have?  Who should I talk to there?
+*Is the June and September Rhythms number different that what we originally 
+calculated for the second and third quarter?  June must be as I recall it was 
+excluded at the time vs. the $24MM now showing.  Are the differences 
+primarily due to the 100%+ volatility versus the 60%+ number that Stinson 
+originally gave you? Have you asked him why he gave you what he did?  Please 
+get Jill Erwin to help you revise the December number for Ghost.
+*There is lots of missing numbers for Total Return Swaps.  Eugenio and Gail 
+Tholen to determine which swaps were in place in which months of 1999 and run 
+the appropriate models.  If different models will need to be used in 
+different periods of the year for the same swap, lets get that information 
+out to AA and Jan.
+
+
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <29219576.1075855930452.JavaMail.evans@thyme>
+Date: Thu, 9 Mar 2000 00:14:00 -0800 (PST)
+From: sheila.glover@enron.com
+To: sally.beck@enron.com
+Subject: Backtesting Graphs for SemiVariance VaR
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Sheila Glover
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Var
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+fyi...
+
+---------------------- Forwarded by Sheila Glover/HOU/ECT on 03/09/2000 08:11 
+AM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  Samantha T Davidson                           03/08/2000 09:07 PM
+	
+
+To: Ted Murphy/HOU/ECT@ECT, David Port/Corp/Enron@ENRON
+cc: Tanya Tamarchenko/HOU/ECT@ECT, Sheila Glover/HOU/ECT@ECT, William Patrick 
+Lewis/HOU/ECT@ECT, Mike Fowler/Corp/Enron@ENRON 
+Subject: Backtesting Graphs for SemiVariance VaR
+
+
+Per your request, please review the graphs below for comparision of 
+backtesting results between the current VaR model and the same model
+using semivariance.  In conclusion, the proposed VaR tuning (RLPM)
+backtests as well as the current method given the data sample used.
+Gary has requested that this method be approved and adopted 
+as the current method is not reflecting only the directional risk associated
+with his positions.  Upon approval, method can be implemented immediately.
+
+
+In Thousands:
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <22447657.1075849860679.JavaMail.evans@thyme>
+Date: Thu, 8 Feb 2001 09:37:00 -0800 (PST)
+From: adarsh.vakharia@enron.com
+To: georgeanne.hodges@enron.com, jan.johnson@enron.com, sally.beck@enron.com,
+	cassandra.schultz@enron.com, shona.wilson@enron.com,
+	gary.peng@enron.com, jennifer.nguyen@enron.com,
+	tatiana.waxler@enron.com, hope.vargas@enron.com
+Subject: SEC VaR
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Adarsh Vakharia
+X-To: Georgeanne Hodges, Jan Johnson, Sally Beck, Cassandra Schultz, Shona Wilson, Gary Peng, Jennifer Nguyen, Tatiana Waxler, Hope Vargas
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Var
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Georgeanne told Eugenio about another Enron stock swap.  This one is very 
+large, with an exposure to 12 million shares (though it is a little hedged by 
+the Phantom swap).  As a result, the VaR for non-trading securities increased 
+from an average $6 to $39 million.
+
+We also recalculated Merchant Asset VaR.
+
+Regards,
+
+
+
+Adarsh and Eugenio
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <2361377.1075855930236.JavaMail.evans@thyme>
+Date: Tue, 11 Jul 2000 07:49:00 -0700 (PDT)
+From: tim.o'rourke@enron.com
+To: sally.beck@enron.com
+Subject: VaR training
+Cc: patti.thompson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: patti.thompson@enron.com
+X-From: Tim O'Rourke
+X-To: Sally Beck
+X-cc: Patti Thompson
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Var
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Sally,
+I've booked the company to do the 2-3rd August. If its OK with you, I'll get 
+some time in your diary to discuss with you who you want to attend this and 
+the structure and content of these days to see how we can maximise the value 
+from this session.
+
+Tim
+
+Patti - could you schedule me 30 minutes with Sally please early in w/c 7/17? 
+Thanks
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <9691490.1075855930546.JavaMail.evans@thyme>
+Date: Tue, 25 Jan 2000 07:25:00 -0800 (PST)
+From: georgeanne.hodges@enron.com
+To: jill.erwin@enron.com, steve.ross@enron.com, jeff.nogid@enron.com,
+	eugenio.perez@enron.com, tony.harris@enron.com
+Subject: Annual Report VAR Disclosures - open items
+Cc: jan.johnson@enron.com, bob.shults@enron.com, jennifer.stevenson@enron.com,
+	derek.claybrook@enron.com, faith.killen@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jan.johnson@enron.com, bob.shults@enron.com, jennifer.stevenson@enron.com,
+	derek.claybrook@enron.com, faith.killen@enron.com
+X-From: Georgeanne Hodges
+X-To: Jill Erwin, Steve Ross, Jeff Nogid, Eugenio Perez, Tony Harris
+X-cc: Jan Johnson, Bob Shults, Sally Beck@ECT, Jennifer Stevenson, Derek Claybrook, Faith Killen
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Var
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+This is Part II of the open items on VAR, addressing ECM, PGE & affiliate 
+books
+
+>From my review of Eugenio's consolidated VAR spreadsheet, the following 
+listed items are those that are open that we           need information from 
+you on.   Corp. is looking to type the first draft of the Annual Report (to 
+be discussed with the Audit Committee) THIS FRIDAY, so we need your help with 
+this information as soon as possible.  If you will not be able to have all of 
+the information to Eugenio by Thursday night, please let me know.  We may be 
+able to give you some additional time to gather some of the smaller pieces.   
+If you need to forward this on to others, please do so.
+
+AA if you know of any other issues of completeness that I have not addressed, 
+please let Eugenio and I know!
+
+
+*Have AA and Jan Johnson concluded that we only need to include the puts on 
+the Enron stock?  If so we need all twelve months of comparable data as 
+applicable.
+
+*Are the swaps shown on the ECM FN3 schedule for the phantom stock plan the 
+puts that we have been talking about?  If not do these swaps need to be 
+included in VAR and the non-trading portion of FN3?  I haven't seen them 
+before.
+
+*What is Yosemite?  Is it a TRS that I need to include in VAR and FN3?
+
+*For non-trading I\R and F\X, we are still missing all non-quarter end months.
+
+*PGE - January,February and March VAR is missing on Eugenio's schedule.
+
+*What month was the EOG sale effective?  We need commodity affiliate for all 
+of the non-quarter end months prior to the sale.
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <29534573.1075855930000.JavaMail.evans@thyme>
+Date: Mon, 23 Oct 2000 09:08:00 -0700 (PDT)
+From: christian.lebroc@enron.com
+To: jeffrey.shankman@enron.com
+Subject: Re: Liquids Limits Oct. 20
+Cc: brent.price@enron.com, sally.beck@enron.com, john.nowlan@enron.com,
+	scott.earnest@enron.com, bjorn.hagelmann@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: brent.price@enron.com, sally.beck@enron.com, john.nowlan@enron.com,
+	scott.earnest@enron.com, bjorn.hagelmann@enron.com
+X-From: Christian LeBroc
+X-To: Jeffrey A Shankman
+X-cc: Brent A Price, Sally Beck, John L Nowlan, Scott Earnest, Bjorn Hagelmann
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Var
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Risk Ops. had problems loading the ERAC crude options spreadsheet  and VaR 
+had to be recalc. twice to confirm the $12.7MM violation.  Furthermore, we 
+had to scrub and confirm all positions with risk ops. before limits report 
+can be published.    
+
+Christian
+
+
+
+
+Jeffrey A Shankman@ECT
+10/23/2000 03:27 PM
+To: Christian LeBroc/Corp/Enron@ENRON
+cc: Brent A Price/HOU/ECT@ECT, Sally Beck/HOU/ECT@ECT, John L 
+Nowlan/HOU/ECT@ECT, Scott Earnest/HOU/ECT@ECT, Bjorn Hagelmann/HOU/ECT@ECT 
+
+Subject: Re: Liquids Limits Oct. 20  
+
+Why did I not get this until 12:41?
+
+
+   
+	
+	
+	From:  Christian LeBroc @ ENRON                           10/23/2000 12:41 PM
+	
+
+To: Hugo Moreira/LON/ECT@ECT, David J Botchlett/HOU/ECT@ECT, John L 
+Nowlan/HOU/ECT@ECT, John Chismar/SIN/ECT@ECT, John Buckner 
+Thomas/SIN/ECT@ECT, Scott Earnest/HOU/ECT@ECT, Risk Controls@ECT, Mary 
+Thambiah/LON/ECT@ECT, Oliver Gaylard/LON/ECT@ECT, Bjorn 
+Hagelmann/HOU/ECT@ECT, Manfred Roenz/Corp/Enron@Enron, Lee 
+Jackson/HOU/ECT@ECT, Homan Amiry/LON/ECT@ECT, Mark Fondren/HOU/ECT@ECT, John 
+Swinney/HOU/ECT@ECT, Jeffrey A Shankman/HOU/ECT@ECT, Cindy Horn/LON/ECT@ECT, 
+Michelle Bruce/HOU/ECT@ECT
+cc:  
+Subject: Liquids Limits Oct. 20
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <4874371.1075855930407.JavaMail.evans@thyme>
+Date: Mon, 19 Jun 2000 09:11:00 -0700 (PDT)
+From: tim.o'rourke@enron.com
+To: sally.beck@enron.com
+Subject: VAR training
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Tim O'Rourke
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Var
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Sally,
+Angela Sprock forwarded your VM to me regarding the VAR training that you 
+were looking to set up for your group.
+
+I've taken the liberty of getting in touch with the suppliers to talk to them 
+about the request and their availability. As well as discussing putting on 
+the 2 day course solely for you group, I also discussed with them the 
+possibility of breaking it up and delivering it in shorter  modules. Although 
+they considered this, they are insistent that the course structure, the 
+activities and the content lend themselves better to the 2 day format. 
+They are a very busy company, in much demand both within Enron and other 
+companies. Their earliest available dates are: September 14-15, and September 
+21-22.
+
+Alternatively, they have more flexibility on dates later in the year (October 
+onwards - but that may be less of a fit).
+
+How does this fit with your group?
+Let me know if you want to discuss this further
+
+Tim
+36698
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <25306316.1075849860702.JavaMail.evans@thyme>
+Date: Fri, 19 Jan 2001 02:16:00 -0800 (PST)
+From: kevin.presto@enron.com
+To: sally.beck@enron.com
+Subject: VAR Calcs.
+Cc: stacey.white@enron.com, jenny.latham@enron.com, vladimir.gorny@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stacey.white@enron.com, jenny.latham@enron.com, vladimir.gorny@enron.com
+X-From: Kevin M Presto
+X-To: Sally Beck
+X-cc: Stacey W White, Jenny Latham, Vladimir Gorny
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Var
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Could you please ensure that sufficient resources are dedicated to fixing the 
+current VAR calculation problem as soon as possible.   Jenny, Stacey, and 
+Vlady  are spending a significant amount of time trying to repair the VAR 
+calc model, which is outside the scope of what we originally discussed in our 
+meeting several weeks ago.
+
+Your attention to get quick resolution to this issue would be greatly 
+appreciated.
+
+Thanks Sally.
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <25592856.1075855930305.JavaMail.evans@thyme>
+Date: Mon, 26 Jun 2000 01:50:00 -0700 (PDT)
+From: ted.murphy@enron.com
+To: sally.beck@enron.com, mike.jordan@enron.com, fernley.dyson@enron.com,
+	bryan.seyfried@enron.com
+Subject: Re: VAR FOR CREDIT TRADING
+Cc: rick.buy@enron.com, richard.causey@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: rick.buy@enron.com, richard.causey@enron.com
+X-From: Ted Murphy
+X-To: Sally Beck, Mike Jordan, Fernley Dyson, Bryan Seyfried
+X-cc: Rick Buy, Richard Causey
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Var
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Please see the attached comment at the bottom of this string of e-mails.
+
+The privilege of using Enron's balance sheet comes with the responsibility to 
+adequately report the risk in the form that has been agreed to.
+It is appalling to me that we are currently incapable of calculating VAR in a 
+product that has been approved for trading for several months.  It is equally 
+appalling that the support staff continues to be so unaware of the importance 
+of this that the comments below could even be considered reasonable.  
+Obviously, the individual who made the comment is hardly responsible.  It 
+lies with both commercial and commercial support management.  I know that 
+airing this out in such a broad way appears to be harsh.  This is not the 
+point.  This is not an isolated problem.  It is not just pertaining to 
+Europe. Please do not feel singled out.  But the scrutiny and pressure on VAR 
+as a measure of risk continues to grow at fast pace.  We can hardly make any 
+progress if this is the pervasive attitude.  Let's knock this stuff out one 
+at a time.
+Ted
+
+
+
+
+Oliver Gaylard
+06/26/2000 08:34 AM
+To: David Port/Market Risk/Corp/Enron@ENRON
+cc: Chris Abel/HOU/ECT@ECT, Michael E Moscoso/HOU/ECT@ECT, David A Wall/Risk 
+Mgmt/LON/ECT@ECT, Ted Murphy/HOU/ECT@ECT 
+Subject: Re: VAR FOR CREDIT TRADING  
+
+The VaR engine for credit trading is being built by Research in London and it 
+is intended that VaR be run daily as soon as they have produced/signed off on 
+this.
+
+Oliver
+
+
+   
+
+
+From:  David Port @ ENRON                                                     
+        26/06/2000 14:24	
+	
+	
+	                           
+	
+
+To: Chris Abel/HOU/ECT@ECT
+cc: Michael E Moscoso/HOU/ECT@ECT, David A Wall/Risk Mgmt/LON/ECT@ECT, Oliver 
+Gaylard/LON/ECT@ECT, Ted Murphy/HOU/ECT@ECT 
+
+Subject: Re: VAR FOR CREDIT TRADING  
+
+My view : Prove its insignificant by calculating it every day, that's why the 
+board approved the limit.
+
+DP
+
+
+
+Chris Abel@ECT
+06/23/2000 07:41 AM
+To: David Port/Market Risk/Corp/Enron@ENRON
+cc: Michael E Moscoso/HOU/ECT@ECT 
+
+Subject: VAR FOR CREDIT TRADING
+
+FYI
+---------------------- Forwarded by Chris Abel/HOU/ECT on 06/23/2000 07:38 AM 
+---------------------------
+
+
+Mary Thambiah
+06/23/2000 03:29 AM
+To: Chris Abel/HOU/ECT@ECT
+cc: David A Wall/Risk Mgmt/LON/ECT@ECT 
+Subject: VAR FOR CREDIT TRADING
+
+Hi Chris
+
+I talked with David yesterday and we don't think the risk is significant 
+enough to start calculating a VAR number.  However if you have any queries 
+feel free to give him a call.
+
+
+Rgds
+Mary
+
+
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <17201204.1075855930431.JavaMail.evans@thyme>
+Date: Fri, 14 Apr 2000 09:53:00 -0700 (PDT)
+From: gary.stadler@enron.com
+To: sally.beck@enron.com, rick.buy@enron.com, wes.colwell@enron.com,
+	ted.murphy@enron.com, greg.whalley@enron.com
+Subject: March Curve Validation Memorandum
+Cc: michael.moscoso@enron.com, bjorn.hagelmann@enron.com,
+	vladimir.gorny@enron.com, rudi.zipter@enron.com,
+	frank.hayden@enron.com, rebecca.phillips@enron.com,
+	minal.dalia@enron.com, benjamin.freeman@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: michael.moscoso@enron.com, bjorn.hagelmann@enron.com,
+	vladimir.gorny@enron.com, rudi.zipter@enron.com,
+	frank.hayden@enron.com, rebecca.phillips@enron.com,
+	minal.dalia@enron.com, benjamin.freeman@enron.com
+X-From: Gary Stadler
+X-To: Sally Beck, Rick Buy, Wes Colwell, Ted Murphy, Greg Whalley
+X-cc: Michael E Moscoso, Bjorn Hagelmann, Vladimir Gorny, Rudi Zipter, Frank Hayden, Rebecca Phillips, Minal Dalia, Benjamin Freeman
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Var
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Attached please find March's curve validation memorandum.
+
+Please call if you have any questions.
+
+Gary Stadler
+X35502
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <881013.1075855930522.JavaMail.evans@thyme>
+Date: Tue, 25 Jan 2000 09:23:00 -0800 (PST)
+From: jill.erwin@enron.com
+To: georgeanne.hodges@enron.com
+Subject: Re: Annual Report VAR Disclosures - open items
+Cc: steve.ross@enron.com, jeff.nogid@enron.com, eugenio.perez@enron.com,
+	tony.harris@enron.com, jan.johnson@enron.com, bob.shults@enron.com,
+	jennifer.stevenson@enron.com, derek.claybrook@enron.com,
+	faith.killen@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: steve.ross@enron.com, jeff.nogid@enron.com, eugenio.perez@enron.com,
+	tony.harris@enron.com, jan.johnson@enron.com, bob.shults@enron.com,
+	jennifer.stevenson@enron.com, derek.claybrook@enron.com,
+	faith.killen@enron.com
+X-From: Jill Erwin
+X-To: Georgeanne Hodges
+X-cc: Steve Ross, Jeff Nogid, Eugenio Perez, Tony Harris, Jan Johnson, Bob Shults, Sally Beck@ECT, Jennifer Stevenson, Derek Claybrook, Faith Killen
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Var
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+See colored notes below.
+
+
+   
+	
+	
+	From:  Georgeanne Hodges                           01/25/2000 03:25 PM
+	
+
+To: Jill Erwin/HOU/ECT@ECT, Steve Ross/HOU/ECT@ECT, Jeff Nogid/HOU/ECT@ECT, 
+Eugenio Perez/HOU/ECT@ECT, Tony Harris/HOU/ECT@ECT
+cc: Jan Johnson/GPGFIN/Enron@ENRON, Bob Shults/HOU/ECT@ECT, Sally Beck@ECT, 
+Jennifer Stevenson/AA/Corp/Enron@Enron, Derek Claybrook/AA/Corp/Enron@Enron, 
+Faith Killen/HOU/ECT@ECT 
+Subject: Annual Report VAR Disclosures - open items
+
+This is Part II of the open items on VAR, addressing ECM, PGE & affiliate 
+books
+
+>From my review of Eugenio's consolidated VAR spreadsheet, the following 
+listed items are those that are open that we           need information from 
+you on.   Corp. is looking to type the first draft of the Annual Report (to 
+be discussed with the Audit Committee) THIS FRIDAY, so we need your help with 
+this information as soon as possible.  If you will not be able to have all of 
+the information to Eugenio by Thursday night, please let me know.  We may be 
+able to give you some additional time to gather some of the smaller pieces.   
+If you need to forward this on to others, please do so.
+
+AA if you know of any other issues of completeness that I have not addressed, 
+please let Eugenio and I know! 
+
+
+*Have AA and Jan Johnson concluded that we only need to include the puts on 
+the Enron stock?  If so we need all twelve months of comparable data as 
+applicable.    Steve Ross sent to Eugenio on Monday (yesterday).  Let him 
+know if he needs to re-send it.
+
+*Are the swaps shown on the ECM FN3 schedule for the phantom stock plan the 
+puts that we have been talking about?  If not do these swaps need to be 
+included in VAR and the non-trading portion of FN3?  I haven't seen them 
+before.   These are new puts.  I checked with Jan.  She said to include the 
+positions as non-trading equity.  The trades were both done in November by 
+Gary Hickerson's group.  Be sure he hasn't included them in his numbers.  
+We'll get the VaR for November and December to you on Wednesday.  (Steve, 
+this is yours).  
+
+*What is Yosemite?  Is it a TRS that I need to include in VAR and FN3?  
+Internally we call it a swap but in the legal document it is called an 
+Agreement.  It's actually more of a guarantee.  I talked to Jan about it and 
+we don't think it goes in FN3. 
+
+*For non-trading I\R and F\X, we are still missing all non-quarter end 
+months.    Jeff, this ones yours.  We need to send the information to 
+Research and have them run the VaR monthly in 2000 also.
+
+*PGE - January,February and March VAR is missing on Eugenio's schedule.  I 
+don't have a clue what PGE's information is.  I only know about Rhythms which 
+is in a separate section.  You'll have to ask PGE.
+
+*What month was the EOG sale effective?  We need commodity affiliate for all 
+of the non-quarter end months prior to the sale.  The sale took place August 
+16.  I have never even heard of any EOG commodity affiliate position.  I was 
+told Greg Adams handled these at one point.  I'll ask him tomorrow.
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <19191577.1075855930056.JavaMail.evans@thyme>
+Date: Tue, 19 Sep 2000 01:07:00 -0700 (PDT)
+From: james.scribner@enron.com
+To: sally.beck@enron.com
+Subject: VAR Training Assessment
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: James Scribner
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Var
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Attached is my quick assessment of the VAR training.
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <23490873.1075855930364.JavaMail.evans@thyme>
+Date: Wed, 21 Jun 2000 02:43:00 -0700 (PDT)
+From: michael.moscoso@enron.com
+To: sally.beck@enron.com, shona.wilson@enron.com
+Subject: NG Meeting
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Michael E Moscoso
+X-To: Sally Beck, Shona Wilson
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Var
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+FYI.
+
+MM
+---------------------- Forwarded by Michael E Moscoso/HOU/ECT on 06/21/2000 
+09:42 AM ---------------------------
+   
+	
+	
+	From:  Vladimir Gorny                           06/21/2000 09:15 AM
+	
+
+To: Steve Jackson/HOU/ECT@ECT, Michael E Moscoso/HOU/ECT@ECT, Tanya 
+Tamarchenko/HOU/ECT@ECT, Steve Scott/Enron@Gateway
+cc:  
+Subject: NG Meeting
+
+Below is a draft of the status update for the meeting today. Please feel free 
+to comment. Vlady.
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <10357654.1075855930101.JavaMail.evans@thyme>
+Date: Thu, 31 Aug 2000 09:21:00 -0700 (PDT)
+From: michael.moscoso@enron.com
+To: patti.thompson@enron.com
+Subject: Re: V@R training Sign-up list & misc info
+Cc: sally.beck@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sally.beck@enron.com
+X-From: Michael E Moscoso
+X-To: Patti Thompson
+X-cc: Sally Beck
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Var
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+The following comes to mind:
+
+Describe the inputs to VAR and the sources of the inputs
+Discuss Enron's timing of running the VAR calculation
+Explain the diversification effect
+Explain that only Officialized books are included in the VAR calculation
+Explain how Enron uses the VAR for risk measurement, portfolio performance 
+analysis, individual trader analysis
+Address Risk Policy limits related to VAR
+A comparison of Enron's risk appetite, measured in VAR, vs. other financial 
+companies would be interesting
+How does Enron'e use of VAR as a risk measurement tool compare with our 
+competitors?
+Explain why the VAR engine would have different positions than our benchmark 
+reports.
+Discuss Component VAR
+Discuss useful analyses Enron can implement utilizing VAR (Sharpe ratio, VAR 
+efficiency, etc.)
+
+Hope this helps,
+Mike
+
+
+   
+	Enron North America Corp.
+	
+	From:  Patti Thompson                           08/31/2000 04:11 PM
+	
+
+To: Michael E Moscoso/HOU/ECT@ECT
+cc:  
+Subject: V@R training Sign-up list & misc info
+
+Last chance for imput for V@R classes...
+
+I'm bothering you about this because it seems to me that you are the one who 
+is so intimately involved w/ V@R and would understand possibilities here..
+
+Thanks,
+PT
+---------------------- Forwarded by Patti Thompson/HOU/ECT on 08/31/2000 
+04:09 PM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  Patti Thompson                           08/31/2000 04:05 PM
+	
+
+To: Gracie S Presas/HOU/ECT@ECT
+cc: Tim O'Rourke/Corp/Enron@Enron 
+Subject: V@R training Sign-up list & misc info
+
+Gracie,
+
+I have attached sign-up list.  Please order materials & make whatever 
+arrangements are necessary for both classes.   We have 24 signed up for 
+9/14-15 session & 22 signed up for 9/21-22 session.  I asked for comments on 
+how to tailor class to our particular area & only got 1 response:
+
+Give an overview of the information flow between systems to generate V@R  
+(ERMS, Enpower, GRMS, CAS, spreadsheets).  I don't think that everyone has a 
+good idea of how/where all the information comes from to run V@R on a nightly 
+basis.  Where does information come from. What information is passed to V@R.  
+How to determine underlying positions are correct.  How to troubleshoot when 
+V@R looks wrong.   
+
+Sally's cost codes are:
+Company #:  0413
+Cost Center #: 105588
+
+Please let me know what else you need from me.
+
+Thanks for your help,
+Patti x39106
+
+ 
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <20002630.1075855930147.JavaMail.evans@thyme>
+Date: Mon, 28 Aug 2000 10:13:00 -0700 (PDT)
+From: michael.benien@enron.com
+To: john.lavorato@enron.com, john.sherriff@enron.com, jeffrey.shankman@enron.com,
+	ted.murphy@enron.com, mark.frevert@enron.com, rick.buy@enron.com,
+	sally.beck@enron.com, shona.wilson@enron.com
+Subject: VAR Limit Usage 8/25/00
+Cc: michael.moscoso@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: michael.moscoso@enron.com
+X-From: Michael Benien
+X-To: John J Lavorato, John Sherriff, Jeffrey A Shankman, Ted Murphy, Mark Frevert, Rick Buy, Sally Beck, Shona Wilson
+X-cc: Michael E Moscoso
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Var
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Report is missing some VAR's because London was not in the office.  
+Please launch the Excel application rather than using the Lotus Notes Viewer.
+Please note that the DPR (and therefore this report) is preliminary.
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <2356499.1075855930170.JavaMail.evans@thyme>
+Date: Fri, 25 Aug 2000 08:36:00 -0700 (PDT)
+From: eugenio.perez@enron.com
+To: john.lavorato@enron.com, john.sherriff@enron.com, jeffrey.shankman@enron.com,
+	ted.murphy@enron.com, mark.frevert@enron.com, rick.buy@enron.com,
+	sally.beck@enron.com, shona.wilson@enron.com
+Subject: VaR Limit Usage Graphs
+Cc: michael.moscoso@enron.com, maria.aguilera-peon@enron.com,
+	jennifer.nguyen@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: michael.moscoso@enron.com, maria.aguilera-peon@enron.com,
+	jennifer.nguyen@enron.com
+X-From: Eugenio Perez
+X-To: John J Lavorato, John Sherriff, Jeffrey A Shankman, Ted Murphy, Mark Frevert, Rick Buy, Sally Beck, Shona Wilson
+X-cc: Michael E Moscoso, Maria Teresa Aguilera-Peon, Jennifer Nguyen
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Var
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+We have created two new graphs that will be published daily along with the 
+DPR.
+
+For each business unit or commodity group in the DPR the graphs show the VaR 
+compared to its limit.  
+
+When VaR is under the limit (as in the example on the right), it appears 
+green, and the unused portion of the limit appears yellow, which together add 
+up to the limit amount.  When VaR exceeds the limit (as on the left), the 
+limit is represented in red, and the excess is shown as a red box outlined in 
+black.  One graph shows usage in dollar terms and the other as a percentage 
+of the individual limits.
+
+We should be able to publish this graph to the web report viewer as soon as 
+the web masters have completed the set up.  Meanwhile, we will e-mail these 
+graphs to you every day after the DPR is finalized.  Today's are attached 
+below.  Please launch the Excel file instead of using the Lotus Notes viewer.
+
+Over the past several months we have been putting together a database to 
+standardize and capture the information that flows to the DPR (it is very 
+much like the database we created for EOL to report numbers).  With it we can 
+perform a variety of analyses (correlations between books, back-testing, 
+estimating sensitivities to risk factors, P&L decomposition and attribution, 
+etc.).  We are nearly finished with its construction, and we hope to provide 
+you superior analytics and reports in the future.
+
+Next week we hope to publish two new graphs: for each business unit in the 
+DPR one will have 30 day rolling and 5 day rolling ROVARs (average P&L 
+divided by average VaR) and the other will have 30 day rolling and 5 day 
+rolling curve shift Sharpe ratios (average delta - gamma P&L divided by its 
+standard deviation) .
+
+We hope you find these useful.
+
+Regards,
+
+
+
+Eugenio Perez
+Risk Analytics
+Energy Operations
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <27647535.1075855930078.JavaMail.evans@thyme>
+Date: Tue, 12 Sep 2000 10:07:00 -0700 (PDT)
+From: eugenio.perez@enron.com
+To: john.lavorato@enron.com, john.sherriff@enron.com, jeffrey.shankman@enron.com,
+	ted.murphy@enron.com, mark.frevert@enron.com, rick.buy@enron.com,
+	sally.beck@enron.com, shona.wilson@enron.com
+Subject: ROVAR, Sharpe Ratio, and Risk - Return Graphs are now on the
+ Executive Reports Viewer
+Cc: michael.moscoso@enron.com, jennifer.nguyen@enron.com,
+	maria.aguilera-peon@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: michael.moscoso@enron.com, jennifer.nguyen@enron.com,
+	maria.aguilera-peon@enron.com
+X-From: Eugenio Perez
+X-To: John J Lavorato, John Sherriff, Jeffrey A Shankman, Ted Murphy, Mark Frevert, Rick Buy, Sally Beck, Shona Wilson
+X-cc: Michael E Moscoso, Jennifer Nguyen, Maria Teresa Aguilera-Peon
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Var
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+The ROVAR, Sharpe Ratio, and Risk - Return graphs we began publishing last 
+week are now on the web-based Executive Reports Viewer, along with the VaR 
+Limit Usage graphs.
+
+Regards,
+
+
+
+Eugenio
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <5929526.1075855930498.JavaMail.evans@thyme>
+Date: Wed, 26 Jan 2000 01:58:00 -0800 (PST)
+From: jill.erwin@enron.com
+To: georgeanne.hodges@enron.com
+Subject: Re: Annual Report VAR Disclosures - open items
+Cc: steve.ross@enron.com, jeff.nogid@enron.com, eugenio.perez@enron.com,
+	tony.harris@enron.com, jan.johnson@enron.com, bob.shults@enron.com,
+	jennifer.stevenson@enron.com, derek.claybrook@enron.com,
+	faith.killen@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: steve.ross@enron.com, jeff.nogid@enron.com, eugenio.perez@enron.com,
+	tony.harris@enron.com, jan.johnson@enron.com, bob.shults@enron.com,
+	jennifer.stevenson@enron.com, derek.claybrook@enron.com,
+	faith.killen@enron.com
+X-From: Jill Erwin
+X-To: Georgeanne Hodges
+X-cc: Steve Ross, Jeff Nogid, Eugenio Perez, Tony Harris, Jan Johnson, Bob Shults, Sally Beck@ECT, Jennifer Stevenson, Derek Claybrook, Faith Killen
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Var
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+I spoke to Greg Adams on the EOG commodity affiliate positions.  He has never 
+supplied VaR on these.  We have no information on these.  You need to ask 
+whoever supplies you the quarterly numbers to supply you with the non-quarter 
+end months.
+
+Jill
+
+
+   
+	Enron Global Finance
+	
+	From:  Jill Erwin                           01/25/2000 05:23 PM
+	
+
+To: Georgeanne Hodges/HOU/ECT@ECT
+cc: Steve Ross/HOU/ECT@ECT, Jeff Nogid/HOU/ECT@ECT, Eugenio 
+Perez/HOU/ECT@ECT, Tony Harris/HOU/ECT@ECT, Jan Johnson/GPGFIN/Enron@ENRON, 
+Bob Shults/HOU/ECT@ECT, Sally Beck@ECT, Jennifer 
+Stevenson/AA/Corp/Enron@Enron, Derek Claybrook/AA/Corp/Enron@Enron, Faith 
+Killen/HOU/ECT@ECT 
+Subject: Re: Annual Report VAR Disclosures - open items  
+
+See colored notes below.
+
+
+   
+	
+	
+	From:  Georgeanne Hodges                           01/25/2000 03:25 PM
+	
+
+To: Jill Erwin/HOU/ECT@ECT, Steve Ross/HOU/ECT@ECT, Jeff Nogid/HOU/ECT@ECT, 
+Eugenio Perez/HOU/ECT@ECT, Tony Harris/HOU/ECT@ECT
+cc: Jan Johnson/GPGFIN/Enron@ENRON, Bob Shults/HOU/ECT@ECT, Sally Beck@ECT, 
+Jennifer Stevenson/AA/Corp/Enron@Enron, Derek Claybrook/AA/Corp/Enron@Enron, 
+Faith Killen/HOU/ECT@ECT 
+Subject: Annual Report VAR Disclosures - open items
+
+This is Part II of the open items on VAR, addressing ECM, PGE & affiliate 
+books
+
+>From my review of Eugenio's consolidated VAR spreadsheet, the following 
+listed items are those that are open that we           need information from 
+you on.   Corp. is looking to type the first draft of the Annual Report (to 
+be discussed with the Audit Committee) THIS FRIDAY, so we need your help with 
+this information as soon as possible.  If you will not be able to have all of 
+the information to Eugenio by Thursday night, please let me know.  We may be 
+able to give you some additional time to gather some of the smaller pieces.   
+If you need to forward this on to others, please do so.
+
+AA if you know of any other issues of completeness that I have not addressed, 
+please let Eugenio and I know! 
+
+
+*Have AA and Jan Johnson concluded that we only need to include the puts on 
+the Enron stock?  If so we need all twelve months of comparable data as 
+applicable.    Steve Ross sent to Eugenio on Monday (yesterday).  Let him 
+know if he needs to re-send it.
+
+*Are the swaps shown on the ECM FN3 schedule for the phantom stock plan the 
+puts that we have been talking about?  If not do these swaps need to be 
+included in VAR and the non-trading portion of FN3?  I haven't seen them 
+before.   These are new puts.  I checked with Jan.  She said to include the 
+positions as non-trading equity.  The trades were both done in November by 
+Gary Hickerson's group.  Be sure he hasn't included them in his numbers.  
+We'll get the VaR for November and December to you on Wednesday.  (Steve, 
+this is yours).  
+
+*What is Yosemite?  Is it a TRS that I need to include in VAR and FN3?  
+Internally we call it a swap but in the legal document it is called an 
+Agreement.  It's actually more of a guarantee.  I talked to Jan about it and 
+we don't think it goes in FN3. 
+
+*For non-trading I\R and F\X, we are still missing all non-quarter end 
+months.    Jeff, this ones yours.  We need to send the information to 
+Research and have them run the VaR monthly in 2000 also.
+
+*PGE - January,February and March VAR is missing on Eugenio's schedule.  I 
+don't have a clue what PGE's information is.  I only know about Rhythms which 
+is in a separate section.  You'll have to ask PGE.
+
+*What month was the EOG sale effective?  We need commodity affiliate for all 
+of the non-quarter end months prior to the sale.  The sale took place August 
+16.  I have never even heard of any EOG commodity affiliate position.  I was 
+told Greg Adams handled these at one point.  I'll ask him tomorrow.
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <10779005.1075855930214.JavaMail.evans@thyme>
+Date: Wed, 26 Jul 2000 08:11:00 -0700 (PDT)
+From: tim.o'rourke@enron.com
+To: sally.beck@enron.com
+Subject: VAR training
+Cc: patti.thompson@enron.com, gracie.presas@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: patti.thompson@enron.com, gracie.presas@enron.com
+X-From: Tim O'Rourke
+X-To: Sally Beck
+X-cc: Patti Thompson, Gracie S Presas
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Var
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Sally,
+I've confirmed with the training company the two dates - 14/15th September, 
+and 21/22 September.
+The room will be EB 560, so there are no external venue costs to take into 
+account.
+
+I'll ask Gracie to coordinate with Patti on the details regarding materials 
+and lists of attendees - and of course we'll keep you in the info loop.
+
+Given that it is for your group only, nearer the time we'll circulate the 
+agenda and ask the attendees to identify if there are any particular areas of 
+interest, or specific questions. In  doing so, we will be able to prime the 
+instructors so that they are able to tailor the direction of the course for 
+your group.
+
+I am working with Norma Villareal on other hr matters within EOPS, but do let 
+me know if there's anything specific you need. 
+
+regards
+Tim
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <11456304.1075855930192.JavaMail.evans@thyme>
+Date: Wed, 9 Aug 2000 07:34:00 -0700 (PDT)
+From: ted.murphy@enron.com
+To: vladimir.gorny@enron.com, grant.masson@enron.com, sally.beck@enron.com
+Subject: VAR Priorities
+Cc: john.lavorato@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: john.lavorato@enron.com
+X-From: Ted Murphy
+X-To: Vladimir Gorny, Grant Masson, Sally Beck
+X-cc: John J Lavorato
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Var
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Vlady..
+this was the list John referenced the other day.  
+Ted
+---------------------- Forwarded by Ted Murphy/HOU/ECT on 08/09/2000 02:30 PM 
+---------------------------
+   
+
+
+From:  Ted Murphy                                                             
+06/28/2000 07:45 AM	
+	
+	
+	                           
+	
+
+To: Rick Buy
+cc:  
+Subject: VAR Priorities
+
+Rick,
+This is my initial attempt to summarize our meeting with John.  The next 
+steps would be to solicit feedback from other interested parties and scope 
+the resources and responsibilities.
+Ted
+
+Rick Buy, John Lavorato and I met to discuss priorities as it relates to the 
+calculation of VAR.  We are making the following recommendations
+
+ 1) Inclusion of monthly index positions into VAR calculations as the 
+indicies set in North American Natural Gas
+ 2) Development of a methodology to re-run correlations (factor loadings) 
+including criteria, responsibilities and acceptance/rejection criteria
+ 3) Development of process by which to analyze the output of factor loading 
+process.  Database to store output and management reports.
+ 4) Finalize debate on the calculation of Forward/Forward volatility
+ 5) Scope a project to analyze the possibility of calculating hourly 
+volatility for power.
+
+It was further recommended that we continue to not include unpriced index 
+positions in VAR calculation.
+

@@ -1,0 +1,269 @@
+From MAILER-DAEMON Mon Apr 18 14:20:11 2022
+Message-ID: <13954043.1075843576947.JavaMail.evans@thyme>
+Date: Thu, 22 Feb 2001 03:08:00 -0800 (PST)
+From: psellers@pacbell.net
+To: psellers@haas.berkeley.edu, jdasovic@enron.com
+Subject: Safeway Vons
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Prentice Sellers <psellers@pacbell.net>
+X-To: Haas <psellers@haas.berkeley.edu>, jdasovic@enron.com
+X-cc: 
+X-bcc: 
+X-Folder: \Jeff_Dasovich_June2001\Notes Folders\Mba--analysis of financial information
+X-Origin: DASOVICH-J
+X-FileName: jdasovic.nsf
+
+Here's my version of the spreadsheet with some explanations...
+
+Only use the first 6 tabs of the file.  On the first tab, this is where you
+do your sensitivity analysis.  You can change the discount rate and terminal
+value.  These are the only inputs we need for this assignment.
+
+The next two tabs are just historical data for Safeway and Vons.  I used the
+Vons tab to see if there were any significant trends in balance sheet or
+income statement items as a percentage of sales.
+
+Sales growth forecasts are given in the case and calculated in the
+Additional Calculations tab.  After that, almost everything is driven off
+the Common Size tab.  Given past trends, we are supposed to forecast each
+balance sheet and income statement item as a percentage of sales.  I almost
+always used the most recent year as the forecast.  In some cases, the
+forecast turned out to be a calculation because the actual number (found on
+the DCF tab) was derived some other way.  (e.g., depreciation as a
+percentage of PPE).
+
+Note that I did not calculate debt as a percentage of sales.  That's because
+we are supposed to figure out both long and short term debt in aggregate, so
+I didn't try to break it back out into long and short term as a percentage
+of sales.  It doesn't really matter if the whole Common Size tab is filled
+out.
+
+Any additional calculations I needed (e.g., sales forecasts) I did in a
+separate sheet creatively called Additional Calculations.
+
+Using the given assumptions of 12% discount rate and 7 times EBITDA
+multiple, I get a per share value of lower than what Von's stock price is at
+the time of the case.  But even using 10% and 8 times EBITDA, I still can't
+get to the $58 that Safeway is offering.  However, if you use the 9.9
+multiple that Safeway says their proposal represents and 11% discount rate,
+you get a share price of about $58.
+
+We are also supposed to look at the ratio analysis at the bottom of the DCF
+tab and make sure the ratios are in line with expectations.  You can compare
+them to the ratios given at the bottom of the Vons tab.
+
+I get asset turns that are a little higher than historically to begin with
+and then they keep going up, which isn't usually normal.  Asset turns tend
+to remain relatively constant.  The reason why asset turns start out higher
+is because total PPE as a percentage of sales has been going down.  This
+makes sense given the information in the case that Vons is closing and
+remodeling lots of stores.  Thus, making assets more productive.  The reason
+why asset turns are increasing over time is because goodwill as an asset is
+steadily decreasing as it gets written off and no further acquisitions are
+made.  Thus assets grow slower than sales.  (I checked this.  If you have
+goodwill grow as a percentage of sales, asset turns stay constant).
+
+The only other thing is that leverage seems to be much lower than
+historically.  I think it's because debt as a percentage of total assets has
+gone down significantly.  Given that Vons is generating more cash than
+needed to support both operations and investments, extra cash is being paid
+out as a dividend.  (See line 76 on DCF tab).  Thus, it is likely that debt
+as a percentage of assets will continue to decrease as it gets paid off over
+time.  In the model, however, I have kept debt as a percentage of assets
+constant at the 1996 level.  (See line 28 in Additional Calculations).  If
+you increase debt and therefore increase leverage, you can get the ROE back
+up to 1996 levels.  However, without changing the discount rate, changing
+the debt has no effect on the DCF share price.
+
+If you have any questions, make sure you "reply to all" so I get it at both
+home and school.
+
+
+ - Vons Model.xls
+
+From MAILER-DAEMON Mon Apr 18 14:20:11 2022
+Message-ID: <12915687.1075843576865.JavaMail.evans@thyme>
+Date: Thu, 1 Feb 2001 07:45:00 -0800 (PST)
+From: anil.sama@intel.com
+To: mark_guinney@watsonwyatt.com, jeff.dasovich@enron.com
+Subject: The Final Cut...
+Cc: asama@yahoo.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: asama@yahoo.com
+X-From: "Sama, Anil" <anil.sama@intel.com>
+X-To: "'Mark Guinney'" <Mark_Guinney@watsonwyatt.com>, Jeff.Dasovich@enron.com
+X-cc: "'asama@yahoo.com'" <asama@yahoo.com>
+X-bcc: 
+X-Folder: \Jeff_Dasovich_June2001\Notes Folders\Mba--analysis of financial information
+X-Origin: DASOVICH-J
+X-FileName: jdasovic.nsf
+
+ - Pharmaceutical_Analysis.doc
+
+From MAILER-DAEMON Mon Apr 18 14:20:11 2022
+Message-ID: <26052581.1075843576924.JavaMail.evans@thyme>
+Date: Thu, 22 Feb 2001 02:10:00 -0800 (PST)
+From: asama@yahoo.com
+To: jeff.dasovich@enron.com
+Subject: Re: Timberland
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Anil Sama <asama@yahoo.com>
+X-To: Jeff.Dasovich@enron.com
+X-cc: 
+X-bcc: 
+X-Folder: \Jeff_Dasovich_June2001\Notes Folders\Mba--analysis of financial information
+X-Origin: DASOVICH-J
+X-FileName: jdasovic.nsf
+
+Jeff,
+
+Looks great! Minor grammatical edits only. See attached. 
+
+?
+
+
+?
+
+? Jeff.Dasovich@enron.com wrote: 
+
+OK, last call for comments. Need them by noon. I'll bring copies to class
+for everyone, including Ms Tasker.
+
+Best,
+Jeff
+(See attached file: case 3--Timberland Final Draft.doc) > ATTACHMENT part 2 
+application/msword name=case 3--Timberland Final Draft.doc
+
+
+
+Do You Yahoo!?
+Yahoo! Auctions - Buy the things you want at great prices!
+ - Dasovich_case 3_Timberland Final Draft.doc
+
+From MAILER-DAEMON Mon Apr 18 14:20:11 2022
+Message-ID: <10347183.1075843576889.JavaMail.evans@thyme>
+Date: Tue, 20 Feb 2001 06:09:00 -0800 (PST)
+From: cvavrek@deloitte.com
+To: asama@yahoo.com, jeff.dasovich@enron.com, mark_guinney@watsonwyatt.com
+Subject: Case 3
+Cc: jeff_dasovich@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: jeff_dasovich@enron.com
+X-From: "Vavrek, Carolyn (US - San Francisco)" <cvavrek@deloitte.com>
+X-To: Anil Sama <asama@yahoo.com>, Jeff.Dasovich@enron.com, Mark Guinney <Mark_Guinney@watsonwyatt.com>
+X-cc: Jeff_Dasovich@enron.com
+X-bcc: 
+X-Folder: \Jeff_Dasovich_June2001\Notes Folders\Mba--analysis of financial information
+X-Origin: DASOVICH-J
+X-FileName: jdasovic.nsf
+
+I like  the numbers too.? Anil - I got the same answer you did, but decided 
+in the  write-up to only contemplate the ad campaign change in perpetuity, 
+consistent  with Jeff's write-up.? I substituted Mark's answer to the last 
+question for  Jeff's and added an attachment, hopefully showing the crux of 
+our number  crunching.? Let me know if you think we should attach additional 
+or  different details from the spreadsheets (especially for the third  
+question).? Otherwise I think we are done with this  one.
+-  cv
+?
+?
+
+Carolyn M. Vavrek 
+Manager - Human Capital Advisory Services 
+Deloitte & Touche 
+50 Fremont  Street 
+San Francisco, CA? 94105  
+
+phone: 415-783-5137 
+fax: 415-783-8760 
+e-mail:  cvavrek@deloitte.com 
+-----Original Message-----
+From: Anil Sama  [mailto:asama@yahoo.com]
+Sent: Monday, February 19, 2001 7:40  PM
+To: Vavrek, Carolyn (US - San Francisco);  Jeff.Dasovich@enron.com; Mark 
+Guinney
+Cc: asama@yahoo.com;  Jeff_Dasovich@enron.com
+Subject: RE: Answers
+
+
+
+Hi Team, 
+
+I ran my own numbers this morning, and verified what you guys have 
+sent  out. I think we can use Mark's or Jeff's write-up as is. Just have 
+one  clarification re: Q2 - my?spreadsheet shows that if we increase ad  
+expenses for five years only '94-'98 (as opposed to in perpetuity),  
+then the stock price ends up being 22.73 v/s Mark's 22.20. I do get  
+22.20 if?I also increase the 6th year ('99) expenses to 27% -  perhaps
+this was an oversight - can someone pls confirm? 
+
+For Q5, merely changing terminal growth to 4%, and WACC to 10%
+gets us  to an $80 stock price.?But?4% in perpetuity is probably  
+unrealistic?
+
+Re: the last question, I agree with Mark's analysis - firms that 
+have  huge R&D cycles and patent protection over 17 years etc.
+e.g. pharmas  would be good candidates for foreacsting over a 
+longer term horizon. 
+
+Rest looks great - you guys are awesome!! 
+
+-Anil 
+
+? "Vavrek, Carolyn (US - San Francisco)"  <cvavrek@deloitte.com> wrote: 
+
+
+got your messages + attachments and mark's - WOW +  THANKS!! 
+also calc'd it all myself 
+will review + compare + send around comments 
+-cv 
+Carolyn M. Vavrek 
+Manager - Human Capital Advisory Services 
+Deloitte & Touche 
+50 Fremont  Street 
+San Francisco, CA? 94105 
+
+phone: 415-783-5137 
+fax:  415-783-8760 
+e-mail: cvavrek@deloitte.com  
+
+
+-----Original Message----- 
+From:  Jeff.Dasovich@enron.com [mailto:Jeff.Dasovich@enron.com]  
+Sent: Sunday, February 18, 2001 8:26 PM 
+To: Mark Guinney 
+Cc: asama@yahoo.com;  cvavrek@deloitte.com; Jeff.Dasovich@enron.com; 
+Jeff_Dasovich@enron.com 
+Subject: Re:  Answers 
+
+
+
+Since it seems like folks may have only been sporadically  receiving my 
+emails, please let me know if you  receive the memos and accompanying 
+spreadsheets that  I just sent.? Thanks. 
+
+Best, 
+Jeff 
+
+
+This message (including any attachments) contains  confidential information 
+intended for a specific individual and purpose, and  is protected by law.? If 
+you are not the intended recipient, you should  delete this message and are 
+hereby notified that any disclosure, copying, or  distribution of this 
+message, or the taking of any action based on it, is  strictly prohibited.
+
+
+
+Do You Yahoo!?
+- Get personalized email addresses from Yahoo! Mail Personal Address - only  
+$35 a year!
+ - case 3 jeffs write up.doc
+

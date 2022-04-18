@@ -1,0 +1,1878 @@
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <20946730.1075855928703.JavaMail.evans@thyme>
+Date: Tue, 12 Sep 2000 01:49:00 -0700 (PDT)
+From: mary.solmonson@enron.com
+To: sally.beck@enron.com
+Subject: Trade Warehouse Mtg - Purpose
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+X-From: Mary Solmonson
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Solmonson, mary
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+fyi
+---------------------- Forwarded by Mary Solmonson/HOU/ECT on 09/12/2000=20
+08:47 AM ---------------------------
+
+
+Vanessa Schulte@ENRON
+09/11/2000 02:52 PM
+To: Nicki Daw/NA/Enron@Enron
+cc: Joel Henenberg/NA/Enron@Enron, Mary Solmonson/HOU/ECT@ECT, Scott=20
+Williamson/HOU/ECT@ECT, Cindy Wisemiller/HOU/ECT@ECT=20
+Subject: Trade Warehouse Mtg - Purpose
+
+Hi Nicki,
+Thanks for setting up the meeting next Wednesday (9/20) at 2:30 with M.=20
+Frevert, D. Delainey, J. Shankman, and J. Lavorato.  Here is a brief overvi=
+ew=20
+of the meeting objective:
+
+Purpose
+To gain support and approval for a data warehouse vision containing=20
+consolidated trade information with centralized access.
+
+Background
+The definition of a data warehouse is a place to consolidate information=20
+originating from multiple transaction processing systems and platforms into=
+ a=20
+common database repository.  The idea of an Enron =01&Trade Warehouse=018=
+=20
+originated from members of the London office and has been expanded to inclu=
+de=20
+the Houston systems.  The need for a Trade Warehouse stems from the=20
+requirement of multiple departments needing to access consolidated deal=20
+information for analytical reporting and down-stream processing.   Currentl=
+y,=20
+deal information is held in separate trading systems both within product=20
+process flows from mid to back office, and across product lines. The=20
+information is also stored across multiple system platforms and is not easi=
+ly=20
+accessible or consistently presented across the various trading products=20
+within Enron. Given this current architecture, it is very difficult and=20
+costly to access timely, quality-assured, and consolidated cross-product de=
+al=20
+information for analytical reporting and down-stream processing.
+
+Proposal
+Houston will use the warehouse as the data source for EnTelligence and=20
+numerous analytical reporting application systems.  These analytical=20
+reporting application systems can include, but are not limited to,=20
+Operational Pricing Module (OPM), EnronOnline, and Daily Position Report=20
+(DPR).  Once the warehouse is in place, it may be used as the source for=20
+additional downstream systems as well as Investor Relations reporting.
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <24048742.1075849860559.JavaMail.evans@thyme>
+Date: Wed, 13 Dec 2000 10:06:00 -0800 (PST)
+From: mary.solmonson@enron.com
+To: vanessa.schulte@enron.com
+Subject: Intranet site
+Cc: sally.beck@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sally.beck@enron.com
+X-From: Mary Solmonson
+X-To: Vanessa Schulte
+X-cc: Sally Beck
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Solmonson, mary
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Seems like we should have a link from GRO site to this.  Is this part of 
+Brent's organization ?
+
+http://globaltrade.enron.co.uk/
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <24073542.1075849860583.JavaMail.evans@thyme>
+Date: Mon, 11 Dec 2000 01:14:00 -0800 (PST)
+From: mary.solmonson@enron.com
+To: sally.beck@enron.com
+Subject: Holiday Schedule for Strategic Systems
+Cc: joel.henenberg@enron.com, marvia.jefferson@enron.com,
+	patti.thompson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: joel.henenberg@enron.com, marvia.jefferson@enron.com,
+	patti.thompson@enron.com
+X-From: Mary Solmonson
+X-To: Sally Beck
+X-cc: Joel Henenberg, Marvia Jefferson, Patti Thompson
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Solmonson, mary
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+I am planning to take vacation on 12/27, 12/28, and 12/29.  This will put me 
+out of the office 12/23 through 1/1/01.
+
+Joel will be taking vacation prior to my absence on 12/20, 12/21, and 12/22.
+
+We will back each other up in the other's absence.
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <15506878.1075849860312.JavaMail.evans@thyme>
+Date: Wed, 28 Feb 2001 02:23:00 -0800 (PST)
+From: marvia.jefferson@enron.com
+To: melissa.murphy@enron.com, kim.theriot@enron.com, thresa.allen@enron.com
+Subject: Potential Outsourcing Customers for Power
+Cc: leslie.reeves@enron.com, sally.beck@enron.com, james.scribner@enron.com,
+	zionette.vincent@enron.com, patti.thompson@enron.com,
+	adrial.boals@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: leslie.reeves@enron.com, sally.beck@enron.com, james.scribner@enron.com,
+	zionette.vincent@enron.com, patti.thompson@enron.com,
+	adrial.boals@enron.com
+X-From: Marvia Jefferson
+X-To: Melissa Ann Murphy, Kim S Theriot, Thresa A Allen
+X-cc: Leslie Reeves, Sally Beck, James Scribner, Zionette Vincent, Patti Thompson, Adrial Boals
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Solmonson, mary
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+When: Thursday, March 01, 2001 9:30 AM-10:30 AM (GMT-06:00) Central Time (US 
+& Canada).
+Where: eb3270
+
+*~*~*~*~*~*~*~*~*~*
+
+Attendees: Sally Beck
+  Melissa Murphy
+  Kim Theriot
+  Thresa Allen
+  Leslie Reeves
+  James Scribner
+  
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <2738100.1075855928575.JavaMail.evans@thyme>
+Date: Thu, 26 Oct 2000 04:06:00 -0700 (PDT)
+From: mary.solmonson@enron.com
+To: sally.beck@enron.com
+Subject: Re: Livelink
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Mary Solmonson
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Solmonson, mary
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+fyi
+---------------------- Forwarded by Mary Solmonson/HOU/ECT on 10/26/2000 
+11:04 AM ---------------------------
+   
+	
+	
+	From:  Joel Henenberg @ ENRON                           10/26/2000 10:39 AM
+	
+
+To: Ryan Orsak/Corp/Enron@Enron
+cc: Carolyn Gilley/HOU/ECT@ECT, kbaldwin@opentext.com (bcc: Mary 
+Solmonson/HOU/ECT)
+Subject: Re: Livelink  
+
+Ryan, thank you for your timely response.   It is a concern of mine that our 
+current test sytems does not represent the current production system.  I feel 
+we run a large risk by not adequately testing a product and all associated 
+processes prior to moving it into production.  My concerns are based on the 
+following: 
+
+The volume of data that ENA puts into the Livelink system daily, and 
+ultimately into iRIMS, exceeds any load testing that OpenText has done. 
+ Due to our volume, without testing it is unknown if the performance will be 
+adequate.  
+There is an inherent risk to putting such a heavy volume application into 
+production without proper load testing.
+Being the test database server is not the same as the production database 
+server, how will we ever know if the application will work?  More so, how 
+will we be able to test the restore procedures?
+iRIMS testing will include custom modules for iRIMS/Livelink migration.  This 
+will require testing of "adding classifications" to  massive amounts of 
+LiveLink folders.  The current volume is somewhere around 500,000 folders.  
+It is my understanding the current test system can not handle this volume.  
+The implementation of iRIMS effects the Livelink repository which needs to be 
+tested as well.  There is some concern as to; can the current test system 
+accommodate this.  
+
+The question of having another Unix 4500 which will give us an identical test 
+database or something smaller that might accomplish the same end result is 
+one I can not answer.  However,  I would look to you and your technical team 
+for recommendations in this matter and would agree to serving on the 
+evaluation team.
+
+If you have any questions please feel free to call me at 58841 and as usual, 
+thank you for your help and support on this project.
+
+Regards,
+
+
+Joel
+
+
+
+
+Ryan Orsak
+10/25/2000 05:23 PM
+To: Joel Henenberg/NA/Enron@Enron
+cc: Carolyn Gilley/HOU/ECT@ECT, kbaldwin@opentext.com 
+
+Subject: Re: Livelink  
+
+Hi Joel,
+ The project plan at this point is very preliminary.  There will be a revised 
+(more accurate) plan by the end of next week when OTPS and EDMS have time to 
+meet with Carolyn and Barbara.  This is scheduled for next Wed.
+
+This is complete;
+Server for iRIMS Beta 9.0 is at Ardmore
+iRIMS Test has been created (Oracle)
+Test Data from EDMS Test is being copied at this time
+
+
+Do you want me to purchase another Unix 4500 for Livelink (300K) that will 
+give us an identical test database or should I look at getting a smaller less 
+expensive Unix box?  Please inform and I will move ahead.
+
+Thanks in advance,
+
+rlo
+
+
+
+	Joel Henenberg
+	10/25/2000 05:00 PM
+		 
+		 To: Ryan Orsak/Corp/Enron@Enron
+		 cc: Carolyn Gilley/HOU/ECT@ECT
+		 Subject: Livelink
+
+Ryan, being there was not a meeting this past Monday, can I please have a 
+status on where we are on the project.  I am particularly interested in where 
+we stand against the plan
+
+
+Thanks
+
+
+Joel
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <21035091.1075849860628.JavaMail.evans@thyme>
+Date: Mon, 4 Dec 2000 09:22:00 -0800 (PST)
+From: mary.solmonson@enron.com
+To: brenda.flores-cuellar@enron.com
+Subject: Re: Mtg. 12/5 RE: Payment Module
+Cc: thomas.gros@enron.com, sally.beck@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: thomas.gros@enron.com, sally.beck@enron.com
+X-From: Mary Solmonson
+X-To: Brenda Flores-Cuellar
+X-cc: Thomas D Gros, Sally Beck
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Solmonson, mary
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Brenda - It would be best if you check with Marvia regarding my schedule 
+before scheduling a meeting.  I will be in a PRC meeting all afternoon on 
+Tuesday.
+  Also - don't you think you should invite Sally as well?
+
+
+
+
+
+12/04/2000 03:51 PM
+Brenda Flores-Cuellar@ENRON
+Brenda Flores-Cuellar@ENRON
+Brenda Flores-Cuellar@ENRON
+12/04/2000 03:51 PM
+12/04/2000 03:51 PM
+To: Thomas D Gros/NA/Enron@Enron, Susan Harrison/HOU/ECT@ECT, Mary 
+Solmonson/HOU/ECT@ECT, Douglas Fuehne/NA/Enron@ENRON
+cc: Kristin Cantu/Corp/Enron@Enron, Marvia Jefferson/HOU/ECT@ECT, Maria 
+Sandoval/HOU/ECT@ECT 
+Subject: Mtg. 12/5 RE: Payment Module
+
+There will be a meeting on Tuesday, Dec. 5th in EB 21C2 from 3:00pm - 
+4:00pm.  This will be a follow-up meeting to discuss the payment module.  
+Please plan to attend.  If there are any conflicts with the meeting time,  
+please contact me at x31914.
+
+Thanks,
+Brenda
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <25206415.1075855928486.JavaMail.evans@thyme>
+Date: Wed, 8 Nov 2000 03:03:00 -0800 (PST)
+From: mary.solmonson@enron.com
+To: sally.beck@enron.com, thomas.gros@enron.com
+Subject: Williams Customer First site
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Mary Solmonson
+X-To: Sally Beck, Thomas D Gros
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Solmonson, mary
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+And their "TradeSpark" page touts "back office functions for end to end 
+management".
+
+---------------------- Forwarded by Mary Solmonson/HOU/ECT on 11/08/2000 
+10:56 AM ---------------------------
+
+
+Mary Solmonson
+11/08/2000 10:51 AM
+To: Sally Beck/HOU/ECT@ECT, Thomas D Gros/NA/Enron@Enron
+cc:  
+Subject: Williams Customer First site
+
+
+	
+
+You need to go take the tour of this site.  I believe Williams has put 
+together what Whalley's vision was a year ago.
+
+http://www.williamscustomerfirst.com/index.jsp#
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <24791159.1075849860403.JavaMail.evans@thyme>
+Date: Wed, 21 Feb 2001 08:46:00 -0800 (PST)
+From: mary.solmonson@enron.com
+To: sally.beck@enron.com
+Subject: Website Link of Outsourcing Offsite
+Cc: patti.thompson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: patti.thompson@enron.com
+X-From: Mary Solmonson
+X-To: Sally Beck
+X-cc: Patti Thompson
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Solmonson, mary
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+The info from the Outsourcing Offsite has been loaded to the development 
+environment of the Global Risk Operations home page.  Take a look.  I scanned 
+and didn't see anything I wouldn't want to have in production, but thought 
+you might want to check before we move it into production.  Once you say 
+okay, we'll move it out and then we need you to send the memo out that 
+introduces the website.
+
+http://gro.dev.corp.enron.com/
+
+Click the link and then select "Outsourcing ASE Studio Workshop"  under the 
+Global heading in the body of the page.
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <14130163.1075855928681.JavaMail.evans@thyme>
+Date: Tue, 10 Oct 2000 02:35:00 -0700 (PDT)
+From: mary.solmonson@enron.com
+To: sally.beck@enron.com
+Subject: Re: September Status Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Mary Solmonson
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Solmonson, mary
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+fyi - see Joel's status report below and my comments.  What I would like to 
+do is start hosting a monthly meeting to give a status update on our 
+projects.  What do you think ?
+
+---------------------- Forwarded by Mary Solmonson/HOU/ECT on 10/10/2000 
+09:32 AM ---------------------------
+
+
+Mary Solmonson
+10/10/2000 09:33 AM
+To: Joel Henenberg/NA/Enron@ENRON
+cc:  
+Subject: Re: September Status Report  
+
+Good.  It is nice to get a recap of what's going on.
+
+A few comments....
+
+1) Can I see the OPM vision document?
+
+2) MKM Phase I - what's included?  what's the business benefit?
+
+3) MKM - Decommisioning of Phoenix.  I think you might be getting a little 
+ahead of yourself here.  First you will need to integrate MKM with EnPower, 
+Unify, and Sitara.  What are the plans for that?  I also think the delay in 
+the Calculation component could be a problem.  For instance, we currently use 
+spreadsheets to calculate the average prices and then key them into Unify 
+(maybe Phoenix).  We do this because we don't have the ability to key 
+anything into either Phoenix or MKM.  How will we do this if Phoenix goes 
+away?  I want to make sure the process is thoroughly thought through here.
+
+4) MKM - Support of both Phoenix and LIM is a duplication of efforts and 
+costly.....   The plans here need to go back to the vision.  Where is the 
+step by step plan of getting to the vision?
+
+5) GRS Support - The most important interim priority is not reflected here 
+which concerns me.  Because Reuters accuracy is so poor, the most critical 
+thing we need is the ability to select an alternate source for pricing, such 
+as CQG, for the downloads!
+
+6) GRS Support - OPIS validation.  This is a business issue and I'm not sure 
+this should be reflected in your status report, but you do need to make sure 
+Steve gets on this.
+
+
+Clearly from this, I think good coordination and project management is still 
+lacking in the Rates/MKM world.  Is Stuart calling the shots (Phoenix 
+decommisioning) or are we?
+
+
+
+
+   
+	
+	
+	From:  Joel Henenberg @ ENRON                           10/09/2000 04:21 PM
+	
+
+To: Mary Solmonson/HOU/ECT@ECT
+cc:  
+Subject: September Status Report
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <15718259.1075855928552.JavaMail.evans@thyme>
+Date: Tue, 31 Oct 2000 05:32:00 -0800 (PST)
+From: mary.solmonson@enron.com
+To: sally.beck@enron.com
+Subject: Progress on Daily Trading Ledger - note from John Paskin and Mike
+ Jordan
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Mary Solmonson
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Solmonson, mary
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+fyi
+---------------------- Forwarded by Mary Solmonson/HOU/ECT on 10/31/2000 
+01:29 PM ---------------------------
+
+
+Robert Fenton-Stone
+10/30/2000 08:20 AM
+To: Jane Spiteri/LON/ECT@ECT, Niamh O'Regan/LON/ECT@ECT, Michael 
+Heap/LON/ECT@ECT, Odile Facih/LON/ECT@ECT, Richard J Black/LON/ECT@ECT, David 
+Port/Market Risk/Corp/Enron@ENRON, Neil Tarling/LON/ECT@ECT, Mark 
+Jones/LON/ECT@ECT, Beth Apollo/LON/ECT@ECT, Naomi Connell/LON/ECT@ECT, John S 
+Parker/LON/ECT@ECT, Mark Wright/LON/ECT@ECT, Iain Greig/Corp/Enron@Enron, 
+Robert Campbell/LON/ECT@ECT, Richard Samuel/LON/ECT@ECT, Richard 
+Burchfield/HOU/ECT@ECT, Tom O Moore/NA/Enron@ENRON, David Rae/LON/ECT@ECT, 
+Mary Solmonson/HOU/ECT@ECT, Jonathan Bond/LON/ECT@ECT, Peter 
+Griffiths/LON/ECT@ECT, Maya Beyhum/LON/ECT@ECT, Rashpal Bhatti/LON/ECT@ECT, 
+Richard Cross/LON/ECT@ECT, Brett Lawford/LON/ECT@ECT, Phoebe 
+Bradford/LON/ECT@ECT, Esther Demetz/LON/ECT@ECT, Stephen Wood/LON/ECT@ECT, 
+Mary Thambiah/LON/ECT@ECT, Gillian Thornburrow/LON/ECT@ECT, Sheila 
+Foo/LON/ECT@ECT
+cc:  
+Subject: Progress on Daily Trading Ledger - note from John Paskin and Mike 
+Jordan
+
+FYI  -  update on DTL 
+
+Highlight:
+
+We have decided to pause development work on the DTL application
+
+---------------------- Forwarded by Robert Fenton-Stone/LON/ECT on 30/10/2000 
+14:17 ---------------------------
+
+
+Mike Jordan
+30/10/2000 09:29
+To: ECT European Middle Office, Richard Sage/LON/ECT@ECT, Moira 
+Robertson/LON/ECT@ECT, Tani Nath/LON/ECT@ECT, Fernley Dyson/LON/ECT@ECT, John 
+Paskin/LON/ECT@ECT, Mark Pickering/LON/ECT@ECT, Beth Perlman/HOU/ECT@ECT, 
+Richard Payne/LON/ECT@ECT, Cindy Horn/HOU/ECT@ECT, Kevin Sweeney/HOU/ECT@ECT, 
+ECT London Strategic Initiatives, Phil Yoxall/LON/ECT@ECT, Ingrid 
+Petri/LON/ECT@ECT, Richard Samuel/LON/ECT@ECT, Nick Dawson/LON/ECT@ECT, Barry 
+Simon/LON/ECT@ECT, Steve Whitaker/LON/ECT@ECT
+cc:  
+
+Subject: Progress on Daily Trading Ledger - note from John Paskin and Mike 
+Jordan
+
+UAT on phase 1 of this application development has identified previously 
+unforeseen technical and functional requirements/issues. Consequently, a 
+comprehensive re-specification and re-planning exercise for DTL has been 
+completed such as to give a much later implementation timetable.
+
+Given the immediate, and absolute, need to implement the more significant of 
+the control and efficiency improvements identified in this project along with 
+the competing demands for existing IT development resource we have decided to 
+:-
+
+pause development work on the DTL application ( specifically )
+apply business analysis resources on the full redesign and documentation of 
+ledger control and reporting processes
+complete the process changes within the Trade Accounting area that have been 
+on-going for the last 6 months
+reassign IT resources to the Enlighten and Envoice projects
+reassess the timetable for the delivery of the residual DTL control and 
+efficiency improvements by re-preforming the business case for the DTL 
+application following the completion of the above identified work
+
+Please feel free to discuss any of the above issues with us
+
+Regards
+
+John & Mike
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <130036.1075849860231.JavaMail.evans@thyme>
+Date: Thu, 1 Mar 2001 10:46:00 -0800 (PST)
+From: mary.solmonson@enron.com
+To: rahil.jafry@enron.com
+Subject: Enron for Others - Potential Customer Analysis
+Cc: james.scribner@enron.com, sally.beck@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: james.scribner@enron.com, sally.beck@enron.com
+X-From: Mary Solmonson
+X-To: Rahil Jafry
+X-cc: James Scribner, Sally Beck
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Solmonson, mary
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Attached are the results from my meetings today.  
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <17085102.1075849860537.JavaMail.evans@thyme>
+Date: Tue, 2 Jan 2001 07:53:00 -0800 (PST)
+From: mary.solmonson@enron.com
+To: hal.elrod@enron.com
+Subject: ERD Review
+Cc: thomas.gros@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: thomas.gros@enron.com
+X-From: Mary Solmonson
+X-To: Hal Elrod
+X-cc: Thomas D Gros
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Solmonson, mary
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Here's a summary of our conversation so you have points to follow up with.
+
+General Status of the Database model: 
+ FIX not represented - need to incorporate into common design and standardize 
+- might cause some FIX rework.
+ Referential Integrity not entirely enforced  - potential for bad data to 
+develop. 
+ Snapshots from Global databases are currently daily - this can be easily 
+changed to be more frequent, but need to consider implementation as 
+decision   on direction of Global as a part of Commodity Logic is made. 
+ Rate information not developed - need integration with Rate Server or MKM, 
+preferably MKM. Need to define how MKM will be used-whether just for index  
+names or to obtain actual settlement prices or curves as well.
+ Application development is not currently occurring on a single version of 
+the database.  Therefore, some issues could arise as each development team   
+migrates to the standard. This needs to happen relatively quickly.
+
+Specific Issues:
+ GFD_PIPE_METERS_SNP -  Probably need to add FAC_TYPE (WH, ITE, etc) for 
+possible use as validation in KX functionality
+ GAS_DEAL_LOCATION_DTL -  This table refers to facility number rather than 
+pipe and meter.  Facility number is an Enronism that no other company 
+will      recognize.  
+ Pipe and Meter General -   Should try to avoid using Pipe_Cd as key.  This 
+value needs to be updateable as pipelines are bought and sold.
+    -   Data for Facilities is heavily dependent upon Enron Global Facilities 
+Database in current design and functionality-this      needs revisiting as 
+the decision surrounding Global is made 
+ CP_ADDR_VW  - This table references only internal_cp_id and contact_type_cd 
+in conjunction with address_id.  Addresses are specific to      
+internal_cp_id, product_cd, deal_nature_cd, contact_type_cd, and region_cd.  
+Need to add deal nature, product, and      region to ensure correct address 
+usage since many companies align their business along these determinants 
+and      addresses may vary
+ COUNTERPARTY - There is a mixture of the usage of Global Counterparty.  Some 
+areas indicate a certain amount of independence from      Enron's Global 
+Counterparty system, by having a table to capture Commodity Logic information 
+on a counterparty such      as phone numbers, credit ratings, etc. This would 
+position CL to become independent at a later date.  Yet, Commodity      Logic 
+functions as a subset of Enron Networks and GCP must make entries to indicate 
+the usage of a customer by Enron      Networks to obtain an SAP id and 
+support payment processing through to SAP.  So, CL could not become 
+independent      without further functionality or process changes.  So why 
+not put the added data requirements within GCP to start with?   If      
+Global moves to Commodity Logic, then this design needs to be revisited for 
+sure.  There should probably be some      standardization between 
+dependence/independence whether or not CL separates from Enron. 
+ Common Data  - Status is not included in the views being utilized by the 
+applications.  I hope the views have been filtered for active       status 
+only.  Show was going to check on this.
+    - Concept of mapping others' codes to ours for processing, is not 
+supported anywhere in these tables.  Perhaps       that has been handled in 
+an isolated manner in the FIX design? This will have to be there for internal 
+release as well as      external release.  This is critical to the hub 
+concept.
+
+I look forward to sitting in on your meetings surrounding these issues.  Let 
+me know if you have further questions.
+  
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <25583424.1075855928659.JavaMail.evans@thyme>
+Date: Wed, 18 Oct 2000 05:06:00 -0700 (PDT)
+From: mary.solmonson@enron.com
+To: sally.beck@enron.com
+Subject: Global Systems Review - Completion of work, Closing meeting
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Mary Solmonson
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Solmonson, mary
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+These are the preliminary results of the Global Systems audit.  Not too bad.
+
+---------------------- Forwarded by Mary Solmonson/HOU/ECT on 10/18/2000 
+12:04 PM ---------------------------
+
+
+Mary Solmonson
+10/18/2000 12:05 PM
+To: Stuart Reed/NA/Enron@Enron
+cc:  
+Subject: Global Systems Review - Completion of work, Closing meeting
+
+fyi, my comments are:
+
+SAP interface - we discussed an improved solution for implementation in 4th 
+Quarter earlier this week
+
+Inactive Employees, etc - In the absence of a corporate process for keeping 
+this updated, the Global Managers do periodically review who has access and 
+request changes to access based upon their knowledge of current employee 
+assignments.  At best, this is a quarterly process.
+
+Passwords -  they are right.  We probably need something.
+
+---------------------- Forwarded by Mary Solmonson/HOU/ECT on 10/18/2000 
+12:01 PM ---------------------------
+
+
+Russell Bouwhuis@ENRON
+10/18/2000 11:46 AM
+To: Stuart Reed/NA/Enron@Enron
+cc: Mary Solmonson/HOU/ECT@ECT, Stephen Stock/HOU/ECT@ECT, Sundar 
+Chitradurga/HOU/ECT@ECT, Ravi Arumbakkam/Corp/Enron@ENRON, Cynthia 
+Davis/AA/Corp/Enron@ENRON, Gillian Boyer/AA/Corp/Enron@ENRON, Sean 
+Sipko/AA/Corp/Enron@Enron 
+Subject: Global Systems Review - Completion of work, Closing meeting
+
+Stuart,
+
+We have completed our work on the Global Systems (Counterparty, Contracts, 
+Facilities, and Common Codes) in accordance with the Enron North America 2000 
+Audit Plan.  We met with Sundar Chitradurga and Ravi Arumbakkam on the IT 
+side and Mary Solmonson on the business side in order to gain an 
+understanding of the application and its environment.  We were provided the 
+documentation we requested and are pleased with the cooperation we received.  
+We appreciate them making time to work with us in completing this audit.
+
+We have closed our preliminary issues with Sundar and Ravi and we agree on 
+the items in the report.  I am attaching a copy of the preliminary report for 
+your review.  At Enron's request, the reporting date for the currently open 
+business audits has been moved to this Friday, the 20th of October.  They 
+were originally scheduled to report on the 27th.
+
+We would like to give you an opportunity to read through this report and meet 
+with us to discuss any areas of concern prior to Friday's reporting.  We are 
+available today, the 18th, throughout the afternoon and all day tomorrow, 
+Thursday the 19th.  I will also call you this afternoon to discuss meeting to 
+go over each of these issues.  If you are comfortable with this report and do 
+not feel it is necessary for us to meet and discuss it, please let me know.  
+After we have agreed on the accuracy of all issues, they will be placed in 
+the final reporting format.  We will provide you a copy of the final report 
+when it is completed.
+
+We appreciate your cooperation and efforts in this regard.
+
+Thanks,
+
+Russ Bouwhuis
+3-3173
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <28689991.1075849860288.JavaMail.evans@thyme>
+Date: Wed, 28 Feb 2001 02:43:00 -0800 (PST)
+From: marvia.jefferson@enron.com
+To: kim.theriot@enron.com, larry.hunter@enron.com, bryce.baxter@enron.com,
+	bob.hall@enron.com, mechelle.stevens@enron.com
+Subject: Potential Outsourcing Customers for Gas and Financial
+Cc: leslie.reeves@enron.com, sally.beck@enron.com, james.scribner@enron.com,
+	zionette.vincent@enron.com, dorothy.dade@enron.com,
+	heather.choate@enron.com, patti.thompson@enron.com,
+	adrial.boals@enron.com, yolanda.pena@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: leslie.reeves@enron.com, sally.beck@enron.com, james.scribner@enron.com,
+	zionette.vincent@enron.com, dorothy.dade@enron.com,
+	heather.choate@enron.com, patti.thompson@enron.com,
+	adrial.boals@enron.com, yolanda.pena@enron.com
+X-From: Marvia Jefferson
+X-To: Kim S Theriot, Larry Joe Hunter, Bryce Baxter, Bob M Hall, Mechelle Stevens
+X-cc: Leslie Reeves, Sally Beck, James Scribner, Zionette Vincent, Dorothy Dade, Heather Choate, Patti Thompson, Adrial Boals, Yolanda Pena
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Solmonson, mary
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+When: Thursday, March 01, 2001 1:30 PM-2:30 PM (GMT-06:00) Central Time (US & 
+Canada).
+Where: eb3270
+
+*~*~*~*~*~*~*~*~*~*
+
+Attendees: Sally Beck
+  Kim Theriot
+  Joe Hunter
+  Bryce Baxter
+  Bob Hall
+  Mechelle Stevens
+  Leslie Reeves
+  James Scribner
+  Mary Solmonson
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <19513627.1075855928508.JavaMail.evans@thyme>
+Date: Wed, 8 Nov 2000 02:51:00 -0800 (PST)
+From: mary.solmonson@enron.com
+To: sally.beck@enron.com, thomas.gros@enron.com
+Subject: Williams Customer First site
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Mary Solmonson
+X-To: Sally Beck, Thomas D Gros
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Solmonson, mary
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+You need to go take the tour of this site.  I believe Williams has put 
+together what Whalley's vision was a year ago.
+
+http://www.williamscustomerfirst.com/index.jsp#
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <4477760.1075849860259.JavaMail.evans@thyme>
+Date: Thu, 1 Mar 2001 09:27:00 -0800 (PST)
+From: mary.solmonson@enron.com
+To: gdrillock@sempratrading.com
+Subject: RE: Dates/Times for Possible meeting to discuss back office autom
+	ation
+Cc: thomas.gros@enron.com, brenda.flores-cuellar@enron.com, sally.beck@enron.com,
+	patti.thompson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: thomas.gros@enron.com, brenda.flores-cuellar@enron.com, sally.beck@enron.com,
+	patti.thompson@enron.com
+X-From: Mary Solmonson
+X-To: "Greg Drillock (E-mail)" <gdrillock@sempratrading.com>@SMTP@enronXgate
+X-cc: Thomas D Gros, Brenda Flores-Cuellar, Sally Beck, Patti Thompson
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Solmonson, mary
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Please see attached.  If you have any questions, please call Brenda 
+Flores-Cuellar at 713-853-1914 or Tom Gros at 713-853-5537.
+
+
+
+ -----Original Message-----
+From:  Greg Drillock <gdrillock@sempratrading.com>@ENRON 
+[mailto:IMCEANOTES-Greg+20Drillock+20+3Cgdrillock+40sempratrading+2Ecom+3E+40E
+NRON@ENRON.com] 
+Sent: Tuesday, February 27, 2001 4:29 PM
+To: Solmonson, Mary
+Cc: Gros, Thomas D.; Jeff Rosenzweig; Vincent Loud
+Subject: RE: Dates/Times for Possible meeting to discuss back office autom 
+ation
+
+Jeff and myself would like to come down for a visit next Wednesday, March
+7th.
+Could we schedule a meeting for 11am?
+
+-----Original Message-----
+From: Solmonson, Mary [mailto:Mary.Solmonson@ENRON.com]
+Sent: Monday, February 26, 2001 6:19 PM
+To: Greg Drillock (E-mail)
+Cc: Gros, Thomas D.
+Subject: Dates/Times for Possible meeting to discuss back office
+automation
+
+
+I enjoyed speaking with you last week.  As promised, below are proposed
+times for a meeting in Houston to explore the opportunity we have to
+offer in more detail.  I have also spoken with representatives in Enron
+Online regarding your desire to receive a feed of deal data from EOL and
+should have someone available to discuss potential solutions with you.
+
+Here are some proposed dates/times to pick from.  Let me know what suits
+your schedule best.  We're thinking we'll spend the first bit of time
+giving you an overview of what we're working on and proposing and then
+go from there.  We'll probably spend at most 2 hours in this first
+meeting.
+
+Wednesday 3/7    anytime between 10-5
+Thursday     3/8  anytime between 8-12
+Friday         3/9  anytime between 11-5
+
+We would also enjoy the opportunity to treat you to lunch if scheduling
+permits.  Let me know which day/time works best for you and I will
+proceed with finalizing the schedule.
+
+
+****************************************************************************
+This e-mail contains privileged attorney-client communications and/or 
+confidential information, and is only for the use by the intended recipient. 
+Receipt by an unintended recipient does not constitute a waiver of any 
+applicable privilege.
+
+Reading, disclosure, discussion, dissemination, distribution or copying of 
+this information by anyone other than the intended recipient or his or her 
+employees or agents is strictly prohibited.  If you have received this 
+communication in error, please immediately notify us and delete the original 
+material from your computer.
+
+Sempra Energy Trading Corp. (SET) is not the same company as SDG&E or 
+SoCalGas, the utilities owned by SET's parent company.  SET is not regulated 
+by the California Public Utilities Commission and you do not have to buy 
+SET's products and services to continue to receive quality regulated service 
+from the utilities.
+****************************************************************************
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <4682940.1075849860606.JavaMail.evans@thyme>
+Date: Tue, 5 Dec 2000 01:03:00 -0800 (PST)
+From: mary.solmonson@enron.com
+To: sally.beck@enron.com
+Subject: Re: WWW.EnergyClear.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Mary Solmonson
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Solmonson, mary
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+fyi
+---------------------- Forwarded by Mary Solmonson/HOU/ECT on 12/05/2000 
+09:01 AM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  James Whitehead @ ENRON                           12/04/2000 06:49 PM
+	
+
+To: Mary Solmonson/HOU/ECT@ECT
+cc:  
+Subject: Re: WWW.EnergyClear.com  
+
+Mary
+
+I am putting together an analysis of these guys right now since they just 
+came on the scene.  I want to talk to Tom more about this company before I 
+finish the document because he has a great contact there. The JV with Prebon 
+Yamane is not that strong but having Amerex and The Bank of New York is 
+huge.  Please keep me informed of any other information you hear about Energy 
+Clear or any other potential competition.  Thanks.
+
+James
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <4518914.1075855928530.JavaMail.evans@thyme>
+Date: Tue, 7 Nov 2000 07:24:00 -0800 (PST)
+From: mary.solmonson@enron.com
+To: sally.beck@enron.com, thomas.gros@enron.com
+Subject: ConfirmCorp Info
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Mary Solmonson
+X-To: Sally Beck, Thomas D Gros
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Solmonson, mary
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+See the comment below on Williams' confirmation site.  Sounds similar to what 
+we are proposing on CL.  One question I'm exploring right now is whether we 
+could save more money from an Enron perspective and achieve greater 
+marketability with the model that ConfirmCorp proposes with automated 
+matching vs. the Commodity Logic/Williams approach that depends on users 
+reviewing/approving confirms (we've simply put the current process online so 
+to speak).  We need to push for a more radical change/improvement on a faster 
+timeline.   I still believe confirms is the correct area to be focusing on, 
+as I mentioned in our meeting with Louise, but we need to seriously review 
+what we propose to deliver and how.  Is ConfirmCorp a viable company to bring 
+under the Enron umbrella?
+
+I think we should be concerned that late entry with less functionality will 
+erode our ability to sign up customers.  I don't think each large marketer 
+will want to log in to several sites to clear their confirmations with each 
+of their large counterparties.
+
+Can we find out if Williams has further plans for their service that would 
+compete with Commodity Logic?
+
+---------------------- Forwarded by Mary Solmonson/HOU/ECT on 11/07/2000 
+03:08 PM ---------------------------
+
+
+"Chris Papousek" <cep@confirmcorp.com> on 11/07/2000 11:10:15 AM
+Please respond to <cep@confirmcorp.com>
+To: <ron.nolte@enron.com>
+cc: <mary.solmonson@enron.com> 
+Subject: ConfirmCorp Info
+
+
+Dear Ron:
+
+I recently sent you information relating to ConfirmCorp via FedEx.  I trust 
+you have received it by now.  If you have any questions, please do not 
+hesitant to call.  I will follow up with you in one week.
+
+Regards,
+
+Chris Papousek
+President, Confirmation Clearing Corporation
+(713)526-3000
+
+PS Williams Energy just came out with "Williams CustomerFirst", a website 
+that contains all their confirmations.  While eliminating faxes, this puts 
+the onus of verification on the counterparty and assumes there is a 
+confirmation staff on the other end to do the checkout.  ConfirmCorp will 
+make even this advanced approach obsolete.
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <1053654.1075855928635.JavaMail.evans@thyme>
+Date: Fri, 20 Oct 2000 10:28:00 -0700 (PDT)
+From: mary.solmonson@enron.com
+To: ron.nolte@enron.com
+Subject: Clearing User Meetings
+Cc: sally.beck@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sally.beck@enron.com
+X-From: Mary Solmonson
+X-To: Ron Nolte
+X-cc: Sally Beck
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Solmonson, mary
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Ron, please add me to the list for attendance.  I have just a few questions, 
+if you could answer them for me.
+
+Who is requesting/spearheading this meeting?  How does this meeting relate to 
+the requirements gathering already done / being done by Commodity Logic?
+Isn't this a somewhat redundant effort, albeit a more organized approach?  In 
+other words, why would we start a second effort without coordinating it with 
+the Commodity Logic effort ?  Are you in competition or something?
+
+Additionally, I should inform you that a company called ConfirmCorp offers a 
+service for confirm clearing.  They are coming in Tuesday afternoon to make a 
+presentation.  It's probably a good idea if you attend.  The meeting is in 
+49c4.  I will call you with additional information.
+
+
+---------------------- Forwarded by Mary Solmonson/HOU/ECT on 10/20/2000 
+05:14 PM ---------------------------
+   
+                        	
+	Enron Technology
+	
+	From:  Tommy J Yanowski                           10/20/2000 01:22 PM
+	
+
+To: Mary Solmonson
+cc:  
+Subject: Clearing User Meetings
+
+Mary:  You may want to get plugged into this as well.  Thanks!  -  Tommy
+---------------------- Forwarded by Tommy J Yanowski/HOU/ECT on 10/20/2000 
+01:21 PM ---------------------------
+
+
+Ron Nolte
+10/20/2000 12:42 PM
+To: Tommy J Yanowski/HOU/ECT@ECT
+cc:  
+Subject: Clearing User Meetings
+
+Tommy,
+
+The  purpose of these meetings is to flush out a consensus of what clearing 
+needs to be in the future.  
+
+We have invited interested parties from London, Calgary and Houston.  Folks 
+from Clearing, Legal, Credit, Commodity Logic, and LiveLink have been
+invited.
+
+We are asking Legal to clearly define the legal implications of web trading.  
+We expect Web based clearing to be a hot topic; CommodityLogic can
+represent a piece to the clearing puzzle.
+
+Attached is a tentative agenda.  Let me know if you have any ideas for making 
+this as productive as possible.
+
+Thanks, Ron
+
+---------------------- Forwarded by Ron Nolte/HOU/ECT on 10-20-2000 12:19 PM 
+---------------------------
+
+
+Ron Nolte
+10-19-2000 05:17 PM
+To: Bob Bowen/HOU/ECT@ECT, Jefferson D Sorenson/HOU/ECT@ECT, Kim S 
+Theriot/HOU/ECT@ECT, Larry Joe Hunter/HOU/ECT@ECT, Laurel Adams/HOU/ECT@ECT, 
+Debbie Nicholls/LON/ECT@ECT, Jeffrey T Hodge/HOU/ECT@ECT, Mark 
+Taylor/HOU/ECT@ECT, Debbie R Brackett/HOU/ECT@ECT, Gail Hill/LON/ECT@ECT, 
+Carol Findlay/LON/ECT@ECT, Mark Elliott/LON/ECT@ECT, Robert 
+Quick/LON/ECT@ECT, Charlie Hoang/HOU/ECT@ECT, Neil R Anderson/LON/ECT@ECT, 
+Lee Munden/LON/ECT@ECT, Kevin Sweeney/HOU/ECT@ECT, Lynn E 
+Shivers/HOU/ECT@ECT, Scott Mills/HOU/ECT@ECT, Susan Harrison/HOU/ECT@ECT, 
+Carolyn Gilley/HOU/ECT@ECT, Peggy Hedstrom/CAL/ECT@ECT, Dianne 
+Seib/CAL/ECT@ECT, Phil Yoxall/LON/ECT@ECT, Glen Cooper/LON/ECT@ECT, Sally 
+Beck/HOU/ECT@ECT, Scott Tackett/Corp/Enron@Enron, Diane 
+Anderson/NA/Enron@Enron, Richard Burchfield/HOU/ECT@ECT, Jeff 
+Johnson/Corp/Enron@Enron, Richard Elwood/HOU/ECT@ECT
+cc:  
+Subject: Clearing User Meetings
+
+The  emergence of web trading has important implications for deal clearing.  
+Meetings are scheduled for November 16-17 to discuss
+these implications and to come to a consensus on a strategic solution for 
+deal clearing.  
+
+Please plan to attend or designate someone who can represent you.
+
+Attached please find a tentative schedule for the meetings.
+
+Additional information will follow.
+
+Please feel free to address any questions you might have  regarding these 
+meetings to  Sarita Das ( 713 345-8232 ) or Ron Nolte ( 713 853-7569 ).
+
+
+
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <6826899.1075849860334.JavaMail.evans@thyme>
+Date: Tue, 27 Feb 2001 03:21:00 -0800 (PST)
+From: mary.solmonson@enron.com
+To: sally.beck@enron.com
+Subject: Transition Items
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Mary Solmonson
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Solmonson, mary
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+I have a few questions regarding the transition. 
+
+Access Programmers - the contractors will be managed by the end-users they 
+are supporting from now on.  The budget dollars for them are in CC 103849 - 
+$50K per month.  Do you want each department to continue paying their 
+invoices against these budget dollars in 103849 or through their own cost 
+centers ?  Do we transfer budget dollars? Close the cost center?  
+
+Equipment - We have 1 flat screen and several large monitors.  Should we just 
+return all equipment to surplus or offer to others?
+
+Space - Will CommodityLogic be moving and assuming the space that will be 
+vacated on 3/12?
+
+Fax machine will be disconnected/returned.  Digital Scanner will be surplused.
+
+There are two printers that can be surplused unless someone else (CL?) 
+wants/needs them.  TurkeyLegs and Tarzan.  
+
+I currently charge 50% of my time to CL and 50% to my cost center - 103850.  
+Should I continue this or charge all my time to CL and close my cost center 
+?  Since Marvia is also be redeployed, there is no one else in my cost center.
+
+Let me know if you want to sit down and discuss or you can just provide quick 
+answers here or in voice mail.
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <7118864.1075855928447.JavaMail.evans@thyme>
+Date: Wed, 8 Nov 2000 07:19:00 -0800 (PST)
+From: mary.solmonson@enron.com
+To: sally.beck@enron.com
+Subject: Sempra
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Mary Solmonson
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Solmonson, mary
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+fyi
+---------------------- Forwarded by Mary Solmonson/HOU/ECT on 11/08/2000 
+03:13 PM ---------------------------
+   Kim S Theriot                11/08/2000 02:27 PM
+
+To: Mary Solmonson/HOU/ECT@ECT
+cc:  
+Subject: Sempra
+
+First of all....I hope you are feeling well...with all of the emails going 
+back and forth I haven't taken the time to say so...
+
+I just spoke with Lou Santorie with Sempra.  He said that they are very 
+interested in Confirm Corp and would be looking for a company to partner 
+with.  He said that basically "if Enron would decide to use this application" 
+that the industry would have to get on board...basically sounds like he feels 
+that we would set the stage for what is used in the industry as far a 
+clearing applications.
+
+We had a brainstorming meeting with the Commodity Logic team at 
+lunch....their concepts are good for Phase I but we would get the biggest 
+bang from their later Phase concept where they intend to do the automatching 
+of deal info. between us and the Counterparty...... 
+
+Kim
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <17756924.1075856111863.JavaMail.evans@thyme>
+Date: Wed, 22 Nov 2000 06:14:00 -0800 (PST)
+From: mary.solmonson@enron.com
+To: sally.beck@enron.com
+Subject: Payment Module Mtg. on 11/28
+Cc: patti.thompson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: patti.thompson@enron.com
+X-From: Mary Solmonson
+X-To: Sally Beck
+X-cc: Patti Thompson
+X-bcc: 
+X-Folder: \Sally_Beck_Jun2001\Notes Folders\Solmonson, mary
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+You might want to attend this meeting if you can.  We did some brainstorming 
+today on what / how a Commodity Logic payment module should be and came up 
+with some options that are quite revolutionary.  It entails some risk, but 
+also has revenue potential as well.  We want to run it by both you and Tom to 
+see if this is a direction you want to head.
+
+If you're not available, then I can spend time with you to give you the 
+overview.
+
+---------------------- Forwarded by Mary Solmonson/HOU/ECT on 11/22/2000 
+02:09 PM ---------------------------
+From: Maria Sandoval on 11/22/2000 01:27 PM
+To: Kristin Cantu/Corp/Enron@Enron, Thomas D Gros/NA/Enron@Enron, Mary 
+Solmonson/HOU/ECT@ECT, Susan Harrison/HOU/ECT@ECT, Douglas 
+Fuehne/NA/Enron@ENRON
+cc: Brenda Flores-Cuellar/NA/Enron@Enron 
+Subject: Payment Module Mtg. on 11/28
+
+The above mentioned meeting has been scheduled for Tuesday, November 28th 
+from 9 - 10 a.m. in EB 21c1.
+
+If I have access to your calendar, this has already been added.
+
+If you have any questions, please do not hesitate to call me at ext. 35586.
+
+Thank you.
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <19095577.1075849860380.JavaMail.evans@thyme>
+Date: Mon, 26 Feb 2001 00:55:00 -0800 (PST)
+From: mary.solmonson@enron.com
+To: james.scribner@enron.com
+Subject: FW: D&B service
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Mary Solmonson
+X-To: James Scribner
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Solmonson, mary
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Can you give David a call?
+
+ -----Original Message-----
+From:  Dupre, David  
+Sent: Monday, February 26, 2001 12:30 AM
+To: Mary Solmonson/HOU/ECT@ENRON
+Subject: Re: D&B service
+
+Hi, I have not heard from James Scribner yet.
+
+Thanks
+David
+
+
+
+
+Mary Solmonson
+02/05/2001 08:48 AM
+To: David P Dupre/HOU/ECT@ECT
+cc:  
+Subject: Re: D&B service  
+
+I have forwarded your message to James Scribner.  He now heads the Global 
+teams and has responsibility for our relationship with D&B.
+
+
+
+
+David P Dupre
+02/04/2001 09:32 AM
+To: Mary Solmonson/HOU/ECT@ECT
+cc:  
+Subject: Re: D&B service
+
+Hi, may I have access to D&B. Bruce Harris in our group mentioned that you 
+might be able to gain access for me.
+
+Thanks
+David 3-3528
+---------------------- Forwarded by David P Dupre/HOU/ECT on 02/04/2001 12:35 
+AM ---------------------------
+
+
+Bruce Harris@ENRON
+12/07/2000 01:47 PM
+To: David P Dupre/HOU/ECT@ECT
+cc:  
+Subject: Re: D&B service
+
+get access to all so i can ask you for credit info.
+---------------------- Forwarded by Bruce Harris/NA/Enron on 12/07/2000 01:50 
+PM ---------------------------
+
+
+Mike Mumford@ECT
+11/03/2000 12:44 PM
+To: Bruce Harris/NA/Enron@ENRON
+cc: Jean-Sebastien Fontaine/Corp/Enron@Enron, George Zivic/HOU/ECT@ECT, Craig 
+Chaney/HOU/ECT@ECT, Bruce Harris/NA/Enron@Enron, William S 
+Bradford/HOU/ECT@ECT 
+
+Subject: Re: D&B service  
+
+Bruce:
+
+1)  KMV.... access ID "mmenron"  PW "bryan1"   ...  please keep in mind this 
+is a test ID only... only single log on (i.e., get off if you're not using).
+
+2)  Egan-Jones... thought you already had access... we were approached "to 
+fill out Houston contract"... I will ask.  Jean-Sebastien Fontaine or Tomas 
+Valnek have it on their computers (via Bloomberg) if you need immediate 
+assistance.
+
+3)  D&B... I don't know.  Mary Solmonson (Houston) is who we go through for 
+all the D&B stuff.  If you want Moody's, S&P, or other one-off company 
+reports call Tomas Valnek (Manager of our credit analysis section).
+
+
+Mike
+
+
+
+
+
+Bruce Harris@ENRON
+03/11/2000 17:26
+To: Mike Mumford/LON/ECT@ECT, George Zivic/HOU/ECT@ECT, Craig 
+Chaney/HOU/ECT@ECT
+cc: Bruce Harris/NA/Enron@Enron, William S Bradford/HOU/ECT@ECT 
+
+Subject: D&B service
+
+Mike,
+
+Would you have information on how we might get access to D&B company reports 
+here in Houston?  Also KMV and Egan-Jones?
+
+Regards,  Bruce
+
+
+
+
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <19637604.1075849860426.JavaMail.evans@thyme>
+Date: Wed, 21 Feb 2001 04:52:00 -0800 (PST)
+From: mary.solmonson@enron.com
+To: sally.beck@enron.com, beth.perlman@enron.com
+Subject: FW: Hoooooooray!
+Cc: joel.henenberg@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: joel.henenberg@enron.com
+X-From: Mary Solmonson
+X-To: Sally Beck, Beth Perlman
+X-cc: Joel Henenberg
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Solmonson, mary
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Joel has been negotiating with Open Text along with Ryan Orsak - as Enron has 
+been providing numerous resource hours testing their 'beta' product that 
+integrates Livelink with IRIMs for records management processes.  Our 
+experience has been that we are finding way too many problems and that the 
+product does not function as 'advertised'.  Therefore, Joel sought a credit 
+to reimburse Enron for the value of the testing we have performed for them.  
+The $30,000 software credit will likely be used to purchase the web front end 
+to the Livelink product.
+
+Congratulations, Joel!
+
+ 
+
+ -----Original Message-----
+From:  Henenberg, Joel  
+Sent: Friday, February 16, 2001 4:06 PM
+To: Solmonson, Mary
+Subject: Hoooooooray!
+
+Mary, I am happy to say Open Text has agreed to a $60,000 credit for Enron.  
+Enron will receive this credit via $30,000 in software and $30,000 credit in 
+Professional Services.  
+
+
+
+Regards
+
+
+Joel
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <7830560.1075849860449.JavaMail.evans@thyme>
+Date: Thu, 1 Feb 2001 05:15:00 -0800 (PST)
+From: mary.solmonson@enron.com
+To: lisa.petruszka@enron.com
+Subject: Re: Back Office Process Definitions
+Cc: sally.beck@enron.com, bob.hall@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sally.beck@enron.com, bob.hall@enron.com
+X-From: Mary Solmonson
+X-To: Lisa Petruszka
+X-cc: Sally Beck, Bob M Hall
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Solmonson, mary
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+The major groups are :
+
+Manage Risk
+Deal Clearing & Documentation
+Logistics
+Volume Management
+Client Services or Settlements
+Global Data Management
+
+
+Within each of these major areas there groups of activities.  I have some 
+charts I can provide to you (they are slightly dated, but still better than 
+not).  To give you an idea, 
+
+Manage Risk is comprised of :  Value books, Identify Limit violations, Flash 
+P&L, Trade Capture, Generate Reports, etc.
+Deal Clearing is comprised of: Prepare and distribute confirmations, 
+verify/audit deals, broker checkout, etc.
+Logistics is comprised of:  gather operational data, communicate with 
+pipelines, plan product movement, nominate product movement, balance 
+positions, etc.
+Volume Management : validate transport statements, allocate volumes, 
+reconcile imbalances, etc.
+Client Services - Prepare and generate invoices, generate payment requests, 
+resolve disputes on billing, cash management, reconcile A/R and A/P, etc
+Global Data Management - set up new counterparties, maintain cp data, capture 
+and validate settled prices, setup new pipelines and facilities, etc.
+
+Generally, what is thought of as Financial Reporting at Enron is outside of 
+Back Office Operations as is any trading or origination activity.
+
+Sally/Bob - feel free to make any corrections/additions you see fit.
+
+
+
+
+
+
+
+Lisa Petruszka@ENRON
+02/01/2001 10:47 AM
+To: Sally Beck/HOU/ECT@ECT, Mary Solmonson/HOU/ECT@ECT, Bob M 
+Hall/NA/Enron@Enron
+cc:  
+Subject: Back Office Process Definitions
+
+Hello team  - 
+
+How does Enron define their back office processes?  It seems that every 
+organization has their own definition of "back office" and the processes that 
+fall within it.  So, I was curious to know if we had a consistent breakdown 
+for Enron.  What I'm wondering is if there is a "common language" across 
+Enron.  
+
+Let me explain where I'm going with this question - I know that there will be 
+participants from many parts of Enron at the session so we might have a risk 
+of different definitions or assumptions being used during the conversations.  
+If the groups define processes differently, even slightly,  there could be 
+some confusion if we start a conversation at the session around the kinds of 
+services to be offered.
+
+To give you an idea of what I've seen, here are some different breakdowns or 
+"models" used:
+
+In Derivatives Strategy magazine's annual technology assessment, the 
+following breakdown is used to evaluate software products:
+Deal Capture
+Special Deal Entry
+EOD Mark to Market
+P/L Calculations
+Settlement
+Confirmations
+Payments
+Payment Netting
+
+The Bloomberg model, as depicted in Wall Street & Technology, January 2001, 
+has the following high-level components:
+Trade and Order Management
+Electronic Trade Confirmation
+Trade Allocation
+Settlement Instructions
+Electronic Settlement Links
+
+Let me know your thoughts on this.  If you think there is a significant risk 
+of different groups using different definitions for Enron we might be able to 
+build in an exercise early on to get us over the hurdle.  
+
+Lisa P
+5-6352
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <17088801.1075849860357.JavaMail.evans@thyme>
+Date: Tue, 27 Feb 2001 02:18:00 -0800 (PST)
+From: mary.solmonson@enron.com
+To: sally.beck@enron.com, james.scribner@enron.com
+Subject: Back Office Valuation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Mary Solmonson
+X-To: Sally Beck, James Scribner
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Solmonson, mary
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+I organized our thoughts from yesterday into an outline we can follow.  This 
+also gives us a place to start to record our facts/assumptions as we identify 
+them.  I moved the document into O:/Energy_Ops/OPM Hours Survey for now so we 
+can all access.
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <16135418.1075855928612.JavaMail.evans@thyme>
+Date: Mon, 23 Oct 2000 03:57:00 -0700 (PDT)
+From: ron.nolte@enron.com
+To: mary.solmonson@enron.com
+Subject: Re: Clearing User Meetings
+Cc: sally.beck@enron.com, jeff.johnson@enron.com, sarita.das@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sally.beck@enron.com, jeff.johnson@enron.com, sarita.das@enron.com
+X-From: Ron Nolte
+X-To: Mary Solmonson
+X-cc: Sally Beck, Jeff Johnson, Sarita Das
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Solmonson, mary
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Mary,
+
+Thanks for your interest, I will add you.
+
+The meeting arose out of a need to identify where clearing needs to be in the 
+future.  Legal will address
+the legal implications of confirming web based deals.  It was rumored at one 
+time that the web based receipt  was sufficient for confirmation of the 
+deal.  
+
+This issue as well as many others will be discussed.
+
+Clearing users from London, Calgary, and Houston will have a chance to 
+present their requirements. These requirements will  include
+a need for web based clearing,  the nature of which  Commodity Logic is 
+developing.  We are currently working closely with the Commodity Logic 
+project  in
+order to assure that the entire process of clearing deals as it exists today  
+can be made as efficient as possible.
+
+Web based clearing will be one of many requirements we hope to flush out 
+during these meetings,  Based on the requirements we will
+work with London to develop a plan that get us where we need to be.
+
+Thanks for the invite, I will try and make it.
+
+Ron
+
+
+
+
+
+
+Mary Solmonson
+10-20-2000 05:28 PM
+To: Ron Nolte/HOU/ECT@ECT
+cc: Sally Beck/HOU/ECT@ECT 
+Subject: Clearing User Meetings
+
+Ron, please add me to the list for attendance.  I have just a few questions, 
+if you could answer them for me.
+
+Who is requesting/spearheading this meeting?  How does this meeting relate to 
+the requirements gathering already done / being done by Commodity Logic?
+Isn't this a somewhat redundant effort, albeit a more organized approach?  In 
+other words, why would we start a second effort without coordinating it with 
+the Commodity Logic effort ?  Are you in competition or something?
+
+Additionally, I should inform you that a company called ConfirmCorp offers a 
+service for confirm clearing.  They are coming in Tuesday afternoon to make a 
+presentation.  It's probably a good idea if you attend.  The meeting is in 
+49c4.  I will call you with additional information.
+
+
+---------------------- Forwarded by Mary Solmonson/HOU/ECT on 10/20/2000 
+05:14 PM ---------------------------
+   
+                        	
+	Enron Technology
+	
+	From:  Tommy J Yanowski                           10/20/2000 01:22 PM
+	
+
+To: Mary Solmonson
+cc:  
+Subject: Clearing User Meetings
+
+Mary:  You may want to get plugged into this as well.  Thanks!  -  Tommy
+---------------------- Forwarded by Tommy J Yanowski/HOU/ECT on 10/20/2000 
+01:21 PM ---------------------------
+
+
+Ron Nolte
+10/20/2000 12:42 PM
+To: Tommy J Yanowski/HOU/ECT@ECT
+cc:  
+Subject: Clearing User Meetings
+
+Tommy,
+
+The  purpose of these meetings is to flush out a consensus of what clearing 
+needs to be in the future.  
+
+We have invited interested parties from London, Calgary and Houston.  Folks 
+from Clearing, Legal, Credit, Commodity Logic, and LiveLink have been
+invited.
+
+We are asking Legal to clearly define the legal implications of web trading.  
+We expect Web based clearing to be a hot topic; CommodityLogic can
+represent a piece to the clearing puzzle.
+
+Attached is a tentative agenda.  Let me know if you have any ideas for making 
+this as productive as possible.
+
+Thanks, Ron
+
+---------------------- Forwarded by Ron Nolte/HOU/ECT on 10-20-2000 12:19 PM 
+---------------------------
+
+
+Ron Nolte
+10-19-2000 05:17 PM
+To: Bob Bowen/HOU/ECT@ECT, Jefferson D Sorenson/HOU/ECT@ECT, Kim S 
+Theriot/HOU/ECT@ECT, Larry Joe Hunter/HOU/ECT@ECT, Laurel Adams/HOU/ECT@ECT, 
+Debbie Nicholls/LON/ECT@ECT, Jeffrey T Hodge/HOU/ECT@ECT, Mark 
+Taylor/HOU/ECT@ECT, Debbie R Brackett/HOU/ECT@ECT, Gail Hill/LON/ECT@ECT, 
+Carol Findlay/LON/ECT@ECT, Mark Elliott/LON/ECT@ECT, Robert 
+Quick/LON/ECT@ECT, Charlie Hoang/HOU/ECT@ECT, Neil R Anderson/LON/ECT@ECT, 
+Lee Munden/LON/ECT@ECT, Kevin Sweeney/HOU/ECT@ECT, Lynn E 
+Shivers/HOU/ECT@ECT, Scott Mills/HOU/ECT@ECT, Susan Harrison/HOU/ECT@ECT, 
+Carolyn Gilley/HOU/ECT@ECT, Peggy Hedstrom/CAL/ECT@ECT, Dianne 
+Seib/CAL/ECT@ECT, Phil Yoxall/LON/ECT@ECT, Glen Cooper/LON/ECT@ECT, Sally 
+Beck/HOU/ECT@ECT, Scott Tackett/Corp/Enron@Enron, Diane 
+Anderson/NA/Enron@Enron, Richard Burchfield/HOU/ECT@ECT, Jeff 
+Johnson/Corp/Enron@Enron, Richard Elwood/HOU/ECT@ECT
+cc:  
+Subject: Clearing User Meetings
+
+The  emergence of web trading has important implications for deal clearing.  
+Meetings are scheduled for November 16-17 to discuss
+these implications and to come to a consensus on a strategic solution for 
+deal clearing.  
+
+Please plan to attend or designate someone who can represent you.
+
+Attached please find a tentative schedule for the meetings.
+
+Additional information will follow.
+
+Please feel free to address any questions you might have  regarding these 
+meetings to  Sarita Das ( 713 345-8232 ) or Ron Nolte ( 713 853-7569 ).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <805588.1075849860495.JavaMail.evans@thyme>
+Date: Thu, 4 Jan 2001 09:19:00 -0800 (PST)
+From: mary.solmonson@enron.com
+To: leslie.reeves@enron.com
+Subject: Cavio Corporation
+Cc: sally.beck@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sally.beck@enron.com
+X-From: Mary Solmonson
+X-To: Leslie Reeves
+X-cc: Sally Beck
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Solmonson, mary
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Thought you might also like to attend.
+
+---------------------- Forwarded by Mary Solmonson/HOU/ECT on 01/04/2001 
+05:16 PM ---------------------------
+From: Tommy Yanowski/ENRON@enronXgate on 01/04/2001 05:03 PM
+To: Thomas D Gros/NA/Enron@Enron, Debbie R Brackett/HOU/ECT@ECT, Hal 
+Elrod/Corp/Enron@Enron, Marcus Pullicino/HOU/ECT@ECT, Mary 
+Perkins/HOU/ECT@ECT, Mary Solmonson/HOU/ECT@ECT
+cc: Philippe A Bibi/HOU/ECT@ECT, Beth Perlman/ENRON@enronXgate, John 
+Pavetto/Corp/Enron@Enron 
+Subject: Cavio Corporation
+
+Below is a message from a company by the name of Cavio who specializes in 
+software that streamlines the settlements process.  More information about 
+their products can be found at http://www.cavio.com/.  They would like to 
+visit Enron and discuss the potential of partnering with us.  Essentially 
+they would charge our customers a fee for the process of clearing or settling 
+their transactions and share a portion of the revenue with Enron.  The 
+benefit to our customers is a reduced cost for letters of credit.  
+
+Bottom line is that they would like to meet with us and see if their is any 
+interest in trying to put something together.  Please let me know if you are 
+interested in being a part of the meeting and I will coordinate setting it 
+up.  Thanks!  -  Tommy
+---------------------- Forwarded by Tommy J Yanowski/HOU/ECT on 01/04/2001 
+04:36 PM ---------------------------
+To: "'tommy.j.yanowski@enron.com'" <tommy.j.yanowski@enron.com>
+cc:  
+Subject: 
+
+Dear Tommy, 
+Further to my phone message to you on Wednesday morning, I have great news. 
+It appears the last points have been ironed out and that CheMatch will be 
+going forward with the Cavio Solution.  Our CEO and VP of Sales will be 
+attending a meeting with CheMatch in Houston in mid to late January.  As 
+well, interest has been shown from the Natural Gas Exchange (www.ngx.com) and 
+Automated Power Exchange (www.apx.com).  From our discussions, it has become 
+apparent that these two sites currently deal with Enron at some level and 
+both agree that the Cavio Solution could effect a positive change in the lag 
+time currently seen for billing cycles (up to 55 days) as well as providing 
+other benefits.  I feel that with Enron and CheMatch setting a new standard 
+with Cavio, many of your current clients will be eager to join, and your 
+competition will be left behind.
+Based on the fact that you had expressed interest in Cavio and Beta testing 
+the Cavio Solution for trades currently happening between Cheats and Enron,  
+I think that it may be an ideal time to plan a meeting with your team in 
+conjunction with our meeting with CheMatch.  
+Please advise as soon as possible. 
+Thanks. 
+Geoff Kershaw 
+Business Development Manager
+Cavio Corporation 
+Phone   (604) 484-4700 Ext. 4713
+Fax        (604) 484-4701
+Email    gkershaw@cavio.com
+Web       www.cavio.com 
+----------------------------------------------------------------------------
+NOTICE: This email message is for the sole use of the intended recipient(s) 
+and may contain confidential and privileged information. Any unauthorized 
+review, use, disclosure or distribution is prohibited. If you are not the 
+intended recipient, please contact the sender by reply email and destroy all 
+copies of the message.
+----------------------------------------------------------------------------- 
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <7742303.1075849860471.JavaMail.evans@thyme>
+Date: Fri, 26 Jan 2001 09:37:00 -0800 (PST)
+From: julissa.marron@enron.com
+To: sally.beck@enron.com, mary.solmonson@enron.com
+Subject: PG&E Cash Report
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Julissa Marron
+X-To: Sally Beck, Mary Solmonson
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Solmonson, mary
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Here's the re-formatted PG&E cash report.  Let me know if you have any 
+questions are updates.
+
+
+
+
+Thank you,
+
+Julissa Marron
+

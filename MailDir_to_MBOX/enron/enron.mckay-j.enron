@@ -1,0 +1,1848 @@
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <18848242.1075841216506.JavaMail.evans@thyme>
+Date: Fri, 17 Aug 2001 13:46:39 -0700 (PDT)
+From: savita.puthigai@enron.com
+To: traders.eol@enron.com, traders.eol@enron.com
+Subject: NEW ENRONONLINE FUNCTIONALITY
+Cc: center.eol@enron.com, europe.eol@enron.com, sydney.eol@enron.com,
+	houston.product@enron.com, jay.webb@enron.com,
+	brad.richter@enron.com, group.enron@enron.com, carl.carter@enron.com,
+	leonardo.pacheco@enron.com, lindsay.renaud@enron.com,
+	francis.gonzales@enron.com, teresa.mandola@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: center.eol@enron.com, europe.eol@enron.com, sydney.eol@enron.com,
+	houston.product@enron.com, jay.webb@enron.com,
+	brad.richter@enron.com, group.enron@enron.com, carl.carter@enron.com,
+	leonardo.pacheco@enron.com, lindsay.renaud@enron.com,
+	francis.gonzales@enron.com, teresa.mandola@enron.com
+X-From: Puthigai, Savita </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SPUTHIGA>
+X-To: EOL Non North America Traders </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=EOL Non North America Traders>, EOL North America Traders </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=EOL North America Traders>
+X-cc: EOL Call Center </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=EOL Call Center>, EOL Marketing Europe </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=EOLMarketingEurope>, EOL Product Control Group, Enron Sydney </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=c54b7baa-3d476e0b-862568bd-54b03b>, Product Control - Houston </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=Product Control - Houston>, Webb, Jay </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jwebb>, Richter, Brad </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Brichte>, Enron London - EOL Product Control Group, </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=eb17bf3-5a5745-802567f4-3d719c>, Carter, Carl </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ccarter4>, Pacheco, Leonardo </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lpacheco>, Renaud, Lindsay </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lrenaud>, Gonzales, Francis </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Fgonzal4>, Mandola, Teresa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tmandola>
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+In order to continually develop and make improvements to the functionality of EnronOnline we are rolling out several changes tonight, which will be in effect on Monday August 20, 2001. Some of these changes will affect Stack Manager while others affect the Website. A summary of these changes is listed below.
+
+Stack Manager Changes
+
+Top of Stack limit orders - This feature will allow the price submitted via limit orders to be displayed on the website if their bid or offer is better than the trader's stack price. Stack Manger will list the price and the names of counterparties submitting such orders on the  floated stack window.  Orders will be queued by price and time stamp. When a counterparty trades on a " Top of Stack Entry" it will create back to back transactions; one between Enron and the counterparty submitting the order, and the other between Enron and the counterparty clicking on the website.
+
+In order to turn on this functionality select the " Allowed Top of Stack" option, in the Orders section of the product properties page.  If regular limit order functionality is desired the "Allowed"  option should be selected.
+
+Please note that this feature will be released in a disabled mode and will be turned on sometime next week after determining which business units want to roll this out.
+
+Restricted Top of Stack limit orders - This feature will allow the price submitted only by internal traders via limit orders to be displayed on the website if their bid or offer is better than the trader's stack price. Stack Manger will list price and the names of counterparties submitting such orders on the  floated stack window.  Orders will be queued by price and time stamp. When a counterparty trades on a " Top of Stack Entry" it will create back to back transactions one between Enron and the counterparty submitting the order, and the other between Enron and the counterparty clicking on the website.
+
+In order to turn on this functionality select the " allowed as Restricted Top of Stack" option, in the Orders section of the product properties page.  If regular limit order functionality is desired the "Allowed"  option should be selected. If a product has active orders against it you will not be able to select the "Restricted Top of Stack" feature.
+
+Advanced Filtering Ability on All Products Tab -  Drop down filtering capability is now available for each field in the All Products tab in stack manager. In order to filter click on the arrow next to the field title. A drop down box with a list of attributes will appear. Highlight the attribute by which you wish to filter. To turn off the filter click on the arrow and select the " All" option from the drop down box.
+
+
+Website Changes
+
+New Submission Screen for Restricted Top of Stack Limit Orders -  The submission screen for  products that allow  Top of Stack or Restricted Top of Stack limit orders is as follows.
+ 
+
+The submit button on the left makes a submission for a normal transaction, while the button on the right will submit as a limit order.  In case of the Restricted Top of Stack limit orders only internal traders will see the new submission box. 
+
+Price of Limit Orders 
+
+Modify Limit Orders
+ Customers now have the ability to modify the price of any active order. In order to do so highlight the order to be modified and use the plus or minus sign next to the price field on  at the top of the "Today's Orders" section. The price will move up or down in the same increments as the tick size for that product. Once the price is at the desired level click the "Set" button and the price will be modified. Another way to modify the price on a limit order is to click on the price field on a particular limit order.  You will see a box with plus, minus and set buttons that allow you to modify that order.
+
+Expiration time for Limit Orders
+Customers can now place limit orders with expiration times of up to 30 days. Currently they may place orders for only up to 12 hours.
+
+Float the Today's Orders Section
+You can now float the " Limit Order " section. In order to do so, right click in the "Today's Orders " section and select the float window option. In order to make the window " Stay On Top " right click on the floated window and select the stay on top option.
+
+Mid Market Client - Mid market originators will now have the ability to transact on behalf of their customers, while including their desired margin on the trade, on EnronOnline products. In order to do so Click on the bid or offer price, a customised submission window will appear.  Select the counterparty for whom you wish to transact from a drop down list , enter the desired customer price and margin and click submit. For example if a customer wants to buy Nymex Sep 01 at 3.36 and you wish to have a 1 cent margin, please enter 3.36 as the desired price and 0.01 as the margin. The system will trade the order when the EnronOnline offer for Nymex Sep 01 is at 3.35, book the trade at 3.36 and record the 0.01 origination amount.
+
+In order to be set up to use this functionality. Please call the EnronOnline Product Control Group.
+
+Changes to Website Passwords - As an added security measure, which has been requested by many customers, some new password rules have been instituted. First, the password cannot be equal to the login ID. Second, each user will be prompted to change his password every 90 days. These rules apply to all website passwords for both internal and external users.
+
+
+Please note  Stack Manager changes will be available all traders as of Monday August 20, 2001. The changes to the website will be rolled out to a few internal users on Monday with the rest of the internal users being upgraded Monday night, and external users by the end of the week.  Over the next couple of weeks all users will be prompted to change their website passwords.
+
+If you have any questions regarding these changes please contact me at 713-853-1787.
+
+Savita Puthigai
+
+
+
+
+<Embedded Paintbrush Picture>
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <13723752.1075841216578.JavaMail.evans@thyme>
+Date: Mon, 13 Aug 2001 14:10:21 -0700 (PDT)
+From: scott.neal@enron.com
+To: jonathan.mckay@enron.com
+Subject: 
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Neal, Scott </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SNEAL>
+X-To: Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmckay1>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+any update on when you will be in houston?
+
+thanks,
+
+scott
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <6159831.1075841216236.JavaMail.evans@thyme>
+Date: Tue, 16 Oct 2001 08:40:50 -0700 (PDT)
+From: beth.jenkins@enron.com
+To: jonathan.mckay@enron.com
+Subject: NEW Load Curtailment Product for New York
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jenkins, Beth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=E6C1DE71-DD994802-86256A87-59D03E>
+X-To: Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+
+---------------------- Forwarded by Beth Jenkins/HOU/EES on 10/16/2001 10:40 AM ---------------------------
+
+
+EES Product Announcement
+10/16/2001 10:29 AM
+Sent by:	Kathleen Pope-Sance
+To:	All EES
+cc:	 
+Subject:	NEW Load Curtailment Product for New York
+
+
+
+Introducing a product that lets New York customers turn their 
+energy load flexibility into a revenue opportunity.
+
+Enron can turn energy usage flexibility into revenue for our customers. When a customer chooses Enron's product, 
+they receive monthly payments in exchange for reducing their energy usage at Enron's request. Requests are made 
+when energy market prices are high, so the energy the customer doesn't use can be sold on the market at a premium. 
+Bad time for the customer? No problem--they can choose not to reduce usage, and pay a 
+"buy through price" to Enron instead. Want to learn more? Click here .
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <18359815.1075841215866.JavaMail.evans@thyme>
+Date: Tue, 4 Dec 2001 06:01:07 -0800 (PST)
+From: chance.rabon@enron.com
+To: jonathan.mckay@enron.com
+Subject: 
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>
+X-To: Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmckay1>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+john,
+
+My steno has changed to #5695.
+
+chance
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <6867569.1075841215891.JavaMail.evans@thyme>
+Date: Mon, 3 Dec 2001 08:48:12 -0800 (PST)
+From: carmstrong@spragueenergy.com
+To: jonathan.mckay@enron.com
+Subject: Cancelled deals
+Cc: myers@enron.com, mmyers@spragueenergy.com, coco@enron.com,
+	rcoco@spragueenergy.com, foulds@enron.com, jfoulds@spragueenergy.com,
+	angold@enron.com, jangold@spragueenergy.com, clemons@enron.com,
+	lclemons@spragueenergy.com, wolff@enron.com,
+	twolff@spragueenergy.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: myers@enron.com, mmyers@spragueenergy.com, coco@enron.com,
+	rcoco@spragueenergy.com, foulds@enron.com, jfoulds@spragueenergy.com,
+	angold@enron.com, jangold@spragueenergy.com, clemons@enron.com,
+	lclemons@spragueenergy.com, wolff@enron.com,
+	twolff@spragueenergy.com
+X-From: "Armstrong, Cynthia" <CArmstrong@spragueenergy.com>@ENRON
+X-To: Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>
+X-cc: Myers, Mary <MMyers@spragueenergy.com>, Coco, Richard <RCoco@spragueenergy.com>, Foulds, Jason <JFoulds@spragueenergy.com>, Angold, Jeff <JANGOLD@spragueenergy.com>, Clemons, Lori <LClemons@spragueenergy.com>, Wolff, Tamara <TWolff@spragueenergy.com>
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+Jon,
+	As per our discussion, the physical deals that we cancelled on
+November 30, 2001 were as follows (Jan-Mar 2002 portion)
+
+	5,000 Dth/day, 11/1/2001-3/31/2002, Union Gas Ltd. DAWN, Nymex LDS
+plus U.S.$0.230 - Enron Deal 1133591
+	1,000 Dth/day, 11/1/2001-3/31/2002, TGPL Z6 NY, Nymex LDS plus
+$1.875 - Enron Deal 1124374
+	5,000 Dth/day, 11/1/2001-3/31/2002, TGPL Z6 NY, Inside F.E.R.C.
+index plus $0.35 - Enron Deal 1123276
+	5,000 Dth/day, 11/1/2001-3/31/2002, TGP Z6, Nymex LDS plus $0.65 -
+Enron Deal 1139658 * (our records show plus $0.63)
+
+If there are any questions, pls. do not hesitate to contact me.  Thanks.
+
+
+
+
+Cynthia L. Armstrong
+Managing Dir., Nat.Gas Supply & Risk Management
+Sprague Energy Corp.
+Two International Drive, Suite 200
+Portsmouth, NH 03801-0609
+Direct Telephone: (603) 766-7412
+Fax:                    (603) 430-5320
+Cell:                    (603) 502-6556
+Pager:                 (800) 946-4645 Pin #: 6221678
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <28571401.1075841216531.JavaMail.evans@thyme>
+Date: Wed, 15 Aug 2001 13:49:26 -0700 (PDT)
+From: melba.lozano@enron.com
+To: jonathan.mckay@enron.com
+Subject: RE: Can Gas Phy Basis Firm West
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Lozano, Melba </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MLOZANO>
+X-To: Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmckay1>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+Is Empress traded in USD?  Please let me know.
+
+Thanks,
+
+ML
+
+ -----Original Message-----
+From: 	Mckay, Jonathan  
+Sent:	Wednesday, August 15, 2001 12:29 PM
+To:	Lozano, Melba
+Cc:	Lambie, Chris
+Subject:	RE: Can Gas Phy Basis Firm West
+
+Thanks for looking into this for me.  Hopefully these answers help.
+
+Is this the index for all products?   Yes,  we would like to have the ability to offer all western Canadian products under this formate.  Under this structure we will be buying/selling natural gas in exchange for "the last scheduled Trading Day of the NYMEX Henry Hub Natural Gas Futures Contract" modified by the price submitted by the counterparty on the website.
+Which ones will be the locations you will be using?  We will be putting out AECO, Sumas, Station 2, and Empress products under this format.
+Please match a Risk Book assignment to each location	AECO/Empress  - FT-Cand-EGSC and Sumas/Station 2 - FT-Cand-EGSC-BC
+Who will be the trader?  Chris Lambie for AECO and Empress; Chris Dorland for Sumas/Station 2
+Who will be the risk book administrator?  Chelsea Bardel - (403) 974 6957
+What will be the terms trading? We would like to have the ability to set up a bunch of products beyond 1 Month.  To start with: Nov01,Dec01, Nov01-Mar02, Apr02-Oct02, Nov02-Mar03, Apr03-Oct03.
+
+If you need a more through explaination please let me know.
+
+Thanks,
+
+Jon
+
+ -----Original Message-----
+From: 	Lozano, Melba  
+Sent:	Wednesday, August 15, 2001 7:38 AM
+To:	Lambie, Chris
+Cc:	Mckay, Jonathan
+Subject:	FW: Can Gas Phy Basis Firm West
+Importance:	High
+
+I need the following information so I can start building the product types. 
+
+Thank you.
+-----Original Message-----
+From: 	Lozano, Melba  
+Sent:	Tuesday, August 14, 2001 2:11 PM
+To:	Lambie, Chris
+Subject:	Can Gas Phy Basis Firm West
+Importance:	High
+
+Chris,
+
+I have several questions on these new product types.  Could you help me out so that I can send this for testing?
+
+Is this the index for all products?   The Index shall be the settlement price for the last scheduled Trading Day of the NYMEX Henry Hub Natural Gas Futures Contract.
+Which ones will be the locations you will be using?
+Please match a Risk Book assignment to each location
+Who will be the trader?
+Who will be the risk book administrator?
+What will be the terms trading? (start and end dates)
+
+
+Please let me know when you get all this information.
+
+Thanks,
+Melba Lozano
+713-345-8986 
+713-646-8511 Fax
+713-698-4847 Pager
+
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <19078085.1075841216428.JavaMail.evans@thyme>
+Date: Wed, 19 Sep 2001 12:18:20 -0700 (PDT)
+From: chris.germany@enron.com
+To: kelly.donlevy-lee@enron.com, nicole.laporte@enron.com
+Subject: RE: Boston Gas
+Cc: ruth.concannon@enron.com, jonathan.mckay@enron.com, h..fletcher@enron.com,
+	kimat.singla@enron.com, kam.keiser@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: ruth.concannon@enron.com, jonathan.mckay@enron.com, h..fletcher@enron.com,
+	kimat.singla@enron.com, kam.keiser@enron.com
+X-From: Germany, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CGERMAN>
+X-To: Donlevy-Lee, Kelly </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kdonlevy>, Laporte, Nicole </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Nlaporte>
+X-cc: Concannon, Ruth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rconcan>, Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmckay1>, Fletcher, Brenda H. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bfletch>, Singla, Kimat </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ksingla>, Keiser, Kam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kkeiser>
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+The Boston Differential for August 2001 is ($.1166).  I want to understand the contract better before I give you the Sep price.
+
+Ruth, you and I are chatting about this today I hope.
+
+Kam, I'm guessing this becomes an O&A issue each month.  I don't know if you need to be involved or not.
+
+ -----Original Message-----
+From: 	Donlevy-Lee, Kelly  
+Sent:	Wednesday, September 19, 2001 10:32 AM
+To:	Germany, Chris
+Cc:	Laporte, Nicole
+Subject:	FW: Boston Gas
+
+Hi Chris,
+
+I realize that you are getting bugged from a few of us in Canada for the Boston Differential numbers.  I am in Accounting and I am in desperate need of the Boston Differential for August and September so that I can finish my invoicing for the month.  I really have to have these numbers by the end of the day today (latest).  Sorry for being a pest, but I am starting to panic!  Please send these numbers to me or Nicole Laporte, as soon as possible.
+
+Thanks,
+Kelly
+
+ -----Original Message-----
+From: 	Wells, Michelle  
+Sent:	Monday, September 17, 2001 1:18 PM
+To:	Vallejo, Stacey; Donlevy-Lee, Kelly
+Subject:	FW: Boston Gas
+
+
+
+ -----Original Message-----
+From: 	Laporte, Nicole  
+Sent:	Monday, September 17, 2001 1:15 PM
+To:	Germany, Chris
+Cc:	Wells, Michelle
+Subject:	RE: Boston Gas
+
+Chris,
+We just require August and September, we already have July.
+Would it possible to get the differential number before Wednesday? Our Accounting group requires this number for invoicing and they are a few weeks late with their August invoice and require the differential immediately.
+Please let me know,
+Thanks,
+Nicole
+
+ -----Original Message-----
+From: 	Germany, Chris  
+Sent:	Monday, September 17, 2001 12:51 PM
+To:	Laporte, Nicole
+Subject:	RE: Boston Gas
+
+Sorry about the delay.  I'm starting to look at this again.  I know you need August and September.  Did you say you also need July?  
+
+I don't know if Canada makes any money off this deal but my book is taking a beating.  Ruth Concannon and I are meeting Wednesday to discuss this deal.  There are some other things going on with this deal that she is aware of.  I should have your prices by them.
+
+Thanks
+
+ -----Original Message-----
+From: 	Laporte, Nicole  
+Sent:	Wednesday, September 12, 2001 11:57 AM
+To:	Germany, Chris
+Subject:	RE: Boston Gas
+
+Chris,
+Attached is a spreadsheet listing the differential since January 1998.
+Please let me know as soon as you know something!
+Thanks!
+Nicole
+ << File: BostonGasDifferential.xls >> 
+
+ -----Original Message-----
+From: 	Germany, Chris  
+Sent:	Wednesday, September 12, 2001 10:47 AM
+To:	Laporte, Nicole
+Cc:	Singla, Kimat
+Subject:	FW: Boston Gas
+
+Nicole, would you send us the last price you were given please?
+
+Thanks
+
+ -----Original Message-----
+From: 	Singla, Kimat  
+Sent:	Wednesday, September 12, 2001 10:35 AM
+To:	Germany, Chris
+Subject:	RE: Boston Gas
+
+Chris, I remember there used to be one excel spreadsheet on Boston. But I can't find any on my CPU, perhaps it got lost when they upgraded my CPU. Do you have it? Let me know what we need to do. Thanks.
+
+Kimat
+
+
+ -----Original Message-----
+From: 	Germany, Chris  
+Sent:	Monday, September 10, 2001 12:44 PM
+To:	Laporte, Nicole; Singla, Kimat
+Subject:	Boston Gas
+
+Nicole, I have the Boston Gas confirmation letter.  Thanks.
+
+Kimat, are you familiar with the Boston Gas worksheet Dick Jenkins would update to calculate the Tenn Z6 city gate price?  It wasn't very big, and Dick would have me verify the Iroquois and Tenn transport variable cost.
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <30528696.1075841215574.JavaMail.evans@thyme>
+Date: Mon, 4 Feb 2002 06:34:51 -0800 (PST)
+From: ed.mcmichael@enron.com
+To: eric.bass@enron.com, jonathan.mckay@enron.com, h..lewis@enron.com,
+	mathew.smith@enron.com, frank.ermis@enron.com,
+	dutch.quigley@enron.com
+Subject: Gas Curves Validation
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: McMichael Jr., Ed </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EMCMICH>
+X-To: Bass, Eric </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ebass>, Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmckay1>, Lewis, Andrew H. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Alewis>, Smith, Mathew </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Msmith18>, Ermis, Frank </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Fermis>, Quigley, Dutch </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dquigle>, 'mark.allan.smith@us.pwcglobal.com', 'loretta.cross@us.pwcglobal.com'
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+When: Monday, February 04, 2002 10:00 AM-11:00 AM (GMT-06:00) Central Time (US & Canada).
+Where: ECS 04750
+
+*~*~*~*~*~*~*~*~*~*
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <28492541.1075841216478.JavaMail.evans@thyme>
+Date: Mon, 20 Aug 2001 07:00:52 -0700 (PDT)
+From: eric.le@enron.com
+To: jonathan.mckay@enron.com
+Subject: FW: Jon McKay origination for Sithe deal
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Le Dain, Eric </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ELEDAIN>
+X-To: Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmckay1>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+Here's the answer...
+
+ -----Original Message-----
+From: 	Patterson, Grant  
+Sent:	Friday, August 17, 2001 4:39 PM
+To:	Le Dain, Eric
+Subject:	Jon McKay origination for Sithe deal
+
+The reason you don't see the origination for Jon McKay for the Sithe deal for $1,229,328 in the YTD and June Revenue by Originator metrics is because I wanted to capture all origination for just the originations group.  I included origination for Rob, Paul Devries and Kyle Kitigawa per Rob's request.  I checked the gas book for June and Jon's origination was recorded by the risk group.  If you have any further questions with regards to this matter, I will be back in the office on August 27, 2001.
+
+Regards,
+
+Grant
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <2069144.1075841216555.JavaMail.evans@thyme>
+Date: Wed, 15 Aug 2001 07:38:21 -0700 (PDT)
+From: melba.lozano@enron.com
+To: chris.lambie@enron.com
+Subject: FW: Can Gas Phy Basis Firm West
+Cc: jonathan.mckay@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jonathan.mckay@enron.com
+X-From: Lozano, Melba </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MLOZANO>
+X-To: Lambie, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Clambie>
+X-cc: Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmckay1>
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+I need the following information so I can start building the product types. 
+
+Thank you.
+-----Original Message-----
+From: 	Lozano, Melba  
+Sent:	Tuesday, August 14, 2001 2:11 PM
+To:	Lambie, Chris
+Subject:	Can Gas Phy Basis Firm West
+Importance:	High
+
+Chris,
+
+I have several questions on these new product types.  Could you help me out so that I can send this for testing?
+
+Is this the index for all products?   The Index shall be the settlement price for the last scheduled Trading Day of the NYMEX Henry Hub Natural Gas Futures Contract.
+Which ones will be the locations you will be using?
+Please match a Risk Book assignment to each location
+Who will be the trader?
+Who will be the risk book administrator?
+What will be the terms trading? (start and end dates)
+
+
+Please let me know when you get all this information.
+
+Thanks,
+Melba Lozano
+713-345-8986 
+713-646-8511 Fax
+713-698-4847 Pager
+
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <16405579.1075841216118.JavaMail.evans@thyme>
+Date: Wed, 31 Oct 2001 06:51:28 -0800 (PST)
+From: caroline.abramo@enron.com
+To: jonathan.mckay@enron.com
+Subject: FW: chart
+Cc: robyn.zivic@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: robyn.zivic@enron.com
+X-From: Abramo, Caroline </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CABRAMO>
+X-To: Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmckay1>
+X-cc: Zivic, Robyn </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rzivic>
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+hi jon- thanks for speaking to danny at global..
+we put this chart together everyday and its been the basis of the short tz6 trade..
+
+we have not included taxes in the fuel numbers.. even when you add 50 cents to fuel and heat for jan and feb.. gas is way over at tz6..
+
+you mentioned basis there getting out to $3.00 plus when we actually have some cold.. what is that based on? 
+
+thnx,
+ca
+
+rob ellis from catequil asked if he could talk to you for a spell today as well?  that ok?
+
+
+ 
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <32242738.1075841215939.JavaMail.evans@thyme>
+Date: Fri, 30 Nov 2001 14:49:49 -0800 (PST)
+From: f..calger@enron.com
+To: jonathan.mckay@enron.com
+Subject: FW: New and Improved 2-Way Termination Agreement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Calger, Christopher F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CCALGER>
+X-To: Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmckay1>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+
+ -----Original Message-----
+From: 	Murphy, Harlan  
+Sent:	Thursday, November 29, 2001 8:28 PM
+To:	Calger, Christopher F.; Sacks, Edward
+Subject:	New and Improved 2-Way Termination Agreement
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <28717005.1075841215986.JavaMail.evans@thyme>
+Date: Thu, 29 Nov 2001 09:38:36 -0800 (PST)
+From: f..brawner@enron.com
+To: jonathan.mckay@enron.com
+Subject: RE: New World
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Brawner, Sandra F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SBRAWNE>
+X-To: Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmckay1>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+ 
+
+ -----Original Message-----
+From: 	Mckay, Jonathan  
+Sent:	Thursday, November 29, 2001 11:12 AM
+To:	Mckay, Brad; Keavey, Peter F.; Brawner, Sandra F.; Hodge, John; Ring, Andrea; Neal, Scott
+Subject:	New World 
+
+Could you please update this spread sheet with the products you would like to offer on a new version of EOL.  Please e-mail me your additions and changes and I will consolidate everything into a presentable format.
+
+Regards,
+
+Jon
+
+
+ << File: New world.xls >> 
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <14158634.1075841215671.JavaMail.evans@thyme>
+Date: Tue, 29 Jan 2002 10:43:01 -0800 (PST)
+From: f..brawner@enron.com
+To: jonathan.mckay@enron.com
+Subject: FW: seating
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Brawner, Sandra F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SBRAWNE>
+X-To: Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmckay1>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+
+
+ -----Original Message-----
+From: 	Neal, Scott  
+Sent:	Tuesday, January 29, 2002 10:33 AM
+To:	Brawner, Sandra F.
+Subject:	seating
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <2886818.1075841216306.JavaMail.evans@thyme>
+Date: Thu, 11 Oct 2001 09:57:39 -0700 (PDT)
+From: jonathan.mckay@enron.com
+To: vladi.pimenov@enron.com
+Subject: 
+Cc: jonathan.mckay@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jonathan.mckay@enron.com
+X-From: Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>
+X-To: Pimenov, Vladi </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vpimenov>
+X-cc: Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmckay1>
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+Vladi,
+
+I don't know if you are going to get this in time, but I wanted to try to get some of you input on a deal you price earlier for Yankee Gas.  Structuring needs you Gas Daily Daily offer for 30 peak day at TETCO M3.  You previously indicated US$0.13 for 40,000 a day and it looks like they are going to do the whole volume.  They will notify you by 9:00 am the day before delivery.
+
+I don't know what the right price is but it would seem that we could anticipate their need to call and get in front of  the market moves.  I am going to stick with the 0.13/mmbtu unless I hear from you.
+
+I hope the vacation is going well.  Sorry to disturb you.
+
+Regards,
+
+Jon
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <32602473.1075841216331.JavaMail.evans@thyme>
+Date: Wed, 3 Oct 2001 11:25:18 -0700 (PDT)
+From: amanda.huble@enron.com
+To: caroline.abramo@enron.com, jennifer.fraser@enron.com, a..gomez@enron.com,
+	tim.heizenrader@enron.com, rogers.herndon@enron.com,
+	mog.heu@enron.com, kimberly.hillis@enron.com, laura.luce@enron.com,
+	jonathan.mckay@enron.com, tammie.schoppe@enron.com,
+	a..shankman@enron.com, j..sturm@enron.com, richard.tomaski@enron.com,
+	w..vickers@enron.com
+Subject: Supply Weekly Update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Huble, Amanda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=AHUBLE>
+X-To: Abramo, Caroline </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cabramo>, Fraser, Jennifer </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jfraser>, Gomez, Julie A. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jgomez>, Heizenrader, Tim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Theizen>, Herndon, Rogers </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rherndo>, Heu, Mog </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=b5b64a78-ae842218-86256923-734572>, Hillis, Kimberly </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Khillis>, Luce, Laura </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lluce>, Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>, Schoppe, Tammie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=TSTAGGS>, Shankman, Jeffrey A. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jshankm>, Sturm, Fletcher J. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Fsturm>, Tomaski, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rtomask>, Vickers, Frank W. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Fvicker>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+ 
+
+Amanda K. Huble 
+Gas Fundamentals 
+Phone: (713) 853-4384
+Pager: (877) 482-0772
+Fax: (713) 646-8453
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <1523662.1075841216211.JavaMail.evans@thyme>
+Date: Wed, 17 Oct 2001 06:36:15 -0700 (PDT)
+From: adam.bayer@enron.com
+To: jonathan.mckay@enron.com
+Subject: Here is the Tetco data
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Bayer, Adam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ABAYER>
+X-To: Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmckay1>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+Jon,
+
+I have put the data in both raw format and pivot table format.  Sorry about how late this is.  Any questions just let me know.  How is the map comming? Have you had a chance to sit down with the schedulers yet?
+ 
+
+Adam
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <25930943.1075841216092.JavaMail.evans@thyme>
+Date: Sun, 18 Nov 2001 17:56:21 -0800 (PST)
+From: technology.enron@enron.com
+To: rudy.acevedo@enron.com, dipak.agarwalla@enron.com,
+	anubhav.aggarwal@enron.com, kim.alexander@enron.com,
+	diana.allen@enron.com, k..allen@enron.com, chuck.ames@enron.com,
+	d..anderson@enron.com, john.arnold@enron.com, harry.arora@enron.com,
+	debra.bailey@enron.com, bilal.bajwa@enron.com,
+	russell.ballato@enron.com, ted.ballinger@enron.com,
+	robin.barbe@enron.com, r..barker@enron.com,
+	christopher.barnum@enron.com, eric.bass@enron.com,
+	kathy.bass@enron.com, kimberly.bates@enron.com,
+	don.baughman@enron.com, d..baughman@enron.com,
+	david.baumbach@enron.com, adam.bayer@enron.com,
+	lorie.belsha@enron.com, moises.benchluch@enron.com,
+	hicham.benjelloun@enron.com, terrell.benke@enron.com,
+	stephen.bennett@enron.com, robert.benson@enron.com,
+	corry.bentley@enron.com, andrew.bermack@enron.com,
+	aaron.berutti@enron.com, don.black@enron.com, jae.black@enron.com,
+	jay.blaine@enron.com, laurel.bolt@enron.com, f..brawner@enron.com,
+	craig.breslau@enron.com, j..broderick@enron.com,
+	mara.bronstein@enron.com, loretta.brooks@enron.com,
+	clifton.brundrett@enron.com, gary.bryan@enron.com,
+	rachel.bryant@enron.com, bart.burk@enron.com, lisa.burnett@enron.com,
+	jerome.buss@enron.com, tetteh.canacoo@enron.com,
+	joe.capasso@enron.com, catalina.cardenas@enron.com,
+	mike.carson@enron.com, sheila.chang@enron.com, hai.chen@enron.com,
+	elena.chilkina@enron.com, lindon.chiu@enron.com,
+	jason.choate@enron.com, kevin.cline@enron.com,
+	julie.clyatt@enron.com, terri.clynes@enron.com,
+	dustin.collins@enron.com, wes.colwell@enron.com,
+	ruth.concannon@enron.com, martin.cuilla@enron.com,
+	mike.curry@enron.com, oscar.dalton@enron.com, dana.davis@enron.com,
+	amanda.day@enron.com, l..day@enron.com, anthony.dayao@enron.com,
+	clint.dean@enron.com, todd.decook@enron.com,
+	troy.denetsosie@enron.com, joseph.des@enron.com,
+	lloyd.dickerson@enron.com, tom.donohoe@enron.com,
+	david.draper@enron.com, david.dronet@enron.com,
+	matthew.duffy@enron.com, david.duran@enron.com,
+	janette.elbertson@enron.com, gerald.emesih@enron.com,
+	suzette.emmons@enron.com, frank.ermis@enron.com,
+	joe.errigo@enron.com, david.fairley@enron.com, brian.falik@enron.com,
+	nelson.ferries@enron.com, chris.figueroa@enron.com,
+	amy.fitzpatrick@enron.com, b..fleming@enron.com,
+	neithard.foley@enron.com, david.forster@enron.com,
+	cynthia.franklin@enron.com, scott.franklin@enron.com,
+	william.freije@enron.com, bryant.frihart@enron.com,
+	shalesh.ganjoo@enron.com, l..garcia@enron.com,
+	chris.gaskill@enron.com, l..gay@enron.com, chris.germany@enron.com,
+	n..gilbert@enron.com, gerald.gilbert@enron.com,
+	doug.gilbert-smith@enron.com, steve.gim@enron.com,
+	c..giron@enron.com, gustavo.giron@enron.com, scott.goodell@enron.com,
+	james.grace@enron.com, andrew.greer@enron.com,
+	john.griffith@enron.com, mike.grigsby@enron.com,
+	jaime.gualy@enron.com, claudia.guerra@enron.com,
+	jesus.guerra@enron.com, utku.gulmeden@enron.com,
+	gautam.gupta@enron.com, e..haedicke@enron.com,
+	patrick.hanse@enron.com, kimberly.hardy@enron.com,
+	claudette.harvey@enron.com, frank.hayden@enron.com,
+	pete.heintzelman@enron.com, sanjay.hemani@enron.com,
+	rogers.herndon@enron.com, lisa.hesse@enron.com, p..hewitt@enron.com,
+	kimberly.hillis@enron.com, john.hodge@enron.com, d..hogan@enron.com,
+	tina.holcombe@enron.com, kelly.holman@enron.com,
+	keith.holst@enron.com, sarah.hotze@enron.com, jason.huang@enron.com,
+	bryan.hull@enron.com, clinton.hurt@enron.com, monica.hwang@enron.com,
+	chris.hyde@enron.com, rika.imai@enron.com, david.ingram@enron.com,
+	eric.irani@enron.com, steve.irvin@enron.com, mark.jackson@enron.com,
+	rahil.jafry@enron.com, daniel.jenkins@enron.com,
+	larry.jester@enron.com, david.jones@enron.com,
+	jared.kaiser@enron.com, jason.kaniss@enron.com, f..keavey@enron.com,
+	l..kelly@enron.com, g.kelly@enron.com, dayem.khandker@enron.com,
+	jeff.king@enron.com, john.kinser@enron.com, louise.kitchen@enron.com,
+	mark.knippa@enron.com, heather.kroll@enron.com,
+	madhup.kumar@enron.com, milen.kurdov@enron.com,
+	tori.kuykendall@enron.com, amy.schuster@enron.com,
+	fred.lagrasta@enron.com, carrie.larkworthy@enron.com,
+	morris.larubbio@enron.com, dean.laurent@enron.com,
+	john.lavorato@enron.com, matthew.lenhart@enron.com,
+	palmer.letzerich@enron.com, h..lewis@enron.com,
+	jozef.lieskovsky@enron.com, jeb.ligums@enron.com,
+	jeremy.lo@enron.com, matt.lorenz@enron.com, gretchen.lotz@enron.com,
+	thomas.lowell@enron.com, laura.luce@enron.com,
+	steven.luong@enron.com, craig.mack@enron.com, iris.mack@enron.com,
+	mike.maggi@enron.com, ashish.mahajan@enron.com,
+	souad.mahmassani@enron.com, peter.makkai@enron.com,
+	christie.manck@enron.com, jose.marquez@enron.com,
+	mauricio.marquez@enron.com, howard.marshall@enron.com,
+	a..martin@enron.com, jennifer.martinez@enron.com,
+	david.maskell@enron.com, reagan.mathews@enron.com,
+	robert.mattice@enron.com, larry.may@enron.com, tom.may@enron.com,
+	alexander.mcelreath@enron.com, brad.mckay@enron.com,
+	jonathan.mckay@enron.com, jeff.merola@enron.com,
+	david.michels@enron.com, andrew.migliano@enron.com,
+	jeffrey.miller@enron.com, stephanie.miller@enron.com,
+	l..mims@enron.com, narsimha.misra@enron.com, castlen.moore@enron.com,
+	g..moore@enron.com, john.morris@enron.com, gil.muhl@enron.com,
+	e.murrell@enron.com, scott.neal@enron.com, junellen.neese@enron.com,
+	preston.ochsner@enron.com, seung-taek.oh@enron.com,
+	steve.olinde@enron.com, michael.olsen@enron.com,
+	paulita.olvera@enron.com, justin.o'malley@enron.com,
+	lucy.ortiz@enron.com, h..otto@enron.com, david.oxley@enron.com,
+	andy.pace@enron.com, juan.padron@enron.com, steve.pan@enron.com,
+	jason.panos@enron.com, joe.parks@enron.com, sheetal.patel@enron.com,
+	neeran.pathak@enron.com, sherry.pendegraft@enron.com,
+	cora.pendergrass@enron.com, w..pereira@enron.com,
+	agustin.perez@enron.com, christopher.pernoud@enron.com,
+	willis.philip@enron.com, george.phillips@enron.com,
+	tara.piazze@enron.com, vladi.pimenov@enron.com,
+	denver.plachy@enron.com, laura.podurgiel@enron.com,
+	nick.politis@enron.com, s..pollan@enron.com, phil.polsky@enron.com,
+	jessica.presas@enron.com, daniel.quezada@enron.com,
+	dutch.quigley@enron.com, ina.rangel@enron.com,
+	michele.raque@enron.com, david.ratliff@enron.com,
+	punit.rawal@enron.com, brian.redmond@enron.com,
+	jay.reitmeyer@enron.com, jeff.richter@enron.com,
+	andrea.ring@enron.com, richard.ring@enron.com,
+	linda.roberts@enron.com, a..roberts@enron.com, tina.rode@enron.com,
+	benjamin.rogers@enron.com, reagan.rorschach@enron.com,
+	justin.rostant@enron.com, kevin.ruscitti@enron.com,
+	bill.rust@enron.com, david.ryan@enron.com, eric.saibi@enron.com,
+	michael.salinas@enron.com, anna.santucci@enron.com,
+	leonidas.savvas@enron.com, paul.schiavone@enron.com,
+	lauren.schlesinger@enron.com, bryce.schneider@enron.com,
+	tammie.schoppe@enron.com, jim.schwieger@enron.com,
+	m..scott@enron.com, michael.seely@enron.com,
+	maximilian.sell@enron.com, guy.sharfman@enron.com,
+	r..shepperd@enron.com, jennifer.shipos@enron.com,
+	kristann.shireman@enron.com, s..shively@enron.com,
+	lisa.shoemake@enron.com, jacob.shupe@enron.com,
+	james.simpson@enron.com, jeanie.slone@enron.com,
+	mark.smith@enron.com, matt.smith@enron.com, maureen.smith@enron.com,
+	houston <.smith@enron.com>, shauywn.smith@enron.com,
+	william.smith@enron.com, p..south@enron.com,
+	robert.stalford@enron.com, joe.stepenovitch@enron.com,
+	adam.stevens@enron.com, geoff.storey@enron.com, j..sturm@enron.com,
+	john.suarez@enron.com, julia.sudduth@enron.com,
+	franky.sulistio@enron.com, colleen.sullivan@enron.com,
+	mark.symms@enron.com, ramanarao.tamma@enron.com,
+	craig.taylor@enron.com, brian.terp@enron.com, m..tholt@enron.com,
+	d..thomas@enron.com, jason.thompkins@enron.com,
+	shirley.tijerina@enron.com, matthew.titus@enron.com,
+	judy.townsend@enron.com, carl.tricoli@enron.com,
+	patrick.tucker@enron.com, barry.tycholiz@enron.com,
+	larry.valderrama@enron.com, maria.valdes@enron.com,
+	barry.vanderhorst@enron.com, robert.vargas@enron.com,
+	clayton.vernon@enron.com, victoria.versen@enron.com,
+	frank.vickers@enron.com, alex.villarreal@enron.com,
+	laura.vuittonet@enron.com, joseph.wagner@enron.com,
+	kristin.walsh@enron.com, steve.wang@enron.com,
+	houston <.ward@enron.com>, charles.weldon@enron.com,
+	christian.werner@enron.com, michele.wilks@enron.com,
+	lloyd.will@enron.com, trading <.williams@enron.com>,
+	ryan.williams@enron.com, annette.willis@enron.com,
+	cory.willis@enron.com, tonezone <.willis@enron.com>,
+	christa.winfrey@enron.com, jason.wolfe@enron.com, iz.wong@enron.com,
+	kim.wood@enron.com, sarah.wooddy@enron.com,
+	david.woodstrom@enron.com, rick.wurlitzer@enron.com,
+	virawan.yawapongsiri@enron.com, michael.yosowitz@enron.com,
+	ress.young@enron.com, andy.zipper@enron.com, mike.zipperer@enron.com
+Subject: Enron Center South Technology Watch
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Center South Technology </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MBX_ECST>
+X-To: Acevedo, Rudy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Raceved>, Agarwalla, Dipak </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dagarwal>, Aggarwal, Anubhav </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Aaggarwa>, Alexander, Kim </O=ENRON/OU=EU/cn=Recipients/cn=kalexand>, Allen, Diana </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dallen3>, Allen, Phillip K. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pallen>, Ames, Chuck </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cames>, Anderson, Jonathan D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Janders6>, Arnold, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jarnold>, Arora, Harry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Harora>, Bailey, Debra </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dbailey2>, Bajwa, Bilal </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bbajwa>, Ballato, Russell </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rballato>, Ballinger, Ted </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tballing>, Barbe, Robin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbarbe>, Barker, James R. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jbarker>, Barnum, Christopher </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=5d528f5e-26694541-86256513-82f479>, Bass, Eric </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ebass>, Bass, Kathy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kbass>, Bates, Kimberly </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kbates>, Baughman Jr., Don </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dbaughm>, Baughman, Edward D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ebaughm>, Baumbach, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dbaumba>, Bayer, Adam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Abayer>, Belsha, Lorie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lbelsha>, Benchluch, Moises </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sbenchlu>, Benjelloun, Hicham </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Hbenjell>, Benke, Terrell </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tbenke>, Bennett, Stephen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sbennet3>, Benson, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbenson>, Bentley, Corry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cbentle>, Bermack, Andrew </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=e3053f86-1615ca59-86256a8e-5ac2a9>, Berutti, Aaron </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Aberutti>, Black, Don </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dblack>, Black, Tamara Jae </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tblack>, Blaine, Jay </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jblaine>, Bolt, Laurel </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lbolt>, Brawner, Sandra F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sbrawne>, Breslau, Craig </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cbresla>, Broderick, Paul J. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pbroder>, Bronstein, Mara </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbronst2>, Brooks, Loretta </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lbrooks>, Brundrett, Clifton </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cbrundre>, Bryan, Gary </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gbryan>, Bryant, Rachel </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rbryant2>, Burk, Bart </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bburk>, Burnett, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lburnett>, Buss, Jerome </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jbuss2>, Canacoo, Tetteh </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tcanacoo>, Capasso, Joe </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jcapasso>, Cardenas, Catalina </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ccardena>, Carson, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mcarson2>, Chang, Sheila </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Schang2>, Chen, Hai </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Hchen2>, Chilkina, Elena </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Echilkin>, Chiu, Lindon </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lchiu>, Choate, Jason </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jchoate>, Cline, Kevin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kcline>, Clyatt, Julie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jclyatt>, Clynes, Terri </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tclynes>, Collins, Dustin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dcollin>, Colwell, Wes </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Wcolwel>, Concannon, Ruth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rconcan>, Cuilla, Martin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mcuilla>, Curry, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mcurry>, Dalton III, Oscar </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Odalton>, Davis, Mark Dana </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mdavis>, Day, Amanda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Aday2>, Day, Smith L. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sday>, Dayao, Anthony </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Adayao>, Dean, Clint </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cdean>, Decook, Todd </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tdecook>, Denetsosie, Troy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tdenets>, Des Champs, Joseph </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JDesCham>, Dickerson, Lloyd </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ldicker2>, Donohoe, Tom </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tdonoho>, Draper, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ddraper>, Dronet, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ddronet>, Duffy, Matthew </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mduffy>, Duran, W. David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dduran>, Elbertson, Janette </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jelbert>, Emesih, Gerald </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gemesih>, Emmons, Suzette </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Semmons>, Ermis, Frank </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Fermis>, Errigo, Joe </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jerrigo>, Fairley, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dfairle>, Falik, Brian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bfalik>, Ferries, Nelson </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Nferrie>, Figueroa, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cfiguero>, Fitzpatrick, Amy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=AFitzpat>, Fleming, Matthew B. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mfleming>, Foley, Neithard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Nfoley>, Forster, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DFORSTER>, Franklin, Cynthia </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cfrankl>, Franklin, Scott </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sfrankli>, Freije, William </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Wfreije>, Frihart, Bryant </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bfrihart>, Ganjoo, Shalesh </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Shalesh_ganjoo>, Garcia, Miguel L. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mgarcia6>, Gaskill, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cgaskill>, Gay, Randall L. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rgay>, Germany, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cgerman>, Gilbert, George N. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ggilber>, Gilbert, Gerald </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ggilbe1>, Gilbert-smith, Doug </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dsmith3>, Gim, Steve </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sgim>, Giron, Darron C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dgiron>, Giron, Gustavo </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ggiron>, Goodell, Scott </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sgoodel>, Grace Jr., James </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jgrace2>, Greer, Andrew </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Agreer>, Griffith, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jgriffit>, Grigsby, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mgrigsb>, Gualy, Jaime </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jgualy>, Guerra, Claudia </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cguerra2>, Guerra, Jesus </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jguerra>, Gulmeden, Utku </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ugulmede>, Gupta, Gautam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ggupta>, Haedicke, Mark E. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mhaedic>, Hanse, Patrick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Phanse>, Hardy, Kimberly </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Khardy2>, Harvey, Claudette </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Charve2>, Hayden, Frank </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Fhayden>, Heintzelman, Pete </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pheintz>, Hemani, Sanjay </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Shemani>, Herndon, Rogers </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rherndo>, Hesse, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lhesse>, Hewitt, Jess P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jhewitt>, Hillis, Kimberly </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Khillis>, Hodge, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jhodge2>, Hogan, Irena D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ihogan>, Holcombe, Tina  </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tholcomb>, Holman, Kelly </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kholman>, Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kholst>, Hotze, Sarah </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Shotze>, Huang, Jason </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jhuang>, Hull, Bryan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bhull>, Hurt, Clinton </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Churt>, Hwang, Monica </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mhwang>, Hyde, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Chyde3>, Imai, Rika </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rimai>, Ingram, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dingram>, Irani, Eric </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Eirani>, Irvin, Steve </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sirvin>, Jackson, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mjackso3>, Jafry, Rahil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rjafry>, Jenkins IV, Daniel </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Djenkin2>, Jester, Larry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ljester>, Jones, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Djones8>, Kaiser, Jared </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jkaiser>, Kaniss, Jason </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jkaniss>, Keavey, Peter F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pkeavey>, Kelly, Katherine L. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kkelly>, Kelly, Michael G </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mkelly2>, Khandker, Dayem </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dkhandke>, King, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jking6>, Kinser, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jkinser>, Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkitchen>, Knippa, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mknippa>, Kroll, Heather </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Hkroll>, Kumar, Madhup </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mkumar>, Kurdov, Milen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mkurdov>, Kuykendall, Tori </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tkuyken>, Schuster, Amy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Afreeman>, Lagrasta, Fred </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Flagras>, Larkworthy, Carrie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Clarkwor>, Larubbio, Morris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mlarubbi>, Laurent, Dean </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mlauren>, Lavorato, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jlavora>, Lenhart, Matthew </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mlenhar>, Letzerich, Palmer </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Wletzeri>, Lewis, Andrew H. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Alewis>, Lieskovsky, Jozef </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jlieskov>, Ligums, Jeb </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jligums>, Lo, Jeremy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jlo>, Lorenz, Matt </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mlorenz>, Lotz, Gretchen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Glotz>, Lowell, Thomas </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tlowell>, Luce, Laura </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lluce>, Luong, Steven </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sluong3>, Mack, Craig </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=7f9a69e4-3a00b386-862567f4-5610c2>, Mack, Iris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Imack>, Maggi, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mmaggi>, Mahajan, Ashish </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Amahajan>, Mahmassani, Souad </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Smahmass>, Makkai, Peter </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pmakkai>, Manck, Christie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cmanck>, Marquez, Jose </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmarque2>, Marquez, Mauricio </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mmarque2>, Marshall, Howard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Hmarshal>, Martin, Thomas A. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tmartin>, Martinez, Jennifer </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmarti2>, Maskell, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dmaskell>, Mathews, Reagan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rmathew>, Mattice, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RMattice>, May, Larry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lmay2>, May, Tom </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tmay>, McElreath, Alexander </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Amcelrea>, Mckay, Brad </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bmckay>, Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmckay1>, Merola, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmerola>, Michels, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dmichels>, Migliano, Andrew </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Amiglian>, Miller, Jeffrey </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmiller>, Miller, Stephanie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Smiller2>, Mims, Patrice L. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pmims>, Misra, Narsimha </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NMISRA>, Moore, Castlen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cmoore3>, Moore, Kevin G. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kmoore2>, Morris, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rmorris4>, Muhl, Gil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gmuhl>, Murrell, Russell E </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rmurrel>, Neal, Scott </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sneal>, Neese, Junellen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jneese>, Ochsner, Preston </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pochsner>, Oh, Seung-Taek </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Soh2>, Olinde Jr., Steve </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Solinde>, Olsen, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Molsen2>, Olvera, Paulita </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Polver2>, O'Malley, Justin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jomalley>, Ortiz, Lucy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lortiz>, Otto, Charles H. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cotto>, Oxley, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Doxley>, Pace, Andy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Apace>, Padron, Juan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jpadron>, Pan, Steve </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Span2>, Panos, Jason </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jpanos>, Parks, Joe </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jparks>, Patel, Sheetal </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Spatel2>, Pathak, Neeran </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Npathak>, Pendegraft, Sherry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Spendegr>, Pendergrass, Cora </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cpender>, Pereira, Susan W. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Spereir>, Perez, Agustin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Aperez>, Pernoud, Christopher </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cpernoud>, Philip, Willis </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Wphilip>, Phillips, George </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gphillip>, Piazze, Tara </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tpiazze>, Pimenov, Vladi </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vpimenov>, Plachy, Denver </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dplachy>, Podurgiel, Laura </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lpodurg2>, Politis, Nick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Npolitis>, Pollan, Sylvia S. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Spollan>, Polsky, Phil </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ppolsky>, Presas, Jessica </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jpresas>, Quezada, Daniel </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dquezada>, Quigley, Dutch </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dquigle>, Rangel, Ina </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Irangel>, Raque, Michele </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mraque>, Ratliff, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dratliff>, Rawal, Punit </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Prawal>, Redmond, Brian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bredmon>, Reitmeyer, Jay </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jreitme>, Richter, Jeff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jrichte>, Ring, Andrea </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Aring>, Ring, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rring>, Roberts, Linda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lroberts>, Roberts, Mike A. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mrobert>, Rode, Tina </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Trode>, Rogers, Benjamin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Brogers>, Rorschach, Reagan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rrorscha>, Rostant, Justin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jrostan>, Ruscitti, Kevin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kruscit>, Rust, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Brust>, Ryan, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dryan>, Saibi, Eric </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Esaibi>, Salinas, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Msalina2>, Santucci, Anna </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ASANTUCC>, Savvas, Leonidas </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lsavvas>, Schiavone, Paul </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pschiavo>, Schlesinger, Lauren </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lschlesi>, Schneider, Bryce </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bschneid>, Schoppe, Tammie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tstaggs>, Schwieger, Jim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jschwie>, Scott, Susan M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sscott5>, Seely, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Charles_Seely>, Sell, Maximilian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Msell>, Sharfman, Guy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gsharfma>, Shepperd, Tammy R. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tsheppe>, Shipos, Jennifer </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jshipos>, Shireman, Kristann </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kshirema>, Shively, Hunter S. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Hshivel>, Shoemake, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lshoema>, Shupe, Jacob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jshupe>, Simpson, James </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jsimpso>, Slone, Jeanie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jslone>, Smith, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Msmith>, Smith, Matt </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Msmith18>, Smith, Maureen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mgreena>, Smith, Paul (Houston) </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Psmith3>, Smith, Shauywn </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ssmith22>, Smith, William </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Wsmith2>, South, Steven P. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ssouth>, Stalford, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rstalfor>, Stepenovitch, Joe </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jstepeno>, Stevens, Adam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Asteven3>, Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>, Sturm, Fletcher J. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Fsturm>, Suarez, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=John_Suarez>, Sudduth, Julia </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jyoung9>, Sulistio, Franky </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Fsulisti>, Sullivan, Colleen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Csulliv>, Symms, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Msymms>, Tamma, Ramanarao </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rtamma>, Taylor, Craig </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jtaylo2>, Terp, Brian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bterp>, Tholt, Jane M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jtholt>, Thomas, Paul D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pthomas2>, Thompkins, Jason </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jthompk>, Tijerina, Shirley </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Stijeri>, Titus, Matthew </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mtitus>, Townsend, Judy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jtownse>, Tricoli, Carl </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ctricol>, Tucker, Patrick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ptucker>, Tycholiz, Barry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Btychol>, Valderrama, Larry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lvalder>, Valdes, Maria </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mvaldes>, Vanderhorst, Barry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bvanderh>, Vargas, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rvargas>, Vernon, Clayton </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cvernon>, Versen, Victoria </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vversen>, Vickers, Frank </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Fvicker>, Villarreal, Alex </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Avillar4>, Vuittonet, Laura </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lvuitton>, Wagner, Joseph </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jwagner2>, Walsh, Kristin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kwalsh>, Wang, Steve </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Swang3>, Ward, Kim S (Houston) </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kward>, Weldon, V. Charles </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vweldon>, Werner, Christian </O=ENRON/OU=EU/cn=Recipients/cn=cwerner>, Wilks, Michele </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MWILKS>, Will, Lloyd </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lwill>, Williams, Jason (Trading) </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jwillia>, Williams, Ryan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rwillia8>, Willis, Annette </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Awillis3>, Willis, Cory </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cwillis>, Willis, James (Tonezone) </O=ENRON/OU=EU/cn=Recipients/cn=JWillis>, Winfrey, Christa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cwinfre>, Wolfe, Jason </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jwolfe>, Wong, Iz </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Iwong>, Wood, Kim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kwood>, Wooddy, Sarah </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Swooddy>, Woodstrom, David </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dwoodstr>, Wurlitzer, Rick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rwurlitz>, Yawapongsiri, Virawan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vyawapon>, Yosowitz, Michael </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Myosowit>, Young, Ress </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ryoung7>, Zipper, Andy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Azipper>, Zipperer, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mzippere>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+Welcome to Enron Center South. As you have probably already noticed, things look a little different here. We wanted to orientate you to your new environment and inform you about the future technology coming on-line in the coming weeks. 
+
+Occupancy Guidebook To Enron Center South
+You will find this handy guide on your desk; it contains information concerning the enhanced printer environment, the new easy access keyboards and telephony procedures.
+
+NEC Monitors
+The NEC monitors have an internal anti-glare screen to help reduce eye strain and eliminate the need to install an additional screen cover.  Additionally, an integrated speaker has been installed on one monitor for each desk.
+
+Turret Users
+An "Alliance MX turret quick reference guide" has been placed on your desk; this includes important information about the new features such as "Caller ID" and "Voicemail Indication".
+
+Increased Information Access
+There are many NEC 50" Plasma screens installed on the 5th and 6th floors.  While many of these will be displaying information designed for the specific unit, others will be displaying various television channels.  The audio to these television channels can be accessed via any of your telephony equipment.  Here's how:
+
+Ten audio channels have been set up for access from your either your Avaya telephone, Stentophon, or IPC Turret.  The channels have been defined on Page 15 of your Turret.  To access the audio from either your Avaya or Stentophon, simply dial the extensions shown in the table below:
+ 
+Channel	Avaya	Stentophon	
+Weather Channel	12401	801	
+CNN Headlines News	12402	802	
+CNN Financial News	12403	803	
+CNBC	12404	804	
+MSNBC	12405	805	
+Bloomberg	12406	806	
+Financial News Network	12407	807	
+CNN	12408	808	
+Fox Sports	12409	809	
+ESPN1	12410	810	
+
+
+Wireless Telephony
+You may notice the cellular phone coverage is not consistent across the floor, and some areas have virtually no coverage at all.  We are implementing a multi-network "in-building" system to provide consistent high quality service for the campus, keeping you in touch while you are on the move.  
+
+Wireless LAN
+The infrastructure to support Wireless LAN technology is in place and is being tested. We will be implementing multi level encryption and security to keep our intellectual property safe from eavesdroppers or hackers.
+
+Amtel Replacement
+As a move to provide a more flexible "Plug n Play" environment and to help with the reduced desk footprint, we have replaced the Amtel message boxes with Microsoft Exchange Instant Messaging. The Global Messaging Team is testing additional software products to provide some of the features not available with Exchange Instant Messaging; these include one-touch response keys, external LED display, and printing.  Updates will be provided as they become available.
+
+Keeping an Open forum
+We will keep you informed of the changes and developments as the migration to the building continues, please feel free to respond with any comments, queries or suggestions to  mailto:Enron.Center.South.Technology@enron.com
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <5903061.1075841216354.JavaMail.evans@thyme>
+Date: Fri, 28 Sep 2001 08:35:58 -0700 (PDT)
+From: adam.bayer@enron.com
+To: jonathan.mckay@enron.com
+Subject: RE: curve fetch file
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Bayer, Adam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ABAYER>
+X-To: Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmckay1>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+John,
+
+I have added the curves to a curve fetch file in O:\ERMS\Excel Queries\JMcKayCurveFetch.xls
+I did not know which curves to get rid of, but if you go through it just hide the ones that you don't want, you won't have to go back and add them later.  I have access to the folder and file, but I don't have rights to run the macro.  I have tacked the curves you requested to the last four columns of each sheet (one sheet for dailies and the other sheet for basis curves).  Call with any questions.
+
+Adam
+
+
+ -----Original Message-----
+From: 	Mckay, Jonathan  
+Sent:	Tuesday, September 25, 2001 7:02 PM
+To:	Bayer, Adam
+Subject:	curve fetch file
+
+Adam,
+
+The file you sent me is exactly the type of spread sheet I needed.  Thank You.   However, I was wondering if you could get access (via that file) to a few other points.  Specifically, I am in need of Gas Daily Curves for NGI-Chicago, GDM-Dawn,GDM-Niagara, and GD-Hehub.  And with respect to basis curves, I am in need of a curve for Niagara and Columbia Gulf.
+
+If you could point me in the right direction I would really appreciate it.
+
+Thanks,
+
+Jon
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <25859462.1075841216378.JavaMail.evans@thyme>
+Date: Wed, 26 Sep 2001 12:09:08 -0700 (PDT)
+From: 40enron@enron.com
+To: jonathan.mckay@enron.com
+Subject: OBSERVATION COMPLETION ACCEPTED: Calgary
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: DoorStep@ENRON <IMCEANOTES-DoorStep+40ENRON@ENRON.com>
+X-To: Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+The following Audit Observation listed as 'Complete' has been accepted by management:
+OFFICE VISIT: Calgary
+OBSERVATION: Yellow - Foreign currency risks are managed by the respective trader within each of the trading portfolios.
+OBSERVATION CONTACT: CN=Ted Murphy/OU=LON/O=ECT
+ACTION STEP(S): 
+		Provide an analyst to review and determine the most effective process to manage foreign currency risks within the trading portfolios (aggregate or separate).
+TARGET DATE: 11/30/2000
+Click on this link to view document --> 
+IF YOU HAVE ANY QUESTIONS REGARDING THIS EMAIL, PLEASE REPLY TO:CN=Sherri Griffin/OU=Corp/O=Enron
+
+<Embedded StdOleLink>
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <32777509.1075841216453.JavaMail.evans@thyme>
+Date: Mon, 10 Sep 2001 09:26:15 -0700 (PDT)
+From: adam.bayer@enron.com
+To: brad.mckay@enron.com, jonathan.mckay@enron.com, vladi.pimenov@enron.com
+Subject: Tetco Graphs
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Bayer, Adam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ABAYER>
+X-To: Mckay, Brad </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bmckay>, Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmckay1>, Pimenov, Vladi </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vpimenov>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+Here is the spreadsheet with Flow data versus ELA to Henry Hub Spreads, or Mkt-3 vs. Henry Hub Spreads.
+
+Points:
+Venice -->  ELA to Henry Hub Spreads
+St. Francesville --> ELA to Henry Hub Spreads
+Bechtelsville --> Mkt-3 vs. Henry Hub Spreads
+Lambertville --> Mkt-3 vs. Henry Hub Spreads
+Linden --> Mkt-3 vs. Henry Hub Spreads
+
+Range = 10/10/2000 to 9/5/2001
+
+
+ 
+
+Adam
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <1938079.1075841216601.JavaMail.evans@thyme>
+Date: Thu, 21 Jun 2001 10:40:27 -0700 (PDT)
+From: mike.cowan@enron.com
+To: jonathan.mckay@enron.com
+Subject: FW:
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Cowan, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MCOWAN1>
+X-To: Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmckay1>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+
+
+ -----Original Message-----
+From: 	Richey, Cooper  
+Sent:	Wednesday, June 20, 2001 2:37 PM
+To:	Pearson, Jeff; Cowan, Mike
+Subject:	
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <24578553.1075841215501.JavaMail.evans@thyme>
+Date: Tue, 5 Feb 2002 08:18:46 -0800 (PST)
+From: chance.rabon@enron.com
+To: jonathan.mckay@enron.com, f..brawner@enron.com
+Subject: east basis and index points
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Rabon, Chance </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CRABON>
+X-To: Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmckay1>, Brawner, Sandra F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sbrawne>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+ these are the only points that we need curve structures to.  i am not sure on the gd points yet, but will get let you know.
+
+thanks,
+chance
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <10412609.1075841215843.JavaMail.evans@thyme>
+Date: Tue, 4 Dec 2001 12:38:11 -0800 (PST)
+From: chris.germany@enron.com
+To: nicole.laporte@enron.com
+Subject: Boston Gas differential for November 2001
+Cc: jonathan.mckay@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jonathan.mckay@enron.com
+X-From: Germany, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CGERMAN>
+X-To: Laporte, Nicole </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Nlaporte>
+X-cc: Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmckay1>
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+  ($.1162)
+
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <14600171.1075841216188.JavaMail.evans@thyme>
+Date: Thu, 18 Oct 2001 11:25:31 -0700 (PDT)
+From: adam.dyerson@gfinet.com
+To: jonathan.mckay@enron.com
+Subject: details
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Adam Dyerson <Adam.Dyerson@gfinet.com>@ENRON
+X-To: Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+Hey there
+
+my details here are
+
+tel: 212 968 2913
+
+AOL IM : bedhead2d
+
+cheers
+
+Adam
+
+
+***************************************************************
+Confidentiality note: This e-mail contains information from the
+GFI Group Inc. and/or its affiliates, including GFInet inc.,
+that is confidential and/or legally privileged.   This
+information is intended only for the use of the individual or
+entity named on this e-mail.  This e-mail and its content may
+not be reproduced or retransmitted without the express written
+permission of The GFI Group.
+***************************************************************
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <4955023.1075841215550.JavaMail.evans@thyme>
+Date: Mon, 4 Feb 2002 07:05:51 -0800 (PST)
+From: amanda.rybarski@enron.com
+To: amanda.rybarski@enron.com, scott.neal@enron.com, andrea.ring@enron.com,
+	chuck.ames@enron.com, judy.townsend@enron.com,
+	jonathan.mckay@enron.com, f..brawner@enron.com
+Subject: RE: trading plan and products, etc meeting
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Rybarski, Amanda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ARYBARSK>
+X-To: Rybarski, Amanda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Arybarsk>, Neal, Scott </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sneal>, Ring, Andrea </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Aring>, Ames, Chuck </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cames>, Townsend, Judy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jtownse>, Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmckay1>, Brawner, Sandra F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sbrawne>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+This meeting has changed to 10:30 a.m.  It will be held in the same conference room.  
+
+Thanks, 
+Amanda 
+
+ -----Original Message-----
+From: 	Rybarski, Amanda  
+Sent:	Thursday, January 31, 2002 3:57 PM
+To:	Neal, Scott; Ring, Andrea; Ames, Chuck; Townsend, Judy; Mckay, Jonathan; Brawner, Sandra F.
+Subject:	RE: trading plan and products, etc meeting
+
+The meeting will take place in ECS06100.  
+
+Thanks, 
+Amanda 
+
+ -----Original Message-----
+From: 	Neal, Scott  
+Sent:	Thursday, January 31, 2002 2:22 PM
+To:	Ring, Andrea; Ames, Chuck; Townsend, Judy; Mckay, Jonathan; Brawner, Sandra F.
+Cc:	Rybarski, Amanda
+Subject:	trading plan and products, etc meeting
+
+I would like to get together Monday, February 4 at 9:30am to discuss the startup of our business
+including products, points, responsibilities etc.
+
+Amanda will notify you with the location.
+
+Thanks, 
+
+Scott 
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <3130737.1075841215526.JavaMail.evans@thyme>
+Date: Mon, 4 Feb 2002 09:27:45 -0800 (PST)
+From: ed.mcmichael@enron.com
+To: eric.bass@enron.com, jonathan.mckay@enron.com, h..lewis@enron.com,
+	mathew.smith@enron.com, frank.ermis@enron.com,
+	dutch.quigley@enron.com, keith.considine@enron.com
+Subject: Updated: Gas Curves Validation
+Cc: shona.wilson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: shona.wilson@enron.com
+X-From: McMichael Jr., Ed </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EMCMICH>
+X-To: Bass, Eric </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ebass>, Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmckay1>, Lewis, Andrew H. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Alewis>, Smith, Mathew </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Msmith18>, Ermis, Frank </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Fermis>, Quigley, Dutch </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dquigle>, 'mark.allan.smith@us.pwcglobal.com', 'loretta.cross@us.pwcglobal.com', Couch, Greg </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gcouch>, Considine, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kconsidi>
+X-cc: Wilson, Shona </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Swilson5>
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+When: Monday, February 04, 2002 2:00 PM-2:30 PM (GMT-06:00) Central Time (US & Canada).
+Where: ECS 04750
+
+*~*~*~*~*~*~*~*~*~*
+
+This meeting has been rescheduled for today at 2:00.
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <25510484.1075841216624.JavaMail.evans@thyme>
+Date: Wed, 6 Jun 2001 17:57:00 -0700 (PDT)
+From: kathy.reeves@enron.com
+To: brad.jones@enron.com
+Subject: RE: Final May p&l
+Cc: jonathan.mckay@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jonathan.mckay@enron.com
+X-From: Kathy Reeves <Kathy Reeves/ENRON@enronXgate@ENRON>
+X-To: Jones, Brad </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bjones7>
+X-cc: Jonathan McKay <Jonathan McKay/CAL/ECT@ECT>
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+Brad, Your numbers look fine.
+See the attached recon
+
+ 
+Kathy
+
+ -----Original Message-----
+From: 	Jones, Brad  
+Sent:	Wednesday, June 06, 2001 9:51 AM
+To:	Reeves, Kathy
+Subject:	FW: Final May p&l
+
+
+
+ -----Original Message-----
+From: 	Jones, Brad  
+Sent:	Tuesday, June 05, 2001 8:40 PM
+To:	Reeves, Kathy
+Subject:	Final May p&l
+
+Kathy,
+attached is the final may numbers I have for each of your trader's.
+ << File: Canada finals.xls >> 
+Let me know if you have any questions.
+
+Thanks,
+Brad Jones
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <18151947.1075841216283.JavaMail.evans@thyme>
+Date: Fri, 12 Oct 2001 08:16:58 -0700 (PDT)
+From: mkammer@tradespark.com
+To: jonathan.mckay@enron.com
+Subject: Tradespark
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "Kammer, Mike" <MKammer@tradespark.com>@ENRON
+X-To: Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+Mike Kammer - Director of Natural Gas Basis
+550 Westcott  suite 235
+Houston  ,TX  77007
+713-655-5005
+Fax - 713-655-5041
+
+mkammer@tradespark.com
+IM  - kammerspark
+
+
+CONFIDENTIAL: This e-mail, including its contents and attachments, if any, are confidential. If you are not the named recipient please notify the sender and immediately delete it. You may not disseminate, distribute, or forward this e-mail message or disclose its contents to anybody else. Copyright and any other intellectual property rights in its contents are the sole property of Tradespark, Inc.
+     E-mail transmission cannot be guaranteed to be secure or error-free. The sender therefore does not accept liability for any errors or omissions in the contents of this message which arise as a result of e-mail transmission.  If verification is required please request a hard-copy version.
+     Although we routinely screen for viruses, addressees should check this e-mail and any attachments for viruses. We make no representation or warranty as to the absence of viruses in this e-mail or any attachments. Please note that to ensure regulatory compliance and for the protection of our customers and business, we may monitor and read e-mails sent to and from our server(s).
+
+For further important information, please see http://www.tradespark.com/full-disclaimer.html
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <29553456.1075841215916.JavaMail.evans@thyme>
+Date: Fri, 30 Nov 2001 16:00:31 -0800 (PST)
+From: carmstrong@spragueenergy.com
+To: jonathan.mckay@enron.com
+Subject: Deal Terminations
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "Armstrong, Cynthia" <CArmstrong@spragueenergy.com>@ENRON
+X-To: Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+Jon, Thank you very much for your assistance in terminating our Jan-Mar 2002
+contracts.  I will follow up next week with a deal description to match up
+to your transaction numbers, to help our accountants match them up properly.
+Again, thanks and best wishes.  Cynthia
+
+
+Cynthia L. Armstrong
+Managing Dir., Nat.Gas Supply & Risk Management
+Sprague Energy Corp.
+Two International Drive, Suite 200
+Portsmouth, NH 03801-0609
+Direct Telephone: (603) 766-7412
+Fax:                    (603) 430-5320
+Cell:                    (603) 502-6556
+Pager:                 (800) 946-4645 Pin #: 6221678
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <22976348.1075841216401.JavaMail.evans@thyme>
+Date: Tue, 25 Sep 2001 10:44:39 -0700 (PDT)
+From: adam.bayer@enron.com
+To: jonathan.mckay@enron.com
+Subject: FW: Curve Fetch File
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Bayer, Adam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ABAYER>
+X-To: Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmckay1>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+Here is the curve fetch file sent to me.  It has plenty of points in it.  If you give me a list of which ones you need we may be able to construct a secondary worksheet to vlookup the values.
+
+adam
+35227
+
+
+ -----Original Message-----
+From: 	Royed, Jeff  
+Sent:	Tuesday, September 25, 2001 11:37 AM
+To:	Bayer, Adam
+Subject:	Curve Fetch File
+
+Let me know if it works.   It may be required to have a certain version of Oracle for it to work properly.
+
+ 
+
+Jeff Royed
+Enron 
+Energy Operations
+Phone: 713-853-5295
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <7639982.1075841216035.JavaMail.evans@thyme>
+Date: Thu, 29 Nov 2001 09:17:57 -0800 (PST)
+From: vladi.pimenov@enron.com
+To: jonathan.mckay@enron.com
+Subject: RE:
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Pimenov, Vladi </O=ENRON/OU=NA/CN=RECIPIENTS/CN=VPIMENOV>
+X-To: Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmckay1>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+ 
+
+ -----Original Message-----
+From: 	Mckay, Jonathan  
+Sent:	Thursday, November 29, 2001 11:14 AM
+To:	Pimenov, Vladi
+Subject:	
+
+ << File: New world.xls >> 
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <929220.1075841216165.JavaMail.evans@thyme>
+Date: Sun, 21 Oct 2001 13:29:13 -0700 (PDT)
+From: gerry.hrap@enron.com
+To: jonathan.mckay@enron.com, chris.germany@enron.com
+Subject: Boston Gas Deal
+Cc: howard.sangwine@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: howard.sangwine@enron.com
+X-From: Hrap, Gerry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=GHRAP>
+X-To: Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmckay1>, Germany, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cgerman>
+X-cc: Sangwine, Howard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Hsangwi>
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+John, here are a few slides to support our discussion on Monday (conf call with Chris Germany and yourself with Howard Sangwine and me)...thanks for your help
+
+
+
+  
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <14982077.1075841215599.JavaMail.evans@thyme>
+Date: Mon, 4 Feb 2002 06:34:48 -0800 (PST)
+From: amanda.rybarski@enron.com
+To: craig.taylor@enron.com, f..brawner@enron.com, scott.neal@enron.com,
+	andrea.ring@enron.com, frank.vickers@enron.com,
+	jonathan.mckay@enron.com, chuck.ames@enron.com,
+	judy.townsend@enron.com, jared.kaiser@enron.com,
+	clarissa.garcia@enron.com, victor.lamadrid@enron.com,
+	robert.superty@enron.com, robert.allwein@enron.com,
+	scott.goodell@enron.com, chris.ordway@enron.com,
+	meredith.homco@enron.com
+Subject: RE: Business Planning Meeting
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Rybarski, Amanda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ARYBARSK>
+X-To: Taylor, Craig </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jtaylo2>, Brawner, Sandra F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sbrawne>, Neal, Scott </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sneal>, Ring, Andrea </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Aring>, Vickers, Frank </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Fvicker>, Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmckay1>, Ames, Chuck </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cames>, Townsend, Judy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jtownse>, Kaiser, Jared </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jkaiser>, Garcia, Clarissa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cgarcia>, Lamadrid, Victor </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vlamadr>, Superty, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rsupert>, Allwein, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rallwei>, Goodell, Scott </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sgoodel>, Ordway, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cordway>, Homco, Meredith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mmitch2>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+Correction...the meeting will take place on Tuesday at 10:00 am.  It will be held in the same conference room. 
+
+Sorry for the inconvenience. 
+
+Amanda 
+
+ -----Original Message-----
+From: 	Rybarski, Amanda  
+Sent:	Friday, February 01, 2002 2:54 PM
+To:	Taylor, Craig; Brawner, Sandra F.; Neal, Scott; Ring, Andrea; Vickers, Frank; Mckay, Jonathan; Ames, Chuck; Townsend, Judy; Kaiser, Jared; Garcia, Clarissa; Lamadrid, Victor; Superty, Robert; Allwein, Robert; Goodell, Scott; Ordway, Chris; Homco, Meredith
+Subject:	Business Planning Meeting 
+
+Please plan to attend a meeting on Monday, February 4th at 10:30 a.m.  The meeting will take place in conference room ECS06990.
+
+Thank you, 
+
+Amanda Rybarski
+Office: (713) 853-4384
+Fax: (713) 646-3564
+Cell: (713) 560-0934
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <12868237.1075841216259.JavaMail.evans@thyme>
+Date: Tue, 16 Oct 2001 06:14:57 -0700 (PDT)
+From: f..keavey@enron.com
+To: brad.mckay@enron.com, jonathan.mckay@enron.com
+Subject: FW:
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Keavey, Peter F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=PKEAVEY>
+X-To: Mckay, Brad </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bmckay>, Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmckay1>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+
+
+ -----Original Message-----
+From: 	Pathak, Neeran  
+Sent:	Tuesday, October 16, 2001 8:07 AM
+To:	Keavey, Peter F.
+Subject:	
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <33182803.1075841215963.JavaMail.evans@thyme>
+Date: Fri, 30 Nov 2001 14:44:56 -0800 (PST)
+From: carmstrong@spragueenergy.com
+To: jonathan.mckay@enron.com
+Subject: FW: Price Updates
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "Armstrong, Cynthia" <CArmstrong@spragueenergy.com>@ENRON
+X-To: Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JMCKAY1>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+Jon, here's some backup info from NatSource brokers.
+
+>  -----Original Message-----
+> From: 	Anne-Marie Miser [mailto:AMiser@natsource.com]
+> Sent:	Friday, November 30, 2001 2:13 PM
+> To:	Adriana (E-mail); Anthonygar (E-mail); Bethhull (E-mail); Bogden
+> (E-mail); Broyles (E-mail); Chrisk (E-mail); Clark (E-mail); Clemons
+> (E-mail); Coco (E-mail); Conedrisk (E-mail); Corrs (E-mail); Craigprovo
+> (E-mail); Cynthia (E-mail); Dahlem (E-mail); Diana (E-mail); Donna
+> (E-mail); Ellien (E-mail); Frenza (E-mail); Futchdog (E-mail); Gallosan
+> (E-mail); Gobm (E-mail); Guy (E-mail); Heike (E-mail); Herb (E-mail);
+> Hunter (E-mail); Janine (E-mail); Jeffpepco (E-mail); Jendras (E-mail);
+> Johned (E-mail); Josh (E-mail); Junek (E-mail); Katie (E-mail); Kenz
+> (E-mail); Kerry (E-mail); Larry (E-mail); Lawson (E-mail); Layne (E-mail);
+> Lori (E-mail); Marissa (E-mail); Neut (E-mail); Otterstadt (E-mail);
+> Pisula (E-mail); Puig (E-mail); Ravi (E-mail); Riskmanagement (E-mail);
+> Rita (E-mail); Rivera (E-mail); Rose (E-mail); Schaffer (E-mail); Scottall
+> (E-mail); Scottp (E-mail); Stephanie (E-mail); Sturm (E-mail); Terence
+> (E-mail); Theman (E-mail); Woodward (E-mail)
+> Subject:	Price Updates
+>
+>  <<NE_Prices_113001.xls>>
+
+
+
+
+ - NE_Prices_113001.xls 
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <460027.1075841215648.JavaMail.evans@thyme>
+Date: Thu, 31 Jan 2002 13:57:28 -0800 (PST)
+From: amanda.rybarski@enron.com
+To: scott.neal@enron.com, andrea.ring@enron.com, chuck.ames@enron.com,
+	judy.townsend@enron.com, jonathan.mckay@enron.com,
+	f..brawner@enron.com
+Subject: RE: trading plan and products, etc meeting
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Rybarski, Amanda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ARYBARSK>
+X-To: Neal, Scott </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sneal>, Ring, Andrea </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Aring>, Ames, Chuck </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cames>, Townsend, Judy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jtownse>, Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmckay1>, Brawner, Sandra F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sbrawne>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+The meeting will take place in ECS06100.  
+
+Thanks, 
+Amanda 
+
+ -----Original Message-----
+From: 	Neal, Scott  
+Sent:	Thursday, January 31, 2002 2:22 PM
+To:	Ring, Andrea; Ames, Chuck; Townsend, Judy; Mckay, Jonathan; Brawner, Sandra F.
+Cc:	Rybarski, Amanda
+Subject:	trading plan and products, etc meeting
+
+I would like to get together Monday, February 4 at 9:30am to discuss the startup of our business
+including products, points, responsibilities etc.
+
+Amanda will notify you with the location.
+
+Thanks, 
+
+Scott 
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <29690214.1075841215698.JavaMail.evans@thyme>
+Date: Fri, 14 Dec 2001 07:30:33 -0800 (PST)
+From: no.address@enron.com
+Subject: All Employees Participating in the ENRON Domestic Benefit Plans
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Benefits Department@ENRON
+X-To: Enron Employees Domestic@ENRON
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+
+To:	    Employees
+
+From:	    ENRON Benefits Department
+
+Subject:    All Employees Participating in the ENRON Domestic Benefit Plans
+
+
+Enron Benefit Plans 
+Summary Annual Report    
+
+The basic financial and insurance information on the back of this page, as well as the material below, provide a Summary Annual Report for the Enron Benefit Plans.  The annual report for each plan has been filed with the Internal Revenue Service, as required by the Employee Retirement Income Security Act of 1974 (ERISA). 
+
+NOTE:  You may receive a report for a benefit plan in which you are not a participant or under which you are not entitled.  Entitlement to benefits under any of the plans is based on the provisions of each plan.
+
+
+Your Rights to Additional Information
+
+You have the right to receive, upon request, a copy of the full annual report, or any part thereof, for any plan.  For insured plans, insurance information (including any sales commissions paid by insurance carriers) is shown in the annual reports.
+
+To obtain a copy of the full annual report, or any part thereof, for any plan, write or call:
+
+Enron Corp Shareholder Relations
+1400 Smith Street
+Houston, TX  77002-7311
+
+(713) 853-6161
+
+You also have the right to receive from the plan administrator, on request and at no charge, a statement of the assets and liabilities of the plan and accompanying notes, or a statement of income and expenses of the plan and accompanying notes, or both.  If you request a copy of the full annual report from the plan administrator, these two statements and accompanying notes will be included as part of that report.
+
+You also have the legally protected right to examine the annual report at the main office of the plan (Enron Corp., 1400 Smith Street, Houston, TX  77002-7311) and at the U.S. Department of Labor in Washington, D.C., or to obtain a copy from the U.S. Department of Labor upon payment of copying costs.  Requests to the Department should be addressed to:  Public Disclosure Room, N-5638, Pension and Welfare Benefits Administration, U.S. Department of Labor, 200 Constitution Avenue, N.W., Washington, D.C. 20210.           
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <15472072.1075841215735.JavaMail.evans@thyme>
+Date: Thu, 13 Dec 2001 09:34:06 -0800 (PST)
+From: victor.lamadrid@enron.com
+To: robert.superty@enron.com
+Subject: FW: Reliant Entex-Tennessee Pipeline
+Cc: chuck.ames@enron.com, f..brawner@enron.com, chris.germany@enron.com,
+	scott.goodell@enron.com, john.hodge@enron.com, f..keavey@enron.com,
+	brad.mckay@enron.com, jonathan.mckay@enron.com, scott.neal@enron.com,
+	w..pereira@enron.com, vladi.pimenov@enron.com, andrea.ring@enron.com,
+	leonidas.savvas@enron.com, maureen.smith@enron.com,
+	craig.taylor@enron.com, judy.townsend@enron.com,
+	victoria.versen@enron.com, frank.vickers@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Bcc: chuck.ames@enron.com, f..brawner@enron.com, chris.germany@enron.com,
+	scott.goodell@enron.com, john.hodge@enron.com, f..keavey@enron.com,
+	brad.mckay@enron.com, jonathan.mckay@enron.com, scott.neal@enron.com,
+	w..pereira@enron.com, vladi.pimenov@enron.com, andrea.ring@enron.com,
+	leonidas.savvas@enron.com, maureen.smith@enron.com,
+	craig.taylor@enron.com, judy.townsend@enron.com,
+	victoria.versen@enron.com, frank.vickers@enron.com
+X-From: Lamadrid, Victor </O=ENRON/OU=NA/CN=RECIPIENTS/CN=VLAMADR>
+X-To: Superty, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rsupert>
+X-cc: Ames, Chuck </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cames>, Brawner, Sandra F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sbrawne>, Germany, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cgerman>, Goodell, Scott </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sgoodel>, Hodge, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jhodge2>, Keavey, Peter F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pkeavey>, Mckay, Brad </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bmckay>, Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmckay1>, Neal, Scott </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sneal>, Pereira, Susan W. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Spereir>, Pimenov, Vladi <Vladi.Pimenov@ENRON.com>, Ring, Andrea </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Aring>, Savvas, Leonidas </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lsavvas>, Smith, Maureen </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mgreena>, Taylor, Craig </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jtaylo2>, Townsend, Judy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jtownse>, Versen, Victoria </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vversen>, Vickers, Frank </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Fvicker>
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+fyi.
+
+ -----Original Message-----
+From: =09Garcia, Clarissa =20
+Sent:=09Thursday, December 13, 2001 11:26 AM
+To:=09Boyt, Eric; Dicarlo, Louis; Diamond, Russell; Neal, Scott; Versen, Vi=
+ctoria; Lamadrid, Victor
+Subject:=09Reliant Entex-Tennessee Pipeline
+
+Received a phone call on Thursday, December 13th approx. 9:15am from Royal =
+Edmondson, Gas Control Manager for Reliant Entex.  He was trying to locate =
+Victoria Versen and was eventually  transferred to me.  He wanted to make s=
+ure Enron was delivering gas to the Entex's city gates.  He asked if  Enron=
+ was currently nominating gas to Entex city gates? What about storage?   I =
+told him currently we were not nominating all the gas however; the city gat=
+es were kept whole with the no notice storage K#2210.  He was told by Tenne=
+ssee the storage was not being nominated & there was a good possibility tha=
+t the city gates were not receiving their gas.  I reassured him the city ga=
+tes were receiving their gas.  ENA does not nominate storage, it  was autom=
+atically done at the pipeline level due to the 2 day allocation lag.    As =
+per his previous conversation with Vicki Versen, he has an estimate what th=
+e storage levels were &  wanted to make sure there was enough gas in the st=
+orage to cover December.  I told him he would need to speak with Vicki on t=
+hat matter.  I asked him if there was a problem  that needed to be resolved=
+ & his response: Reliant is going to wait it through to see the outcome wit=
+h Enron, but wanted to make sure the gas was being delivered. =20
+
+After the conversation, I run the storage report for December & the gas is =
+automatically being withdrawn.  I called Royal back  and confirmed gas was =
+being withdrawn from storage. He asked for a copy of the storage report.  I=
+ did not discuss volume or what Enron's intention were at this time. I have=
+ not  fax him a copy of the storage report as per his request.  =20
+
+I did not want to alienate Royal, but at same time I did not want to provid=
+e too much information without knowing his full intentions.
+
+
+
+Thanks,
+
+Clarissa Hanks
+Sr Specialist Logistics-East Desk Lead
+x37179
+
+
+
+ =20
+
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <11313942.1075841215624.JavaMail.evans@thyme>
+Date: Thu, 31 Jan 2002 15:14:09 -0800 (PST)
+From: announcements.enron@enron.com
+To: dl-ga-all_domestic@enron.com, dl-ga-all_netco@enron.com
+Subject: Assistance for Former Employees
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Enron General Announcements </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MBX_ANNCENRON>
+X-To: DL-GA-all_domestic </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DL-GA-all_enron_north_america>, DL-GA-all_NETCO </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DL-GA-all_NETCO>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+Many of you have friends who are no longer with the company, so we wanted to provide you an overview of continuing efforts to assist Enron's former employees.
+
+CAREER SERVICES
+Last December Enron established a website to assist former employees identify jobs in Houston and throughout the United States.  Only former Enron employees and potential employers can access the site, http://careerservices.enron.com/
+
+On this site, former employees can:
+	? Post their resumes for approved employers to view
+	? View job postings
+	? Receive updates and information on career and community services available to them
+As of January 25, 2002:
+	? More than 1,300 companies had been approved to view resumes
+	? Company recruiters had logged on more than 3,500 times to search for candidates
+	? More than 600 jobs had been posted on the site
+
+FINANCIAL ASSISTANCE
+The Greater Houston Community Foundation
+The Greater Houston Community Foundation (GHCF), in collaboration with the United Way of the Texas Gulf Coast, the Houston Area Urban League, Crisis Intervention of Houston, and Career and Recovery Resources, have established a fund to provide dedicated support for former Enron employees.  GHCF offers former employees counseling services and helps them work with mortgage companies, landlords and utilities to defer monthly bills while they are out of work.   If you are interested in making a tax-deductible donation to the GHCF, please call 713-268-6458 or mail donations to GHCF at 4550 Post Oak Place, Suite 317, Houston, TX  77027.  Checks should be made payable to Greater Houston Community Foundation and designated for the Enron Employee Transition Fund.  To receive assistance, former employees can call 713-533-4598, or outside Houston, 1-800-493-4598.  Lines are open 24 hours a day, seven days a week. 
+
+Enron Ex-Employee Relief Fund Account
+A former employee has established the Enron Ex-Employee Relief Fund Account at the Humble Community Bank.  Visit the website at <http://www.eerfa.com> for more information or to make a donation.  Former employees can submit grant requests to eerfarequest@surfmk.com.
+
+MDPC Transitional Assistance Program
+Memorial Drive Presbyterian Church has created a Transitional Assistance Program open to both members and non-members who need assistance re-entering the workforce.  Right Management Consultants offers a series of two-day workshops for former employees on topics such as Career Assessment and Evaluation, Job Search Communication and Managing in a Time of Change.  Requests for limited and discretionary short-term financial assistance will be accepted from those who have participated in this program.  MDPC will offer a holistic approach to re-entering the workforce including family counseling and stress management. For more information, contact Memorial Drive Presbyterian Church at 713-953-2550, ext 180.
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <11803101.1075841216141.JavaMail.evans@thyme>
+Date: Wed, 24 Oct 2001 12:42:11 -0700 (PDT)
+From: ian.cooke@enron.com
+To: jonathan.mckay@enron.com
+Subject: AGA
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Cooke, Ian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ICOOKE>
+X-To: Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmckay1>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+Hi Jon,
+
+Hope you are doing well,  here is this weeks AGA. 
+
+Ian 
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <20651957.1075841215820.JavaMail.evans@thyme>
+Date: Wed, 5 Dec 2001 12:30:09 -0800 (PST)
+From: scott.neal@enron.com
+To: f..brawner@enron.com, jonathan.mckay@enron.com, brad.mckay@enron.com
+Subject: FW: Please ensure that deal valuations are still being recorded.
+ THX
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Neal, Scott </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SNEAL>
+X-To: Brawner, Sandra F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sbrawne>, Mckay, Jonathan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jmckay1>, Mckay, Brad </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bmckay>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+fyi
+
+ -----Original Message-----
+From: 	Hayden, Frank  
+Sent:	Wednesday, December 05, 2001 2:10 PM
+To:	Neal, Scott; Shively, Hunter S.; Martin, Thomas A.; Grigsby, Mike; Presto, Kevin M.; Sturm, Fletcher J.; Davis, Mark Dana; Belden, Tim; Zufferli, John
+Cc:	Nordstrom, Mary; Hagelmann, Bjorn
+Subject:	Please ensure that deal valuations are still being recorded. THX
+
+  
+
+From MAILER-DAEMON Mon Apr 18 14:19:22 2022
+Message-ID: <25825384.1075841215786.JavaMail.evans@thyme>
+Date: Tue, 11 Dec 2001 15:41:25 -0800 (PST)
+From: no.address@enron.com
+Subject: Updated Q&As for Enron Employees
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Human Resources@ENRON
+X-To: Enron Employees Domestic@ENRON
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Mckay, Jonathan\Enron
+X-Origin: MCKAY-J
+X-FileName: jon mckay 7-11-02.PST
+
+Updated questions and answers for Enron employees have just been posted to http://home.enron.com/updates/qa.html  
+We recognize that as active employees you have special concerns and questions related to Enron's bankruptcy filing.  We regret that we are not able to answer all of your questions as quickly as you deserve, but we are working to provide accurate responses to your most important questions about employee benefits, expense payments and so on.  We appreciate your patience as we continue to try to provide timely and reliable information to you. 
+

@@ -1,0 +1,1746 @@
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <24061902.1075849858573.JavaMail.evans@thyme>
+Date: Wed, 6 Dec 2000 07:38:00 -0800 (PST)
+From: cassandra.schultz@enron.com
+To: james.new@enron.com, chris.abel@enron.com, mike.jordan@enron.com,
+	oliver.gaylard@enron.com
+Subject: Re: Loss Notification - "Structured Derivatives"- resolution
+Cc: ted.murphy@enron.com, david.port@enron.com, sally.beck@enron.com,
+	shona.wilson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: ted.murphy@enron.com, david.port@enron.com, sally.beck@enron.com,
+	shona.wilson@enron.com
+X-From: Cassandra Schultz
+X-To: James New, Chris Abel, Mike Jordan, Oliver Gaylard
+X-cc: Ted Murphy, David Port, Sally Beck, Shona Wilson
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Rac\Schultz, cassandra
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+I discussed with Ted and David, and they agree with Oliver's analysis below, 
+so Chris, let's go ahead and report on the $20MM loss against UK Gas in 
+today's notifications.  Then perhaps you can work with James to adjust DPR 
+reporting accordingly going forward.
+
+Thank you,
+Cassandra.
+
+
+---------------------- Forwarded by Cassandra Schultz/NA/Enron on 12/06/2000 
+03:28 PM ---------------------------
+
+
+Oliver Gaylard@ECT
+12/06/2000 02:55 PM
+To: Cassandra Schultz/NA/Enron@ENRON
+cc: David Port/Market Risk/Corp/Enron@ENRON, James New/LON/ECT@ECT, Ted 
+Murphy/HOU/ECT@ECT 
+
+Subject: Re: Loss Notification - "Structured Derivatives"  
+
+Cassandra
+
+As discussed with Ted, David and yourself the loss should not be looked at on 
+its own as it is due to movements in two markets.
+
+The UK power price curve shifted and the UK gas volatility curve shifted. The 
+P+L break out is as follows:
+
+UK Power delta P+L      $38MM
+Spread options (Structured derivatives) gamma P+L  $(20)MM
+Spread options (Structured derivatives) vega P+L  $(23)MM
+UK Gas  vega P+L      $4MM
+
+If prudency releases are stripped out I think if we allocate P+L to the 
+correct books we get the following total P+Ls exluding reserve releases:
+
+UK Power       $18MM
+UK Gas        $(20)MM (Excludes reserve release of $17MM)
+
+Therefore we only have a loss violation in UK gas. This is not trying to 
+avoid the $42MM loss notification, I am only trying to represent the loss 
+that reflects the true risk in the books of Europe.
+
+Please hold off on the issue of a notification until it is decided that only 
+a loss notification is issued for gas.
+
+Rgds
+
+Oliver
+
+
+   
+
+
+From:  Cassandra Schultz @ ENRON                                              
+               06/12/2000 19:55	
+	
+	
+	                           
+	
+
+To: Michael Kass/EU/Enron@Enron, Chris Abel/HOU/ECT@ECT, James New/LON/ECT@ECT
+cc: Oliver Gaylard/LON/ECT@ECT, David Port/Market Risk/Corp/Enron@ENRON, Mike 
+Jordan/LON/ECT@ECT, Shona Wilson/NA/Enron@Enron 
+
+Subject: Loss Notification - "Structured Derivatives"
+
+Per discussion with Ted Murphy, P/L related to the Eastern spread options 
+should be included in our Loss Notification monitoring in accordance with the 
+Risk Management Policy.  However, my understanding is that the positions and 
+VaR are captured in European Gas and UK Power, but the P/L is reported 
+separately in "Structured Derivatives".  This reporting is perhaps further 
+complicated by related prudencey being released in the line item European 
+Gas.  
+
+The 12/5 DPR reflects a ($43MM) loss in Structured Derivatives, and Oliver 
+indicated this represents the market moving against our Eastern spread option 
+position.  This is a Ken Lay level notification by any measurement standards, 
+regardless of whether you compare it to the $7,500 VAR limit for Gas, or the 
+$15,300 VaR limit for UK Power. Or even split it between them.
+
+Chris, please include this loss in today's notification letters to Ken Lay 
+and Jeff Skilling for the 5th.  Per Oliver, the loss was due to power price 
+curve shift and gas volatility curve shift against the Eastern spread options.
+
+Going forward, James, perhaps you could work with Oliver and the commercial 
+team to determine a reasonable methodology to support the allocation of P/L 
+and related DPR reporting  for these positions so we can continue to evaluate 
+in compliance with the policy.
+
+Thank you,
+Cassandra.
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <10384455.1075849858597.JavaMail.evans@thyme>
+Date: Wed, 6 Dec 2000 01:03:00 -0800 (PST)
+From: cassandra.schultz@enron.com
+To: james.new@enron.com, mike.jordan@enron.com
+Subject: Preliminary DPR
+Cc: chris.abel@enron.com, michael.kass@enron.com, david.port@enron.com,
+	shona.wilson@enron.com, sally.beck@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: chris.abel@enron.com, michael.kass@enron.com, david.port@enron.com,
+	shona.wilson@enron.com, sally.beck@enron.com
+X-From: Cassandra Schultz
+X-To: James New, Mike Jordan
+X-cc: Chris Abel, Michael Kass, David Port, Shona Wilson, Sally Beck
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Rac\Schultz, cassandra
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+One of Market Risk's primary responsibilities is to review Enron's trading 
+activities and provide feedback to management, and management's expectation 
+is that this is feedback and analysis is provided at the beginning of the 
+Houston trading day.  Global Risk Management Operations in Houston is now 
+providing Market Risk with a Enron Consolidated Preliminary DPR prior to 8 
+a.m. Houston time, for use in Market Risk's morning meeting where we review 
+all of Enron's trading activities from the prior day.  The only information 
+missing from this is the UK, and I understand we do not receive the London 
+DPR until 10:30a.m, 4:30pm your time.  
+I'm sure you're working toward obtaining a final DPR earlier in the day, but 
+meanwhile, we'd like to obtain a preliminary DPR that Global Ops can 
+consolidate for Houston management's use first thing in the morning, as 
+decisions need to be made each day based on Enron's consolidated exposure, 
+etc..   We understand they're preliminary, but we work off preliminary #s 
+from Houston, and I expect with the 6 hour time difference, your preliminary 
+#s will be much firmer than ours.  We can start with just P/L and VaR, so 
+it's not that many #s we need.  I'm hoping when we get the RisktRAC feeds 
+complete we'll be able to see positions earlier as well.
+
+Please let us know when we can begin receiving this information.
+
+Thank you,
+
+Cassandra Schultz
+VP, Market Risk Management
+work 713 853 0429
+cell 713 858 2618
+home 936 321 2185
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <7990652.1075849858165.JavaMail.evans@thyme>
+Date: Tue, 13 Feb 2001 09:05:00 -0800 (PST)
+From: cassandra.schultz@enron.com
+To: john.lavorato@enron.com, louise.kitchen@enron.com, greg.whalley@enron.com,
+	david.delainey@enron.com, marty.sunde@enron.com,
+	janet.dietrich@enron.com, don.black@enron.com, wanda.curry@enron.com,
+	jeffrey.gossett@enron.com, stacey.white@enron.com
+Subject: NA Gas and Power Limits
+Cc: david.port@enron.com, vladimir.gorny@enron.com, frank.hayden@enron.com,
+	lacrecia.davenport@enron.com, minal.dalia@enron.com,
+	darin.schmidt@enron.com, ted.murphy@enron.com, sally.beck@enron.com,
+	wes.colwell@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+Bcc: david.port@enron.com, vladimir.gorny@enron.com, frank.hayden@enron.com,
+	lacrecia.davenport@enron.com, minal.dalia@enron.com,
+	darin.schmidt@enron.com, ted.murphy@enron.com, sally.beck@enron.com,
+	wes.colwell@enron.com
+X-From: Cassandra Schultz
+X-To: John J Lavorato, Louise Kitchen, Greg Whalley, David W Delainey, Marty Sunde, Janet R Dietrich, Don Black, Wanda Curry, Jeffrey C Gossett, Stacey W White
+X-cc: David Port, Vladimir Gorny, Frank Hayden, LaCrecia Davenport, Minal Dalia, Darin Schmidt,  Ted Murphy, Sally Beck, Wes Colwell
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Rac\Schultz, cassandra
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+The Enron BOD approved the some limit changes today, effective for trading=
+=20
+day Tuesday, February 13, 2001, consistent with the risk management policy'=
+s=20
+intent to provide a trading limit framework whereby management can review=
+=20
+Enron's consolidated exposure to commodities.  To faciliate the aggregation=
+=20
+and reporting of Enron's consolidated exposure to commodities, the limit=20
+structure was modified to provide for aggregation of North American Natural=
+=20
+Gas and Electricity, with EES's NA Gas and Power positions included, and wi=
+th=20
+a separate business unit sub-limit for EES.
+
+Policy amendments were as follows:
+
+u Clarify the cross-commodity trading policy to specify that trading limits=
+=20
+are to be applied against Enron=01,s consolidated commodity positions on an=
+=20
+individual commodity group basis;  Enron=01,s consolidated Daily Position R=
+eport=20
+should provide required market risk disclosures by primary commodity group;=
+=20
+(for example, Enron=01,s exposure to the North American Natural Gas market =
+shall=20
+be aggregated across the company).
+
+=01) Delegate cross-commodity trading approval among established commodity=
+=20
+groups to the respective Business Units Offices of the Chairman, with=20
+appropriate reporting to the Enron Corp. Chief Risk Officer.
+
+u Specify the operational control requirement that all trades executed over=
+=20
+the telephone must be recorded electronically.
+
+Cross-commodity trading authority was not automatically pre-approved for=20
+anyone in the company. Authority to trade a commodity for which you are not=
+=20
+the authorized trader must be obtained from the Business Unit Office of the=
+=20
+Chairman for the commodity group that is authorized to trade that commodity=
+,=20
+with appropriate reporting as noted below. =20
+
+           =20
+  North American Cross-Commodity  Limits   =20
+VaR Limit     None (terminated the $5MM VaR limit)
+
+North American Natural Gas
+Net Open Position    500 Bcf
+Maturity / Gap Risk Limit   200 Bcf
+VaR Limit     $61 MM (EES - $1 MM) **
+
+North American Electricity
+Net Open Position    90 Twh
+Maturity / Gap Risk Limit   25 Twh
+VaR Limit     $54 MM (EES - $4 MM) **
+
+
+** EES's $5MM VaR was allocated between Gas and Power for purposes of=20
+calculating consolidated NA Gas and Power limits.  From a business unit=20
+perspective, the $5MM VaR limit will continue to be monitored for EES in=20
+total.
+
+Below are relevant excerpts from the revised policy addressing the=20
+cross-commodity trading guidelines.  I will distribute the entire updated=
+=20
+policy as soon as we incorporate the BOD's comments.
+
+V. Operations and Controls.
+B.  Position Reporting.  "...For purposes of limit monitoring and aggregati=
+on=20
+of Enron=01,s consolidated trading results, Enron=01,s consolidated Daily P=
+osition=20
+Report should include the Net Open Position, Maturity/Gap Position, profit =
+or=20
+loss, and potential exposure (VaR) for approved Commodity Groups consolidat=
+ed=20
+across the company without regard to which business unit undertook the=20
+trading activity. In those instances where limits are granted to a business=
+=20
+unit for a basket of commodities, reporting for individual commodity risk=
+=20
+books shall be maintained to facilitate aggregation of Enron=01,s actual=20
+consolidated commodity specific exposure.  Management reporting may=20
+separately provide business unit sub-limit monitoring and trading results=
+=20
+aggregated according to management lines."
+
+E. Transaction Approval and Execution. "Only those employees designated by=
+=20
+the Enron Corp. Chief Risk Officer or his designee(s) will be authorized to=
+=20
+enter into Transactions on behalf of Enron.  The Chief Risk Officer must al=
+so=20
+maintain a record of those employees responsible for the individual Commodi=
+ty=20
+Groups (Commodity Group Manager) as specified in the Appendices.  Individua=
+ls=20
+will be assigned as commodity leaders to manage Enron=01,s aggregate positi=
+on=20
+across the company as determined necessary by the Chief Risk Officer..."
+
+VI.  Policy Amendment Authority
+B. Cross-Commodity Position Authorization.  If in the ordinary course of it=
+s=20
+business an Enron Business Unit or trading desk incurs an exposure to an=20
+underlying commodity or financial instrument for which it does not have=20
+explicit authority to carry, this exposure should be hedged internally with=
+=20
+the appropriate Enron desk(s), with appropriate notification to the Chief=
+=20
+Risk Officer or his designee(s).  Hedge positions should be in instruments=
+=20
+that have an observable correlation with the underlying exposure, and shoul=
+d=20
+be rebalanced regularly to substantially neutralize the underlying exposure=
+. =20
+
+ Upon notification to the Chief Risk Officer or his designee(s), the Enron=
+=20
+Business Unit Office of the Chairman who has authority for that commodity=
+=20
+group may authorize a specific trader in a different commodity group to tak=
+e=20
+speculative positions with other Enron trading desks in commodities and/or=
+=20
+financial instruments other than those which that trader has explicit=20
+authority to trade (i.e. the Business Unit Office of the Chairman for North=
+=20
+American Natural Gas may authorize a trader in the Coal group to trade gas=
+=20
+with the North American Natural Gas desk).    For limit monitoring purposes=
+=20
+of Enron=01,s consolidated trading results, these cross-commodity positions=
+=20
+shall be captured by individual commodity to facilitate aggregation and=20
+reporting of Enron=01,s consolidated exposure by commodity in the Daily Pos=
+ition=20
+Report (Coal desk=01,s gas position will be aggregated with the North Ameri=
+can=20
+Natural Gas commodity group.)
+
+
+If you have any questions, feel free to call Vlady at x36954, me at x30429,=
+=20
+or David Port at x39823.
+
+Regards,
+
+Cassandra Schultz.
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <32988530.1075849858417.JavaMail.evans@thyme>
+Date: Tue, 2 Jan 2001 06:50:00 -0800 (PST)
+From: cassandra.schultz@enron.com
+To: sally.beck@enron.com
+Subject: Bankruptcy
+Cc: shona.wilson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: shona.wilson@enron.com
+X-From: Cassandra Schultz
+X-To: Sally Beck
+X-cc: Shona Wilson
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Rac\Schultz, cassandra
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Sally - 
+
+We didn't really cover the role you intended to play with EES and EBS as far 
+as Doorstep is concerned when we met with Causey/Buy.  (Or I just can't 
+remember.) May we include EES and EBS in the scope of our one Doorstep 
+project, and continue to work with Shona, also coordinating with Wanda and 
+Barry when EES and EBS are involved?  Things like the event below might make 
+us re-consider our need to visit "origination" offices.  I don't think this 
+office was on any of our lists.
+
+Cassandra.
+---------------------- Forwarded by Cassandra Schultz/NA/Enron on 01/02/2001 
+02:44 PM ---------------------------
+   
+	
+	
+	From:  Vladimir Gorny @ ECT                           01/02/2001 02:35 PM
+	
+
+To: Cassandra Schultz/NA/Enron@Enron, David Port/Market 
+Risk/Corp/Enron@ENRON, Ted Murphy/HOU/ECT@ECT
+cc:  
+
+Subject: Bankruptcy
+
+LTV Steel, a counterparty of Clinton Gas, which is a subsidiary of EES went 
+bankrupt. EES exposure is ~$6 million. This transaction has not been approved 
+by the Credit group and it seems that they have little clue about Enron's 
+processes and procedures. I believe Clinton Gas is located in Dublin, Ohio 
+and suggest that it be included on the Door Step list.
+
+Vlady.
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <26295424.1075845066885.JavaMail.evans@thyme>
+Date: Thu, 5 Apr 2001 20:48:00 -0700 (PDT)
+From: cassandra.schultz@enron.com
+To: scott.earnest@enron.com, jeffrey.gossett@enron.com, d.hall@enron.com,
+	sheila.glover@enron.com, stacey.white@enron.com, james.new@enron.com,
+	michael.kass@enron.com
+Subject: Your Help Needed Please - Cross-Commodity Reporting
+Cc: shona.wilson@enron.com, chris.abel@enron.com, beth.apollo@enron.com,
+	sally.beck@enron.com, david.port@enron.com, brent.price@enron.com,
+	michael.pitt@enron.com, bjorn.hagelmann@enron.com,
+	vladimir.gorny@enron.com, mary.nordstrom@enron.com,
+	oliver.gaylard@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+Bcc: shona.wilson@enron.com, chris.abel@enron.com, beth.apollo@enron.com,
+	sally.beck@enron.com, david.port@enron.com, brent.price@enron.com,
+	michael.pitt@enron.com, bjorn.hagelmann@enron.com,
+	vladimir.gorny@enron.com, mary.nordstrom@enron.com,
+	oliver.gaylard@enron.com
+X-From: Cassandra Schultz <Cassandra Schultz/ENRON@enronXgate@ENRON>
+X-To: Scott Earnest <Scott Earnest/ENRON@enronXgate>, Jeffrey C Gossett <Jeffrey C Gossett/HOU/ECT@ECT>, D Todd Hall <D Todd Hall/ENRON@enronXgate>, Sheila Glover <Sheila Glover/HOU/ECT@ECT>, Stacey W White <Stacey W White/HOU/ECT@ECT>, James New <James New/LON/ECT@ECT>, Michael Kass <Michael Kass/EU/Enron@Enron>
+X-cc: Shona Wilson <Shona Wilson/NA/Enron@Enron>, Chris Abel <Chris Abel/HOU/ECT@ECT>, Beth Apollo <Beth Apollo/ENRON@enronXgate>, Sally Beck <Sally Beck/HOU/ECT@ECT>, David Port <David Port/ENRON@enronXgate>, Brent A Price <Brent A Price/ENRON@enronXgate>, Michael Pitt <Michael Pitt/EU/Enron@Enron>, Bjorn Hagelmann <Bjorn Hagelmann/ENRON@enronXgate>, Vladimir Gorny <Vladimir Gorny/ENRON@enronXgate>, Mary Nordstrom <Mary Nordstrom/ENRON@enronXgate>, Oliver Gaylard <Oliver Gaylard/LON/ECT@ECT>
+X-bcc: 
+X-Folder: \Beck, Sally\Beck, Sally\RAC\Schultz, Cassandra
+X-Origin: BECK-S
+X-FileName: Beck, Sally.pst
+
+Please excuse the long e-mail below - I knew we'd never get a chance to all=
+ get together, and this is somewhat urgent as I have to complete the Financ=
+e Committee presentation for the upcoming BOD meeting by the end of next we=
+ek, and it will include trading results for the 1st quarter, reported in ac=
+cordance with the risk management policy.  Due to issues noted below, this =
+may require immediate attention by your staff as we have a few short days t=
+o come up with the best quality numbers we can.  I talked to Beth already, =
+and MRM met with Chris Abel's group to see if there was a short cut, but ou=
+r joint conclusion was that the business unit controllers need to be involv=
+ed in this process as you are the experts on your businesses and can apply =
+the best judgment to decide on the trading results to be reported to the BO=
+D.  We'll probably need to go with our best estimate of 3/30 #s as of end o=
+f the day next Tuesday or Wednesday at the latest.
+
+As you recall, the February 12th BOD meeting resulted in a clarification th=
+at the BOD approved trading limits were limits on the generic commodity gro=
+ups defined, and accordingly the trading results must be reported consisten=
+t with that limit structure (management reporting can be different of cours=
+e).  Chris Abel's global energy operations group has prepared a "RAC" DPR t=
+hat attempts to aggregate the commodity groups in accordance with the risk =
+management policy, so that top management and the BOD can see Enron's expos=
+ure to individual commodities on a consolidated basis.    (A)  This DPR wil=
+l not impact actual sharing of P/L from a management reporting/business uni=
+t perspective - this is purely for market risk management purposes and repo=
+rting to the BOD.  But commercial management will need to review and sign o=
+ff on the RAC DPR and monitor limits accordingly, as these limits are at an=
+ Enron level.
+
+The specific trading results we need for the BOD presentation are the first=
+ quarter P/L and average daily VaR, by commodity group.  The first RAC DPR =
+available is as of 3/30 - so while it has cumulative P/L, VaR is only as of=
+  3/30.  (Note - we're also comparing to 1Q 2000, but we're not going to at=
+tempt to resolve cross-commodity reporting for that period except at a high=
+ level).
+
+Your participation is needed in resolving: 1) cross-commodity reporting per=
+ the new RAC DPR - both retroactively for the 1st quarter, and going forwar=
+d, and 2) ROVAR (return on average daily VaR by commodity group) for the 1s=
+t quarter.  This aggregation of cross-commodity activity has been completed=
+ by Chris as of 3/30, so he has what he believes to be P/L aggregated for t=
+he quarter in accordance with the policy. What we don't have is VaR on a da=
+ily basis as the first time it was calculated on an aggregated basis was on=
+ 3/30.  Obviously we're not going to be able to go back and calculate daily=
+ VaR for the entire quarter by commodity group aggregated in this new manne=
+r - especially within a week.  So it appears we'll need to "swag" average d=
+aily VaR - by reviewing the cross commodity positions aggregated at 3/30, b=
+y considering cross-commodity activity you're aware of that took place thro=
+ughout the quarter, and using our best estimate of the impact on VaR for th=
+is cross commodity activity. =20
+
+Due to this adjustment in historical reporting practices, we feel a certain=
+ level of due diligence is required for us to  feel confident we're reporti=
+ng to the BOD in accordance with the policy. And since we only have a few d=
+ays, I thought a team approach to tackling the review would facilitate a pr=
+ompt resolution of material issues, and then you and Chris' group can work =
+out your processes and procedures on how to handle going forward as you see=
+ fit.  When you consider materiality, please involve your Market Risk conta=
+ct - while a transaction/position/book may not be material to gas or power,=
+ it may be material to Global Products,  Weather, etc..
+
+Would you please help us with the following:
+?=09Confirm your review of Chris' aggregation on the RAC DPR at 3/30 (Chris=
+' staff can walk you through)
+?=09are all the cross-commodity positions you're aware of being reported co=
+rrectly?
+?=09is there other cross-commodity activity not present at 3/30 and consequ=
+ently not aggregated for the quarter's results, but actually present during=
+ the first quarter and material? If so, estimate impact on P/L and average =
+daily VaR.
+?=09we're not expecting an exhaustive search or analysis - perhaps you can =
+simply discuss this issue with the traders who handle this type of activity=
+ to get a feel, and if they point on specific material transactions, we can=
+ address those; you can determine best approach
+?=09are there certain books in RisktRAC that have cross-commodity positions=
+ imbedded/combined - either held currently or those that generated signific=
+ant VaR or P/L during the quarter?  Going forward these will need to be rep=
+orted separately to facilitate risk reporting, but in the next week what we=
+ need is an estimate of the impact on the corresponding commodities, or a c=
+onclusion that the impact is immaterial.
+?=09Once you've reviewed the summary of cross commodity activity per the RA=
+C DPR and per your own knowledge, help us estimate the impact on the respec=
+tive commodities' average daily VaR for the quarter - you can discuss with =
+your market risk contact your recommendation on a reasonable "swag" approac=
+h.
+
+
+After considering the information above, please provide your assessment on =
+whether you are in fact able to capture and report all the cross-commodity =
+activity, and if not, identify the issues involved and whether it is someth=
+ing that market risk needs to address, or if it will simply take more time =
+to resolve the reporting details.
+
+If you have other recommendations on how to get comfortable with the tradin=
+g results for the quarter, please feel free to pursue those.  I do not mean=
+ to imply I know how to do your jobs, or that you're not doing them - I sim=
+ply want to coordinate with you to ensure the #s we report to the BOD are t=
+he numbers you agree with, and that if they're not completely accurate give=
+n recent implementation, that we are able to articulate and estimate the po=
+tential misstatement, if any.  As you are the experts on your businesses' r=
+esults, I simply wanted to make sure I closed the loop with what we in MRM =
+understand regarding your reporting of the cross-commodity activity and tra=
+ding results and the application of the policy.
+
+On a separate note, we need you to identify P/L related to special transact=
+ions that flowed through the DPR, but do not really represent trading activ=
+ity - examples in the past are SFAS 125 transactions and other unique gain/=
+loss events - we're reporting 1Q 2001 and 1Q 2000, so whatever we can recal=
+l about last year will also be considered. We will be sending you a reconci=
+liation from the DPR to the BOD package that we use to document any special=
+ adjustments, and will discuss this with you to come to an agreement on adj=
+ustments to the DPR reporting to derive true trading activity. These adjust=
+ments should be minimal, but we'd like your input to conclude. =20
+
+
+Thank you for your cooperation,
+
+Regards,
+Cassandra Schultz
+x30429
+713 858 2618 cell
+936 321 2185 home
+
+
+(A)  For example, North American Electricity limits represent Enron's conso=
+lidated NA Electricity trading activity, without regard to which business u=
+nit or commodity group actually executes the trades or holds positions. So =
+if Power has some gas positions for hedges or other reasons, these gas trad=
+es need to be removed from Power VaR and P/L and combined with Gas' VaR and=
+ P/L, etc..  Heating oil positions held outside Global Products should be a=
+ggregated with Global Products; Global Products' positions in gas and power=
+ should be aggregated with gas and power, with corresponding adjustment to =
+Global Products' results.
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <30299644.1075849858548.JavaMail.evans@thyme>
+Date: Thu, 7 Dec 2000 06:51:00 -0800 (PST)
+From: cassandra.schultz@enron.com
+To: shona.wilson@enron.com, michael.benien@enron.com, chris.abel@enron.com,
+	daniel.falcone@enron.com
+Subject: Limit Violations and Notifications Process
+Cc: veronica.valdez@enron.com, sally.beck@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: veronica.valdez@enron.com, sally.beck@enron.com
+X-From: Cassandra Schultz
+X-To: Shona Wilson, Michael Benien, Chris Abel, Daniel Falcone
+X-cc: Veronica Valdez, Sally Beck
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Rac\Schultz, cassandra
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Shona -
+
+To share with the others our telephone discussion, the notification template 
+was not my request, it was requested directly by Skilling.  I know your group 
+is working hard to meet mangagement expectations, and in accordance with your 
+request below, Market Risk is happy to help you transition into this revised 
+reporting format by reviewing the template prior to your distribution until 
+you are comfortable with the reporting requirements.   The new P/L 
+notification limits and limit changes that will be in effect  next Tuesday 
+should dramatically decrease the number of notifications, so that should 
+help.  It probably makes sense to re-distribute the policy to your business 
+unit controllers and the traders so they understand the policy requirements.
+
+Another issue that we discussed yesterday is the source of the violation 
+explanations.  These should be provided to you by the head trader of that 
+commodity group.  Under the policy, that commodity group manager is 
+responsible for compliance with the risk management policy for the 
+commodities under his responsibility, along with the head of the energy ops 
+for that commodity group.  If the traders are not providing these 
+explanations to you or to your counterparts (ops desk head / business unit 
+controller), I'll be happy to send them an e-mail explaining their compliance 
+obligation under the policy.  Why don't you talk to each of the business unit 
+controllers, consider whether a process is already in place for this feedback 
+(as I understand it is for Global Products, for example), and if you'd like 
+me to send an e-mail to whoever you're having difficulty with, I will - just 
+let me know who.  Our Market Risk desk heads will be happy to review their 
+explanations, but the problem is, they can see whether they're short or long 
+and how the market moved in comparison, but it's the trader that can and 
+should explain why they took a position, whether they're adjusting it based 
+on the market moves, etc.. 
+
+Let me know what else I can do to help streamline the process.
+
+Regards,
+Cassandra.
+
+
+---------------------- Forwarded by Cassandra Schultz/NA/Enron on 12/07/2000 
+09:48 AM ---------------------------
+   
+	
+	
+	From:  Shona Wilson                           12/07/2000 09:42 AM
+	
+
+To: Cassandra Schultz/NA/Enron@Enron
+cc: Michael Benien/Corp/Enron@ENRON, Chris Abel/HOU/ECT@ECT, Daniel 
+Falcone/Corp/Enron@ENRON, Veronica Valdez/HOU/ECT@ECT, Sally Beck/HOU/ECT@ECT 
+
+Subject: Re: 12/5 Limit Violations and Notifications - Comments  
+
+Dear Cassandra,
+
+In looking at the comments below there are several errors made buy us, one in 
+the template itself, and some suggestions.  At your request, we have started 
+to prepare this in addition to the normal word violation/notification memos 
+and our other work.  As you have certain requests and requirements, it would 
+be helpful for someone in your group to review it before it went out to 
+ensure it meets your requirements.
+
+Please let me know if this is workable and who the reviewer should be.
+
+Thanks,
+
+Shona
+
+
+
+
+To: Michael Benien/Corp/Enron@ENRON, Chris Abel/HOU/ECT@ECT, Shona 
+Wilson/NA/Enron@Enron, Daniel Falcone/Corp/Enron@ENRON
+cc: Veronica Valdez/HOU/ECT@ECT 
+
+Subject: 12/5 Limit Violations and Notifications - Comments
+
+I realize this has already gone out, but I see a few errors that we should 
+correct  - and actually, I think we should call Skilling and Lay's (and 
+Buy's) assistants (Veronica will handle this) and see if we can just hand 
+deliver to them a corrected version early this morning, e-mail is OK for Ted, 
+David and I. I have a few other suggestions on format/reporting changes as 
+well.
+
+
+The NA Power VaR of $51MM was not 105% over its VaR limit of $50 - that would 
+have been $52.5 to require a report to Skilling, (but if we had had to report 
+it, don't use "WSCC", try to spell out or just don't use)
+UK Gas's VaR limit is not $4, it's $7.5MM
+I can't tie in UK Gas' QTD and YTD P/L - shouldn't it be what's on the DPR, 
+adjusted for the portion of the structured derivatives that is gas - call 
+over to that Yeo person and get the info. from them please
+The 2nd item for NA Gas shouldn't be listed like that as it looks like 
+another violation - the comment re: the VaR increase was mean to go at the 
+bottom under RAC comments
+The Finance Committe Chairman notification for Agg. VaR is not 100%, it's 
+115% (notification requirement box)
+EES had a VaR violation - $7.5 vs. 7 - that is a Skilling level violation
+Let's have the "Re:" say "Limit Violations and Notifications for December 5, 
+2000"
+Let's number them all sequentially rather than starting over at each level
+
+
+Veronica will call you to coordinate re-distribution.
+
+Going forward, we need to increase our level of review for these as they're 
+getting a lot of scrutiny given market dynamics and our increasing risk.
+
+Thank you,
+Cassandra.
+
+---------------------- Forwarded by Cassandra Schultz/NA/Enron on 12/07/2000 
+07:38 AM ---------------------------
+
+
+Michael Benien
+12/06/2000 07:08 PM
+To: Kenneth Lay/Corp/Enron@ENRON, Rosalee Fleming/Corp/Enron@ENRON, Jeff 
+Skilling/Corp/Enron@ENRON, Sherri Sera/Corp/Enron@ENRON, Rick 
+Buy/HOU/ECT@ECT, Karen K Heathman/HOU/ECT@ECT
+cc: Cassandra Schultz/NA/Enron@Enron, Ted Murphy/HOU/ECT@ECT, David 
+Port/Market Risk/Corp/Enron@ENRON, Chris Abel/HOU/ECT@ECT 
+
+Subject: 12/5 Limit Violations and Notifications
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <29474151.1075849858137.JavaMail.evans@thyme>
+Date: Sun, 18 Feb 2001 14:26:00 -0800 (PST)
+From: cassandra.schultz@enron.com
+To: bob.hall@enron.com, leslie.reeves@enron.com, jeffrey.gossett@enron.com,
+	peggy.hedstrom@enron.com, stacey.white@enron.com,
+	brent.price@enron.com, scott.earnest@enron.com,
+	sheila.glover@enron.com, d.hall@enron.com, cindy.horn@enron.com,
+	brenda.herod@enron.com, mike.jordan@enron.com,
+	howard.carter@enron.com, andrew.cornfield@enron.com,
+	james.new@enron.com, orjan.agdesteen@enron.com, james.new@enron.com,
+	marcelo.parra@enron.com, louis.colarusso@enron.com,
+	heidi.mason@enron.com, jan-erland.bekeng@enron.com,
+	kevin.rhodes@enron.com, naomi.connell@enron.com
+Subject: To Ops - Revised February BOD Approved Risk Management Policy
+Cc: sally.beck@enron.com, shona.wilson@enron.com, chris.abel@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sally.beck@enron.com, shona.wilson@enron.com, chris.abel@enron.com
+X-From: Cassandra Schultz
+X-To: Bob M Hall, Leslie Reeves, Jeffrey C Gossett, Peggy Hedstrom, Stacey W White, Brent A Price, Scott Earnest, Sheila Glover, D Todd Hall, Cindy Horn, Brenda F Herod, Mike Jordan, Howard Carter, Andrew Cornfield, James New, Orjan Agdesteen, James New, Marcelo Parra, Louis Colarusso, Heidi Mason, Jan-Erland Bekeng, Kevin Rhodes, Naomi Connell
+X-cc: Sally Beck, Shona Wilson, Chris Abel
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Rac\Schultz, cassandra
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Attached is the revised Risk Management Policy incorporating the BOD's 
+changes - please discard the previously circulated version I sent out prior 
+to the BOD meeting.  I've also included a recap of substantive changes since 
+the October 2000 version that was circulated to you in conjuction with the 
+compliance certificates last fall, but you should read the policy to enhance 
+your understanding, and distribute it to your groups as some changes are 
+significant and are detailed further in the policy.  I did notify the Office 
+of the Chair for each of your business units of these changes earlier this 
+week, and I will also provide them with a copy of the revised policy.  
+
+
+If you have any questions, feel free to give me a call at x 30429.
+
+Regards,
+Cassandra Schultz
+Market Risk Management
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <28850539.1075849858111.JavaMail.evans@thyme>
+Date: Thu, 5 Apr 2001 10:48:00 -0700 (PDT)
+From: cassandra.schultz@enron.com
+To: scott.earnest@enron.com, jeffrey.gossett@enron.com, d.hall@enron.com,
+	sheila.glover@enron.com, stacey.white@enron.com, james.new@enron.com,
+	michael.kass@enron.com
+Subject: Your Help Needed Please - Cross-Commodity Reporting
+Cc: shona.wilson@enron.com, chris.abel@enron.com, beth.apollo@enron.com,
+	sally.beck@enron.com, david.port@enron.com, brent.price@enron.com,
+	michael.pitt@enron.com, bjorn.hagelmann@enron.com,
+	vladimir.gorny@enron.com, mary.nordstrom@enron.com,
+	oliver.gaylard@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: shona.wilson@enron.com, chris.abel@enron.com, beth.apollo@enron.com,
+	sally.beck@enron.com, david.port@enron.com, brent.price@enron.com,
+	michael.pitt@enron.com, bjorn.hagelmann@enron.com,
+	vladimir.gorny@enron.com, mary.nordstrom@enron.com,
+	oliver.gaylard@enron.com
+X-From: Cassandra Schultz
+X-To: Scott Earnest, Jeffrey C Gossett, D Todd Hall, Sheila Glover, Stacey W White, James New, Michael Kass
+X-cc: Shona Wilson, Chris Abel, Beth Apollo, Sally Beck, David Port, Brent A Price, Michael Pitt, Bjorn Hagelmann, Vladimir Gorny, Mary Nordstrom, Oliver Gaylard
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Rac\Schultz, cassandra
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Please excuse the long e-mail below - I knew we'd never get a chance to all 
+get together, and this is somewhat urgent as I have to complete the Finance 
+Committee presentation for the upcoming BOD meeting by the end of next week, 
+and it will include trading results for the 1st quarter, reported in 
+accordance with the risk management policy.  Due to issues noted below, this 
+may require immediate attention by your staff as we have a few short days to 
+come up with the best quality numbers we can.  I talked to Beth already, and 
+MRM met with Chris Abel's group to see if there was a short cut, but our 
+joint conclusion was that the business unit controllers need to be involved 
+in this process as you are the experts on your businesses and can apply the 
+best judgment to decide on the trading results to be reported to the BOD.  
+We'll probably need to go with our best estimate of 3/30 #s as of end of the 
+day next Tuesday or Wednesday at the latest.
+
+As you recall, the February 12th BOD meeting resulted in a clarification that 
+the BOD approved trading limits were limits on the generic commodity groups 
+defined, and accordingly the trading results must be reported consistent with 
+that limit structure (management reporting can be different of course).  
+Chris Abel's global energy operations group has prepared a "RAC" DPR that 
+attempts to aggregate the commodity groups in accordance with the risk 
+management policy, so that top management and the BOD can see Enron's 
+exposure to individual commodities on a consolidated basis.    (A)  This DPR 
+will not impact actual sharing of P/L from a management reporting/business 
+unit perspective - this is purely for market risk management purposes and 
+reporting to the BOD.  But commercial management will need to review and sign 
+off on the RAC DPR and monitor limits accordingly, as these limits are at an 
+Enron level.
+
+The specific trading results we need for the BOD presentation are the first 
+quarter P/L and average daily VaR, by commodity group.  The first RAC DPR 
+available is as of 3/30 - so while it has cumulative P/L, VaR is only as of  
+3/30.  (Note - we're also comparing to 1Q 2000, but we're not going to 
+attempt to resolve cross-commodity reporting for that period except at a high 
+level).
+
+Your participation is needed in resolving: 1) cross-commodity reporting per 
+the new RAC DPR - both retroactively for the 1st quarter, and going forward, 
+and 2) ROVAR (return on average daily VaR by commodity group) for the 1st 
+quarter.  This aggregation of cross-commodity activity has been completed by 
+Chris as of 3/30, so he has what he believes to be P/L aggregated for the 
+quarter in accordance with the policy. What we don't have is VaR on a daily 
+basis as the first time it was calculated on an aggregated basis was on 
+3/30.  Obviously we're not going to be able to go back and calculate daily 
+VaR for the entire quarter by commodity group aggregated in this new manner - 
+especially within a week.  So it appears we'll need to "swag" average daily 
+VaR - by reviewing the cross commodity positions aggregated at 3/30, by 
+considering cross-commodity activity you're aware of that took place 
+throughout the quarter, and using our best estimate of the impact on VaR for 
+this cross commodity activity.  
+
+Due to this adjustment in historical reporting practices, we feel a certain 
+level of due diligence is required for us to  feel confident we're reporting 
+to the BOD in accordance with the policy. And since we only have a few days, 
+I thought a team approach to tackling the review would facilitate a prompt 
+resolution of material issues, and then you and Chris' group can work out 
+your processes and procedures on how to handle going forward as you see fit.  
+When you consider materiality, please involve your Market Risk contact - 
+while a transaction/position/book may not be material to gas or power, it may 
+be material to Global Products,  Weather, etc..
+
+Would you please help us with the following:
+? Confirm your review of Chris' aggregation on the RAC DPR at 3/30 (Chris' 
+staff can walk you through)
+? are all the cross-commodity positions you're aware of being reported 
+correctly?
+? is there other cross-commodity activity not present at 3/30 and 
+consequently not aggregated for the quarter's results, but actually present 
+during the first quarter and material? If so, estimate impact on P/L and 
+average daily VaR.
+? we're not expecting an exhaustive search or analysis - perhaps you can 
+simply discuss this issue with the traders who handle this type of activity 
+to get a feel, and if they point on specific material transactions, we can 
+address those; you can determine best approach
+? are there certain books in RisktRAC that have cross-commodity positions 
+imbedded/combined - either held currently or those that generated significant 
+VaR or P/L during the quarter?  Going forward these will need to be reported 
+separately to facilitate risk reporting, but in the next week what we need is 
+an estimate of the impact on the corresponding commodities, or a conclusion 
+that the impact is immaterial.
+? Once you've reviewed the summary of cross commodity activity per the RAC 
+DPR and per your own knowledge, help us estimate the impact on the respective 
+commodities' average daily VaR for the quarter - you can discuss with your 
+market risk contact your recommendation on a reasonable "swag" approach.
+
+
+After considering the information above, please provide your assessment on 
+whether you are in fact able to capture and report all the cross-commodity 
+activity, and if not, identify the issues involved and whether it is 
+something that market risk needs to address, or if it will simply take more 
+time to resolve the reporting details.
+
+If you have other recommendations on how to get comfortable with the trading 
+results for the quarter, please feel free to pursue those.  I do not mean to 
+imply I know how to do your jobs, or that you're not doing them - I simply 
+want to coordinate with you to ensure the #s we report to the BOD are the 
+numbers you agree with, and that if they're not completely accurate given 
+recent implementation, that we are able to articulate and estimate the 
+potential misstatement, if any.  As you are the experts on your businesses' 
+results, I simply wanted to make sure I closed the loop with what we in MRM 
+understand regarding your reporting of the cross-commodity activity and 
+trading results and the application of the policy.
+
+On a separate note, we need you to identify P/L related to special 
+transactions that flowed through the DPR, but do not really represent trading 
+activity - examples in the past are SFAS 125 transactions and other unique 
+gain/loss events - we're reporting 1Q 2001 and 1Q 2000, so whatever we can 
+recall about last year will also be considered. We will be sending you a 
+reconciliation from the DPR to the BOD package that we use to document any 
+special adjustments, and will discuss this with you to come to an agreement 
+on adjustments to the DPR reporting to derive true trading activity. These 
+adjustments should be minimal, but we'd like your input to conclude.  
+
+
+Thank you for your cooperation,
+
+Regards,
+Cassandra Schultz
+x30429
+713 858 2618 cell
+936 321 2185 home
+
+
+(A)  For example, North American Electricity limits represent Enron's 
+consolidated NA Electricity trading activity, without regard to which 
+business unit or commodity group actually executes the trades or holds 
+positions. So if Power has some gas positions for hedges or other reasons, 
+these gas trades need to be removed from Power VaR and P/L and combined with 
+Gas' VaR and P/L, etc..  Heating oil positions held outside Global Products 
+should be aggregated with Global Products; Global Products' positions in gas 
+and power should be aggregated with gas and power, with corresponding 
+adjustment to Global Products' results.
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <14061079.1075849858259.JavaMail.evans@thyme>
+Date: Tue, 13 Feb 2001 08:54:00 -0800 (PST)
+From: cassandra.schultz@enron.com
+To: jeffrey.shankman@enron.com, greg.whalley@enron.com, brent.price@enron.com
+Subject: Global Markets Limits
+Cc: david.port@enron.com, bjorn.hagelmann@enron.com, sally.beck@enron.com,
+	wes.colwell@enron.com, ted.murphy@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+Bcc: david.port@enron.com, bjorn.hagelmann@enron.com, sally.beck@enron.com,
+	wes.colwell@enron.com, ted.murphy@enron.com
+X-From: Cassandra Schultz
+X-To: Jeffrey A Shankman, Greg Whalley, Brent A Price
+X-cc: David Port, Bjorn Hagelmann, Sally Beck, Wes Colwell,  Ted Murphy
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Rac\Schultz, cassandra
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+The Enron BOD approved the following limit changes for Global Markets today=
+,=20
+effective for trading day Tuesday, February 13, 2001.  A separate e-mail wa=
+s=20
+sent to each of your head traders and business unit controllers/CAO for eac=
+h=20
+of these commodity groups with limit changes.
+
+     =20
+       New Limits   Existing Limits
+Equity Trading
+Net Open Position Limit    $200 MM    $100 MM=20
+Maturity / Gap Limit    N/A    N/A
+VaR Limit     $10 MM    $6 MM=20
+
+Convertible Arbitrage
+Net Open Position Limit    $150 MM    *****
+Maturity / Gap Limit    N/A    *****
+VaR Limit     $2 MM    *****
+
+*****  This product was included in the Debt trading commodity group that w=
+as=20
+transferred to Enron Europe and combined with Credit trading in December=20
+2000; new limits requested to establish separate commodity group in Global=
+=20
+Markets in 2001
+
+Financial Instruments
+
+Foreign Currency:
+
+Net Open Position Limit    $150 MM    $100 MM
+Maturity / Gap Limit    N/A    N/A
+
+Interest Rate:
+
+Net Open Position Limit    $250,000/bp    $100,000/bp
+Maturity / Gap Limit    N/A    $  50,000/bp(<=3D2 yrs)
+
+VaR Limit     $5 MM (Combined)  $3 MM (Combined)
+
+Soft Commodities
+Net Open Position Limit    4,000 Contracts   2,000 Contracts
+Maturity / Gap Limit    N/A    2,000 Contracts
+VaR Limit     $2 MM    $0.75 MM
+
+
+Grains
+Net Open Position Limit    750 Contracts   1,000 Contracts
+Maturity / Gap Limit    N/A    1,000 Contracts
+VaR Limit     $0.5 MM   $0.5 MM
+
+Meats (formerly called Livestock)
+Net Open Position Limit    750 Contracts   1,000 Contracts
+Maturity / Gap Limit    N/A    1,000 Contracts
+VaR Limit     $0.5 MM   $0.75 MM
+
+Weather Derivatives
+Net Open Position Limit    40,000 EOL Equiv. Contracts 30,000 EOL Equiv.=20
+Contracts **
+Maturity / Gap Limit    N/A     N/A
+VaR Limit     $4.5 MM   $3 MM
+
+**  $100 MM notional value
+
+Coal and Freight
+Net Open Position Limit    30 MM MT   15 MM MT
+Maturity / Gap Limit    30MM MT 12-month  15 MM MT 12-month
+VaR Limit     $7 MM ***   $4 MM ***
+
+***  Freight limited to $2 MM VaR (no change)
+
+Global Products
+Net Open Position Limit    18 MM Bbl   12.5 MM Bbl
+Maturity / Gap Limit    19 MM Bbl 12-month  15 MM Bbl
+VaR Limit     $15 MM    $8 MM
+
+EOL Crude - Sub-limit of Global Products
+Net Open Position Limit    2 MM Bbl  =20
+Maturity / Gap Limit    3 MM Bbl 12-month=20
+VaR Limit     $3 MM  (included in Global Products $15MM VaR)=20
+
+LNG
+Net Open Position Limit    9 Bcf    None
+Maturity / Gap Limit    12 Bcf 12-month  None
+VaR Limit     $5 MM    None
+
+Note 1:  The BOD directed us to combine some limits for some businesses, so=
+=20
+your individual commodity limits may become sub-limits subject to a larger=
+=20
+combined limit (for example, 1) combine equity, convertible arbitrage, and=
+=20
+financial instruments' i/r and f/x, 2) combine Softs, Grains, and Meats, an=
+d=20
+potentially other newer businesses as well).  We will work with you as thes=
+e=20
+higher level limits are being developed.
+
+Note 2:  Cross-commodity trading authority was not pre-approved for anyone =
+in=20
+the company.  Authority to trade a commodity for which you are not the=20
+authorized trader must be obtained from the Business Unit Office of the=20
+Chairman for the commodity group that is authorized to trade that commodity=
+,=20
+with appropriate reporting as noted below.
+
+Policy amendments were as follows:
+
+u Clarify the cross-commodity trading policy to specify that trading limits=
+=20
+are to be applied against Enron=01,s consolidated commodity positions on an=
+=20
+individual commodity group basis;  Enron=01,s consolidated Daily Position R=
+eport=20
+should provide required market risk disclosures by primary commodity group;=
+=20
+(for example, Enron=01,s exposure to the North American Natural Gas market =
+shall=20
+be aggregated across the company).
+
+=01) Delegate cross-commodity trading approval among established commodity=
+=20
+groups to the respective Business Units Offices of the Chairman, with=20
+appropriate reporting to the Enron Corp. Chief Risk Officer.
+
+u Specify the operational control requirement that all trades executed over=
+=20
+the telephone must be recorded electronically.
+
+Below are relevant excerpts from the revised policy addressing the=20
+cross-commodity trading guidelines.  I will distribute the entire updated=
+=20
+policy as soon as we incorporate the BOD's comments.
+
+V. Operations and Controls.
+ B.  Position Reporting.
+"...For purposes of limit monitoring and aggregation of Enron=01,s consolid=
+ated=20
+trading results, Enron=01,s consolidated Daily Position Report should inclu=
+de=20
+the Net Open Position, Maturity/Gap Position, profit or loss, and potential=
+=20
+exposure (VaR) for approved Commodity Groups consolidated across the compan=
+y=20
+without regard to which business unit undertook the trading activity. In=20
+those instances where limits are granted to a business unit for a basket of=
+=20
+commodities, reporting for individual commodity risk books shall be=20
+maintained to facilitate aggregation of Enron=01,s actual consolidated comm=
+odity=20
+specific exposure.  Management reporting may separately provide business un=
+it=20
+sub-limit monitoring and trading results aggregated according to management=
+=20
+lines."
+
+E. Transaction Approval and Execution. "Only those employees designated by=
+=20
+the Enron Corp. Chief Risk Officer or his designee(s) will be authorized to=
+=20
+enter into Transactions on behalf of Enron.  The Chief Risk Officer must al=
+so=20
+maintain a record of those employees responsible for the individual Commodi=
+ty=20
+Groups (Commodity Group Manager) as specified in the Appendices.  Individua=
+ls=20
+will be assigned as commodity leaders to manage Enron=01,s aggregate positi=
+on=20
+across the company as determined necessary by the Chief Risk Officer..."
+
+VI.  Policy Amendment Authority
+B. Cross-Commodity Position Authorization.  If in the ordinary course of it=
+s=20
+business an Enron Business Unit or trading desk incurs an exposure to an=20
+underlying commodity or financial instrument for which it does not have=20
+explicit authority to carry, this exposure should be hedged internally with=
+=20
+the appropriate Enron desk(s), with appropriate notification to the Chief=
+=20
+Risk Officer or his designee(s).  Hedge positions should be in instruments=
+=20
+that have an observable correlation with the underlying exposure, and shoul=
+d=20
+be rebalanced regularly to substantially neutralize the underlying exposure=
+. =20
+
+ Upon notification to the Chief Risk Officer or his designee(s), the Enron=
+=20
+Business Unit Office of the Chairman who has authority for that commodity=
+=20
+group may authorize a specific trader in a different commodity group to tak=
+e=20
+speculative positions with other Enron trading desks in commodities and/or=
+=20
+financial instruments other than those which that trader has explicit=20
+authority to trade (i.e. the Business Unit Office of the Chairman for North=
+=20
+American Natural Gas may authorize a trader in the Coal group to trade gas=
+=20
+with the North American Natural Gas desk).    For limit monitoring purposes=
+=20
+of Enron=01,s consolidated trading results, these cross-commodity positions=
+=20
+shall be captured by individual commodity to facilitate aggregation and=20
+reporting of Enron=01,s consolidated exposure by commodity in the Daily Pos=
+ition=20
+Report (Coal desk=01,s gas position will be aggregated with the North Ameri=
+can=20
+Natural Gas commodity group.)
+
+
+If you have any questions, feel free to call Bjorn Hagelman at x57984, me a=
+t=20
+x30429, or David Port at x39823.
+
+Regards,
+
+Cassandra Schultz.
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <13889309.1075849858394.JavaMail.evans@thyme>
+Date: Mon, 5 Feb 2001 08:37:00 -0800 (PST)
+From: cassandra.schultz@enron.com
+To: sally.beck@enron.com, shona.wilson@enron.com, chris.abel@enron.com
+Subject: Upcoming Risk Management Policy Changes
+Cc: david.port@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: david.port@enron.com
+X-From: Cassandra Schultz
+X-To: Sally Beck, Shona Wilson, Chris Abel
+X-cc: David Port
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Rac\Schultz, cassandra
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Attached is a memo summarizing policy changes and revised trading limits that 
+will be recommended to the BOD for approval on the 13th, next week.  We can 
+discuss at the Risk Forum Luncheon tomorrow (Chris, you're invited also) - 
+some DPR reporting practices may need modification to aggregate commodity 
+risk across the company.
+
+Regards,
+Cassandra.
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <18346133.1075849858443.JavaMail.evans@thyme>
+Date: Wed, 27 Dec 2000 07:11:00 -0800 (PST)
+From: cassandra.schultz@enron.com
+To: chris.abel@enron.com, shona.wilson@enron.com, kenneth.thibodeaux@enron.com,
+	michael.benien@enron.com, sally.beck@enron.com,
+	homan.amiry@enron.com, suzanne.bain@enron.com,
+	lloyd.fleming@enron.com, oliver.gaylard@enron.com,
+	jitendra.patel@enron.com, michael.pitt@enron.com,
+	matthew.adams@enron.com, naveen.andrews@enron.com,
+	minal.dalia@enron.com, lacrecia.davenport@enron.com,
+	xochitl.figueroa@enron.com, vladimir.gorny@enron.com,
+	bjorn.hagelmann@enron.com, frank.hayden@enron.com,
+	andy.knight@enron.com, christian.lebroc@enron.com,
+	ted.murphy@enron.com, nick.paraschos@enron.com,
+	manfred.roenz@enron.com, john.suttle@enron.com,
+	veronica.valdez@enron.com, sunil.dalal@enron.com,
+	frank.economou@enron.com, rebecca.phillips@enron.com,
+	monica.reasoner@enron.com, ding.yuan@enron.com,
+	rudi.zipter@enron.com, bharat.khanna@enron.com,
+	darin.schmidt@enron.com
+Subject: Summary of Changes to Trading Limits 12/7 - 1/6
+Cc: david.port@enron.com, ted.murphy@enron.com, rick.buy@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: david.port@enron.com, ted.murphy@enron.com, rick.buy@enron.com
+X-From: Cassandra Schultz
+X-To: Chris Abel, Shona Wilson, Kenneth Thibodeaux, Michael Benien, Sally Beck, Homan Amiry, Suzanne Bain, Lloyd Fleming, Oliver Gaylard, Jitendra Patel, Michael Pitt, Matthew Adams, Naveen Andrews, Minal Dalia, LaCrecia Davenport, Xochitl Figueroa, Vladimir Gorny, Bjorn Hagelmann, Frank Hayden, Andy Knight, Christian LeBroc, Ted Murphy, Nick Paraschos, Manfred Roenz, John Suttle, Veronica Valdez, Sunil Dalal, Frank Economou, Rebecca Phillips, Monica Reasoner, Ding Yuan, Rudi Zipter, Bharat Khanna, Darin Schmidt
+X-cc: David Port,  Ted Murphy, rick.buy@enron.com
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Rac\Schultz, cassandra
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+The purpose of this memo is to provide a one page summary of the various 
+e-mails  you have already received regarding changes to trading limits since 
+the last regularly scheduled BOD meeting on 12/7 through the last Executive 
+Committee of the BOD meeting on 12/21.  The following limits are in effect 
+with anticipated changes  highlighted in red.  Of course these could again 
+change given market conditions, and Ted/Rick and Skilling may decide to 
+re-allocate some or all of the $17MM of Discretionary VaR on 1/6/01.
+
+Trading Days: 12/7/00 - 12/27/00 12/28/00 - 12/31/00 1/1/01 - 1/05/01  1/6/01 
+forward
+
+VaR Limits:
+
+EES NA  $7MM   $7MM   $7MM  $5MM 
+
+NA Gas  $110MM  $70MM   $70MM  $60MM 
+
+UK Power  $20.3MM  $20.3MM  $18.95MM $13.95MM 
+
+Agg Enron  $140MM  $100MM  $100MM $83MM
+
+Unallocated
+Discretionary VaR    $0MM   $0MM   $0MM  $17MM
+
+
+NOP limits with scheduled changes in temporary limits:
+
+UK Power  68 Twh   68 Twh   59.5 Twh 59.5 Twh 
+
+European Gas 260 Bcf   260 Bcf   60 Bcf  60 Bcf 
+
+Regards,
+Cassandra.
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <11782614.1075849858469.JavaMail.evans@thyme>
+Date: Sat, 16 Dec 2000 14:46:00 -0800 (PST)
+From: cassandra.schultz@enron.com
+To: naveen.andrews@enron.com, matthew.adams@enron.com, sunil.dalal@enron.com,
+	lacrecia.davenport@enron.com, frank.economou@enron.com,
+	xochitl.figueroa@enron.com, frank.hayden@enron.com,
+	christian.lebroc@enron.com, nick.paraschos@enron.com,
+	david.port@enron.com, manfred.roenz@enron.com,
+	vladimir.gorny@enron.com, rebecca.phillips@enron.com,
+	john.suttle@enron.com, veronica.valdez@enron.com,
+	rudi.zipter@enron.com, bjorn.hagelmann@enron.com,
+	minal.dalia@enron.com, darin.schmidt@enron.com,
+	bharat.khanna@enron.com, lloyd.fleming@enron.com,
+	oliver.gaylard@enron.com, suzanne.bain@enron.com,
+	jitendra.patel@enron.com, homan.amiry@enron.com,
+	michael.pitt@enron.com, sally.beck@enron.com, chris.abel@enron.com,
+	michael.benien@enron.com, kenneth.thibodeaux@enron.com,
+	daniel.falcone@enron.com
+Subject: Upcoming Discretionary VaR Limit Changes
+Cc: ted.murphy@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: ted.murphy@enron.com
+X-From: Cassandra Schultz
+X-To: Naveen Andrews, Matthew Adams, Sunil Dalal, LaCrecia Davenport, Frank Economou, Xochitl Figueroa, Frank Hayden, Christian LeBroc, Nick Paraschos, David Port, Manfred Roenz, Vladimir Gorny, Rebecca Phillips, John Suttle, Veronica Valdez, Rudi Zipter, Bjorn Hagelmann, Minal Dalia, Darin Schmidt, Bharat Khanna, Lloyd Fleming, Oliver Gaylard, Suzanne Bain, Jitendra Patel, Homan Amiry, Michael Pitt, Sally Beck, Chris Abel, Michael Benien, Kenneth Thibodeaux, Daniel Falcone
+X-cc: Ted Murphy
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Rac\Schultz, cassandra
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Per discussion with Ted Murphy and Rick Buy, the following policy limit 
+changes are anticipated.  Note:  these are subject to change given market 
+volatility.
+
+EES - $2MM Discretionary VaR expiring on 12/22/00  ------------------------> 
+EXTENDED THROUGH 1/5/01
+
+Aggregate VaR Limit of $140MM - $40MM expiring on 12/22/00 ----------> 
+EXPIRES AFTER 12/22/00 - reduced to permanent Aggregate VaR Limit of $100MM
+
+NA Gas - $35MM Discretionary VaR expiring on 12/22/00 ------------------> 
+EXPIRES AFTER 12/22/00 (with reduction in Aggregate VaR Limit to $100MM)
+
+UK Power - $5MM Discretionary VaR expiring on 12/22/00 ----------------> 
+EXPIRES AFTER 12/22/00 (with reduction in Aggregate VaR Limit to $100MM)
+
+NA Gas - $15MM Discretionary VaR expiring on 12/22/00 -----------------> 
+EXTEND $10MM THROUGH 1/5/01
+
+       -----------------> REALLOCATE $5MM to UK Power THROUGH 1/5/01.
+
+
+
+Therefore, the following VaR limits are/will be in place:
+
+
+   now - 12/22/00  12/23/00 - 1/5/01 1/6/01
+EES    $7MM   $7MM  $5MM
+
+NA Gas    $110MM  $70MM  $60MM
+
+UK Power   $20.3MM  $20.3MM $15.3MM
+
+Aggregate VaR Limit  $140MM  $100MM $83MM
+
+
+
+Vlady/Frank - Ted told Lavorato the NA Gas information on Friday.
+
+Vlady/Minal - nothing to my knowledge has been communicated to EES yet.  You 
+can check with Ted to see if he did already.
+
+Oliver, please communicate the anticipated limit changes for UK Power to the 
+commercial and risk management/energy ops people who need to know.  If an 
+extension is needed in the Discretionary VaR, at this point an analysis and 
+presentation will be required to justify the extension to get Rick Buy and 
+Ted Murphy to approve.
+
+Feel free to call me with any questions.  I'm out on vacation this week, but 
+can be reached at home or on my cell phone.
+
+Happy Holidays,
+Cassandra.
+home  936 321 2185
+cell 713 858 2618
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <691600.1075849858370.JavaMail.evans@thyme>
+Date: Tue, 6 Feb 2001 09:35:00 -0800 (PST)
+From: cassandra.schultz@enron.com
+To: shona.wilson@enron.com, sally.beck@enron.com
+Subject: Distribution version of Risk Mgmt Policy
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Cassandra Schultz
+X-To: Shona Wilson, Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Rac\Schultz, cassandra
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+I'm not sure how or if you're planning on distributing to the business unit 
+controllers or other ops people the updated Risk Management Policy, but I'm 
+attaching a version without the limit amounts as this is what we use to 
+distribute to people outside our group (of course we tell traders their own 
+specific limits, and the top guys can see the consolidated DPR, but for 
+everyone else we provide it without limits).  I did send it to Wanda Curry 
+and Barry Pearce, but I'm not sending it to anyone in your org chart unless 
+you'd like me to.  I'd like to get this out on the RAC website, but since 
+it's a work in progress, I think it might be a while.
+
+
+Regards,
+Cassandra.
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <13511818.1075849858522.JavaMail.evans@thyme>
+Date: Thu, 7 Dec 2000 08:44:00 -0800 (PST)
+From: cassandra.schultz@enron.com
+To: shona.wilson@enron.com, sally.beck@enron.com
+Subject: Re: Limit Violations and Notifications Process
+Cc: chris.abel@enron.com, veronica.valdez@enron.com, michael.benien@enron.com,
+	daniel.falcone@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: chris.abel@enron.com, veronica.valdez@enron.com, michael.benien@enron.com,
+	daniel.falcone@enron.com
+X-From: Cassandra Schultz
+X-To: Shona Wilson, Sally Beck
+X-cc: Chris Abel, Veronica Valdez, Michael Benien, Daniel Falcone
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Rac\Schultz, cassandra
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Shona -
+RAC and Risk Ops are in this together and of course we'll continue to help in 
+understanding the violations.  I recognize and sympathize with the strain 
+your group is under with all the systems problems, the UK DPR  issues, the 
+increased limit change and policy compliance activity, etc..  My suggestions 
+were: 1) meant to streamline the process for you by making your data 
+gathering process easier, 2) I was offering to "be the bad guy" and point out 
+to the traders what we want them to do, and 3)meant to strengthen the 
+effectiveness of our risk management framework in this environmeant of 
+increasing exposure and volatile markets by reinforcing to the traders their 
+accountability for their positions and compliance with the policy limits.
+
+I think the confusion here is  violation explanations being "validated" by 
+the traders as you indicated below, vs. "provided" by the traders as we 
+envision.  I confirmed with Ted, the traders are accountable for providing 
+the explanation.  I'm not sure how the suggestions below would be a set back 
+to your efforts of getting memos out earlier.  We're suggesting the traders 
+should provide you with explanations first thing in the morning, so that you 
+do not have to go through all the effort as you do now, of trying to track 
+people down in the afternoon and get explanations.  It should be the traders 
+responsibility to get them to you, and they should be reviewing their 
+positions every morning before they even begin trading., and should be able 
+to easily explain why they're in violation or why they had a big loss.  
+Whether the traders call your group directly and leave a voice mail, or they 
+talk to their Ops business unit controller who relays the explanation to you 
+- whatever you think makes sense and works for you.   I'm not trying to 
+manage the process, just to help design one that makes it easier for you and 
+is still effective from a risk management stand point.
+
+At this point in this long series of e-mails, why don't we just talk face to 
+face.  I can tell from your response you feel we're somehow not being team 
+players, but that is not my intent at all.  I've tried to go out of my way 
+the past few weeks to tell you and your group how much Market Risk values and 
+appreciates your efforts.  And really, I thought I was helping by using the 
+policy's influence to help develop a better process that would decrease the 
+time and effort your group has to spend on the policy compliance reporting.  
+
+Perhaps a meeting with you and I and Sally would be appropriate.  We can talk 
+about this and any other questions or concerns you might have with RAC's 
+expectations.  I agree, we do have significant mid-office needs, and you have 
+been absorbing more tasks in the past couple of months since I joined RAC;  
+and my view is our needs seem to only be increasing as additional risk 
+reporting is required every day by Skilling.  We can continue to work on 
+streamlining processes, but maybe we need to think about staffing in our 
+respective groups and corresponding responsibilities.  I'm willing to do 
+whatever is needed, and I don't think Ted is hung up on who does what 
+either.  It's just that right now we're staffed with the expectation that 
+Sally's group handles the reporting and ongoing data maintenance type of 
+activities related to our risk management systems.
+
+
+Best Regards,
+Cassandra.
+
+
+---------------------- Forwarded by Cassandra Schultz/NA/Enron on 12/07/2000 
+03:40 PM ---------------------------
+   
+	
+	
+	From:  Shona Wilson                           12/07/2000 03:33 PM
+	
+
+To: Cassandra Schultz/NA/Enron@Enron
+cc: Michael Benien/Corp/Enron@ENRON, Chris Abel/HOU/ECT@ECT, Daniel 
+Falcone/Corp/Enron@ENRON, Veronica Valdez/HOU/ECT@ECT, Sally Beck/HOU/ECT@ECT 
+
+Subject: Re: Limit Violations and Notifications Process  
+
+Dear Cassandra,
+
+Thanks for the message.  I believe it if fully understood by us and the 
+individual risk management groups that explanations must be validated by the 
+traders.  Are you in addition saying that your group (who has been very 
+helpful in the past) will no longer help us understand the cause of 
+violations/notifications?  To me, this appears contrary to a team spirit 
+attitude, and not reflective of what you and I and Vlady and I had discussed 
+earlier today.  Also, we are working toward getting the memos out earlier, 
+and this is a real set back to that process.
+
+Thoughts?
+
+
+
+
+To: Shona Wilson/NA/Enron@Enron, Michael Benien/Corp/Enron@ENRON, Chris 
+Abel/HOU/ECT@ECT, Daniel Falcone/Corp/Enron@ENRON
+cc: Veronica Valdez/HOU/ECT@ECT, Sally Beck/HOU/ECT@ECT 
+
+Subject: Limit Violations and Notifications Process
+
+Shona -
+
+To share with the others our telephone discussion, the notification template 
+was not my request, it was requested directly by Skilling.  I know your group 
+is working hard to meet mangagement expectations, and in accordance with your 
+request below, Market Risk is happy to help you transition into this revised 
+reporting format by reviewing the template prior to your distribution until 
+you are comfortable with the reporting requirements.   The new P/L 
+notification limits and limit changes that will be in effect  next Tuesday 
+should dramatically decrease the number of notifications, so that should 
+help.  It probably makes sense to re-distribute the policy to your business 
+unit controllers and the traders so they understand the policy requirements.
+
+Another issue that we discussed yesterday is the source of the violation 
+explanations.  These should be provided to you by the head trader of that 
+commodity group.  Under the policy, that commodity group manager is 
+responsible for compliance with the risk management policy for the 
+commodities under his responsibility, along with the head of the energy ops 
+for that commodity group.  If the traders are not providing these 
+explanations to you or to your counterparts (ops desk head / business unit 
+controller), I'll be happy to send them an e-mail explaining their compliance 
+obligation under the policy.  Why don't you talk to each of the business unit 
+controllers, consider whether a process is already in place for this feedback 
+(as I understand it is for Global Products, for example), and if you'd like 
+me to send an e-mail to whoever you're having difficulty with, I will - just 
+let me know who.  Our Market Risk desk heads will be happy to review their 
+explanations, but the problem is, they can see whether they're short or long 
+and how the market moved in comparison, but it's the trader that can and 
+should explain why they took a position, whether they're adjusting it based 
+on the market moves, etc.. 
+
+Let me know what else I can do to help streamline the process.
+
+Regards,
+Cassandra.
+
+
+---------------------- Forwarded by Cassandra Schultz/NA/Enron on 12/07/2000 
+09:48 AM ---------------------------
+   
+	
+	
+	From:  Shona Wilson                           12/07/2000 09:42 AM
+	
+
+To: Cassandra Schultz/NA/Enron@Enron
+cc: Michael Benien/Corp/Enron@ENRON, Chris Abel/HOU/ECT@ECT, Daniel 
+Falcone/Corp/Enron@ENRON, Veronica Valdez/HOU/ECT@ECT, Sally Beck/HOU/ECT@ECT 
+
+Subject: Re: 12/5 Limit Violations and Notifications - Comments  
+
+Dear Cassandra,
+
+In looking at the comments below there are several errors made buy us, one in 
+the template itself, and some suggestions.  At your request, we have started 
+to prepare this in addition to the normal word violation/notification memos 
+and our other work.  As you have certain requests and requirements, it would 
+be helpful for someone in your group to review it before it went out to 
+ensure it meets your requirements.
+
+Please let me know if this is workable and who the reviewer should be.
+
+Thanks,
+
+Shona
+
+
+
+
+To: Michael Benien/Corp/Enron@ENRON, Chris Abel/HOU/ECT@ECT, Shona 
+Wilson/NA/Enron@Enron, Daniel Falcone/Corp/Enron@ENRON
+cc: Veronica Valdez/HOU/ECT@ECT 
+
+Subject: 12/5 Limit Violations and Notifications - Comments
+
+I realize this has already gone out, but I see a few errors that we should 
+correct  - and actually, I think we should call Skilling and Lay's (and 
+Buy's) assistants (Veronica will handle this) and see if we can just hand 
+deliver to them a corrected version early this morning, e-mail is OK for Ted, 
+David and I. I have a few other suggestions on format/reporting changes as 
+well.
+
+
+The NA Power VaR of $51MM was not 105% over its VaR limit of $50 - that would 
+have been $52.5 to require a report to Skilling, (but if we had had to report 
+it, don't use "WSCC", try to spell out or just don't use)
+UK Gas's VaR limit is not $4, it's $7.5MM
+I can't tie in UK Gas' QTD and YTD P/L - shouldn't it be what's on the DPR, 
+adjusted for the portion of the structured derivatives that is gas - call 
+over to that Yeo person and get the info. from them please
+The 2nd item for NA Gas shouldn't be listed like that as it looks like 
+another violation - the comment re: the VaR increase was mean to go at the 
+bottom under RAC comments
+The Finance Committe Chairman notification for Agg. VaR is not 100%, it's 
+115% (notification requirement box)
+EES had a VaR violation - $7.5 vs. 7 - that is a Skilling level violation
+Let's have the "Re:" say "Limit Violations and Notifications for December 5, 
+2000"
+Let's number them all sequentially rather than starting over at each level
+
+
+Veronica will call you to coordinate re-distribution.
+
+Going forward, we need to increase our level of review for these as they're 
+getting a lot of scrutiny given market dynamics and our increasing risk.
+
+Thank you,
+Cassandra.
+
+---------------------- Forwarded by Cassandra Schultz/NA/Enron on 12/07/2000 
+07:38 AM ---------------------------
+
+
+Michael Benien
+12/06/2000 07:08 PM
+To: Kenneth Lay/Corp/Enron@ENRON, Rosalee Fleming/Corp/Enron@ENRON, Jeff 
+Skilling/Corp/Enron@ENRON, Sherri Sera/Corp/Enron@ENRON, Rick 
+Buy/HOU/ECT@ECT, Karen K Heathman/HOU/ECT@ECT
+cc: Cassandra Schultz/NA/Enron@Enron, Ted Murphy/HOU/ECT@ECT, David 
+Port/Market Risk/Corp/Enron@ENRON, Chris Abel/HOU/ECT@ECT 
+
+Subject: 12/5 Limit Violations and Notifications
+
+
+
+
+
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:57 2022
+Message-ID: <25697186.1075849858495.JavaMail.evans@thyme>
+Date: Tue, 12 Dec 2000 06:21:00 -0800 (PST)
+From: cassandra.schultz@enron.com
+To: james.new@enron.com, michael.kass@enron.com, mike.jordan@enron.com,
+	oliver.gaylard@enron.com, jitendra.patel@enron.com
+Subject: Enron Europe Limit Changes and DPR Reporting
+Cc: fernley.dyson@enron.com, david.port@enron.com, sally.beck@enron.com,
+	veronica.valdez@enron.com, shona.wilson@enron.com,
+	chris.abel@enron.com, michael.benien@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: fernley.dyson@enron.com, david.port@enron.com, sally.beck@enron.com,
+	veronica.valdez@enron.com, shona.wilson@enron.com,
+	chris.abel@enron.com, michael.benien@enron.com
+X-From: Cassandra Schultz
+X-To: James New, Michael Kass, Mike Jordan, Oliver Gaylard, Jitendra Patel
+X-cc: Fernley Dyson, David Port, Sally Beck, Veronica Valdez, Shona Wilson, Chris Abel, Michael Benien
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Rac\Schultz, cassandra
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Rick Buy informed us this morning that the BOD approved, effective today, a 
+one week extension of the Temporary VaR allocation of $5MM to UK Power that 
+was made last week in the e-mail referenced below.  So the limit changes as 
+of 12/12/00 for Enron Europe:
+  
+   through 12/22/00 12/23/00 - 12/31/00 1/1/01
+1) UK Power VaR $20.3MM  $15.3MM  $13.95MM
+     UK Power NOP 68 Twh   68 Twh   59.5 Twh
+
+If UK Power feels they need a VaR limit in excess of the schedule above, they 
+will need to meet with Ted Murphy and Rick Buy to discuss it further.  
+Currently, we have no Discretionary VaR available for allocation, but 
+re-allocation from another commodity group may be technically possible at 
+some point.  Although
+several other commodity groups are vying for the same VaR capital.
+
+2) European Gas - NOP and Maturity/Gap Limits revert to permanent limits on 
+1/1/01 (as previously scheduled),  of 60 Bcf and 90 Bcf, respectively
+
+3) Credit Trading - now includes the Debt Trading commodity group, and has 
+one combined limit structure:
+  NOP                  Maturity/Gap  VaR 
+ $750,000 DV01/bp total        N/A   $5 MM
+ $  50,000 DV01/bp individual
+
+
+4) Commodity Group Loss Notification requirements were changed as follows 
+(note: business units are encouraged to establish sub-limits):
+      Effective 12/12/00  Previous
+Daily Loss in any Commodity group or Portfolio:
+
+? Report to Business Unit Office of the Chairman 100% of VaR   not 
+specifically stated
+? Report to Enron Corp. President   125% of VaR   50% of VaR
+? Report to Enron Corp. Chairman   150% of VaR    75% of VaR
+? Report to Audit Committee   no reporting at commodity  all are reported 
+quarterly
+group level   
+
+Cumulative 5-day Loss in any Commodity Group or Portfolio:
+
+? Report to Business Unit Office of the Chairman 125% of VaR   not 
+specifically stated
+? Report to Enron Corp. President   150% of VaR    75% of VaR
+? Report to Enron Corp. Chairman   175% of VaR    100% of VaR
+? Report to Audit Committee   no reporting at commodity  all are reported 
+quarterly
+group level
+
+Please share with whoever else needs to know, the change in loss notification 
+requirements as these are applicable to all commodity groups.
+
+
+Regards,
+Cassandra Schultz.
+x30429.
+
+---------------------- Forwarded by Cassandra Schultz/NA/Enron on 12/13/2000 
+01:15 AM ---------------------------
+   
+
+
+From:  Cassandra Schultz                                                      
+       12/07/2000 12:49 PM	
+	
+	
+	                           
+	
+
+To: James New/LON/ECT@ECT, Michael Kass/EU/Enron@Enron, Mike 
+Jordan/LON/ECT@ECT
+cc: Fernley Dyson/LON/ECT@ECT, Oliver Gaylard/LON/ECT@ECT 
+
+Subject: Limit Changes
+
+Today, December 7th, the Executive Committee of the BOD met and approved the 
+following temporary limit increase for Enron Europe:
+
+Temporary $5MM increase in VaR:   12/7/00 - 12/15/00
+
+UK Power VaR 12/7 - 12/15  $20.3 MM  
+
+
+Please revise the DPR accordingly, as will Global Energy Operations here in 
+Houston to incorporate this and other changes.  The BOD meeting is this 
+coming Tuesday, and I will then let you know what the permanent or more 
+extended temporary limit adjustments are. 
+
+
+Regards,
+
+Cassandra Schultz.
+

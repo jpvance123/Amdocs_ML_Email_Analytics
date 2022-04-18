@@ -1,0 +1,1009 @@
+From MAILER-DAEMON Mon Apr 18 14:23:55 2022
+Message-ID: <7048731.1075856051637.JavaMail.evans@thyme>
+Date: Tue, 5 Sep 2000 04:59:00 -0700 (PDT)
+From: sheila.glover@enron.com
+To: sally.beck@enron.com, brent.price@enron.com, shona.wilson@enron.com
+Subject: CASH FLOWS FROM EI-GNS-GAS-PRC
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Sheila Glover
+X-To: Sally Beck, Brent A Price, Shona Wilson
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Jun2001\Notes Folders\Egm\Glover, sheila
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Sally, Brent, Shona,
+This morning we had two problems:
+One related to EIs numbers and the other relates to Portland.  Clara talked 
+to Susan regarging International's problem.  Susan said they should have 
+caught the incorrect commodity curve load but did not.  Clara is forwarding 
+an e-mail regarding Portland.
+Sheila
+---------------------- Forwarded by Sheila Glover/HOU/ECT on 09/05/2000 11:46 
+AM ---------------------------
+
+
+Clara Carrington
+09/05/2000 11:23 AM
+To: Sheila Glover/HOU/ECT@ECT
+cc: Joyce Kuo/NA/Enron@Enron, Scott Mills/HOU/ECT@ECT, Susan 
+Smith/HOU/ECT@ECT 
+Subject: CASH FLOWS FROM EI-GNS-GAS-PRC
+
+Infinity showed a $19 MM notional curve shift change in the EI-GNS-GAS-PRC 
+commodity book for 9/1/00.  This change caused a (10,200) PV01 affect on the 
+trader's sensitivity report.  After talking with Susan in EI, it was brought 
+to our attention that the Bolivian curve was loaded incorrectly on Friday, 
+due to a change in EI's curve upload process.   This change resulted in the 
+Bolivian curve loading throughout 2012, when it actually goes out to 2019.  
+The incomplete curve caused  infinity to get bad cash flows.  
+
+As a result, we had to re-do PDH reports this morning.  Final reports were 
+given to traders at 9:00 am.
+
+Clara
+
+From MAILER-DAEMON Mon Apr 18 14:23:55 2022
+Message-ID: <20891718.1075856051661.JavaMail.evans@thyme>
+Date: Thu, 31 Aug 2000 04:52:00 -0700 (PDT)
+From: sheila.glover@enron.com
+To: sally.beck@enron.com, brent.price@enron.com
+Subject: Summary of Cash Flow Events
+Cc: gary.hickerson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: gary.hickerson@enron.com
+X-From: Sheila Glover
+X-To: Sally Beck, Brent A Price
+X-cc: Gary Hickerson
+X-bcc: 
+X-Folder: \Sally_Beck_Jun2001\Notes Folders\Egm\Glover, sheila
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Sally and Brent,
+Here are the details behind our phone calls this morning. "M" is millions.
+
+Sheila
+---------------------- Forwarded by Sheila Glover/HOU/ECT on 08/31/2000 11:43 
+AM ---------------------------
+
+
+Clara Carrington
+08/31/2000 10:31 AM
+To: Sheila Glover/HOU/ECT@ECT
+cc: Joyce Kuo/NA/Enron@Enron 
+Subject: Summary of Cash Flow Events
+
+Sheila,
+
+We have been having issues with the commodity cash flows since last Friday, 
+Aug 25.  This is a listing of what's been going on.
+
+
+            TIME PDH
+DATE     COMMODITY BOOK GIVEN TO TRADER   SUMMARY OF DISCUSSION
+
+8/25/00 ENPOWER - WEST  7:05    Original    West cash flows did not look 
+right.  Valerie left voice mail
+         late Thursday night stating not to treat the $18M gain as
+          final.  She indicated that Lavorato was going to review the
+         cash flows  this morning and she will let us know the final
+          number at that time.  These cashflows created a $19,000
+         PV01 affect. 
+        
+     7:45    Re-ran w/old West CF  After consulting with Pushkar, we 
+replaced  the new west              cash flows with prior days so hedging 
+could begin.
+
+    10:15   Final    Spoke with Monica Lande at 9:30am and she stated that 
+the             original cash flows received were real. We then had to 
+         bring the original cash flows back and re-do the PDH 
+         reports.
+
+8/28/00 refer to email sent by Sheila on this day.
+
+8/29/00 UK-NAP-LT-PRC 7:35     Cash flows received from the UK book looked 
+really weird. 
+         The $38M cash flow curve change created a 15,000 PV01
+         affect.  We contacted Guy Freshwater regarding.  He
+         indicated that per Mark Fondren, the book was officialized 
+         Monday, on Friday since Monday was a Holiday for their 
+         Office.  We backed out the new cash flow, and then substituted
+         the old ones.
+
+8/30/00 UK-NAP-LT-PRC 7:30  Original    The same thing happened as 8/29/00.  
+The book was not officialized  
+    7:45  Final    on 8/29, therefore we received the same incorrect cash 
+flows.  We again
+         substituted these cash flows with those received on 8/25/00.  I 
+talked with
+         Mark Fondren and he indicated that the book has now been 
+officialized.
+         (In the past we have not had issues with the UK commodity Books in 
+the 
+         ERMS system. )
+
+8/31/00 ENPOWER - WEST 7:20  Original    Cash flows received for west created 
+a 14,000 PV01 affect.  We contacted
+    8:00  Final    Monica Lande and she informed us that there was a $14 M 
+loss in their book, 
+         but $6 M was not real.  We asked for a cash flow strip for the 
+incorrect flows, but          she was not able to provide it.  Therefore, we 
+used the previous day's cash
+         flows.  After the 7:20 PDH report, the system started running slow, 
+therefore
+         it took even longer to produce a revised report. 
+
+From MAILER-DAEMON Mon Apr 18 14:23:55 2022
+Message-ID: <14980364.1075856051708.JavaMail.evans@thyme>
+Date: Mon, 28 Aug 2000 04:34:00 -0700 (PDT)
+From: sheila.glover@enron.com
+To: shona.wilson@enron.com, brent.price@enron.com, sally.beck@enron.com
+Subject: Controls needed to ensure cashflows are received by Infinity
+Cc: michael.moscoso@enron.com, gary.hickerson@enron.com, pushkar.shahi@enron.com,
+	clara.carrington@enron.com, david.port@enron.com,
+	samantha.davidson@enron.com, joyce.kuo@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: michael.moscoso@enron.com, gary.hickerson@enron.com, pushkar.shahi@enron.com,
+	clara.carrington@enron.com, david.port@enron.com,
+	samantha.davidson@enron.com, joyce.kuo@enron.com
+X-From: Sheila Glover
+X-To: Shona Wilson, Brent A Price, Sally Beck
+X-cc: Michael E Moscoso, Gary Hickerson, Pushkar Shahi, Clara Carrington, David Port, Samantha T Davidson, Joyce Kuo
+X-bcc: 
+X-Folder: \Sally_Beck_Jun2001\Notes Folders\Egm\Glover, sheila
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Shona, Brent and Sally,
+This morning, the cash flows from approximately 75 books were not received by 
+Infinity from the ERMS system.  We normally get 375 books and only got 296 
+this morning.
+
+Per conversation with Joyce Kuo and Mike Moscoso, Susan Trevino, Risk 
+Controls,  and Christian, RAC, changed the book heirarchy on Friday, moving 
+global products books, including the prepays, out of the ECT group and into 
+another group.  We have had discussions in the past verifying with Risk 
+Controls that the ECT group is the only group which automatically sends its 
+cash flows to Infinity.  Other cash flows from books are included only by 
+being listed in a script.  This was not done when the books were moved from 
+the ECT Group on Friday.
+
+Obviously, the Rate & Currency is not able to hedge Enron's cash flows when 
+so much has been omitted.   At this time we are about one hour away from a 
+good Hedging report for the trading desk.  This report is due the desk daily 
+by 7:30 am.
+
+Mike and I discussed the need for controls and sign-off by him or Shona for 
+changes in book heirarchy.  
+Sheila
+
+From MAILER-DAEMON Mon Apr 18 14:23:55 2022
+Message-ID: <16461759.1075856051502.JavaMail.evans@thyme>
+Date: Fri, 15 Sep 2000 04:55:00 -0700 (PDT)
+From: sheila.glover@enron.com
+To: lisa.cousino@enron.com, sally.beck@enron.com, brent.price@enron.com
+Subject: Headcount increase from 18 to 20.
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Sheila Glover
+X-To: Lisa B Cousino, Sally Beck, Brent A Price
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Jun2001\Notes Folders\Egm\Glover, sheila
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Attached you will please find the form to explain the current staffing from 
+18 to 20.
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:55 2022
+Message-ID: <23208495.1075849851882.JavaMail.evans@thyme>
+Date: Thu, 11 Jan 2001 10:45:00 -0800 (PST)
+From: sheila.glover@enron.com
+To: sally.beck@enron.com
+Subject: Sucess story
+Cc: brent.price@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: brent.price@enron.com
+X-From: Sheila Glover
+X-To: Sally Beck
+X-cc: Brent A Price
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Egm\Glover, sheila
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Sally,
+We have been able to work with Legal and Tax  to impact the way our trading 
+has been set up in London  and Tokyo to increase our control of the business 
+and simplify the requirements for support.
+
+In London, for Equity Trading we will be trading as ECT Investments Inc. (the 
+same entity as in Houston).  We will have mirror books in the UK as in 
+Houston (e.g. Energy and Energy - London).  We have put a service agreement 
+in place setting up a Enron Investment Services Ltd. (uk entity) who will 
+trade on our behalf as an agent.  This keeps ENA from establishing a presence 
+for Equity Trading in the UK Tax authority.  We pay the UK entity, our 
+agent,  a service fee and deduct the service fee on ECT Investment's taxes as 
+an expense.  Controls are increased because all the books and reporting 
+remains consolidated into one entity. 
+
+In Tokyo, we have started a Rate & Currency Trading Desk.  We initially were 
+told by tax that we would have to trade in the name of Enron Japan.  This 
+would require separate bank accounts, separate counterparty agreements and 
+much more coordination to control.  We and the trader worked with Tax so they 
+understood the difficulties that this would present.  Also, Japan did not 
+want to assurme the funding requirements for this activity with their office 
+and wanted it segregated.  This further understanding caused Tax to push 
+further to gather other advise from outside counsel operating in the Tokyo 
+market.  
+We are and will be able to trade as ENA.  Therefore, the same bank accounts 
+and ISDAs may be utilized.  All activity, positions and VAR continues to be 
+netted for ENA.  Additionally our counterparties can trade with a trusted, 
+established entity, ENA, and we get to net, limiting exposure.
+
+These are two cases where we can impact the structure of the business to 
+increase controls and our level of support.  In both cases, joint and 
+successful cooperation occurred between trading, tax, legal and operations.
+
+Sheila
+
+From MAILER-DAEMON Mon Apr 18 14:23:55 2022
+Message-ID: <9830967.1075856051616.JavaMail.evans@thyme>
+Date: Fri, 8 Sep 2000 03:09:00 -0700 (PDT)
+From: sheila.glover@enron.com
+To: mary.perkins@enron.com, larry.dallman@enron.com, wes.colwell@enron.com
+Subject: Manual Wires
+Cc: frieda.schutza@enron.com, carolyn.centilli@enron.com, laurel.adams@enron.com,
+	brent.price@enron.com, sally.beck@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: frieda.schutza@enron.com, carolyn.centilli@enron.com, laurel.adams@enron.com,
+	brent.price@enron.com, sally.beck@enron.com
+X-From: Sheila Glover
+X-To: Mary Perkins, Larry Dallman, Wes Colwell
+X-cc: Frieda Schutza, Carolyn Centilli, Laurel Adams, Brent A Price, Sally Beck
+X-bcc: 
+X-Folder: \Sally_Beck_Jun2001\Notes Folders\Egm\Glover, sheila
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Mary, Larry and Wes,
+We just received a faxed copy of the Manual Wire and Same Day Payment memo 
+which was sent by Betty Tauzier on 8/28/00.
+Rate & Currency trades fx which is settled the following day and requires 
+next day payments for FX.  Currently we are severely hampered because our 
+infomation is required into Unify by 2:30 for an Accounts Payable run at 4:00 
+for next day payments.  We are still trading after these cut-offs and tying 
+out the day's activity with Trading.  Therefore, we currently have to rely on 
+manual wires to make payments to our counterparties on the value date.  
+
+We need to get timeframes which mirror our business requirements.  I would 
+like to get the Accounts Payable run for our companies, 842 and 967, moved to 
+after 5:00 pm.  Information is not due to the bank until next day. 8:00 am 
+London time.
+
+Please let Laurel and me know what changes can be done to our processing 
+flows.
+Thanks. Sheila
+
+From MAILER-DAEMON Mon Apr 18 14:23:55 2022
+Message-ID: <28460442.1075849851906.JavaMail.evans@thyme>
+Date: Fri, 24 Nov 2000 09:25:00 -0800 (PST)
+From: sheila.glover@enron.com
+To: sally.beck@enron.com, brent.price@enron.com, gary.hickerson@enron.com
+Subject: Re: Debt Trading Losses
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+X-From: Sheila Glover
+X-To: Sally Beck, Brent A Price, Gary Hickerson
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Egm\Glover, sheila
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Sally, Brent and Gary,
+
+In a meeting with Bryan, Jeff, Gary and Markus on Monday, November 20th, I 
+showed Bryan a copy of the monthly price verification procedures and the book 
+administrator's Price Verification Comparison Spreadsheet .  I also showed 
+Brent this information later in the day, as he had to leave before we all 
+left.
+
+Therefore, I find Bryan's Operations' bullet  wrong and misleading.  This is 
+not the statement that was made and agreed to on Monday when we all met.  
+This statement is also not consistent with what is actually in the 
+attachment.  You will receive a copy of the price verifcation spreadsheet for 
+the last six months on Monday.
+
+Please call me or Theresa with questions.
+Sheila
+---------------------- Forwarded by Sheila Glover/HOU/ECT on 11/24/2000 05:14 
+PM ---------------------------
+
+
+Bryan Seyfried
+11/24/2000 12:24 PM
+To: Sheila Glover/HOU/ECT@ECT
+cc: Sally Beck/HOU/ECT@ECT, Brent A Price/HOU/ECT@ECT, Gary 
+Hickerson/HOU/ECT@ECT, Jeff Kinneman/HOU/ECT@ECT, Tom Doukas/NA/Enron@ENRON, 
+Theresa T Brogan/HOU/ECT@ECT 
+Subject: Re: Debt Trading Losses  
+
+ok, sorry for the miscommunication,  can I get copies of the price 
+verification memo for the debt book for the last 6 months pls.
+
+
+   
+	
+	
+	From:  Sheila Glover                           24/11/2000 17:06
+	
+
+To: Bryan Seyfried/LON/ECT@ECT
+cc: Sally Beck/HOU/ECT@ECT, Brent A Price/HOU/ECT@ECT, Gary 
+Hickerson/HOU/ECT@ECT, Jeff Kinneman/HOU/ECT@ECT, Tom Doukas/NA/Enron@ENRON, 
+Theresa T Brogan/HOU/ECT@ECT 
+
+Subject: Debt Trading Losses
+
+Bryan,
+I think the second bullet is misleading.  The bullet is not reflective of 
+what is actually stated in the attached document.
+There is a month-end price verification process on the Credit book.  
+Trader pricing is compared to prime broker pricing.  Where the mark is 
+greater that 2 points, the difference is discussed with the trader.  Trader 
+must then amend the mark or provide third party substantiation for the 
+illiquid position.
+The Price Verifiaction Comparison Spreadsheet with broker quotes is filed and 
+maintained by Risk Management.
+
+The Operations break-down in the process relates to:
+ Triplets excluded from the monthly price verification process and not 
+escalated, prioritized to management
+ Telewest  pricing relied on a price from the prime broker which was manually 
+sourced and not current
+ Price Verification Comparison results should be formalized and distributed 
+to senior management.
+
+Thanks. Sheila
+
+
+ ---------------------- Forwarded by Sheila Glover/HOU/ECT on 11/24/2000 
+10:13 AM ---------------------------
+
+
+Bryan Seyfried
+11/23/2000 01:31 AM
+To: Richard Causey/Corp/Enron@ENRON, Rick Buy/HOU/ECT@ECT, John 
+Sherriff/LON/ECT@ECT
+cc: Michael R Brown/LON/ECT@ECT, Fernley Dyson/LON/ECT@ECT, Sally 
+Beck/HOU/ECT@ECT, Ted Murphy/HOU/ECT@ECT, Mike Jordan/LON/ECT@ECT, David A 
+Wall/Risk Mgmt/LON/ECT@ECT, Jeff Kinneman/HOU/ECT@ECT, Gary 
+Hickerson/HOU/ECT@ECT, Sheila Glover/HOU/ECT@ECT, Brent A Price/HOU/ECT@ECT, 
+Richard Sage/LON/ECT@ECT, Bryan Seyfried/LON/ECT@ECT 
+Subject: Debt Trading Losses
+
+
+We have discovered two positions in the Debt Trading book which were not 
+being marked to market. The current mark of the 2 positions results in 
+approximately $4.7 million loss.  The details are in :
+
+
+
+The primary control issues are:
+? Trader did not adjust price to reflect the effect of market movements
+? Operations did not perform monthly price verification processes
+? Desk management failed to recognize that the marks on these two trades had 
+not moved over the term of the transactions (Q1 '00 - Nov 15th)
+
+The losses have been recognized and a full review of the book is ongoing by 
+Operations.  The trader has been relieved of his responsibilities and we will 
+implement the steps agreed with Operations to ensure that we have a robust 
+approach to controls for the Debt Trading book going forward.
+
+
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:55 2022
+Message-ID: <13532868.1075856051685.JavaMail.evans@thyme>
+Date: Mon, 28 Aug 2000 06:52:00 -0700 (PDT)
+From: sheila.glover@enron.com
+To: shona.wilson@enron.com, brent.price@enron.com, sally.beck@enron.com
+Subject: Controls needed to ensure cashflows are received by Infinity UPDATE
+Cc: michael.moscoso@enron.com, gary.hickerson@enron.com, pushkar.shahi@enron.com,
+	clara.carrington@enron.com, david.port@enron.com,
+	samantha.davidson@enron.com, joyce.kuo@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: michael.moscoso@enron.com, gary.hickerson@enron.com, pushkar.shahi@enron.com,
+	clara.carrington@enron.com, david.port@enron.com,
+	samantha.davidson@enron.com, joyce.kuo@enron.com
+X-From: Sheila Glover
+X-To: Shona Wilson, Brent A Price, Sally Beck
+X-cc: Michael E Moscoso, Gary Hickerson, Pushkar Shahi, Clara Carrington, David Port, Samantha T Davidson, Joyce Kuo
+X-bcc: 
+X-Folder: \Sally_Beck_Jun2001\Notes Folders\Egm\Glover, sheila
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+We still do not have a good cash flow from ERMS.  Several Books which were 
+changed on Friday did not get added back by Risk Controls in the clean-up 
+process this morning, including the book, MAHII, which had the $650 milllion 
+prepay.
+Sheila
+
+---------------------- Forwarded by Sheila Glover/HOU/ECT on 28/08/2000 13:42 
+---------------------------
+   
+	
+	
+	From:  Sheila Glover                           28/08/2000 11:34
+	
+
+To: Shona Wilson/NA/Enron@Enron, Brent A Price/HOU/ECT@ECT, Sally 
+Beck/HOU/ECT@ECT
+cc: Michael E Moscoso/HOU/ECT@ECT, Gary Hickerson/HOU/ECT@ECT, Pushkar 
+Shahi/HOU/ECT@ECT, Clara Carrington/HOU/ECT@ECT, David Port/Market 
+Risk/Corp/Enron@ENRON, Samantha T Davidson/HOU/ECT@ECT, Joyce 
+Kuo/NA/Enron@Enron 
+Subject: Controls needed to ensure cashflows are received by Infinity
+
+Shona, Brent and Sally,
+This morning, the cash flows from approximately 75 books were not received by 
+Infinity from the ERMS system.  We normally get 375 books and only got 296 
+this morning.
+
+Per conversation with Joyce Kuo and Mike Moscoso, Susan Trevino, Risk 
+Controls,  and Christian, RAC, changed the book heirarchy on Friday, moving 
+global products books, including the prepays, out of the ECT group and into 
+another group.  We have had discussions in the past verifying with Risk 
+Controls that the ECT group is the only group which automatically sends its 
+cash flows to Infinity.  Other cash flows from books are included only by 
+being listed in a script.  This was not done when the books were moved from 
+the ECT Group on Friday.
+
+Obviously, the Rate & Currency is not able to hedge Enron's cash flows when 
+so much has been omitted.   At this time we are about one hour away from a 
+good Hedging report for the trading desk.  This report is due the desk daily 
+by 7:30 am.
+
+Mike and I discussed the need for controls and sign-off by him or Shona for 
+changes in book heirarchy.  
+Sheila
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:55 2022
+Message-ID: <6508299.1075856051436.JavaMail.evans@thyme>
+Date: Mon, 20 Nov 2000 06:34:00 -0800 (PST)
+From: sheila.glover@enron.com
+To: brent.price@enron.com, sally.beck@enron.com
+Subject: Debt Trading - Daily Loss violation memo, November 17, 2000
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Sheila Glover
+X-To: Brent A Price, Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Jun2001\Notes Folders\Egm\Glover, sheila
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+fyi..
+---------------------- Forwarded by Sheila Glover/HOU/ECT on 11/20/2000 02:33 
+PM ---------------------------
+   
+	
+	
+	From:  Sheila Glover                           11/20/2000 02:33 PM
+	
+
+To: Shona Wilson/NA/Enron@Enron, Chris Abel/HOU/ECT@ECT
+cc: Tom Doukas/NA/Enron@ENRON, Markus Fiala/LON/ECT@ECT, Gary 
+Hickerson/HOU/ECT@ECT, Jeff Kinneman/HOU/ECT@ECT, Paul Pizzolato/HOU/ECT@ECT, 
+/HOU/ECT, Richard Sage/LON/ECT@ECT, Bryan Seyfried/LON/ECT@ECT, John 
+Sherriff/LON/ECT@ECT, David A Wall/Risk Mgmt/LON/ECT@ECT 
+Subject: Debt Trading - Daily Loss violation memo, November 17, 2000
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:55 2022
+Message-ID: <21341095.1075856051480.JavaMail.evans@thyme>
+Date: Tue, 19 Sep 2000 00:49:00 -0700 (PDT)
+From: sheila.glover@enron.com
+To: sally.beck@enron.com, brent.price@enron.com
+Subject: Action Items
+Cc: janet.tran@enron.com, rena.d'souza@enron.com, laurel.adams@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: janet.tran@enron.com, rena.d'souza@enron.com, laurel.adams@enron.com
+X-From: Sheila Glover
+X-To: Sally Beck, Brent A Price
+X-cc: Janet Tran, Rena D'Souza, Laurel Adams
+X-bcc: 
+X-Folder: \Sally_Beck_Jun2001\Notes Folders\Egm\Glover, sheila
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Sally and Brent,
+I had noted last week that we were having alot of processing problems with 
+SAP and other new processes/set-ups.   I have gotten a commitment from Janet 
+Tran and Rena D'Souza who works with Janet on the SAP team to work with us to 
+resolve our issues.  
+Below is a list of items which Laurel has reviewed with Rena.
+Sheila
+---------------------- Forwarded by Sheila Glover/HOU/ECT on 09/19/2000 07:40 
+AM ---------------------------
+
+
+Laurel Adams
+09/18/2000 06:12 PM
+To: Sheila Glover/HOU/ECT@ECT
+cc:  
+Subject: Action Items
+
+This is the list of items we are focusing on, along with the names of the 
+people working on a specific problem.  I will keep you posted on where we 
+stand on these items.  Ana is aware of everything, and she should be able to 
+answer any questions related to these items when I am out.  Thanks. 
+---------------------- Forwarded by Laurel Adams/HOU/ECT on 09/18/2000 06:07 
+PM ---------------------------
+
+
+Laurel Adams
+09/18/2000 06:11 PM
+To: Rena D'Souza/Corp/Enron@ENRON, Diana McLaughlin/HOU/ECT@ECT, Phyllis R 
+Kennedy/HOU/ECT@ECT, Cynthia Shoup/HOU/ECT@ECT, Ana Rizvi/HOU/ECT@ECT
+cc:  
+Subject: Action Items
+
+Ladies,
+
+To the best of my knowledge, this is the list of items and next steps we 
+outlined in our meeting:
+
+1)  ZICI--if errors are made in entry, you must exit and rebook to create a 
+2-sided entry.  Diana McLaughlin to review.
+
+2)  ZICI--Prepays on intercompany foreign invoices.  Laurel to contact Pamela 
+Lebrane and establish a game plan.
+
+3)  ZICR--report to identify items to be reallocated by trading partner.  Ana 
+to create--Rena/Diana to assist if necessary.
+
+4)  BAI codes for activity in Citibank London :  Laurel and Phyllis to 
+contact Brian Silver and Lisa Raye
+
+5)  EURO account--items sent back from the bank and posted in USD 
+equivalents.  Treasury has been notified and is researching.  Laurel & 
+Phyllis to follow up.
+
+6)  "Not to be posted" cash.  This causes problems with Cash Application, and 
+receivables.  Phyllis/Rena to follow up with Brian Silver & Lori Scott
+
+7)  Autoclear Inflo account--Rena to talk with Becky Ford about putting this 
+on as a scheduled overnight job.
+
+8)  Outflow account--Laurel, Cynthia, and Phyllis to continue researching 
+outstanding items.  
+
+9)  Yen--Brian Silver & Lori Scott.  Need a solution quickly, as JPY activity 
+is increasing--we just had a trader move over to Japan.  
+
+I THINK I covered everything we talked about.   Please feel free to correct 
+me!!  
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:55 2022
+Message-ID: <16503094.1075856051524.JavaMail.evans@thyme>
+Date: Fri, 15 Sep 2000 01:37:00 -0700 (PDT)
+From: sheila.glover@enron.com
+To: sally.beck@enron.com, brent.price@enron.com
+Subject: Problems with Morning Cashflow process
+Cc: jonathan.le@enron.com, stephen.stock@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jonathan.le@enron.com, stephen.stock@enron.com
+X-From: Sheila Glover
+X-To: Sally Beck, Brent A Price
+X-cc: Jonathan Le, Stephen Stock
+X-bcc: 
+X-Folder: \Sally_Beck_Jun2001\Notes Folders\Egm\Glover, sheila
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Sally and Brent,
+The write-up below is based upon discussions Jonathan Le and Kevin Lee had 
+with Steve Stock and Jeremy Wong.  
+Jonathan and Kevin are working on a new cash flow process for us which should 
+help to insulate us from the current intra-night process for the ERMS and 
+EnPower cash flows.
+Sheila
+---------------------- Forwarded by Sheila Glover/HOU/ECT on 09/15/2000 08:32 
+AM ---------------------------
+
+
+Jonathan Le
+09/14/2000 04:40 PM
+To: Sheila Glover/HOU/ECT@ECT
+cc:  
+Subject: Problems with Morning Cashflow process
+
+
+fyi
+---------------------- Forwarded by Jonathan Le/HOU/ECT on 09/14/2000 04:39 
+PM ---------------------------
+
+
+Kevin Lee@ENRON
+09/14/2000 11:27 AM
+To: Jonathan Le/HOU/ECT@ECT
+cc:  
+Subject: Problems with Morning Cashflow process
+
+Hi Jonathan,
+
+ Listed below are the details of each days problems:
+
+Fri, Sep 8,2000
+AutoRho failed at 3:15am, uploaded only 8 books into Infinity.
+It failed on the step in AutoRho where it runs the query to get all the books 
+for the Infinity USD portfolio.  Jeremy does not know exactly what caused it 
+but rerunning AutoRho seemed to work.
+Recovery used the backup file and was on time.
+
+Tue, Sep 12,2000
+Similar problem to Friday, but ENPOWER also failed.  The manenpower.txt file 
+had TNS errors in it.  AutoRho was not able to kick off the ENPOWER script to 
+get the cashflows.  Rerunning fixed the problem.
+AutoRho failed at 3:15am, uploaded only 9 books into Infinity.
+It failed on the step in AutoRho where it runs the query to get all the books 
+for the Infinity USD portfolio.  Jeremy does not know exactly what caused it 
+but rerunning AutoRho seemed to work.
+Recovery used the file that Jeremy provided in the rerun, they were 
+approximately 10 minutes late.
+
+Wed, Sep 13,2000
+ENPOWER failed creating a header ONLY manenpower.txt file.  There was no 
+cashflows in the file.
+Jeremy confirmed the Autorho process was fine.
+The problem was the ENPOWER databse failed (hardrive failure) and they 
+immediately went to a backup.  But on the backup database, NOT all the tables 
+are replicated.  The cashlow table with the ENPOWER data we needed was not in 
+the backup database resulting in a file with zero flows!
+This problem has been fixed by the enpower people.
+Recovery included using the previous day's enpower flows.  They were on time.
+
+Thurs, Sep 14,2000
+AutoRho at 3:15 am and 11:00 pm was hung.  Enpower also was not run since 
+AutoRho failed.
+Reason was because the UNIX NFS file system "solar" was full  As a result, 
+our directory /worksheets2, and also /prod/egs-home is mounted on solar but 
+could not write anything to it.  Supposily the SA are suppose to have been 
+paged when ever a file system gets close to 100% (can you please confirm 
+this?).  The Unix NFS was fixed by 5:00 am.  AutoRho was rerun and was fine.
+Recovery included Jeremy's file.  They were 1 hour late (partly due to other 
+reasons on MO side, not system related).
+
+Thanks,
+Kevin Lee
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:55 2022
+Message-ID: <6566600.1075856051547.JavaMail.evans@thyme>
+Date: Mon, 11 Sep 2000 06:17:00 -0700 (PDT)
+From: sheila.glover@enron.com
+To: mary.perkins@enron.com
+Subject: Re: Manual Wires -
+Cc: brent.price@enron.com, sally.beck@enron.com, laurel.adams@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: brent.price@enron.com, sally.beck@enron.com, laurel.adams@enron.com
+X-From: Sheila Glover
+X-To: Mary Perkins
+X-cc: Brent A Price, Sally Beck, Laurel Adams
+X-bcc: 
+X-Folder: \Sally_Beck_Jun2001\Notes Folders\Egm\Glover, sheila
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Mary,
+The Rate & Currency business requirement is to be able to get a next day FX 
+wire done through 5:00 PM in Unify.  This Unify Systems transaction would 
+then interface to AccountsfPayable and then to Treasury via the related 
+systems processes.. 
+As discussed on the phone, please call Laurel or myself if more informationis 
+needed.
+
+Sheila
+
+---------------------- Forwarded by Sheila Glover/HOU/ECT on 09/11/2000 12:59 
+PM ---------------------------
+   
+	Enron Global Finance
+	
+	From:  Mary Perkins                           09/11/2000 12:44 PM
+	
+
+To: Sheila Glover/HOU/ECT@ECT
+cc: Brent A Price/HOU/ECT@ECT, Sally Beck/HOU/ECT@ECT, Laurel 
+Adams/HOU/ECT@ECT, Theresa T Brogan/HOU/ECT@ECT, Sam Round/HOU/ECT@ECT 
+Subject: Re: Manual Wires - sign off  
+
+Sheila
+Changes to the manual list for North America need to be authorized by Wes and 
+Sally.  We are specifically limiting the number of signers.
+
+I think that what we need to do is immediately address the issues that are 
+causing your wires to miss the standard process.  We did not have the issue 
+prior to SAP.
+
+Please outline your processing requirements and we can work together with AP 
+and SAP to fix the underlying issue.  
+Thanks for the help.
+Mary
+
+
+   
+	
+	
+	From:  Sheila Glover                           09/11/2000 10:54 AM
+	
+
+To: Mary Perkins/HOU/ECT@ECT
+cc: Brent A Price/HOU/ECT@ECT, Sally Beck/HOU/ECT@ECT, Laurel 
+Adams/HOU/ECT@ECT, Theresa T Brogan/HOU/ECT@ECT 
+Subject: Manual Wires - sign off
+
+Mary,
+I want my name and Theresa Brogan's added to the authorized approvers on 
+manual wires.
+Thanks, Sheila
+---------------------- Forwarded by Sheila Glover/HOU/ECT on 09/11/2000 10:52 
+AM ---------------------------
+   
+	
+	
+	From:  Sheila Glover                           09/08/2000 10:09 AM
+	
+
+To: Mary Perkins/HOU/ECT@ECT, Larry Dallman/GPGFIN/Enron@ENRON, Wes 
+Colwell/HOU/ECT@ECT
+cc: Frieda Schutza/GPGFIN/Enron@ENRON, Carolyn Centilli/Corp/Enron@ENRON, 
+Laurel Adams/HOU/ECT@ECT, Brent A Price/HOU/ECT@ECT, Sally Beck/HOU/ECT@ECT 
+Subject: Manual Wires
+
+Mary, Larry and Wes,
+We just received a faxed copy of the Manual Wire and Same Day Payment memo 
+which was sent by Betty Tauzier on 8/28/00.
+Rate & Currency trades fx which is settled the following day and requires 
+next day payments for FX.  Currently we are severely hampered because our 
+infomation is required into Unify by 2:30 for an Accounts Payable run at 4:00 
+for next day payments.  We are still trading after these cut-offs and tying 
+out the day's activity with Trading.  Therefore, we currently have to rely on 
+manual wires to make payments to our counterparties on the value date.  
+
+We need to get timeframes which mirror our business requirements.  I would 
+like to get the Accounts Payable run for our companies, 842 and 967, moved to 
+after 5:00 pm.  Information is not due to the bank until next day. 8:00 am 
+London time.
+
+Please let Laurel and me know what changes can be done to our processing 
+flows.
+Thanks. Sheila
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:55 2022
+Message-ID: <31100061.1075856051457.JavaMail.evans@thyme>
+Date: Mon, 20 Nov 2000 00:08:00 -0800 (PST)
+From: sheila.glover@enron.com
+To: sally.beck@enron.com, brent.price@enron.com, gary.hickerson@enron.com
+Subject: Debt Trading Daily Loss violation November 16, 2000
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Sheila Glover
+X-To: Sally Beck, Brent A Price, Gary Hickerson
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Jun2001\Notes Folders\Egm\Glover, sheila
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+fyi.. 
+---------------------- Forwarded by Sheila Glover/HOU/ECT on 11/20/2000 08:07 
+AM ---------------------------
+   
+	
+	
+	From:  Sheila Glover                           11/17/2000 12:16 PM
+	
+
+To: Shona Wilson/NA/Enron@Enron, Chris Abel/HOU/ECT@ECT
+cc: Tom Doukas/NA/Enron@ENRON, Markus Fiala/LON/ECT@ECT, Jeff 
+Kinneman/HOU/ECT@ECT, Paul Pizzolato/HOU/ECT@ECT, Richard Sage/LON/ECT@ECT, 
+Bryan Seyfried/LON/ECT@ECT, David A Wall/Risk Mgmt/LON/ECT@ECT 
+Subject: Debt Trading Daily Loss violation November 16, 2000
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:55 2022
+Message-ID: <23241326.1075856051593.JavaMail.evans@thyme>
+Date: Mon, 11 Sep 2000 03:54:00 -0700 (PDT)
+From: sheila.glover@enron.com
+To: mary.perkins@enron.com
+Subject: Manual Wires - sign off
+Cc: brent.price@enron.com, sally.beck@enron.com, laurel.adams@enron.com,
+	theresa.brogan@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: brent.price@enron.com, sally.beck@enron.com, laurel.adams@enron.com,
+	theresa.brogan@enron.com
+X-From: Sheila Glover
+X-To: Mary Perkins
+X-cc: Brent A Price, Sally Beck, Laurel Adams, Theresa T Brogan
+X-bcc: 
+X-Folder: \Sally_Beck_Jun2001\Notes Folders\Egm\Glover, sheila
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Mary,
+I want my name and Theresa Brogan's added to the authorized approvers on 
+manual wires.
+Thanks, Sheila
+---------------------- Forwarded by Sheila Glover/HOU/ECT on 09/11/2000 10:52 
+AM ---------------------------
+   
+	
+	
+	From:  Sheila Glover                           09/08/2000 10:09 AM
+	
+
+To: Mary Perkins/HOU/ECT@ECT, Larry Dallman/GPGFIN/Enron@ENRON, Wes 
+Colwell/HOU/ECT@ECT
+cc: Frieda Schutza/GPGFIN/Enron@ENRON, Carolyn Centilli/Corp/Enron@ENRON, 
+Laurel Adams/HOU/ECT@ECT, Brent A Price/HOU/ECT@ECT, Sally Beck/HOU/ECT@ECT 
+Subject: Manual Wires
+
+Mary, Larry and Wes,
+We just received a faxed copy of the Manual Wire and Same Day Payment memo 
+which was sent by Betty Tauzier on 8/28/00.
+Rate & Currency trades fx which is settled the following day and requires 
+next day payments for FX.  Currently we are severely hampered because our 
+infomation is required into Unify by 2:30 for an Accounts Payable run at 4:00 
+for next day payments.  We are still trading after these cut-offs and tying 
+out the day's activity with Trading.  Therefore, we currently have to rely on 
+manual wires to make payments to our counterparties on the value date.  
+
+We need to get timeframes which mirror our business requirements.  I would 
+like to get the Accounts Payable run for our companies, 842 and 967, moved to 
+after 5:00 pm.  Information is not due to the bank until next day. 8:00 am 
+London time.
+
+Please let Laurel and me know what changes can be done to our processing 
+flows.
+Thanks. Sheila
+
+From MAILER-DAEMON Mon Apr 18 14:23:55 2022
+Message-ID: <4325706.1075856051570.JavaMail.evans@thyme>
+Date: Mon, 11 Sep 2000 05:44:00 -0700 (PDT)
+From: mary.perkins@enron.com
+To: sheila.glover@enron.com
+Subject: Re: Manual Wires - sign off
+Cc: brent.price@enron.com, sally.beck@enron.com, laurel.adams@enron.com,
+	theresa.brogan@enron.com, sam.round@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: brent.price@enron.com, sally.beck@enron.com, laurel.adams@enron.com,
+	theresa.brogan@enron.com, sam.round@enron.com
+X-From: Mary Perkins
+X-To: Sheila Glover
+X-cc: Brent A Price, Sally Beck, Laurel Adams, Theresa T Brogan, Sam Round
+X-bcc: 
+X-Folder: \Sally_Beck_Jun2001\Notes Folders\Egm\Glover, sheila
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Sheila
+Changes to the manual list for North America need to be authorized by Wes and 
+Sally.  We are specifically limiting the number of signers.
+
+I think that what we need to do is immediately address the issues that are 
+causing your wires to miss the standard process.  We did not have the issue 
+prior to SAP.
+
+Please outline your processing requirements and we can work together with AP 
+and SAP to fix the underlying issue.  
+Thanks for the help.
+Mary
+
+
+   
+	
+	
+	From:  Sheila Glover                           09/11/2000 10:54 AM
+	
+
+To: Mary Perkins/HOU/ECT@ECT
+cc: Brent A Price/HOU/ECT@ECT, Sally Beck/HOU/ECT@ECT, Laurel 
+Adams/HOU/ECT@ECT, Theresa T Brogan/HOU/ECT@ECT 
+Subject: Manual Wires - sign off
+
+Mary,
+I want my name and Theresa Brogan's added to the authorized approvers on 
+manual wires.
+Thanks, Sheila
+---------------------- Forwarded by Sheila Glover/HOU/ECT on 09/11/2000 10:52 
+AM ---------------------------
+   
+	
+	
+	From:  Sheila Glover                           09/08/2000 10:09 AM
+	
+
+To: Mary Perkins/HOU/ECT@ECT, Larry Dallman/GPGFIN/Enron@ENRON, Wes 
+Colwell/HOU/ECT@ECT
+cc: Frieda Schutza/GPGFIN/Enron@ENRON, Carolyn Centilli/Corp/Enron@ENRON, 
+Laurel Adams/HOU/ECT@ECT, Brent A Price/HOU/ECT@ECT, Sally Beck/HOU/ECT@ECT 
+Subject: Manual Wires
+
+Mary, Larry and Wes,
+We just received a faxed copy of the Manual Wire and Same Day Payment memo 
+which was sent by Betty Tauzier on 8/28/00.
+Rate & Currency trades fx which is settled the following day and requires 
+next day payments for FX.  Currently we are severely hampered because our 
+infomation is required into Unify by 2:30 for an Accounts Payable run at 4:00 
+for next day payments.  We are still trading after these cut-offs and tying 
+out the day's activity with Trading.  Therefore, we currently have to rely on 
+manual wires to make payments to our counterparties on the value date.  
+
+We need to get timeframes which mirror our business requirements.  I would 
+like to get the Accounts Payable run for our companies, 842 and 967, moved to 
+after 5:00 pm.  Information is not due to the bank until next day. 8:00 am 
+London time.
+
+Please let Laurel and me know what changes can be done to our processing 
+flows.
+Thanks. Sheila
+
+
+
+

@@ -1,0 +1,139 @@
+From MAILER-DAEMON Mon Apr 18 14:26:52 2022
+Message-ID: <13118033.1075841975765.JavaMail.evans@thyme>
+Date: Mon, 18 Jun 2001 09:17:07 -0700 (PDT)
+From: edith.cross@enron.com
+To: rebecca.walker@enron.com
+Subject: FW: HSC Curve
+Cc: charles.weldon@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: charles.weldon@enron.com
+X-From: Cross, Edith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ECROSS>
+X-To: Walker, Rebecca </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rwalker2>
+X-cc: Weldon, V. Charles </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vweldon>
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Austin Energy
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+Rebecca,
+
+Per our conversation on Friday, I have run some scenarios using the original assumptions, and the revised assumptions.  Please hold off on communicating your findings, until we can talk.  Thanks!
+
+E
+
+
+
+ -----Original Message-----
+From: 	Weldon, V. Charles  
+Sent:	Monday, June 18, 2001 10:27 AM
+To:	Walker, Rebecca
+Cc:	Cross, Edith
+Subject:	HSC Curve
+
+Rebecca,
+
+Per your request, I have attached the HSC curves as of Friday's close.
+
+
+Thanks,
+
+Charlie
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:26:52 2022
+Message-ID: <8714994.1075841975813.JavaMail.evans@thyme>
+Date: Fri, 15 Jun 2001 07:10:48 -0700 (PDT)
+From: santiago.garcia@enron.com
+To: eric.boyt@enron.com, charles.weldon@enron.com
+Subject: FW: Gas Curve for Austin Energy
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Garcia, Santiago </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SGARCIA5>
+X-To: Boyt, Eric </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Eboyt>, Weldon, V. Charles </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vweldon>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Austin Energy
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+This is what Rebecca sent yesterday.
+
+Santiago
+
+
+
+ -----Original Message-----
+From: 	Walker, Rebecca  
+Sent:	Thursday, June 14, 2001 8:56 AM
+To:	Garcia, Santiago
+Subject:	Gas Curve for Austin Energy
+
+Santiago
+
+The curve I need is not one that you had worked on before.  I just had your name from when you gave me a curve for a different project (Omaha).  The curve I need now is for the Sandhill Energy Center in Austin, TX.  The plant already exists -- it was built as a JV with Austin Energy.  COD was yesterday.  The reason we need a curve is that the actual HR acheived by the project is better than the contractual guarantee.  I'm building a mini-model to monetize that improvement in HR to see how much it is worth to the project in $ of gas saved.  To do that, I need the appropriate gas curve from June 13, 2001 through November 3, 2003 (the term of Enron's contract with Austin Energy).  Other information about the plant you may need:
+
+Actual HR:  9,789 Btu/kwh
+Actual MW:  184.054 MW
+Annual Run Hours:  2,500
+Load:  5x16 Peaking Plant
+Turbines: 4xLM6000
+
+Enron's contract allows us to call the first 100 MW of capacity to sell into the market.  The rest is Austin Energy's unless they do not dispatch on a particular day.  In that case, Enron call sell the entire capacity.
+
+Let me know if you need any more information to provide me with a curve.  I am looking for monthly curves for this period, but if you don't have them available, I can use annualized curves.
+
+Thanks,
+Rebecca
+
+From MAILER-DAEMON Mon Apr 18 14:26:52 2022
+Message-ID: <22171159.1075841975789.JavaMail.evans@thyme>
+Date: Mon, 18 Jun 2001 08:41:15 -0700 (PDT)
+From: eric.boyt@enron.com
+To: rebecca.walker@enron.com, jeffrey.keenan@enron.com
+Subject: RE: Austin Gas Curve
+Cc: charles.weldon@enron.com, santiago.garcia@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: charles.weldon@enron.com, santiago.garcia@enron.com
+X-From: Boyt, Eric </O=ENRON/OU=NA/CN=RECIPIENTS/CN=EBOYT>
+X-To: Walker, Rebecca </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rwalker2>, Keenan, Jeffrey </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jkeenan>
+X-cc: Weldon, V. Charles </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vweldon>, Garcia, Santiago </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sgarcia5>
+X-bcc: 
+X-Folder: \ExMerge - Weldon, V. Charles\Austin Energy
+X-Origin: WELDON-V
+X-FileName: v charles weldon 7-2-02.PST
+
+Rebecca/Jeff,
+
+I spoke with Edith Cross this morning and she will be getting in touch with you guys, if she hasn't already.  Our preliminary number from the Texas Desk was Houston Ship Channel +.25, with day-ahead notice (not intra-day).
+
+Eric
+
+
+ -----Original Message-----
+From: 	Garcia, Santiago  
+Sent:	Monday, June 18, 2001 9:41 AM
+To:	Boyt, Eric; Weldon, V. Charles
+Subject:	FW: Austin Gas Curve
+
+
+
+ -----Original Message-----
+From: 	Walker, Rebecca  
+Sent:	Monday, June 18, 2001 9:41 AM
+To:	Garcia, Santiago
+Subject:	Austin Gas Curve
+
+Santiago
+
+Have you and Eric Boyt and Charlie Weldon been able to establish what curve should be used for the Austin project?  I spoke to Edith Cross on Friday, and she said that the issue was whether to use ship channel plus 10 or ship channel plus 20.  If you could please let me know what the timeline is going to be on sending a curve to me, I'd appreciate it.
+
+Thanks again for your help,
+Rebecca Walker
+x57968
+

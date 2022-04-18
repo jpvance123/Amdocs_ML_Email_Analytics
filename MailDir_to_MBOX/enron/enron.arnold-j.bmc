@@ -1,0 +1,1992 @@
+From MAILER-DAEMON Mon Apr 18 14:26:11 2022
+Message-ID: <6715329.1075849628073.JavaMail.evans@thyme>
+Date: Thu, 14 Dec 2000 09:01:00 -0800 (PST)
+From: jeff.youngflesh@enron.com
+To: jennifer.medcalf@enron.com
+Subject: FW: BMC DEAL --- UPDATE --- from Net Works (J Rub)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeff Youngflesh
+X-To: Jennifer Medcalf
+X-cc: 
+X-bcc: 
+X-Folder: \John_Arnold_Nov2001\Notes Folders\Bmc
+X-Origin: ARNOLD-J
+X-FileName: jarnold.nsf
+
+Jennifer,
+
+I spoke w/Jenny Rub about almost every BMC/EBS issue, except for this one.  I 
+did not know about the issue which Bruce Smith has sent (blue text, below) to 
+Jenny and Bob McAuliffe.  When I spoke w/Jenny, I was unaware of BMC's 
+retraction.  It is new news to me, and at the very least, doesn't seem very 
+"customer-focused" on BMC's part.  I certainly agree w/Bruce's statement to 
+the effect that BMC needs to meet w/Philippe about their pricing!
+
+JKY
+
+----- Forwarded by Jeff Youngflesh/NA/Enron on 12/14/2000 04:39 PM -----
+
+	Jenny Rub
+	12/14/2000 04:21 PM
+		 
+		 To: Jeff Youngflesh/NA/Enron@ENRON
+		 cc: 
+		 Subject: FW: BMC DEAL --- UPDATE
+
+
+----- Forwarded by Jenny Rub/Corp/Enron on 12/14/2000 04:21 PM -----
+
+	Bruce Smith/ENRON@enronXgate
+	12/14/2000 02:50 PM
+		 
+		 To: Bob McAuliffe/ENRON@enronXgate, Jenny Rub/Corp/Enron@Enron
+		 cc: 
+		 Subject: FW: BMC DEAL --- UPDATE
+
+Not that it matters but wanted you to know:
+BMC rep left message recanting the fact that we would still have the 45 % 
+discount if SAP modules were purchased at some other time.  He states now 
+that if not purchased now the discount would only be 10-20 % range at a later 
+date.
+
+
+Bruce
+
+ -----Original Message-----
+From:  Smith, Bruce  
+Sent: Wednesday, December 13, 2000 8:35 PM
+To: McAuliffe, Bob; Rub, Jenny
+Cc: Robinson, Larry
+Subject: BMC DEAL 
+Importance: High
+
+Jenny/Bob
+
+Per the BMC deal, here is where we are with Batch Processing:
+
+TidalSoft, Sysadmiral
+Approx.  90 k  ( current quote covers us and GPG and does not include SAP ) 
+We have added a couple of pieces to this and it could bring the cost to 125 k 
+worst case.  This quote covers consulting and maintenance.  They are trying 
+very hard to get a deal done this year  and we could probably get our 
+additional components at the current quote price if we signed.  
+
+BMC, Control -M
+Approx. 325 k   This is after we remove the SAP modules and components from 
+the quote. Quote that was sent over from Jeff Youngflesh (Enron GSS) was for 
+a total of 628 k
+
+Hardware for either product is approx. 300 k. 
+
+We have conferred with the SAP team and they are not desperate for us to take 
+over their scheduling but think it is a good idea to include them in our long 
+term strategy. They actually do not recommend either of these product's SAP 
+modules and mentioned a third party product (Autosys) that has connectors 
+into BMC.  We are not sure at this point about a connector into TidalSoft 
+(Larry if you have info on this please comment).
+
+Larry's and his team have eval'd both products and although they are leaning 
+towards Sysadmiral they are satisfied that both products are acceptable.  You 
+guys make the call as to whether the additional 200 k is worth the weight it 
+will lend to the EBS/BMC deal.  FYI - BMC rep said that we still get 45% 
+discount if we cut the SAP modules.  BMC needs to sit down with PB and learn 
+how over priced their products are !
+
+Let me know what you think.  If we go TidalSoft I need to push this through 
+or be advised to let it go till the New Year.
+
+Thanks
+Bruce
+
+
+*****
+Also in Quote sent over from Youngflesh :
+BMC, Control SA
+1.3 M     NOT EVALUATED AT THIS TIME  - Is a candidate for future 
+consideration for the Security Admin space but not enough info to speculate 
+as to whether to try and leverage current deal with EBS.   I guess they put 
+this quote together from info they received from Henry Moreno
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:11 2022
+Message-ID: <20994708.1075849628095.JavaMail.evans@thyme>
+Date: Fri, 15 Dec 2000 08:44:00 -0800 (PST)
+From: jeff.youngflesh@enron.com
+To: jennifer.medcalf@enron.com
+Subject: Re: Quest Software/BMC update
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeff Youngflesh
+X-To: Jennifer Medcalf
+X-cc: 
+X-bcc: 
+X-Folder: \John_Arnold_Nov2001\Notes Folders\Bmc
+X-Origin: ARNOLD-J
+X-FileName: jarnold.nsf
+
+fyi...i meant to copy you, but my system crashed (screen whited out and i had 
+to reboot), and you didn't get a copy...so here it is...
+----- Forwarded by Jeff Youngflesh/NA/Enron on 12/15/2000 04:39 PM -----
+
+	Jeff Youngflesh
+	12/15/2000 04:17 PM
+		
+		 To: Douglas Cummins/HOU/ECT@ECT
+		 cc: 
+		 Subject: Re: BMC Summary to-date
+
+Thank you Doug!
+
+I relayed the update verbally to Jennifer Medcalf, here is the written 
+version.  Expect a copy on a note I'm going to send EBS.
+
+Jeff
+
+
+
+	Douglas Cummins@ECT
+	12/15/2000 04:14 PM
+		
+		 To: Jeff Youngflesh/NA/Enron@ENRON
+		 cc: 
+		 Subject: Re: BMC Summary to-date
+
+Jeff,
+
+We backed away from Patrol for monitoring - Quest is so far ahead 
+technology-wise and cheaper.
+
+My group still considers BMC's Schema Manager tool to be the best and would 
+purchase it now if the other group was willing to cooperate.  I believe Jim 
+Ogg wants to evaluate more tools and related design tools before making a 
+decision.
+
+Regards,
+Douglas
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:11 2022
+Message-ID: <2524224.1075849627829.JavaMail.evans@thyme>
+Date: Wed, 6 Dec 2000 01:23:00 -0800 (PST)
+From: jeff.youngflesh@enron.com
+To: bob.mcauliffe@enron.com
+Subject: Thank You, (again)
+Cc: jennifer.medcalf@enron.com, peter.goebel@enron.com, jenny.rub@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jennifer.medcalf@enron.com, peter.goebel@enron.com, jenny.rub@enron.com
+X-From: Jeff Youngflesh
+X-To: Bob McAuliffe
+X-cc: Jennifer Medcalf, Peter Goebel, Jenny Rub
+X-bcc: 
+X-Folder: \John_Arnold_Nov2001\Notes Folders\Bmc
+X-Origin: ARNOLD-J
+X-FileName: jarnold.nsf
+
+Bob,
+
+Thank you for your reply.  I know you are doubly busy with your being on the 
+road this week, just prior to a vacation.  Your answer below is perfect!  
+Bob, you and your team have been very supportive of our efforts to assist EBS 
+with BMC, and you have done all that we could have asked!  I wanted you to 
+know that we really appreciate your support (I especially do, as a "late 
+arrival" to this situation)!  Thank you again for all of the help!
+
+Jeff
+
+
+
+	Bob McAuliffe/ENRON@enronXgate
+	12/05/2000 06:56 PM
+		 
+		 To: Jeff Youngflesh/NA/Enron@ENRON
+		 cc: Randy Matson/Corp/Enron@ENRON, Bruce Smith/ENRON@enronXgate, Douglas 
+Cummins/HOU/ECT@ECT, Jenny Rub/Corp/Enron@Enron
+		 Subject: RE: Update
+
+Jeff,
+
+Assuming that either Randy or Doug were to decide that BMC was a viable 
+solution for their areas of responsibility, we would certainly support 
+purchasing the appropriate products from BMC.
+
+Bob.
+
+ -----Original Message-----
+From:  Youngflesh, Jeff  
+Sent: Tuesday, December 05, 2000 5:34 PM
+To: McAuliffe, Bob
+Cc: Matson, Randy; Smith, Bruce; Cummins, Douglas
+Subject: Update
+
+Bob, 
+
+I understand from Thais that you're on the road for Enron, but soon you'll be 
+"on the road for Bob" - a well-deserved vacation coming up!  In light of your 
+impending vacation, I wanted to do a quick follow-up check.
+
+If we could somehow, without causing an undesirable state in your 
+organization, facilitate the ability to purchase BMC solution product for Net 
+Works, would you support that?
+
+I have spoken with Bruce Smith, Randy Matson, and Doug Cummins in followup 
+calls from the November 17th meeting in EB 22C1.  IF Randy and Doug were 
+likely to make a pro-BMC decision (instead of for a competitor's product), 
+and IF there was a way to painlessly (for Net Works) enable the funds to 
+become available to make a purchase of BMC product (by Net Works), would that 
+be something you would support?  I am searching for a way to help EBS without 
+impacting Net Works in any negative way...but ultimately, I will abide 
+whatever you demand here.  
+
+I hope to hear from you, either by telephone/voicemail, or e-mail; if you 
+could do so prior to your vacation.
+
+Thank you again for your help,
+
+Jeff Youngflesh
+
+Jeff Youngflesh
+Director, Business Development
+Global Strategic Sourcing
+Enron Corp.
+333 Clay Street, 11th Floor
+Houston, TX 77002
+t:  713-345-5968
+f:  713-646-2450
+c:  713-410-6716
+
+From MAILER-DAEMON Mon Apr 18 14:26:11 2022
+Message-ID: <9886073.1075849627928.JavaMail.evans@thyme>
+Date: Tue, 12 Dec 2000 06:30:00 -0800 (PST)
+From: jeff.youngflesh@enron.com
+To: bob.mcauliffe@enron.com
+Subject: Update on BMC/EBS situation
+Cc: jennifer.medcalf@enron.com, peter.goebel@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jennifer.medcalf@enron.com, peter.goebel@enron.com
+X-From: Jeff Youngflesh
+X-To: Bob McAuliffe
+X-cc: Jennifer Medcalf, Peter Goebel
+X-bcc: 
+X-Folder: \John_Arnold_Nov2001\Notes Folders\Bmc
+X-Origin: ARNOLD-J
+X-FileName: jarnold.nsf
+
+Bob,
+
+I want to make sure I keep you in the loop on the EBS/BMC/NetWorks/Global 
+Strategic Sourcing interactions.
+
+EBS has worked out an additional 25% discount, which brings the total 
+discount structure to Enron to a 45%-off pricing level, if EBS and Enron 
+aggregate their spend opportunity.  This should come as good news to anyone 
+at Net Works who might be about to implement a BMC solution.  
+
+Also, there is additional flexibility in the situation, in that BMC will be 
+willing to work with Enron business units with regard to the timing of their 
+software purchases as it relates to applicability in EBS' deal.  For example, 
+if Randy Matson's team chose the BMC solution at the conclusion of their 
+current testing, they could lock in the discount at 45% by sending an e-mail 
+(or other form of written communication) committing to the purchase in 2001 
+(the preference would be to get the "buy" done by end of 1st Qtr, if 
+possible).  This would be sufficient commitment for BMC to go forward with 
+their purchases of EBS' solutions currently proposed to BMC.
+
+I'm going to contact your leads (Randy, Bruce, et. al.) to let them know of 
+the additional possible discount and the relative ease of securing it...and 
+to also help make sure that what BMC is pricing out to all is the correct 
+application solution in each instance.
+
+Thank you for your help and cooperation,
+
+Jeff Youngflesh
+
+From MAILER-DAEMON Mon Apr 18 14:26:11 2022
+Message-ID: <32597035.1075849627754.JavaMail.evans@thyme>
+Date: Wed, 29 Nov 2000 05:16:00 -0800 (PST)
+From: jeff.youngflesh@enron.com
+To: bob.mcauliffe@enron.com, peter.goebel@enron.com, bruce.smith@enron.com,
+	randy.matson@enron.com, jim.ogg@enron.com
+Subject: Calendar Availability for 11/30, 12/1?  (BMC/EBS update)
+Cc: stephen.morse@enron.com, peter.bennett@enron.com, chaz.vaughan@enron.com,
+	jennifer.stewart@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stephen.morse@enron.com, peter.bennett@enron.com, chaz.vaughan@enron.com,
+	jennifer.stewart@enron.com
+X-From: Jeff Youngflesh
+X-To: Bob McAuliffe, Peter Goebel, Bruce Smith, Randy Matson, Jim Ogg
+X-cc: Stephen Morse, Peter Bennett, Chaz Vaughan, Jennifer Stewart
+X-bcc: 
+X-Folder: \John_Arnold_Nov2001\Notes Folders\Bmc
+X-Origin: ARNOLD-J
+X-FileName: jarnold.nsf
+
+All,
+
+In our meeting on the 17th of November, the NetWorks team explained their 
+position(s) relative to possible upcoming purchases of software, in which BMC 
+might be selected as the vendor.  There were several issues and concerns 
+which were voiced, mostly related to BMC's lack of support and suboptimal 
+application capability (that is the "net", understated version).
+
+Bob, you and I spoke briefly after the meeting regarding what, if anything, 
+BMC could do to "fix their problem".  I relayed the gist of our brief 
+conversation to EBS.
+
+As discussed in the meeting, EBS has a near-term opportunity to get a deal 
+done with BMC, and it would be of optimum benefit to execute this year.  One 
+of the outcomes of our November 17 meeting is that EBS has been pressing BMC 
+for a BMC commitment to Enron's overall customer satisfaction.  Per a 
+voicemail to me from EBS, it appears that BMC have provided a response to EBS.
+
+I would like to schedule a meeting for the addressees of this note for either 
+November 30th, or December 1st.  The purpose is to get an update from the 
+NetWorks team on the BMC application testing that was underway, and for EBS 
+to explain what BMC has proposed.  This meeting should take an hour.  
+
+Please let me know if you can meet tomorrow or Friday.  I'll book a room and 
+time that works for the majority, and confirm with a Notes "Meeting 
+Invitation".
+
+Thank you,
+
+Jeff 
+
+Jeff Youngflesh
+Director, Business Development
+Global Strategic Sourcing
+Enron Corp.
+333 Clay Street, 11th Floor
+Houston, TX 77002
+t:  713-345-5968
+f:  713-646-2450
+c:  713-410-6716
+
+From MAILER-DAEMON Mon Apr 18 14:26:11 2022
+Message-ID: <21622015.1075849628049.JavaMail.evans@thyme>
+Date: Wed, 13 Dec 2000 06:47:00 -0800 (PST)
+From: jeff.youngflesh@enron.com
+To: jennifer.medcalf@enron.com
+Subject: Re: BMC Update, 2:30pm 12/13 - changes noted
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeff Youngflesh
+X-To: Jennifer Medcalf
+X-cc: 
+X-bcc: 
+X-Folder: \John_Arnold_Nov2001\Notes Folders\Bmc
+X-Origin: ARNOLD-J
+X-FileName: jarnold.nsf
+
+Jennifer, 
+
+This is apparently the type of deal flip-flop which BMC has been blessing EBS 
+with.  In the note from Doug Cummins which contained his updated spend 
+projections, he had the "Professional Services" highlighted with a bunch of 
+question marks.  It is at the bottom of his sheet, and lists a qty of 30 @ 
+$2000 per = $60,000 --- I assume that's $2K/hour or per day.  Either way, 
+it's not something that appears palatable to them (Net Works).  I'll be going 
+over there in a few minutes, and will try to check w/each of the guys.  I'll 
+keep you posted.
+
+Jeff
+----- Forwarded by Jeff Youngflesh/NA/Enron on 12/13/2000 02:41 PM -----
+
+	Stephen Morse@ENRON COMMUNICATIONS
+	12/13/2000 02:10 PM
+		
+		 To: Chaz Vaughan/Enron Communications@Enron Communications
+		 cc: Jeff Youngflesh/NA/Enron@ENRON, Brad Nebergall/Enron 
+Communications@Enron Communications
+		 Subject: Re: BMC Update
+
+Clarification on the below.
+
+Point #1 our position has been $3MM on software (they are saying they need 
+$4MM to get the deal done.)
+
+Additionally, they want Maintenance and professional services to go with the 
+dollar amount.  $2.4MM is their position here.  I need your help to clarify 
+with each group who is on board with maintenance and profesional services.  
+BMC's #2 guy Jeff Hawn told Jim Crowder this was critical for them.
+
+Thanks,
+
+Steve
+
+
+Steve Morse
+Enron Broadband Services
+713-853-7137-work
+713-569-7912-cell
+email:  stephen_morse@enron.net
+
+
+
+	Chaz Vaughan
+	12/12/00 07:29 PM
+		
+		 To: Jeff Youngflesh/NA/Enron@ENRON
+		 cc: Stephen Morse/Enron Communications@Enron Communications
+		 Subject: Re: BMC Update
+
+Jeff,
+
+Thank you for your efforts on the BMC deal.  We are making real progress.  
+Here are the answers to your questions:
+
+1.  How much do they want you to guarantee them in BMC revenue?  
+$4 MM in software and $2.4 MM in maintenance and professional services
+2.  Are you still looking at a $13MM TCV over 5 years?  
+No, our current TCV over 5 years is $10 MM 
+3.  Have I properly conveyed the "accepable-to-BMC method" of proving 
+purchase commitment from Enron?  
+Not sure what you mean here
+4.  Your note re:  getting the Prof'nl Svcs contract signed says it has to be 
+done by 6pm the 14th...what if you don't get it until the morning of the 15th?
+We prefer the 14th, but if we can't get it until the 15th, that will work
+
+
+Please let me know if you have any other questions.  I will call you tomorrow 
+to touch base.
+
+Thanks,
+
+Chaz Vaughan
+Enron Broadband Services
+1400 Smith Street
+Houston, TX  77002
+Ph:  713-345-8815
+Cell: 713-444-3074
+Fax: 713-853-7354
+Chaz_Vaughan@enron.net 
+
+
+
+	Jeff Youngflesh@ENRON
+	12/12/00 04:43 PM
+		 
+		 To: Stephen Morse/Enron Communications@Enron Communications, Chaz 
+Vaughan/Enron Communications@Enron Communications
+		 cc: Jennifer Medcalf/NA/Enron@Enron, Brad Nebergall/Enron 
+Communications@Enron Communications, Eric Merten/Enron Communications@Enron 
+Communications
+		 Subject: BMC Update
+
+Steve/Chaz - 
+
+I have taken your EBS Professional Services contract through our contracts 
+folks, and we have ended up with it now being in EBS' contracts dept w/one of 
+your attorneys.  Our contracts Director, Tom Moore, and I spoke w/Eric Merten 
+(PDX) early this afternoon, and he now has the contract.  EBS may have some 
+Intellectual Property issues related to ownership of BMC Consultant-developed 
+materials (while being paid by Enron).  Eric is in the driver's seat with the 
+contract at this point.  
+
+I have sent notes to all of the Net Works directors currently engaged in one 
+form or another with BMC product and/or personnel.  In it, they have been 
+requested to help us understand our opportunity from a number of angles:  
+Application(s) considered, attractiveness of the new pricing, attractiveness 
+of the BMC flexibility w/regard to "purchase commitment", etc.  In addition, 
+I have re-iterated the time urgency.
+
+I have followed up the note w/telephone calls & messages to all of them:  
+Doug Cummins, Randy Matson, Bob Martinez, Jim Ogg, and Bruce Smith.  I am 
+meeting with Bob Martinez on Wednesday at 3pm.  Matson, Ogg, and Smith have 
+me in their voicemailbox, Cummins was in a meeting and he said he would call 
+me back.
+
+Would either one of you please let me know what BMC wants EBS to do for 
+them:  how much do they want you to guarantee them in BMC revenue?  Are you 
+still looking at a $13MM TCV over 5 years?  Have I properly conveyed the 
+"accepable-to-BMC method" of proving purchase commitment from Enron?  Your 
+note re:  getting the Prof'nl Svcs contract signed says it has to be done by 
+6pm the 14th...what if you don't get it until the morning of the 15th?
+
+I will call you to follow up on this note.
+
+Thank you,
+
+Jeff Youngflesh
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:11 2022
+Message-ID: <25283265.1075849627805.JavaMail.evans@thyme>
+Date: Mon, 4 Dec 2000 02:53:00 -0800 (PST)
+From: jeff.youngflesh@enron.com
+To: jennifer.medcalf@enron.com
+Subject: FW: BMC/Win2K Certification
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeff Youngflesh
+X-To: Jennifer Medcalf
+X-cc: 
+X-bcc: 
+X-Folder: \John_Arnold_Nov2001\Notes Folders\Bmc
+X-Origin: ARNOLD-J
+X-FileName: jarnold.nsf
+
+Jennifer,
+
+I hope you are doing well in the U.K., as my clock here says it is probably 
+about 4:52pm in London...Here is an update on BMC:
+
+Based on the following, I would say this:
+
+1)  BMC has worked to clear up operational problems experienced by Net Works, 
+and in one situation, appears to have done so successfully.
+2)  Net Works has not acknowledged that the results of #1 were desired or 
+acceptable, and instead offered another pushback (Win2K certif'ctn), therefore
+3)  BMC doesn't appear to have been given further opportunity to identify 
+what issues, if any, are still open at Net Works.
+4)  I don't see evidence (either in these notes OR having come out from any 
+of the many telephone conversations I've been in) that Net Works has provided 
+any responses since 11/21 or so...Peter Goebel and I met w/Net Works & EBS on 
+11/17, and I have had no calls or e-mails responding to my requests for 
+information relative to "what are your top 3 problems in this BMC situation, 
+Net Works?" from Net Works.
+5)  So, I feel confident that there are more issues (left off the table by 
+Net Works) than will be discussed, because
+6)  Net Works doesn't want any of BMC's solutions.  Period.
+
+7)  The Result:  EBS is on their own on their deal with BMC, as far as Net 
+Works' folks are concerned.
+
+In the "I don't want any surprises" mode, I thought I'd give George a 
+heads-up re:  possible fallout around the BMC thing.  I told George in this 
+morning's staff meeting what Jim Crowder said to the EBS origination team ("I 
+don't see a problem here..."), and what you and I suggested EBS do - buy and 
+implement $1M of BMC's stuff, pay $2M for "credit", which any ENE business 
+unit could access, etc.  I also informed him that the EBS and BMC folks were 
+likely to encourage Crowder to "lean on" Philippe (which I had recommended 
+against).  George said he would take it up w/Jennie Rub.  
+
+If you have any questions, please let me know.
+Jeff
+
+
+
+----- Forwarded by Jeff Youngflesh/NA/Enron on 12/04/2000 10:32 AM -----
+
+	Stephen Morse@ENRON COMMUNICATIONS
+	12/04/2000 10:04 AM
+		 
+		 To: Jeff Youngflesh/NA/Enron@ENRON
+		 cc: Jennifer N Stewart/NA/Enron@ENRON
+		 Subject: FW: Win2K Certification
+
+FYI,
+
+Pls see note below from BMC Sales folks.
+
+Thanks,
+
+Steve
+
+
+Steve Morse
+Enron Broadband Services
+713-853-7137-work
+713-569-7912-cell
+email:  stephen_morse@enron.net
+----- Forwarded by Stephen Morse/Enron Communications on 12/04/00 10:07 AM 
+-----
+
+	Ann_Munson@bmc.com
+	11/22/00 11:54 AM
+		 
+		 To: Stephen Morse/Enron Communications@Enron Communications
+		 cc: Chaz Vaughan/Enron Communications@Enron Communications, Joe_Young@bmc.com
+		 Subject: FW: Win2K Certification
+
+
+
+Here's the latest communication to Bruce Smith regarding Control-SA and
+Control-M Windows 2000 certification, as well as reporting on the testing.
+It's in the document, but to point it out, Control-SA is ready for
+certification process on Dec of 2000 and Control-M on March 2001.
+
+Ann M.  Munson
+Senior Sales Representative
+BMC Software
+713-918-4569  Direct
+713-918-8001  Fax
+amunson@bmc.com
+
+> -----Original Message-----
+> From: Hallberg, Rob
+> Sent: Tuesday, November 21, 2000 4:30 PM
+> To: 'Bruce.Smith@enron.com'
+> Cc: Munson, Ann
+> Subject: Win2K Certification
+>
+> Hi Bruce,
+>
+> I have attached a document detailing the status of Microsoft
+> Certification.  We have also summarized our Windows 2000 development and
+> certification methodology which is actually a two-phase approach.  The
+> most critical phase, which ensures Win2K compatibility and support and
+> includes customer testing, has been completed.  The Win2K Agents are GA
+> for both Control-M (scheduling) and Control-SA (security).
+>
+> The next phase, which is also a key element of our development strategy,
+> is to insure the products meet the certification requirements for
+> Microsoft Win2K.  This phase follows the Win2K initial release as MS
+> Certification focuses on meeting certain Microsoft standards and not the
+> application's functionality - ability to work correctly in the Control-M
+> environment.
+>
+> Microsoft certification does not necessarily guarantee the performance of
+> the application.  It is my understanding that one of the reasons Control-M
+> is being considered as a replacement for sys*Admiral is due to the
+> problems you are experiencing with their MS Certified release.
+>
+> Earlier this year we met with Philippe Bibi and reviewed BMC's Win2K
+> Development Plans.  Would it be helpful to set up a similar meeting with
+> an executive from our Product Marketing group to discuss these in more
+> detail?
+>
+> One final note.  I just received the following update from Rusty Cheves,
+> reconfirming that Control-M continues to run smoothly since we made the
+> database changes.
+>
+>  Thanks Rob for all the hard work last week.  It seems as we have
+> finally got this thing running smoothly.  After extending the database and
+> troubleshooting which log files were filling up we now can eval till out
+> hearts content.
+>
+>  Please tell Ronnie thanks for all his help as well
+>
+>  Thanks Again
+>
+>  Rusty
+>
+> As a next step, could we meet soon after the Thanksgiving Holidays?   I
+> can arrange to bring an executive from product marketing along if you
+> would like to discuss Win2K certification in more detail.
+>
+> Thanks,
+>
+> Rob
+>
+>
+M
+
+> Rob Hallberg
+> BMC Software
+> Direct: (972) 934-5073
+> Mobile: (214) 695-2840
+> rob_hallberg@bmc.com
+>
+>
+> -----Original Message-----
+> From: Bruce.Smith@enron.com [mailto:Bruce.Smith@enron.com]
+> Sent: Tuesday, November 21, 2000 7:14 AM
+> To: Rob_Hallberg@bmc.com; Larry.Robinson@enron.com
+> Subject: RE: Recap
+>
+>
+> Rob -
+>
+> Where are we with the Win2K issue ?
+>
+>     -----Original Message-----
+>    From:   "Hallberg, Rob" <Rob_Hallberg@bmc.com>@ENRON
+>
+> [mailto:IMCEANOTES-+22Hallberg+2C+20Rob+22+20+3CRob+5FHallberg+40bmc+2Ecom
+> +3E+40ENRON@ENRON.com]
+>
+>
+>    Sent:   Monday, November 20, 2000 11:20 PM
+>    To:     Robinson, Larry
+>    Cc:     Sapp, Ronnie; Smith, Bruce; Cheves, Rusty
+>    Subject:  RE: Recap
+>
+>    Hi Larry,
+>
+>    Following is Ronnie Sapp's summary of the problem resolution for the
+>    Control-M installation problems and the reliability and scalability
+>    results
+>    attained.  It now appears that most of the problems were caused by the
+>    setup
+>    of the Oracle database.
+>
+>    Once we left Thursday evening and through the following day, Schedule-M
+>    worked flawlessly.  The new day process was last measured taking less
+>    than
+>    five minutes for 960 jobs and we approximated job volumes 14,500 per
+>    day.
+>
+>    This demonstrates the reliability and scalability of Control-M when
+>    installed properly.   I will give you a call to discuss the results and
+>    our
+>    next steps.
+>
+>    Thanks,
+>
+>    Rob
+>
+>    Rob Hallberg
+>    BMC Software
+>    Direct: (972) 934-5073
+>    Mobile: (214) 695-2840
+>    rob_hallberg@bmc.com
+>
+>    >  -----Original Message-----
+>    > From:      Sapp, Ronnie
+>    > Sent:      Monday, November 20, 2000 4:16 PM
+>    > To:   Rob Hallberg (E-mail)
+>    > Subject:   FW: Recap
+>    >
+>    > Rob, will you please forward this to Larry.
+>    >
+>    >
+>    > Larry,  Below is the recap we talked about.
+>    >
+>    > Recap:
+>    >
+>    > There were 2 outstanding issues.
+>    > 1) New Day process running 2-5 hrs.
+>    > 2) Jobs not running, they were all in Blue or White status.
+>    >
+>    > Issue number 1 was resolved the day before I arrived by Tech Support
+>    > working with Rusty.  Solution was to increase the Oracle DB from 50mg
+>    to
+>    > 300mg.  Also the log & stat files were extremely small.  These files
+>    were
+>    > cleaned out by Rusty, however were never increased or set to truncate
+>    in
+>    > Oracle.  They will fill up again.  These files need to be set to
+>    truncate
+>    > by the Oracle DBA or run a set of daily utilities to clean those
+>    files.
+>    > We will send a draft of those utilities to be incorporated into the
+>    daily
+>    > schedule.
+>    >
+>    > Issue number 2 - According to a diagnostic report the agent machine
+>    lost
+>    > connection with the NIS server for a greater period of time than what
+>    the
+>    > default settings were set.  The agent is set to retry every 120
+>    seconds up
+>    > to 12 times.  After this period, manual activation is required.  I
+>    signed
+>    > on as CTMAGENT user and ran ag_menu.  Ran option 2 which showed the
+>    NIS as
+>    > down.  I then signed on as the Control-M user and ran ctm_menu.
+>    Selected
+>    > 7 - Agent Status,  Selected 2 - List all agent platforms unavailable.
+>    > Agent on BMC was in unavailable status.  Next Selected option 3 -
+>    Change
+>    > agent platform to Available status.  After doing that, all the jobs
+>    turned
+>    > to gray status and started running.
+>    >
+>    > Cleaned up 2 erroneous agent names defined to Control-M/Server.
+>    >
+>    > I also ran a Trouble Shooting Report which produced a file
+>    > (/var/home/ctlm00/report.1116001128)  from this file we could tell
+>    when
+>    > the Log filed filled up and when the Agent stopped.
+>    >
+>    > I set up 500 jobs to run daily on BMC with multiple dependencies.
+> All
+>    ran
+>    > ok.
+>    >
+>    > I set up aprox. another 150 cyclic jobs with dependencies to run on
+>    > OCSDEV-1.  They failed due to not using the correct Owner.  Rusty
+>    knows
+>    > what the correct owner should be.  I believed I used CTLM00.
+>    >
+>    > New Day process ran for approx. 12 mins.
+>    >
+>    > Right before leaving Rusty ran a clean_db script, which resulted in
+>    > cleaning out the entire database.  Fortunately by design, we were
+> able
+>    to
+>    > demonstrate the recoverability by uploading the tables from ECS to
+> the
+>    > Control-M Server.  In less than 5 minutes all was ok.
+>    >
+>    > When I left there were approx. 900 jobs running.  Of those approx.
+> 400
+>    > jobs were running cyclic, every 2 minutes.  Which meant on a daily
+>    basis
+>    > approx. 14,500 jobs ran per day.
+>    >
+>    > Larry, I know you asked for some type of hardware recommendations.
+>    These
+>    > is something that's very subjective.  As with almost any software the
+>    more
+>    > memory and faster CPU the better.  To do this correctly, we should
+>    have
+>    > our Professional Services come in and do some type of assessment of
+>    your
+>    > environment and the direction your heading.  How many jobs per day,
+>    today,
+>    > near future, etc....  How many Users of ECS?  How many Servers?
+>    >
+>    > In your test environment you should be able to run 2000 jobs without
+> a
+>    > major problem.  Your ECS NT box is on the small size, at least in the
+>    > memory area.  So your responses might not be as fast as desired.
+>    Please
+>    > remember the out of the box default settings are not tuned to run a
+>    large
+>    > number of jobs.  Therefore database tuning is always recommended.
+>    These
+>    > tuning recommendations are provided by Professional Services.
+>    >
+>    > By tomorrow I will send you the daily utilities.
+>    >
+>    > Thanks,
+>    >
+>    > Ronnie Sapp
+>    > bmcsoftware
+>    > INCONTROL Business Unit
+>    > Software Consultant Manager
+>    > West Region
+>    > 972-934-5065
+>    > ronnie_sapp@bmc.com
+>    >
+>    >
+>
+>     - C.DTF << File: C.DTF >>
+
+From MAILER-DAEMON Mon Apr 18 14:26:11 2022
+Message-ID: <15168578.1075849627778.JavaMail.evans@thyme>
+Date: Thu, 30 Nov 2000 10:13:00 -0800 (PST)
+From: jeff.youngflesh@enron.com
+To: chaz.vaughan@enron.com, stephen.morse@enron.com
+Subject: EBS opp'ty w/BMC
+Cc: jennifer.medcalf@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jennifer.medcalf@enron.com
+X-From: Jeff Youngflesh
+X-To: Chaz Vaughan, Stephen Morse
+X-cc: Jennifer Medcalf
+X-bcc: 
+X-Folder: \John_Arnold_Nov2001\Notes Folders\Bmc
+X-Origin: ARNOLD-J
+X-FileName: jarnold.nsf
+
+Chaz & Steve,
+
+I was able to review our recently completed conference call w/BMC with 
+Jennifer Medcalf.  
+
+During the call, Bernie Goicoechea and Ann(e?) Munson expressed that during 
+their last few months of interaction with Enron Net Works, they have 
+attempted to understand the exact issues and concerns which Net Works has 
+with regard to selection/use of BMC's products.  Bernie voiced that he hasn't 
+been able to get more detail on the problems or nature of concerns that Net 
+Works has, beyond what you and I know.  The BMC account team feels that 
+without specifics, they cannot address the issues accurately or in a timely 
+fashion.
+
+The Enron Net Works team has expressed concern that various BMC products are 
+not Windows 2000 certified (at least, not the ones they are focused on, and 
+not in writing).  Net Works also have some other concerns relative to the 
+(Net Works) team's feelings that the BMC products (in some areas) "...haven't 
+kept up with the industry", and that they (Net Works) have some residual 
+issues with the BMC account support in general.  Bottom Line, expressed by 
+Net Works, is that there is a low probability of their purchasing enough BMC 
+software product this year to enable EBS to clinch its deal with BMC.
+
+You related Jim Crowder's suggestion related to the use of indemnification 
+and liquidated damages clauses being implemented.  Jennifer and I discussed 
+this situation, and our meetings with your team, in context.  We have a 
+possible alternative for you to consider:  perhaps EBS might provide a hedge 
+for Net Works in the form of "advance purchase" of BMC product.
+
+For example, EBS is poised to buy about $1 million worth of BMC software, but 
+needs to show BMC a firm purchase commitment for about $3 million in total 
+Enron purchases from BMC.  A way in which you could reach the $3 million mark 
+with BMC; while also allowing the relationships between Net Works and BMC 
+time to "click" might be this:  EBS buys all $3 million worth of BMC 
+software, but $1 million is used to actually take product now, and the other 
+$2 million is used as a "future purchases" fund, in which EBS buys, but does 
+not take immediate delivery of, the (remaining $2 million worth of) current 
+software...
+
+THEN, future Enron Net Works (and any other ENE business unit) purchases of 
+BMC software would be executed such that EBS is paid, and the software is 
+delivered from/by BMC.  That way, EBS gets its $2 million back, the other 
+business units aren't spending any of today's dollars for product which they 
+seem to have some concerns about (but they can get current/certified product 
+when they need it in the future).  In addition, you secure the business with 
+BMC right now.  I'm sure you could also figure out how to account for the 
+time value of money in this, so that there is further leverage advantage to 
+you.
+
+If all else fails, you may wish to consider something like this...In the 
+meantime, we will continue along the current path and keep you posted on 
+progress.
+
+Thanks,
+
+Jeff
+
+Jeff Youngflesh
+Director, Business Development
+Global Strategic Sourcing
+Enron Corp.
+333 Clay Street, 11th Floor
+Houston, TX 77002
+t:  713-345-5968
+f:  713-646-2450
+c:  713-410-6716
+
+From MAILER-DAEMON Mon Apr 18 14:26:11 2022
+Message-ID: <33209767.1075849628120.JavaMail.evans@thyme>
+Date: Fri, 15 Dec 2000 09:43:00 -0800 (PST)
+From: jeff.youngflesh@enron.com
+To: chaz.vaughan@enron.com, stephen.morse@enron.com
+Subject: Re: BMC update, 17:15
+Cc: jennifer.medcalf@enron.com, bob.mcauliffe@enron.com,
+	douglas.cummins@enron.com, randy.matson@enron.com, jim.ogg@enron.com,
+	bob.hillier@enron.com, bruce.smith@enron.com, peter.goebel@enron.com,
+	darin.carlisle@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jennifer.medcalf@enron.com, bob.mcauliffe@enron.com,
+	douglas.cummins@enron.com, randy.matson@enron.com, jim.ogg@enron.com,
+	bob.hillier@enron.com, bruce.smith@enron.com, peter.goebel@enron.com,
+	darin.carlisle@enron.com
+X-From: Jeff Youngflesh
+X-To: Chaz Vaughan, Stephen Morse
+X-cc: Jennifer Medcalf, Bob McAuliffe, Douglas Cummins, Randy Matson, Jim Ogg, Bob Hillier, Bruce Smith, Peter Goebel, Darin Carlisle
+X-bcc: 
+X-Folder: \John_Arnold_Nov2001\Notes Folders\Bmc
+X-Origin: ARNOLD-J
+X-FileName: jarnold.nsf
+
+Chaz and Steve,
+
+Here's the latest, in a nutshell.  Basically, the testing is not fully 
+completed, even where we might have felt that it was close (because there is 
+also a financial component which needs to be exercised - the TCO part of the 
+purchase decision).  As you know, both Randy Matson and Bob McAuliffe are out 
+on vacation, so getting a decision from them is not likely before Christmas.  
+However, it looks like there has been enough feedback to/through them to 
+surmise that BMC is not in the driver's seat in either situation.
+
+In a meeting today, it became apparent that BMC's revenue opportunity with 
+the Net Works organization is much lower than BMC has projected to you at 
+EBS.  The primary opportunity for BMC in Net Works is for their Schema 
+Manager tool, and the rest of the opportunities look increasingly dim, 
+especially given the time constraints imposed in your situation.  
+
+Still, the Net Works team has not completely ruled BMC out as a potential 
+vendor; but neither is there a commitment (written OR verbal) to make a BMC 
+purchase at this point.  I will be on vacation next week, but will be 
+checking in on Monday the 18th and Tuesday the 19th.  Jennifer or I will keep 
+you posted if we are able to report opportunity changes in your favor.
+
+I have sent you a paraphrased version of Doug's most recent communication to 
+me.  The overall message would apply fairly universally to the other Net 
+Works teams in question:  more testing, but looks like BMC's total sales 
+opportunity to Enron is not going to get to the amount necessary to get your 
+deal done.  The issues mentioned in the other summary update note from 
+yesterday still apply.
+
+Thank you,
+
+Jeff
+
+----- Forwarded by Jeff Youngflesh/NA/Enron on 12/15/2000 05:15 PM -----
+
+	Douglas Cummins@ECT
+	12/15/2000 04:14 PM
+		
+		 To: Jeff Youngflesh/NA/Enron@ENRON
+		 cc: 
+		 Subject: Re: BMC Summary to-date
+
+Jeff,
+
+We backed away from Patrol for monitoring - we feel that a competitor's 
+solution is a better one for us.
+
+My group still considers BMC's Schema Manager tool to be an excellent 
+product, and would consider it to be a viable option for purchase.  I believe 
+Net Works will still evaluate more similar tools, and related design tools, 
+before making a decision.
+
+Regards,
+Douglas
+
+From MAILER-DAEMON Mon Apr 18 14:26:11 2022
+Message-ID: <11831527.1075849627855.JavaMail.evans@thyme>
+Date: Mon, 11 Dec 2000 01:21:00 -0800 (PST)
+From: jeff.youngflesh@enron.com
+To: jennifer.medcalf@enron.com, peter.goebel@enron.com
+Subject: Product Quotes and Software License Agreement (BMC / EBS info)
+Cc: glenn.lewis@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: glenn.lewis@enron.com
+X-From: Jeff Youngflesh
+X-To: Jennifer Medcalf, Peter Goebel
+X-cc: Glenn Lewis
+X-bcc: 
+X-Folder: \John_Arnold_Nov2001\Notes Folders\Bmc
+X-Origin: ARNOLD-J
+X-FileName: jarnold.nsf
+
+Jennifer and Peter, welcome back...!
+
+Attached are the notes from the EBS team and BMC organization regarding the 
+proposals to EBS and Net Works (etc.) from BMC.
+
+I am curious, Peter (or Glenn), if it is reasonable of BMC to make the 
+statement to the effect that, "...the 45% discount is applied only if
+we have the EBS Enron Partnership agreement in place...".  Is that cutting it 
+close on the restraint of trade issue?
+
+Bob McAuliffe has informed me in a note that if his people (Matson & Cumming) 
+choose the BMC product at testing conclusion, he would support their 
+decision.  Smith and Ogg have given "no go" indications.  I have received 
+that information from Bruce Smith in a telephone conversation, but Jim Ogg's 
+lack of communication with me is what I have used to draw a similar 
+conclusion for his situation...
+
+BMC and EBS both, I believe, are wanting GSS to do the contract work for this 
+deal.  It is my understanding, Peter, that the timing of that request might 
+be a problem for your guys...Perhaps we should have a quick, informal pow-wow 
+about this?
+
+Thanks,
+Jeff
+----- Forwarded by Jeff Youngflesh/NA/Enron on 12/11/2000 09:08 AM -----
+
+	Stephen Morse@ENRON COMMUNICATIONS
+	12/07/2000 05:55 PM
+		 
+		 To: Jeff Youngflesh/NA/Enron@ENRON
+		 cc: Chaz Vaughan/Enron Communications@Enron Communications
+		 Subject: Product Quotes and Software License Agreement
+
+Jeff,
+
+Attached are all the outstanding deal proposals from BMC.  Lets push for some 
+addl discounts so we can get each of these guys a "win".  I have asked our 
+BMC contacts to reduce these quotes already due to our partnership but I am 
+sure you know how to handle this best.
+
+We need your help Jeff, we cant do it without you.
+
+Thanks,
+
+STeve
+
+
+Steve Morse
+Enron Broadband Services
+713-853-7137-work
+713-569-7912-cell
+email:  stephen_morse@enron.net
+----- Forwarded by Stephen Morse/Enron Communications on 12/07/00 05:55 PM 
+-----
+
+	Ann_Munson@bmc.com
+	12/07/00 10:13 AM
+		 
+		 To: Stephen Morse/Enron Communications@Enron Communications
+		 cc: Chaz Vaughan/Enron Communications@Enron Communications, 
+Bernie_Goicoechea@bmc.com
+		 Subject: Product Quotes and Software License Agreement
+
+
+
+Hi Steve,
+
+It was nice talking to you.  Included here are the Product quotes that we
+sent to the groups.  The Incontrol has multiple spreadsheets for Bruce
+Smith's projects.  Real Media is for Everett.  The other two are self
+explanatory.
+
+The concern that we have is that there is still not a quote for Jim Ogg and
+therefore it is not a quantified amount for the deal we're doing together.
+That is significant because it effects discounts, volume, and certainly the
+more BMC product that Enron targets the better for this deal.
+
+As mentioned in the phone call, I'll send you a soft copy of the Enron Corp
+(which includes EBS) software license agreement with BMC if I can get it for
+you.  Otherwise it will be a hard copy when you come over today.  It
+includes the terms of liability, warranty, etc.
+
+I look forward to seeing you today.
+
+Best regards,
+Ann
+ <<Enron RealMedia KM Order 2.xls>>  <<Enron - Doug Cummins team.xls>>
+<<Enron - Randy Matson team.xls>>  <<Enron INCONTROL Product Order Form
+11-28-00.xls>>
+
+Ann M.  Munson
+Senior Sales Representative
+BMC Software
+713-918-4569  Direct
+713-918-8001  Fax
+amunson@bmc.com
+
+
+ - Enron RealMedia KM Order 2.xls
+ - Enron - Doug Cummins team.xls
+ - Enron - Randy Matson team.xls
+ - Enron INCONTROL Product Order Form 11-28-00.xls
+
+----- Forwarded by Jeff Youngflesh/NA/Enron on 12/11/2000 09:08 AM -----
+
+	"Munson, Ann" <Ann_Munson@bmc.com>
+	12/08/2000 02:46 PM
+		 
+		 To: "'jeff_youngflesh@enron.com'" <jeff_youngflesh@enron.com>
+		 cc: "'stephen_morse@enron.net'" <stephen_morse@enron.net>, 
+"'chaz_vaughan@enron.net'" <chaz_vaughan@enron.net>, "Goicoechea, Bernie" 
+<Bernie_Goicoechea@bmc.com>
+		 Subject: The EBS Enron agreement
+
+Hi Jeff,
+
+I hope you are doing well.  There have been some interesting developments on
+the way to the Enron Broadband/BMC agreement since we last spoke.
+Apparently, it is extremely important to Jim Crowder to get this agreement
+in place by December 15.  As a result of the conversation between Jim
+Crowder and Jeff Hawn, BMC Exec., I have been directed to help Steve Morse
+and Chaz Vaughan in leveraging the best deal possible for the various
+projects that Enron is considering with BMC.  As you are aware, we have
+already proposed several individual deals.  In addition to those we are
+including some deals in which there has been an expressed interest so that
+Enron can take advantage of the pricing that this partnership will bring to
+you.
+
+The purpose of this e-mail is to give you a heads up on the acceleration of
+timing that we have been directed to work towards and to let you know that
+we have already agreed to bring our price down in order to make the price
+more attractive to Enron.  We would very much appreciate your help in
+expediting the process of bringing this agreement to closure.  In my next
+e-mail I will send you a list of all the outstanding BMC proposals to Enron.
+
+Best regards,
+
+Ann M.  Munson
+Senior Sales Representative
+BMC Software
+713-918-4569  Direct
+713-918-8001  Fax
+amunson@bmc.com
+
+
+----- Forwarded by Jeff Youngflesh/NA/Enron on 12/11/2000 09:08 AM -----
+
+	"Munson, Ann" <Ann_Munson@bmc.com>
+	12/08/2000 03:34 PM
+		 
+		 To: "'jeff_youngflesh@enron.com'" <jeff_youngflesh@enron.com>
+		 cc: "'chaz_vaughan@enron.net'" <chaz_vaughan@enron.net>, 
+"'stephen_morse@enron.net'" <stephen_morse@enron.net>, "Goicoechea, Bernie" 
+<Bernie_Goicoechea@bmc.com>
+		 Subject: BMC Projects at Enron
+
+
+Hi Jeff,
+
+Here's the attachments I told you that I would send you.  The Incontrol
+contains two spreadsheets.
+
+ <<Enron - Doug Cummins team.xls>>  <<Enron - Randy Matson team.xls>>
+<<Enron - Ogg's DBs.xls>>  <<Enron INCONTROL Products.xls>>  <<Enron
+Wholesale UNIX - Storage.xls>>  <<EBS-Storage1.doc>>  <<Enron RealMedia KM
+Order 2.xls>>
+
+Taker care,
+
+Ann M.  Munson
+Senior Sales Representative
+BMC Software
+713-918-4569  Direct
+713-918-8001  Fax
+amunson@bmc.com
+
+
+ - Enron - Doug Cummins team.xls
+ - Enron - Randy Matson team.xls
+ - Enron - Ogg's DBs.xls
+ - Enron INCONTROL Products.xls
+ - Enron Wholesale UNIX - Storage.xls
+ - EBS-Storage1.doc
+ - Enron RealMedia KM Order 2.xls
+----- Forwarded by Jeff Youngflesh/NA/Enron on 12/11/2000 09:08 AM -----
+
+	"Munson, Ann" <Ann_Munson@bmc.com>
+	12/08/2000 05:36 PM
+		 
+		 To: "'jeff_youngflesh@enron.com'" <jeff_youngflesh@enron.com>
+		 cc: "'stephen_morse@enron.net'" <stephen_morse@enron.net>, 
+"'chaz_vaughan@enron.net'" <chaz_vaughan@enron.net>, "Goicoechea, Bernie" 
+<Bernie_Goicoechea@bmc.com>
+		 Subject: Application of the Discount
+
+Hi Jeff,
+
+I'm sure you already realize this, but for the sake of clarification, it's
+important to make sure that I state that the 45% discount is applied only if
+we have the EBS Enron Partnership agreement in place.
+
+Best regards,
+Ann
+
+Ann M.  Munson
+Senior Sales Representative
+BMC Software
+713-918-4569  Direct
+713-918-8001  Fax
+amunson@bmc.com
+
+
+----- Forwarded by Jeff Youngflesh/NA/Enron on 12/11/2000 09:08 AM -----
+
+	"Munson, Ann" <Ann_Munson@bmc.com>
+	12/08/2000 05:55 PM
+		 
+		 To: "'jeff_youngflesh@enron.com'" <jeff_youngflesh@enron.com>
+		 cc: "'Chaz_vaughan@enron.net'" <Chaz_vaughan@enron.net>, 
+"'stephen_morse@enron.net'" <stephen_morse@enron.net>
+		 Subject: Please Use this Attachment...
+
+
+....to replace the Word Document that I sent you previously.  As per my
+voice mail to you.
+
+ <<EBS Backoffice - Storage.xls>>
+
+Ann M.  Munson
+Senior Sales Representative
+BMC Software
+713-918-4569  Direct
+713-918-8001  Fax
+amunson@bmc.com
+
+
+ - EBS Backoffice - Storage.xls
+
+From MAILER-DAEMON Mon Apr 18 14:26:11 2022
+Message-ID: <31903951.1075849627905.JavaMail.evans@thyme>
+Date: Tue, 12 Dec 2000 05:56:00 -0800 (PST)
+From: jeff.youngflesh@enron.com
+To: eric.merten@enron.com, tom.moore@enron.com
+Subject: EBS Professional Services Agreement
+Cc: jennifer.medcalf@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jennifer.medcalf@enron.com
+X-From: Jeff Youngflesh
+X-To: Eric Merten, Tom O Moore
+X-cc: Jennifer Medcalf
+X-bcc: 
+X-Folder: \John_Arnold_Nov2001\Notes Folders\Bmc
+X-Origin: ARNOLD-J
+X-FileName: jarnold.nsf
+
+Eric, 
+
+Thank you very much for taking the time to speak with Tom Moore and me.  
+Attached is the (only) contract which I have received from the EBS 
+origination team trying to close a deal with BMC Software.  Steve Morse and 
+Chaz Vaughan report to Brad Nebergall (VP, Central Origination, EBS), who 
+reports to Jim Crowder (VP, Enterprise Services, EBS).  
+
+Please review, and provide your feedback to me, the EBS origination team 
+(Chaz, Steve, and Brad Nebergall), and Tom Moore.  
+
+If there are any other EBS deals/contracts on the table involving BMC, I 
+would like to do whatever I could to help them close on this.  Please let me 
+know if I can do anything else for you!  You can reach me at (x55968) or Tom 
+at (x55552).  The origination team is at (Chaz: x58815, Steve: x37137, Brad: 
+x34714).  On a final note, the originators have repeatedly driven home the 
+point that they must have this deal closed with BMC by end-of-day this 
+Friday, December 15.  I am focused on helping them win the business however I 
+can.
+
+Thank you,
+
+Jeff
+
+Jeff Youngflesh
+Director, Business Development
+Global Strategic Sourcing
+Enron Corp.
+333 Clay Street, 11th Floor
+Houston, TX 77002
+t:  713-345-5968
+f:  713-646-2450
+c:  713-410-6716
+
+
+----- Forwarded by Jeff Youngflesh/NA/Enron on 12/12/2000 01:46 PM -----
+
+	Stephen Morse@ENRON COMMUNICATIONS
+	12/11/2000 03:20 PM
+		 
+		 To: Chaz Vaughan/Enron Communications@Enron Communications
+		 cc: Jeff Youngflesh/NA/Enron@ENRON
+		 Subject: EBS Professional Services Agreement
+
+
+Chaz,
+
+I assume Jeff is running with this.  The contract needs to be in place by 
+Thurs. 6pm CST in coordination with the EBS agreement.
+
+Thanks,
+
+Steve
+
+Steve Morse
+Enron Broadband Services
+713-853-7137-work
+713-569-7912-cell
+email:  stephen_morse@enron.net
+----- Forwarded by Stephen Morse/Enron Communications on 12/11/00 03:24 PM 
+-----
+
+	Jeremy_Aber@bmc.com
+	12/08/00 03:35 PM
+		 
+		 To: Stephen Morse/Enron Communications@Enron Communications, Chaz 
+Vaughan/Enron Communications@Enron Communications
+		 cc: Ann_Munson@bmc.com, Joe_Young@bmc.com, Tari_Hoekel@bmc.com
+		 Subject: EBS Professional Services Agreement
+
+
+
+At the request of Ann Munson, attached is a revised draft of the Enron
+Broadband Services Professional Services agreement.
+
+This draft should replace any previous drafts sent.
+
+
+ <<Enron Broadband Services Agreement 120800.doc>>
+
+Jeremy Aber
+Senior Legal Counsel
+BMC Software, Inc.
+Tel:  713/918-3743
+Fax: 713/918-7306
+jeremy_aber@bmc.com
+
+The information contained in and transmitted with this e-mail is (a) Subject
+to attorney/client privilege; (b) Attorney work product; and (c)
+Confidential.
+
+
+ - Enron Broadband Services Agreement 120800.doc
+
+From MAILER-DAEMON Mon Apr 18 14:26:11 2022
+Message-ID: <27247185.1075849627952.JavaMail.evans@thyme>
+Date: Tue, 12 Dec 2000 08:43:00 -0800 (PST)
+From: jeff.youngflesh@enron.com
+To: stephen.morse@enron.com, chaz.vaughan@enron.com
+Subject: BMC Update
+Cc: jennifer.medcalf@enron.com, brad.nebergall@enron.com, eric.merten@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jennifer.medcalf@enron.com, brad.nebergall@enron.com, eric.merten@enron.com
+X-From: Jeff Youngflesh
+X-To: Stephen Morse, Chaz Vaughan
+X-cc: Jennifer Medcalf, Brad Nebergall, Eric Merten
+X-bcc: 
+X-Folder: \John_Arnold_Nov2001\Notes Folders\Bmc
+X-Origin: ARNOLD-J
+X-FileName: jarnold.nsf
+
+Steve/Chaz - 
+
+I have taken your EBS Professional Services contract through our contracts 
+folks, and we have ended up with it now being in EBS' contracts dept w/one of 
+your attorneys.  Our contracts Director, Tom Moore, and I spoke w/Eric Merten 
+(PDX) early this afternoon, and he now has the contract.  EBS may have some 
+Intellectual Property issues related to ownership of BMC Consultant-developed 
+materials (while being paid by Enron).  Eric is in the driver's seat with the 
+contract at this point.  
+
+I have sent notes to all of the Net Works directors currently engaged in one 
+form or another with BMC product and/or personnel.  In it, they have been 
+requested to help us understand our opportunity from a number of angles:  
+Application(s) considered, attractiveness of the new pricing, attractiveness 
+of the BMC flexibility w/regard to "purchase commitment", etc.  In addition, 
+I have re-iterated the time urgency.
+
+I have followed up the note w/telephone calls & messages to all of them:  
+Doug Cummins, Randy Matson, Bob Martinez, Jim Ogg, and Bruce Smith.  I am 
+meeting with Bob Martinez on Wednesday at 3pm.  Matson, Ogg, and Smith have 
+me in their voicemailbox, Cummins was in a meeting and he said he would call 
+me back.
+
+Would either one of you please let me know what BMC wants EBS to do for 
+them:  how much do they want you to guarantee them in BMC revenue?  Are you 
+still looking at a $13MM TCV over 5 years?  Have I properly conveyed the 
+"accepable-to-BMC method" of proving purchase commitment from Enron?  Your 
+note re:  getting the Prof'nl Svcs contract signed says it has to be done by 
+6pm the 14th...what if you don't get it until the morning of the 15th?
+
+I will call you to follow up on this note.
+
+Thank you,
+
+Jeff Youngflesh
+
+From MAILER-DAEMON Mon Apr 18 14:26:11 2022
+Message-ID: <26121023.1075849627976.JavaMail.evans@thyme>
+Date: Wed, 13 Dec 2000 02:38:00 -0800 (PST)
+From: jeff.youngflesh@enron.com
+To: chaz.vaughan@enron.com, stephen.morse@enron.com
+Subject: Re: BMC Update, clarification
+Cc: jennifer.medcalf@enron.com, brad.nebergall@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jennifer.medcalf@enron.com, brad.nebergall@enron.com
+X-From: Jeff Youngflesh
+X-To: Chaz Vaughan, Stephen Morse
+X-cc: Jennifer Medcalf, Brad Nebergall
+X-bcc: 
+X-Folder: \John_Arnold_Nov2001\Notes Folders\Bmc
+X-Origin: ARNOLD-J
+X-FileName: jarnold.nsf
+
+Thanks, Chaz, for the response.  What I am looking for in question #3 
+(purchase commitment) is did I convey the info correctly re:  what BMC will 
+accept from Enron to allow the EBS deal to close?  From notes to the Net 
+Works directors and Bob McAuliffe, I have copied the following statements 
+into the space below:  
+
+"1)  The pricing is applicable if EBS gets their deal done, and you are 
+willing to provide some form of commitment (at least in writing, either 
+e-mail or letterhead) to purchasing a BMC product in 2001...  For example, if 
+Randy Matson's team chose the BMC solution at the conclusion of their current 
+testing, they could lock in the discount at 45% by sending an e-mail (or 
+other form of written communication) committing to the purchase in 2001 (the 
+preference would be to get the "buy" done by end of 1st Qtr, if possible).  
+This would be sufficient commitment for BMC to go forward with their 
+purchases of EBS' solutions currently proposed to BMC."  Is this correct the 
+way I have presented it to NetWorks?  Will their replies work for you if 
+completed as requested above?
+ 
+I didn't want to put you in a bind when I told the NetWorks teams what BMC 
+would feel is acceptable proof-of-commitment, nor did I want to have to go 
+back to the Net Works group and change the requirements.
+
+I've got another note to send you in a minute or so, from Doug Cummins.
+
+Thank you,
+Jeff
+
+
+
+
+
+	Chaz Vaughan@ENRON COMMUNICATIONS
+	12/12/2000 07:29 PM
+		
+		 To: Jeff Youngflesh/NA/Enron@ENRON
+		 cc: Stephen Morse/Enron Communications@Enron Communications
+		 Subject: Re: BMC Update
+
+Jeff,
+
+Thank you for your efforts on the BMC deal.  We are making real progress.  
+Here are the answers to your questions:
+
+1.  How much do they want you to guarantee them in BMC revenue?  
+$4 MM in software and $2.4 MM in maintenance and professional services
+2.  Are you still looking at a $13MM TCV over 5 years?  
+No, our current TCV over 5 years is $10 MM 
+3.  Have I properly conveyed the "accepable-to-BMC method" of proving 
+purchase commitment from Enron?  
+Not sure what you mean here
+4.  Your note re:  getting the Prof'nl Svcs contract signed says it has to be 
+done by 6pm the 14th...what if you don't get it until the morning of the 15th?
+We prefer the 14th, but if we can't get it until the 15th, that will work
+
+
+Please let me know if you have any other questions.  I will call you tomorrow 
+to touch base.
+
+Thanks,
+
+Chaz Vaughan
+Enron Broadband Services
+1400 Smith Street
+Houston, TX  77002
+Ph:  713-345-8815
+Cell: 713-444-3074
+Fax: 713-853-7354
+Chaz_Vaughan@enron.net 
+
+
+
+	Jeff Youngflesh@ENRON
+	12/12/00 04:43 PM
+		 
+		 To: Stephen Morse/Enron Communications@Enron Communications, Chaz 
+Vaughan/Enron Communications@Enron Communications
+		 cc: Jennifer Medcalf/NA/Enron@Enron, Brad Nebergall/Enron 
+Communications@Enron Communications, Eric Merten/Enron Communications@Enron 
+Communications
+		 Subject: BMC Update
+
+Steve/Chaz - 
+
+I have taken your EBS Professional Services contract through our contracts 
+folks, and we have ended up with it now being in EBS' contracts dept w/one of 
+your attorneys.  Our contracts Director, Tom Moore, and I spoke w/Eric Merten 
+(PDX) early this afternoon, and he now has the contract.  EBS may have some 
+Intellectual Property issues related to ownership of BMC Consultant-developed 
+materials (while being paid by Enron).  Eric is in the driver's seat with the 
+contract at this point.  
+
+I have sent notes to all of the Net Works directors currently engaged in one 
+form or another with BMC product and/or personnel.  In it, they have been 
+requested to help us understand our opportunity from a number of angles:  
+Application(s) considered, attractiveness of the new pricing, attractiveness 
+of the BMC flexibility w/regard to "purchase commitment", etc.  In addition, 
+I have re-iterated the time urgency.
+
+I have followed up the note w/telephone calls & messages to all of them:  
+Doug Cummins, Randy Matson, Bob Martinez, Jim Ogg, and Bruce Smith.  I am 
+meeting with Bob Martinez on Wednesday at 3pm.  Matson, Ogg, and Smith have 
+me in their voicemailbox, Cummins was in a meeting and he said he would call 
+me back.
+
+Would either one of you please let me know what BMC wants EBS to do for 
+them:  how much do they want you to guarantee them in BMC revenue?  Are you 
+still looking at a $13MM TCV over 5 years?  Have I properly conveyed the 
+"accepable-to-BMC method" of proving purchase commitment from Enron?  Your 
+note re:  getting the Prof'nl Svcs contract signed says it has to be done by 
+6pm the 14th...what if you don't get it until the morning of the 15th?
+
+I will call you to follow up on this note.
+
+Thank you,
+
+Jeff Youngflesh
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:11 2022
+Message-ID: <8920066.1075849627881.JavaMail.evans@thyme>
+Date: Tue, 12 Dec 2000 00:58:00 -0800 (PST)
+From: peter.goebel@enron.com
+To: jeff.youngflesh@enron.com
+Subject: Re: Product Quotes and Software License Agreement (BMC / EBS info)
+Cc: glenn.lewis@enron.com, jennifer.medcalf@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: glenn.lewis@enron.com, jennifer.medcalf@enron.com
+X-From: Peter Goebel
+X-To: Jeff Youngflesh
+X-cc: Glenn Lewis, Jennifer Medcalf
+X-bcc: 
+X-Folder: \John_Arnold_Nov2001\Notes Folders\Bmc
+X-Origin: ARNOLD-J
+X-FileName: jarnold.nsf
+
+Jeff,
+
+Two points:  1)  We do not want to tie the deals together in any form of 
+written communication.  We must be very careful going down this path. Your 
+comment below is very valid.  2) Having said that, we can certainly help 
+facilitate putting together an agreement with the understanding that I will 
+not put my people through a fire drill.  We need total buy in from all the 
+parties.  GSS has already wasted a lot of time on this process.  Let us know 
+the next step and Glenn and I will be happy to help with the agreement.
+
+Cheers!
+
+Peter L. Goebel
+Director, Sourcing Portfolio Leader - IT & Utilities
+Global Strategic Sourcing
+Work: 713-646-7810
+Cell: 713-851-5673
+
+
+
+
+
+	Jeff Youngflesh
+	12/11/2000 09:21 AM
+		 
+		 To: Jennifer Medcalf/NA/Enron@Enron, Peter Goebel/NA/Enron@Enron
+		 cc: Glenn Lewis/NA/Enron@ENRON
+		 Subject: Product Quotes and Software License Agreement (BMC / EBS info)
+
+Jennifer and Peter, welcome back...!
+
+Attached are the notes from the EBS team and BMC organization regarding the 
+proposals to EBS and Net Works (etc.) from BMC.
+
+I am curious, Peter (or Glenn), if it is reasonable of BMC to make the 
+statement to the effect that, "...the 45% discount is applied only if
+we have the EBS Enron Partnership agreement in place...".  Is that cutting it 
+close on the restraint of trade issue?
+
+Bob McAuliffe has informed me in a note that if his people (Matson & Cumming) 
+choose the BMC product at testing conclusion, he would support their 
+decision.  Smith and Ogg have given "no go" indications.  I have received 
+that information from Bruce Smith in a telephone conversation, but Jim Ogg's 
+lack of communication with me is what I have used to draw a similar 
+conclusion for his situation...
+
+BMC and EBS both, I believe, are wanting GSS to do the contract work for this 
+deal.  It is my understanding, Peter, that the timing of that request might 
+be a problem for your guys...Perhaps we should have a quick, informal pow-wow 
+about this?
+
+Thanks,
+Jeff
+----- Forwarded by Jeff Youngflesh/NA/Enron on 12/11/2000 09:08 AM -----
+
+	Stephen Morse@ENRON COMMUNICATIONS
+	12/07/2000 05:55 PM
+		 
+		 To: Jeff Youngflesh/NA/Enron@ENRON
+		 cc: Chaz Vaughan/Enron Communications@Enron Communications
+		 Subject: Product Quotes and Software License Agreement
+
+Jeff,
+
+Attached are all the outstanding deal proposals from BMC.  Lets push for some 
+addl discounts so we can get each of these guys a "win".  I have asked our 
+BMC contacts to reduce these quotes already due to our partnership but I am 
+sure you know how to handle this best.
+
+We need your help Jeff, we cant do it without you.
+
+Thanks,
+
+STeve
+
+
+Steve Morse
+Enron Broadband Services
+713-853-7137-work
+713-569-7912-cell
+email:  stephen_morse@enron.net
+----- Forwarded by Stephen Morse/Enron Communications on 12/07/00 05:55 PM 
+-----
+
+	Ann_Munson@bmc.com
+	12/07/00 10:13 AM
+		 
+		 To: Stephen Morse/Enron Communications@Enron Communications
+		 cc: Chaz Vaughan/Enron Communications@Enron Communications, 
+Bernie_Goicoechea@bmc.com
+		 Subject: Product Quotes and Software License Agreement
+
+
+
+Hi Steve,
+
+It was nice talking to you.  Included here are the Product quotes that we
+sent to the groups.  The Incontrol has multiple spreadsheets for Bruce
+Smith's projects.  Real Media is for Everett.  The other two are self
+explanatory.
+
+The concern that we have is that there is still not a quote for Jim Ogg and
+therefore it is not a quantified amount for the deal we're doing together.
+That is significant because it effects discounts, volume, and certainly the
+more BMC product that Enron targets the better for this deal.
+
+As mentioned in the phone call, I'll send you a soft copy of the Enron Corp
+(which includes EBS) software license agreement with BMC if I can get it for
+you.  Otherwise it will be a hard copy when you come over today.  It
+includes the terms of liability, warranty, etc.
+
+I look forward to seeing you today.
+
+Best regards,
+Ann
+ <<Enron RealMedia KM Order 2.xls>>  <<Enron - Doug Cummins team.xls>>
+<<Enron - Randy Matson team.xls>>  <<Enron INCONTROL Product Order Form
+11-28-00.xls>>
+
+Ann M.  Munson
+Senior Sales Representative
+BMC Software
+713-918-4569  Direct
+713-918-8001  Fax
+amunson@bmc.com
+
+
+ - Enron RealMedia KM Order 2.xls
+ - Enron - Doug Cummins team.xls
+ - Enron - Randy Matson team.xls
+ - Enron INCONTROL Product Order Form 11-28-00.xls
+
+----- Forwarded by Jeff Youngflesh/NA/Enron on 12/11/2000 09:08 AM -----
+
+	"Munson, Ann" <Ann_Munson@bmc.com>
+	12/08/2000 02:46 PM
+		 
+		 To: "'jeff_youngflesh@enron.com'" <jeff_youngflesh@enron.com>
+		 cc: "'stephen_morse@enron.net'" <stephen_morse@enron.net>, 
+"'chaz_vaughan@enron.net'" <chaz_vaughan@enron.net>, "Goicoechea, Bernie" 
+<Bernie_Goicoechea@bmc.com>
+		 Subject: The EBS Enron agreement
+
+Hi Jeff,
+
+I hope you are doing well.  There have been some interesting developments on
+the way to the Enron Broadband/BMC agreement since we last spoke.
+Apparently, it is extremely important to Jim Crowder to get this agreement
+in place by December 15.  As a result of the conversation between Jim
+Crowder and Jeff Hawn, BMC Exec., I have been directed to help Steve Morse
+and Chaz Vaughan in leveraging the best deal possible for the various
+projects that Enron is considering with BMC.  As you are aware, we have
+already proposed several individual deals.  In addition to those we are
+including some deals in which there has been an expressed interest so that
+Enron can take advantage of the pricing that this partnership will bring to
+you.
+
+The purpose of this e-mail is to give you a heads up on the acceleration of
+timing that we have been directed to work towards and to let you know that
+we have already agreed to bring our price down in order to make the price
+more attractive to Enron.  We would very much appreciate your help in
+expediting the process of bringing this agreement to closure.  In my next
+e-mail I will send you a list of all the outstanding BMC proposals to Enron.
+
+Best regards,
+
+Ann M.  Munson
+Senior Sales Representative
+BMC Software
+713-918-4569  Direct
+713-918-8001  Fax
+amunson@bmc.com
+
+
+----- Forwarded by Jeff Youngflesh/NA/Enron on 12/11/2000 09:08 AM -----
+
+	"Munson, Ann" <Ann_Munson@bmc.com>
+	12/08/2000 03:34 PM
+		 
+		 To: "'jeff_youngflesh@enron.com'" <jeff_youngflesh@enron.com>
+		 cc: "'chaz_vaughan@enron.net'" <chaz_vaughan@enron.net>, 
+"'stephen_morse@enron.net'" <stephen_morse@enron.net>, "Goicoechea, Bernie" 
+<Bernie_Goicoechea@bmc.com>
+		 Subject: BMC Projects at Enron
+
+
+Hi Jeff,
+
+Here's the attachments I told you that I would send you.  The Incontrol
+contains two spreadsheets.
+
+ <<Enron - Doug Cummins team.xls>>  <<Enron - Randy Matson team.xls>>
+<<Enron - Ogg's DBs.xls>>  <<Enron INCONTROL Products.xls>>  <<Enron
+Wholesale UNIX - Storage.xls>>  <<EBS-Storage1.doc>>  <<Enron RealMedia KM
+Order 2.xls>>
+
+Taker care,
+
+Ann M.  Munson
+Senior Sales Representative
+BMC Software
+713-918-4569  Direct
+713-918-8001  Fax
+amunson@bmc.com
+
+
+
+
+
+
+
+
+
+----- Forwarded by Jeff Youngflesh/NA/Enron on 12/11/2000 09:08 AM -----
+
+	"Munson, Ann" <Ann_Munson@bmc.com>
+	12/08/2000 05:36 PM
+		 
+		 To: "'jeff_youngflesh@enron.com'" <jeff_youngflesh@enron.com>
+		 cc: "'stephen_morse@enron.net'" <stephen_morse@enron.net>, 
+"'chaz_vaughan@enron.net'" <chaz_vaughan@enron.net>, "Goicoechea, Bernie" 
+<Bernie_Goicoechea@bmc.com>
+		 Subject: Application of the Discount
+
+Hi Jeff,
+
+I'm sure you already realize this, but for the sake of clarification, it's
+important to make sure that I state that the 45% discount is applied only if
+we have the EBS Enron Partnership agreement in place.
+
+Best regards,
+Ann
+
+Ann M.  Munson
+Senior Sales Representative
+BMC Software
+713-918-4569  Direct
+713-918-8001  Fax
+amunson@bmc.com
+
+
+----- Forwarded by Jeff Youngflesh/NA/Enron on 12/11/2000 09:08 AM -----
+
+	"Munson, Ann" <Ann_Munson@bmc.com>
+	12/08/2000 05:55 PM
+		 
+		 To: "'jeff_youngflesh@enron.com'" <jeff_youngflesh@enron.com>
+		 cc: "'Chaz_vaughan@enron.net'" <Chaz_vaughan@enron.net>, 
+"'stephen_morse@enron.net'" <stephen_morse@enron.net>
+		 Subject: Please Use this Attachment...
+
+
+....to replace the Word Document that I sent you previously.  As per my
+voice mail to you.
+
+ <<EBS Backoffice - Storage.xls>>
+
+Ann M.  Munson
+Senior Sales Representative
+BMC Software
+713-918-4569  Direct
+713-918-8001  Fax
+amunson@bmc.com
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:11 2022
+Message-ID: <4872638.1075849628024.JavaMail.evans@thyme>
+Date: Wed, 13 Dec 2000 03:25:00 -0800 (PST)
+From: jeff.youngflesh@enron.com
+To: douglas.cummins@enron.com
+Subject: Thank you, Doug!
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeff Youngflesh
+X-To: Douglas Cummins
+X-cc: 
+X-bcc: 
+X-Folder: \John_Arnold_Nov2001\Notes Folders\Bmc
+X-Origin: ARNOLD-J
+X-FileName: jarnold.nsf
+
+Douglas,
+
+A HUGE THANK YOU from me to you!  This is exactly what I was hoping for (even 
+if the amount of purchase is not what some folks might have been wishing for, 
+the reply is critically important)!  I really appreciate your having taken 
+the time to help out by providing this information.  
+
+I will check back with you on Thursday, if I haven't heard from you by then, 
+to see about the "commitment letter"!
+
+Thank you again,
+
+Jeff
+p.s.  I will be forwarding your note to Randy Matson and Bob Martinez, to see 
+if it would help them in their efforts.  I'll also copy you on that one.
+
+
+
+	Douglas Cummins@ECT
+	12/12/2000 06:37 PM
+		
+		 To: Jeff Youngflesh/NA/Enron@ENRON
+		 cc: Chaz Vaughan/Enron Communications@Enron Communications, Stephen 
+Morse/Enron Communications@Enron Communications
+		 Subject: Re: Urgent - Please Read - BMC question
+
+Jeff,
+
+Honestly and for your (Enron) eyes only - attached is the modified 
+spreadsheet of what my group is seriously looking at purchasing.  Basically, 
+we like their Change Management tools but not really interested in Patrol 
+(monitoring).
+
+We will have a more definitive answer by Thursday.  We DBA's (eCommerce, 
+Corp, and London) are trying to make a joint decision, but the other two 
+groups are dragging out their evaluations...
+
+
+
+Regards,
+Douglas
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:11 2022
+Message-ID: <23406737.1075849628002.JavaMail.evans@thyme>
+Date: Wed, 13 Dec 2000 02:43:00 -0800 (PST)
+From: jeff.youngflesh@enron.com
+To: jennifer.medcalf@enron.com, brad.nebergall@enron.com
+Subject: 1 response recv'd re:  BMC purchase intent from NetWorks (more
+ similar yet to come)
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Jeff Youngflesh
+X-To: Jennifer Medcalf, Brad Nebergall
+X-cc: 
+X-bcc: 
+X-Folder: \John_Arnold_Nov2001\Notes Folders\Bmc
+X-Origin: ARNOLD-J
+X-FileName: jarnold.nsf
+
+----- Forwarded by Jeff Youngflesh/NA/Enron on 12/13/2000 10:41 AM -----
+
+	Douglas Cummins@ECT
+	12/12/2000 06:37 PM
+		
+		 To: Jeff Youngflesh/NA/Enron@ENRON
+		 cc: Chaz Vaughan/Enron Communications@Enron Communications, Stephen 
+Morse/Enron Communications@Enron Communications
+		 Subject: Re: Urgent - Please Read - BMC question
+
+Jeff,
+
+Honestly and for your (Enron) eyes only - attached is the modified 
+spreadsheet of what my group is seriously looking at purchasing.  Basically, 
+we like their Change Management tools but not really interested in Patrol 
+(monitoring).
+
+We will have a more definitive answer by Thursday.  We DBA's (eCommerce, 
+Corp, and London) are trying to make a joint decision, but the other two 
+groups are dragging out their evaluations...
+
+
+
+Regards,
+Douglas
+
+

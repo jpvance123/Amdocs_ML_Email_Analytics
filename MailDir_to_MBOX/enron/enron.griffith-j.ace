@@ -1,0 +1,139 @@
+From MAILER-DAEMON Mon Apr 18 14:26:59 2022
+Message-ID: <27168122.1075849632524.JavaMail.evans@thyme>
+Date: Mon, 27 Nov 2000 05:44:00 -0800 (PST)
+From: michael.etringer@enron.com
+To: john.griffith@enron.com
+Subject: Base curve for ACE
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Michael Etringer
+X-To: John Griffith
+X-cc: 
+X-bcc: 
+X-Folder: \John_Griffith_Nov2001\Notes Folders\Ace
+X-Origin: GRIFFITH-J
+X-FileName: jgriffit.nsf
+
+John,
+Attached is the base curve we used to value the ACE (Ahlstrom plant in CA) as 
+of Nov 10,2000.  
+
+What I am looking for is this:
+
+What would be the cost to buy the following four put options,
+assuming financial settle 
+ volume of 10,000 MMBtu/day ,
+settled at Socal,
+Option term of 2001-2002 :
+
+Monthly Put option, strike price based on the curve in the attached 
+spreadsheet (Nov 10 curve)
+Same as above but strike is at the market.
+Annual put option, strike price based on the curve in the attached 
+spreadsheet (Nov 10 curve).
+Annual put option but with strike at the market.
+
+Last week I got bids from Phillips which were ($0.02) and ($0.03) for Socal 
+basis for 2001 and 2002, respectively.  We will likely need to update these 
+numbers.
+
+From MAILER-DAEMON Mon Apr 18 14:26:59 2022
+Message-ID: <21849631.1075849632574.JavaMail.evans@thyme>
+Date: Tue, 28 Nov 2000 05:53:00 -0800 (PST)
+From: john.griffith@enron.com
+To: michael.etringer@enron.com, frank.vickers@enron.com
+Subject: ACE SRAC
+Cc: gray.calvert@enron.com, ed.mcmichael@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: gray.calvert@enron.com, ed.mcmichael@enron.com
+X-From: John Griffith
+X-To: Michael Etringer, Frank W Vickers
+X-cc: Gray Calvert, Ed McMichael
+X-bcc: 
+X-Folder: \John_Griffith_Nov2001\Notes Folders\Ace
+X-Origin: GRIFFITH-J
+X-FileName: jgriffit.nsf
+
+Mike and Frank,
+
+Attached is a revised quote for options relating to the ACE deal.  The 
+changes include actual Daily MW Production from Gray and also a hedge ratio 
+of 10.522 mmbtu's/MW.  I calculated the hedge ratio 2 ways.  First I put the 
+SRAC formula in excel (tying to the Aug'00 SRAC calculation from SoCal 
+Edison) and I increased the price of natural gas by $1 and noted the 
+difference in the SRAC power price.  That resulted in an increase in the SRAC 
+of $1.0522 cents/kwh or converted to $10.522/mwh.  I also looked at a change 
+in mark-to-market profit based on a hedge of 10.522 mmbtu's for every 1 MW.  
+So for every 1 mwh you need to hedge 10.522 mmbtu's.  Next I took the SRAC 
+formula below:
+
+     Pn = {PBase + (PBase * (GPn - GPBase)/GPBase * Factor)} * TOU
+
+    Where   Pn = SRAC price
+     PBase = Base Enery Price $2.0808 cents/kwh (constant)
+     GPn = current Socal index
+     GPBase = Base Gas Price $1.3975/mmbtu (constant)
+     Factor = % change in enery price affected by gas price .7067 (constant)
+     TOU = time of use (i.e. Summer on peak = 1.4251)
+
+If you look at just the piece that moves (GPn) and calculate a $1 
+increase:    ($2.0808 * ($1 - $1.375)/$1.375 * .7067) = 1.0522. 
+
+Gray had calculated the heat rate by taking the SRAC price divided by the gas 
+price.  This heat rate moves depending on the level of gas (decreases with an 
+increase in gas price).  This is a correct  calculation for the heat rate, 
+however, to calculate the hedge delta, the above calculation should be used 
+and this hedge delta stays constant no matter the level of gas price.
+
+Please call with any questions or concerns.  My number is (713) 853-6247.  
+Thanks.
+
+John
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:26:59 2022
+Message-ID: <5916798.1075849632550.JavaMail.evans@thyme>
+Date: Mon, 27 Nov 2000 10:20:00 -0800 (PST)
+From: john.griffith@enron.com
+To: michael.etringer@enron.com, frank.vickers@enron.com
+Subject: ACE plant
+Cc: ed.mcmichael@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: ed.mcmichael@enron.com
+X-From: John Griffith
+X-To: Michael Etringer, Frank W Vickers
+X-cc: Ed McMichael
+X-bcc: 
+X-Folder: \John_Griffith_Nov2001\Notes Folders\Ace
+X-Origin: GRIFFITH-J
+X-FileName: jgriffit.nsf
+
+Mike and Frank,
+
+Attached are the quotes for options based on your previous email.  Please 
+look over the time periods, volumes and strikes.  These quotes are indicitive 
+based on todays curves.  Let me know if we need to firm up these numbers 
+tomorrow.  I do have some questions/concerns relating to this deal before 
+this can be done however, they are:
+
+  1)  Should the volume be a baseload volume of 10,000/day?
+  2)  How are you buying your coal for the plant (i.e. fixed, index...)?
+  3)  What is the correlation of the SRAC and the Socal Border price 
+(especially during this time of high volatility)?
+  4)  Has there been a calculation of the change in Socal Border vs. the 
+change in the SRAC to calculate the proper volume to hedge (basically a   
+delta calculation)?
+
+Please let me know if you have any questions or concerns.  My phone number is 
+(713) 853-6247.  Thanks.
+
+John
+
+
+

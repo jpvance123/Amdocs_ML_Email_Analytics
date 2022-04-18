@@ -1,0 +1,574 @@
+From MAILER-DAEMON Mon Apr 18 14:22:24 2022
+Message-ID: <4890830.1075839946930.JavaMail.evans@thyme>
+Date: Fri, 1 Jun 2001 16:41:44 -0700 (PDT)
+From: cara.semperger@enron.com
+To: shift.portland@enron.com
+Subject: We have length at Colstrip all hours on Monday, June 4
+Cc: diana.scholtes@enron.com, sean.crandall@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: diana.scholtes@enron.com, sean.crandall@enron.com
+X-From: Semperger, Cara </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CSEMPER>
+X-To: Portland Shift </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=PORTLAND SHIFT>
+X-cc: Scholtes, Diana </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DSCHOLT>, Crandall, Sean </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SCRANDA>
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\Preschedule
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+We are 7 MW long all hours at Montana System,  which is our buy from MPC, deal number 615780.1
+
+The upstream is PSEI-DUKE-WWP-MPCO.
+
+We put in a false schedule to Smurfit to get flat preschedule, and that tag is 23795.
+
+When we get close to HE 0100 on Monday, that Tag needs to go away, and the energy needs to be sold.
+
+Please don't say it was a false preschedule, just say that it was 'unexpectedly ramped down' or something.
+
+Enpower accurately reflects the length at Montana System
+
+Cara
+
+From MAILER-DAEMON Mon Apr 18 14:22:24 2022
+Message-ID: <25378506.1075839946954.JavaMail.evans@thyme>
+Date: Thu, 31 May 2001 20:31:43 -0700 (PDT)
+From: cara.semperger@enron.com
+To: shift.portland@enron.com
+Subject: SCHEDULE GOING REAL TIME FOR JUNE 1
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Semperger, Cara </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CSEMPER>
+X-To: Portland Shift </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=PORTLAND SHIFT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\Preschedule
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+This schedule was not called in properly to BPA, and is therefore going real time:
+
+BPA C#24243-GAC(T)BPA(T)BPAP/GCPD O#96107-GAC-BPA-EPMI-GCPD
+
+HE 0100-0600 AND 2300-2400
+
+Please call BPA and GCPUD prior to this schedule becoming active to insure that it flows
+
+SEE ME IF YOU HAVE ANY QUESTIONS
+
+CARA
+
+From MAILER-DAEMON Mon Apr 18 14:22:24 2022
+Message-ID: <31131058.1075839946534.JavaMail.evans@thyme>
+Date: Fri, 29 Jun 2001 20:24:25 -0700 (PDT)
+From: donald.robinson@enron.com
+To: cara.semperger@enron.com, mark.fischer@enron.com, tom.alonso@enron.com,
+	lisa.gang@enron.com, susie.wilson@enron.com,
+	donald.robinson@enron.com, holden.salisbury@enron.com,
+	shift.portland@enron.com
+Subject: Preschedule paths going real-time for Sunday and Monday, 07/01 and
+ 07/02.
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Robinson, Donald </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DROBINS>
+X-To: Semperger, Cara </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CSEMPER>, Fischer, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MFISCHE2>, Alonso, Tom </O=ENRON/OU=NA/CN=RECIPIENTS/CN=TALONSO>, Gang, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=LGANG>, Wilson, Susie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SWILSON7>, Robinson, Donald </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DROBINS>, Salisbury, Holden </O=ENRON/OU=NA/CN=RECIPIENTS/CN=HSALISBU>, Portland Shift </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=PORTLAND SHIFT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\Preschedule
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+Preschedule had a heck-u-va day on Friday.  Due to many problems, some of our tags were not completed until after the 3pm preschedule deadline.  Apparently, some of our counterparties automatically deny late tags, though they may be corrections of tags made prior to the deadline.  In any case, we have a list of tags that have been submitted as real-time tags and the schedules should be treated such.  The tags and paths are as follows:
+
+25869:    DELAYED TAG NEEDS SUBMITTED NO LATER THAN AN HOUR BEFORE SCHEDULE FLOWS.  10MW  HE23-34 ON 07/01:  PSCO(G)WSYS-PSCO(T)WSYS/CRAIG#GF-DESERRET(T)CRAIG/BONANZA#4869,mnf-DESERRET(T)BONANZA/MONA#4869mnf-PAC(T)MONA/REDBUTTE#133871f-NEVP(T)REDBUTTE/MEAD#1022243mnf-PSCO-EPMI-APS(T)MEAD/PV#22937-EMPI-APS(T)MEAD/WW/PV #22936F-EPMI-PACE-CISO(T)PV/MALIN-PACE(T)MAL/PACE SYS-PACE
+
+25872:  DELAYED TAG NEEDS SUBMITTED NO LATER THAN AN HOUR BEFORE SCHEDULE FLOWS.   10MW HE7-22 IN 07/01:  PSCO(G)WSYS-PSCO(T)WSYS/CRAIG#GF-DESERET(T)CRAIG/BONANZA#4869,mnf-DESERET(T)BONANZA/MONA#4869mnf-PAC(T)MONA/REDBUTTE#133871f-NEVP(T)REDBUTTE/MEAD#1022243mnf-PSCO-EPMI-APS(T)MEAD/WW/PV #22936F-EPMI-SRP-SRP(T)PV/KYRENE#GF-SRP
+
+25873:  DELAYED TAG NEEDS SUBMITTED NO LATER THAN AN HOUR BEFORE SCHEDULE FLOWS.   15MW  HE7-22 IN 07/01:  PSCO(G)WSYS-PSCO(T)WSYS/CRAIG#GF-DESERET(T)CRAIG/BONANZA#4869,mnf-DESERET(T)BONANZA/MONA#4869mnf-PAC(T)MONA/REDBUTTE#133871f-NEVP(T)REDBUTTE/MEAD#1022243mnf-PSCO-EPMI-APS(T)MEAD/WW/PV #22936F-EPMI-PNM-EPE(T)PV/WW-SRP(T)WW/MEAD-NEVP(MEAD)
+
+25823:  25MW HE7-22 ON 07/01:  DGT(MONA)-AEP-PSCO-EPMI-PAC(T)MONA/REDBUTTE-NEVP(T)REDBUTTE/MEAD-NEVP
+
+25824:  15MW  HE1-6 ON 07/01:  DGT(MONA)-AEP-PSCO-EPMI-PAC(T)MONA/REDBUTTE-NEVP(T)REDBUTTE/MEAD-CRC(MEAD) 
+
+25825:  10MW  HE1-6 ON 07/01:  DGT(MONA)-AEP-PSCO-EPMI-PAC(T)MONA/REDBUTTE-NEVP(T)REDBUTTE/MEAD-CRC(MEAD) 
+
+25870:     DELAYED TAG NEEDS SUBMITTED NO LATER THAN AN HOUR BEFORE SCHEDULE FLOWS.   10MW  HE23-34 ON 07/02:  PSCO(G)WSYS-PSCO(T)WSYS/CRAIG#GF-DESERRET(T)CRAIG/BONANZA#4869,mnf-DESERRET(T)BONANZA/MONA#4869mnf-PAC(T)MONA/REDBUTTE#133871f-NEVP(T)REDBUTTE/MEAD#1022243mnf-PSCO-EPMI-APS(T)MEAD/PV#22937-EMPI-APS(T)MEAD/WW/PV #22936F-EPMI-PACE-CISO(T)PV/MALIN-PACE(T)MAL/PACE SYS-PACE
+
+
+Thanks, Donald.
+
+PS.  Lisa will be adding to this list with a following note.
+
+From MAILER-DAEMON Mon Apr 18 14:22:24 2022
+Message-ID: <18306082.1075839946641.JavaMail.evans@thyme>
+Date: Tue, 19 Jun 2001 19:27:11 -0700 (PDT)
+From: stacy.runswick@enron.com
+To: shift.portland@enron.com
+Subject: MIDC SCHEDULE GOING REAL-TIME 6/20/01
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Runswick, Stacy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SRUNSWIC>
+X-To: Portland Shift </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=PORTLAND SHIFT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\Preschedule
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+
+There is a 25 mw heavy load schedule that BPA is generating (contract# 23299) and PGE sinks at system.   The schedule is going real-time because BPA transmission group did not build the proper account for this path.  We bought from BPA Deal # 308337.1 and sold to EPME Deal # 489735.1.  Please refer to EPME tag number #10416.  I spoke with Matt at BPA Power side who agreed this was a good schedule.  Be sure to call everyone in the path to check out.   
+
+Thanks,
+Stacy
+(503)807-7861
+
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:22:24 2022
+Message-ID: <6349096.1075839946452.JavaMail.evans@thyme>
+Date: Thu, 5 Jul 2001 18:42:23 -0700 (PDT)
+From: cara.semperger@enron.com
+To: shift.portland@enron.com, donald.robinson@enron.com,
+	diana.scholtes@enron.com
+Subject: Schedule cut on a "west of Hatwai" problem for 7/06/01
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Semperger, Cara </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CSEMPER>
+X-To: Portland Shift </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=PORTLAND SHIFT>, Robinson, Donald </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DROBINS>, Scholtes, Diana </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DSCHOLT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\Preschedule
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+Our upstream is Dynegy deal # 570332.1 Mid C HLH
+
+Our Downstream is WWP deal # 339963.1
+
+The path:
+
+West Kootenai (G)-BCH(T)JUANITA/BCUS O#M335781A-WKPL-DYPMI-SNPD(T)BPA(T)BCUS/AVA O#96062 HNF-DYPMI-EPMI-WWP  
+
+MONTH LONG TAG 26019
+
+HE 0700-0800 we are warned by SNPD that the transmission MAY BE curtailed to Zero.
+
+When I spoke with Susan at WWP she finds this very suspicious, as it was described to her as a "West of Hatwai" problem she is suspicious of this and is investigating.
+
+
+Please get with DYPMI and get their re-supplied transmission before this schedule flows in the morning.
+
+Cara
+
+From MAILER-DAEMON Mon Apr 18 14:22:24 2022
+Message-ID: <29887233.1075839946904.JavaMail.evans@thyme>
+Date: Fri, 1 Jun 2001 20:10:48 -0700 (PDT)
+From: stacy.runswick@enron.com
+To: shift.portland@enron.com, cara.semperger@enron.com
+Subject: 10 MW schedule Heavy Load for the June 2nd at Mead
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Runswick, Stacy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SRUNSWIC>
+X-To: Portland Shift </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=PORTLAND SHIFT>, Semperger, Cara </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CSEMPER>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\Preschedule
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+Please refer to Enron Tag #23876.  The path is 
+
+BHPLGS gen @ BHPLSYSTEM- BHPL (T) BHPL/STGL - BHPLGS - MEAN - LAPT(T)STEGW/DAVEJOHNSTON - MEAN - MIRANT- PPW(T)DAVEJOHNSTON/4C3- MIRANT- EPMI- APS(T)4C3/WW5 - EPMI- CRSPM1 - WALC(T)WW5/WW2- WALC(T)WW2/COOLADGE- CRSPM1 load @ COOLADGE.
+
+We had problems getting the tag approved.  This is a good path and should flow.  Both the generating and load control areas have a copy of this tag and have agreed to implement this schedule real-time even if the tag is denied.  I spoke with Brandi at WACM (970) 461-7277 and Theresa at WALC (602) 352-2552.  
+
+If there are any issues regarding how the load PSE should be represented on the tag, John Dake at WALC said the CRSPM1 was the appropriate PSE for these tags and there is no reason the schedule should be denied.   
+
+You can reach me on my cell at 807-7861 if you have any additional questions.  
+
+From MAILER-DAEMON Mon Apr 18 14:22:24 2022
+Message-ID: <25899876.1075839946506.JavaMail.evans@thyme>
+Date: Fri, 29 Jun 2001 21:51:22 -0700 (PDT)
+From: cara.semperger@enron.com
+To: dispatch@epelectric.com, jhadda1@epelectric.com, lzaragoz@epelectric.com,
+	kpeterso@epelectric.com, powermarketingfolks@epelectric.com,
+	rhawki1@epelectric.com, sburac1@epelectric.com,
+	vgrado1@epelectric.com
+Subject: El Paso Schedule for 7/1 and 7/2 - Extremely Problematic
+Cc: shift.portland@enron.com, greg.wolfe@enron.com, bill.williams@enron.com,
+	diane.cutsforth@enron.com, lisa.gang@enron.com,
+	donald.robinson@enron.com, stacy.runswick@enron.com,
+	susie.wilson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: shift.portland@enron.com, greg.wolfe@enron.com, bill.williams@enron.com,
+	diane.cutsforth@enron.com, lisa.gang@enron.com,
+	donald.robinson@enron.com, stacy.runswick@enron.com,
+	susie.wilson@enron.com
+X-From: Semperger, Cara </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CSEMPER>
+X-To: dispatch <dispatch@epelectric.com>, jhadda <jhadda1@epelectric.com>, lzaragoz <lzaragoz@epelectric.com>, Peterson <kpeterso@epelectric.com>, Powermarketing folks <powermarketingfolks@epelectric.com>, Roger <rhawki1@epelectric.com>, Steve Byrzazyk <sburac1@epelectric.com>, vgrado <vgrado1@epelectric.com>
+X-cc: Portland Shift </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=Portland Shift>, Wolfe, Greg </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gwolfe>, Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bwillia5>, Cutsforth, Diane </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dcutsfor>, Gang, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lgang>, Robinson, Donald </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Drobins>, Runswick, Stacy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Srunswic>, Wilson, Susie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Swilson7>
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\Preschedule
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+ 
+This sheet is as complete as possible, and I am worried about it due to the following circumstances;
+
+1.  The Dispatch sheet that comes to Real time was 25 MW flat on Sunday and LLH on Monday more than all the preschedules that were tagged today.
+
+2.  The Four Corners values on that dispatch sheet changed between 5:15 and 5:42, from 10 mw long to flat. I tried to resolve the four corners schedules with PSCO, who  
+told me they did not have a purchase from EPE in July.  I tried calling numerous people at their office and cell phone numbers and got forwarded to Enron each time. Lisa had a buy resale with PNM at four corners, but that booked out and did not seem to match the 10 long that I saw in the dispatch sheet.  I spoke with Pete, who assured me that the sale to PSCO was good for the summer.  
+
+3.  I still was unable to resolve the 25 mw difference between the tags and schedules that we knew, and what the dispatch sheet said we should have for preschedule.  No EPE representative was available to tell me what they were expecting for the schedules, and I was referred by a Dispatch person to call on Saturday and speak to Carlos when he came in at 4 pm.  I was very uncomfortable doing this, and so in my desperation called Roger at home, who after some discussion with Steve at his home confirmed that the extrat 25 flat Sunday and LLH Monday was a deal that is supposed to begin on July 3.  I trust his assesment, and have removed the extra schedule from the sheet.
+
+
+
+Between all of the preschedulers today at Enron, we have spent over 6 hours dealing with the EPE schedules today.  
+
+The sheet is as complete as I possibly can find justification for.
+
+Cara Semperger
+West Power Scheduling
+503/464-3814
+
+From MAILER-DAEMON Mon Apr 18 14:22:25 2022
+Message-ID: <6164599.1075839946477.JavaMail.evans@thyme>
+Date: Fri, 29 Jun 2001 22:16:02 -0700 (PDT)
+From: susie.wilson@enron.com
+To: cara.semperger@enron.com, mark.fischer@enron.com, tom.alonso@enron.com,
+	lisa.gang@enron.com, donald.robinson@enron.com,
+	holden.salisbury@enron.com, shift.portland@enron.com
+Subject: change in late tags, going to real time
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Wilson, Susie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SWILSON7>
+X-To: Semperger, Cara </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CSEMPER>, Fischer, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MFISCHE2>, Alonso, Tom </O=ENRON/OU=NA/CN=RECIPIENTS/CN=TALONSO>, Gang, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=LGANG>, Robinson, Donald </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DROBINS>, Salisbury, Holden </O=ENRON/OU=NA/CN=RECIPIENTS/CN=HSALISBU>, Portland Shift </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=PORTLAND SHIFT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\Preschedule
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+Lisa's tags that have been withdrawn because they were late and reentered as delayed tags for Real Time:
+
+Withdrawn Tag	New Delayed Tag for Real Time
+25876			25881
+25765			25883
+25762			25884
+25880			25886
+25877			25887
+25879			25888
+25865			25890
+25889			25891
+25875			25892
+25871			25893
+25874			25894
+
+Susie Wilson
+Enron North America
+cell 503/778-1131
+
+From MAILER-DAEMON Mon Apr 18 14:22:25 2022
+Message-ID: <5442802.1075839946560.JavaMail.evans@thyme>
+Date: Fri, 29 Jun 2001 19:49:43 -0700 (PDT)
+From: cara.semperger@enron.com
+To: lisa.gang@enron.com, susie.wilson@enron.com, donald.robinson@enron.com,
+	shift.portland@enron.com
+Subject: READ THIS URGENGT!!!!FW: MEAD real time schedules
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Semperger, Cara </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CSEMPER>
+X-To: Gang, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=LGANG>, Wilson, Susie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SWILSON7>, Robinson, Donald </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DROBINS>, Portland Shift </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=PORTLAND SHIFT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\Preschedule
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+
+PLEASE MAKE SURE THESE GET IMPLEMENTED
+
+C
+
+
+ -----Original Message-----
+From: 	"Cline, Ryan" <Ryan.Cline@xemkt.com>@ENRON [mailto:IMCEANOTES-+22Cline+2C+20Ryan+22+20+3CRyan+2ECline+40xemkt+2Ecom+3E+40ENRON@ENRON.com] 
+Sent:	Friday, June 29, 2001 4:42 PM
+To:	'cara_semperger@enron.com'
+Cc:	Cline, Ryan
+Subject:	MEAD real time schedules
+
+Cara.
+
+I'm going home for the weekend and I thought I would let you know the
+procedure to follow to get your schedules at MEAD scheduled real time.
+
+These are the schedules that are in as a preschedule:
+	TAG   0025726
+	TAG   0025777
+	MSCGO1 TAG MSCI113
+
+The left over mw's, after these tags,  will all have to be submitted as a
+realtime tag NO EARLIER THAN 4 HOURS BEFORE THE SCHEDULE RUNS.
+
+You will have to call PSCO marketing realtime desk to tell them what you new
+tags will be  303-308-6175.  They have a heads up from me as to what you
+will call about.  If you do not call,  THEY WILL NOT PUT THE SCHEDULE IN, WE
+WILL NOT GENERATE.
+
+I understand EPMI's problem today.  I've been there when I worked for MIECO.
+Our control area that we turn all our schedules into are kind of hard to
+work with sometimes.  It is up to them weather or not a schedule gets put in
+as a preschedule.  Before they go home every night, they must check out
+preschedules with their adjacent control areas.  Since they work on an
+hourly basis, and don't get bonuses,  they are not always willing to stick
+around and wait on late tags.  Between 3:00pm and 4:00pm MDT, they take the
+tags they have and start to check out with them.  Everything else must be
+put in real time.  This sometimes makes our jobs harder but there is nothing
+I can do about it.  I hope everything else goes well and these schedules get
+put in.
+
+
+
+Ryan Cline
+XCEL ENERGY (PSCO)
+Scheduling Manager / Operations Manager
+
+From MAILER-DAEMON Mon Apr 18 14:22:25 2022
+Message-ID: <25292190.1075839946616.JavaMail.evans@thyme>
+Date: Wed, 20 Jun 2001 18:56:52 -0700 (PDT)
+From: cara.semperger@enron.com
+To: shift.portland@enron.com, diane.cutsforth@enron.com, lisa.gang@enron.com,
+	donald.robinson@enron.com, stacy.runswick@enron.com,
+	susie.wilson@enron.com
+Subject: MidC Schedule going real time heavy load June 21
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Semperger, Cara </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CSEMPER>
+X-To: Portland Shift </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=PORTLAND SHIFT>, Cutsforth, Diane </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DCUTSFOR>, Gang, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=LGANG>, Robinson, Donald </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DROBINS>, Runswick, Stacy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SRUNSWIC>, Wilson, Susie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SWILSON7>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\Preschedule
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+Heavy Load for 6/21
+
+Our Upstream  BPA  deal # 504537.1
+
+Our Downstream  IPCO deal # 655127.1
+
+
+The path  5 mw
+
+BPA C#24008-EPMI-IPC-SNPD(T)BPA(T)BPAP/PACW-IPC-PACW(T)PACW/ENTERPRISE-IPC-IPC(T)ENTERPRISE/IPCO SYS- IPCO SINK
+
+
+All parties are aware that this schedule will exist in real time, and IPCO is taking responsibility to make sure it is tagged.
+
+Please call BPA and IPCO before HE0700 to make sure this schedule is still going to work.
+
+See me if you have any questions.
+
+Cara
+
+From MAILER-DAEMON Mon Apr 18 14:22:25 2022
+Message-ID: <9740137.1075839946667.JavaMail.evans@thyme>
+Date: Mon, 18 Jun 2001 19:49:28 -0700 (PDT)
+From: stacy.runswick@enron.com
+To: shift.portland@enron.com
+Subject: Another MIDC schedule going real-time
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Runswick, Stacy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SRUNSWIC>
+X-To: Portland Shift </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=PORTLAND SHIFT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\Preschedule
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+There is a 25 mw heavy load schedule that BPA is generating (contract# 23928) and SPP sinks at Humbolt.   The schedule is going real-time because SPP reported the transmission incorrectly to AVA transmission group.  We bought from BPA Deal # 486140.1 and sold to SPP Deal # 610573.1.  Please refer to SPP tag number #2848.  Be sure to call everyone in the path to check out.  
+
+Thanks,
+Stacy
+(503)807-7861
+
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:22:25 2022
+Message-ID: <23965177.1075839946696.JavaMail.evans@thyme>
+Date: Mon, 18 Jun 2001 19:19:56 -0700 (PDT)
+From: stacy.runswick@enron.com
+To: shift.portland@enron.com
+Subject: MID C schedule going real-time
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Runswick, Stacy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SRUNSWIC>
+X-To: Portland Shift </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=PORTLAND SHIFT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\Preschedule
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+
+There is a 25 mw light load schedule that Aquila Canada is generating and AVA sinks at there system.   The schedule is going real-time because Aquila reported the transmission incorrectly to BPA transmission group.  We bought from Aquila Deal # 508908.1 and sold to WWP Deal # 162508.1.  Please refer to Aquila tag numbers #167799 and #167797.  Be sure to call everyone in the path to check out.  
+
+Thanks,
+Stacy
+(503) 807-7861
+
+From MAILER-DAEMON Mon Apr 18 14:22:25 2022
+Message-ID: <7797664.1075839946591.JavaMail.evans@thyme>
+Date: Fri, 22 Jun 2001 19:05:41 -0700 (PDT)
+From: cara.semperger@enron.com
+To: shift.portland@enron.com, diane.cutsforth@enron.com, lisa.gang@enron.com,
+	donald.robinson@enron.com, stacy.runswick@enron.com,
+	susie.wilson@enron.com
+Subject: IDAHO HAS A NEW NERC ACRONYM
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Semperger, Cara </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CSEMPER>
+X-To: Portland Shift </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=PORTLAND SHIFT>, Cutsforth, Diane </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DCUTSFOR>, Gang, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=LGANG>, Robinson, Donald </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DROBINS>, Runswick, Stacy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SRUNSWIC>, Wilson, Susie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SWILSON7>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\Preschedule
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+WHEN THEY ARE MAKING TAGS, THEY ARE IDAC01,
+
+When we tag them, and they are sinking, they are still IPCM01
+
+From MAILER-DAEMON Mon Apr 18 14:22:25 2022
+Message-ID: <2691004.1075839946878.JavaMail.evans@thyme>
+Date: Fri, 8 Jun 2001 20:17:25 -0700 (PDT)
+From: stacy.runswick@enron.com
+To: shift.portland@enron.com
+Subject: Four Corners schedule for the 11th that needs to be tagged
+ real-time
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Runswick, Stacy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SRUNSWIC>
+X-To: Portland Shift </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=PORTLAND SHIFT>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\Preschedule
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+The following day ahead tag# 24395 for the 11th was denied by WACM because it was submitted after the 3:00pdt tag deadline.  Tag# 24365 was the predecessor and was approved by WACM.  Still, WACM refuses to approve TAG#24395.  Please copy this tag and submit it as a real-time schedule on the 11th.  Sorry for the inconvenience I received ZERO cooperation from the control areas.   Please check out with each control area when submitting the new tag.  Per Mary at WACM, I could not tag this schedule day ahead.  
+
+Thanks,
+Stacy
+ 
+
+<Embedded Picture (Device Independent Bitmap)>
+
+From MAILER-DAEMON Mon Apr 18 14:22:25 2022
+Message-ID: <28890871.1075839946727.JavaMail.evans@thyme>
+Date: Mon, 18 Jun 2001 18:36:39 -0700 (PDT)
+From: cara.semperger@enron.com
+To: bill.williams@enron.com, holden.salisbury@enron.com, lisa.gang@enron.com,
+	susie.wilson@enron.com
+Subject: FW: Loss Tag Reminder
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+X-From: Semperger, Cara </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CSEMPER>
+X-To: Williams III, Bill </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bwillia5>, Salisbury, Holden </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Hsalisbu>, Gang, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lgang>, Wilson, Susie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Swilson7>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Williams III, Bill\Preschedule
+X-Origin: WILLIAMS-W3
+X-FileName: 
+
+
+
+ -----Original Message-----
+From: =09"LYNN RICHARDSON" <LERICHRD@wapa.gov>@ENRON [mailto:IMCEANOTES-+22=
+LYNN+20RICHARDSON+22+20+3CLERICHRD+40wapa+2Egov+3E+40ENRON@ENRON.com]=20
+Sent:=09Monday, June 18, 2001 3:25 PM
+To:=09Bruce.McIver@BCHydro.bc.ca; Lisa.Will@BCHydro.bc.ca; Navjote.Jagpal@B=
+CHydro.bc.ca; ddelzer@bepc.com; thylden@bepc.com; david_toole@cargill.com; =
+jeffrey_cravens@cargill.com; mark_myers@cargill.com; hgreen@csu.org; skoch@=
+csu.org; philtice@deseretgt.com; fwright@digisys.net; Cherie.L.Steigerwald@=
+dynegy.com; Clemons, Amy; Semperger, Cara; Robinson, Donald; Runswick, Stac=
+y; shultsjw@er.oge.com; rfrancis@idacorpenergy.com; jshadie@idahopower.com;=
+ kgillis@idahopower.com; panderson@idahopower.com; tmilam@idahopower.com; T=
+Taylor@idahopower.com; biggst@lac.losalamos.nm.us; Chambellan@lac.losalamos=
+.nm.us; gregg.oetting@mirant.com; ted.bauman@mirant.com; paul.smallwood@nce=
+power.com; cLangston@NMPPENERGY.org; cstanley@NMPPENERGY.org; dbreithaupt@N=
+MPPENERGY.org; jwoita@NMPPENERGY.org; kgaden@NMPPENERGY.org; lhartgrave@NMP=
+PENERGY.org; dpettinger@oppd.com; transprov@oppd.com; aivars.saukants@pacif=
+icorp.com; david.cory@pacificorp.com; dick.dowdy@pacificorp.com; lori.wisbe=
+ck@pacificorp.com; Theresa.Andres@pacificorp.com; jthomas@pnm.com; dean.luc=
+iuk@powerex.com; malcolm.stewart@powerex.com; marzena.piotrowicz@powerex.co=
+m; michelle.hiley@powerex.com; 24hourdesk@powersrc.com; dmpetritz@pplmt.com=
+; jswilliamson@pplmt.com; btomsky@rmgci.com; kamurdoc@srpnet.com; provo.sly=
+nsky@state.ut.us; bhorton@tnsk.com; csamson@tnsk.com; slong@tnsk.com; ariel=
+la_weis@transalta.com; clint_korchinski@transalta.com; jade_ward@transalta.=
+com; john_esiaw@transalta.com; Karen_Pelley@transalta.com; keith_I_taylor@t=
+ransalta.com; marzena_plotrowica@transalta.com; meghana_bhat@transalta.com;=
+ Murray_Hnatyshyn@transalta.com; wayne_young@transalta.com; mikthe@tristate=
+gt.org; shasch@tristategt.org; terry@uamps.com; cevans@utilicorp.com; cherr=
+y.smith@williams.com; cyndy.mielke@williams.com; james.donaldson@willliams.=
+com; cliff.barker@xemkt.com
+Subject:=09Loss Tag Reminder
+
+Transmission Customers:
+
+The Western Area Colorado Missouri control area (WACM) has just implemented=
+ a new scheduling package and thought this would be a good time to offer a =
+reminder about how loss energy tags for delivery to WACM are to be complete=
+d.
+
+1.  Please ensure that "WACM" is the last PSE on the tag.  This is importan=
+t as it provides proper credit to the Transmission Customer for losses deli=
+vered.
+2.  In the 'Comments' field, please put the words "WACM Losses".  If the ta=
+gs are for a real-time transaction from the previous week, please indicate =
+the date; i.e., "WACM Losses for MM/DD/YY".
+3.  Prescheduled transactions require a concurrent tagging of loss energy t=
+o WACM.
+4.  Real-time transactions require a return of loss energy to be accomplish=
+ed same day, next week, same profile.
+5.  It is allowable to combine losses due in any day/week/month/season on a=
+ single tag if that is easier for you to do so.  WACM calculates the amount=
+ of loss energy due from a Transmission Customer per day based on preschedu=
+led transaction losses due on Day 0, plus real-time transaction losses due =
+from day -7.
+
+We are working with WACM Operations staff to see if, with the new schedulin=
+g software implemented, we will be able to accept real-time transaction los=
+s energy concurrent with the real-time transaction.  If we are able to effe=
+ct that change, it will be posted on OASIS and we will get an e-mail off to=
+ you immediately.
+
+In the meantime, if you have any questions, please give me a call or send a=
+n e-mail.
+
+Lynn Richardson
+Public Utilities Specialist
+RMR
+(970) 461-7440
+

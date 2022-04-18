@@ -1,0 +1,1970 @@
+From MAILER-DAEMON Mon Apr 18 14:19:40 2022
+Message-ID: <11848181.1075853944029.JavaMail.evans@thyme>
+Date: Fri, 2 Jun 2000 01:36:00 -0700 (PDT)
+From: cindy.stokes@enron.com
+To: hope.vargas@enron.com, angeles.beltri@enron.com, michael.galvan@enron.com,
+	juanita.ruffeno@enron.com, kortney.brown@enron.com,
+	dana.davis@enron.com, rufino.doroteo@enron.com,
+	laynie.east@enron.com, stacy.hardy@enron.com, kevin.jolly@enron.com,
+	lisa.king@enron.com, krysti.knight@enron.com,
+	michael.kolman@enron.com, kate.lykes@enron.com, binh.pham@enron.com,
+	rebecca.sanchez@enron.com, adarsh.vakharia@enron.com,
+	amy.weaver@enron.com, lisa.best@enron.com, rosalyn.lum@enron.com,
+	tammy.barta@enron.com
+Subject: Re: NEW EMPLOYEES
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Cindy Stokes
+X-To: Hope Vargas, Angeles Beltri, Michael S Galvan, Juanita Ruffeno, Kortney Brown, Dana Davis, Rufino Doroteo, Laynie East, Stacy Hardy, Kevin Jolly, Lisa King, Krysti Knight, Michael Kolman, Kate Lykes, Binh Pham, Rebecca Sanchez, Adarsh Vakharia, Amy Weaver, Lisa Best, Rosalyn Lum, Tammy Barta
+X-cc: 
+X-bcc: 
+X-Folder: \Dana_Davis_Dec2000\Notes Folders\Finanial operations
+X-Origin: Davis-D
+X-FileName: ddavis2.nsf
+
+We are pleased to announce the following new additions to our team;
+
+Brian Schwertner will report to Hope as a Sr. Specialist responsible for CLO 
+Coordination & Special Assets - Non-Performing support.  Brian is coming from 
+PriceWaterhouseCoopers and will be located at EB2444A.
+
+Brad Carey will report to Mike as a Sr. Specialist responsible for MIDAS 
+development & roll-forward reporting.   Brad is coming from Exxon Mobil 
+Corporation and will be located at EB2461A.
+
+They will both be starting on June 19, but you may get a chance to meet them 
+(hopefully) at our get together next Thursday.
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:19:40 2022
+Message-ID: <20392590.1075853944052.JavaMail.evans@thyme>
+Date: Mon, 8 May 2000 04:06:00 -0700 (PDT)
+From: gpg.dss@enron.com
+To: gpg.a-b@enron.com, gpg.c-d@enron.com, gpg.e-ha@enron.com,
+	gpg.he-mc@enron.com, gpg.me-q@enron.com, gpg.r-s@enron.com,
+	gpg.t-z@enron.com
+Subject: ACT: New DSS Change Password Procedure
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: GPG DSS
+X-To: GPG Decision Support A-B, GPG Decision Support C-D, GPG Decision Support E-HA, GPG Decision Support HE-MC, GPG Decision Support ME-Q, GPG Decision Support R-S, GPG Decision Support T-Z
+X-cc: 
+X-bcc: 
+X-Folder: \Dana_Davis_Dec2000\Notes Folders\Finanial operations
+X-Origin: Davis-D
+X-FileName: ddavis2.nsf
+
+To All DSS Users,
+
+Currently there is no mechanism for changing your password on DSS.  
+
+On May 15, 2000, we will be putting a new procedure into effect that will 
+function similarly to the LAN change password procedure.  Passwords for DSS 
+users will begin to expire in early June, and every 60 days thereafter.  You 
+will be receiving 5 Password Expiration e-mails as the deadline approaches.  
+Each of these messages will notify you that your DSS password will expire in 
+the specified time interval.
+
+These e-mails will be sent as follows:
+E-mail  #1 - 2 weeks before expiration date
+ #2 - 1 week before expiration date
+ #3 - 2 days before expiration date
+ #4 - 1 day before expiration date
+ #5 - The day the password expires
+
+We now have a new module that will allow you to change your password.  When 
+this module is executed, a window will display which will prompt you for your 
+current password, New password, and repeat New password.  There are certain 
+criteria that the new password must meet for it to successfully change.  
+Follow the instructions on this window to choose a new password.  You may run 
+this module anytime, but once you change your password, the module must be 
+closed before it can be run again.
+
+Please Detach (double-click) the following module and save it in the location 
+that you normally save your DSS modules/databases.  This may be on your hard 
+(C:) drive or personal (H:) drive.  As long as you remember where it is, it 
+really doesn't matter where you save it.  When the time comes, Execute 
+(double-click) the module to change your DSS password.
+
+
+
+
+
+If you have any questions or problems, please call the DSS HelpDesk at 
+x31555, option 6 OR Lotus Notes e-mail at GPG DSS.
+
+Thank you.
+
+From MAILER-DAEMON Mon Apr 18 14:19:40 2022
+Message-ID: <25133533.1075853943796.JavaMail.evans@thyme>
+Date: Wed, 25 Oct 2000 06:25:00 -0700 (PDT)
+From: amy.jon@enron.com
+To: dana.davis@enron.com
+Subject: co72R - 25149100 account info
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Amy Jon
+X-To: Dana Davis
+X-cc: 
+X-bcc: 
+X-Folder: \Dana_Davis_Dec2000\Notes Folders\Finanial operations
+X-Origin: Davis-D
+X-FileName: ddavis2.nsf
+
+Hi Dana,
+
+I am the tax accountant for co72R, ENA CLO I Holding Company I LP.  Could you 
+please explain the deferred debits account 
+25149100?  I noticed in SAP that the account was reclassed to 59099900 (tax 
+expense).  I appreciate your help and please call
+me at 30925 if you have any questions.
+
+Thanks,
+Amy
+
+From MAILER-DAEMON Mon Apr 18 14:19:40 2022
+Message-ID: <17912637.1075853961957.JavaMail.evans@thyme>
+Date: Wed, 3 Jan 2001 04:10:00 -0800 (PST)
+From: pat.johnson@enron.com
+To: dana.davis@enron.com
+Subject: Thanks and another request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Pat Johnson
+X-To: Dana Davis
+X-cc: 
+X-bcc: 
+X-Folder: \Dana_Davis_Jun2001\Notes Folders\Finanial operations
+X-Origin: Davis-D
+X-FileName: ddavis2.nsf
+
+Dana - 
+
+Thanks a bunch for those Vastar fundings!  Just what I needed!
+
+And of course, there's always more that I need...Since it's year-end, 
+everyone is asking for up-to-date reports.  That's the bad news.  The good 
+news is, I'm only missing the following items for Cypress and they're very 
+recent.  I don't need them today, but I just wanted to let you know I'll 
+probably be hunting them later this week.
+
+Thanks again!
+
+Pat
+5-3369
+
+
+From MAILER-DAEMON Mon Apr 18 14:19:40 2022
+Message-ID: <28541621.1075853944097.JavaMail.evans@thyme>
+Date: Thu, 6 Apr 2000 03:30:00 -0700 (PDT)
+From: mark.frank@enron.com
+To: bus.all-hou@enron.com
+Subject: Promotion
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Mark Frank
+X-To: Bus Anal & Rptg All-Hou
+X-cc: 
+X-bcc: 
+X-Folder: \Dana_Davis_Dec2000\Notes Folders\Finanial operations
+X-Origin: Davis-D
+X-FileName: ddavis2.nsf
+
+Please join me in congratulating Jenny Reed in her promotion to Admin II for 
+the Consolidations group.
+Jenny will be assuming responsibilities as our admin immediately.
+We are all proud of her accomplishments and look forward to her continued 
+success!
+
+mhf
+
+From MAILER-DAEMON Mon Apr 18 14:19:40 2022
+Message-ID: <15412964.1075853944142.JavaMail.evans@thyme>
+Date: Fri, 28 Jan 2000 07:33:00 -0800 (PST)
+From: rufino.doroteo@enron.com
+To: dana.davis@enron.com
+Subject: 
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Rufino Doroteo
+X-To: Dana Davis
+X-cc: 
+X-bcc: 
+X-Folder: \Dana_Davis_Dec2000\Notes Folders\Finanial operations
+X-Origin: Davis-D
+X-FileName: ddavis2.nsf
+
+you better not loose this file again!!!   don't forget to change the 
+information on it already to ours!
+
+
+From MAILER-DAEMON Mon Apr 18 14:19:40 2022
+Message-ID: <25736319.1075853943889.JavaMail.evans@thyme>
+Date: Thu, 19 Oct 2000 10:30:00 -0700 (PDT)
+From: laynie.east@enron.com
+To: marnie.lamb@enron.com, dana.davis@enron.com
+Subject: Re: E-Schedule Responsibilities
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Laynie East
+X-To: Marnie Lamb, Dana Davis
+X-cc: 
+X-bcc: 
+X-Folder: \Dana_Davis_Dec2000\Notes Folders\Finanial operations
+X-Origin: Davis-D
+X-FileName: ddavis2.nsf
+
+Marnie - Here are the e-schedules I prepared for Canada.
+
+Dana - Please print three copies for Keith.
+Co. 28C - ELIST, E-6, E-20
+C0. 46L - ELIST, E-1, E-4
+
+Please let me know if you have any questions or need any other information.
+
+ 
+
+Thanks,
+Laynie
+
+
+
+
+Marnie Lamb@ENRON
+10/18/2000 03:47 PM
+To: Laynie East/HOU/ECT@ECT
+cc:  
+Subject: Re: E-Schedule Responsibilities  
+
+Yes, please have someone there review.  Can you e-mail them to me when you 
+are done?
+
+Thanks,
+Marnie
+
+
+   
+	
+	
+	From:  Laynie East @ ECT                           10/18/2000 10:06 AM
+	
+
+To: Marnie Lamb/NA/Enron@ENRON
+cc:  
+
+Subject: Re: E-Schedule Responsibilities  
+
+Marnie,
+
+How do you want to handle the review of companies 28C and 46L since I'm not 
+in the Houston office?  If you would like, I can get someone here to review 
+them.
+
+Laynie
+
+
+
+Marnie Lamb@ENRON
+10/13/2000 09:23 AM
+To: Susan Rance/NA/Enron@Enron, Kevin Jolly/HOU/ECT@ECT, Brian 
+Schwertner/NA/Enron@Enron, Laynie East/HOU/ECT@ECT, Lisa King/HOU/ECT@ECT, 
+Lisa Best/Corp/Enron@Enron, Rosalyn Lum/Corp/Enron@Enron, Stacy 
+Hardy/Corp/Enron@ENRON, Tammy Barta/HOU/ECT@ECT
+cc:  
+Subject: E-Schedule Responsibilities
+
+Hi All,
+
+Attached is the 3Q E-Schedule Responsibility List.  There have been a few 
+changes from 2Q due to new companies and staffing changes, so please review 
+the attached list carefully.  If you have any questions or concerns, please 
+let me know.
+
+As a reminder, please have these completed schedules to me by Friday 
+morning.  Obviously the earlier I get them, the better off I am, so if you 
+can get them to me earlier than that, I would appreciate it.
+
+
+
+
+Thanks,
+Marnie
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:19:40 2022
+Message-ID: <6553433.1075853961935.JavaMail.evans@thyme>
+Date: Mon, 8 Jan 2001 02:40:00 -0800 (PST)
+From: tammy.barta@enron.com
+To: rosemary.leblanc@enron.com
+Subject: St. Mary's Bank Info
+Cc: pam.becton@enron.com, stacey.aune@enron.com, dana.davis@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: pam.becton@enron.com, stacey.aune@enron.com, dana.davis@enron.com
+X-From: Tammy Barta
+X-To: Rosemary LeBlanc
+X-cc: Pam Becton, Stacey A Aune, Dana Davis
+X-bcc: 
+X-Folder: \Dana_Davis_Jun2001\Notes Folders\Finanial operations
+X-Origin: Davis-D
+X-FileName: ddavis2.nsf
+
+Rosemary,
+Dana Davis is sending the original wires back to you to enter into the A/P 
+system for the month of January.  The wires have been sent out to Southwest 
+Bank of Texas so you will only be entering this information into the A/P 
+system but NO WIRES SHOULD BE SENT.
+
+Please code (Debit) these 3 wires to 30016000, Profit Center 12854 (as marked 
+on the wire request).  
+
+Should you have any questions or problems, please call me at 853-5961.
+
+Thanks,
+Tammy    
+---------------------- Forwarded by Tammy Barta/HOU/ECT on 01/08/2001 10:45 
+AM ---------------------------
+
+
+Pam Becton
+01/08/2001 08:59 AM
+To: Tammy Barta/HOU/ECT@ECT
+cc:  
+Subject: St. Mary's Bank Info
+
+Tammy:
+
+Please provide Rosemary with the coding we discussed if not already in AP for 
+January.
+
+Thank you!
+Pam
+
+---------------------- Forwarded by Pam Becton/HOU/ECT on 01/08/2001 07:59 AM 
+---------------------------
+From: Rosemary LeBlanc@ENRON on 01/08/2001 08:16 AM
+Sent by: Rosemary Leblanc@ENRON
+To: Pam Becton/HOU/ECT@ECT
+cc: Dana Davis/HOU/ECT@ECT 
+Subject: St. Mary's Bank Info
+
+     Yes, its too late and  AP  Dept. Dec. closing was not open on 1/2 the 
+only way to booked for Dec  is to do it yourself by Journal Entry.  Dana has 
+the wires it was sent back with her
+last week.   If you have any questions please let me know. 
+
+Thanks,
+RL
+
+
+----- Forwarded by Rosemary Leblanc/GPGFIN/Enron on 01/08/2001 08:09 AM -----
+
+	Pam Becton@ECT
+	01/04/2001 04:04 PM
+		 
+		 To: Rosemary LeBlanc/GPGFIN/Enron@ENRON
+		 cc: Dana Davis/HOU/ECT@ECT
+		 Subject: St. Mary's Bank Info
+
+Rosemary,
+
+This needs to be entered in December 2000 in A/P.    Is it too late?  I sent 
+the addresses on 1/2 and I heard A/P was still open for December on that 
+date.  Yes, it will mess us up if you enter this is January.  What are the 
+options?
+
+Pam
+3-6595
+
+
+---------------------- Forwarded by Pam Becton/HOU/ECT on 01/04/2001 03:01 PM 
+---------------------------
+   
+	Enron North America Corp.
+	
+	From:  Dana Davis                           01/04/2001 03:27 PM
+	
+
+To: Pam Becton/HOU/ECT@ECT
+cc:  
+Subject: St. Mary's Bank Info
+
+
+---------------------- Forwarded by Dana Davis/HOU/ECT on 01/04/2001 03:26 PM 
+---------------------------
+From: Rosemary LeBlanc@ENRON on 01/04/2001 02:58 PM
+Sent by: Rosemary Leblanc@ENRON
+To: Dana Davis/HOU/ECT@ECT
+cc:  
+Subject: St. Mary's Bank Info
+
+DANA,  YES SHE DID SEND ME A EMAIL BUT IF I WAS TO BOOKED THE WIRES IN JAN 
+2001  YOU WILL BE OFF FOR YEAR 2000  DEC. BOOKS.    IF YOU WANT ME 
+TO GO HEAD LET ME KNOW.
+
+THANKS,
+
+RL
+
+----- Forwarded by Rosemary Leblanc/GPGFIN/Enron on 01/04/2001 03:00 PM -----
+
+	Pam Becton@ECT
+	01/02/2001 01:01 PM
+		 
+		 To: Rosemary LeBlanc/GPGFIN/Enron@ENRON
+		 cc: Dana Davis/HOU/ECT@ECT, Tammy Barta/HOU/ECT@ECT
+		 Subject: St. Mary's Bank Info
+
+Rosemary:
+
+Here are the addresses you needed for three wires processed in December that 
+you faxed to Dana last week.  These are December payables, so they need to  
+be entered for December business.   Let me know if you need any more 
+information from me.
+
+Thanks,
+Pam
+3-6595
+---------------------- Forwarded by Pam Becton/HOU/ECT on 01/02/2001 11:58 AM 
+---------------------------
+   
+	Enron North America Corp.
+	
+	From:  Eric Wardle                           01/02/2001 10:31 AM
+	
+
+To: Pam Becton/HOU/ECT@ECT
+cc:  
+Subject: St. Mary's Bank Info
+
+Pam,
+Here is St. Mary's address:
+
+St. Mary's Production, LLC
+1717 Woodstead Court, Suite 207
+The Woodlands, Tx 77380
+
+Below is the Southwest Bank of Texas information sent by St. Mary's.
+
+Let me know if you need any additional information.
+
+---------------------- Forwarded by Eric Wardle/HOU/ECT on 01/02/2001 10:28 
+AM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  Eric Wardle                           12/04/2000 06:36 PM
+	
+
+To: Tammy Barta/HOU/ECT@ECT
+cc:  
+Subject: Bank Info
+
+
+---------------------- Forwarded by Eric Wardle/HOU/ECT on 12/04/2000 06:35 
+PM ---------------------------
+
+
+"Preston Exploration, LLC" <preston@prestonexpl.com> on 12/04/2000 06:22:07 PM
+To: <ewardle@enron.com>
+cc:  
+Subject: 
+
+
+
+Eric:
+?
+Our bank address is:
+?
+Southwest Bank of Texas
+5 Post Oak Park 
+4400 Post Oak Parkway
+Houston, Tx.? 77027
+A. Stephen Kennedy
+Senior VP - Energy Lending
+?
+Jay Hartman
+?
+
+
+
+
+
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:19:40 2022
+Message-ID: <6488538.1075853943726.JavaMail.evans@thyme>
+Date: Mon, 27 Nov 2000 01:41:00 -0800 (PST)
+From: brad.carey@enron.com
+To: stacy.hardy@enron.com, rosalyn.lum@enron.com, laynie.east@enron.com,
+	lisa.best@enron.com, lisa.king@enron.com, kevin.jolly@enron.com,
+	tammy.barta@enron.com, brian.schwertner@enron.com,
+	susan.rance@enron.com, stephen.wolfe@enron.com,
+	kristi.fredericks@enron.com, rufino.doroteo@enron.com,
+	dana.davis@enron.com
+Subject: Wire Transfers and Requests
+Cc: marnie.lamb@enron.com, pam.becton@enron.com, michael.galvan@enron.com,
+	hope.vargas@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: marnie.lamb@enron.com, pam.becton@enron.com, michael.galvan@enron.com,
+	hope.vargas@enron.com
+X-From: Brad Carey
+X-To: Stacy Hardy, Rosalyn Lum, Laynie East, Lisa Best, Lisa King, Kevin Jolly, Tammy Barta, Brian Schwertner, Susan Rance, Stephen Wolfe, Kristi Fredericks, Rufino Doroteo, Dana Davis
+X-cc: Marnie Lamb, Pam Becton, Michael S Galvan, Hope Vargas
+X-bcc: 
+X-Folder: \Dana_Davis_Dec2000\Notes Folders\Finanial operations
+X-Origin: Davis-D
+X-FileName: ddavis2.nsf
+
+Hold off on pulling together this information.  I need to have several 
+clarifying questions answered by AA and also to sit down with Dana tomorrow 
+to see if she can help me with most of the exercise.  I will need all of you 
+to fill in any potential gaps and verify the information I pull together 
+before I submit it to AA.
+
+Thanks,
+
+Brad
+---------------------- Forwarded by Brad Carey/NA/Enron on 11/27/2000 09:34 
+AM ---------------------------
+
+
+Hope Vargas@ECT
+11/27/2000 08:32 AM
+To: Dana Davis/HOU/ECT@ECT
+cc: Brad Carey/NA/Enron@Enron, Michael S Galvan/HOU/ECT@ECT 
+
+Subject: Wire Transfers and Requests
+
+Dana,
+ Please help Brad with this request.  Thanks.
+---------------------- Forwarded by Hope Vargas/HOU/ECT on 11/27/2000 08:35 
+AM ---------------------------
+
+
+Michael S Galvan
+11/27/2000 07:15 AM
+To: brad carey
+cc: hope vargas, marnie lamb, pam becton 
+Subject: Wire Transfers and Requests
+
+Brad,
+Would you please coordinate the AA request below with our accountants?  We're 
+only needing new 2000 deals.  Let's provide to AA by the end of the day, this 
+Friday.
+Thanks,
+Mike
+
+---------------------- Forwarded by Michael S Galvan/HOU/ECT on 11/27/2000 
+07:14 AM ---------------------------
+
+
+Kristi Albaugh@ENRON
+11/21/2000 09:32 AM
+To: Michael S Galvan/HOU/ECT@ECT
+cc:  
+Subject: Wire Transfers and Requests
+
+Mike-
+
+We would greatly appreciate it if you could please see to it that we obtain 
+the wire transfer and requests for all investments entered into during FY00.  
+Please note that on a go-forward basis we would like to obtain this 
+information when we receive an investment's DASH.
+
+Should you have any questions, please don't hesitate to call.
+
+
+Thanks,
+
+Kristi
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:19:40 2022
+Message-ID: <30217062.1075853944006.JavaMail.evans@thyme>
+Date: Mon, 10 Jul 2000 01:56:00 -0700 (PDT)
+From: dana.davis@enron.com
+To: dana.davis@enron.com
+Subject: ACT: New DSS Change Password Procedure
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Dana Davis
+X-To: Dana Davis
+X-cc: 
+X-bcc: 
+X-Folder: \Dana_Davis_Dec2000\Notes Folders\Finanial operations
+X-Origin: Davis-D
+X-FileName: ddavis2.nsf
+
+---------------------- Forwarded by Dana Davis/HOU/ECT on 07/10/2000 08:56 AM 
+---------------------------
+
+05/30/2000 04:02 PM
+Sharon Tanner@ENRON
+Sharon Tanner@ENRON
+Sharon Tanner@ENRON
+05/30/2000 04:02 PM
+05/30/2000 04:02 PM
+To: Dana Davis/HOU/ECT@ECT
+cc:  
+Subject: ACT: New DSS Change Password Procedure
+
+fyi...
+Thanks.
+---------------------- Forwarded by Sharon Tanner/GPGFIN/Enron on 05/30/2000 
+04:02 PM ---------------------------
+
+
+GPG DSS
+05/08/2000 11:06 AM
+To: GPG Decision Support A-B, GPG Decision Support C-D, GPG Decision Support 
+E-HA, GPG Decision Support HE-MC, GPG Decision Support ME-Q, GPG Decision 
+Support R-S, GPG Decision Support T-Z
+cc:  
+
+Subject: ACT: New DSS Change Password Procedure  
+
+
+
+To All DSS Users,
+
+Currently there is no mechanism for changing your password on DSS.  
+
+On May 15, 2000, we will be putting a new procedure into effect that will 
+function similarly to the LAN change password procedure.  Passwords for DSS 
+users will begin to expire in early June, and every 60 days thereafter.  You 
+will be receiving 5 Password Expiration e-mails as the deadline approaches.  
+Each of these messages will notify you that your DSS password will expire in 
+the specified time interval.
+
+These e-mails will be sent as follows:
+E-mail  #1 - 2 weeks before expiration date
+ #2 - 1 week before expiration date
+ #3 - 2 days before expiration date
+ #4 - 1 day before expiration date
+ #5 - The day the password expires
+
+We now have a new module that will allow you to change your password.  When 
+this module is executed, a window will display which will prompt you for your 
+current password, New password, and repeat New password.  There are certain 
+criteria that the new password must meet for it to successfully change.  
+Follow the instructions on this window to choose a new password.  You may run 
+this module anytime, but once you change your password, the module must be 
+closed before it can be run again.
+
+Please Detach (double-click) the following module and save it in the location 
+that you normally save your DSS modules/databases.  This may be on your hard 
+(C:) drive or personal (H:) drive.  As long as you remember where it is, it 
+really doesn't matter where you save it.  When the time comes, Execute 
+(double-click) the module to change your DSS password.
+
+
+
+
+
+If you have any questions or problems, please call the DSS HelpDesk at 
+x31555, option 6 OR Lotus Notes e-mail at GPG DSS.
+
+Thank you.
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:19:40 2022
+Message-ID: <10840253.1075853943775.JavaMail.evans@thyme>
+Date: Tue, 31 Oct 2000 02:15:00 -0800 (PST)
+From: kevin.jolly@enron.com
+To: lisa.king@enron.com, brian.schwertner@enron.com, stacy.hardy@enron.com,
+	kristi.fredericks@enron.com, tammy.barta@enron.com,
+	lisa.best@enron.com, laynie.east@enron.com, rosalyn.lum@enron.com,
+	susan.rance@enron.com, dana.davis@enron.com,
+	rufino.doroteo@enron.com, brad.carey@enron.com,
+	stephen.wolfe@enron.com
+Subject: Re: Spreadsheet for Review - New Cost Elements (60000000-79999999)
+Cc: hope.vargas@enron.com, marnie.lamb@enron.com, pam.becton@enron.com,
+	michael.galvan@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: hope.vargas@enron.com, marnie.lamb@enron.com, pam.becton@enron.com,
+	michael.galvan@enron.com
+X-From: Kevin Jolly
+X-To: Lisa King, Brian Schwertner, Stacy Hardy, Kristi Fredericks, Tammy Barta, Lisa Best, Laynie East, Rosalyn Lum, Susan Rance, Dana Davis, Rufino Doroteo, Brad Carey, Stephen Wolfe
+X-cc: Hope Vargas, Marnie Lamb, Pam Becton, Michael S Galvan
+X-bcc: 
+X-Folder: \Dana_Davis_Dec2000\Notes Folders\Finanial operations
+X-Origin: Davis-D
+X-FileName: ddavis2.nsf
+
+Per Stacy Aune concerning this issue, her understanding is that a manual 
+entry will be kicked out unless a cost center is entered for applicable 
+accounts.  If you have entries to accounts 60000000-79999999 you should 
+replace the profit center with a cost center for entries with a posting date 
+on or after 11/1/00.  Most profit centers have one or more related cost 
+centers assigned to them per the Standard Hierarchy Report but some do not.  
+If your chosen profit center does not have a related cost center let me 
+know.    
+
+Keep in mind that this is only for accts. 60000000-79999999 and most of those 
+accounts are not used by our group.  However, we do use some of the accounts 
+such as 62000000 Interest Income - Third Party, among others.  
+
+Cost Centers are only needed for these accounts for entries with a posting 
+date of 11/1/00 or later.  If you are doing 10/31/00 close entries, do them 
+the same as you have been.
+
+Since we are in the middle of 10/00 close and this issue does not affect 
+10/31/00 entries, I will remind everyone in November to review this issue for 
+their entries.  Let me know if you have any questions.  
+
+Kevin
+
+
+
+
+
+Hope Vargas
+10/30/2000 06:08 PM
+To: Kevin Jolly/HOU/ECT@ECT
+cc: Marnie Lamb/NA/Enron@Enron 
+Subject: Spreadsheet for Review - New Cost Elements (60000000-79999999)
+
+Kevin,
+ Can you please coordinate this by Friday, November 10th.  We should have 
+profit centers set up for all of our companies, but I am not sure about cost 
+centers.  Please refer to the Standard Hierarchy Report.   Let me know if you 
+have any questions.  Thanks.
+
+
+---------------------- Forwarded by Hope Vargas/HOU/ECT on 10/30/2000 07:05 
+PM ---------------------------
+
+
+Stacey A Aune
+10/30/2000 03:43 PM
+To: Pam Becton/HOU/ECT@ECT, Marnie Lamb/NA/Enron@Enron, Karry 
+Kendall/HOU/ECT@ECT, Yvette Miroballi/HOU/ECT@ECT, Cheryl Dawes/CAL/ECT@ECT, 
+Todd Warwick/HOU/ECT@ECT, Faith Killen/HOU/ECT@ECT, Troy 
+Klussmann/HOU/ECT@ECT, Jim Pond/Corp/Enron@Enron, Jody Pierce/HOU/ECT@ECT, 
+Susan Helton/HOU/ECT@ECT, Sarah Brown/HOU/ECT@ECT
+cc: Hope Vargas/HOU/ECT@ECT, Nadia A Rodriguez/NA/Enron@ENRON, Michael S 
+Galvan/HOU/ECT@ECT, Greg Whiting/Corp/Enron@ENRON, Stephen 
+Thatcher/Corp/Enron@Enron 
+Subject: Spreadsheet for Review - New Cost Elements (60000000-79999999)
+
+As most of you may already know, beginning November 1st  (Sorry, we got this 
+Friday afternoon!), the 60000000-79999999 range of accounts will now require 
+a cost center instead of a profit center when using those accounts.  Some of 
+the accounts that this range includes is Interest Income/Expense, Gain/Loss 
+on Foreign Currency, and Gain/Losses on Disposition of Assets.
+
+Unfortunately, the processes that are run automatically by the ISC that 
+eventually book to these accounts, will hit a default cost center on each 
+company if one is not specified.  This is very similar to the derivation 
+pooling profit center 12951.  The ISC is giving us the opportunity to specify 
+by company/account what the default cost center should be for each account.
+
+Please review the attached spreadsheet below.  It contains a row for each 
+company and shows the default cost center the ISC has chosen for each account.
+ 
+
+Please respond back to me with the following:
+
+1)  Confirmation that you have reviewed and agree with the cost center that 
+has been chosen for each account on your company
+
+    -OR-
+
+2)  An attachment with the changes you desire the ISC to make with regards to 
+your default cost center by account
+
+These changes will affect any posting date of November 1st or later.  For 
+those of you who have FX revalution on your companies, this change will have 
+an effect in October close when the FX program is run after the last workday.
+
+I need a response from those companies with FX revalution ASAP.
+
+For the remainder of the companies, I would like a response by Friday, 
+November 10th.
+
+Thanks for your efforts in advance and sorry for the short notice,
+
+Stacey
+
+
+
+
+
+------------------------
+
+
+Braden Sewell@ENRON
+10/27/2000 01:22 PM
+To: Allen W Ueckert/NA/Enron@Enron, Allison Millan/ET&S/Enron@ENRON, Amy 
+Spoede/HOU/ECT@ECT, Bart Myers/Corp/Enron@Enron, Chaundra 
+Perry/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Chris Musngi/NA/Enron@ENRON, 
+conniem@nepco.com, David Andrews/Corp/Enron@Enron, David 
+McEllin/FGT/Enron@ENRON, David Vandor/Corp/Enron@ENRON, Dawn 
+Derr/Corp/Enron@ENRON, Deborah Pritt/NA/Enron@ENRON, Donna 
+Burns/NPNG/Enron@ENRON, Elise Clark/Corp/Enron@ENRON, Igor 
+Miotto/SA/Enron@Enron, Je Chang/ET&S/Enron@ENRON, Jeff Smith/HOU/ECT@ECT, 
+Jill Erwin/HOU/ECT@ECT, Jim Davoli/Corp/Enron@ENRON, Judi 
+Carter/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Judy Lin/GPGFIN/Enron@ENRON, 
+Julia Pittman/GPGFIN/Enron@ENRON, Keith Simper/HOU/ECT@ECT, kimc@nepco.com, 
+Krysti Knight/HOU/ECT@ECT, Leo Paige/Enron Communications@Enron 
+Communications, Luis Juarros/SA/Enron@Enron, Odair Ribeiro/SA/Enron@Enron, 
+Pamela Rush/Corp/Enron@ENRON, Patricia Anderson/HOU/ECT@ECT, Patricia 
+Shannon/HOU/ECT@ECT, Patrick Dominguez/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, 
+Paula J Parrish/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Robert D 
+Smith/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, ronp@nepco.com, Sheila 
+Miller/NA/Enron@ENRON, Stephen Schwarzbach/Corp/Enron@Enron, Steve 
+Frazier/HOU/EES@EES, Thach C Phan/Corp/Enron@Enron, Thao 
+Nguyen/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, Thomas Meers/GPGFIN/Enron@ENRON, 
+Todd Ross/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT
+cc: Stacey A Aune/HOU/ECT@ECT, Maya Beyhum/LON/ECT@ECT, Duane 
+Fritz/Corp/Enron@ENRON, Randy Parman/Corp/Enron@ENRON, Brandee 
+Sanborn/Corp/Enron@ENRON 
+Subject: Spreadsheet for Review - New Cost Elements (60000000-79999999)
+
+I promise this is the last note about this today.
+
+The attached spreadsheet has all the default cost centers we have loaded in 
+the system for the accounts listed below.  We  have made an initial attempt 
+to do this for you.    It is not required to use the same default cost center 
+for each of these accounts on a company code.  Previously when these defaults 
+were assigned at the profit center level, you were only allowed one default 
+profit center for a company code.  We are not encouraging multiple default 
+cost centers for these accounts, but we just want to offer the flexibility.
+
+Please review the attached file, and forward me any changes you would like 
+made.  You may only need to review the fields in yellow & green.  I have 
+already sent you a note regarding the "No CC" fields that are in red.   We 
+are only entering the default cost centers for the accounts that had activity 
+on your company codes in year 2000.  That is why there are a lot of empty 
+fields you do not have to worry about.   We will continue to add and modify 
+the cost center defaults on an as needed basis.
+
+Use this information to help you analyze the spreadsheet:
+Accounts in black The accounts in black were already cost elements and 
+already had the default cost centers assigned.  
+Accounts in blue- The accounts in blue are the new cost elements.  If there 
+was an existing default cost center for a company, we have already assigned 
+it to    the new accounts in blue.  
+
+Yellow  We selected a default cost center from the values assigned to  the 
+default profit center for that company code.
+Green  There was not a default profit center so we reviewed the cost centers 
+on that company and selected the one we thought was most appropriate.
+Red  This company code did not have any cost centers.  I have already asked 
+you for these in a previous email. 
+
+
+
+If you make changes, please move them to a spreadsheet by themselves or make 
+them easy for us to identify in this spreadsheet.   Thanks again for all your 
+help.  
+
+Accounts posted to automatically by the system
+
+
+
+* Already a cost element before this new process.
+ 
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:19:40 2022
+Message-ID: <27411553.1075853961888.JavaMail.evans@thyme>
+Date: Wed, 10 Jan 2001 01:25:00 -0800 (PST)
+From: nicole.mendez@enron.com
+To: donna.jones@enron.com, cindy.shaffer@enron.com, kimberly.hillis@enron.com,
+	jana.mills@enron.com, dana.davis@enron.com,
+	bsalesi@tractebelpowerinc.com, llavin@plainsresources.com
+Subject: Fwd: a good laugh or two
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Nicole Mendez
+X-To: Donna Jones, Cindy Shaffer, Kimberly Hillis, Jana Mills, Dana Davis, bsalesi@tractebelpowerinc.com, llavin@plainsresources.com
+X-cc: 
+X-bcc: 
+X-Folder: \Dana_Davis_Jun2001\Notes Folders\Finanial operations
+X-Origin: Davis-D
+X-FileName: ddavis2.nsf
+
+---------------------- Forwarded by Nicole Mendez/HOU/ECT on 01/10/2001 09:21 
+AM ---------------------------
+
+
+Lindsay Long
+01/09/2001 05:24 PM
+To: Misti Day/HOU/ECT@ECT, Ricardo Guerra/Corp/Enron@ENRON, Paula 
+Harris/HOU/ECT@ECT, Edie Leschber/HOU/ECT@ECT, Tracey Irvin/HOU/ECT@ECT, 
+Susan Helton/HOU/ECT@ECT, Tammy R Shepperd/HOU/ECT@ECT, Faith 
+Killen/HOU/ECT@ECT, Georgeanne Hodges/HOU/ECT@ECT, Toni 
+Bustamante/HOU/ECT@ECT, Kelly Ellis/Corp/Enron@Enron, Nicole 
+Mendez/HOU/ECT@ECT, Jody Pierce/HOU/ECT@ECT, Hope Vargas/HOU/ECT@ECT, Stacey 
+A Aune/HOU/ECT@ECT, Jeff Smith/HOU/ECT@ECT, Patricia A Lee/HOU/EES@EES, Glenn 
+Kobes/Corp/Enron@Enron, Shiji Varkey/Corp/Enron@ENRON, Laynie East/HOU/ECT@ECT
+cc:  
+Subject: Fwd: a good laugh or two
+
+This is too good to miss.
+
+Lindsay
+---------------------- Forwarded by Lindsay Long/HOU/ECT on 01/09/2001 05:24 
+PM ---------------------------
+
+
+"Dorothy Matthews" <DMATTHEW@mind.hcpc.uth.tmc.edu> on 01/09/2001 03:08:27 PM
+To: "Maria A. Rodriguez"<110267.3364@compuserve.com>, 
+tprice@council-houston.org, rmbressie@earthlink.net, Lindsay.Long@enron.com, 
+boak@hal-pc.org, hnordmeyer@mymailstation.com, joellen.hill@solvay.com
+cc:  
+Subject: Fwd: a good laugh or two
+
+
+D
+Content-Type: text/plain; charset=US-ASCII
+Content-Disposition: inline
+
+
+Subject: True or not, its good!
+
+
+Green Garden Grass snakes can be dangerous, Yes, grass snakes, not
+rattlesnakes.
+
+A couple in Sweetwater, Texas had a lot of potted plants, and during a
+recent cold spell, the wife was bringing in a lot of them indoors to
+protect them from a possible freeze.
+
+It turned out that a little green garden grass snake was hidden in one of
+the plants and when it had warmed up, it slithered out and the wife saw it
+go under the sofa.
+
+She let out a very loud scream. The husband who was taking a shower ran out
+into the living room naked to see what the problem was.  She told him there
+was a snake under the sofa. He got down on the floor on his hands and knees
+to look for it.
+
+About that time the family dog came and cold-nosed him in the butt.
+
+He thought the snake had bitten him, so he fainted.
+
+His wife thought he had a heart attack, so she called an ambulance. The
+attendants rushed in and loaded him on the stretcher and started carrying
+him out. About that time the snake came out from under the sofa and the
+Emergency Medical Technician saw it and dropped his end of the stretcher.
+
+That's when the man broke his leg and why he is in the hospital.
+
+The wife still had the problem of the snake in the house, so she called on
+a neighbor man. He volunteered to capture the snake.
+
+He armed himself with a rolled-up newspaper and began poking under the
+couch. Soon he decided it was gone and told the woman, who sat down on the
+sofa in relief. But in relaxing, her hand dangled in between the cushions,
+where she felt the snake wriggling around.
+
+She screamed and fainted, the snake rushed back under the sofa, and the
+neighbor man seeing her laying there passed out tried to use CPR to revive
+her.
+
+The neighbor's wife, who had just returned from shopping at the grocery
+store, saw her husband's mouth on the woman's mouth and slammed her husband
+in the back of the head with a bag of canned goods, knocking him out and
+cutting his scalp to a point where it needed stitches. An ambulance was
+again called and it was determined that the injury required hospitalization.
+
+The noise woke the woman from her dead faint and she saw her neighbor lying
+on the floor with his wife bending over him, so she assumed that he had
+been bitten by the snake. She went to the kitchen, brought back a small
+bottle of whiskey, and began pouring it down the man's throat.
+
+By now the police had arrived. They saw the unconscious man, smelled the
+whiskey, and assumed that a drunken fight had occurred.
+
+They were about to arrest them all, when the two women tried to explain how
+it all happened over a little green snake. They called an ambulance, which
+took away the neighbor and his sobbing wife.
+
+Just then the little snake crawled out from under the couch, One of the
+policemen drew his gun and fired at it. He missed the snake and hit the leg
+of the end table that was on one side of the sofa.
+
+The table fell over and the lamp on it shattered and as the bulb broke, it
+started a fire in the drapes. The other policeman tried to beat out the
+flames and fell through the window into the yard on top of the family dog,
+who startled, jumped up and raced out into the street,  where an oncoming
+car swerved to avoid it and smashed into the parked police car and set it
+on fire.
+
+Meanwhile the burning drapes had spread to the walls and the entire house
+was blazing. Neighbors had called the fire department and the arriving
+fire-truck had started raising his ladder as they were halfway down the
+street. The rising ladder tore out the overhead wires and put out the
+electricity and disconnected the telephones in a ten-square city block area.
+
+
+Time passed -----------------
+
+
+Both men were discharged from the hospital, the house was re-built,
+
+The police acquired a new car, and all was right with their world
+
+-------
+
+About a year later they were watching TV and the weatherman announced a
+cold snap for that night. The husband asked his wife if  she thought they
+should bring in their plants for the night.
+
+She shot him.
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:19:40 2022
+Message-ID: <958943.1075853943749.JavaMail.evans@thyme>
+Date: Mon, 27 Nov 2000 00:32:00 -0800 (PST)
+From: hope.vargas@enron.com
+To: dana.davis@enron.com
+Subject: Wire Transfers and Requests
+Cc: brad.carey@enron.com, michael.galvan@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: brad.carey@enron.com, michael.galvan@enron.com
+X-From: Hope Vargas
+X-To: Dana Davis
+X-cc: Brad Carey, Michael S Galvan
+X-bcc: 
+X-Folder: \Dana_Davis_Dec2000\Notes Folders\Finanial operations
+X-Origin: Davis-D
+X-FileName: ddavis2.nsf
+
+Dana,
+ Please help Brad with this request.  Thanks.
+---------------------- Forwarded by Hope Vargas/HOU/ECT on 11/27/2000 08:35 
+AM ---------------------------
+
+
+Michael S Galvan
+11/27/2000 07:15 AM
+To: brad carey
+cc: hope vargas, marnie lamb, pam becton 
+Subject: Wire Transfers and Requests
+
+Brad,
+Would you please coordinate the AA request below with our accountants?  We're 
+only needing new 2000 deals.  Let's provide to AA by the end of the day, this 
+Friday.
+Thanks,
+Mike
+
+---------------------- Forwarded by Michael S Galvan/HOU/ECT on 11/27/2000 
+07:14 AM ---------------------------
+
+
+Kristi Albaugh@ENRON
+11/21/2000 09:32 AM
+To: Michael S Galvan/HOU/ECT@ECT
+cc:  
+Subject: Wire Transfers and Requests
+
+Mike-
+
+We would greatly appreciate it if you could please see to it that we obtain 
+the wire transfer and requests for all investments entered into during FY00.  
+Please note that on a go-forward basis we would like to obtain this 
+information when we receive an investment's DASH.
+
+Should you have any questions, please don't hesitate to call.
+
+
+Thanks,
+
+Kristi
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:19:40 2022
+Message-ID: <13292104.1075853944076.JavaMail.evans@thyme>
+Date: Mon, 24 Apr 2000 02:02:00 -0700 (PDT)
+From: adarsh.vakharia@enron.com
+To: dennis.brown@enron.com, stacy.hardy@enron.com, rebecca.sanchez@enron.com,
+	rosalyn.lum@enron.com, lisa.best@enron.com, laynie.east@enron.com,
+	lisa.king@enron.com, amy.weaver@enron.com, christina.yeung@enron.com,
+	dana.davis@enron.com, kevin.jolly@enron.com,
+	michael.kolman@enron.com, rufino.doroteo@enron.com,
+	binh.pham@enron.com, kate.lykes@enron.com, brandi.morris@enron.com,
+	kortney.brown@enron.com, krysti.knight@enron.com
+Subject: Cash Management Database
+Cc: michael.galvan@enron.com, hope.vargas@enron.com, angeles.beltri@enron.com,
+	juanita.ruffeno@enron.com, thomas.myers@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: michael.galvan@enron.com, hope.vargas@enron.com, angeles.beltri@enron.com,
+	juanita.ruffeno@enron.com, thomas.myers@enron.com
+X-From: Adarsh Vakharia
+X-To: Dennis Brown, Stacy Hardy, Rebecca Sanchez, Rosalyn Lum, Lisa Best, Laynie East, Lisa King, Amy Weaver, Christina Yeung, Dana Davis, Kevin Jolly, Michael Kolman, Rufino Doroteo, Binh Pham, Kate Lykes, Brandi Morris, Kortney Brown, Krysti Knight
+X-cc: Michael S Galvan, Hope Vargas, Angeles Beltri, Juanita Ruffeno, Thomas Myers
+X-bcc: 
+X-Folder: \Dana_Davis_Dec2000\Notes Folders\Finanial operations
+X-Origin: Davis-D
+X-FileName: ddavis2.nsf
+
+FYI -
+
+The cash management database is located at O:\Fin_Ops\Finrpt\Merchant Finance 
+Projects\Cash Application Manager.mdb
+
+From MAILER-DAEMON Mon Apr 18 14:19:40 2022
+Message-ID: <3631942.1075853961912.JavaMail.evans@thyme>
+Date: Mon, 8 Jan 2001 03:02:00 -0800 (PST)
+From: tammy.barta@enron.com
+To: rosemary.leblanc@enron.com
+Subject: Correction to St. Mary's Bank Info
+Cc: pam.becton@enron.com, stacey.aune@enron.com, dana.davis@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: pam.becton@enron.com, stacey.aune@enron.com, dana.davis@enron.com
+X-From: Tammy Barta
+X-To: Rosemary LeBlanc
+X-cc: Pam Becton, Stacey A Aune, Dana Davis
+X-bcc: 
+X-Folder: \Dana_Davis_Jun2001\Notes Folders\Finanial operations
+X-Origin: Davis-D
+X-FileName: ddavis2.nsf
+
+Rosemary,
+After a discussion with Stacey we have decided to change the coding of the 
+wires referred to below.  Please code per the original wires to 24091000, 
+Profit Center 12854, Transaction type E09.  
+
+Dana is sending the original wires back to you.
+
+Please call me with any questions.
+
+Thanks,
+Tammy
+---------------------- Forwarded by Tammy Barta/HOU/ECT on 01/08/2001 11:10 
+AM ---------------------------
+
+
+Tammy Barta
+01/08/2001 10:40 AM
+To: Rosemary LeBlanc/GPGFIN/Enron@ENRON
+cc: Pam Becton/HOU/ECT@ECT, Stacey A Aune/HOU/ECT@ECT, Dana Davis/HOU/ECT@ECT 
+Subject: St. Mary's Bank Info
+
+Rosemary,
+Dana Davis is sending the original wires back to you to enter into the A/P 
+system for the month of January.  The wires have been sent out to Southwest 
+Bank of Texas so you will only be entering this information into the A/P 
+system but NO WIRES SHOULD BE SENT.
+
+Please code (Debit) these 3 wires to 30016000, Profit Center 12854 (as marked 
+on the wire request).  
+
+Should you have any questions or problems, please call me at 853-5961.
+
+Thanks,
+Tammy    
+---------------------- Forwarded by Tammy Barta/HOU/ECT on 01/08/2001 10:45 
+AM ---------------------------
+
+
+Pam Becton
+01/08/2001 08:59 AM
+To: Tammy Barta/HOU/ECT@ECT
+cc:  
+Subject: St. Mary's Bank Info
+
+Tammy:
+
+Please provide Rosemary with the coding we discussed if not already in AP for 
+January.
+
+Thank you!
+Pam
+
+---------------------- Forwarded by Pam Becton/HOU/ECT on 01/08/2001 07:59 AM 
+---------------------------
+From: Rosemary LeBlanc@ENRON on 01/08/2001 08:16 AM
+Sent by: Rosemary Leblanc@ENRON
+To: Pam Becton/HOU/ECT@ECT
+cc: Dana Davis/HOU/ECT@ECT 
+Subject: St. Mary's Bank Info
+
+     Yes, its too late and  AP  Dept. Dec. closing was not open on 1/2 the 
+only way to booked for Dec  is to do it yourself by Journal Entry.  Dana has 
+the wires it was sent back with her
+last week.   If you have any questions please let me know. 
+
+Thanks,
+RL
+
+
+----- Forwarded by Rosemary Leblanc/GPGFIN/Enron on 01/08/2001 08:09 AM -----
+
+	Pam Becton@ECT
+	01/04/2001 04:04 PM
+		 
+		 To: Rosemary LeBlanc/GPGFIN/Enron@ENRON
+		 cc: Dana Davis/HOU/ECT@ECT
+		 Subject: St. Mary's Bank Info
+
+Rosemary,
+
+This needs to be entered in December 2000 in A/P.    Is it too late?  I sent 
+the addresses on 1/2 and I heard A/P was still open for December on that 
+date.  Yes, it will mess us up if you enter this is January.  What are the 
+options?
+
+Pam
+3-6595
+
+
+---------------------- Forwarded by Pam Becton/HOU/ECT on 01/04/2001 03:01 PM 
+---------------------------
+   
+	Enron North America Corp.
+	
+	From:  Dana Davis                           01/04/2001 03:27 PM
+	
+
+To: Pam Becton/HOU/ECT@ECT
+cc:  
+Subject: St. Mary's Bank Info
+
+
+---------------------- Forwarded by Dana Davis/HOU/ECT on 01/04/2001 03:26 PM 
+---------------------------
+From: Rosemary LeBlanc@ENRON on 01/04/2001 02:58 PM
+Sent by: Rosemary Leblanc@ENRON
+To: Dana Davis/HOU/ECT@ECT
+cc:  
+Subject: St. Mary's Bank Info
+
+DANA,  YES SHE DID SEND ME A EMAIL BUT IF I WAS TO BOOKED THE WIRES IN JAN 
+2001  YOU WILL BE OFF FOR YEAR 2000  DEC. BOOKS.    IF YOU WANT ME 
+TO GO HEAD LET ME KNOW.
+
+THANKS,
+
+RL
+
+----- Forwarded by Rosemary Leblanc/GPGFIN/Enron on 01/04/2001 03:00 PM -----
+
+	Pam Becton@ECT
+	01/02/2001 01:01 PM
+		 
+		 To: Rosemary LeBlanc/GPGFIN/Enron@ENRON
+		 cc: Dana Davis/HOU/ECT@ECT, Tammy Barta/HOU/ECT@ECT
+		 Subject: St. Mary's Bank Info
+
+Rosemary:
+
+Here are the addresses you needed for three wires processed in December that 
+you faxed to Dana last week.  These are December payables, so they need to  
+be entered for December business.   Let me know if you need any more 
+information from me.
+
+Thanks,
+Pam
+3-6595
+---------------------- Forwarded by Pam Becton/HOU/ECT on 01/02/2001 11:58 AM 
+---------------------------
+   
+	Enron North America Corp.
+	
+	From:  Eric Wardle                           01/02/2001 10:31 AM
+	
+
+To: Pam Becton/HOU/ECT@ECT
+cc:  
+Subject: St. Mary's Bank Info
+
+Pam,
+Here is St. Mary's address:
+
+St. Mary's Production, LLC
+1717 Woodstead Court, Suite 207
+The Woodlands, Tx 77380
+
+Below is the Southwest Bank of Texas information sent by St. Mary's.
+
+Let me know if you need any additional information.
+
+---------------------- Forwarded by Eric Wardle/HOU/ECT on 01/02/2001 10:28 
+AM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  Eric Wardle                           12/04/2000 06:36 PM
+	
+
+To: Tammy Barta/HOU/ECT@ECT
+cc:  
+Subject: Bank Info
+
+
+---------------------- Forwarded by Eric Wardle/HOU/ECT on 12/04/2000 06:35 
+PM ---------------------------
+
+
+"Preston Exploration, LLC" <preston@prestonexpl.com> on 12/04/2000 06:22:07 PM
+To: <ewardle@enron.com>
+cc:  
+Subject: 
+
+
+
+Eric:
+?
+Our bank address is:
+?
+Southwest Bank of Texas
+5 Post Oak Park 
+4400 Post Oak Parkway
+Houston, Tx.? 77027
+A. Stephen Kennedy
+Senior VP - Energy Lending
+?
+Jay Hartman
+?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:19:40 2022
+Message-ID: <11197459.1075853962003.JavaMail.evans@thyme>
+Date: Tue, 28 Nov 2000 10:07:00 -0800 (PST)
+From: brad.carey@enron.com
+To: dana.davis@enron.com
+Subject: Wire Transfers and Requests
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Brad Carey
+X-To: Dana Davis
+X-cc: 
+X-bcc: 
+X-Folder: \Dana_Davis_Jun2001\Notes Folders\Finanial operations
+X-Origin: Davis-D
+X-FileName: ddavis2.nsf
+
+Dana,
+
+Could you start pulling together this information for me.  I will need all 
+new deals in 2000 with the Dash, as well as all of the wires sent out in 2000 
+based upon the new Dash's
+
+Please stop by and will can discuss.  Let's try to start early tomorrow.
+
+Thanks,
+
+Brad
+
+---------------------- Forwarded by Brad Carey/NA/Enron on 11/28/2000 06:03 
+PM ---------------------------
+
+
+Brad Carey
+11/27/2000 09:41 AM
+To: Stacy Hardy/Corp/Enron@ENRON, Rosalyn Lum/Corp/Enron@Enron, Laynie 
+East/HOU/ECT@ECT, Lisa Best/Corp/Enron@Enron, Lisa King/HOU/ECT@ECT, Kevin 
+Jolly/HOU/ECT@ECT, Tammy Barta/HOU/ECT@ECT, Brian Schwertner/NA/Enron@Enron, 
+Susan Rance/NA/Enron@Enron, Stephen Wolfe/HOU/ECT@ECT, Kristi 
+Fredericks/NA/Enron@ENRON, Rufino Doroteo/HOU/ECT@ECT, Dana Davis/HOU/ECT@ECT
+cc: Marnie Lamb/NA/Enron@Enron, Pam Becton/HOU/ECT@ECT, Michael S 
+Galvan/HOU/ECT@ECT, Hope Vargas/HOU/ECT@ECT 
+
+Subject: Wire Transfers and Requests
+
+Hold off on pulling together this information.  I need to have several 
+clarifying questions answered by AA and also to sit down with Dana tomorrow 
+to see if she can help me with most of the exercise.  I will need all of you 
+to fill in any potential gaps and verify the information I pull together 
+before I submit it to AA.
+
+Thanks,
+
+Brad
+---------------------- Forwarded by Brad Carey/NA/Enron on 11/27/2000 09:34 
+AM ---------------------------
+
+
+Hope Vargas@ECT
+11/27/2000 08:32 AM
+To: Dana Davis/HOU/ECT@ECT
+cc: Brad Carey/NA/Enron@Enron, Michael S Galvan/HOU/ECT@ECT 
+
+Subject: Wire Transfers and Requests
+
+Dana,
+ Please help Brad with this request.  Thanks.
+---------------------- Forwarded by Hope Vargas/HOU/ECT on 11/27/2000 08:35 
+AM ---------------------------
+
+
+Michael S Galvan
+11/27/2000 07:15 AM
+To: brad carey
+cc: hope vargas, marnie lamb, pam becton 
+Subject: Wire Transfers and Requests
+
+Brad,
+Would you please coordinate the AA request below with our accountants?  We're 
+only needing new 2000 deals.  Let's provide to AA by the end of the day, this 
+Friday.
+Thanks,
+Mike
+
+---------------------- Forwarded by Michael S Galvan/HOU/ECT on 11/27/2000 
+07:14 AM ---------------------------
+
+
+Kristi Albaugh@ENRON
+11/21/2000 09:32 AM
+To: Michael S Galvan/HOU/ECT@ECT
+cc:  
+Subject: Wire Transfers and Requests
+
+Mike-
+
+We would greatly appreciate it if you could please see to it that we obtain 
+the wire transfer and requests for all investments entered into during FY00.  
+Please note that on a go-forward basis we would like to obtain this 
+information when we receive an investment's DASH.
+
+Should you have any questions, please don't hesitate to call.
+
+
+Thanks,
+
+Kristi
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:19:40 2022
+Message-ID: <2546192.1075853943818.JavaMail.evans@thyme>
+Date: Tue, 24 Oct 2000 07:56:00 -0700 (PDT)
+From: lisa.perez@enron.com
+To: elizabeth.ripley@enron.com
+Subject: Internal Posting Response to 105943 / Dana Davis
+Cc: dana.davis@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: dana.davis@enron.com
+X-From: Lisa Perez
+X-To: Elizabeth Ripley
+X-cc: Dana Davis
+X-bcc: 
+X-Folder: \Dana_Davis_Dec2000\Notes Folders\Finanial operations
+X-Origin: Davis-D
+X-FileName: ddavis2.nsf
+
+This email should serve as notification of Dana Davis' response to your 
+requisition number 105943.  This candidate has been tracked to your 
+requisition no. 105943 and their resume/posting may be viewed in Personic.
+
+Thank you
+
+From MAILER-DAEMON Mon Apr 18 14:19:40 2022
+Message-ID: <4880254.1075853944120.JavaMail.evans@thyme>
+Date: Thu, 10 Feb 2000 03:38:00 -0800 (PST)
+From: christina.yeung@enron.com
+To: stacy.hardy@enron.com, dennis.brown@enron.com, rebecca.sanchez@enron.com,
+	laynie.east@enron.com, lisa.king@enron.com, amy.weaver@enron.com,
+	michael.kolman@enron.com, rufino.doroteo@enron.com,
+	dana.davis@enron.com, binh.pham@enron.com, kate.lykes@enron.com,
+	adarsh.vakharia@enron.com
+Subject: Merlin Assets Cash Payment Procedures
+Cc: hope.vargas@enron.com, angeles.beltri@enron.com, thomas.myers@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: hope.vargas@enron.com, angeles.beltri@enron.com, thomas.myers@enron.com
+X-From: Christina Yeung
+X-To: Stacy Hardy, Dennis Brown, Rebecca Sanchez, Laynie East, Lisa King, Amy Weaver, Michael Kolman, Rufino Doroteo, Dana Davis, Binh Pham, Kate Lykes, Adarsh Vakharia
+X-cc: Hope Vargas, Angeles Beltri, Thomas Myers
+X-bcc: 
+X-Folder: \Dana_Davis_Dec2000\Notes Folders\Finanial operations
+X-Origin: Davis-D
+X-FileName: ddavis2.nsf
+
+Please find attached flowchart detailing procedures to handle cash payment 
+related to Merlin Assets(Co 72R) in the Wilmington Trust Account.  Please 
+update the designated cash schedule frequently in order to eliminate 
+unnecessary e-mails between each individual accountant and Ann Roberts @ 
+Wilmington Trust.
+
+Thanks and let me know if you have questions related to the process.
+
+Christina
+---------------------- Forwarded by Christina Yeung/HOU/ECT on 02/10/2000 
+11:28 AM ---------------------------
+
+
+Stephanie Strong
+02/08/2000 10:48 AM
+To: Christina Yeung/HOU/ECT@ECT
+cc:  
+Subject: powerpoint file
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:19:40 2022
+Message-ID: <45453.1075853943867.JavaMail.evans@thyme>
+Date: Fri, 20 Oct 2000 04:54:00 -0700 (PDT)
+From: carolyn.centilli@enron.com
+To: dana.davis@enron.com
+Subject: Re: Re-issue payment request
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Carolyn Centilli
+X-To: Dana Davis
+X-cc: 
+X-bcc: 
+X-Folder: \Dana_Davis_Dec2000\Notes Folders\Finanial operations
+X-Origin: Davis-D
+X-FileName: ddavis2.nsf
+
+Dana,
+
+I was looking through some outstanding items on my desk and found this.
+
+AP is still waiting on you to provide wiring information for the Price 
+Waterhouse invoice.  Company 0988 does not have the ability to process a 
+check.
+
+Let me know if you have any questions.
+
+Carolyn
+
+ 
+
+
+   
+	
+	
+	From:  Dana Davis @ ECT                           09/26/2000 02:13 PM
+	
+
+To: Carolyn Centilli/Corp/Enron@ENRON
+cc: Lisa King/HOU/ECT@ECT 
+
+Subject: Re-issue payment request
+
+These are the request that can be paid out of Co. 0988...
+  
+Vendor    Vendor #  Amount   
+
+Price Waterhouse Coopers  5700001243  $4856.00 - Canadian $   and/or  
+$3284.70 (June)
+Standard Life Tower      8/11/2000
+639 5th Avenue SW
+Suite 2100
+Calgary, Alberta, Canada
+
+
+Blake, Cassels & Graydon, LLP  5700000182  $2026.13  - US $(7/12/2000)
+855 - 2nd Street SW      $827.06    - Canadian $ (7/12/2000)
+East Tower, Bankers Hall     $861.59    - US $8/11/2000)
+Suite 3500
+Calgary, Alberta, Canada
+
+This one below needs to be paid out of Co. 0958...
+
+Gardere Wynne Sewell & Riggs, LLP 5000027956  $5027.75  - US$ (8/11/2000)   
+1000 Louisiana, Suite 3400
+Houston , TX 77002
+
+We also will send/fax the pmt request if necessary.  Thanks again for your 
+help.
+
+ddavis
+
+
+From MAILER-DAEMON Mon Apr 18 14:19:40 2022
+Message-ID: <139651.1075853943916.JavaMail.evans@thyme>
+Date: Mon, 18 Sep 2000 07:33:00 -0700 (PDT)
+From: renee.ingram@enron.com
+To: frank.cernosek@enron.com, tracey.irvin@enron.com, mary.ruffer@enron.com,
+	jim.little@enron.com, phyllis.kennedy@enron.com,
+	jeffrey.mcclellan@enron.com, stacey.burnett@enron.com,
+	carla.nguyen@enron.com, georgeanne.hodges@enron.com,
+	todd.warwick@enron.com, eric.calub@enron.com,
+	jennifer.longoria@enron.com, faith.killen@enron.com,
+	troy.klussmann@enron.com, shannon.mcpearson@enron.com,
+	becky.pitre@enron.com, misti.day@enron.com, paula.harris@enron.com,
+	tracy.greene@enron.com, patricia.villalobos@enron.com,
+	jim.pond@enron.com, jerry.britain@enron.com, susan.helton@enron.com,
+	edie.leschber@enron.com, tammy.barta@enron.com,
+	jody.pierce@enron.com, toni.bustamante@enron.com,
+	julie.garcia@enron.com, lindsay.long@enron.com,
+	george.thomas@enron.com, shiji.varkey@enron.com,
+	kelly.ellis@enron.com, patricia.bloom@enron.com,
+	anthony.austin@enron.com, theresa.vos@enron.com,
+	renee.ingram@enron.com, tiffany.miller@enron.com,
+	greg.whiting@enron.com, karen.herrmann@enron.com,
+	chris.price@enron.com, james.armstrong@enron.com,
+	ricardo.guerra@enron.com, ashley.worthing@enron.com,
+	connie.lo@enron.com, rachel.crowell@enron.com,
+	michael.galvan@enron.com, brad.carey@enron.com,
+	stephen.wolfe@enron.com, tammy.barta@enron.com, lisa.best@enron.com,
+	lisa.king@enron.com, rosalyn.lum@enron.com, susan.rance@enron.com,
+	hope.vargas@enron.com, dana.davis@enron.com,
+	rufino.doroteo@enron.com, laynie.east@enron.com,
+	stacy.hardy@enron.com, kevin.jolly@enron.com,
+	brian.schwertner@enron.com, pam.becton@enron.com,
+	nicole.mendez@enron.com
+Subject: Realignment of Administrative Duties
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Renee Ingram
+X-To: Frank Cernosek, Tracey Irvin, Mary Lynne Ruffer, Jim Little, Phyllis R Kennedy, Jeffrey McClellan, Stacey Burnett, Carla Nguyen, Georgeanne Hodges, Todd Warwick, Eric Francis Calub, Jennifer K Longoria, Faith Killen, Troy Klussmann, Shannon McPearson, Becky Pitre, Misti Day, Paula Harris, Tracy Greene, Patricia Villalobos, Jim Pond, Jerry Britain, Susan Helton, Edie Leschber, Tammy Barta, Jody Pierce, Toni Bustamante, Julie A Garcia, Lindsay Long, George Thomas, Shiji Varkey, Kelly Ellis, Patricia Bloom, Anthony Austin, Theresa Vos, Renee Ingram, Tiffany Miller, Greg Whiting, Karen Herrmann, Chris Price, James Armstrong, Ricardo Guerra, Ashley Worthing, Connie Lo, Rachel Crowell, Michael S Galvan, Brad Carey, Stephen Wolfe, Tammy Barta, Lisa Best, Lisa King, Rosalyn Lum, Susan Rance, Hope Vargas, Dana Davis, Rufino Doroteo, Laynie East, Stacy Hardy, Kevin Jolly, Brian Schwertner, Pam Becton, Nicole Mendez
+X-cc: 
+X-bcc: 
+X-Folder: \Dana_Davis_Dec2000\Notes Folders\Finanial operations
+X-Origin: Davis-D
+X-FileName: ddavis2.nsf
+
+With the addition of Merchant Finance under my leadership it has become 
+necessary to realign administrative duties to ensure that everyone's needs 
+are taken care of in a timely manner.  Please make a note of the  following 
+changes:
+
+
+ Renee Ingram - 21   Kelly Ellis - 22 
+ Georganne Hodges   Mary Lynne Ruffer
+ Greg Whiting    Susan Helton
+ Todd Warwick    Troy Klussmann
+ Faith Killen    Jim Pond
+      Jody Pierce
+
+
+ Nicole Mendez - 17
+ Hope Vargas
+ Mike Galvan
+ Pam Becton
+ 1 New Manager
+
+From MAILER-DAEMON Mon Apr 18 14:19:40 2022
+Message-ID: <31860913.1075853943938.JavaMail.evans@thyme>
+Date: Wed, 16 Aug 2000 10:57:00 -0700 (PDT)
+From: thomas.myers@enron.com
+To: bus.all-hou@enron.com
+Subject: Manual Wire & Same Day Payment Authorization
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Thomas Myers
+X-To: Bus Anal & Rptg All-Hou
+X-cc: 
+X-bcc: 
+X-Folder: \Dana_Davis_Dec2000\Notes Folders\Finanial operations
+X-Origin: Davis-D
+X-FileName: ddavis2.nsf
+
+Effective today (8/16), authority to sign manual wires & same day payments 
+has been transferred from Tom Myers to Georgeanne Hodges.  As always, Wes 
+Colwell will also continue to have signing authority.  Please continue to 
+make every attempt to minimize these transactions.
+
+Thanks,
+
+Tom
+
+
+From MAILER-DAEMON Mon Apr 18 14:19:40 2022
+Message-ID: <11960769.1075853943845.JavaMail.evans@thyme>
+Date: Tue, 24 Oct 2000 06:05:00 -0700 (PDT)
+From: renee.ingram@enron.com
+To: phyllis.kennedy@enron.com, frank.cernosek@enron.com,
+	stacey.burnett@enron.com, jennifer.longoria@enron.com,
+	patricia.bloom@enron.com, tracy.greene@enron.com,
+	jerry.britain@enron.com, shannon.mcpearson@enron.com,
+	anthony.austin@enron.com, jim.little@enron.com,
+	carla.nguyen@enron.com, becky.pitre@enron.com,
+	patricia.villalobos@enron.com, rachel.crowell@enron.com,
+	connie.lo@enron.com, ashley.worthing@enron.com,
+	chris.price@enron.com
+Subject: St Arnold's Outing
+Cc: michael.galvan@enron.com, brad.carey@enron.com, stephen.wolfe@enron.com,
+	tammy.barta@enron.com, lisa.best@enron.com, lisa.king@enron.com,
+	rosalyn.lum@enron.com, susan.rance@enron.com, hope.vargas@enron.com,
+	dana.davis@enron.com, rufino.doroteo@enron.com,
+	laynie.east@enron.com, stacy.hardy@enron.com, kevin.jolly@enron.com,
+	brian.schwertner@enron.com, pam.becton@enron.com,
+	marnie.lamb@enron.com, georgeanne.hodges@enron.com,
+	tiffany.miller@enron.com, mary.ruffer@enron.com,
+	faith.killen@enron.com, nicole.mendez@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: michael.galvan@enron.com, brad.carey@enron.com, stephen.wolfe@enron.com,
+	tammy.barta@enron.com, lisa.best@enron.com, lisa.king@enron.com,
+	rosalyn.lum@enron.com, susan.rance@enron.com, hope.vargas@enron.com,
+	dana.davis@enron.com, rufino.doroteo@enron.com,
+	laynie.east@enron.com, stacy.hardy@enron.com, kevin.jolly@enron.com,
+	brian.schwertner@enron.com, pam.becton@enron.com,
+	marnie.lamb@enron.com, georgeanne.hodges@enron.com,
+	tiffany.miller@enron.com, mary.ruffer@enron.com,
+	faith.killen@enron.com, nicole.mendez@enron.com
+X-From: Renee Ingram
+X-To: Phyllis R Kennedy, Frank Cernosek, Stacey Burnett, Jennifer K Longoria, Patricia Bloom, Tracy Greene, Jerry Britain, Shannon McPearson, Anthony Austin, Jim Little, Carla Nguyen, Becky Pitre, Patricia Villalobos, Rachel Crowell, Connie Lo, Ashley Worthing, Chris Price
+X-cc: Michael S Galvan, Brad Carey, Stephen Wolfe, Tammy Barta, Lisa Best, Lisa King, Rosalyn Lum, Susan Rance, Hope Vargas, Dana Davis, Rufino Doroteo, Laynie East, Stacy Hardy, Kevin Jolly, Brian Schwertner, Pam Becton, Marnie Lamb, Georgeanne Hodges, Tiffany Miller, Mary Lynne Ruffer, Faith Killen, Nicole Mendez
+X-bcc: 
+X-Folder: \Dana_Davis_Dec2000\Notes Folders\Finanial operations
+X-Origin: Davis-D
+X-FileName: ddavis2.nsf
+
+For headcount purposes, please advise if you are planning to attend the group 
+out at St. Arnold's on Wednesday, October 25th.  Thank you!
+
+From MAILER-DAEMON Mon Apr 18 14:19:40 2022
+Message-ID: <7333648.1075853961979.JavaMail.evans@thyme>
+Date: Tue, 2 Jan 2001 05:01:00 -0800 (PST)
+From: pam.becton@enron.com
+To: rosemary.leblanc@enron.com
+Subject: St. Mary's Bank Info
+Cc: dana.davis@enron.com, tammy.barta@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: dana.davis@enron.com, tammy.barta@enron.com
+X-From: Pam Becton
+X-To: Rosemary LeBlanc
+X-cc: Dana Davis, Tammy Barta
+X-bcc: 
+X-Folder: \Dana_Davis_Jun2001\Notes Folders\Finanial operations
+X-Origin: Davis-D
+X-FileName: ddavis2.nsf
+
+Rosemary:
+
+Here are the addresses you needed for three wires processed in December that 
+you faxed to Dana last week.  These are December payables, so they need to  
+be entered for December business.   Let me know if you need any more 
+information from me.
+
+Thanks,
+Pam
+3-6595
+---------------------- Forwarded by Pam Becton/HOU/ECT on 01/02/2001 11:58 AM 
+---------------------------
+   
+	Enron North America Corp.
+	
+	From:  Eric Wardle                           01/02/2001 10:31 AM
+	
+
+To: Pam Becton/HOU/ECT@ECT
+cc:  
+Subject: St. Mary's Bank Info
+
+Pam,
+Here is St. Mary's address:
+
+St. Mary's Production, LLC
+1717 Woodstead Court, Suite 207
+The Woodlands, Tx 77380
+
+Below is the Southwest Bank of Texas information sent by St. Mary's.
+
+Let me know if you need any additional information.
+
+---------------------- Forwarded by Eric Wardle/HOU/ECT on 01/02/2001 10:28 
+AM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  Eric Wardle                           12/04/2000 06:36 PM
+	
+
+To: Tammy Barta/HOU/ECT@ECT
+cc:  
+Subject: Bank Info
+
+
+---------------------- Forwarded by Eric Wardle/HOU/ECT on 12/04/2000 06:35 
+PM ---------------------------
+
+
+"Preston Exploration, LLC" <preston@prestonexpl.com> on 12/04/2000 06:22:07 PM
+To: <ewardle@enron.com>
+cc:  
+Subject: 
+
+
+
+Eric:
+?
+Our bank address is:
+?
+Southwest Bank of Texas
+5 Post Oak Park 
+4400 Post Oak Parkway
+Houston, Tx.? 77027
+A. Stephen Kennedy
+Senior VP - Energy Lending
+?
+Jay Hartman
+?
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:19:40 2022
+Message-ID: <9624714.1075853943982.JavaMail.evans@thyme>
+Date: Wed, 2 Aug 2000 06:41:00 -0700 (PDT)
+From: hope.vargas@enron.com
+To: laynie.east@enron.com, lisa.king@enron.com, lisa.best@enron.com,
+	tammy.barta@enron.com, brian.schwertner@enron.com,
+	stacy.hardy@enron.com, kevin.jolly@enron.com, binh.pham@enron.com,
+	stephen.wolfe@enron.com, rosalyn.lum@enron.com, dana.davis@enron.com,
+	rufino.doroteo@enron.com
+Subject: Cash Service Company Codes - ENA Co. 0530
+Cc: angeles.beltri@enron.com, pam.becton@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: angeles.beltri@enron.com, pam.becton@enron.com
+X-From: Hope Vargas
+X-To: Laynie East, Lisa King, Lisa Best, Tammy Barta, Brian Schwertner, Stacy Hardy, Kevin Jolly, Binh Pham, Stephen Wolfe, Rosalyn Lum, Dana Davis, Rufino Doroteo
+X-cc: Angeles Beltri, Pam Becton
+X-bcc: 
+X-Folder: \Dana_Davis_Dec2000\Notes Folders\Finanial operations
+X-Origin: Davis-D
+X-FileName: ddavis2.nsf
+
+To further clarify Greg's e-mail, all wires being paid out of the general 
+disbursement account (0530) should be coded from the company that is 
+incurring the cost.  For example, if company 1N2 is sending out cash for an 
+investment, the wire should reflect company 1N2 as the sender and not company 
+413 as coded previously.  If you have any questions, please do not hesitate 
+to ask.  Thanks.  
+
+HV
+  
+---------------------- Forwarded by Hope Vargas/HOU/ECT on 08/02/2000 12:49 
+PM ---------------------------
+
+
+Greg Whiting@ENRON
+08/01/2000 11:49 PM
+To: Mary Lynne Ruffer/HOU/ECT@ECT, Georgeanne Hodges/HOU/ECT@ECT, James 
+Coffey/ENRON@Gateway, Karry Kendall/HOU/ECT@ECT, Jody Pierce/HOU/ECT@ECT, 
+Angeles Beltri/HOU/ECT@ECT, Hope Vargas/HOU/ECT@ECT, Michael S 
+Galvan/HOU/ECT@ECT, Stephen Thatcher/Corp/Enron@Enron, Mark 
+Frank/HOU/ECT@ECT, Sarah Brown/HOU/ECT@ECT, Jim Pond/Corp/Enron@Enron, Faith 
+Killen/HOU/ECT@ECT, Troy Klussmann/HOU/ECT@ECT, Todd Warwick/HOU/ECT@ECT
+cc: Cynthia Morrow/Corp/Enron@ENRON 
+Subject: Cash Service Company Codes - ENA Co. 0530
+
+FYI - When coding wires the sender should NOT be listed as Co. 0530.  The 
+cash services companies should be tranparent to the users.  This is all 
+behind the scenes in SAP and treasury.  Wires and other payment requests 
+should be coded from the company that is incurring the cost (just like 
+pre-SAP).  Vendors should NOT be requested to be setup on Co. 0530.  I have 
+requested AP to return to sender any payment requests that have Co. 0530 as 
+the paying company.
+
+Please pass this on to your groups.  Thanks.
+
+
+     Greg x35399
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:19:40 2022
+Message-ID: <24748638.1075853943959.JavaMail.evans@thyme>
+Date: Wed, 2 Aug 2000 08:37:00 -0700 (PDT)
+From: rufino.doroteo@enron.com
+To: dana.davis@enron.com
+Subject: Re: SAP Fast Entry Template
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Rufino Doroteo
+X-To: Dana Davis
+X-cc: 
+X-bcc: 
+X-Folder: \Dana_Davis_Dec2000\Notes Folders\Finanial operations
+X-Origin: Davis-D
+X-FileName: ddavis2.nsf
+
+---------------------- Forwarded by Rufino Doroteo/HOU/ECT on 08/02/2000 
+03:36 PM ---------------------------
+
+
+Rebecca Sanchez
+07/31/2000 02:58 PM
+To: Rufino Doroteo/HOU/ECT@ECT
+cc:  
+Subject: Re: SAP Fast Entry Template  
+
+
+
+

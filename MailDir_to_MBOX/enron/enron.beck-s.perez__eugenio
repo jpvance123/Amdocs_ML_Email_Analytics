@@ -1,0 +1,512 @@
+From MAILER-DAEMON Mon Apr 18 14:23:50 2022
+Message-ID: <26908071.1075849856742.JavaMail.evans@thyme>
+Date: Fri, 2 Feb 2001 02:14:00 -0800 (PST)
+From: eugenio.perez@enron.com
+To: georgeanne.hodges@enron.com, jan.johnson@enron.com, sally.beck@enron.com,
+	cassandra.schultz@enron.com, shona.wilson@enron.com,
+	gary.peng@enron.com, jennifer.nguyen@enron.com
+Subject: SEC VaR
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Eugenio Perez
+X-To: Georgeanne Hodges, Jan Johnson, Sally Beck, Cassandra Schultz, Shona Wilson, Gary Peng, Jennifer Nguyen
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Perez, eugenio
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+AA informed me that the hedges on the New Power Company warrants that were 
+monetized in the Hawaii 125-0 McGarret swaps were put on October 4, not in 
+September.  Accordingly, I have recalculated total return swap VaR for 
+September.
+
+Regards,
+
+
+
+Eugenio
+
+From MAILER-DAEMON Mon Apr 18 14:23:50 2022
+Message-ID: <605925.1075849856834.JavaMail.evans@thyme>
+Date: Thu, 25 Jan 2001 09:34:00 -0800 (PST)
+From: eugenio.perez@enron.com
+To: georgeanne.hodges@enron.com, jan.johnson@enron.com, sally.beck@enron.com,
+	cassandra.schultz@enron.com, shona.wilson@enron.com,
+	gary.peng@enron.com, jennifer.nguyen@enron.com
+Subject: SEC VaR
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Eugenio Perez
+X-To: Georgeanne Hodges, Jan Johnson, Sally Beck, Cassandra Schultz, Shona Wilson, Gary Peng, Jennifer Nguyen
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Perez, eugenio
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Gary and Georgeanne let me know that all but 487 shares of EOG are hedged 
+(without the EOG leg, the Cerberus total return swap is really only a loan, 
+and its VaR is about $500 thousand).  I have recalculated, and the total 
+return swaps VaR fell to $34 million in December and $18 million in 
+November.  December VaR is still up substantially from November, and the 
+primary reason now is that since natural gas prices are up so much, the value 
+of the Bammel Looper and Mid Texas total return swaps has increased.  The 
+more money we make, the more we can potentially lose.
+
+Regards,
+
+
+Eugenio
+
+From MAILER-DAEMON Mon Apr 18 14:23:50 2022
+Message-ID: <18015192.1075849856660.JavaMail.evans@thyme>
+Date: Fri, 9 Feb 2001 03:57:00 -0800 (PST)
+From: eugenio.perez@enron.com
+To: georgeanne.hodges@enron.com, jan.johnson@enron.com, sally.beck@enron.com,
+	cassandra.schultz@enron.com, shona.wilson@enron.com,
+	gary.peng@enron.com, jennifer.nguyen@enron.com,
+	hope.vargas@enron.com, tatiana.waxler@enron.com,
+	adarsh.vakharia@enron.com
+Subject: 
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Eugenio Perez
+X-To: Georgeanne Hodges, Jan Johnson, Sally Beck, Cassandra Schultz, Shona Wilson, Gary Peng, Jennifer Nguyen, Hope Vargas, Tatiana Waxler, Adarsh Vakharia
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Perez, eugenio
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Georgeanne just told me that the Lehman and Jedi swaps do not hedge each 
+other.
+
+Regards,
+
+
+
+Eugenio
+
+From MAILER-DAEMON Mon Apr 18 14:23:50 2022
+Message-ID: <32677592.1075849856720.JavaMail.evans@thyme>
+Date: Tue, 6 Feb 2001 02:20:00 -0800 (PST)
+From: eugenio.perez@enron.com
+To: georgeanne.hodges@enron.com, jan.johnson@enron.com, sally.beck@enron.com,
+	cassandra.schultz@enron.com, shona.wilson@enron.com,
+	gary.peng@enron.com, jennifer.nguyen@enron.com,
+	tatiana.waxler@enron.com, matthew.adams@enron.com
+Subject: SEC VaR
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Eugenio Perez
+X-To: Georgeanne Hodges, Jan Johnson, Sally Beck, Cassandra Schultz, Shona Wilson, Gary Peng, Jennifer Nguyen, Tatiana Waxler, Matthew Adams
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Perez, eugenio
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+In December we entered two swaps on Enron stock to hedge out the exposure we 
+created by granting options.  We consider them trading securities, so I have 
+included them in the spreadsheet accordingly.
+
+Gail Tholen explained to me that we have long term contracts to remove the 
+variability of revenues in Bammel Looper and Mid Texas.  I have changed the 
+total return swap model to use the volatility of prices in 2013 (when the 
+contracts expire), rather than spot volatilities.  As a result, December VaR 
+for total return swaps fell from $34 to $28 million.  
+
+With the partly offsetting effects of the new Enron stock and total return 
+swaps, December VaR for trading securities therefore fell from $70 to $68 
+million.  
+
+I recalculated total return swap VaR for the rest of 2000 using volatilities 
+for 2013.  Nevertheless, the impact is small, since spot volatilities were 
+not as high throughout the year as in December.  As a matter of fact, the 
+average, high, and low trading securities VaRs for 2000 remain largely 
+unchanged.
+
+Regards,
+
+
+
+Eugenio 
+
+From MAILER-DAEMON Mon Apr 18 14:23:50 2022
+Message-ID: <19698976.1075849856696.JavaMail.evans@thyme>
+Date: Fri, 9 Feb 2001 03:04:00 -0800 (PST)
+From: eugenio.perez@enron.com
+To: georgeanne.hodges@enron.com, jan.johnson@enron.com, sally.beck@enron.com,
+	cassandra.schultz@enron.com, shona.wilson@enron.com,
+	gary.peng@enron.com, jennifer.nguyen@enron.com,
+	hope.vargas@enron.com, tatiana.waxler@enron.com
+Subject: SEC VaR
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Eugenio Perez
+X-To: Georgeanne Hodges, Jan Johnson, Sally Beck, Cassandra Schultz, Shona Wilson, Gary Peng, Jennifer Nguyen, Hope Vargas, Tatiana Waxler
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Perez, eugenio
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+The Jedi swap VaR was moved from non-trading securities to trading securities.
+
+Regards,
+
+
+
+Eugenio
+
+From MAILER-DAEMON Mon Apr 18 14:23:50 2022
+Message-ID: <30876271.1075849856765.JavaMail.evans@thyme>
+Date: Wed, 31 Jan 2001 08:25:00 -0800 (PST)
+From: eugenio.perez@enron.com
+To: georgeanne.hodges@enron.com, jan.johnson@enron.com, sally.beck@enron.com,
+	cassandra.schultz@enron.com, shona.wilson@enron.com,
+	gary.peng@enron.com, jennifer.nguyen@enron.com,
+	tatiana.waxler@enron.com
+Subject: SEC VaR
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Eugenio Perez
+X-To: Georgeanne Hodges, Jan Johnson, Sally Beck, Cassandra Schultz, Shona Wilson, Gary Peng, Jennifer Nguyen, Tatiana Waxler
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Perez, eugenio
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Merchant Assets has re-revised numbers.  Please disregard previous versions.
+
+Regards,
+
+
+
+Eugenio
+
+From MAILER-DAEMON Mon Apr 18 14:23:50 2022
+Message-ID: <24570417.1075849856811.JavaMail.evans@thyme>
+Date: Wed, 31 Jan 2001 02:15:00 -0800 (PST)
+From: eugenio.perez@enron.com
+To: shona.wilson@enron.com, sally.beck@enron.com
+Subject: Operational Risk
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Eugenio Perez
+X-To: Shona Wilson, Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Perez, eugenio
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+I have taken to heart your request that we try to mitigate operational risk.  
+Perhaps I have found another way to serve Energy Operations.
+
+Arthur Andersen and Risk are sponsoring a conference on operational risk 
+(www.risk-conferences.com/oprisk2001).  The conference is composed of two 
+streams, one of which focuses on quantification and mathematical modeling 
+(neural networks, Bayesian models, and other statistical approaches).  The 
+quantitative approach to operational risk is akin to how VaR formalized and 
+quantified market risk.  It is also similar to the curve fitter that I wrote 
+(which uses mathematics to quantify how "good" or "bad" the back end of a 
+curve looks given the front end).  
+
+The conference is next Thursday and Friday (8-9) in New York (I just got the 
+notice today, so I am sorry for the short notice).
+
+Would you like me to attend?
+
+Regards,
+
+
+
+Eugenio  
+
+From MAILER-DAEMON Mon Apr 18 14:23:50 2022
+Message-ID: <16798037.1075849856857.JavaMail.evans@thyme>
+Date: Wed, 24 Jan 2001 09:40:00 -0800 (PST)
+From: eugenio.perez@enron.com
+To: georgeanne.hodges@enron.com, jan.johnson@enron.com, sally.beck@enron.com,
+	cassandra.schultz@enron.com, shona.wilson@enron.com,
+	gary.peng@enron.com, jennifer.nguyen@enron.com
+Subject: 
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Eugenio Perez
+X-To: Georgeanne Hodges, Jan Johnson, Sally Beck, Cassandra Schultz, Shona Wilson, Gary Peng, Jennifer Nguyen
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Perez, eugenio
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+We are for the most part finished with SEC VaR.  We are missing October and 
+December Brent Crude Commodity Positions.  When we get these numbers we will 
+reissue this report, but they are not likely to be different enough from the 
+guesses we inserted to make a difference. 
+
+Total VaR is the highest I have seen at $92 million.  
+
+One reason is that trading commodities VaR remains very high at $66 million 
+(though it is down from the $81 million of November).  
+
+The other reason is that trading securities VaR is by far the highest it has 
+been at $63 million.  Merchant Assets (with a VaR of $29 million) and total 
+return swaps (with a VaR of $56, up from $24 in November) are at all time 
+highs. 
+
+Bacchus and Riva (both originated in December) conspired to increase total 
+return swap VaR.  Nevertheless, the biggest culprit is Cerberus (a fixed for 
+EOG shares swap we put on in November).  Cerberus contains ten million 
+unhedged shares of EOG.  The value of the shares increased from $42 in 
+November to $55 in December, raising VaR substantially.
+
+Regards,
+
+
+
+Eugenio
+
+From MAILER-DAEMON Mon Apr 18 14:23:50 2022
+Message-ID: <23762766.1075855890023.JavaMail.evans@thyme>
+Date: Fri, 27 Oct 2000 02:50:00 -0700 (PDT)
+From: eugenio.perez@enron.com
+To: georgeanne.hodges@enron.com, jan.johnson@enron.com, sally.beck@enron.com,
+	shona.wilson@enron.com
+Subject: SEC VaR
+Cc: jennifer.nguyen@enron.com, maria.aguilera-peon@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: jennifer.nguyen@enron.com, maria.aguilera-peon@enron.com
+X-From: Eugenio Perez
+X-To: Georgeanne Hodges, Jan Johnson, Sally Beck, Shona Wilson
+X-cc: Jennifer Nguyen, Maria Teresa Aguilera-Peon
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Perez, eugenio
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+The good news is that September VaRs are little changed from the June numbers.
+
+The bad news is that the New Power Company went public in October.  The stock 
+is very volatile (about 180% per year).  The warrants we inserted into the 
+Hawaii 125-0 McGarret swaps are hugely in the money and will therefore have 
+substantial VaR.   VaR for the total return swaps will probably be over $30 
+million in October.  
+Additionally, you will notice a huge trading commodities VaR for August ($79 
+million).  This will require some explanation when we report high monthly VaR 
+at year-end.
+
+Regards,
+
+
+
+Eugenio
+
+From MAILER-DAEMON Mon Apr 18 14:23:50 2022
+Message-ID: <18203149.1075849856788.JavaMail.evans@thyme>
+Date: Wed, 31 Jan 2001 05:17:00 -0800 (PST)
+From: eugenio.perez@enron.com
+To: georgeanne.hodges@enron.com, jan.johnson@enron.com, sally.beck@enron.com,
+	cassandra.schultz@enron.com, shona.wilson@enron.com,
+	gary.peng@enron.com, jennifer.nguyen@enron.com
+Subject: SEC VaR with Merchant Assets Recalculated
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Eugenio Perez
+X-To: Georgeanne Hodges, Jan Johnson, Sally Beck, Cassandra Schultz, Shona Wilson, Gary Peng, Jennifer Nguyen
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\Perez, eugenio
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Merchant Assets have recalculated their VaR, and I have enclosed it above.
+
+Regards,
+
+
+
+Eugenio
+
+From MAILER-DAEMON Mon Apr 18 14:23:50 2022
+Message-ID: <16122884.1075855890091.JavaMail.evans@thyme>
+Date: Mon, 11 Sep 2000 10:21:00 -0700 (PDT)
+From: eugenio.perez@enron.com
+To: naveen.andrews@enron.com
+Subject: Re: Risk Metrics
+Cc: ted.murphy@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: ted.murphy@enron.com
+X-From: Eugenio Perez
+X-To: Naveen Andrews
+X-cc: Ted Murphy
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Perez, eugenio
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+I completely agree with you.
+
+Nevertheless, I am sorry if I did not make myself clear when we talked about 
+this last Tuesday: I am not advocating penalizing business units because of 
+their 1week ROVARs or Sharpes.  I would certainly not set traders' bonuses 
+based on these numbers (nor do I think anyone at Enron would consider doing 
+that). 
+
+Enron focuses on long term profit and risk.  However, the long term is made 
+up of many short terms, and catastrophes can occur if a company's management 
+does not pay close attention to the latter.  Indeed, Enron management is very 
+interested in short term profitability (they want to be notified of very 
+large 1 and 5 day losses) and short term risk (we report daily VaR limit 
+violations).  In this spirit, I am simply offering 1 and 4 week ROVARs and 
+Sharpes as something interesting and useful that we can now produce from the 
+DPR database, and I will let upper management use or ignore them as they see 
+fit.
+
+Regards,
+
+
+
+Eugenio
+
+
+
+
+
+
+
+
+Naveen Andrews@ENRON
+09/08/2000 11:13 AM
+To: Eugenio Perez/HOU/ECT@ECT
+cc: Ted Murphy/HOU/ECT@ECT 
+Subject: Risk Metrics
+
+Eugenio,
+        In regard to your recent e-mail concerning RoVar, Sharpe and other 
+risk metrics, and our meeting on Tuesday, it is imperative to understand that
+
+(1) While P&L is a number one can aggregate on a daily basis, VaR numbers on 
+1-week or 4-week basis, and consequently RoVaR numbers, are not meaningful 
+operationally (ie, trading activity and senior management decision-making) 
+and statistically.  RoVaR and Sharpe were designed to measure business unit 
+performance over extended time periods (preferably a year).  Specifically, 
+you cannot penalize, or make  reasonable business decisions about  a  unit , 
+because of their 1-week RoVar or Sharpe.
+
+(2) Significant trading activity at ENE is composed of long-term strategic 
+trades (seasonal plays with durations of over 6 months, perhaps), wherein 
+desk heads and  senior management have an intuitive feeling for their RoVaR 
+(OVER 6 MONTHS).   A 1-week or  4-week "interim" number  in this case is not 
+useful.   Traders might purposefully want to make  a certain 1-week or 4-week 
+RoVaR LOW in their trading activity if they believe their 6-month number can 
+be HIGH.  In such a case, a 1-week number might send dangerous messages to 
+senior management.
+
+
+(3) Conceptually,  P&L and VaR, in isolation, are numbers which are sound and 
+rigourously calculated.  The Ratio, however,  one has to be careful about.  
+The numerator (cumulative P&L over a certain period) can be aggregated by 
+simple arithmetic summation, no problems.  However, the denominator (average 
+daily VaR over a certain period) relies on the underlying assumption that 
+each point in your time series is independent and correlationless.  To get a 
+sufficient statistic for the denominator, one would have to take a large 
+sample in your series (6 months or more), for a DAILY AVERAGE VaR number to 
+be meaningful, statistically.
+
+(4) The RAC group has instituted similar metrics which have been in usage  
+for over two years.  The numbers are shown to the B.O.D with the express 
+intent of comaring business unit performance on a 6-month or yearly tenor.  
+Please contact Matthew Adams (RAC) or myself  to make sure that we are on the 
+same footing regarding the actual calculation of such metrics.  Also, in the 
+future, just to be consistent and on-the-same-page, please contact me or Mr. 
+Adams if any risk-related numbers are to be showcased in a public forum.
+
+(5) Finally, as you can probably corroborate, senior management might  not 
+be  fully versed on the nuances of VaR, let alone 1-week VaR ratios.  
+Therefore, one has to be wary of the misuse of ratios and risk metrics.
+
+I liked your presentation of your database on Tuesday.  I think it is a nice 
+step in aggregating and dissecting  P&L from disparate sources.
+
+Best Regards
+Naveen
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:50 2022
+Message-ID: <15962623.1075855890068.JavaMail.evans@thyme>
+Date: Fri, 22 Sep 2000 10:58:00 -0700 (PDT)
+From: eugenio.perez@enron.com
+To: sally.beck@enron.com
+Subject: New Graph
+Cc: shona.wilson@enron.com, jennifer.nguyen@enron.com,
+	maria.aguilera-peon@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: shona.wilson@enron.com, jennifer.nguyen@enron.com,
+	maria.aguilera-peon@enron.com
+X-From: Eugenio Perez
+X-To: Sally Beck
+X-cc: Shona Wilson, Jennifer Nguyen, Maria Teresa Aguilera-Peon
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Perez, eugenio
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+As you know, now that we are nearly done in capturing the DPR numbers in the 
+database, we have been working to present the data in compelling ways.  We 
+have started to do this by creating the VaR Limit Usage graphs and the 
+Sharpe, Rovar, and Risk - Return graphs.  
+
+I am sorry for the misunderstanding with Ted concerning the latter.  I had 
+explained what I wanted to produce in an e-mail and during a Risk Forum 
+Luncheon.  Therefore, Shona and I did not expect the reaction we got.  I have 
+talked to Naveen and Rudi since then, and we have changed the graphs to be 
+agreeable to RAC.
+
+Today I worked on the graphs below.  They show the P&L decomposition for the 
+month (rolling 20 business days) up to 9/20 (one in dollar terms and the 
+other as a percentage of P&L).  I showed them to Shona, and she thought you 
+should see them before Naveen, Rudi, and Ted, because these graphs are very 
+powerful and are likely to be controversial.  The graphs show that European 
+Gas and UK Power released a lot of prudency.  Half of total P&L for European 
+Gas is prudency, and UK Power would have had a loss of about $20 million 
+(instead of a gain of $27 million) were it not for prudency.   In the case of 
+North American Gas, $46 million gain in new deals partly offset about $106 
+million in trading losses.  
+
+Please note that these are rough drafts intended to show what we can do.  I 
+do not think that there are problems with the data, but I threw these 
+together today, and I have not yet double-checked the accuracy of my 
+aggregating calculations.
+
+Please launch the attached spreadsheet, and feel free to call or page me with 
+questions or concerns.
+
+Thank you,
+
+
+
+Eugenio
+
+
+

@@ -1,0 +1,581 @@
+From MAILER-DAEMON Mon Apr 18 14:23:56 2022
+Message-ID: <31309526.1075855929283.JavaMail.evans@thyme>
+Date: Thu, 5 Oct 2000 04:14:00 -0700 (PDT)
+From: rick.carson@enron.com
+To: shona.wilson@enron.com
+Subject: Re: updates to processes
+Cc: ted.murphy@enron.com, sally.beck@enron.com, cassandra.schultz@enron.com,
+	lynn.bellinghausen@enron.com, donna.lowry@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: ted.murphy@enron.com, sally.beck@enron.com, cassandra.schultz@enron.com,
+	lynn.bellinghausen@enron.com, donna.lowry@enron.com
+X-From: Rick L Carson
+X-To: Shona Wilson
+X-cc: Ted Murphy, Sally Beck, Cassandra Schultz, Lynn Bellinghausen, Donna Lowry
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Systems problems
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Shona:  Thank you for your memo.  I think it is a good idea to define roles 
+and responsibilities and I appreciate the fact  that you have taken the 
+initiative to do so.  However, I do have the following comments:
+
+1) I have some accountability to Rick Buy for the success of this effort, 
+therefore I (or my designee) need to be involved in Doorstep pre- planning 
+and post-mortem.  I will be involved in reviewing the final report before 
+presentation and will attend  the meeting when the report is presented to Buy 
+and Causey.
+
+2) I realize that  in the interest of getting a review done timely it is 
+sometimes necessary to "divide and conquer".  However, where logistically 
+possible, I believe that it makes sense for my people to be involved in 
+meetings held with Commercial personnel.  This facilitates understanding 
+operations, document flow, points of contact, report writing as well as 
+furthering our goal of educating "multi-functional" people so that we can 
+continue to reduce the resources necessary to perform these reviews.
+
+3) There are still some detailed issues that need to be clarified regarding 
+the database.  Let's schedule another meeting with Cassandra and Donna.
+
+Please let me know if you have any questions,         Regards,       Rick
+
+From MAILER-DAEMON Mon Apr 18 14:23:56 2022
+Message-ID: <27963776.1075855929369.JavaMail.evans@thyme>
+Date: Tue, 26 Sep 2000 03:46:00 -0700 (PDT)
+From: michael.moscoso@enron.com
+To: sally.beck@enron.com
+Subject: Global Operations Task Force - Issues Summary
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Michael E Moscoso
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Systems problems
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Sally,
+
+Please call me if you have any questions.
+
+Mike
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:56 2022
+Message-ID: <3465193.1075855929216.JavaMail.evans@thyme>
+Date: Fri, 13 Oct 2000 06:08:00 -0700 (PDT)
+From: michael.moscoso@enron.com
+To: shona.wilson@enron.com
+Subject: Global Standards Report - September 2000
+Cc: sally.beck@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sally.beck@enron.com
+X-From: Michael E Moscoso
+X-To: Shona Wilson
+X-cc: Sally Beck
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Systems problems
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+This is the draft copy of the Global Standards Report, primarily for ENA, for 
+September 2000.  
+
+Please review and provide comments.
+
+
+
+Thanks,
+Mike
+
+From MAILER-DAEMON Mon Apr 18 14:23:56 2022
+Message-ID: <8630544.1075855929260.JavaMail.evans@thyme>
+Date: Fri, 6 Oct 2000 06:20:00 -0700 (PDT)
+From: debbie.brackett@enron.com
+To: sally.beck@enron.com
+Subject: Re: RAC Feeds 29-Sep
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Debbie R Brackett
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Systems problems
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+FYI...
+---------------------- Forwarded by Debbie R Brackett/HOU/ECT on 10/06/2000 
+01:18 PM ---------------------------
+
+
+James New
+10/04/2000 10:24 AM
+To: Debbie R Brackett/HOU/ECT@ECT
+cc: Hugo Moreira/LON/ECT@ECT, David Hardy/LON/ECT@ECT, Mike 
+Jordan/LON/ECT@ECT 
+Subject: Re: RAC Feeds 29-Sep  
+
+Debbie,
+
+For UK Power, this was not officialised because we had a curve shift for 25+ 
+years which was made in error. For the DPR we put a 'top side' adjustment 
+through but because of the time it would take to re calc no re calc was 
+performed. This should have been covered in the daily conference call. Was it 
+?
+
+For UK Gas, I thought this issue was closed on the conference call. We used 
+the 30th as our month end as a result of the way the month end fell. The guys 
+have now clicked the 'officialised' button for the 29th if it helps you, but 
+we did not use that data (there shouldn't be anything materially wrong with 
+it though).
+
+What I think this highlights is that we will have days where we do not 
+officialise and do not re run. In these circumstances we will put a top side 
+through. We therefore need a mechanism to communicate this top side and I 
+would request we get this in place as soon as possible (this has been 
+requested a few times before).
+
+Does this answer your questions ?
+
+James
+
+
+   
+
+
+From:  Debbie R Brackett                                                      
+       04/10/2000 14:25	
+	
+	
+	                           
+	
+
+To: James New/LON/ECT@ECT, Hugo Moreira/LON/ECT@ECT
+cc: David Hardy/LON/ECT@ECT, Mike Jordan/LON/ECT@ECT 
+
+Subject: Re: RAC Feeds 29-Sep
+
+James,
+
+Just received a note fron Steve Price that UK power was never approved for 
+close of business 02-Oct. Can you or someone in your group respond to that as 
+well as to my query as to the lack of approval for UK Gas for close of 
+business on 29-Sep?( See below)
+
+We are making a real effort here to understand why the Risk Controls groups 
+are not receiving data on a reliable basis and input from your group is 
+crucial. 
+
+Thanks for your help,
+
+Debbie
+
+
+---------------------- Forwarded by Debbie R Brackett/HOU/ECT on 10/04/2000 
+08:19 AM ---------------------------
+   
+
+
+From:  Debbie R Brackett                                                      
+       10/02/2000 10:18 AM	
+	
+	
+	                           
+	
+
+To: James New/LON/ECT@ECT, Hugo Moreira/LON/ECT@ECT
+cc: David Hardy/LON/ECT@ECT 
+Subject: Re: RAC Feeds 29-Sep
+
+Please clarify as much as possible. 
+
+
+---------------------- Forwarded by Debbie R Brackett/HOU/ECT on 10/02/2000 
+10:17 AM ---------------------------
+
+
+Steve Price
+10/02/2000 10:07 AM
+To: Debbie R Brackett/HOU/ECT@ECT
+cc: David Hardy/LON/ECT@ECT, Phil Yoxall/LON/ECT@ECT, Suzanne 
+Bain/LON/ECT@ECT, Jitendra Patel/Market Risk Management/LON/ECT@ECT, Oliver 
+Gaylard/LON/ECT@ECT 
+Subject: Re: RAC Feeds 29-Sep  
+
+Debbie,
+
+There is an MTM for the 29-Sep but is has not been approved. However, there 
+is also an MTM for 30-Sep which has been approved. I think the risk managers 
+would have the answer to why.
+
+Steve
+
+
+   
+
+
+From:  Debbie R Brackett                                                      
+       02/10/2000 14:30	
+	
+	
+	                           
+	
+
+To: Steve Price/LON/ECT@ECT
+cc: David Hardy/LON/ECT@ECT, Phil Yoxall/LON/ECT@ECT, Suzanne 
+Bain/LON/ECT@ECT, Jitendra Patel/Market Risk Management/LON/ECT@ECT, Oliver 
+Gaylard/LON/ECT@ECT 
+
+Subject: Re: RAC Feeds 29-Sep  
+
+Why no MTM for the 29th, that being the last business day for the month?
+
+
+
+Steve Price
+10/02/2000 06:40 AM
+To: David Hardy/LON/ECT@ECT, Debbie R Brackett/HOU/ECT@ECT, Phil 
+Yoxall/LON/ECT@ECT
+cc: Suzanne Bain/LON/ECT@ECT, Jitendra Patel/Market Risk 
+Management/LON/ECT@ECT, Oliver Gaylard/LON/ECT@ECT 
+Subject: RAC Feeds 29-Sep
+
+All
+
+Here are the feed timings for feeds for close of business 29-Sep
+
+ I will send another mail when they have all completed 
+
+    Approved  Send to RiskTRAC  Issues
+UK + Cont GAS   10:59    12:31   MTM approved is for 30-Sep. No 29-Sep MTM 
+approved
+UK Power   10:24       Running now
+Nordic Power   Not yet approved
+
+Steve
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:56 2022
+Message-ID: <22568449.1075855929237.JavaMail.evans@thyme>
+Date: Thu, 12 Oct 2000 09:58:00 -0700 (PDT)
+From: russ.severson@enron.com
+To: scott.mills@enron.com
+Subject: SITARA/CPR AVAILABILITY
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Russ Severson
+X-To: Scott Mills
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Systems problems
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+The SITARA system will be brought down  Saturday evening  (Oct 14 - 8 PM 
+Central Time) to move the system to a new machine.  
+The system will be available late Saturday, at approximately 11 PM.
+
+CPR will be available during this time.
+
+Please call the SITARA/CPR Hotline ((713)-853-7049) if you have any questions 
+or concerns.
+
+From MAILER-DAEMON Mon Apr 18 14:23:56 2022
+Message-ID: <18606880.1075855929304.JavaMail.evans@thyme>
+Date: Mon, 2 Oct 2000 06:09:00 -0700 (PDT)
+From: chris.abel@enron.com
+To: sally.beck@enron.com
+Subject: Global Ops Task Force week ending 9/29
+Cc: michael.moscoso@enron.com, shona.wilson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: michael.moscoso@enron.com, shona.wilson@enron.com
+X-From: Chris Abel
+X-To: Sally Beck
+X-cc: Michael E Moscoso, Shona Wilson
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Systems problems
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+This memo has been updated with the 29th's data.
+
+From MAILER-DAEMON Mon Apr 18 14:23:56 2022
+Message-ID: <13675389.1075855929348.JavaMail.evans@thyme>
+Date: Fri, 29 Sep 2000 04:12:00 -0700 (PDT)
+From: chris.abel@enron.com
+To: sally.beck@enron.com
+Subject: Global Operations Issues Task Force
+Cc: shona.wilson@enron.com, michael.moscoso@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: shona.wilson@enron.com, michael.moscoso@enron.com
+X-From: Chris Abel
+X-To: Sally Beck
+X-cc: Shona Wilson, Michael E Moscoso
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Systems problems
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Attached is the memo relating to our global operations issues, as discussed 
+in the morning meetings, for the week of September 29th.  Please let me know 
+if you have any questions.
+
+  
+
+From MAILER-DAEMON Mon Apr 18 14:23:56 2022
+Message-ID: <23822514.1075855929393.JavaMail.evans@thyme>
+Date: Wed, 5 Jul 2000 04:30:00 -0700 (PDT)
+From: kristin.albrecht@enron.com
+To: beth.perlman@enron.com, randy.matson@enron.com, jarod.jenson@enron.com,
+	christine.nguyen@enron.com, zhiyong.wei@enron.com,
+	ravi.ramachandran@enron.com, stacey.white@enron.com,
+	jenny.latham@enron.com, jenny.rub@enron.com
+Subject: Power Port Calc Issues
+Cc: sally.beck@enron.com, kevin.presto@enron.com, tim.belden@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sally.beck@enron.com, kevin.presto@enron.com, tim.belden@enron.com
+X-From: Kristin Albrecht
+X-To: Beth Perlman, Randy Matson, Jarod Jenson, Christine Nguyen, Zhiyong Wei, Ravi Ramachandran, Stacey W White, Jenny Latham, Jenny Rub
+X-cc: Sally Beck, Kevin M Presto, Tim Belden
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Systems problems
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+The Power risk group continues to experience severe instability with the 
+power port calc.  The same memory allocation issue which I discussed in the 
+message below is not resolved (we have had this problem for about four months 
+now).  Due to business reasons, we calculated the east power books on Monday 
+(Enron holiday).  We received all of the required data to calc by 9:30 AM and 
+should have been completely done by 11:30.  However, the calc crashed six 
+times and finally completed on the seventh try.  We were able to leave by 
+4:00.  The point I am trying to make is that I feel that we are at such a 
+state that there is risk that we could not provide positions to the traders 
+by the start of the next business day.  This could have a financial impact on 
+our company.  Once again, I am urgently and desperately asking for resolution 
+of this problem.
+Furthermore, it came to my attention on Friday that EES is now using EnPower 
+and the power port calc and they too are using the same server that we are.  
+I question this decision since we cannot seem to support the existing 
+business that is using that server.  Per discussion with Kevin Presto, the 
+agreement made regarding EES's use of EnPower was there would be no expense 
+or degradation to ENA's business process.  I think they need to move to 
+another server.
+Please call to discuss when this will be resolved.  Thank You.
+Kristin Albrecht
+3-4763
+
+
+---------------------- Forwarded by Kristin Albrecht/HOU/ECT on 07/05/2000 
+09:35 AM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  Kristin Albrecht                           05/15/2000 09:48 AM
+	
+
+To: Beth Perlman/HOU/ECT@ECT, Randy Matson/Corp/Enron@ENRON, Jarod 
+Jenson/HOU/ECT@ECT, Christine Nguyen/HOU/ECT@ECT, Zhiyong Wei/HOU/ECT@ECT, 
+Ravi Ramachandran/HOU/ECT@ECT, Stacey W White/HOU/ECT@ECT, Jenny 
+Latham/HOU/ECT@ECT
+cc:  
+Subject: athena vs quark
+
+With regards to the message below, we must have athena (server) to run our 
+nightly risk books for the power group.  We run one of our three east power 
+calcs on this machine (the second largest one).  Since an acceptable solution 
+for the big power calc has not been provided to us, athena CANNOT be taken 
+away from us.  The east power calc crashed 3 out of 5 days last week.  We 
+usually start calcing at about 4:00.  The calc time is now running at 1.5 
+hours and we have about 1.5 hours' worth of work after the calc's successful 
+completion.  So you do the math on what time my group leaves the building 
+when the calc crashes at 4:30.
+Furthermore, the West power calc has crashed 3 out of 5 nights weekly for the 
+last 3 weeks.  This is not acceptable.
+We are about to enter the busiest and most volatile time of the year and our 
+system is not stable.  I feel like we have been very patient at the expense 
+of many late nights.  I am going to speak to Kevin Presto and Tim Belden 
+today about these problems. 
+I think we need to meet immediately about this problem and I am exhausted 
+with the finger pointing between different IT groups.
+Thanks.
+Kristin Albrecht
+---------------------- Forwarded by Kristin Albrecht/HOU/ECT on 05/15/2000 
+09:27 AM ---------------------------
+   
+
+
+Christine Nguyen
+05/12/2000 01:01 PM
+To: Ravi Ramachandran/HOU/ECT@ECT
+cc: Randy Matson/Corp/Enron@ENRON 
+Subject: athena vs quark
+
+Ravi,
+       Please advise your users that athena will be completely unavailable 
+starting
+Wednesday17May2000.  The production server is quark (12gb RAMx18procs).
+quark is configured to our standard for your use.
+Thanks,
+-Christine
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:56 2022
+Message-ID: <13519289.1075855929415.JavaMail.evans@thyme>
+Date: Thu, 29 Jun 2000 03:50:00 -0700 (PDT)
+From: robert.superty@enron.com
+To: sally.beck@enron.com, jeffrey.shankman@enron.com, philippe.bibi@enron.com,
+	brent.price@enron.com
+Subject: System outage nomination impact, follow-up
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Robert Superty
+X-To: Sally Beck, Jeffrey A Shankman, Philippe A Bibi, Brent A Price
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Systems problems
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+As of 10:00 AM Thursday pipeline reports indicate that all of our resubmitted 
+nominations have been confirmed by the pipelines and our counterparties and 
+will be scheduled correctly.  These nominations were resubmitted on the first 
+Intraday cycle (6:00 PM on the day prior to flow).
+
+As a result I do not expect any monetary impact from yesterdays outage. I 
+will keep you posted if anything further develops.
+
+Bob Superty x30957
+
+From MAILER-DAEMON Mon Apr 18 14:23:56 2022
+Message-ID: <32087850.1075855929326.JavaMail.evans@thyme>
+Date: Mon, 2 Oct 2000 02:29:00 -0700 (PDT)
+From: debbie.brackett@enron.com
+To: sally.beck@enron.com
+Subject: Risk systems problem log
+Cc: stephen.stock@enron.com, ted.murphy@enron.com, william.bradford@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stephen.stock@enron.com, ted.murphy@enron.com, william.bradford@enron.com
+X-From: Debbie R Brackett
+X-To: Sally Beck
+X-cc: Stephen Stock, Ted Murphy, William S Bradford
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Systems problems
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Sally, 
+
+This is my stab at a consolidated list from the last 2 weeks.  We may have to 
+change the format to capture all the issues and explanations, but I wanted 
+you to have this for your meeting today. Rebooks are on the second sheet in 
+the workbook, but cover only the last week.
+
+
+
+
+
+
+Let me know if you have questions or need additional info. I'll be working 
+with the business analyst to take over this reporting later this week, so 
+please comment at your convenience.
+
+
+Debbie
+
+From MAILER-DAEMON Mon Apr 18 14:23:56 2022
+Message-ID: <4844760.1075855929459.JavaMail.evans@thyme>
+Date: Wed, 28 Jun 2000 10:40:00 -0700 (PDT)
+From: robert.superty@enron.com
+To: sally.beck@enron.com, jeffrey.shankman@enron.com, philippe.bibi@enron.com,
+	brent.price@enron.com
+Subject: System outage nomination impact
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Robert Superty
+X-To: Sally Beck, Jeffrey A Shankman, Philippe A Bibi, Brent A Price
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Systems problems
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+I have attached a quick summary of where we currently stand with our 
+nominations as a result of the hardware problems today.
+
+Please call me if you have any questions, thanks - Bob Superty
+
+From MAILER-DAEMON Mon Apr 18 14:23:56 2022
+Message-ID: <21633882.1075855929437.JavaMail.evans@thyme>
+Date: Wed, 28 Jun 2000 16:40:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.america@enron.com
+Subject: Yesterday's power outage
+Cc: mark.pickering@enron.com, john.sherriff@enron.com, mark.frevert@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: mark.pickering@enron.com, john.sherriff@enron.com, mark.frevert@enron.com
+X-From: Enron Announcements
+X-To: All Enron Employees North America
+X-cc: Mark Pickering, John Sherriff, Mark Frevert
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\Systems problems
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+As you are painfully aware, we had a power outage Wednesday morning in the 
+Enron Building.  This outage was caused by localized structural failure of 
+the raised floor in our 34th floor Data Center.  This resulted in disruption 
+to the power distribution system servicing the phone switch and a number of 
+ENA servers.
+
+As a cautionary move, Enron OnLine was interrupted while the extent of the 
+failure was assessed, resulting in the system being unavailable from 11:23 to 
+11:39.  All Enron Building telephones and voicemail were unavailable for 
+approximately one hour and 20 minutes and certain ENA trading systems were 
+unavailable for over two hours.  During this time the power was stabilized 
+and systems were restored.  Immediate steps are being taken to correct this 
+problem. 
+
+We apologize for this inconvenience.
+
+If you have any questions in regard to this outage, please call Philippe Bibi 
+at x37698 or Bill Donovan at x35459
+

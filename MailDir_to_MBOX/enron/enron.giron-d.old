@@ -1,0 +1,360 @@
+From MAILER-DAEMON Mon Apr 18 14:17:46 2022
+Message-ID: <11541362.1075854392475.JavaMail.evans@thyme>
+Date: Tue, 14 Nov 2000 03:06:00 -0800 (PST)
+From: greg.couch@enron.com
+To: jeffrey.gossett@enron.com, william.kelly@enron.com, kam.keiser@enron.com,
+	dutch.quigley@enron.com, john.valdes@enron.com,
+	david.baumbach@enron.com, darron.giron@enron.com
+Subject: Resend of excel spreadsheet
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Greg Couch
+X-To: Jeffrey C Gossett, William Kelly, Kam Keiser, Dutch Quigley, John Valdes, David Baumbach, Darron C Giron
+X-cc: 
+X-bcc: 
+X-Folder: \Darron_Giron_Jun2001\Notes Folders\Old
+X-Origin: Giron-D
+X-FileName: dgiron.nsf
+
+Here is the spreadsheet we discussed in today's meeting.  It should be pretty 
+straightforward.  If you have any questions, please ask.  I'll be happy to 
+help you out.
+
+I will look at a way to "tie-in" Winzip with this spreadsheet.  I don't know 
+if it is possible, but if I can accomplish it, I'll let you know.
+
+
+Greg
+
+---------------------- Forwarded by Greg Couch/HOU/ECT on 11/14/2000 10:59 AM 
+---------------------------
+
+
+Greg Couch
+09/27/2000 02:17 PM
+To: Steve Jackson/HOU/ECT@ECT, William Kelly/HOU/ECT@ECT, Jeffrey C 
+Gossett/HOU/ECT@ECT, Kam Keiser/HOU/ECT@ECT, Dutch Quigley/HOU/ECT@ECT
+cc:  
+Subject: Excel file to help you out
+
+Here is a spreadsheet I worked up to help you determine what files need to be 
+cleaned up.  It is pretty simple and straightforward.  You can enter a 
+directory, file extention (if you want all file types, just enter a "*"), a 
+minimum file size, and a modified before date.  The spreadsheet will perform 
+a search of the directory and all subdirectories and return the files 
+matching the criteria you specified.
+
+The information is returned sorted by directory, but you can then sort by 
+size, date, or whatever.
+
+This should help you make a quick pass through your files on the "O" drive to 
+determine some of the older/bigger ones you can clean up.
+
+I would encourage you not to just enter "O:\" in the directory because the 
+program will take forever, and you will run out of rows in excel to store the 
+data.  Since it is in Excel, it will take just a while if you run it on a 
+directory with a lot of files, so be a little patient.
+
+I don't want to spend a lot of time supporting this thing, so if you 
+distribute further, just don't tell them where you got it from (unless you 
+want to designate a given person on your desk to perform the work).  
+
+Let me know if you have questions or problems.
+
+Greg
+
+
+From MAILER-DAEMON Mon Apr 18 14:17:46 2022
+Message-ID: <11606767.1075848306443.JavaMail.evans@thyme>
+Date: Fri, 19 Jan 2001 05:05:00 -0800 (PST)
+From: andy.zipper@enron.com
+To: darron.giron@enron.com
+Subject: Jennifer Bagwell
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Andy Zipper
+X-To: Darron C Giron
+X-cc: 
+X-bcc: 
+X-Folder: \Darron_Giron_Nov2001\Notes Folders\Old
+X-Origin: GIRON-D
+X-FileName: dgiron.nsf
+
+If you have not already received the final PRC rating from HR please find it 
+below for your Associate:
+
+From MAILER-DAEMON Mon Apr 18 14:17:46 2022
+Message-ID: <4842062.1075848306488.JavaMail.evans@thyme>
+Date: Thu, 28 Dec 2000 23:34:00 -0800 (PST)
+From: david.baumbach@enron.com
+To: kam.keiser@enron.com, william.kelly@enron.com, errol.mclaughlin@enron.com,
+	darron.giron@enron.com, jeffrey.gossett@enron.com
+Subject: Calcing @ Home problems
+Cc: david.mayeux@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: david.mayeux@enron.com
+X-From: David Baumbach
+X-To: Kam Keiser, William Kelly, Errol McLaughlin, Darron C Giron, Jeffrey C Gossett
+X-cc: David Mayeux
+X-bcc: 
+X-Folder: \Darron_Giron_Nov2001\Notes Folders\Old
+X-Origin: GIRON-D
+X-FileName: dgiron.nsf
+
+I have encountered the following problems calcing at home.
+
+1.  On my Portcalc screen, everything was very tiny.  It worked but I know I 
+couldn't copy a post id because I wouldn't be able to see the new number.
+
+2.  I wanted to look at my curves last night and they opened up with errors.  
+Basically it's like opening up the curves on a machine without the correct 
+drivers.  Seems like we need to put those drivers on the network and maybe 
+upgrade it to Oracle 8i too.
+
+3.  I don't know how we can change the printer to print at home.  Only 
+concern here is if we are offsite and have a local printer (will we be able 
+to put that printer on the network?).  
+
+That's all I can think of right now.
+
+Any suggestions?
+
+Dave
+
+From MAILER-DAEMON Mon Apr 18 14:17:46 2022
+Message-ID: <23021419.1075848306465.JavaMail.evans@thyme>
+Date: Tue, 2 Jan 2001 05:14:00 -0800 (PST)
+From: carole.frank@enron.com
+To: darron.giron@enron.com
+Subject: New Hire Info.
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Carole Frank
+X-To: Darron C Giron
+X-cc: 
+X-bcc: 
+X-Folder: \Darron_Giron_Nov2001\Notes Folders\Old
+X-Origin: GIRON-D
+X-FileName: dgiron.nsf
+
+Darron,
+
+I met this man's wife, Nadia Rodriquez, in orientation.  Here is what she 
+said about her husband's work experience.
+
+"My husband just finished his MBA and his company's moving to Atlanta.  He 
+has been offered two positions there but we would rather stay here.  His 
+background has been in the securities industry, most recently in compliance 
+where he ensures that brokers follow NASD and SEC regulations in all aspects 
+(e.g. trading, marketing, etc.).  Prior to the compliance role, he was a 
+broker with PaineWebber.  Also, he has extensive computer skills and is used 
+to dealing with all levels of personnel."
+
+She should be sending me his resume soon.  
+
+Carole
+
+From MAILER-DAEMON Mon Apr 18 14:17:46 2022
+Message-ID: <10805505.1075854392453.JavaMail.evans@thyme>
+Date: Wed, 15 Nov 2000 05:41:00 -0800 (PST)
+From: victor.guggenheim@enron.com
+To: kam.keiser@enron.com, darron.giron@enron.com, william.kelly@enron.com,
+	david.baumbach@enron.com
+Subject: Re: Real-time NYMEX quotes
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Victor Guggenheim
+X-To: Kam Keiser, Darron C Giron, William Kelly, David Baumbach
+X-cc: 
+X-bcc: 
+X-Folder: \Darron_Giron_Jun2001\Notes Folders\Old
+X-Origin: Giron-D
+X-FileName: dgiron.nsf
+
+forgot the attachment 
+
+
+
+
+
+   
+	Enron North America Corp.
+	
+	From:  Victor Guggenheim                           11/15/2000 01:40 PM
+	
+
+To: Kam Keiser/HOU/ECT@ECT, Darron C Giron/HOU/ECT@ECT, William 
+Kelly/HOU/ECT@ECT, David Baumbach/HOU/ECT@ECT
+cc:  
+Subject: Real-time NYMEX quotes
+
+As discussed in the brown bag classes today many people would like to be able 
+to see the NYMEX prices updated in real-time.  Attached is a modified TDS 
+file that will listen to the NYMEX price.  When you open the file an error 
+message appears but the file does work.  Just go to the listen page and you 
+can see each of the months.  Please forward this file to your group if you 
+feel it will be useful to them.  If you have any questions just ask.
+
+VIctor
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:17:46 2022
+Message-ID: <31063193.1075854392497.JavaMail.evans@thyme>
+Date: Mon, 13 Nov 2000 10:46:00 -0800 (PST)
+From: enron.announcements@enron.com
+To: enron.states@enron.com
+Subject: Holiday Schedule 2001
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: Enron Employees United States
+X-cc: 
+X-bcc: 
+X-Folder: \Darron_Giron_Jun2001\Notes Folders\Old
+X-Origin: Giron-D
+X-FileName: dgiron.nsf
+
+Please click on the URL below for Enron's 2001 Holiday Schedule.
+
+http://home.enron.com:84/messaging/2001sched.jpg
+
+From MAILER-DAEMON Mon Apr 18 14:17:46 2022
+Message-ID: <5678031.1075854392518.JavaMail.evans@thyme>
+Date: Mon, 13 Nov 2000 03:24:00 -0800 (PST)
+From: dawn.kenne@enron.com
+To: darron.giron@enron.com
+Subject: Synthetic Storage Liquidation Variances
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Dawn C Kenne
+X-To: Darron C Giron
+X-cc: 
+X-bcc: 
+X-Folder: \Darron_Giron_Jun2001\Notes Folders\Old
+X-Origin: Giron-D
+X-FileName: dgiron.nsf
+
+---------------------- Forwarded by Dawn C Kenne/HOU/ECT on 11/13/2000 11:23 
+AM ---------------------------
+
+
+Dawn C Kenne
+10/10/2000 07:11 PM
+To: Darron C Giron/HOU/ECT@ECT
+cc:  
+
+Subject: Synthetic Storage Liquidation Variances
+
+Darron,
+
+I am going to try to put my thoughts on paper, but call me if there are any 
+further questions...
+
+For April, we have 1,390,618 of expense on the back page.  I have narrowed it 
+down to the following...
+ Tagg #N06517 being double booked  $952,500  (the correct tagg # is N08646).  
+ The other side of the storage transaction is in 9/00 physical liquidation 
+file and it is for 1,866,000.
+ Looks like double booking it actually made us money. Check it out though!
+ 
+ 137,000 in liquidations should have been moved to commodity expense to cover 
+transportations
+ OA, but it wasn't., so we this is income for us.
+
+ Two deals were booked in sitara but not tagg and, therefore, no liquidation 
+to cover the expenses.
+ They are sitara #242510 and #128336.  The total of these equaled 429,477.  
+
+For May, we have 1,889,707 in income on the back page.  This comes from:
+ Another deal booked twice....Tagg #N05499 was booked as duplicate (the right 
+one is #N08617)
+ The other side (expense) of the deal was taken in Dec.99. Therefore, I see 
+this as true income!
+ 
+ Tagg #NJ4479, I will have to talk with you about this.  I don't fully 
+understand it myself.
+
+ 93,924 (Tagg #NG0049), this should have been transferred to 3rd party 
+sales/purchases.
+ This storage deal is booked directly with the third party.
+
+I have not looked at July in full, but have some print outs to give you.
+
+Please let me know if you have any further questions on this crap!  I am just 
+a phone call away.
+
+Dawn
+3-9353
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:17:46 2022
+Message-ID: <21548209.1075854392562.JavaMail.evans@thyme>
+Date: Tue, 7 Nov 2000 13:44:00 -0800 (PST)
+From: enron.announcements@enron.com
+To: ena.employees@enron.com
+Subject: E-Mail and Voicemail Retention Policy
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+X-From: Enron Announcements
+X-To: ENA Employees
+X-cc: 
+X-bcc: 
+X-Folder: \Darron_Giron_Jun2001\Notes Folders\Old
+X-Origin: Giron-D
+X-FileName: dgiron.nsf
+
+As a reminder, ENA=01,s policy regarding retention of electronic mail, incl=
+uding=20
+Lotus Notes mail, Internet e-mail, cc:mail and voicemail is as follows:
+
+Message Location    Maximum Retention
+
+Inbox       30 Days
+Message Log/Sent Mail   30 Days
+Trash       Rollover from Inbox for 15 days
+Bulletin Boards     30 Days
+Folders/Archives    E-mails placed in Folders or Archives =01) one year
+Voicemail     90 days
+
+E-mail and voicemail older than the maximum retention will be purged=20
+automatically by IT, which is responsible for monitoring compliance with th=
+is=20
+policy.  Any exception to this policy requires approval by Mark Haedicke or=
+=20
+Richard Sanders.
+
+Mark Frevert and Mark Haedicke
+
+From MAILER-DAEMON Mon Apr 18 14:17:46 2022
+Message-ID: <1867968.1075854392540.JavaMail.evans@thyme>
+Date: Wed, 8 Nov 2000 06:45:00 -0800 (PST)
+From: william.kelly@enron.com
+To: jeffrey.gossett@enron.com, kam.keiser@enron.com, darron.giron@enron.com,
+	david.baumbach@enron.com, dutch.quigley@enron.com
+Subject: Groups for Classes
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: William Kelly
+X-To: Jeffrey C Gossett, Kam Keiser, Darron C Giron, David Baumbach, Dutch Quigley
+X-cc: 
+X-bcc: 
+X-Folder: \Darron_Giron_Jun2001\Notes Folders\Old
+X-Origin: Giron-D
+X-FileName: dgiron.nsf
+
+Let me know if I missed anyone.
+WK
+

@@ -1,0 +1,569 @@
+From MAILER-DAEMON Mon Apr 18 14:21:50 2022
+Message-ID: <3141253.1075859982706.JavaMail.evans@thyme>
+Date: Wed, 8 Dec 1999 14:15:00 -0800 (PST)
+From: cgreasley@isda.org
+To: adam_metter@sfmny.com, alec.cohen@creditlyonnais.co.uk, ahunt@isda.org,
+	apapesch@isda-eur.org, beat.gabathuler@zkb.ch,
+	bruce_ungar@fp.cibc.com, carol.schwartz@aexp.com, ccerria@hess.com,
+	charles.ross-stewart@wdr.com, chip_goodrich@dbna.com,
+	clarke_michael@jpmorgan.com, cberkowitz@us.ca-indosuez.com,
+	colonna@gruppocredit.it, cgreasley@isda.org, dcunning@cravath.com,
+	bentond@allenovery.com, david.bloom@hsbcgroup.com,
+	david.h.miller@bankofamerica.com, david.maloy@wdr.com,
+	david.suetens@uk.abnamro.com, david.wysoki@barcap.com,
+	diane.virzera@ny.frb.org, emily.jelich@royalbank.com,
+	ericr@capital-re.com, ernst.decker@bhf-bank.com, fcaputo@bci.it,
+	fnolan@lehman.com, gabriel@ms.com, garland_sims@lnotes5.bankofny.com,
+	giulia.rial@socgen.com, glenn.goggins@gecapital.com, harvey@sbcm.com,
+	james_lettiere@paribas.com, jcarl@ms.com,
+	janet_strickland@paribas.com, goldenj@allenovery.com,
+	jeremy.walsh@stanchart.com, joseph.carrico@ib.bankgesellschaft.de,
+	joe.hamilton@moorecap.com, john-gatsos@csfp.co.uk, jcohn@cravath.com,
+	kate.fitzgerald@chase.com, kkopelman@bear.com, kellis@cravath.com,
+	levinec@hugheshubbard.com, lewis_david@jpmorgan.com,
+	linda_lane@cargill.com, llove@westpac.com.au, majoan@ms.com,
+	marjorie.gross@chase.com, mark.taylor@enron.com, mvincigu@lehman.com,
+	michael.wood@dresdner-bank.de, mmunro@dow.com,
+	naumowicz_dean@jpmorgan.com, paul_a_thomas@fanniemae.com,
+	pierre.fiset@socgen.com, pregent@pimco.com,
+	ravi.tennekoon@uk.abnamro.com, ricardo.salaman@gs.com,
+	rmetcalfe@isda-eur.org, tredgetr@allenovery.com, rmurphy@genre.com,
+	rpickel@isda.org, robert.m.spielman@db.com, robert.mancini@gs.com,
+	robert.mcwilliam@uk.abnamro.com, ruth.laslo@wdr.com,
+	scott.l.flood@ssmb.com, stephen_kruft@swissre.com, shinko@isda.org,
+	susan_demaio@tigerfund.com, teruo.tanaka@ibjbank.co.jp,
+	thompson_don@jpmorgan.com, tricia.bowden@citicorp.com,
+	ulrich.bosch@db.com, ulrich.parche@hypovereinsbank.de,
+	uwe_jahn@commerzbank.com, zgriswold@exchange.ml.com
+Subject: Annex 1 and Annex 2
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Corrinne Greasley <CGREASLEY@isda.org>
+X-To: "'adam_metter@sfmny.com'" <adam_metter@sfmny.com>, "'alec.cohen@creditlyonnais.co.uk'" <alec.cohen@creditlyonnais.co.uk>, Alex Hunt <AHUNT@isda.org>, Angela Papesch <apapesch@isda-eur.org>, "'beat.gabathuler@zkb.ch'" <beat.gabathuler@zkb.ch>, "'bruce_ungar@fp.cibc.com'" <bruce_ungar@fp.cibc.com>, "'carol.schwartz@aexp.com'" <carol.schwartz@aexp.com>, "'ccerria@hess.com'" <ccerria@hess.com>, "'charles.ross-stewart@wdr.com'" <charles.ross-stewart@wdr.com>, Chip Goodrich <chip_goodrich@dbna.com>, "'clarke_michael@jpmorgan.com'" <clarke_michael@jpmorgan.com>, "'Clive Berkowitz'" <cberkowitz@us.ca-indosuez.com>, "'colonna@gruppocredit.it'" <colonna@gruppocredit.it>, Corrinne Greasley <CGREASLEY@isda.org>, Daniel Cunningham <dcunning@cravath.com>, David Benton <bentond@allenovery.com>, "'david.bloom@hsbcgroup.com'" <david.bloom@hsbcgroup.com>, "'david.h.miller@bankofamerica.com'" <david.h.miller@bankofamerica.com>, "'david.maloy@wdr.com'" <david.maloy@wdr.com>, "'david.suetens@uk.abnamro.com'" <david.suetens@uk.abnamro.com>, "'david.wysoki@barcap.com'" <david.wysoki@barcap.com>, "'diane.virzera@ny.frb.org'" <diane.virzera@ny.frb.org>, "'emily.jelich@royalbank.com'" <emily.jelich@royalbank.com>, "'ericr@capital-re.com'" <ericr@capital-re.com>, "'ernst.decker@bhf-bank.com'" <ernst.decker@bhf-bank.com>, "'fcaputo@bci.it'" <fcaputo@bci.it>, "'fnolan@lehman.com'" <fnolan@lehman.com>, "'gabriel@ms.com'" <gabriel@ms.com>, "'garland_sims@lnotes5.bankofny.com'" <garland_sims@lnotes5.bankofny.com>, "'giulia.rial@socgen.com'" <giulia.rial@socgen.com>, "'glenn.goggins@gecapital.com'" <glenn.goggins@gecapital.com>, "'harvey@sbcm.com'" <harvey@sbcm.com>, "'james_lettiere@paribas.com'" <james_lettiere@paribas.com>, Jane Carlin <jcarl@ms.com>, "'janet_strickland@paribas.com'" <janet_strickland@paribas.com>, Jeff Golden <goldenj@allenovery.com>, "'jeremy.walsh@stanchart.com'" <jeremy.walsh@stanchart.com>, "'Joe Carrico'" <joseph.carrico@ib.bankgesellschaft.de>, "'joe.hamilton@moorecap.com'" <joe.hamilton@moorecap.com>, "'john-gatsos@csfp.co.uk'" <john-gatsos@csfp.co.uk>, Josh Cohn <jcohn@cravath.com>, "'kate.fitzgerald@chase.com'" <kate.fitzgerald@chase.com>, Ken Kopelman <kkopelman@bear.com>, Kianga Ellis <kellis@cravath.com>, "'levinec@hugheshubbard.com'" <levinec@hugheshubbard.com>, "'lewis_david@jpmorgan.com'" <lewis_david@jpmorgan.com>, "'linda_lane@cargill.com'" <linda_lane@cargill.com>, "'llove@westpac.com.au'" <llove@westpac.com.au>, "'majoan@ms.com'" <majoan@ms.com>, "'marjorie.gross@chase.com'" <marjorie.gross@chase.com>, Mark Taylor, Marlisa Vinciguerra <mvincigu@lehman.com>, "'michael.wood@dresdner-bank.de'" <michael.wood@dresdner-bank.de>, "'mmunro@dow.com'" <mmunro@dow.com>, "'naumowicz_dean@jpmorgan.com'" <naumowicz_dean@jpmorgan.com>, "'paul_a_thomas@fanniemae.com'" <paul_a_thomas@fanniemae.com>, "'pierre.fiset@socgen.com'" <pierre.fiset@socgen.com>, "'pregent@pimco.com'" <pregent@pimco.com>, "'ravi.tennekoon@uk.abnamro.com'" <ravi.tennekoon@uk.abnamro.com>, "'ricardo.salaman@gs.com'" <ricardo.salaman@gs.com>, Richard Metcalfe <rmetcalfe@isda-eur.org>, Richard Tredgett <tredgetr@allenovery.com>, "'rmurphy@genre.com'" <rmurphy@genre.com>, Robert Pickel <RPICKEL@isda.org>, "'robert.m.spielman@db.com'" <robert.m.spielman@db.com>, "'robert.mancini@gs.com'" <robert.mancini@gs.com>, "'robert.mcwilliam@uk.abnamro.com'" <robert.mcwilliam@uk.abnamro.com>, "'ruth.laslo@wdr.com'" <ruth.laslo@wdr.com>, "'scott.l.flood@ssmb.com'" <scott.l.flood@ssmb.com>, "'stephen_kruft@swissre.com'" <stephen_kruft@swissre.com>, Susan Hinko <SHINKO@isda.org>, "'susan_demaio@tigerfund.com'" <susan_demaio@tigerfund.com>, Teruo Tanaka <teruo.tanaka@ibjbank.co.jp>, "'thompson_don@jpmorgan.com'" <thompson_don@jpmorgan.com>, "'tricia.bowden@citicorp.com'" <tricia.bowden@citicorp.com>, "'Ulrich Bosch'" <ulrich.bosch@db.com>, "'ulrich.parche@hypovereinsbank.de'" <ulrich.parche@hypovereinsbank.de>, "'uwe_jahn@commerzbank.com'" <uwe_jahn@commerzbank.com>, "'zgriswold@exchange.ml.com'" <zgriswold@exchange.ml.com>
+X-cc: 
+X-bcc: 
+X-Folder: \Mark_Taylor _Dec_2000\Notes Folders\Isda
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+Strategic Documentation Review Task Force Members:
+
+Attached please find the blackline Annex 1 and Annex 2 to be used for the
+Strategic Documentation Review Task Force meeting tomorrow in London and on
+December 16 in New York.  Copies will be distributed at the meetings in
+London and New York.
+
+If you encounter any problems opening these documents please contact the
+ISDA office in New York by return email or by telephone on 212 332 1200 and
+a copy will be sent to you by fax.
+
+Regards
+Corrinne Greasley
+
+
+ <<annex1 blackline.doc>>  <<annex2 blackline.doc>>
+
+ - annex1 blackline.doc
+ - annex2 blackline.doc
+
+From MAILER-DAEMON Mon Apr 18 14:21:50 2022
+Message-ID: <27111914.1075858622229.JavaMail.evans@thyme>
+Date: Fri, 25 May 2001 06:47:00 -0700 (PDT)
+From: justin.boyd@enron.com
+To: mark.taylor@enron.com
+Subject: RE: ISDA European Energy Conference Agenda
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Justin Boyd <Justin Boyd/Enron@EUEnronXGate@ENRON>
+X-To: Mark Taylor <Mark Taylor/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \MTAYLO1 (Non-Privileged)\Taylor, Mark E (Legal)\ISDA
+X-Origin: Taylor-M
+X-FileName: MTAYLO1 (Non-Privileged).pst
+
+mark
+
+german energy markets in itself may be too narrow - it might be better to enlarge it to cover Western European energy markets
+
+hope all's well with you.....by the way, Franny's pregnant!!!!....whoooppeeeeee!!!
+
+J
+
+ -----Original Message-----
+From: 	Taylor, Mark  
+Sent:	25 May 2001 00:06
+To:	scarey@isda.org
+Cc:	rainslie@isda.org; Haedicke, Mark; Evans, Mark; Boyd, Justin; Simons, Paul; Von Bock Und Polach, Marcus
+Subject:	ISDA European Energy Conference Agenda
+
+Stacey,
+
+Mark H. and I met this afternoon to discuss the December conference agenda and have the following suggestions:
+
+1.  Review of California Energy Litigation -- (Mark H. would be good for this one.  If he can't make it, we can probably find a substitute.)
+2.  German Energy Markets
+3.  Convergence of Commodity Trading Forms
+
+There were also a couple of topics included on the Houston agenda this year that might also be appropriate:
+
+Christophe's panel discussion on new markets
+E-commerce panel
+
+I have also copied several of the lawyers in our London office who are active in the derivatives and commodity trading world to solicit their suggestions for appropriate topics to be added to the agenda.
+
+From MAILER-DAEMON Mon Apr 18 14:21:50 2022
+Message-ID: <10489514.1075858622150.JavaMail.evans@thyme>
+Date: Wed, 23 May 2001 17:00:00 -0700 (PDT)
+From: mark.haedicke@enron.com
+To: mark.taylor@enron.com
+Subject: Conference Calls
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Mark E Haedicke <Mark E Haedicke/HOU/ECT@ECT>
+X-To: Mark Taylor <Mark Taylor/HOU/ECT@ECT>
+X-cc: 
+X-bcc: 
+X-Folder: \MTAYLO1 (Non-Privileged)\Taylor, Mark E (Legal)\ISDA
+X-Origin: Taylor-M
+X-FileName: MTAYLO1 (Non-Privileged).pst
+
+Please review and set up a meeting with me to establish a plan for this committee.  Mark
+----- Forwarded by Mark E Haedicke/HOU/ECT on 05/23/2001 01:59 PM -----
+
+
+	Stacy Carey <SCAREY@ISDA.ORG> 05/23/2001 11:36 AM 	   To: Mark Haedicke <Mark.E.Haedicke@enron.com>  cc: Ruth Ainslie <RAinslie@isda.org>  Subject: Conference Calls	
+
+
+Hello Mark -- given our e-mail traffic the last couple of days I wanted to
+quickly summarize our thoughts on next steps:
+
+1.  Conference call - Mark, Ruth and Stacy re: agenda for NA Energy
+Committee
+2.  Conference call - Mark, Ruth, Stacy, Christophe, Katia, John re:
+coordination of committee activities and agenda for December conference
+
+Depending upon your schedule, we hope to try to get these calls scheduled
+either this week or early next week.
+
+Many thanks!  -- Stacy
+
+-----Original Message-----
+From: Stacy Carey 
+Sent: Tuesday, May 22, 2001 3:57 PM
+To: Mark Haedicke
+Subject: European Energy Committee Meeting
+
+
+Hello Mark -- The European Energy Committee meeting was held in London
+today. The attached documents, including the agenda, a memo on the Bridge
+agreement, and a copy of the Bridge agreement, were reviewed at this
+morning's meeting. 
+
+Much of the discussion focused on explanation of the Bridge Agreement. There
+was some discussion about the German regulatory structure and the bridge
+agreement.  Katia ran through the agenda in Houston and asked for ideas on
+December conference.  I was not able to hear all of the questions entirely
+but questions were asked about the outcome of the meeting.  Katia and
+Christophe explained that it was a forum to exchange ideas and to promote
+use of ISDA within industry. The minutes should give us more detail.  
+
+In addition to a call re: the NA agenda, I think it would be worthwhile to
+also have a call w/Christophe, Katia and John Berry to discuss European
+activities and to begin discussion on the December agenda. ISDA should begin
+to focus on an agenda as soon as possible so that we assure December's
+conference is as productive as the Houston conference.  Thanks!
+
+Stacy Carey
+Policy Director 
+International Swaps and Derivatives Association
+600 5th Avenue, 27th Floor
+Rockefeller Center
+New York, NY  10020
+(212) 332-1202 ph
+(212) 332-1212 fax
+(917) 543-9622 cell
+scarey@isda.org
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:21:50 2022
+Message-ID: <21324330.1075859982678.JavaMail.evans@thyme>
+Date: Thu, 9 Dec 1999 06:04:00 -0800 (PST)
+From: cgreasley@isda.org
+To: adam_metter@sfmny.com, alec.cohen@creditlyonnais.co.uk, ahunt@isda.org,
+	apapesch@isda-eur.org, beat.gabathuler@zkb.ch,
+	bruce_ungar@fp.cibc.com, carol.schwartz@aexp.com, ccerria@hess.com,
+	charles.ross-stewart@wdr.com, chip_goodrich@dbna.com,
+	clarke_michael@jpmorgan.com, cberkowitz@us.ca-indosuez.com,
+	colonna@gruppocredit.it, cgreasley@isda.org, dcunning@cravath.com,
+	bentond@allenovery.com, david.bloom@hsbcgroup.com,
+	david.h.miller@bankofamerica.com, david.maloy@wdr.com,
+	david.suetens@uk.abnamro.com, david.wysoki@barcap.com,
+	diane.virzera@ny.frb.org, emily.jelich@royalbank.com,
+	ericr@capital-re.com, ernst.decker@bhf-bank.com, fcaputo@bci.it,
+	fnolan@lehman.com, gabriel@ms.com, garland_sims@lnotes5.bankofny.com,
+	giulia.rial@socgen.com, glenn.goggins@gecapital.com, harvey@sbcm.com,
+	james_lettiere@paribas.com, jcarl@ms.com,
+	janet_strickland@paribas.com, goldenj@allenovery.com,
+	jeremy.walsh@stanchart.com, joseph.carrico@ib.bankgesellschaft.de,
+	joe.hamilton@moorecap.com, john-gatsos@csfp.co.uk, jcohn@cravath.com,
+	kate.fitzgerald@chase.com, kkopelman@bear.com, kellis@cravath.com,
+	levinec@hugheshubbard.com, lewis_david@jpmorgan.com,
+	linda_lane@cargill.com, llove@westpac.com.au, majoan@ms.com,
+	marjorie.gross@chase.com, mark.taylor@enron.com, mvincigu@lehman.com,
+	michael.wood@dresdner-bank.de, mmunro@dow.com,
+	naumowicz_dean@jpmorgan.com, paul_a_thomas@fanniemae.com,
+	pierre.fiset@socgen.com, pregent@pimco.com,
+	ravi.tennekoon@uk.abnamro.com, ricardo.salaman@gs.com,
+	rmetcalfe@isda-eur.org, tredgetr@allenovery.com, rmurphy@genre.com,
+	rpickel@isda.org, robert.m.spielman@db.com, robert.mancini@gs.com,
+	robert.mcwilliam@uk.abnamro.com, ruth.laslo@wdr.com,
+	scott.l.flood@ssmb.com, stephen_kruft@swissre.com, shinko@isda.org,
+	susan_demaio@tigerfund.com, teruo.tanaka@ibjbank.co.jp,
+	thompson_don@jpmorgan.com, tricia.bowden@citicorp.com,
+	ulrich.bosch@db.com, ulrich.parche@hypovereinsbank.de,
+	uwe_jahn@commerzbank.com, zgriswold@exchange.ml.com
+Subject: Dispute Resolution
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Corrinne Greasley <CGREASLEY@isda.org>
+X-To: "'adam_metter@sfmny.com'" <adam_metter@sfmny.com>, "'alec.cohen@creditlyonnais.co.uk'" <alec.cohen@creditlyonnais.co.uk>, Alex Hunt <AHUNT@isda.org>, Angela Papesch <apapesch@isda-eur.org>, "'beat.gabathuler@zkb.ch'" <beat.gabathuler@zkb.ch>, "'bruce_ungar@fp.cibc.com'" <bruce_ungar@fp.cibc.com>, "'carol.schwartz@aexp.com'" <carol.schwartz@aexp.com>, "'ccerria@hess.com'" <ccerria@hess.com>, "'charles.ross-stewart@wdr.com'" <charles.ross-stewart@wdr.com>, Chip Goodrich <chip_goodrich@dbna.com>, "'clarke_michael@jpmorgan.com'" <clarke_michael@jpmorgan.com>, "'Clive Berkowitz'" <cberkowitz@us.ca-indosuez.com>, "'colonna@gruppocredit.it'" <colonna@gruppocredit.it>, Corrinne Greasley <CGREASLEY@isda.org>, Daniel Cunningham <dcunning@cravath.com>, David Benton <bentond@allenovery.com>, "'david.bloom@hsbcgroup.com'" <david.bloom@hsbcgroup.com>, "'david.h.miller@bankofamerica.com'" <david.h.miller@bankofamerica.com>, "'david.maloy@wdr.com'" <david.maloy@wdr.com>, "'david.suetens@uk.abnamro.com'" <david.suetens@uk.abnamro.com>, "'david.wysoki@barcap.com'" <david.wysoki@barcap.com>, "'diane.virzera@ny.frb.org'" <diane.virzera@ny.frb.org>, "'emily.jelich@royalbank.com'" <emily.jelich@royalbank.com>, "'ericr@capital-re.com'" <ericr@capital-re.com>, "'ernst.decker@bhf-bank.com'" <ernst.decker@bhf-bank.com>, "'fcaputo@bci.it'" <fcaputo@bci.it>, "'fnolan@lehman.com'" <fnolan@lehman.com>, "'gabriel@ms.com'" <gabriel@ms.com>, "'garland_sims@lnotes5.bankofny.com'" <garland_sims@lnotes5.bankofny.com>, "'giulia.rial@socgen.com'" <giulia.rial@socgen.com>, "'glenn.goggins@gecapital.com'" <glenn.goggins@gecapital.com>, "'harvey@sbcm.com'" <harvey@sbcm.com>, "'james_lettiere@paribas.com'" <james_lettiere@paribas.com>, Jane Carlin <jcarl@ms.com>, "'janet_strickland@paribas.com'" <janet_strickland@paribas.com>, Jeff Golden <goldenj@allenovery.com>, "'jeremy.walsh@stanchart.com'" <jeremy.walsh@stanchart.com>, "'Joe Carrico'" <joseph.carrico@ib.bankgesellschaft.de>, "'joe.hamilton@moorecap.com'" <joe.hamilton@moorecap.com>, "'john-gatsos@csfp.co.uk'" <john-gatsos@csfp.co.uk>, Josh Cohn <jcohn@cravath.com>, "'kate.fitzgerald@chase.com'" <kate.fitzgerald@chase.com>, Ken Kopelman <kkopelman@bear.com>, Kianga Ellis <kellis@cravath.com>, "'levinec@hugheshubbard.com'" <levinec@hugheshubbard.com>, "'lewis_david@jpmorgan.com'" <lewis_david@jpmorgan.com>, "'linda_lane@cargill.com'" <linda_lane@cargill.com>, "'llove@westpac.com.au'" <llove@westpac.com.au>, "'majoan@ms.com'" <majoan@ms.com>, "'marjorie.gross@chase.com'" <marjorie.gross@chase.com>, Mark Taylor, Marlisa Vinciguerra <mvincigu@lehman.com>, "'michael.wood@dresdner-bank.de'" <michael.wood@dresdner-bank.de>, "'mmunro@dow.com'" <mmunro@dow.com>, "'naumowicz_dean@jpmorgan.com'" <naumowicz_dean@jpmorgan.com>, "'paul_a_thomas@fanniemae.com'" <paul_a_thomas@fanniemae.com>, "'pierre.fiset@socgen.com'" <pierre.fiset@socgen.com>, "'pregent@pimco.com'" <pregent@pimco.com>, "'ravi.tennekoon@uk.abnamro.com'" <ravi.tennekoon@uk.abnamro.com>, "'ricardo.salaman@gs.com'" <ricardo.salaman@gs.com>, Richard Metcalfe <rmetcalfe@isda-eur.org>, Richard Tredgett <tredgetr@allenovery.com>, "'rmurphy@genre.com'" <rmurphy@genre.com>, Robert Pickel <RPICKEL@isda.org>, "'robert.m.spielman@db.com'" <robert.m.spielman@db.com>, "'robert.mancini@gs.com'" <robert.mancini@gs.com>, "'robert.mcwilliam@uk.abnamro.com'" <robert.mcwilliam@uk.abnamro.com>, "'ruth.laslo@wdr.com'" <ruth.laslo@wdr.com>, "'scott.l.flood@ssmb.com'" <scott.l.flood@ssmb.com>, "'stephen_kruft@swissre.com'" <stephen_kruft@swissre.com>, Susan Hinko <SHINKO@isda.org>, "'susan_demaio@tigerfund.com'" <susan_demaio@tigerfund.com>, Teruo Tanaka <teruo.tanaka@ibjbank.co.jp>, "'thompson_don@jpmorgan.com'" <thompson_don@jpmorgan.com>, "'tricia.bowden@citicorp.com'" <tricia.bowden@citicorp.com>, "'Ulrich Bosch'" <ulrich.bosch@db.com>, "'ulrich.parche@hypovereinsbank.de'" <ulrich.parche@hypovereinsbank.de>, "'uwe_jahn@commerzbank.com'" <uwe_jahn@commerzbank.com>, "'zgriswold@exchange.ml.com'" <zgriswold@exchange.ml.com>
+X-cc: 
+X-bcc: 
+X-Folder: \Mark_Taylor _Dec_2000\Notes Folders\Isda
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+Attached please find the memo on Dispute Resolution.
+
+ <<DR memo 1203.doc>>
+
+
+ - DR memo 1203.doc
+
+From MAILER-DAEMON Mon Apr 18 14:21:50 2022
+Message-ID: <2279569.1075858622207.JavaMail.evans@thyme>
+Date: Thu, 24 May 2001 22:24:00 -0700 (PDT)
+From: rainslie@isda.org
+To: mark.taylor@enron.com, scarey@isda.org
+Subject: RE: ISDA European Energy Conference Agenda
+Cc: rainslie@isda.org, mark.e.haedicke@enron.com, mark.evans@enron.com,
+	justin.boyd@enron.com, paul.simons@enron.com,
+	marcus.vonbock.und.polach@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: rainslie@isda.org, mark.e.haedicke@enron.com, mark.evans@enron.com,
+	justin.boyd@enron.com, paul.simons@enron.com,
+	marcus.vonbock.und.polach@enron.com
+X-From: Ruth Ainslie  <RAinslie@isda.org>
+X-To: Mark Taylor  <mark.taylor@enron.com>, Stacy Carey  <SCAREY@ISDA.ORG>
+X-cc: Ruth Ainslie  <RAinslie@isda.org>, Mark Haedicke  <Mark.E.Haedicke@enron.com>, 'Mark.Evans@enron.com ' , 'Justin.Boyd@enron.com ' , 'Paul.Simons@enron.com ' , 'Marcus.Vonbock.Und.Polach@enron.com ' 
+X-bcc: 
+X-Folder: \MTAYLO1 (Non-Privileged)\Taylor, Mark E (Legal)\ISDA
+X-Origin: Taylor-M
+X-FileName: MTAYLO1 (Non-Privileged).pst
+
+Sounds very good and I agree with the suggestions to include the two listed
+items from the Houston conference.  Here's one more suggestion:
+
+Based on recent discussions (including at Strategic Planning last week), we
+might consider adding as a topic European regulatory status, including the
+Market Abuse Directive.  By December there should be a draft.  Annalisa
+Barbargallo in our London office would be one good speaker.
+
+We certainly hope Mark H will be able to attend and speak on California - as
+Committee Chair and Board Member from Enron.
+
+-----Original Message-----
+From: Mark.Taylor@enron.com
+To: scarey@isda.org
+Cc: rainslie@isda.org; Mark.E.Haedicke@enron.com; Mark.Evans@enron.com;
+Justin.Boyd@enron.com; Paul.Simons@enron.com;
+Marcus.Vonbock.Und.Polach@enron.com
+Sent: 5/24/01 7:06 PM
+Subject: ISDA European Energy Conference Agenda
+
+Stacey,
+
+Mark H. and I met this afternoon to discuss the December conference
+agenda
+and have the following suggestions:
+
+1.  Review of California Energy Litigation -- (Mark H. would be good for
+this one.  If he can't make it, we can probably find a substitute.)
+2.  German Energy Markets
+3.  Convergence of Commodity Trading Forms
+
+There were also a couple of topics included on the Houston agenda this
+year
+that might also be appropriate:
+
+Christophe's panel discussion on new markets
+E-commerce panel
+
+I have also copied several of the lawyers in our London office who are
+active in the derivatives and commodity trading world to solicit their
+suggestions for appropriate topics to be added to the agenda.
+
+From MAILER-DAEMON Mon Apr 18 14:21:50 2022
+Message-ID: <2290070.1075858622183.JavaMail.evans@thyme>
+Date: Mon, 9 Jul 2001 09:49:56 -0700 (PDT)
+From: ksumme@isda.org
+To: e-mail <.ann@enron.com>, folland'.'anne@enron.com,
+	schwartz'.'carol@enron.com, pregent'.'chantal@enron.com,
+	cerria'.'charles@enron.com, berkowitz'.'clive@enron.com,
+	goggins'.'glenn@enron.com, e-mail <.jaap@enron.com>,
+	hamilton'.'joe@enron.com, e-mail <.john@enron.com>,
+	lane'.'linda@enron.com, sussmes'.'matthew@enron.com,
+	munro'.'michael@enron.com, fiset'.'pierre@enron.com,
+	murphy'.'richard@enron.com, kruft'.'stephen@enron.com,
+	vercaigne'.'veerle@enron.com, papesch.angela@enron.com,
+	levine'.'carolyn@enron.com, greasley.corrinne@enron.com,
+	cunningham.daniel@enron.com, e-mail <.david@enron.com>,
+	miller'.'david@enron.com, suetens'.'david@enron.com,
+	naumowicz'.'dean@enron.com, virzera'.'diane@enron.com,
+	jelich.emily@enron.com, lettiere'.'james@enron.com,
+	ma'.'joan@enron.com, berry.john@enron.com, cohn.josh@enron.com,
+	summe.kimberly@enron.com, jr.'.'lewis@enron.com,
+	assistant'.'lewis@enron.com, e-mail <.marjorie@enron.com>,
+	clarke'.'michael@enron.com, metcalfe.richard@enron.com,
+	e-mail <.robert@enron.com>, pickel.robert@enron.com,
+	tanaka.teruo@enron.com, jahn'.'uwe@enron.com, cohen'.'alec@enron.com,
+	spielman'.'bob@enron.com, benton.david@enron.com,
+	bloom'.'david@enron.com, sims'.'gary@enron.com,
+	golden.jeff@enron.com, walsh'.'jeremy@enron.com,
+	fitzgerald'.'kate@enron.com, wood'.'michael@enron.com,
+	e-mail <.quentin@enron.com>, tennekoon'.'ravi@enron.com,
+	salaman'.'ricardo@enron.com, tredgett.richard@enron.com,
+	laslo'.'ruth@enron.com, flood'.'scott@enron.com,
+	bosch'.'ulrich@enron.com, gabathuler'.'beat@enron.com,
+	ross-stewart'.'charles@enron.com, lewis'.'david@enron.com,
+	wysoki.david@enron.com, decker'.'ernst@enron.com,
+	nassetti'.'francesco@enron.com, benincasa'.'gabriel@enron.com,
+	carrico'.'joe@enron.com, legal <.taylor@enron.com>,
+	harvey'.'peter@enron.com, metter'.'adam@enron.com,
+	mancini.bob@enron.com, barrett'.'candace@enron.com,
+	goodrich.chip@enron.com, thompson'.'don@enron.com,
+	rothman'.'eric@enron.com, carlin.jane@enron.com,
+	kopelman.ken@enron.com, e-mail <.luke@enron.com>,
+	e-mail <.marjorie@enron.com>, vinciguerra.marlisa@enron.com,
+	bowden'.'tricia@enron.com, parche'.'ulrich@enron.com,
+	binavince'.'victoria@enron.com
+Subject: SDR Task Force Meeting - Email One
+Cc: rpickel@isda.org, ejelich@isda.org, rainslie@isda.org, lmarshall@isda.org,
+	rmetcalfe@isda-eur.org, jberry@isda-eur.org, pwerner@isda-eur.org,
+	skawano@isda.org, yhoribe@isda.org, apapesch@isda.org,
+	tmorita@isda.org
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: rpickel@isda.org, ejelich@isda.org, rainslie@isda.org, lmarshall@isda.org,
+	rmetcalfe@isda-eur.org, jberry@isda-eur.org, pwerner@isda-eur.org,
+	skawano@isda.org, yhoribe@isda.org, apapesch@isda.org,
+	tmorita@isda.org
+X-From: Kimberly Summe <KSumme@isda.org>@ENRON <IMCEANOTES-Kimberly+20Summe+20+3CKSumme+40isda+2Eorg+3E+40ENRON@ENRON.com>
+X-To: Ann Reynaud (E-mail) <areynaud@coral-energy.com>, 'Anne B. Folland' <anne.benco.folland@dnb.no>, 'Carol Schwartz' <carol.schwartz@aexp.com>, 'Chantal Pregent' <pregent@pimco.com>, 'Charles F. Cerria' <ccerria@hess.com>, 'Clive Berkowitz' <cberkowi@us.ca-indosuez.com>, 'Glenn J. Goggins' <glenn.goggins@gecapital.com>, Jaap A. vanOpstal (E-mail) <jvanopstal@worldbank.org>, 'Joe Hamilton' <joe.hamilton@moorecap.com>, John Gatsos (E-mail) <john.gatsos@csfb.com>, 'Linda Lane' <linda_lane@cargill.com>, 'Matthew Sussmes' <MSussmes@dkbinternational.com>, 'Michael Munro' <mmunro@dow.com>, 'Pierre Fiset' <pierre.fiset@socgen.com>, 'Richard Murphy' <rmurphy@genre.com>, 'Stephen Kruft' <stephen_kruft@swissre.com>, 'Veerle Vercaigne' <veerle.vercaigne@kbc.be>, Angela Papesch <APapesch@isda.org>, 'Carolyn B. Levine' <levinec@hugheshubbard.com>, Corrinne Greasley <CGREASLEY@isda.org>, Daniel Cunningham <daniel.cunningham@allenovery.com>, David J. Maloy (E-mail) <david.maloy@ubsw.com>, 'David Miller' <david.h.miller@bankofamerica.com>, 'David Suetens' <David.Suetens@nl.abnamro.com>, 'Dean Naumowicz' <naumowid@allenovery.com>, 'Diane Virzera' <diane.virzera@ny.frb.org>, Emily Jelich <ejelich@isda.org>, 'James Lettiere' <james_lettiere@bnpparibas.com>, 'Joan Ma' <joan.ma@msdw.com>, John Berry <jberry@isda-eur.org>, Josh Cohn <joshua.cohn@allenovery.com>, Kimberly Summe <KSumme@isda.org>, 'Lewis E. Love, Jr.' <llove@westpac.com.au>, 'Lewis Love's Assistant' <mhaggerty@westpac.com.au>, Marjorie Cresta (E-mail) <mcresta@cravath.com>, 'Michael Clarke' <clarke_michael@cygnifi.com>, Richard Metcalfe <rmetcalfe@isda-eur.org>, Robert McWilliam (E-mail) <robert.mcwilliam@uk.abnamro.com>, Robert Pickel <RPICKEL@isda.org>, Teruo Tanaka <teruo.tanaka@ibjbank.co.jp>, 'Uwe Jahn' <ujahn@morganlewis.com>, 'Alec L. Cohen' <alec.cohen@creditlyonnais.co.uk>, 'Bob Spielman' <robert.m.spielman@db.com>, David Benton <bentond@allenovery.com>, 'David Bloom' <david.bloom@hsbcgroup.com>, 'Gary Sims' <gsims@bankofny.com>, Jeff Golden <goldenj@allenovery.com>, 'Jeremy Walsh' <jeremy.walsh@sg.standardchartered.com>, 'Kate Fitzgerald' <kate.fitzgerald@chase.com>, 'Michael Wood' <michael.wood@dresdner-bank.de>, Quentin Pak (E-mail) <Quentin.Pak@AllenOvery.com>, 'Ravi Tennekoon' <ravi.tennekoon@uk.abnamro.com>, 'Ricardo Salaman' <ricardo.salaman@gs.com>, Richard Tredgett <tredgetr@allenovery.com>, 'Ruth Laslo' <ruth.laslo@ubsw.com>, 'Scott Flood' <scott.l.flood@ssmb.com>, 'Ulrich Bosch' <ulrich.bosch@db.com>, 'Beat Gabathuler' <beat.gabathuler@zkb.ch>, 'Charles Ross-Stewart' <charles.ross-stewart@wdr.com>, 'David A. Lewis' <lewis_david@jpmorgan.com>, David Wysoki <david.wysoki@barcap.com>, 'Ernst Decker' <ernst.decker@bhf-bank.com>, 'Francesco Caputo Nassetti' <fcaputo@bci.it>, 'Gabriel Benincasa' <gabriel.benincasa@msdw.com>, 'Joe Carrico' <joseph.carrico@ib.bankgesellschaft.de>, Taylor, Mark E (Legal) </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MTAYLO1>, 'Peter Harvey' <harvey@sbcm.com>, 'Adam D. Metter' <ametter@sfmny.com>, Bob Mancini <robert.mancini@gs.com>, 'Candace Barrett' <candace.barrett@royalbank.com>, Chip Goodrich <chip_goodrich@dbna.com>, 'Don Thompson' <thompson_don@jpmorgan.com>, 'Eric Rothman' <ericr@capital-re.com>, Jane Carlin <jane.carlin@msdw.com>, Ken Kopelman <kkopelman@bear.com>, Luke Farber (E-mail) <lfarber@exchange.ml.com>, Marjorie Gross (E-mail) <marjorie.gross@chase.com>, Marlisa Vinciguerra <mvincigu@lehman.com>, 'Tricia Bowden' <tricia.bowden@citicorp.com>, 'Ulrich Parche' <ulrich.parche@hypovereinsbank.de>, 'Victoria Binavince' <Victoria.Binavince@socgen.com>
+X-cc: Robert Pickel <RPICKEL@isda.org>, Emily Jelich <ejelich@isda.org>, Ruth Ainslie <RAinslie@isda.org>, Louise Marshall <LMarshall@isda.org>, Richard Metcalfe <rmetcalfe@isda-eur.org>, John Berry <jberry@isda-eur.org>, Peter Werner <pwerner@isda-eur.org>, Shigeki Kawano <SKawano@isda.org>, Yasuko Horibe <YHORIBE@isda.org>, Angela Papesch <APapesch@isda.org>, Tomoko Morita <TMorita@isda.org>
+X-bcc: 
+X-Folder: \MTAYLO1 (Non-Privileged)\Taylor, Mark E (Legal)\ISDA
+X-Origin: Taylor-M
+X-FileName: MTAYLO1 (Non-Privileged).pst
+
+
+Attached, please find the first of two set of materials for the meeting of
+the Strategic Documentation Review Task Force on July 17, 2001.  As
+indicated in the email sent to you on July 5, the meeting in London will be
+held at ISDA's offices at One New Change from 2:00 to 5:00 and the meeting
+in New York will be held at 125 Broad Street from 9:00 to 12:00.  The
+meeting will begin with short presentations on the attached documents.
+
+The materials attached in this email are:
+
+1.	Annexes 1-7 amending various provisions of the 1992 ISDA Master
+Agreement;
+2.	Annex 8 amending Sections 6(d)(i) and (e) of the 1992 ISDA Master
+Agreement;
+3.	A User's Guide to the Amendments to the 1992 ISDA Master Agreement -
+Annexes 1-8;
+4.	2001 ISDA Master Agreement Protocol - Illegality and Force Majeure;
+5.	Practice Notes to the 2001 ISDA Master Agreement Protocol -
+Illegality and Force Majeure; and
+6.	Chart on Illegality and Force Majeure.
+
+If you have any questions, please contact me at 212-332-1203.
+
+Kimberly Summe
+Assistant General Counsel
+
+
+
+
+
+
+ <<1992 Master Agreements Protocol - Annexes 1-7.DOC>>  <<Master Agreements
+Protocol - Annex 8.DOC>>  <<close-out users guide.DOC>>  <<FM Protocol.DOC>>
+
+
+
+ <<FM Practice Note.DOC>>  <<forcemajeure chart.PPT>>
+
+
+
+
+ - 1992 Master Agreements Protocol - Annexes 1-7.DOC 
+ - Master Agreements Protocol - Annex 8.DOC 
+ - close-out users guide.DOC 
+ - FM Protocol.DOC 
+ - FM Practice Note.DOC 
+ - forcemajeure chart.PPT 
+
+From MAILER-DAEMON Mon Apr 18 14:21:50 2022
+Message-ID: <767744.1075858622263.JavaMail.evans@thyme>
+Date: Fri, 10 Aug 2001 18:08:33 -0700 (PDT)
+From: scarey@isda.org
+To: coors.robert@enron.com, elizabeth.sager@enron.com, e..haedicke@enron.com,
+	s.'.'gross@enron.com, a.'.'reardon@enron.com,
+	lussier'.'sophie@enron.com
+Subject: ISDA North American Energy and Developing Products Committee - Ju
+	ly  Meeting Summary & Documentation Projects
+Cc: rpickel@isda.org, rainslie@isda.org, ejelich@isda.org, smarra@isda.org,
+	kdhulster@isda-eur.org, christophe.chassard@rwetrading.com,
+	john.berry@allenovery.com, bhanlon@isda.org
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: rpickel@isda.org, rainslie@isda.org, ejelich@isda.org, smarra@isda.org,
+	kdhulster@isda-eur.org, christophe.chassard@rwetrading.com,
+	john.berry@allenovery.com, bhanlon@isda.org
+X-From: Stacy Carey <SCAREY@ISDA.ORG>@ENRON <IMCEANOTES-Stacy+20Carey+20+3CSCAREY+40ISDA+2EORG+3E+40ENRON@ENRON.com>
+X-To: Robert M. Coors <bcoors@aceguarantyre.com>, 'JEFFREYS@CAPITAL-RE.COM', 'LABRAMS@AIGI.COM', 'MDOUVAS@AIGI.COM', Daniel Cunningham <daniel.cunningham@allenovery.com>, 'MCARROLL@VITOLGE.COM', 'MCDERMME@BP.COM', 'RDILWORTH@BOFASECURITIES.COM', 'BOBNA@ART.COM', 'JOTOOLE@MONTGOMERY.COM', 'JAMES.WHITMORE@BMO.COM', 'JMASUDA@BTMNA.COM', 'GUY.DEMPSEY@BARCLAYSCAPITAL.COM', 'SMANN@BRR.COM', 'PUSUNG@BAYLBNY.COM', 'NANCY.PERSECHINO@BINGHAM.COM', 'JOHN.PEARSON@CIBC.CA.COM', 'CHRISTOPHER.NYGARD@CIBC.COM', 'LINDA_LANE@CARGILL.COM', 'DAVID_GABNEE@CARGILL.COM', 'NICK_SUMMERS@CARGILL.COM', 'JUDY_HINKLIN@CARGILL.COM', 'MARA_ALEXANDER@CARGILL.COM', 'KATHY_GERKIN@CARGILL.COM', 'MIKE_GROVER@CARGILL.COM', 'MARC_RUBENSTEIN@CARGILL.COM', 'PHILIP.LEVY@CHASE.COM', 'PAUL.MOELLER@CESOURCE.COM', 'KATHLEEN.JONES@CONSTELLATION.COM', 'AREYNAUD@CORAL_ENERGY.COM', 'MHELMA@CORAL_ENERGY.COM', 'CHIP.GOODRICH@DB.COM', 'LKLEIN@DEWEYBALLANTINE.COM', 'MMUNRO@DOW.COM', 'FRUIZ@DOW.COM', 'MTKAY@DOW.COM', 'LHERMANN@DUKE-ENERGY.COM', 'CGRAEBNER@DUKE-ENERGY.COM', 'BJACOBS@DUKE-ENERGY.COM', 'AEABBOT@DUKE-ENERGY.COM', 'JCHE@DYENERGY.COM', 'DRWE@DYENERGY.COM', 'PJPA@DYNERGY.COM', 'GSFO@DYNEGY.COM', Brad Farnsworth <bpfa@dynegy.com>, 'WEDE@DYNEY.COM', 'MSFA@DYNEGY.COM', 'GKLA@DYNEGY.COM', 'HEMU@DYNEGY.COM', 'JONES@EPENERGY.COM', 'WAGNER@EPENERG.COM', 'SHUTTEEJ@EPENERGY.COM', 'ERICKSONB@EPENERGY.COM', 'SIDDALLD@EPENERGY.COM', 'KIMBALLS@EPENERGY.COM', 'MALCOMR@EPENERGY.COM', 'HOFERC@EPENERGY.COM', 'COOPERS@EPENERGY.COM', 'HEBENSTREIT@EPENERGY.COM', 'LUMS@EPENERGY.COM', 'JAMESONK@EPENERGY.COM', 'NAGELS@EPENERGY.COM', 'ARASPE@ELEMENTRE.COM', 'LCLEMMONS@ELEMENTRE.COM', Taylor, Mark E (Legal) </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MTAYLO1>, Sager, Elizabeth </O=ENRON/OU=NA/CN=RECIPIENTS/CN=ESAGER>, Haedicke, Mark E. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MHAEDIC>, 'GLEN.HECHT@EY.COM', 'LAURA.TORRES@EY.COM', 'CARYN_M_POLOSKE@EMAIL.MOBIL.COM', 'RALPH_N_JOHANSON@EMAIL.MOBIL.COM', 'NOREEN_M_TAMA@EMAIL.MOBIL.COM', 'SHUI-I-SETO@FLEET.COM', 'CAROLANNE.GARDNER@GECAPITAL.COM', 'ALAN.GREEN@GECAPITAL.COM', 'WENDY.ORMOND@LAW.GE.COM', 'GLENN.GOGGINS@GECAPITAL.COM', 'COLIN.BURRELL@GECAPITAL.COM', 'ED.GREBECK@GECAPITAL.COM', 'PATRICIA.HOGAN@GS.COM', 'STEVEN.BUNKIN@GS.COM', Bob Mancini <robert.mancini@gs.com>, 'CCERRIA@HESS.COM', 'FYATES@HESS.COM', 'JLOPEZ@HESS.COM', 'DDELLACONA@HESS.COM', 'GAUDREAU.GILLES@HYDRO.QC.CA', Louise Guillemette <guillemette.louise@hydro.qc.ca>, 'PAUL-HUS.REAL@HYDRO.QC.CA', 'POULIOT.MARIE@HYDRO.QC.CA', 'FUGERE.ALAIN@HYDRO.QC.CA', 'CAROLYN_LOVERRO@INFINITY.COM', 'PALAZZO_CHIARA@JPMORGAN.COM', 'THOMPSON_DON@JPMORGAN.COM', 'AZAIM@KPMG.COM', 'GTLEE@LLGM.COM', 'FWU@LLGM.COM', 'BRYAN.ADEL@MCD.COM', 'MICHAEL.IRGANG@MCD.COM', Carlton D. Pearl <tony.pearl@mcd.com>, 'GLORIA.SANTONA@MCD.COM', 'RICHARD.MIKE@MCD.COM', 'SCHULTZ.HARVEY@MCD.COM', 'WCHAN@MILBANK.COM', 'BMCCOY@MORGAN.COM', 'EPSTEIN@MS.COM', 'R.CONE@NABNY.COM', 'GREG.MALCOLM@ONTARIOPOWERGENERATION.COM', 'MEG.TIMBERG@ONTARIOPOWERGENERATION.COM', 'BILL.GARVIN@ONTARIOPOWERGENERATION.COM', 'EDWARD.KIM@PSEG.COM', 'EDWARD.KIM@PSEG.COM', 'STEVEN.TITELMAN@PSEG.COM', 'JAN.PLUMAKER@PSEG.COM', 'JBANDMAN@PREBON.COM', 'STEVE.BARR@GEMSLGOV.BC.CA', 'SCOTT_DIAMOND@PRUFEC.COM', 'DONALD.LEIBOWITZ@PSEG.COM', 'CYNTHIA.MIDURA@PSEG.COM', 'JOHN.SCHMIDT@PSEG.COM', 'MARIA.SALVATORE@PSEG.COM', 'JOHN.MCDERMOTT@PSEG.COM', 'JONATHON_D_PUCKETT@RELIANTENERGY.COM', 'CHRISTY_B_BRINKMAN@RELIANTENERGY.COM', 'KELLY_L_MCEVOY@RELIANTENERGY.COM', 'CREGG_D_LANCASTER@RELIANTENERGY.COM', 'JANNALYN_GALLOWAY@RELIANTENERGY.COM', 'DRUSSO@RELIANTENERGY.COM', 'STEVEN.J.KELTZ@SSMB.COM', 'HWEST@SHERMAN.COM', 'DPARISI@SHERMAN.COM', 'JFARNSWO@SKADDEN.COM', 'MGOLDSTEIN@STROOCK.COM', 'RAISLERK@SULLCROM.COM', 'JAMES_BAKER@SUMMITHQ.COM', 'DFRANK@SABLAW.COM', 'MYALE@SABLAW.COM', 'JGROVER@TXU.COM', 'BHELTON@TXU.COM', 'TPOWELL@TXU.COM', 'TONOFRIO@TRACTEBELUSA.COM', 'SUSAN_POULSON@TRANSCANADA.COM', 'GARY_MOLNAR@TRANSCANADA.COM', 'JANINE_WATSON@TRANSCANADA.COM', 'CHRISTINE_JOHNSTON@TRANSCANADA.COM', F.B. Cochran lll <fcochran@velaw.com>, 'DBLYTH@VELAW.COM', 'RFREDRICKSON@VELAW.COM', 'ACURRY@VELAW.COM', 'RBAIRD@VELAW.COM', 'OBYAZITOGLU@VELAW.COM', 'RRABALAIS@VELAW.COM', 'PTHEOFANIDIS@VELAW.COM', 'JDILG@VELAW.COM', 'GLENNON@VITOLGE.COM', 'JRINTELL@VITOLGE.COM', 'WILLIAM.SULLIVAN@WDR.COM', 'KAUMANE.D.BURTON@WELLSFARGO.COM', 'MILLER@NEWYORK.WHITECASE.COM', 'HOWARD.SACAROB@GECAP.com', 'PMACMILLAN@ONTARIOPOWERGENERATION.COM', Aronowitz, Alan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=AARONOW>, 'Ken.Bowen@rbcds.com', 'kieran.bergin@pseg.com', 'mrae@strook.com', 'william.mccoy@morganstanley.com', 'jay.taylor@barclayscapital.com', 'michael.brovan@gs.com', 'steven.j.keltz@ssmb.com', 'bmorgen@aiai.com', 'sheila.nagel@elpaso.com', 'cccooper@bingham.com', 'shawn.leyden@pseg.com', 'Cooper, Christopher C.' <cccooper@bingham.com>, 'Gross, Miriam S.' <MSGross@bingham.com>, 'Reardon, Marc A.' <mareardon@bingham.com>, 'curquhart@milbank.com', 'skramer@milbank.com', 'gwen.kelly@pseg.com', 'SStofer@reliant.com', 'pgraff@reliant.com', 'McGilloway, Vangie' <Vangie.McGilloway@constellation.com>, 'Sophie Lussier' <slussier@cdpcapital.com>, 'Glenn.K.Labhart@dynegy.com', Decker, Larry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=82144FB7-10065F19-86256A2D-5735F1>, 'Philip.Levy@chase.com', McCullough, Travis </O=ENRON/OU=NA/CN=RECIPIENTS/CN=TMCCULL>, 'dbruning@aigi.com', 'mcassidy@aigi.com', 'splatel@aigi.com', 'ronald.c.brinson@bankofamerica.com', 'robert.j.nagy@bankofamerica.com', 'ken.reeder@bankofamerica.com', 'ameen.karmally@scotiabank.com', 'leo.lai@chase.com', 'blake.titrud@chase.com', 'david.yeres@cliffordchance.com', 'praimondi@carrfut.com', 'aeabbott@duke-energy.com', 'craig.young@enron.com', 'nikiforos.mathews@gs.com', 'stanley.preston@gs.com', 'keir.prince@gs.com', 'michael.j.egelhof@us.hsbc.com', 'byron.rennick@us.hsbc.com', 'ajain@worldbank.org', 'leandro@iadb.org', 'giovannig@iadb.org', 'wfhenze@jonesday.com', 'jchin@mayerbrown.com', 'tassop@pacfor.com', 'ncrist@prebon.com', 'john.finnerty@us.pwcglobal.com', 'wade_a_hoefling@reliantenergy.com', 'mgreenberg@sidley.com', 'mgrottenthaler@tor.strikeman.com', 'wscott@tor.strikeman.com', 'kelly.johnson@wellsfargo.com'
+X-cc: Robert Pickel <RPICKEL@isda.org>, Ruth Ainslie <RAinslie@isda.org>, Emily Jelich <ejelich@isda.org>, Scott Marra <SMARRA@isda.org>, Katia d'Hulster <kdhulster@isda-eur.org>, 'Christophe.Chassard@rwetrading.com', 'John Berry - NY' <john.berry@allenovery.com>, Barbara Hanlon <BHANLON@isda.org>
+X-bcc: 
+X-Folder: \MTAYLO1 (Non-Privileged)\Taylor, Mark E (Legal)\ISDA
+X-Origin: Taylor-M
+X-FileName: MTAYLO1 (Non-Privileged).pst
+
+Attached is a memorandum summarizing the July 27, 2001 meeting of ISDA's
+North American Energy and Developing Products Committee. ISDA's Energy and
+Developing Products Committee, Chaired by Mark Haedicke, General Counsel of
+Enron Capital and Trade Resources Corp., focuses on facilitating and
+addressing issues ranging from documentation to market practice related to
+the prudent development of the range of commodity derivatives transactions.
+For those of you who were unable to attend this meeting, the agenda and
+handouts are available on ISDA's web site under the Energy Committee
+section.
+
+Also attached is a table outlining various documentation projects reflecting
+our July discussion.  We would appreciate your reviewing the attached table
+and forwarding your suggestions and comments so that the Committee is able
+to plan the agenda moving forward.  Thank you in advance for your thoughts
+and views.
+
+Additionally, ISDA is in the process of updating the database for the Energy
+Committee.  Our apologies if you have received this e-mail in error,
+received duplicate versions of this e-mail or if one of your colleagues had
+been inadvertently omitted. Please notify Scott Marra: smarra@isda.org
+regarding any modifications (additions or deletions) to this mailing list as
+soon as possible.
+
+Many thanks.
+
+ <<NA Energy Committee Memo 8-10.doc>>   <<Documentation Projects.doc>>
+
+Stacy Carey
+Policy Director
+International Swaps and Derivatives Association
+600 5th Avenue, 27th Floor
+Rockefeller Center
+New York, NY  10020
+(212) 332-1202 ph
+(212) 332-1212 fax
+(917) 543-9622 cell
+scarey@isda.org
+
+
+
+
+ - NA Energy Committee Memo 8-10.doc 
+ - Documentation Projects.doc 
+
+From MAILER-DAEMON Mon Apr 18 14:21:50 2022
+Message-ID: <11516825.1075859982650.JavaMail.evans@thyme>
+Date: Fri, 7 Apr 2000 10:25:00 -0700 (PDT)
+From: scarey@isda.org
+To: usregcomm@isda.org
+Subject: CFTC Letter to Chairman Rainer
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Stacy Carey <SCAREY@ISDA.ORG>
+X-To: US REGULATORY COMMITTEE <USREGCOMM@isda.org>
+X-cc: 
+X-bcc: 
+X-Folder: \Mark_Taylor _Dec_2000\Notes Folders\Isda
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+Attached is the letter sent to Chairman Rainer regarding the CFTC Regulatory
+Framework Proposal this afternoon.
+
+ <<RAINERLTR 4-7-00.doc>>
+
+Stacy Carey
+Director U.S. Regulatory Policy
+International Swaps and Derivatives Association
+(202) 457-6545 ph
+(202) 457-6315 fax
+scarey@isda.org
+
+
+
+ - RAINERLTR 4-7-00.doc
+
+From MAILER-DAEMON Mon Apr 18 14:21:50 2022
+Message-ID: <10100754.1075859982629.JavaMail.evans@thyme>
+Date: Fri, 7 Apr 2000 10:55:00 -0700 (PDT)
+From: scarey@isda.org
+To: usregcomm@isda.org
+Subject: Meeting with Senate Agriculture Staff
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Stacy Carey <SCAREY@ISDA.ORG>
+X-To: US REGULATORY COMMITTEE <USREGCOMM@isda.org>
+X-cc: 
+X-bcc: 
+X-Folder: \Mark_Taylor _Dec_2000\Notes Folders\Isda
+X-Origin: Taylor-M
+X-FileName: mtaylor.nsf
+
+ISDA along with the Ad Hoc Coalition was invited by Senate Agriculture
+Committee staff to meet with the Chicago Board of Trade and the Chicago
+Mercantile Exchange on Tuesday to discuss a Chicago proposal on legal
+certainty and regulatory reform.  I have attached the Chicago proposal for
+your review.  This is a confidential document and should not be circulated
+beyond our regulatory committee.  I appreciate your sensitivity to this
+request.  We will brief you after the meeting either by e-mail or conference
+call.
+Should you have any questions please do not hesitate to contact me at home
+this weekend - 703-256-1719 or at the office on Monday.  -- Many thanks.
+
+ <<Chicago Proposal.doc>>
+
+Stacy Carey
+Director North American Regulatory Policy
+International Swaps and Derivatives Association
+(202) 457-6545 ph
+(202) 457-6315 fax
+scarey@isda.org
+
+
+
+ - Chicago Proposal.doc
+

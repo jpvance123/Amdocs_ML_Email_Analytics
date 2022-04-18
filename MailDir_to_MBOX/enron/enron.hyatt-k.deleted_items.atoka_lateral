@@ -1,0 +1,438 @@
+From MAILER-DAEMON Mon Apr 18 14:25:07 2022
+Message-ID: <15649543.1075861769771.JavaMail.evans@thyme>
+Date: Fri, 23 Feb 2001 09:32:45 -0800 (PST)
+From: rich.jolly@enron.com
+To: mike.mccracken@enron.com
+Subject: Re: Agave & Atoka System
+Cc: earl.chanley@enron.com, mansoor.abdmoulaie@enron.com,
+	eric.faucheaux@enron.com, arnie.bailey@enron.com,
+	team.artesia@enron.com, kevin.hyatt@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: earl.chanley@enron.com, mansoor.abdmoulaie@enron.com,
+	eric.faucheaux@enron.com, arnie.bailey@enron.com,
+	team.artesia@enron.com, kevin.hyatt@enron.com
+X-From: Jolly, Rich </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=55EEE558-76F46491-86256743-7D2B01>
+X-To: McCracken, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=D0E46A6F-D3E5793C-8625671C-75E9F2>
+X-cc: Chanley, Earl </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=8522F986-401B8E61-862566DA-5BF007>, Abdmoulaie, Mansoor </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=41680A35-823F91BA-862566E1-503199>, Faucheaux, Eric </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=3F938E41-7B726B5-86256895-769151>, Bailey, Arnie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=D371C22-6476227B-86256736-656B08>, Artesia, Team </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=5C24CAF0-D62C9CCC-8625673D-745698>, Hyatt, Kevin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHYATT>
+X-bcc: 
+X-Folder: \KHYATT (Non-Privileged)\Hyatt, Kevin\Deleted Items\Atoka Lateral
+X-Origin: Hyatt-K
+X-FileName: KHYATT (Non-Privileged).pst
+
+Mike thanks for the information and you're correct in stating that marketing would have to look this over. I'm sure they will want a full scope of work. With your and Earl's help operations will need to address any issues that might not work on our end.
+
+I have visited with Kevin about looking at our quality issues (H2s and H2o) with Agave and coming up with an agreement on how much they will be allowed to give us. They way it stands now is they can't give us anymore than we were giving ourselves before the system was sold to Agave. The big problem is the difference in volumes from then until now. Kevin whatever I can do to help resolve this let me know.
+Thanks for everyone's help.
+Rich
+
+
+
+Mike McCracken
+02/22/2001 02:41 PM
+
+
+To:	Earl Chanley/ET&S/Enron@ENRON, Mansoor Abdmoulaie/ET&S/Enron@ENRON, Eric Faucheaux/ET&S/Enron@Enron
+cc:	Rich Jolly/ET&S/Enron@Enron, Arnie Bailey/ET&S/Enron@ENRON, Team Artesia/ET&S/Enron@ENRON 
+
+Subject:	Agave & Atoka System
+
+Earl / Mansoor
+As communicated earlier, I met with Ed Perry with Agave today. We looked at the Atoka 3 piping drawings and discussed some possibilities for connecting their 12" coming into Atoka 3 (our old 12" Atoka Loop) to the discharge side of the station. We decided to make a quick site visit with the team for possible issues.
+
+Drawing A3-A11-19 shows a capped tee on the 12" just downstream of the receiver line tie-in. We talked about connecting to that tee, going underground to the west, coming above ground and running south along the fence, placing some valves for scrubber installation, and turning toward the east for tie-in to the existing 8" meter run. The upstream of the meter run (upstream of the existing shut-in valve) would need to be manifolded to allow flow from the 12" or commoning like it is now. There is a relief valve existing at the 8" meter run inlet, it can remain on either high or low pressure service. An additional relief valve would be needed for the other stream.
+
+Drawing A3-A11-19A shows the meter run area. The downstream meter run piping would need a tee in place of the 90 under the meter run flange. One side of the tee would go the existing valve to the suction side of the station. The other side of the tee would go a new valve and line running to the discharge side of the station. That line would go west from the meter run outlet to the fence, turn north and follow the fence to a point adjacent to an 8" valve on drawing A3-A11-5. At the 8" valve, the line shown as "8" line from meter runs" would be cut and capped. The new line would flange to the valve. With the valve open, gas would flow through the "8" Crossover" to the tie-in on the 8" Atoka Lateral.
+
+We went to the site and all piping can be above ground per Terry Youngren except the initial take off from the 12" tee. That would need to stay underground to the fence area to permit vehicle traffic. The piping in paragraph 2 would actually be Agave's up to the upstream flange at the new valve at the meter run. All the downstream piping would be Transwestern's. Additionally, Agave has said they would place a scrubber on order and expected a 12 -16 week delivery.
+
+Measurement and quality issues brought up by Terry:
+Existing 8" meter run is secondary tube, so no quality equipment exists
+It does have an operator on upstream valve for shut-in
+It does have full transmitters - differential, pressure, temperature
+Need additional H2S monitor for high pressure stream. Looked at 2 stream Sulphur Smart, physically too large for building.
+Need H2O monitor for high pressure stream. Kahn or Meeco, Terry is checking on a new type monitor.
+Need 2 stream Danalyzer. Existing Chromatograph is single stream. The single could be used at new Aid St. if it is ever separated to West Texas.
+Need new 1/8" sample line with shut-in solenoid for 8" run.
+Need new sample probe regulator for 8" run. Look at A+ Corp, they have one that includes a membrane filter in the probe.
+
+I have some drawings that are put together. Maybe we could get together Monday morning and hopefully explain a little better.
+
+Finally, I committed nothing to Ed. I explained that his next steps would be for Agave to contact their marketing person and let them run the project through the proper channels for estimates and evaluations. I explained that the scenarios he presented of placing however many mmcf on the discharge side, reducing the low pressure (existing Atoka 3 suction) volume and using horsepower to reduce suction pressure, and possibly placing 2 units on LEC 10" service to allow entire Duke and Yates Sulphur Plant gas on that line would have to have someone's blessing besides mine. I also explained that some modeling would probably need to be done to check expected results. Issues like isolating 8" Atoka Lateral from the 12" to allow high pressure receipt to bypass dehy at Atoka 1 and still be compressed by Atoka 1 (possible and brought up by Terry), isolating 8" from 12" and bypassing Atoka 1 completely (brought up by Ed Perry) with enough pressure were noted and I said I would pass them along. 
+
+Thanks
+Mike
+
+
+From MAILER-DAEMON Mon Apr 18 14:25:07 2022
+Message-ID: <19737486.1075861769864.JavaMail.evans@thyme>
+Date: Mon, 2 Apr 2001 08:29:33 -0700 (PDT)
+From: bob.burleson@enron.com
+To: kevin.hyatt@enron.com
+Subject: FW: TW Map
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Burleson, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BBURLES>
+X-To: Hyatt, Kevin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Khyatt>
+X-cc: 
+X-bcc: 
+X-Folder: \KHYATT (Non-Privileged)\Hyatt, Kevin\Deleted Items\Atoka Lateral
+X-Origin: Hyatt-K
+X-FileName: KHYATT (Non-Privileged).pst
+
+
+
+ -----Original Message-----
+From: 	"Michael A Fitzgibbons" <mafitzgibbons@duke-energy.com>@ENRON [mailto:IMCEANOTES-+22Michael+20A+20Fitzgibbons+22+20+3Cmafitzgibbons+40duke-energy+2Ecom+3E+40ENRON@ENRON.com] 
+Sent:	Monday, March 26, 2001 9:28 AM
+To:	Burleson, Bob
+Cc:	John J Hawkins
+Subject:	TW Map
+
+Bob- see if you can make sense of this. We will put a hard copy in the
+mail.
+
+The white lines are your Atoka lateral.
+We have 20-25 MMcfd available at 1000# where the purple line from Logan
+Draw Booster crosses your Atoka lines. (I think Atoka #1 is about 1 mile
+east of this crossover, please verify).
+
+We have 20-25 MMcfd available at 1000# at our Pecos Booster also available.
+
+
+Michael Fitzgibbons
+phone: (915) 620-4150
+fax:       (915) 620- 4163
+e-mail:   MAFitzgibbons@duke-energy.com
+----- Forwarded by Michael A Fitzgibbons/Midland/PEFS/PEC on 03/26/01 10:22
+AM -----
+
+                    John J
+                    Hawkins              To:     Michael A
+                                         Fitzgibbons/Midland/PEFS/PEC@PEC
+                    03/26/01             cc:
+                    09:50 AM             Subject:     TW Map
+
+
+
+
+
+Mike,
+
+     Take a look and see how this looks when send electronically...
+
+(Embedded image moved to file: pic25874.jpg)
+
+ - pic25874.jpg 
+
+From MAILER-DAEMON Mon Apr 18 14:25:07 2022
+Message-ID: <26169967.1075861769692.JavaMail.evans@thyme>
+Date: Wed, 7 Feb 2001 20:50:00 -0800 (PST)
+From: kevin.hyatt@enron.com
+To: agave@pvtnetworks.net
+Subject: Agenda & Meeting Notes
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Kevin Hyatt
+X-To: agave <agave@pvtnetworks.net>
+X-cc: 
+X-bcc: 
+X-Folder: \KHYATT (Non-Privileged)\Hyatt, Kevin\Deleted Items\Atoka Lateral
+X-Origin: Hyatt-K
+X-FileName: KHYATT (Non-Privileged).pst
+
+1. Update on NGPL Interconnect in Eddy County
+
+2.  Producer Activity around Atoka
+
+3.  New Agave gathering line into West Texas Lateral
+
+4.  PDI Study
+
+
+Follow up notes from our meeting in January,
+
+TW no longer owns any mainline south of the Crawford compressor.  These lines have been sold to Duke Energy.  Parallel to the Crawford lateral 16" line is another 8" line, now also owned by Duke.  
+
+Also, according to Susan Scott, our legal counsel, no issues exist as to TW not being able to spin down assets.  We would just need to file abandonment procedures with FERC.  Any new asset owner would need to honor the existing contracts through their original term.
+
+We'll talk more tomorrow.
+
+thanks
+KH
+
+From MAILER-DAEMON Mon Apr 18 14:25:07 2022
+Message-ID: <6443493.1075861769738.JavaMail.evans@thyme>
+Date: Mon, 29 Jan 2001 10:56:00 -0800 (PST)
+From: rich.jolly@enron.com
+To: john.keller@enron.com, randy.rice@enron.com, gary.maestas@enron.com,
+	arnie.bailey@enron.com, kevin.hyatt@enron.com
+Subject: FW: Atoka Equipment Enhancement Analysis by ACTT - ACTT Quote
+ 089100077
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Rich Jolly <Rich Jolly/ET&S/Enron@ENRON>
+X-To: John R Keller <John R Keller/OTS/Enron@Enron>, Randy Rice <Randy Rice/OTS/Enron@ENRON>, Gary Maestas <Gary Maestas/OTS/Enron@ENRON>, Arnie Bailey <Arnie Bailey/ET&S/Enron@Enron>, Kevin Hyatt <Kevin Hyatt/ET&S/Enron@Enron>
+X-cc: 
+X-bcc: 
+X-Folder: \KHYATT (Non-Privileged)\Hyatt, Kevin\Deleted Items\Atoka Lateral
+X-Origin: Hyatt-K
+X-FileName: KHYATT (Non-Privileged).pst
+
+John I have a quote from Randy on looking at our Atoka system in Artesia, New Mexico. At this time we'removng 160 mmbtu but I believe there's an opportunity to do better. What will it take to get Randy's group to take a look at this system for us? I appreciate your and Gary's help. Agave energy has the gas if we can figure out how to move more on our system.
+Thanks
+Rich
+---------------------- Forwarded by Rich Jolly/ET&S/Enron on 01/29/2001 05:46 AM ---------------------------
+
+
+"Charles Ely" <cge@ceconet.com> on 01/25/2001 02:55:42 PM
+Please respond to <cge@ceconet.com>
+To:	<rich.jolly@enron.com>
+cc:	 
+
+Subject:	FW: Atoka Equipment Enhancement Analysis by ACTT - ACTT Quote 089100077
+
+
+Rich,
+
+I forgot to attach the file.  Here it is ->
+
+Charles G. Ely II, P.E.
+Vice President, Anderson Consulting, Training & Testing
+
+Work:      (713) 663-1894
+Fax:        (713) 664-6444
+Email:      cge@ceconet.com
+Internet:  www.classactt.com
+
+ -----Original Message-----
+From: 	Charles Ely [mailto:cge@ceconet.com]  On Behalf Of Charles Ely
+Sent:	Thursday, January 25, 2001 11:11 AM
+To:	'Rich.Jolly@enron.com'
+Cc:	Randy Anderson
+Subject:	Atoka Equipment Enhancement Analysis by ACTT - ACTT Quote 089100077
+
+Rich,
+
+Attached is a quotation to conduct an equipment enhancement analysis for
+four facilities in the Atoka System.  As you will note, the available dates
+are pretty slim.  As such, please let me know as soon as you can confirm a
+date.
+
+I have also sent a hard copy of this document for your records.
+
+Thanks.
+
+Charles G. Ely II, P.E.
+Vice President, Anderson Consulting, Training & Testing
+
+Work:      (713) 663-1894
+Fax:        (713) 664-6444
+Email:      cge@ceconet.com
+Internet:  www.classactt.com
+
+ - Enron - Jolly - Equipment Enhancement Analysis 1-25-01.doc 
+
+From MAILER-DAEMON Mon Apr 18 14:25:07 2022
+Message-ID: <7141705.1075861769715.JavaMail.evans@thyme>
+Date: Wed, 7 Feb 2001 19:46:00 -0800 (PST)
+From: rich.jolly@enron.com
+To: kevin.hyatt@enron.com
+Subject: ATOKA SYSTEM INFORMATION
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Rich Jolly <Rich Jolly/ET&S/Enron@ENRON>
+X-To: Kevin Hyatt <Kevin Hyatt/ET&S/Enron@Enron>
+X-cc: 
+X-bcc: 
+X-Folder: \KHYATT (Non-Privileged)\Hyatt, Kevin\Deleted Items\Atoka Lateral
+X-Origin: Hyatt-K
+X-FileName: KHYATT (Non-Privileged).pst
+
+FYI
+---------------------- Forwarded by Rich Jolly/ET&S/Enron on 02/07/2001 02:40 AM ---------------------------
+
+
+PROJECTDEV@aol.com on 02/07/2001 02:15:33 PM
+To:	Rich.Jolly@enron.com
+cc:	 
+
+Subject:	ATOKA SYSTEM INFORMATION
+
+
+
+To:        Mr. Rich jolly 
+From:    Brent Evans 
+Date:     February 7, 2001 
+Subj:     Atoka System Information 
+            PDI Project No. 96031 
+
+
+Attached please find the information you requested on the Atoka System and  
+inform me of any transmission problems.
+ - Atoka.ZIP 
+
+From MAILER-DAEMON Mon Apr 18 14:25:07 2022
+Message-ID: <22240498.1075861769796.JavaMail.evans@thyme>
+Date: Thu, 22 Feb 2001 11:34:45 -0800 (PST)
+From: mansoor.abdmoulaie@enron.com
+To: kevin.hyatt@enron.com
+Subject: TW/ Agave ----meeting of Feb-8-2001
+Cc: steven.harris@enron.com, darrell.schoolcraft@enron.com,
+	john.keller@enron.com, rich.jolly@enron.com, bob.burleson@enron.com,
+	randy.rice@enron.com, john.keller@enron.com, dennis.alters@enron.com,
+	terry.galassini@enron.com, perry.frazier@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: steven.harris@enron.com, darrell.schoolcraft@enron.com,
+	john.keller@enron.com, rich.jolly@enron.com, bob.burleson@enron.com,
+	randy.rice@enron.com, john.keller@enron.com, dennis.alters@enron.com,
+	terry.galassini@enron.com, perry.frazier@enron.com
+X-From: Abdmoulaie, Mansoor </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=41680A35-823F91BA-862566E1-503199>
+X-To: Hyatt, Kevin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHYATT>
+X-cc: Harris, Steven </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=65B627BC-84E5435E-862566DE-1137EE>, Schoolcraft, Darrell </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=8698BC70-168EA214-862566D6-5B88FB>, Keller, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=A01A00E-739E51F9-862568C7-63AA41>, Jolly, Rich </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=55EEE558-76F46491-86256743-7D2B01>, Burleson, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BBURLES>, Rice, Randy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=RRICE2>, Keller, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=A01A00E-739E51F9-862568C7-63AA41>, Alters, Dennis </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=8A5D68EE-39795334-862566AA-507702>, Galassini, Terry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=ED0463B7-7ED8334-862566DD-63423E>, Frazier, Perry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=FD15A8C-51523267-862566DA-55532E>
+X-bcc: 
+X-Folder: \KHYATT (Non-Privileged)\Hyatt, Kevin\Deleted Items\Atoka Lateral
+X-Origin: Hyatt-K
+X-FileName: KHYATT (Non-Privileged).pst
+
+Kevin
+  This is a summary of my response to the meeting of Feb-8-2001 with Agave in Houston.
+  Please, let me know if am missing any thing from that meeting. Also please let me know of your decisions regarding these projects.
+
+Mansoor
+
+
+
+ 
+
+
+From MAILER-DAEMON Mon Apr 18 14:25:07 2022
+Message-ID: <7122532.1075861769842.JavaMail.evans@thyme>
+Date: Tue, 27 Mar 2001 11:37:16 -0800 (PST)
+From: mansoor.abdmoulaie@enron.com
+To: lorraine.lindberg@enron.com, lorraine.lindberg@enron.com
+Subject: TW/ BP in Eddy County, NM.
+Cc: kevin.hyatt@enron.com, eric.faucheaux@enron.com, bob.burleson@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: 7bit
+Bcc: kevin.hyatt@enron.com, eric.faucheaux@enron.com, bob.burleson@enron.com
+X-From: Abdmoulaie, Mansoor </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=41680A35-823F91BA-862566E1-503199>
+X-To: Lindberg, Lorraine </O=ENRON/OU=NA/CN=RECIPIENTS/CN=LLINDBE>, Lindberg, Lorraine </O=ENRON/OU=NA/CN=RECIPIENTS/CN=LLINDBE>
+X-cc: Hyatt, Kevin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHYATT>, Faucheaux, Eric </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=3F938E41-7B726B5-86256895-769151>, Burleson, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BBURLES>
+X-bcc: 
+X-Folder: \KHYATT (Non-Privileged)\Hyatt, Kevin\Deleted Items\Atoka Lateral
+X-Origin: Hyatt-K
+X-FileName: KHYATT (Non-Privileged).pst
+
+        
+
+This is a level "A" cost estimate (?30%) to tie BP's gas to TW high-pressure line in Eddy County NM.
+
+A)      30 mmcf/d case (BP pressure=1000 psig):
+13 miles of 10" (OD) pipeline and interconnect facilities at an estimated cost of $3,600,000.
+
+
+
+
+
+B)     75 mmcf/d case (BP pressure =1000 psig):
+
+Option-1): 13 miles of 16"(OD) and interconnect facilities at an estimated cost of $6,000,000.  
+
+
+
+Option-2): 13 miles of 10", interconnect facilities and a 600-hp unit at an estimated cost of
+                     $4,700,000.     
+
+
+
+
+
+
+
+
+If you have any questions please call me.
+
+
+
+
+    
+
+
+
+
+		
+
+
+        
+
+From MAILER-DAEMON Mon Apr 18 14:25:07 2022
+Message-ID: <8815493.1075861769888.JavaMail.evans@thyme>
+Date: Tue, 10 Apr 2001 11:20:53 -0700 (PDT)
+From: mansoor.abdmoulaie@enron.com
+To: kevin.hyatt@enron.com
+Subject: TW/ Agave---Atoka-3 capacity
+Cc: arnie.bailey@enron.com, bob.burleson@enron.com,
+	darrell.schoolcraft@enron.com, perry.frazier@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: arnie.bailey@enron.com, bob.burleson@enron.com,
+	darrell.schoolcraft@enron.com, perry.frazier@enron.com
+X-From: Abdmoulaie, Mansoor </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=41680A35-823F91BA-862566E1-503199>
+X-To: Hyatt, Kevin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=KHYATT>
+X-cc: Bailey, Arnie </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=D371C22-6476227B-86256736-656B08>, Burleson, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=BBURLES>, Schoolcraft, Darrell </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=8698BC70-168EA214-862566D6-5B88FB>, Frazier, Perry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=NOTESADDR/CN=FD15A8C-51523267-862566DA-55532E>
+X-bcc: 
+X-Folder: \KHYATT (Non-Privileged)\Hyatt, Kevin\Deleted Items\Atoka Lateral
+X-Origin: Hyatt-K
+X-FileName: KHYATT (Non-Privileged).pst
+
+
+This is in response to our meeting of April-10-2001 in Midland with Agave.
+
+Assuming units #761 and #762 are now assigned to LEC-10" service, the below schematic is showing the capacity of the three remaining units #822, #842 and #845 at Atoka-3.
+
+At suction pressure of 225 psig and discharge pressure of 560 psig the capacity is 36 mmcf/d.  
+
+
+
+
+
+
+The 36 mmcf/d is not a fixed capacity, if discharge pressure increases the capacity decreases. Basically it depends on the volume activities between Atoka-3 and Atoka-1 such as BP, Rio Pecos and GPM.
+Please pass this on to Agave.
+
+If you have any questions please call.
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:25:07 2022
+Message-ID: <33245405.1075861769818.JavaMail.evans@thyme>
+Date: Thu, 22 Mar 2001 07:23:58 -0800 (PST)
+From: pragsdale@ypcnm.com
+To: khyatt@enron.com
+Subject: Atoka Lateral
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: "Paul Ragsdale" <pragsdale@ypcnm.com>@ENRON <IMCEANOTES-+22Paul+20Ragsdale+22+20+3Cpragsdale+40ypcnm+2Ecom+3E+40ENRON@ENRON.com>
+X-To: Kevin Hyatt <khyatt@enron.com>
+X-cc: 
+X-bcc: 
+X-Folder: \KHYATT (Non-Privileged)\Hyatt, Kevin\Deleted Items\Atoka Lateral
+X-Origin: Hyatt-K
+X-FileName: KHYATT (Non-Privileged).pst
+
+Kevin, attached is a letter thtat we Fed Exed to you with a schematic.
+Please let me know if you recieve it by friday. Paul
+
+ - ATOKA.DOC 
+

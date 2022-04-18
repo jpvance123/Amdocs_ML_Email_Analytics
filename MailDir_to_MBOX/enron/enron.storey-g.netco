@@ -1,0 +1,1040 @@
+From MAILER-DAEMON Mon Apr 18 14:24:36 2022
+Message-ID: <27010134.1075841598094.JavaMail.evans@thyme>
+Date: Thu, 13 Dec 2001 11:21:37 -0800 (PST)
+From: chris.gaskill@enron.com
+To: geoff.storey@enron.com
+Subject: network folders
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Gaskill, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CGASKILL>
+X-To: Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\Netco
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+ 
+-----Original Message-----
+From: Sulistio, Franky 
+Sent: Thursday, December 13, 2001 1:13 PM
+To: Gaskill, Chris
+Cc: Dronet, David
+Subject: RE: gas fundy network folders
+
+
+Chris,
+ 
+The followings are the folders that we use in the network drive for all existing applications.
+ 
+O:\Fundy_Ops\          - Gas Fundy documents and webcontent
+O:\GasHarvesting     - Jaguar Data Harvesting folders
+O:\gasplasma            - EOL Realtime configuration file for the Plasma Screen.
+O:\WebContent         - web content for commodity fundamentals site.
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:24:36 2022
+Message-ID: <1426527.1075841598123.JavaMail.evans@thyme>
+Date: Thu, 13 Dec 2001 09:58:21 -0800 (PST)
+From: chris.dorland@enron.com
+To: peggy.hedstrom@enron.com, laura.scott@enron.com, john.zufferli@enron.com,
+	eric.le@enron.com, derek.davies@enron.com, peter.keohane@enron.com,
+	rob.milnthorp@enron.com, paul.devries@enron.com,
+	brian.gillis@enron.com
+Subject: Critical Applications, Models and Data
+Cc: stephane.brodeur@enron.com, chad.clark@enron.com, cooper.richey@enron.com,
+	j..taylor@enron.com, fabian.taylor@enron.com, lon.draper@enron.com,
+	ian.cooke@enron.com, carlos.torres@enron.com, chris.lambie@enron.com,
+	mike.cowan@enron.com, ryan.watt@enron.com, dean.drozdiak@enron.com,
+	gerry.hrap@enron.com, grant.oh@enron.com, nicole.laporte@enron.com,
+	paul.dunsmore@enron.com, mike.macphee@enron.com,
+	jason.biever@enron.com, randy.otto@enron.com,
+	greg.johnston@enron.com, chris.gaffney@enron.com,
+	nella.cappelletto@enron.com, dan.dorland@enron.com,
+	jan.wilson@enron.com, clayton.rondeau@enron.com,
+	brad.martin@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: stephane.brodeur@enron.com, chad.clark@enron.com, cooper.richey@enron.com,
+	j..taylor@enron.com, fabian.taylor@enron.com, lon.draper@enron.com,
+	ian.cooke@enron.com, carlos.torres@enron.com, chris.lambie@enron.com,
+	mike.cowan@enron.com, ryan.watt@enron.com, dean.drozdiak@enron.com,
+	gerry.hrap@enron.com, grant.oh@enron.com, nicole.laporte@enron.com,
+	paul.dunsmore@enron.com, mike.macphee@enron.com,
+	jason.biever@enron.com, randy.otto@enron.com,
+	greg.johnston@enron.com, chris.gaffney@enron.com,
+	nella.cappelletto@enron.com, dan.dorland@enron.com,
+	jan.wilson@enron.com, clayton.rondeau@enron.com,
+	brad.martin@enron.com
+X-From: Dorland, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CDORLAN>
+X-To: Hedstrom, Peggy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Phedstr>, Scott, Laura </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lscott>, Zufferli, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jzuffer>, Le Dain, Eric </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Eledain>, Davies, Derek </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ddavies>, Keohane, Peter </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pkeohan>, Milnthorp, Rob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rmilnth>, Devries, Paul </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pdevrie>, Gillis, Brian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bgillis>
+X-cc: Brodeur, Stephane </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Sbrodeu>, Clark, Chad </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cclark5>, Richey, Cooper </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Crichey>, Taylor, Michael J. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mtaylor6>, Taylor, Fabian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ftaylor>, Draper, Lon </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ldraper>, Cooke, Ian </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Icooke>, Torres, Carlos </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ctorres>, Lambie, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Clambie>, Cowan, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mcowan1>, Watt, Ryan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rwatt>, Drozdiak, Dean </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ddrozdia>, Hrap, Gerry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ghrap>, Oh, Grant </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Goh>, Laporte, Nicole </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Nlaporte>, Dunsmore, Paul </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pdunsmor>, Macphee, Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mmacphee>, Biever, Jason </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jbiever>, Otto, Randy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rotto>, Johnston, Greg </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gjohnst>, Gaffney, Chris </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cgaffne>, Cappelletto, Nella </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ncappel>, Dorland, Dan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ddorland>, Wilson, Jan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jwilson>, Rondeau, Clayton </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Crondea>, Martin, Brad </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bmartin5>
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\Netco
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+Hi everyone!
+
+Once again I find myself being tasked by Geof Storey. Houston has requested that we make lists of all applications that we use and also that we consolidate all of the files (models and data) that are critical to our business (I don't think MP3's count) into one directory on the network. This is so that these items can be included in the proposed deal with newco. The Calgary Trading group has set up a directory on I:/trading/newco and I think if each group did the same that would be great. Each group should probably have one person in charge of the directory so there isn't any overlap. Call me with any ?'s/
+
+Thanx 
+
+Chris
+
+From MAILER-DAEMON Mon Apr 18 14:24:36 2022
+Message-ID: <13599374.1075841597769.JavaMail.evans@thyme>
+Date: Tue, 18 Dec 2001 15:11:58 -0800 (PST)
+From: chairman.enron@enron.com
+To: dl-ga-all_enron_worldwide2@enron.com
+Subject: Organizational Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Office Of The Chairman </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MBX_OFFICECHAIRMAN>
+X-To: DL-GA-all_enron_worldwide2 </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DL-GA-all_enron_worldwide2>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\Netco
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+
+As things begin to calm down somewhat after events of last week, we wanted to update all employees of certain organizational and personnel changes that have occurred recently.
+
+Organizational Matters
+The Creditors' Committee was formed last week by the United States Trustee.  This committee is comprised of 15 individuals representing various creditor groups including: banks, bondholders, insurance companies and employees.  The Creditors' Committee will be the key point of contact as we reorganize the company and emerge from Chapter 11.  Initially, they will send financial advisors to our offices to monitor any asset liquidations as well as review our cash flow projections.  Ultimately, they will be responsible for approving our reorganization plan as to which assets or businesses we sell and which ones we retain.
+
+>From an Enron perspective, the plans for reorganization have already begun.  Overhead has been reduced dramatically, certain employee retention programs have been put in place and a wider retention program is currently being developed.  We hope to share the wider retention program with you in the very near future.  Furthermore, detail cash flow projections are in their final stages of preparation and will be reviewed by senior management this week.  This will be the critical first step in formulating our reorganization strategy to emerge from Chapter 11 as a healthy company.
+
+By now, you must have heard of "NETCO." This company was formed as a means to maximize the value of Enron's most valuable business, the wholesale energy business.  Certain Enron North America employees have been assigned to NETCO to re-build the North American gas and power business under different ownership.  We will be filing with the bankruptcy court this week proposed auction procedures to allow bidders to bid for NETCO.  It is our expectation that Enron would retain a 49 percent (or perhaps less) non-controlling interest in NETCO.  The NETCO employees would become employees of the winning bidder.  We anticipate this process to reach closure sometime in January.
+
+As for the remaining businesses of Enron, they are all under review as to which ones will be proposed for sale and which ones will be proposed for retention.  This review process will take time as it will require approval of the Creditors' Committee.  We will update you periodically on our process.
+
+Personnel Matters
+As a result of our current situation, we have made many personnel changes over the past several months to maximize the value of the organization.
+
+Office of the Chairman - Enron Corp
+Jeff McMahon, Executive Vice President and Chief Financial Officer, has been added to the Office of the Chairman of Enron Corp along with Ken Lay and Greg Whalley.  Among other things, Jeff has been working on the business plan for reorganization in Chapter 11 and is the primary contact with the newly formed Creditor's Committee.
+
+Treasurer - Enron Corp
+Ray Bowen was elected to Executive Vice President, Finance and Treasurer of Enron Corp recently.  In this role, Ray is responsible for all finance activities of Enron Corp.  Ray also has the lead role in managing the cash activities of the company on a day to day basis.
+
+Corporate Development
+Mark Muller has been appointed Executive Vice President - Corporate Development.  In this role, Mark will work with Enron's various business units on all asset disposals, which will be a key element in Enron's reorganization plan and value preservation.
+
+Wholesale Services
+The Wholesale Services group has been reorganized under the leadership of Jim Fallon.  Included in this group are the following businesses, ENA, EBS, EIM and EGM.  As part of the Chapter 11 reorganization, efforts in these businesses will be directed at maximizing value for the creditors as well as determining which businesses or assets will be part of Enron's reorganization plan.
+
+Management Committee Departures
+Unfortunately, due to the current financial condition of the company, the following members of the management committee have left the company or will be leaving the company by the end of December:
+
+Michael Brown
+Mark Frevert
+Steve Kean
+Mike McConnell
+Jeff Shankman
+
+Additionally, John Lavorato and Louise Kitchen have resigned from the Management Committee to arrange for the joint venture energy activities of NETCO.
+
+We know as employees the uncertainty surrounding the future of the company is unsettling.  Unfortunately, that aspect will not change in the near term.  We ask for everyone's patience and continued support as we move forward through the Chapter 11 process.  We are committed to reorganizing into a strong company once again and will need the help of all the employees to achieve that goal.
+
+From MAILER-DAEMON Mon Apr 18 14:24:36 2022
+Message-ID: <18265805.1075841598170.JavaMail.evans@thyme>
+Date: Thu, 13 Dec 2001 09:06:26 -0800 (PST)
+From: j..sturm@enron.com
+To: geoff.storey@enron.com
+Subject: FW: Critical Apps for PWR/GAS Trading
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Sturm, Fletcher J. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=FSTURM>
+X-To: Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\Netco
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+
+
+ -----Original Message-----
+From: 	Muschar, Daniel  
+Sent:	Tuesday, December 04, 2001 11:06 AM
+To:	Sturm, Fletcher J.; Arnold, John; Quigley, Dutch; Makkai, Peter
+Subject:	Critical Apps for PWR/GAS Trading
+Importance:	High
+
+Good day all:
+
+Below is a list of applications used by your groups.  We are trying to ascertain which applications are critical to your business.  Please review the list and send me any additional applications that you need to do your job.
+
+Thank you all for your help,
+Daniel A. Muschar
+ECS Trader Support Group
+Office: 713-853-4344
+Cell: 281-541-6203
+daniel.muschar@enron.com
+CCNA, MCSE, CNA, A+
+
+LIST OF Applications:
+
+CRITICAL APPLICATIONS
+
+Gas EBBs (Dial-up)
+Kobra
+Reuters
+TDS
+EOL
+Internet
+Enpower
+Excel
+CQG
+Bloomberg
+Sitara
+Unify
+Pricing Models
+Telerate 9.27
+ERMs
+CPR
+Tibco
+Exceed
+RUNM
+Mapp
+RiskTrac
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:24:36 2022
+Message-ID: <4260256.1075841598218.JavaMail.evans@thyme>
+Date: Thu, 13 Dec 2001 09:01:05 -0800 (PST)
+From: louise.kitchen@enron.com
+To: geoff.storey@enron.com
+Subject: FW: Structuring Resources
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=LKITCHEN>
+X-To: Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\Netco
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+These too
+
+ -----Original Message-----
+From: 	Breese, Mark  
+Sent:	Tuesday, December 11, 2001 5:45 PM
+To:	Kitchen, Louise
+Cc:	Meyn, Jim
+Subject:	FW: Structuring Resources
+
+
+John L. suggested I pass of this request to you.  
+
+As you work a deal for NewCo I wanted to make sure that we include the various tools we use in structuring for pricing and evaluating deals (i.e., we want to make sure the NewCo will have the exclusive rights to this information).  Kelli has provided a basic list of this information below.  Most relates to the exotica functions (and any associated code) that Research has created for structuring deals.  I am forwarding a copy of this to Jim Meyn to see if he has any additional needs.
+
+Thanks.
+
+
+
+ -----Original Message-----
+From: 	Little, Kelli  
+Sent:	Tuesday, December 11, 2001 1:55 PM
+To:	Breese, Mark
+Subject:	Structuring Resources
+
+Mark,
+
+Attached is the list of materials we would request to have access to in the new company.  Please let me know if you have any questions of changes.
+
+Thanks,
+Kelli
+
+
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:24:36 2022
+Message-ID: <17449629.1075841597875.JavaMail.evans@thyme>
+Date: Thu, 13 Dec 2001 18:30:51 -0800 (PST)
+From: patrick.tucker@enron.com
+To: geoff.storey@enron.com
+Subject: No word from Chicago or Risk yet
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Tucker, Patrick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=PTUCKER>
+X-To: Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\Netco
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+Spoke with Gregg at about 5:15, and he indicated that he would work on the list for the Chicago office.  Have not yet seen anything; perhaps he sent it on directly to you.  No word from Risk yet either; spoke with Bruce at about 5.  Will keep an eye out.
+ 
+Patrick
+ 
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:24:36 2022
+Message-ID: <4277749.1075841598293.JavaMail.evans@thyme>
+Date: Fri, 7 Dec 2001 13:44:48 -0800 (PST)
+From: patrick.tucker@enron.com
+To: s..pollan@enron.com, lindsay.culotta@enron.com, e.murrell@enron.com,
+	denver.plachy@enron.com, martin.cuilla@enron.com,
+	geoff.storey@enron.com, virawan.yawapongsiri@enron.com,
+	souad.mahmassani@enron.com, tom.donohoe@enron.com,
+	kevin.ruscitti@enron.com, s..shively@enron.com, h..lewis@enron.com,
+	c..giron@enron.com, bryant.frihart@enron.com,
+	linda.roberts@enron.com, laura.luce@enron.com, d..hogan@enron.com,
+	trading <.williams@enron.com>, l..mims@enron.com,
+	james.simpson@enron.com, gregg.penman@enron.com,
+	lisa.kinsey@enron.com, kevin.brady@enron.com,
+	cora.pendergrass@enron.com, patrick.tucker@enron.com
+Subject: Milberg Weiss:  the top 29
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Tucker, Patrick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=PTUCKER>
+X-To: Pollan, Sylvia S. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Spollan>, Culotta, Lindsay </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lculotta>, Murrell, Russell E </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rmurrel>, Plachy, Denver </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dplachy>, Cuilla, Martin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mcuilla>, Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>, Yawapongsiri, Virawan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vyawapon>, Mahmassani, Souad </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Smahmass>, Donohoe, Tom </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tdonoho>, Ruscitti, Kevin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kruscit>, Shively, Hunter S. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Hshivel>, Lewis, Andrew H. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Alewis>, Giron, Darron C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dgiron>, Frihart, Bryant </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bfrihart>, Roberts, Linda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lroberts>, Luce, Laura </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lluce>, Hogan, Irena D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ihogan>, Williams, Jason (Trading) </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jwillia>, Mims, Patrice L. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pmims>, Simpson, James </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jsimpso>, Penman, Gregg </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=a419a146-114e6c98-86256602-631a96>, Kinsey, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkinsey>, Brady, Kevin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kbrady>, Pendergrass, Cora </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cpender>, Tucker, Patrick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ptucker>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\Netco
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+Here is the suit that was filed against 29 top directors/officers on Wednesday.  The list of loot by individual is on page 11 and 12.
+
+
+Patrick
+
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:24:36 2022
+Message-ID: <6644966.1075841597690.JavaMail.evans@thyme>
+Date: Fri, 21 Dec 2001 13:24:16 -0800 (PST)
+From: louise.kitchen@enron.com
+To: geoff.storey@enron.com
+Subject: FW: *ENE: Bid Package
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Kitchen, Louise </O=ENRON/OU=NA/CN=RECIPIENTS/CN=LKITCHEN>
+X-To: Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\Netco
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+
+
+ -----Original Message-----
+From: 	Forster, David  
+Sent:	Thursday, December 20, 2001 4:13 PM
+To:	Kitchen, Louise
+Subject:	FW: *ENE: Bid Package
+
+You asked me to forward the documents if I got them. Here they are - though I imagine you already have them . . .
+
+Dave
+
+ -----Original Message-----
+From: 	Portz, David  
+Sent:	Thursday, December 20, 2001 2:26 PM
+To:	Forster, David
+Subject:	FW: *ENE: Bid Package
+
+FYI. Theae are as filed -- they don't reflect the minor modifications the judge made to the text. We are still waiting for his order and the final text. --DP
+
+ -----Original Message-----
+From: 	Cook, Mary  
+Sent:	Thursday, December 20, 2001 10:25 AM
+To:	Portz, David
+Subject:	FW: *ENE: Bid Package
+
+See below
+
+ -----Original Message-----
+From: 	Schuler, Lance (Legal)  
+Sent:	Thursday, December 20, 2001 9:13 AM
+To:	Cook, Mary
+Subject:	FW: *ENE: Bid Package
+
+
+
+W. Lance Schuler
+Enron North America Corp.
+1400 Smith Street
+Houston, Texas  77002
+Phone: 713/853-5419
+Fax:  281/664-4890
+Email:  lance.schuler-legal@enron.com
+
+ -----Original Message-----
+From: 	carol.kline@weil.com@ENRON  
+Sent:	Friday, December 14, 2001 4:40 PM
+To:	Muller, Mark S.; Donahue, Jeff; Taylor, Mitch; Henry, Joe; Schuler, Lance (Legal); Desai, Jayshree; jeff.mcmahon@enron.com; Del vecchio, Peter; Golden, Jeff; mbanks@milbank.com; cbell@milbank.com; jconnor@milbank.com; hoffman@blackstone.com; nathoo@blackstone.com
+Cc:	mary.korby@weil.com; stuart.ogg@weil.com; michael.farnell@weil.com; gabriel.matus@weil.com; lina.rubin@weil.com; thomas.roberts@weil.com; martin.bienenstock@weil.com; brian.rosen@weil.com; eamonn.markham@weil.com; gregory.kolton@weil.com
+Subject:	*ENE: Bid Package
+
+I have attached below the following documents that were filed with the
+Bankruptcy Court today:
+
+     1.  Contribution Agreement
+     2.  Partnership Agreement
+     3.  License Agreement
+     4.  Bidding Procedures Motion
+     5.  Bidding Procedures Order
+     6.  Notice of Auction
+
+
+
+
+**********NOTE**********
+The information contained in this email message is intended only
+for use of the individual or entity named above.  If the reader
+of this message is not the intended recipient, or the employee or
+agent responsible to deliver it to the intended recipient, you
+are hereby notified that any dissemination, distribution or
+copying of this communication is strictly prohibited.  If you
+have received this communication in error, please immediately
+notify us by telephone (212-310-8000), and destroy the original
+message. Thank you.
+
+
+(CONTRIBUTION AGREEMENT - Template for Bid Package) (See attached file:
+n_pl08!.DOC)
+(Netco, L.P. -- template) (See attached file: nq4d04!.DOC)
+(Enron Assignment and License Agreement) (See attached file: n1bx08!.DOC)
+(Enron - Bidding Procedures Motion) (See attached file: npm302!.DOC)
+(ENRON - Wholesale Business - Order re: Bidding Procs, etc.) (See attached
+file: 56m304!.DOC)
+(Enron - WSJ Notice (Sale of Wholesale Assets)) (See attached file:
+npmt02!.DOC)
+ - n_pl08!.DOC 
+ - nq4d04!.DOC 
+ - n1bx08!.DOC 
+ - npm302!.DOC 
+ - 56m304!.DOC 
+ - npmt02!.DOC 
+
+From MAILER-DAEMON Mon Apr 18 14:24:36 2022
+Message-ID: <2830584.1075841598037.JavaMail.evans@thyme>
+Date: Thu, 13 Dec 2001 13:00:03 -0800 (PST)
+From: sheetal.patel@enron.com
+To: geoff.storey@enron.com
+Subject: RE: NETCO
+Cc: fred.lagrasta@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Bcc: fred.lagrasta@enron.com
+X-From: Patel, Sheetal </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SPATEL2>
+X-To: Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>
+X-cc: Lagrasta, Fred </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Flagras>
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\Netco
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+Geoff,
+
+Below are applications and directories we would like to copy over.
+I also have improved models on my C: & H: drive that I've been working on a=
+nd testing to replace existing models, that is why I have listed those driv=
+es as well.
+I will send you others if I think of any more.
+Please let me know if you have any questions.
+
+Rgds,
+Sheetal
+x36740
+
+
+Applications:
+Lim
+Kobra
+CQG
+Exotica
+Twinexcel
+ERMS
+Exceed
+PortCalc, aka runM
+TAGG
+DCAF
+Sitara
+Global Counterparties
+Global CreditAG
+Global Contracts
+RAC
+ACT
+
+Files or Directories:
+O:/Midmarket/Lagrasta
+O:/Liquids/Liquids
+O:/Gas_Model
+spatel2$ on 'nahoutrd-uv6' (H:)
+Local Disk (C:) (Sheetal)
+
+Scripts:
+W:\Scripts\gasmodel.vbs "o:\gas_model\gasmodel_kobra.xls"
+W:\Scripts\crudemodel.vbs O:\Gas_Model\Crude\Crude_Kobra.xls
+
+
+
+ -----Original Message-----
+From: =09Lagrasta, Fred =20
+Sent:=09Thursday, December 13, 2001 1:05 PM
+To:=09Patel, Sheetal
+Subject:=09FW: NETCO
+
+Sheetal, Will you please handle this.
+
+ -----Original Message-----
+From: =09Kitchen, Louise =20
+Sent:=09Thursday, December 13, 2001 11:16 AM
+To:=09Allen, Phillip K.; Arnold, John; Arora, Harry; Belden, Tim; Black, Do=
+n; Breslau, Craig; Calger, Christopher F.; Davies, Derek; Davis, Mark Dana;=
+ Devries, Paul; Duran, W. David; Forster, David; Foster, Chris H.; Grigsby,=
+ Mike; Herndon, Rogers; Lagrasta, Fred; Luce, Laura; Thomas, Jake; Milnthor=
+p, Rob; Neal, Scott; Presto, Kevin M.; Shively, Hunter S.; Sturm, Fletcher =
+J.; Swerzbin, Mike; Vickers, Frank; Tycholiz, Barry; Neal, Scott; Presto, K=
+evin M.; Shively, Hunter S.; Sturm, Fletcher J.; Swerzbin, Mike; Vickers, F=
+rank; Tycholiz, Barry; Haedicke, Mark E.; Bradford, William S.; Colwell, We=
+s; Beck, Sally; Hall Jr., Robert L.; Hodges, Georgeanne; Patrick, Michael K=
+.; Buy, Rick; Port, David; Oxley, David; Rub, Jenny; Webb, Jay; Forster, Da=
+vid; Zufferli, John; Badeer, Robert; Rosman, Stewart; Motley, Matt; Choi, P=
+aul; Heizenrader, Tim; Will, Lloyd; Arora, Harry; Gilbert-smith, Doug; Curr=
+y, Mike; Duran, W. David; Robinson, Mitch; Gaskill, Chris; Le Dain, Eric; R=
+edmond, Brian; Douglas, Steve H.  (Tax)
+Cc:=09Koehler, Anne C.; Lavorato, John; Taylor, Mark E (Legal)
+Subject:=09NETCO
+
+As we move forward in the planning stages for NETCO we need to identify all=
+ systems which need to be moved or copied into the entity.  We have identif=
+ied the great majority of the systems to be moved but we may not be able to=
+ identify particular tools used by your group or you individually.  This wo=
+uld include spreadsheets etc.
+
+Please send lists of systems and software required to Anne Koehler by close=
+ of business today.
+
+To be clear we can (subject to the negotiation) move/copy systems and some =
+data however, we CANNOT move either transaction data if counterparty specif=
+ic or data obtained from a counterparty under a confidentiality agreement.
+
+For Houston traders, Geof Storey is compiling your lists.
+
+Thanks
+
+Louise
+
+From MAILER-DAEMON Mon Apr 18 14:24:36 2022
+Message-ID: <17599566.1075841597743.JavaMail.evans@thyme>
+Date: Wed, 19 Dec 2001 08:16:22 -0800 (PST)
+From: mike.croucher@enron.com
+To: geoff.storey@enron.com, corry.bentley@enron.com, w..white@enron.com,
+	a..allen@enron.com, lloyd.will@enron.com, steve.nat@enron.com
+Subject: Data Requirements
+Cc: matthew.james@enron.com, frank.coles@enron.com, bob.mcauliffe@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: matthew.james@enron.com, frank.coles@enron.com, bob.mcauliffe@enron.com
+X-From: Croucher Jr., Mike </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MCROUCH09229857>
+X-To: Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>, Bentley, Corry </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cbentle>, White, Stacey W. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Swhite>, Allen, Thresa A. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tallen>, Will, Lloyd </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lwill>, Nat, Steve </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Snat>
+X-cc: James, Matthew </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mjames3>, Coles, Frank </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Fcoles>, McAuliffe, Bob </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bmcauli>
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\Netco
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+To all,  The Enron Net Works infrastructure team is gathering requirements for all common data needed for NEWCO.  This includes Gas/Power commercial data and related trading support data. 
+Based on the amount of data it can take significant time to migrate so we are on an aggressive schedule.  We need assistance from key individuals within each related business unit.  Please respond with a list of individuals that may be able to assist.  This will be a short effort with the right representation.  Thanks in advance for your cooperation.
+
+Mike Croucher
+
+From MAILER-DAEMON Mon Apr 18 14:24:36 2022
+Message-ID: <30530724.1075841598241.JavaMail.evans@thyme>
+Date: Thu, 13 Dec 2001 08:40:23 -0800 (PST)
+From: matt.smith@enron.com
+To: geoff.storey@enron.com
+Subject: needed directories
+Cc: keith.holst@enron.com, tori.kuykendall@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: keith.holst@enron.com, tori.kuykendall@enron.com
+X-From: Smith, Matt </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MSMITH18>
+X-To: Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>
+X-cc: Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kholst>, Kuykendall, Tori </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tkuyken>
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\Netco
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+Jeff,
+
+If there is no limit to size, we would ideally like to move everything within the following directories:
+
+o:\ect_trading\West
+r:\webcontent\GasTrading\west_desk
+
+Let me know if we need to narrow these anymore.  They include all west desk files on the network excluding those in the central fundies directories.  Also, will we have a mechanism to transfer individual network directories from the H: drive?  In not, we'll move everyone's directories into one of the above directories.  Thanks.
+
+Mat
+
+From MAILER-DAEMON Mon Apr 18 14:24:36 2022
+Message-ID: <12802321.1075841597718.JavaMail.evans@thyme>
+Date: Thu, 20 Dec 2001 13:54:04 -0800 (PST)
+From: chairman.enron@enron.com
+To: dl-ga-all_enron_worldwide2@enron.com
+Subject: Bankruptcy Management Committee
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Office Of The Chairman </O=ENRON/OU=NA/CN=RECIPIENTS/CN=MBX_OFFICECHAIRMAN>
+X-To: DL-GA-all_enron_worldwide2 </O=ENRON/OU=NA/CN=RECIPIENTS/CN=DL-GA-all_enron_worldwide2>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\Netco
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+
+In an effort to better organize the activities and minimize the expenses related to the Chapter 11 filing, we have formed the Bankruptcy Management Committee.  There are many outside firms representing multiple parties that will be requesting, among other things, certain tasks to be performed, filings with the bankruptcy court, financial analysis and general business information.  To ensure these activities are coordinated, the Bankruptcy Management Committee will now be responsible for overseeing this process.  The following is a list of some of the parties that may contact you directly.  If anyone from these firms, or other firms, contacts you related to the bankruptcy, please notify a member of the committee to ensure the efforts are coordinated.  All outside firms will be requested to notify a member of the committee prior to contacting other Enron personnel or outside parties, including the court and Creditors' Committee.
+
+	Firm						Relationship
+
+	Bankruptcy court (i.e. motions, etc.)		
+	Creditors' Committee
+	U.S. Trustee
+	Ernst & Young					Accountants for the Creditor's Committee
+	Houlihan, Lokey, Howard & Zukin		Financial advisors for the Creditors' Committee
+Blackstone					Financial advisors for Enron
+Batchelder and Partners				Financial advisors for Enron
+Weil, Gotshal and Manges			Bankruptcy attorneys for Enron
+Milbank Tweed					Attorneys for the Creditors' Committee
+Andrews and Kurth				Attorneys for Enron Corp
+
+
+
+The following are the members of the Bankruptcy Management Committee:
+
+Ray Bowen - Chairman
+Bob Butts
+Jim Fallon
+Dave Glassford
+Dave Gorte
+Mark Muller
+Julia Murray
+Lou Stoler
+
+Initially, this committee will meet on a daily basis to organize all the bankruptcy related activities as well as to prioritize requests going to the Creditors' Committee and the court.  It is extremely important that the company provides accurate and timely information to the court, the Creditors' Committee and their advisors.  Accordingly, we request the assistance of all employees and outside firms in coordinating the bankruptcy efforts with this newly formed committee.
+
+From MAILER-DAEMON Mon Apr 18 14:24:36 2022
+Message-ID: <17783518.1075841598146.JavaMail.evans@thyme>
+Date: Thu, 13 Dec 2001 09:39:36 -0800 (PST)
+From: souad.mahmassani@enron.com
+To: geoff.storey@enron.com
+Subject: Files
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Mahmassani, Souad </O=ENRON/OU=NA/CN=RECIPIENTS/CN=SMAHMASS>
+X-To: Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\Netco
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+all files needed are in H:\smahmass\EXCEL   on 'nahoutrd-uv6'
+
+From MAILER-DAEMON Mon Apr 18 14:24:36 2022
+Message-ID: <15506726.1075841598268.JavaMail.evans@thyme>
+Date: Wed, 12 Dec 2001 17:49:13 -0800 (PST)
+From: patrick.tucker@enron.com
+To: patrick.tucker@enron.com, s..pollan@enron.com, lindsay.culotta@enron.com,
+	e.murrell@enron.com, denver.plachy@enron.com,
+	martin.cuilla@enron.com, geoff.storey@enron.com,
+	virawan.yawapongsiri@enron.com, souad.mahmassani@enron.com,
+	tom.donohoe@enron.com, kevin.ruscitti@enron.com,
+	s..shively@enron.com, h..lewis@enron.com, c..giron@enron.com,
+	bryant.frihart@enron.com, linda.roberts@enron.com,
+	laura.luce@enron.com, d..hogan@enron.com,
+	trading <.williams@enron.com>, l..mims@enron.com,
+	james.simpson@enron.com, gregg.penman@enron.com,
+	lisa.kinsey@enron.com, kevin.brady@enron.com,
+	cora.pendergrass@enron.com
+Subject: PowerPoint from today's Creditor's Meeting
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Tucker, Patrick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=PTUCKER>
+X-To: Tucker, Patrick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=PTUCKER>, Pollan, Sylvia S. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Spollan>, Culotta, Lindsay </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lculotta>, Murrell, Russell E </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rmurrel>, Plachy, Denver </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dplachy>, Cuilla, Martin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mcuilla>, Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>, Yawapongsiri, Virawan </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Vyawapon>, Mahmassani, Souad </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Smahmass>, Donohoe, Tom </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tdonoho>, Ruscitti, Kevin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kruscit>, Shively, Hunter S. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Hshivel>, Lewis, Andrew H. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Alewis>, Giron, Darron C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Dgiron>, Frihart, Bryant </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Bfrihart>, Roberts, Linda </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lroberts>, Luce, Laura </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lluce>, Hogan, Irena D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ihogan>, Williams, Jason (Trading) </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jwillia>, Mims, Patrice L. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Pmims>, Simpson, James </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jsimpso>, Penman, Gregg </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Notesaddr/cn=a419a146-114e6c98-86256602-631a96>, Kinsey, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkinsey>, Brady, Kevin </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kbrady>, Pendergrass, Cora </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Cpender>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\Netco
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+In case you haven't already seen it, here's the PowerPoint deck that Ken Lay used in his address to the creditors' committee formation meeting today.  Nothing earth-shattering in here, but there are a few interesting slides, especially 16 and 17.  
+
+Patrick
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:24:36 2022
+Message-ID: <25451763.1075841597793.JavaMail.evans@thyme>
+Date: Fri, 14 Dec 2001 15:08:15 -0800 (PST)
+From: tammy.jaquet@enron.com
+To: geoff.storey@enron.com
+Subject: Directory/Folders for New Company
+Cc: robert.superty@enron.com, richard.pinion@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: robert.superty@enron.com, richard.pinion@enron.com
+X-From: Jaquet, Tammy </O=ENRON/OU=NA/CN=RECIPIENTS/CN=TJAQUET>
+X-To: Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>
+X-cc: Superty, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rsupert>, Pinion, Richard </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rpinion>
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\Netco
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+  
+
+Per your request,  the following directory and folders under stated directories need to move to the new company.  I did have the security/authorization to create a new folder in the "O" directory to consolidate these files.   If you have any questions, please contact myself or Richard Pinion.  
+
+ tjaquet$onGthou-uv01' (H:)
+
+ 
+
+ 
+
+O:/Unify/Doc/EDI/ (see all folders below under EDI)
+
+
+ 
+
+Tammy Lee-Jaquet
+713-853-5375
+tammy.jaquet@enron.com
+
+
+<Embedded Picture (Device Independent Bitmap)>
+<Embedded Picture (Device Independent Bitmap)>
+<Embedded Picture (Device Independent Bitmap)>
+
+From MAILER-DAEMON Mon Apr 18 14:24:36 2022
+Message-ID: <3895338.1075841598194.JavaMail.evans@thyme>
+Date: Thu, 13 Dec 2001 09:02:03 -0800 (PST)
+From: tori.kuykendall@enron.com
+To: matt.smith@enron.com, geoff.storey@enron.com
+Subject: RE: needed directories
+Cc: keith.holst@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: keith.holst@enron.com
+X-From: Kuykendall, Tori </O=ENRON/OU=NA/CN=RECIPIENTS/CN=TKUYKEN>
+X-To: Smith, Matt </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Msmith18>, Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>
+X-cc: Holst, Keith </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kholst>
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\Netco
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+we would also like to keep all files under g:\west desk\gas reports
+and matt lenhart needs to keep a file on his h: drive called "matt-pl"
+
+ -----Original Message-----
+From: 	Smith, Matt  
+Sent:	Thursday, December 13, 2001 10:40 AM
+To:	Storey, Geoff
+Cc:	Holst, Keith; Kuykendall, Tori
+Subject:	needed directories
+
+Jeff,
+
+If there is no limit to size, we would ideally like to move everything within the following directories:
+
+o:\ect_trading\West
+r:\webcontent\GasTrading\west_desk
+
+Let me know if we need to narrow these anymore.  They include all west desk files on the network excluding those in the central fundies directories.  Also, will we have a mechanism to transfer individual network directories from the H: drive?  In not, we'll move everyone's directories into one of the above directories.  Thanks.
+
+Mat
+
+From MAILER-DAEMON Mon Apr 18 14:24:36 2022
+Message-ID: <10506388.1075841597852.JavaMail.evans@thyme>
+Date: Fri, 14 Dec 2001 09:41:30 -0800 (PST)
+From: james.simpson@enron.com
+To: geoff.storey@enron.com
+Subject: Files
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Simpson, James </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JSIMPSO>
+X-To: Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\Netco
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+H:\enovate\products\
+H:\useful tools\
+
+From MAILER-DAEMON Mon Apr 18 14:24:36 2022
+Message-ID: <10194028.1075841597899.JavaMail.evans@thyme>
+Date: Thu, 13 Dec 2001 15:30:37 -0800 (PST)
+From: patrick.tucker@enron.com
+To: geoff.storey@enron.com
+Subject: Current file listing--still missing Risk & Chicago office
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Tucker, Patrick </O=ENRON/OU=NA/CN=RECIPIENTS/CN=PTUCKER>
+X-To: Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\Netco
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+Geoff,
+
+Here's the current listing of files from Structuring and Central Orig.  Gregg Penman is still working on a list for the Chicago office, and Bruce Mills is coordinating a list for the Risk group.  I will forward those on as soon as I receive them.
+
+Patrick T.
+713-213-7644
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:24:36 2022
+Message-ID: <2103873.1075841597925.JavaMail.evans@thyme>
+Date: Thu, 13 Dec 2001 14:54:16 -0800 (PST)
+From: c..gossett@enron.com
+To: m.hall@enron.com, geoff.storey@enron.com
+Subject: Files and systems for risk
+Cc: mark.breese@enron.com, anne.bike@enron.com, greg.couch@enron.com,
+	kam.keiser@enron.com, m..love@enron.com, errol.mclaughlin@enron.com,
+	russ.severson@enron.com, john.valdes@enron.com, d..winfree@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: mark.breese@enron.com, anne.bike@enron.com, greg.couch@enron.com,
+	kam.keiser@enron.com, m..love@enron.com, errol.mclaughlin@enron.com,
+	russ.severson@enron.com, john.valdes@enron.com, d..winfree@enron.com
+X-From: Gossett, Jeffrey C. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=JGOSSET>
+X-To: Hall, Bob M </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rhall3>, Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>
+X-cc: Breese, Mark </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Mbreese>, Bike, Anne </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Abike>, Couch, Greg </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gcouch>, Keiser, Kam </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Kkeiser>, Love, Phillip M. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Plove>, McLaughlin Jr., Errol </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Emclaug>, Severson, Russ </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rsevers>, Valdes, John </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Jvaldes>, Winfree, O'Neal D. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Owinfre>
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\Netco
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+All -
+
+We have saved any reports that we will need to use for p&l's in O: \ERMS \erms_adm \netco
+
+For queries : O:\ERMS \Excel Queries
+
+For Sitara Queries : O: \Devl \Sitara
+
+Exotica
+
+For OA : Roar(O:\Oa\Roar\NewROAR\Roar.bat) and (O:\Oa\Roar\NewROAR\Roar.mdb)
+
+Exposure(O:\ClntSvc\Offsystems\flash\Update your local mdb (OAExposure) and (O:\ClntSvc\Offsystems\flash\OA Exposure Database)
+
+RAM(http://ram.dev.corp.enron.com/) THIS IS AN INTRANET LINK.
+
+>From a systems perspective obviously ERMS,  TAGG,  Sitara, CPR.
+
+Also,  to perform the queries we will need Oracle to look exactly as it does today.
+
+From MAILER-DAEMON Mon Apr 18 14:24:36 2022
+Message-ID: <15894409.1075841597819.JavaMail.evans@thyme>
+Date: Fri, 14 Dec 2001 07:30:33 -0800 (PST)
+From: no.address@enron.com
+Subject: All Employees Participating in the ENRON Domestic Benefit Plans
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Benefits Department@ENRON
+X-To: Enron Employees Domestic@ENRON
+X-cc: 
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\Netco
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+
+To:	    Employees
+
+From:	    ENRON Benefits Department
+
+Subject:    All Employees Participating in the ENRON Domestic Benefit Plans
+
+
+Enron Benefit Plans 
+Summary Annual Report    
+
+The basic financial and insurance information on the back of this page, as well as the material below, provide a Summary Annual Report for the Enron Benefit Plans.  The annual report for each plan has been filed with the Internal Revenue Service, as required by the Employee Retirement Income Security Act of 1974 (ERISA). 
+
+NOTE:  You may receive a report for a benefit plan in which you are not a participant or under which you are not entitled.  Entitlement to benefits under any of the plans is based on the provisions of each plan.
+
+
+Your Rights to Additional Information
+
+You have the right to receive, upon request, a copy of the full annual report, or any part thereof, for any plan.  For insured plans, insurance information (including any sales commissions paid by insurance carriers) is shown in the annual reports.
+
+To obtain a copy of the full annual report, or any part thereof, for any plan, write or call:
+
+Enron Corp Shareholder Relations
+1400 Smith Street
+Houston, TX  77002-7311
+
+(713) 853-6161
+
+You also have the right to receive from the plan administrator, on request and at no charge, a statement of the assets and liabilities of the plan and accompanying notes, or a statement of income and expenses of the plan and accompanying notes, or both.  If you request a copy of the full annual report from the plan administrator, these two statements and accompanying notes will be included as part of that report.
+
+You also have the legally protected right to examine the annual report at the main office of the plan (Enron Corp., 1400 Smith Street, Houston, TX  77002-7311) and at the U.S. Department of Labor in Washington, D.C., or to obtain a copy from the U.S. Department of Labor upon payment of copying costs.  Requests to the Department should be addressed to:  Public Disclosure Room, N-5638, Pension and Welfare Benefits Administration, U.S. Department of Labor, 200 Constitution Avenue, N.W., Washington, D.C. 20210.           
+
+ 
+
+From MAILER-DAEMON Mon Apr 18 14:24:36 2022
+Message-ID: <9611106.1075841598012.JavaMail.evans@thyme>
+Date: Thu, 13 Dec 2001 14:11:03 -0800 (PST)
+From: victor.lamadrid@enron.com
+To: geoff.storey@enron.com
+Subject: FW: Move all your files for NEW COMPANY
+Cc: robert.superty@enron.com, lisa.kinsey@enron.com, patti.sullivan@enron.com,
+	l..gay@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: robert.superty@enron.com, lisa.kinsey@enron.com, patti.sullivan@enron.com,
+	l..gay@enron.com
+X-From: Lamadrid, Victor </O=ENRON/OU=NA/CN=RECIPIENTS/CN=VLAMADR>
+X-To: Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>
+X-cc: Superty, Robert </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rsupert>, Kinsey, Lisa </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Lkinsey>, Sullivan, Patti </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Psulliv>, Gay, Randall L. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Rgay>
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\Netco
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+The directory we(east desk logistics) would like moved(copied) for the new company is O:\common\logistics\gas\eastdesk. THANKS
+
+ -----Original Message-----
+From: 	Lamadrid, Victor  
+Sent:	Thursday, December 13, 2001 2:26 PM
+To:	Allwein, Robert; Driscoll-Ernest, Marde L.; Garcia, Clarissa; Goodell, Scott; Halstead, Lia; Homco, Meredith; Loving, Scott; Ordway, Chris; Sanchez, Christina; Superty, Robert; Versen, Victoria
+Subject:	FW: Move all your files for NEW COMPANY
+
+Another thought is to simply copy all of your files onto the new directory if you prefer to do it that way. THANKS
+
+ -----Original Message-----
+From: 	Lamadrid, Victor  
+Sent:	Thursday, December 13, 2001 11:27 AM
+To:	Allwein, Robert; Driscoll-Ernest, Marde L.; Garcia, Clarissa; Goodell, Scott; Halstead, Lia; Homco, Meredith; Loving, Scott; Ordway, Chris; Sanchez, Christina; Superty, Robert; Versen, Victoria
+Cc:	Germany, Chris
+Subject:	Move all your files for NEW COMPANY
+
+Team, Please move all the files you need to do your jobs ( Phone lists, ID's, spreadsheets, anything) to O:\common\logistics\gas\eastdesk directory.  A copy of this will be made to conduct business in New Company....THANKS
+
+From MAILER-DAEMON Mon Apr 18 14:24:36 2022
+Message-ID: <26982671.1075841597949.JavaMail.evans@thyme>
+Date: Thu, 13 Dec 2001 14:32:39 -0800 (PST)
+From: h..foster@enron.com
+To: tim.belden@enron.com, f..calger@enron.com
+Subject: FW: NETCO
+Cc: geoff.storey@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: quoted-printable
+Bcc: geoff.storey@enron.com
+X-From: Foster, Chris H. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=CFOSTER>
+X-To: Belden, Tim </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Tbelden>, Calger, Christopher F. </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Ccalger>
+X-cc: Storey, Geoff </O=ENRON/OU=NA/CN=RECIPIENTS/CN=Gstorey>
+X-bcc: 
+X-Folder: \ExMerge - Storey, Geoff\Netco
+X-Origin: STOREY-G
+X-FileName: geoff storey 6-26-02.PST
+
+Tim/Chris:
+
+I spoke to Geoff to try to clarify what needs to be "moved or copied" to NE=
+TCO.  Bottom line, my view of it is that the key items that need to be iden=
+tified today are models and systems such as EnPower, CAPS, the structuring =
+models, etc.  Tim has already identified these things to Geoff in a separat=
+e e-mail.  There are thousands of other items such as contracts, customer e=
+xcel and word files, address lists, etc. that we might ultimately want to u=
+tilize at NETCO, but I do not think that these need to be identified at thi=
+s time.  Although Geoff has indicated that we need to identify all items th=
+at we would need at NETCO, my view is that we should not attempt to identif=
+y all of these files at this time because:
+
+=09-  =09we likely could reproduce most of these files or obtain them from =
+customers if we had to
+=09-  =09transfer of such items might ultimately be permitted
+=09-  =09identification of such items by close of business cannot be done i=
+n an organized fashion and throwing thousands of such files into the mix wo=
+uld =09=09=09undoubtedly overwhelm the legal folks who are trying to identi=
+fy the key items that need to be transferred.
+
+Please contact me if you have any questions.
+
+Chris
+
+ -----Original Message-----
+From: =09Kitchen, Louise =20
+Sent:=09Thursday, December 13, 2001 9:16 AM
+To:=09Allen, Phillip K.; Arnold, John; Arora, Harry; Belden, Tim; Black, Do=
+n; Breslau, Craig; Calger, Christopher F.; Davies, Derek; Davis, Mark Dana;=
+ Devries, Paul; Duran, W. David; Forster, David; Foster, Chris H.; Grigsby,=
+ Mike; Herndon, Rogers; Lagrasta, Fred; Luce, Laura; Thomas, Jake; Milnthor=
+p, Rob; Neal, Scott; Presto, Kevin M.; Shively, Hunter S.; Sturm, Fletcher =
+J.; Swerzbin, Mike; Vickers, Frank; Tycholiz, Barry; Neal, Scott; Presto, K=
+evin M.; Shively, Hunter S.; Sturm, Fletcher J.; Swerzbin, Mike; Vickers, F=
+rank; Tycholiz, Barry; Haedicke, Mark E.; Bradford, William S.; Colwell, We=
+s; Beck, Sally; Hall Jr., Robert L.; Hodges, Georgeanne; Patrick, Michael K=
+.; Buy, Rick; Port, David; Oxley, David; Rub, Jenny; Webb, Jay; Forster, Da=
+vid; Zufferli, John; Badeer, Robert; Rosman, Stewart; Motley, Matt; Choi, P=
+aul; Heizenrader, Tim; Will, Lloyd; Arora, Harry; Gilbert-smith, Doug; Curr=
+y, Mike; Duran, W. David; Robinson, Mitch; Gaskill, Chris; Le Dain, Eric; R=
+edmond, Brian; Douglas, Steve H.  (Tax)
+Cc:=09Koehler, Anne C.; Lavorato, John; Taylor, Mark E (Legal)
+Subject:=09NETCO
+
+As we move forward in the planning stages for NETCO we need to identify all=
+ systems which need to be moved or copied into the entity.  We have identif=
+ied the great majority of the systems to be moved but we may not be able to=
+ identify particular tools used by your group or you individually.  This wo=
+uld include spreadsheets etc.
+
+Please send lists of systems and software required to Anne Koehler by close=
+ of business today.
+
+To be clear we can (subject to the negotiation) move/copy systems and some =
+data however, we CANNOT move either transaction data if counterparty specif=
+ic or data obtained from a counterparty under a confidentiality agreement.
+
+For Houston traders, Geof Storey is compiling your lists.
+
+Thanks
+
+Louise
+

@@ -1,0 +1,1275 @@
+From MAILER-DAEMON Mon Apr 18 14:23:50 2022
+Message-ID: <5906209.1075855878552.JavaMail.evans@thyme>
+Date: Thu, 17 Feb 2000 10:08:00 -0800 (PST)
+From: enron.announcements@enron.com
+To: all.worldwide@enron.com
+Subject: IT Organizational Announcement
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: All Enron Worldwide
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\It - misc.
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Beth Perlman, previously in charge of application development in Europe, has 
+returned to Houston  to head up ENA's application development, as well as RAC 
+and Treasury applications. Beth will report directly to Philippe Bibi.  In 
+order to capitalize on the enhanced global approach that we have taken, Mark 
+Pickering and Beth will have joint responsibility for the development groups 
+that cross regional lines, including global products trading, power trading, 
+and other common operations applications.
+
+Dan Bruce, previously in charge of RAC and Treasury applications, has assumed 
+responsibility for IT support in the International regions as well as EE&CC 
+and Asset Operations.
+
+Please join me in congratulating Beth & Dan on their new positions.
+
+Philippe Bibi
+CTO
+
+From MAILER-DAEMON Mon Apr 18 14:23:50 2022
+Message-ID: <29735339.1075855878267.JavaMail.evans@thyme>
+Date: Fri, 20 Oct 2000 04:17:00 -0700 (PDT)
+From: sheri.thomas@enron.com
+To: louise.kitchen@enron.com
+Subject: Status - "PCG wish list"
+Cc: david.forster@enron.com, andy.zipper@enron.com, sally.beck@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: david.forster@enron.com, andy.zipper@enron.com, sally.beck@enron.com
+X-From: Sheri Thomas
+X-To: Louise Kitchen
+X-cc: David Forster, Andy Zipper, Sally Beck
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\It - misc.
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+I just wanted to give you an update on where we are on the PCG wish list.   
+We discussed about a month ago the fact that we had close to 200 items on our 
+list of development/enhancements to our applications.  We met on numerous 
+occasions with Mark D. and team to prioritize, etc.  However, I think 
+primarily due to the reorg in IT, and Mark leaving the team, we have done a 
+lot of talking over the past three weeks, but nothing has happened to date.  
+Jennifer and I met with Hal Elrod yesterday, and I have met with Bob Hillier 
+a couple of times, and we seem to be on the right track now.  I know Bob 
+Hiller is looking for people in his group to support these needs.  
+
+My concern is growing due to the fact that Andrew Parsons and team will be 
+re-auditing us before the end of the year.  The key control weakness of the 
+PCG was the lack of Profiles Manger - I have stressed that this is #1 on the 
+list of things to do.  I think we are fairly close, but we will need to start 
+and complete testing over the next several weeks.   My hope is that we push 
+Andrew back as far as possible!  
+
+Please let me know if you have any questions - 
+
+Sheri
+
+From MAILER-DAEMON Mon Apr 18 14:23:50 2022
+Message-ID: <9223053.1075855878401.JavaMail.evans@thyme>
+Date: Fri, 7 Jul 2000 01:29:00 -0700 (PDT)
+From: beth.perlman@enron.com
+To: john.lavorato@enron.com, kevin.presto@enron.com, kristin.albrecht@enron.com,
+	tim.belden@enron.com
+Subject: Re: Power Port Calc Issues
+Cc: david.delainey@enron.com, randy.matson@enron.com, sally.beck@enron.com,
+	zhiyong.wei@enron.com, philippe.bibi@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: david.delainey@enron.com, randy.matson@enron.com, sally.beck@enron.com,
+	zhiyong.wei@enron.com, philippe.bibi@enron.com
+X-From: Beth Perlman
+X-To: John J Lavorato, Kevin M Presto, Kristin Albrecht, Tim Belden
+X-cc: David W Delainey, Randy Matson, Sally Beck, Zhiyong Wei, Philippe A Bibi
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\It - misc.
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+John,
+
+As of Wednesday, we have a resource from Sun Microsystems that is helping  us 
+isolate the problems we're having with the UNIX operating system and our 
+code.  This resource has requested that we bring on an additional application 
+specialist from SUN.  This has been authorized and the additional resource is 
+scheduled to be on site next week.  I also have my resources and the UNIX 
+administrators working along side the Sun resources.
+
+As an aside, we are also experiencing performance problems with the gas side 
+of the business.  I met with Sally Beck's controllers yesterday and we are 
+putting a plan in place.  The increased trading volumes have seriously 
+impacted our through put and we now have a 'blitz' on to correct the issues.
+
+These problems have not gone unnoticed.  I assure you that IT has been very 
+diligent in following through on these problems.  We're investing heavily in 
+additional hardware, bringing in contractors and hiring additional resources 
+at an average of 5 - 8 per week.  I will keep you posted as we continue to 
+enhance our existing systems.
+
+Beth
+
+
+
+
+
+
+	John J Lavorato@ENRON
+	07/06/2000 07:46 PM
+		 
+		 To: Beth Perlman/HOU/ECT@ECT, David W Delainey/HOU/ECT@ECT
+		 cc: 
+		 Subject: Power Port Calc Issues
+
+Beth 
+
+Please respond with a plan to solve these problems.
+
+Thanks John
+---------------------- Forwarded by John J Lavorato/Corp/Enron on 07/06/2000 
+07:42 PM ---------------------------
+   
+	
+	
+	From:  Kevin M Presto @ ECT                           07/05/2000 07:39 PM
+	
+
+To: John Lavorato
+cc: David W Delainey/HOU/ECT@ECT, Kristin Albrecht/HOU/ECT@ECT, Beth 
+Perlman/HOU/ECT@ECT 
+
+Subject: Power Port Calc Issues
+
+Guys,
+This Enpower calc issue is a joke.   How can we be the most Innovative 
+Company in the world and cannot fix a risk book calculation problem.  
+Furthermore, how can we effectively grow our volumes and complexity of our 
+power transactions when our back office (risk books, position management, 
+settlements) is so unreliable from an IT standpoint.
+
+In addition, we will start losing all of our key people in this area because 
+they are here until 8:30-9:00 every night and 4:00 pm on "holidays".  This 
+whole issue is a significant business risk for Enron and needs to be dealt 
+with accordingly.
+
+Please advise.  Thank you.
+---------------------- Forwarded by Kevin M Presto/HOU/ECT on 07/05/2000 
+07:27 PM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  Kristin Albrecht                           07/05/2000 11:30 AM
+	
+
+To: Beth Perlman/HOU/ECT@ECT, Randy Matson/Corp/Enron@ENRON, Jarod 
+Jenson/HOU/ECT@ECT, Christine Nguyen/HOU/ECT@ECT, Zhiyong Wei/HOU/ECT@ECT, 
+Ravi Ramachandran/HOU/ECT@ECT, Stacey W White/HOU/ECT@ECT, Jenny 
+Latham/HOU/ECT@ECT, Jenny Rub/GPGFIN/Enron@Enron
+cc: Sally Beck/HOU/ECT@ECT, Kevin M Presto/HOU/ECT@ECT, Tim 
+Belden/HOU/ECT@ECT 
+Subject: Power Port Calc Issues
+
+The Power risk group continues to experience severe instability with the 
+power port calc.  The same memory allocation issue which I discussed in the 
+message below is not resolved (we have had this problem for about four months 
+now).  Due to business reasons, we calculated the east power books on Monday 
+(Enron holiday).  We received all of the required data to calc by 9:30 AM and 
+should have been completely done by 11:30.  However, the calc crashed six 
+times and finally completed on the seventh try.  We were able to leave by 
+4:00.  The point I am trying to make is that I feel that we are at such a 
+state that there is risk that we could not provide positions to the traders 
+by the start of the next business day.  This could have a financial impact on 
+our company.  Once again, I am urgently and desperately asking for resolution 
+of this problem.
+Furthermore, it came to my attention on Friday that EES is now using EnPower 
+and the power port calc and they too are using the same server that we are.  
+I question this decision since we cannot seem to support the existing 
+business that is using that server.  Per discussion with Kevin Presto, the 
+agreement made regarding EES's use of EnPower was there would be no expense 
+or degradation to ENA's business process.  I think they need to move to 
+another server.
+Please call to discuss when this will be resolved.  Thank You.
+Kristin Albrecht
+3-4763
+
+
+---------------------- Forwarded by Kristin Albrecht/HOU/ECT on 07/05/2000 
+09:35 AM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  Kristin Albrecht                           05/15/2000 09:48 AM
+	
+
+To: Beth Perlman/HOU/ECT@ECT, Randy Matson/Corp/Enron@ENRON, Jarod 
+Jenson/HOU/ECT@ECT, Christine Nguyen/HOU/ECT@ECT, Zhiyong Wei/HOU/ECT@ECT, 
+Ravi Ramachandran/HOU/ECT@ECT, Stacey W White/HOU/ECT@ECT, Jenny 
+Latham/HOU/ECT@ECT
+cc:  
+Subject: athena vs quark
+
+With regards to the message below, we must have athena (server) to run our 
+nightly risk books for the power group.  We run one of our three east power 
+calcs on this machine (the second largest one).  Since an acceptable solution 
+for the big power calc has not been provided to us, athena CANNOT be taken 
+away from us.  The east power calc crashed 3 out of 5 days last week.  We 
+usually start calcing at about 4:00.  The calc time is now running at 1.5 
+hours and we have about 1.5 hours' worth of work after the calc's successful 
+completion.  So you do the math on what time my group leaves the building 
+when the calc crashes at 4:30.
+Furthermore, the West power calc has crashed 3 out of 5 nights weekly for the 
+last 3 weeks.  This is not acceptable.
+We are about to enter the busiest and most volatile time of the year and our 
+system is not stable.  I feel like we have been very patient at the expense 
+of many late nights.  I am going to speak to Kevin Presto and Tim Belden 
+today about these problems. 
+I think we need to meet immediately about this problem and I am exhausted 
+with the finger pointing between different IT groups.
+Thanks.
+Kristin Albrecht
+---------------------- Forwarded by Kristin Albrecht/HOU/ECT on 05/15/2000 
+09:27 AM ---------------------------
+   
+
+
+Christine Nguyen
+05/12/2000 01:01 PM
+To: Ravi Ramachandran/HOU/ECT@ECT
+cc: Randy Matson/Corp/Enron@ENRON 
+Subject: athena vs quark
+
+Ravi,
+       Please advise your users that athena will be completely unavailable 
+starting
+Wednesday17May2000.  The production server is quark (12gb RAMx18procs).
+quark is configured to our standard for your use.
+Thanks,
+-Christine
+
+
+
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:50 2022
+Message-ID: <4735310.1075849855817.JavaMail.evans@thyme>
+Date: Fri, 23 Feb 2001 06:55:00 -0800 (PST)
+From: richard.burchfield@enron.com
+To: mike.jordan@enron.com, mark.pickering@enron.com
+Subject: Production Migration Guidelines
+Cc: sally.beck@enron.com, beth.perlman@enron.com, stephen.stock@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: sally.beck@enron.com, beth.perlman@enron.com, stephen.stock@enron.com
+X-From: Richard Burchfield
+X-To: Mike Jordan, Mark Pickering
+X-cc: Sally Beck, Beth Perlman, Stephen Stock
+X-bcc: 
+X-Folder: \Sally_Beck_Nov2001\Notes Folders\It - misc.
+X-Origin: BECK-S
+X-FileName: sbeck.nsf
+
+Mike & Mark,
+ Due to IT created production issues in Enron's mission critical applications 
+since the first of 2001 the following guidelines will need to be adhered with 
+several exceptions.
+ Guidelines:
+   In the Houston application environment there will be no production 
+migrations +- 5 days of the end on month.
+
+   Development teams will be moving to a more standard production migration 
+schedule. Schedule to be rolled out in     March 2001.
+
+   IT will be removed from production access with the exception of 1 or 2 
+senior developers per team. 
+  
+
+ Exceptions:
+  Production fixes will move into production as they do today.
+
+  Application enhancements that have been formally approved by the Business 
+and IT.
+
+  New applications that are in their start-up phase.
+
+  Current processes that require IT intervention in order for it to be 
+successful. Processes will be reviewed in order to    replace in the future 
+with automation.
+
+All the Houston IT leads are aware of these guidelines and exceptions. 
+
+Richard
+
+From MAILER-DAEMON Mon Apr 18 14:23:50 2022
+Message-ID: <11743504.1075855878530.JavaMail.evans@thyme>
+Date: Mon, 28 Feb 2000 10:30:00 -0800 (PST)
+From: enron.announcements@enron.com
+To: all.houston@enron.com
+Subject: Copyright Distribution
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: All Enron Houston
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\It - misc.
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+There have been growing concerns regarding the copying and distribution of 
+licensed and copyrighted materials among various groups within Enron.  For 
+example, if you are a subscriber to Petroleum Argus, Intelligence Press, 
+Energy Intelligence, Opis, or any other information source, it is unlawful to 
+copy and distribute that information among others if only one 
+license/subscription is ordered.
+
+Such activity exposes Enron to legal ramifications and reflects poorly on our 
+reputation as a professional and ethical company. 
+
+If you have copyrighted material that you would like distributed, please 
+contact either Bruce Ferrell at 853-4815, or Julie Pechersky at 853-9225 in 
+Market Data, to address the issue.
+
+Thank you for your cooperation in this matter. 
+
+From MAILER-DAEMON Mon Apr 18 14:23:50 2022
+Message-ID: <3240020.1075855878245.JavaMail.evans@thyme>
+Date: Mon, 23 Oct 2000 04:05:00 -0700 (PDT)
+From: louise.kitchen@enron.com
+To: sheri.thomas@enron.com
+Subject: Re: Status - "PCG wish list"
+Cc: david.forster@enron.com, andy.zipper@enron.com, sally.beck@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: david.forster@enron.com, andy.zipper@enron.com, sally.beck@enron.com
+X-From: Louise Kitchen
+X-To: Sheri Thomas
+X-cc: David Forster, Andy Zipper, Sally Beck
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\It - misc.
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Thanks for the update.  
+
+No point in pushing Andrew back though, that's the point of an audit.
+
+Louise
+
+
+
+
+To: Louise Kitchen/HOU/ECT@ECT
+cc: David Forster/Corp/Enron@Enron, Andy Zipper/Corp/Enron@Enron, Sally 
+Beck/HOU/ECT@ECT 
+
+Subject: Status - "PCG wish list"
+
+I just wanted to give you an update on where we are on the PCG wish list.   
+We discussed about a month ago the fact that we had close to 200 items on our 
+list of development/enhancements to our applications.  We met on numerous 
+occasions with Mark D. and team to prioritize, etc.  However, I think 
+primarily due to the reorg in IT, and Mark leaving the team, we have done a 
+lot of talking over the past three weeks, but nothing has happened to date.  
+Jennifer and I met with Hal Elrod yesterday, and I have met with Bob Hillier 
+a couple of times, and we seem to be on the right track now.  I know Bob 
+Hiller is looking for people in his group to support these needs.  
+
+My concern is growing due to the fact that Andrew Parsons and team will be 
+re-auditing us before the end of the year.  The key control weakness of the 
+PCG was the lack of Profiles Manger - I have stressed that this is #1 on the 
+list of things to do.  I think we are fairly close, but we will need to start 
+and complete testing over the next several weeks.   My hope is that we push 
+Andrew back as far as possible!  
+
+Please let me know if you have any questions - 
+
+Sheri
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:50 2022
+Message-ID: <27373673.1075856060150.JavaMail.evans@thyme>
+Date: Tue, 17 Oct 2000 09:59:00 -0700 (PDT)
+From: stephen.stock@enron.com
+To: sally.beck@enron.com
+Subject: Re: Cover
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Stephen Stock
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Jun2001\Notes Folders\It - misc.
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Sally,
+
+here's the names
+
+Steve
+
+---------------------- Forwarded by Stephen Stock/HOU/ECT on 10/17/2000 04:56 
+PM ---------------------------
+From: Jeremy Wong on 10/17/2000 04:33 PM
+To: Stephen Stock/HOU/ECT@ECT
+cc: Zhiyong Wei/HOU/ECT@ECT 
+Subject: Re: Cover  
+
+
+Steve:
+
+Cecilia Cheung is on the 31and
+Margie Nguyen is on the 32
+floor support desks.
+
+Jeremy
+x3-0573
+
+
+
+   
+	
+	
+	From:  Stephen Stock                           10/17/2000 04:23 PM
+	
+
+To: Zhiyong Wei/HOU/ECT@ECT, Jeremy Wong/HOU/ECT@ECT
+cc:  
+Subject: Cover
+
+Zhiyong / Jeremy,
+
+I need to give Sally Beck a name(s) for the extended cover tonight.
+
+Could I have this name before our meeting at 5pm please?
+
+regards
+
+Steve
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:50 2022
+Message-ID: <19785069.1075855878181.JavaMail.evans@thyme>
+Date: Fri, 10 Nov 2000 07:55:00 -0800 (PST)
+From: daniel.muschar@enron.com
+To: patti.thompson@enron.com, sally.beck@enron.com
+Subject: Jornada Directions
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Daniel Muschar
+X-To: Patti Thompson, Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\It - misc.
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Good Day to both of you:
+
+  Sorry to have gotten these to you a little late.  I hope this helps you 
+with any problems.
+
+Call me if you need anything:
+
+Daniel A. Muschar
+Trader Support Group
+281-541-6203
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:50 2022
+Message-ID: <2143102.1075855878290.JavaMail.evans@thyme>
+Date: Wed, 18 Oct 2000 02:48:00 -0700 (PDT)
+From: beth.perlman@enron.com
+To: john.lavorato@enron.com
+Subject: Re: Systems - ERMS
+Cc: philippe.bibi@enron.com, sally.beck@enron.com, jeffrey.gossett@enron.com,
+	stephen.stock@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+Bcc: philippe.bibi@enron.com, sally.beck@enron.com, jeffrey.gossett@enron.com,
+	stephen.stock@enron.com
+X-From: Beth Perlman
+X-To: John J Lavorato
+X-cc: Philippe A Bibi, Sally Beck, Jeffrey C Gossett, Stephen Stock
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\It - misc.
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+John,
+
+These issues are being addressed by Steve Stock and Chris Hanz in my area a=
+s=20
+well as people on the infrastructure side (in Jenny Rub's organization).  W=
+e=20
+understand the significance of these problems and they have not gone=20
+unrecognised.  There are 3 components to this plan, the DBA fixes are noted=
+=20
+below (I know it's a lot of technical terms, but this is a highly complex=
+=20
+problem).  The other 2 pieces are the application and the hardware.  I will=
+=20
+include these plans as soon as I receive them.
+
+My team stayed last night with Jeff Gossett and his folks.  A number of ite=
+ms=20
+came out of observing what transpires in risk.  We feel that there are many=
+=20
+performance enhancements that can be made to the macros to speed up non ERM=
+S=20
+processing.   I'll keep you posted on what we find and the plans to fix the=
+m.
+
+Beth
+
+
+
+Database Observed Problems
+
+? OS - Severe I/O contention (due to 6 years old disk storage device)
+? OS - Max CPU utilization (due to wait I/O contention)
+? DB - Redo Log Sync (synchronization of Redo information memory with disk)
+? DB - Shared Pool fragmentation (due to unbound SQL )
+? DB - Inefficient buffer cache utilization (due to inefficient SQL)
+
+
+Recommendation
+
+Short Term
+
+? Alleviate Shared Pool contention
+- increased Shared Pool size
+- disabled MTS
+- increased session_cached_cursors
+Implemented on 10/15/2000
+
+? Alleviate Redo Log Sync
+- increased redo_log_buffer
+Implemented on 10/15/2000
+
+? Alleviate I/O contention for rollback segment tablespace
+- added additional tablespace with 2/3more rollback segments
+Implemented on 10/17/2000
+
+? Alleviate I/O contention for redo logs
+- reorg disk storage and implement striping for Redo logs
+- turn on force direct I/O write for intensive volumes
+Under investigation =01) 2 days work
+
+? Turn on Veritas tuning feature
+- expect 5% improvement
+- tested on Shemp today
+Required system reboot=20
+
+? SQL Tuning=20
+Deliver Lists of expensive SQL with recommendation by 10/27/2000
+
+? Reassess CPR migration to different UNIX host
+Waiting for disk storage =01) 2 to 3 weeks
+       New 10K located in Ardmore
+
+Long Term
+
+? Latest storage technology
+
+? Capacity planning
+
+? ERMT and CPR application review
+
+? Upgrade ERMT to 8I
+
+
+
+
+
+
+=09John J Lavorato@ENRON
+=0910/17/2000 01:31 PM
+=09=09=20
+=09=09 To: Beth Perlman/HOU/ECT@ECT, Philippe A Bibi/HOU/ECT@ECT
+=09=09 cc:=20
+=09=09 Subject: Systems - ERMS
+
+
+---------------------- Forwarded by John J Lavorato/Corp/Enron on 10/17/200=
+0=20
+01:25 PM ---------------------------
+  =20
+=09
+=09
+=09From:  Jeffrey C Gossett @ ECT                           10/17/2000 09:4=
+5 AM
+=09
+
+To: John J Lavorato/Corp/Enron@Enron
+cc: =20
+
+Subject: Systems - ERMS
+
+John -
+
+Again,  we are having "big time" systems issues.  While we are having the=
+=20
+usual length of time issues (a few people were here past midnight last=20
+night), the issues that occured last night are much more serious than in th=
+e=20
+past.  The system brought through totally inaccurate information on a few=
+=20
+books.  (Positions,  value,  etc.)  Luckily, these errors were all caught=
+=20
+last night,  but if a less experienced person had been on those books,  it=
+=20
+could have been a disaster.  (Traders getting incorrect positions and p&l a=
+nd=20
+interest rate and credit getting incorrect numbers.)  I have contacted thos=
+e=20
+in ERMS that need to be involved,  but I would appreciate it if you could=
+=20
+provide additional support to this effort.
+
+Thanks,
+
+Jeff
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:50 2022
+Message-ID: <6285391.1075855878376.JavaMail.evans@thyme>
+Date: Fri, 4 Aug 2000 12:10:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: all.enron@enron.com
+Subject: Oracle Client Upgrade
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Enron Announcements
+X-To: All Worldwide Enron
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\It - misc.
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+In approximately one month (9/9/2000), we are targeting that a new version of 
+the Oracle NT client (8.1.6), Borland Database Engine (BDE) 5.1.1 and 
+Microsoft Data Access Components (MDAC) 2.5. to all Corp/ENA workstations. 
+This software provides the connectivity from your workstation to Enron's 
+Oracle databases and the applications supported by them.  We are currently in 
+the process of testing all the applications managed by Corp/ENA Information 
+Technology to ensure that they will be compliant with this new software.
+
+This change may also effect your own developed MS-Access, MS-Excel 
+spreadsheets, and/or MS-Query documents that retrieve data from Enron's 
+Oracle databases via ODBC drivers. As part of the upgrade, all Oracle ODBC 
+connections will be upgraded to compliant driver versions. 
+
+If you would like to test your MS-Access databases and/or MS-Excel 
+spreadsheets under the new software releases, please use one of the 
+workstations at one of the following locations for your testing:
+
+General users
+EB2230D
+EB2778B
+EB0504P
+EB4857
+
+Traders and developers only please
+EB2904E 
+EB3067
+EB3138B
+
+You may contact your floor support representative for any testing assistance.
+
+From MAILER-DAEMON Mon Apr 18 14:23:50 2022
+Message-ID: <23941989.1075855878423.JavaMail.evans@thyme>
+Date: Wed, 21 Jun 2000 12:22:00 -0700 (PDT)
+From: enron.announcements@enron.com
+To: e.houston@enron.com
+Subject: IT Security and Standards Notice
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ANSI_X3.4-1968
+Content-Transfer-Encoding: quoted-printable
+X-From: Enron Announcements
+X-To: E N A Houston
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\It - misc.
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Information Risk Management =01) IT Security and Standards Notice
+=20
+Passwords
+The key to maintaining information and systems security is the use of=20
+well-selected and guarded passwords.  Please remember, your password is our=
+=20
+first line of defense. It is important that:
+? Your password should be unique and only known to you.
+? Your password should never be shared with someone else.
+? A password must never be written down (i.e. post-it notes), stored in fil=
+es=20
+on personal computers, at workstations, hidden under keyboards, configured =
+on=20
+terminal hot-keys, etc.
+? Passwords must be changed every 60 days.
+
+Strong password selection criteria will soon be automated for all employees=
+. =20
+For instructions on selecting a good password or to the view the company=20
+password policy and standards, click here:=20
+http://itcentral.enron.com/data/policiesandprocedures/ITPasswordScreenSaver
+
+Please keep in mind that the Enron Conduct of Business Affairs holds=20
+employees responsible for password security.  Information Risk Management=
+=20
+conducts periodic audits to ensure compliance with company policy. =20
+
+For any problems encountered concerning password controls, please call your=
+=20
+appropriate Help Desk (available: 24Hrs./day, 7 days/week).
+
+From MAILER-DAEMON Mon Apr 18 14:23:50 2022
+Message-ID: <8277310.1075855878463.JavaMail.evans@thyme>
+Date: Thu, 8 Jun 2000 13:59:00 -0700 (PDT)
+From: mary.solmonson@enron.com
+To: sally.beck@enron.com
+Subject: Re: TDS project
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Mary Solmonson
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\It - misc.
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+You might hear of this, so I thought I better forward to you.
+
+---------------------- Forwarded by Mary Solmonson/HOU/ECT on 06/08/2000 
+08:53 PM ---------------------------
+
+
+Mary Solmonson
+06/08/2000 08:57 PM
+To: Scott Mills/HOU/ECT@ECT
+cc: Joel Henenberg/NA/Enron@Enron, Stephen Stock/HOU/ECT@ECT 
+Subject: Re: TDS project  
+
+I guess I have several comments to make to this string of mails....so why not 
+add one more mail...
+
+First off, Thomas is following up on my suggestion to check into TDS as when 
+we met a few weeks ago (on other issues)  I heard about TDS by name for the 
+first time - although I admit I was aware of work being done to replace the 
+Applix functionality.  You had remarked that you liked the TDS functionality 
+and wondered whether that was the way to go rather than continue to evolve 
+Enron Grid.  It is unfortunate that Bill is not more cooperative with Thomas' 
+request - more in the continuing saga of poor communication and information 
+sharing between our two teams.
+ 
+Clearly there needs to be much more communication and sharing of information 
+as Global Rate Services for many months 'bowed' to the Sitara team's 
+priorities for Enron Grid - which you now say probably won't be used.   There 
+are many priorities in the wings to benefit the processes of Global Rate 
+Services that without has caused us to continue to experience a high rate of 
+errors - causing large impact to the P&L ($600,000 just the other day) and to 
+the invoicing and payment processes.  
+
+I have been proceeding under the impression Enron Grid was a shared 
+application.  You clearly don't share that view as below you stated it is the 
+responsibility of another group.  Is that why you dropped pursuit of Enron 
+Grid and began developing TDS? 
+
+Perhaps IT could meet deliverables if we provided them with a well 
+thought-out plan and set of priorities, good communication, and solid project 
+management.  To pursue separate solutions to try to save a struggling Sitara 
+project may not have been the best answer.  We have exacerbated the IT 
+resource problem by having three applications that overlap in functionality 
+(Phoenix, MKM, and TDS) - oh, and pieces of ERMS too.  If that's the right 
+answer, let's be sure we've discussed it before frivolously and selfishly 
+pursuing our own solutions.  The 'users' you cite as knowing of TDS are not 
+users at all - they are IT project managers.   Will you not have expectations 
+of Global Rate Services to provide settled pricing as an input to derived 
+curves ?  Will Global Rate Services responsibility end at the Phoenix door 
+and it's someone else's problem if the price doesn't reflect correctly in 
+TDS?  
+
+Finally, it was certainly the intent that MKM would be the ultimate solution 
+for all time series publishing in the organization-but I believe there is 
+question as to whether it is the better technical solution and whether the 
+design can fulfill the requirements. I wasn't aware that the pilot version of 
+MKM contained any curve generation functionality.  It would be interesting to 
+know how that got done, when ENA IT wasn't able to meet the basic 
+deliverables of the MKM pilot.  Another disturbing element in all this 
+regarding IT is - why IT did not raise a red flag that on the business side 
+there were requests for overlapping functionality and conflicting priorities 
+- you know, the right hand doesn't know what the left hand is doing.
+
+As all have said before me, a gap analysis needs to be done and a plan 
+developed.  I look forward to increased communication and cooperation between 
+our teams.
+
+
+
+
+
+
+To: Thomas Araujo/Corp/Enron@ENRON, Yannis Tzamouranis/HOU/ECT@ECT
+cc: William E Kasemervisz/HOU/ECT@ECT, Judy Barnes/HOU/ECT@ECT, Vanessa 
+Schulte/Corp/Enron@Enron, Joel Henenberg/NA/Enron@Enron, Larrissa 
+Sharma/HOU/ECT@ECT, Allan Severude/HOU/ECT@ECT, Stephen Stock/HOU/ECT@ECT, 
+Mary Solmonson/HOU/ECT@ECT 
+Subject: Re: TDS project  
+
+Users outside of Sitara do know of TDS!  Yannis and his group have had 
+discussions with Allen Severude's group regarding the TDS/Tibco 
+infrastructure as well as review of "current state" Enron Grid.  Myself, 
+Larrissa Sharma, Allan Severude, Steve Stock and Yannis have also had similar 
+approach discussions.
+
+Please note that a small portion of TDS is the replacement of the curve 
+manager functionality that APPLIX currently provides (APPLIX is a trader 
+tool).  There has been much user input on how the curve manager in TDS will 
+be used.  Since EnronGrid/Rate Sever has not had an opportunity to handle the 
+real-time (publish/subscribe) updates yet, it was suggested the 
+infrastructure provided by TDS (i.e. Tibco) may be something to look.  Note 
+that TDS is mentioned because of the infrastructure.  The functionality 
+provided by the TDS curve manager does not encompass all the requirements 
+outlined in the EnronGrid documents (functionality lacking the most is 
+security, updating of "Published" pricing and the tie in to Rate Server -the 
+TDS curve manager is built on ERMS pub/curve codes because all the trade data 
+is TAGG).  Either way, the functionality that we have all been working 
+through regarding how curves get published as well as subscribed to does not 
+change.  Keep in mind that MKM also has curve generation functionality (to my 
+knowledge, no one in Houston was part of this development). 
+
+>From a technical perspective, several items need to be addressed:
+
+ Review/decision as to the technical direction of EnronGrid/Rate Server 
+infrastructure and publish/subscribe real time development.
+ Rate Server has no front end for curve generation.  EnronGrid was modified 
+to provide this functionality; however EnronGrid is the responsibility of a 
+different group
+  (logically, this needs to come together under the same group).
+ Does the TDS/Tibco infrastructure make sense (current EnronGrid/Rate Server 
+design assumes the curves are always updated to the Rate Sever database and 
+then    messaged from the database (potential performance impact); whereas 
+Tibco infrastructure does not require a database update first)
+ Does the MKM curve publish/subscribe supersede everything and provide a 
+"better" global technical solution (part of the London curve manager 
+development team will be in
+   Houston next week; therefore a briefing of the MKM curve manager is 
+something that we are trying to get done).  Functionally, this will require a 
+more vigorous gap
+   analysis review before a decision can be made. 
+
+I am open to additional discussions on the technical direction, but I do not 
+think that alot of additional functional documentation needs to be done and 
+timelines are not changing.
+
+SRM (x33548)
+
+
+
+
+
+Thomas Araujo @ ENRON
+
+06/08/2000 10:13 AM
+To: Yannis Tzamouranis/HOU/ECT@ECT, William E Kasemervisz/HOU/ECT@ECT
+cc: Judy Barnes/HOU/ECT@ECT, Scott Mills/HOU/ECT@ECT, Vanessa 
+Schulte/Corp/Enron@Enron, Joel Henenberg/NA/Enron@Enron 
+Subject: Re: TDS project  
+
+Bill,
+
+I don't think anyone outside of Sitara knows of TDS.  If you could give 
+myself and other interested parties a demo of TDS; I don't have a good 
+understanding of the TDS project.   If the project is similar to the Enron 
+Grid as it is indicated in Yannis's response, the business users need to come 
+together and decide the system of choice.  Yannis makes good points of how to 
+come to a decision. I would change that the users provide the important 
+features, advantages, and shortcomings of each product as they see it.   I 
+would gather the users' needs and timeline.  After deciding, I would then 
+like to get IT involved to finalize a decision.  I would like to get the 
+discussion started fairly soon due to the impeding business needs.  
+
+The first thing I would suggest is have a demo of both products to inform all 
+impacted business users.  Bill, can we setup a demo for tomorrow or early 
+next week.
+
+Thomas
+
+
+
+Yannis Tzamouranis@ECT
+06/08/2000 08:24 AM
+To: William E Kasemervisz/HOU/ECT@ECT
+cc: Thomas Araujo/Corp/Enron@ENRON, Scott Mills/HOU/ECT@ECT 
+
+Subject: Re: TDS project  
+
+Bill, 
+
+I have had presentations of both of these projects (that is not to say that I 
+know them well).
+
+Since, according to Scott the choice is still open, we have to make a 
+concious decision as to which way we go.  In my mind, this is a decision that 
+has to be made by the user with my team's support.  I do not want and should 
+not drive this decision.  The decision should be driven by the user, based on 
+usage (business) requirements.  What the Phoenix group will provide is a 
+server that does (or soon will) satisfy your business requirements.  The 
+front end plug in is, I think,  a decoupled issue in a server-client 
+environment.
+
+On the other hand, I think we should help you with the choice (if you so want 
+us).  I would actively consult with you to set up the choosing process, which 
+I imagine would go somewhat like this:
+I would suggest that we do, again and all deciding parties together,  get 
+demos of each of these products. 
+Business should put together a bullet point list of the functionality needed 
+(even a timeline) and how the tool will be used so both Allan and Mike 
+understand your needs clearly.
+I also suggest that we ask TDS and Enron Grid  to provide us with a short 
+document outlining the important features, advantages and shortcomings of 
+each product as they see it.  Released features should be separated from 
+future improvements; the latter should be be accompanied by a time line.  
+Limitations should be listed explicitly.
+We take our impressions from the demos along with the writeups in a room and 
+make the decision.
+If needed, business might have to spend the time to play with each of these 
+products for a short period of time.
+
+In my mind it is important to make choices like this one that will affect 
+business for a long time based on enumerated and well understood facts (such 
+that usually get lost from a short demo).
+
+Please let me know what you think,
+
+Yannis
+
+
+
+William E Kasemervisz
+06/07/2000 08:37 PM
+To: Thomas Araujo/Corp/Enron@ENRON, Yannis Tzamouranis/HOU/ECT@ECT
+cc:  
+Subject: Re: TDS project  
+
+I'm not sure what you want to go over.  If you and Yannis would like to have 
+a demo of the TDS & Grid applications let me know & I'll try to set something 
+up with Scott also, so we can discuss GRID/TDS Curve Manager/ MKM.  
+
+
+
+
+Thomas Araujo @ ENRON
+
+06/07/2000 10:13 AM
+To: William E Kasemervisz/HOU/ECT@ECT
+cc:  
+Subject: TDS project
+
+Bill,
+Can you give me more information to the TDS you are working on like the due 
+dates, the scope, etc.  If you got some requirements documents or the 
+business plan on the project, it would be better.  I just want to get a 
+better picture of how Enron Grid fits in the big picture.
+
+
+Thanks,
+Thomas
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From MAILER-DAEMON Mon Apr 18 14:23:50 2022
+Message-ID: <15211370.1075855878353.JavaMail.evans@thyme>
+Date: Tue, 3 Oct 2000 05:37:00 -0700 (PDT)
+From: stephen.stock@enron.com
+To: simon.sear@enron.com, mary.solmonson@enron.com, michael.moscoso@enron.com,
+	jenny.lu@enron.com, ganapathy.ramesh@enron.com, sally.beck@enron.com,
+	joel.henenberg@enron.com
+Subject: Risk Focus Group
+Cc: debbie.brackett@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: debbie.brackett@enron.com
+X-From: Stephen Stock
+X-To: Simon Sear, Mary Solmonson, Michael E Moscoso, Jenny Lu, Ganapathy Ramesh, Sally Beck, Joel Henenberg
+X-cc: Debbie R Brackett
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\It - misc.
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+I've created a project in LiveLink called "Risk Issues Focus Group", in an 
+attempt to centralise the communication between our groups.
+
+To access it enter this in your browser address line
+
+ edms.livelink.enron.com/ena 
+When the page loads, there will a drop down box in the top-right corner with 
+the words "Go to...."
+Select that and then select Personal Workspace.
+At this point its a good idea to add the browser page to your Favorites as 
+you can then get back to your Personal Workspace directly
+You will see a row of Tabs just under the header bar and one in particular 
+called "Projects". If you select it a page will be displayed showing all the 
+Projects that you are currently a member of, own, or a guest of.
+In that list of projects you should see "Risk Issues Focus Group"
+Select that and you will be presented with the Project page..... there is a 
+search bar and a scrolling news header plus the following
+An Issues Discussion Forum
+A News Channel
+An IT and Business Task List
+Folders for Documentation and Process maps
+this was my first stab at a layout...but it's free-format, so we can do what 
+we like with it
+....I've started adding documentation already and there are some news items 
+and a few IT Tasks identified.
+I would welcome comments !
+
+regards
+
+Steve
+
+From MAILER-DAEMON Mon Apr 18 14:23:50 2022
+Message-ID: <19883401.1075855878509.JavaMail.evans@thyme>
+Date: Wed, 15 Mar 2000 04:57:00 -0800 (PST)
+From: tommy.yanowski@enron.com
+To: beth.perlman@enron.com, sally.beck@enron.com, brent.price@enron.com,
+	brenda.herod@enron.com
+Subject: "CHANGE" Meeting Levering our IT/e-commerce infrastructure
+Cc: peggy.mccurley@enron.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Bcc: peggy.mccurley@enron.com
+X-From: Tommy J Yanowski
+X-To: Beth Perlman, Sally Beck, Brent A Price, Brenda Herod
+X-cc: Peggy McCurley
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\It - misc.
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+Please read the meeting notice below.  Janet Dietrich's assistant set up this 
+meeting at my request.  We want to present to the originators what IT 
+Services are being provided to Bridgeline, discuss the value this can bring 
+to ENA and talk about other potential deals in the works.  The thought is to 
+spur additional value creation for Enron by offering services to our 
+customers.  This would impact not only IT but Commercial Operations as well.  
+Having them understand what value the two groups can bring to the table and 
+how important it is for our groups to be in on the front end of these deals 
+is important so that these potential deals are negotiated & structured 
+correctly.  Please plan on attending if your schedules permit.  -  Tommy
+
+Peggy:  Please make sure this gets on Philippe's schedule.  
+
+---------------------- Forwarded by Tommy J Yanowski/HOU/ECT on 03/15/2000 
+12:44 PM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  Janet R Dietrich                           03/15/2000 10:59 AM
+	
+
+Sent by: Kay Chapman
+To: Jeffery Ader/HOU/ECT@ECT, Scott Affelt/HOU/ECT@ECT, Donald M- ECT 
+Origination Black/HOU/ECT@ECT, Mark Bernstein/HOU/ECT@ECT, Oscar 
+Dalton/HOU/ECT@ECT, Michael Danielson/HOU/ECT@ECT, Phil 
+DeMoes/Corp/Enron@ENRON, James I Ducote/HOU/ECT@ECT, David L 
+Fairley/HOU/ECT@ECT, Mathew Gimble/HOU/ECT@ECT, Raimund 
+Grube/Corp/Enron@ENRON, Scott Healy/HOU/ECT@ECT, Brian 
+Hulse/Corp/Enron@ENRON, Ben Jacoby/HOU/ECT@ECT, Jeffrey M Keenan/HOU/ECT@ECT, 
+Gregory Krause/Corp/Enron@Enron, Steve Krimsky/Corp/Enron@Enron, Dave 
+Kristich/HOU/ECT@ECT, Heather Kroll/HOU/ECT@ECT, Billy 
+Lemmons/Corp/Enron@ENRON, Sandra McDonald/HOU/ECT@ECT, Vince 
+Middleton/HOU/ECT@ECT, Michael Miller/HOU/ECT@ECT, Fred Mitro/HOU/ECT@ECT, 
+John Moore/Corp/Enron@Enron, Gil Muhl/Corp/Enron@ENRON, Ozzie 
+Pagan/HOU/ECT@ECT, Michelle Parks/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, 
+Stephen Plauche/Corp/Enron@Enron, Benjamin Rogers/HOU/ECT@ECT, Clay 
+Spears/HOU/ECT@ECT, Tom Swank/HOU/ECT@ECT, Robert P Virgo/HOU/ECT@ECT, Jason 
+R Wiesepape/HOU/ECT@ECT, Barbara G Dillard/HOU/ECT@ECT, Laura 
+Luce/HOU/ECT@ECT, Russell E Murrell/HOU/ECT@ECT, Gregg 
+Penman/Corp/Enron@Enron@ECT, Richard Tomaski/HOU/ECT@ECT, Cary M 
+Carrabine/HOU/ECT@ECT, Kevin P Radous/HOU/ECT@ECT, Tommy J 
+Yanowski/HOU/ECT@ECT, Philippe A Bibi/HOU/ECT@ECT
+cc: Janet R Dietrich/HOU/ECT@ECT 
+Subject: "CHANGE" Meeting Levering our IT/e-commerce infrastructure
+
+    PLEASE READ THE FOLLOWING:
+
+DUE TO CONFLICTS IN A NUMBER OF SCHEDULES WE HAVE CHANGED THE MEETING TO 
+REFLECT THE FOLLOWING. 
+
+I TRIED TO SCHEDULE THIS FOR MARCH 28, HOWEVER, I RAN INTO MORE CONFLICTS AND 
+I HAD TO MOVE IT TO MARCH 27TH.(MONDAY)
+
+
+Janet has asked me to arrange the following meeting:
+
+
+  Date:  March 27, 2000
+    Monday
+
+  Time:  1:30 pm - 2:30 pm
+
+  Location: 30C1
+
+  Topic:  Leveraging our IT/e-commerce infrastructure
+
+If you have any questions/conflicts, please feel free to call me @ 853-0643.
+
+Thanks,
+
+Kay 
+
+From MAILER-DAEMON Mon Apr 18 14:23:50 2022
+Message-ID: <87030.1075855878486.JavaMail.evans@thyme>
+Date: Fri, 17 Mar 2000 01:31:00 -0800 (PST)
+From: brenda.herod@enron.com
+To: sally.beck@enron.com
+Subject: "CHANGE" Meeting Levering our IT/e-commerce infrastructure
+Mime-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+X-From: Brenda F Herod
+X-To: Sally Beck
+X-cc: 
+X-bcc: 
+X-Folder: \Sally_Beck_Dec2000\Notes Folders\It - misc.
+X-Origin: Beck-S
+X-FileName: sbeck.nsf
+
+I would love to hear your thoughts on this.  Based on my involvement with 
+Bridgeline, I am very comfortable in this discussion.  The costs of the 
+services is probably the weakest area as we do not have numbers yet on the 
+costs we have been capturing in the E-work orders for Bridgeline.  However, I 
+do feel we will have very accurate numbers to provide in the future.  Give me 
+any other direction or thoughts you have.
+---------------------- Forwarded by Brenda F Herod/HOU/ECT on 03/17/2000 
+09:28 AM ---------------------------
+   
+                        	
+	Enron Technology
+	
+	From:  Tommy J Yanowski                           03/15/2000 12:57 PM
+	
+
+To: Beth Perlman, Sally Beck, Brent A Price/HOU/ECT@ECT, Brenda Herod
+cc: Peggy McCurley 
+Subject: "CHANGE" Meeting Levering our IT/e-commerce infrastructure
+
+Please read the meeting notice below.  Janet Dietrich's assistant set up this 
+meeting at my request.  We want to present to the originators what IT 
+Services are being provided to Bridgeline, discuss the value this can bring 
+to ENA and talk about other potential deals in the works.  The thought is to 
+spur additional value creation for Enron by offering services to our 
+customers.  This would impact not only IT but Commercial Operations as well.  
+Having them understand what value the two groups can bring to the table and 
+how important it is for our groups to be in on the front end of these deals 
+is important so that these potential deals are negotiated & structured 
+correctly.  Please plan on attending if your schedules permit.  -  Tommy
+
+Peggy:  Please make sure this gets on Philippe's schedule.  
+
+---------------------- Forwarded by Tommy J Yanowski/HOU/ECT on 03/15/2000 
+12:44 PM ---------------------------
+   
+	Enron North America Corp.
+	
+	From:  Janet R Dietrich                           03/15/2000 10:59 AM
+	
+
+Sent by: Kay Chapman
+To: Jeffery Ader/HOU/ECT@ECT, Scott Affelt/HOU/ECT@ECT, Donald M- ECT 
+Origination Black/HOU/ECT@ECT, Mark Bernstein/HOU/ECT@ECT, Oscar 
+Dalton/HOU/ECT@ECT, Michael Danielson/HOU/ECT@ECT, Phil 
+DeMoes/Corp/Enron@ENRON, James I Ducote/HOU/ECT@ECT, David L 
+Fairley/HOU/ECT@ECT, Mathew Gimble/HOU/ECT@ECT, Raimund 
+Grube/Corp/Enron@ENRON, Scott Healy/HOU/ECT@ECT, Brian 
+Hulse/Corp/Enron@ENRON, Ben Jacoby/HOU/ECT@ECT, Jeffrey M Keenan/HOU/ECT@ECT, 
+Gregory Krause/Corp/Enron@Enron, Steve Krimsky/Corp/Enron@Enron, Dave 
+Kristich/HOU/ECT@ECT, Heather Kroll/HOU/ECT@ECT, Billy 
+Lemmons/Corp/Enron@ENRON, Sandra McDonald/HOU/ECT@ECT, Vince 
+Middleton/HOU/ECT@ECT, Michael Miller/HOU/ECT@ECT, Fred Mitro/HOU/ECT@ECT, 
+John Moore/Corp/Enron@Enron, Gil Muhl/Corp/Enron@ENRON, Ozzie 
+Pagan/HOU/ECT@ECT, Michelle Parks/ENRON_DEVELOPMENT@ENRON_DEVELOPMENT, 
+Stephen Plauche/Corp/Enron@Enron, Benjamin Rogers/HOU/ECT@ECT, Clay 
+Spears/HOU/ECT@ECT, Tom Swank/HOU/ECT@ECT, Robert P Virgo/HOU/ECT@ECT, Jason 
+R Wiesepape/HOU/ECT@ECT, Barbara G Dillard/HOU/ECT@ECT, Laura 
+Luce/HOU/ECT@ECT, Russell E Murrell/HOU/ECT@ECT, Gregg 
+Penman/Corp/Enron@Enron@ECT, Richard Tomaski/HOU/ECT@ECT, Cary M 
+Carrabine/HOU/ECT@ECT, Kevin P Radous/HOU/ECT@ECT, Tommy J 
+Yanowski/HOU/ECT@ECT, Philippe A Bibi/HOU/ECT@ECT
+cc: Janet R Dietrich/HOU/ECT@ECT 
+Subject: "CHANGE" Meeting Levering our IT/e-commerce infrastructure
+
+    PLEASE READ THE FOLLOWING:
+
+DUE TO CONFLICTS IN A NUMBER OF SCHEDULES WE HAVE CHANGED THE MEETING TO 
+REFLECT THE FOLLOWING. 
+
+I TRIED TO SCHEDULE THIS FOR MARCH 28, HOWEVER, I RAN INTO MORE CONFLICTS AND 
+I HAD TO MOVE IT TO MARCH 27TH.(MONDAY)
+
+
+Janet has asked me to arrange the following meeting:
+
+
+  Date:  March 27, 2000
+    Monday
+
+  Time:  1:30 pm - 2:30 pm
+
+  Location: 30C1
+
+  Topic:  Leveraging our IT/e-commerce infrastructure
+
+If you have any questions/conflicts, please feel free to call me @ 853-0643.
+
+Thanks,
+
+Kay 
+
+
